@@ -1,0 +1,302 @@
+{
+  "Lai Châu": [
+    {
+      "from": [
+        { "commune": "xã Tà Mung", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Tà Hừa", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pha Mu", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Kim", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Mường Kim", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ta Gia", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Khoen On", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Khoen On", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Than Uyên", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Than", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Hua Nà", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Cang", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Than Uyên", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phúc Than", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Mít", "district": "huyện Than Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Mường Than", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hố Mít", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pắc Ta", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Pắc Ta", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tà Mít", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Sỏ", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Nậm Sỏ", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tân Uyên", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Trung Đồng", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Thân Thuộc", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Cần", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Tân Uyên", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phúc Khoa", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Khoa", "district": "huyện Tân Uyên", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Mường Khoa", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nà Tăm", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Bản Bo", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Bản Bo", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tam Đường", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Sơn Bình", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Bình Lư", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Bình Lư", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Giang Ma", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Hồ Thầu", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Tả Lèng", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Tả Lèng", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bản Hon", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Khun Há", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Khun Há", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Xe", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Thèn Sin", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Sin Suối Hồ", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Sin Suối Hồ", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phong Thổ", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Huổi Luông", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Ma Li Pho", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường So", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Phong Thổ", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tung Qua Lìn", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mù Sang", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Dào San", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Dào San", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vàng Ma Chải", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mồ Sì San", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pa Vây Sử", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Sì Lở Lầu", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Sì Lở Lầu", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hoang Thèn", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Bản Lang", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Khổng Lào", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Khổng Lào", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Làng Mô", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Tả Ngảo", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Tủa Sín Chải", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Tủa Sín Chải", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Sìn Hồ", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Sà Dề Phìn", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Phăng Sô Lin", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Tả Phìn", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Sìn Hồ", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phìn Hồ", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Ma Quai", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Hồng Thu", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Hồng Thu", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lùng Thàng", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Cha", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Tăm", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Nậm Tăm", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Pa Khóa", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Noong Hẻo", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pu Sam Cáp", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Pu Sam Cáp", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Hăn", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Cuổi", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Nậm Cuổi", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Căn Co", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Mạ", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Nậm Mạ", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Pì", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pú Đao", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Chăn Nưa", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Lê Lợi", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Lê Lợi", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Nậm Nhùn", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Manh", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nậm Hàng", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Nậm Hàng", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Chà", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Mô", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Mường Mô", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vàng San", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Hua Bum", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Hua Bum", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Ban", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Trung Chải", "district": "huyện Nậm Nhùn", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pa Tần", "district": "huyện Sìn Hồ", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Pa Tần", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Pa Vệ Sủ", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Bum Nưa", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Bum Nưa", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Mường Tè", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Can Hồ", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Bum Tở", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Bum Tở", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Khao", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Mường Tè", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Mường Tè", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ka Lăng", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Thu Lũm", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Thu Lũm", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tá Bạ", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Pa Ủ", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Pa Ủ", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Phong", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" },
+        { "commune": "phường Đông Phong", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" },
+        { "commune": "xã San Thàng", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Nùng Nàng", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Bản Giang", "district": "huyện Tam Đường", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "phường Tân Phong", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "phường Đoàn Kết", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" },
+        { "commune": "phường Quyết Tiến", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" },
+        { "commune": "phường Quyết Thắng", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Lản Nhì Thàng", "district": "huyện Phong Thổ", "province": "tỉnh Lai Châu" },
+        { "commune": "xã Sùng Phài", "district": "thành phố Lai Châu", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "phường Đoàn Kết", "province": "tỉnh Lai Châu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mù Cả", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Mù Cả", "province": "tỉnh Lai Châu" },
+      "note": "Xã không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "xã Tà Tổng", "district": "huyện Mường Tè", "province": "tỉnh Lai Châu" }
+      ],
+      "to": { "commune": "xã Tà Tổng", "province": "tỉnh Lai Châu" },
+      "note": "Xã không thực hiện sắp xếp"
+    }
+  ]
+}

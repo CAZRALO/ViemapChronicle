@@ -1,0 +1,206 @@
+{
+  "events": [
+    {
+      "id": "QuangBinh_LY_01",
+      "year": 1069,
+      "date": null,
+      "title": "Sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh",
+      "description": "Sau khi đánh bại quân Chiêm Thành, vua Lý Thánh Tông đã sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh (vùng đất Quảng Bình và bắc Quảng Trị ngày nay) vào lãnh thổ Đại Việt. Đây là cột mốc lịch sử xác lập chủ quyền của người Việt tại vùng đất này.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quảng Bình"
+      },
+      "related_figures": [
+        "Lý Thánh Tông",
+        "Lý Thường Kiệt"
+      ],
+      "tags": [
+        "Mở mang bờ cõi",
+        "Nhà Lý"
+      ]
+    },
+    {
+      "id": "QuangBinh_TRINH_NGUYEN_01",
+      "year": 1630,
+      "date": null,
+      "title": "Đào Duy Từ xây Lũy Thầy",
+      "description": "Để chống lại các cuộc tấn công của chúa Trịnh, chúa Nguyễn Phúc Nguyên đã giao cho Đào Duy Từ chỉ huy xây dựng hệ thống phòng thủ Lũy Thầy (Lũy Đào Duy Từ) kiên cố chạy dài từ núi Đầu Mâu đến cửa biển Nhật Lệ, giúp chúa Nguyễn giữ vững cơ nghiệp Đàng Trong.",
+      "location": {
+        "commune": "Phú Hải",
+        "district": "Thành phố Đồng Hới",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [
+        "Đào Duy Từ",
+        "Nguyễn Phúc Nguyên"
+      ],
+      "tags": [
+        "Trịnh Nguyễn phân tranh",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "QuangBinh_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-09-19",
+      "title": "Vua Hàm Nghi xuống chiếu Cần Vương",
+      "description": "Tại căn cứ Sơn Phòng (Tuyên Hóa), vua Hàm Nghi đã chính thức ban dụ Cần Vương lần thứ hai (sau lần đầu tại Tân Sở, Quảng Trị), kêu gọi văn thân, sĩ phu và nhân dân cả nước đứng lên giúp vua cứu nước, thổi bùng ngọn lửa kháng chiến chống Pháp.",
+      "location": {
+        "commune": "Văn Hóa",
+        "district": "Tuyên Hóa",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [
+        "Hàm Nghi",
+        "Tôn Thất Thuyết"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "QuangBinh_REV_01",
+      "year": 1942,
+      "date": "1942-07-01",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Ga Kẻ Rấy)",
+      "description": "Tại khu vực Ga Kẻ Rấy, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Quảng Bình được thành lập. Đây là hạt nhân lãnh đạo phong trào cách mạng trong tỉnh tiến tới tổng khởi nghĩa.",
+      "location": {
+        "commune": "Cảnh Dương",
+        "district": "Bố Trạch",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [
+        "Quách Xuân Kỳ"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "QuangBinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Giành chính quyền tại Đồng Hới",
+      "description": "Hàng vạn quần chúng nhân dân từ các huyện đã kéo về thị xã Đồng Hới, tổ chức mít tinh và chiếm giữ các công sở. Chính quyền cách mạng lâm thời tỉnh Quảng Bình ra mắt nhân dân tại Quảng Bình Quan.",
+      "location": {
+        "commune": "Đồng Phú",
+        "district": "Thành phố Đồng Hới",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "QuangBinh_FRENCH_WAR_01",
+      "year": 1947,
+      "date": null,
+      "title": "Xây dựng Làng chiến đấu Cảnh Dương",
+      "description": "Làng biển Cảnh Dương đã tự rào làng, đào hầm hào, lập trạm gác, biến cả làng thành một pháo đài kháng chiến kiên cường ('Làng pháo đài'). Đây là điển hình xuất sắc về chiến tranh nhân dân, nhiều lần đánh lui các cuộc càn quét của quân Pháp.",
+      "location": {
+        "commune": "Cảnh Dương",
+        "district": "Quảng Trạch",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Du kích chiến"
+      ]
+    },
+    {
+      "id": "QuangBinh_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-05-19",
+      "title": "Trận Xuân Bồ",
+      "description": "Bộ đội chủ lực (Trung đoàn 18) phối hợp với du kích địa phương đã chặn đánh quyết liệt một binh đoàn cơ động của Pháp có xe lội nước và máy bay yểm trợ. Trận đánh gây tiếng vang lớn, được Đại tướng Võ Nguyên Giáp gửi thư khen.",
+      "location": {
+        "commune": "Xuân Thủy",
+        "district": "Lệ Thủy",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [
+        "Lâm Úy"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "QuangBinh_US_WAR_01",
+      "year": 1965,
+      "date": "1965-02-07",
+      "title": "Trận đầu đánh thắng không quân Mỹ (Chiến dịch Mũi Lao)",
+      "description": "Ngay sau khi Mỹ phát động chiến tranh phá hoại miền Bắc (sau sự kiện Vịnh Bắc Bộ và trận Pleiku), quân dân Đồng Hới đã bắn rơi máy bay phản lực Mỹ. Bác Hồ đã gửi thư khen quân dân Quảng Bình 'Chiến đấu giỏi, sản xuất cũng giỏi'.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Đồng Hới",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "QuangBinh_US_WAR_02",
+      "year": 1965,
+      "date": null,
+      "title": "Mẹ Suốt chèo đò trên sông Nhật Lệ",
+      "description": "Trong những năm tháng Mỹ ném bom ác liệt, Mẹ Nguyễn Thị Suốt (60 tuổi) vẫn kiên cường chèo đò chở bộ đội, thương binh và đạn dược qua sông Nhật Lệ dưới làn mưa bom bão đạn, trở thành biểu tượng của chủ nghĩa anh hùng cách mạng.",
+      "location": {
+        "commune": "Bảo Ninh",
+        "district": "Thành phố Đồng Hới",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [
+        "Nguyễn Thị Suốt"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Anh hùng"
+      ]
+    },
+    {
+      "id": "QuangBinh_US_WAR_03",
+      "year": 1972,
+      "date": null,
+      "title": "Chiến công Hang Tám Cô",
+      "description": "Tại Km 16 đường 20 Quyết Thắng (tuyến đường huyết mạch chi viện cho miền Nam), 8 thanh niên xung phong đã hy sinh anh dũng khi bị bom Mỹ đánh sập cửa hang đá nơi họ trú ẩn. Đây là chứng tích đau thương nhưng hào hùng của lực lượng TNXP.",
+      "location": {
+        "commune": "Tân Trạch",
+        "district": "Bố Trạch",
+        "province": "Quảng Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thanh niên xung phong",
+        "Đường Trường Sơn"
+      ]
+    },
+    {
+      "id": "QuangBinh_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Tái lập tỉnh Quảng Bình",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Bình Trị Thiên (được hợp nhất từ năm 1976) trở lại thành 3 tỉnh: Quảng Bình, Quảng Trị và Thừa Thiên Huế. Tỉnh Quảng Bình bắt đầu công cuộc tái thiết và phát triển kinh tế xã hội.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quảng Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "BacGiang_LE_01",
+      "year": 1427,
+      "date": "1427-11-03",
+      "title": "Chiến thắng Xương Giang",
+      "description": "Sau khi vây hãm và hạ thành Xương Giang, quân Lam Sơn đã tổ chức trận địa phục kích, tiêu diệt và bắt sống toàn bộ đạo quân viện binh 7 vạn người của nhà Minh do Liễu Thăng và Mộc Thạnh chỉ huy. Chiến thắng này quyết định thắng lợi hoàn toàn của cuộc khởi nghĩa Lam Sơn.",
+      "location": {
+        "commune": "Xương Giang",
+        "district": "Thành phố Bắc Giang",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [
+        "Lê Lợi",
+        "Trần Nguyên Hãn",
+        "Lê Sát"
+      ],
+      "tags": [
+        "Khởi nghĩa Lam Sơn",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BacGiang_COLONIAL_01",
+      "year": 1884,
+      "date": "1884-03-16",
+      "title": "Khởi nghĩa Yên Thế bùng nổ",
+      "description": "Tại vùng núi Yên Thế, Lương Văn Nắm (Đề Nắm) đã tổ chức lễ tế cờ, chính thức phát động cuộc khởi nghĩa nông dân chống Pháp kéo dài gần 30 năm (sau này do Hoàng Hoa Thám lãnh đạo), gây cho quân Pháp nhiều tổn thất nặng nề.",
+      "location": {
+        "commune": "Phồn Xương",
+        "district": "Yên Thế",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [
+        "Hoàng Hoa Thám",
+        "Lương Văn Nắm"
+      ],
+      "tags": [
+        "Khởi nghĩa Yên Thế",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "BacGiang_COLONIAL_02",
+      "year": 1895,
+      "date": "1895-10-10",
+      "title": "Thành lập tỉnh Bắc Giang",
+      "description": "Toàn quyền Đông Dương ra Nghị định chia tỉnh Bắc Ninh thành hai tỉnh Bắc Ninh và Bắc Giang. Tỉnh lỵ Bắc Giang đặt tại Phủ Lạng Thương. Đây là mốc định hình địa giới hành chính tỉnh Bắc Giang thời cận đại.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bắc Giang",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "BacGiang_REV_01",
+      "year": 1938,
+      "date": "1938-08-01",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại cây gạo bến đò Mỹ Độ (Phủ Lạng Thương), Chi bộ Cộng sản đầu tiên của tỉnh Bắc Giang được thành lập. Sự kiện này đánh dấu bước ngoặt quan trọng trong phong trào cách mạng của tỉnh dưới sự lãnh đạo của Đảng.",
+      "location": {
+        "commune": "Mỹ Độ",
+        "district": "Thành phố Bắc Giang",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BacGiang_REV_02",
+      "year": 1943,
+      "date": null,
+      "title": "Xây dựng An toàn khu (ATK) II Hiệp Hòa",
+      "description": "Trung ương Đảng chọn huyện Hiệp Hòa làm An toàn khu II để che giấu cán bộ cấp cao và tổ chức các hội nghị quan trọng chuẩn bị cho Tổng khởi nghĩa. Nơi đây đã bảo vệ an toàn cho các đồng chí Trường Chinh, Hoàng Quốc Việt...",
+      "location": {
+        "commune": "Hoàng Vân",
+        "district": "Hiệp Hòa",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [
+        "Trường Chinh",
+        "Hoàng Quốc Việt"
+      ],
+      "tags": [
+        "Tiền khởi nghĩa",
+        "ATK"
+      ]
+    },
+    {
+      "id": "BacGiang_REV_03",
+      "year": 1945,
+      "date": "1945-08-18",
+      "title": "Giành chính quyền sớm nhất cả nước",
+      "description": "Chiều 18/8, lực lượng cách mạng đã chiếm Dinh Tuần phủ và các công sở tại Phủ Lạng Thương. Bắc Giang trở thành một trong 4 tỉnh giành chính quyền sớm nhất cả nước (cùng với Hải Dương, Hà Tĩnh, Quảng Nam) trong Cách mạng tháng Tám.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bắc Giang",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BacGiang_FRENCH_WAR_01",
+      "year": 1949,
+      "date": "1949-08-18",
+      "title": "Trận phục kích Cầu Lồ",
+      "description": "Bộ đội địa phương Bắc Giang phối hợp với dân quân du kích tổ chức trận phục kích táo bạo tại khu vực Cầu Lồ (trên đường 13, nay là QL37), tiêu diệt đoàn xe quân sự của Pháp, gây tiếng vang lớn trong phong trào du kích chiến.",
+      "location": {
+        "commune": "Bảo Đài",
+        "district": "Lục Nam",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phục kích"
+      ]
+    },
+    {
+      "id": "BacGiang_ADMIN_01",
+      "year": 1962,
+      "date": "1962-10-27",
+      "title": "Thành lập tỉnh Hà Bắc",
+      "description": "Quốc hội khóa II ra Nghị quyết hợp nhất hai tỉnh Bắc Ninh và Bắc Giang thành tỉnh Hà Bắc. Tỉnh lỵ ban đầu đặt tại thị xã Bắc Giang, sau chuyển về thị xã Bắc Ninh (một thời gian ngắn) rồi quay lại Bắc Giang.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "BacGiang_US_WAR_01",
+      "year": 1965,
+      "date": "1965-06-20",
+      "title": "Không chiến tại Sân bay Kép",
+      "description": "Sân bay Kép là căn cứ quan trọng của Không quân Việt Nam (nơi xuất kích của các máy bay MiG-17, MiG-21). Tại vùng trời Kép, nhiều trận không chiến ác liệt giữa không quân ta và máy bay Mỹ đã diễn ra nhằm bảo vệ cửa ngõ phía Bắc Hà Nội.",
+      "location": {
+        "commune": "Quang Thịnh",
+        "district": "Lạng Giang",
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Không quân"
+      ]
+    },
+    {
+      "id": "BacGiang_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Bắc Giang",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Hà Bắc trở lại thành hai tỉnh Bắc Ninh và Bắc Giang. Tỉnh Bắc Giang chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bắc Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

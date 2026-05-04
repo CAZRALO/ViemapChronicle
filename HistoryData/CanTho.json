@@ -1,0 +1,221 @@
+{
+  "events": [
+    {
+      "id": "CanTho_FOUNDING_01",
+      "year": 1739,
+      "date": null,
+      "title": "Khai sinh vùng đất Trấn Giang (Cần Thơ)",
+      "description": "Mạc Thiên Tích (con trai Mạc Cửu) hoàn thành việc khai phá vùng đất mới, chính thức đặt tên là Trấn Giang, thuộc về lãnh thổ Đàng Trong. Đây được xem là mốc khởi đầu cho sự hình thành và phát triển của thành phố Cần Thơ ngày nay.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [
+        "Mạc Thiên Tích"
+      ],
+      "tags": [
+        "Mở mang bờ cõi",
+        "Lịch sử hình thành"
+      ]
+    },
+    {
+      "id": "CanTho_COLONIAL_01",
+      "year": 1876,
+      "date": "1876-02-23",
+      "title": "Thành lập hạt Cần Thơ",
+      "description": "Thực dân Pháp ra Nghị định tách huyện Phong Phú khỏi tỉnh Vĩnh Long để lập hạt Cần Thơ (sau đổi thành tỉnh Cần Thơ). Từ đây, tên gọi Cần Thơ chính thức xuất hiện trên bản đồ hành chính và dần trở thành trung tâm ('Tây Đô') của miền Tây.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "CanTho_REV_01",
+      "year": 1929,
+      "date": "1929-11-10",
+      "title": "Thành lập Chi bộ An Nam Cộng sản Đảng (Cờ Đỏ)",
+      "description": "Tại đồn điền Cờ Đỏ, Chi bộ An Nam Cộng sản Đảng đầu tiên của Cần Thơ được thành lập do đồng chí Hà Huy Giáp làm Bí thư. Sự kiện này đánh dấu bước ngoặt quan trọng, đưa phong trào đấu tranh của nông dân và công nhân tại Tây Đô đi theo con đường cách mạng vô sản.",
+      "location": {
+        "commune": "Thới Đông",
+        "district": "Cờ Đỏ",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [
+        "Hà Huy Giáp",
+        "Ung Văn Khiêm"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "CanTho_REV_02",
+      "year": 1940,
+      "date": "1940-06-00",
+      "title": "Thành lập Liên Tỉnh ủy Cần Thơ",
+      "description": "Để chuẩn bị cho Khởi nghĩa Nam Kỳ, Xứ ủy Nam Kỳ quyết định thành lập Liên Tỉnh ủy Cần Thơ (gồm Cần Thơ, Sóc Trăng, Bạc Liêu) do đồng chí Tạ Uyên làm Bí thư. Cần Thơ trở thành trung tâm chỉ đạo phong trào cách mạng của cả vùng Hậu Giang.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [
+        "Tạ Uyên"
+      ],
+      "tags": [
+        "Tổ chức Đảng",
+        "Tiền khởi nghĩa"
+      ]
+    },
+    {
+      "id": "CanTho_REV_03",
+      "year": 1945,
+      "date": "1945-08-26",
+      "title": "Giành chính quyền tại Cần Thơ",
+      "description": "Hơn 20.000 đồng bào từ các quận Ô Môn, Châu Thành... kéo về sân vận động Cần Thơ dự mít tinh. Ủy ban Dân tộc giải phóng ra mắt, buộc Tỉnh trưởng Lưu Văn Thọ phải giao chính quyền. Cần Thơ giành chính quyền thắng lợi không đổ máu.",
+      "location": {
+        "commune": "Cái Khế",
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [
+        "Trần Văn Khéo"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "CanTho_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-11-12",
+      "title": "Trận Lê Bình (Mặt trận Cần Thơ)",
+      "description": "Quân Pháp tái chiếm Cần Thơ. Các lực lượng Cộng hòa Vệ binh và tự vệ chiến đấu đã anh dũng chặn đánh địch tại chợ Lê Bình (Cái Răng). Đồng chí Lê Bình, chỉ huy Quốc gia tự vệ cuộc, đã chiến đấu và hy sinh anh dũng (tên ông sau được đặt cho chợ và trường học tại đây).",
+      "location": {
+        "commune": "Lê Bình",
+        "district": "Cái Răng",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [
+        "Lê Bình"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Nam Bộ kháng chiến"
+      ]
+    },
+    {
+      "id": "CanTho_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-04-19",
+      "title": "Chiến thắng Tầm Vu IV",
+      "description": "Tại rạch Tầm Vu (khu vực giáp ranh Cần Thơ - Hậu Giang), quân ta chặn đánh đoàn xe quân sự Pháp, tiêu diệt 100 tên, thu khẩu pháo 105 ly đầu tiên ở Nam Bộ. Chiến thắng này vang dội khắp cả nước, đi vào bài hát nổi tiếng 'Tầm Vu'.",
+      "location": {
+        "commune": "Thạnh Xuân",
+        "district": "Châu Thành A (giáp ranh)",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến thắng lớn"
+      ]
+    },
+    {
+      "id": "CanTho_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân (Đánh sân bay Lộ Tẻ)",
+      "description": "Quân giải phóng tấn công đồng loạt vào các mục tiêu đầu não tại Tây Đô như: Sân bay Lộ Tẻ (sân bay quân sự lớn nhất miền Tây), Tòa Lãnh sự Mỹ, Đài phát thanh... Cuộc chiến đấu ác liệt diễn ra tại khu vực Vòng Cung, gây thiệt hại nặng nề cho không quân Mỹ.",
+      "location": {
+        "commune": "Trà Nóc",
+        "district": "Bình Thủy",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "CanTho_US_WAR_02",
+      "year": 1969,
+      "date": null,
+      "title": "Xây dựng 'Vòng cung lửa' (Vòng cung Cần Thơ)",
+      "description": "Tuyến Vòng cung (dài gần 30km chạy qua Ô Môn, Bình Thủy, Phong Điền) trở thành vùng tranh chấp quyết liệt nhất. Mỹ trút xuống đây hàng ngàn tấn bom đạn để bảo vệ đầu não vùng 4 chiến thuật. Quân dân Cần Thơ đã bám trụ 'một tấc không đi, một ly không rời', biến nơi đây thành 'Vòng cung lửa' bất tử.",
+      "location": {
+        "commune": null,
+        "district": "Phong Điền, Ô Môn",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Vùng tranh chấp"
+      ]
+    },
+    {
+      "id": "CanTho_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng thành phố Cần Thơ",
+      "description": "Chiều 30/4, sau khi Dương Văn Minh đầu hàng, lực lượng Quân khu 9 và nhân dân địa phương đã tiến vào chiếm lĩnh Bộ Tư lệnh Quân đoàn IV - Vùng 4 chiến thuật. Tướng Nguyễn Khoa Nam (Tư lệnh vùng 4) tự sát. Cần Thơ hoàn toàn giải phóng, chấm dứt chiến tranh tại miền Tây.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kiều",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [
+        "Nguyễn Khoa Nam"
+      ],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "CanTho_ADMIN_01",
+      "year": 2004,
+      "date": "2004-01-01",
+      "title": "Trở thành Thành phố trực thuộc Trung ương",
+      "description": "Thực hiện Nghị quyết 22/2003/QH11, tỉnh Cần Thơ được chia tách thành thành phố Cần Thơ trực thuộc Trung ương và tỉnh Hậu Giang. Sự kiện này khẳng định vị thế của Cần Thơ là đô thị loại I, trung tâm động lực của vùng Đồng bằng sông Cửu Long.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Cần Thơ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Nâng cấp đô thị"
+      ]
+    },
+    {
+      "id": "CanTho_CULTURE_01",
+      "year": 2016,
+      "date": "2016-11-18",
+      "title": "Văn hóa Chợ nổi Cái Răng là Di sản phi vật thể Quốc gia",
+      "description": "Bộ VHTT&DL công nhận Văn hóa Chợ nổi Cái Răng là Di sản văn hóa phi vật thể quốc gia. Đây là nét văn hóa đặc trưng độc đáo nhất của vùng sông nước miền Tây, thu hút du khách trong và ngoài nước.",
+      "location": {
+        "commune": "Lê Bình",
+        "district": "Cái Răng",
+        "province": "Cần Thơ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa",
+        "Du lịch"
+      ]
+    }
+  ]
+}

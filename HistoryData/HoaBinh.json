@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "HoaBinh_COLONIAL_01",
+      "year": 1886,
+      "date": "1886-06-22",
+      "title": "Thành lập tỉnh Mường (tiền thân tỉnh Hòa Bình)",
+      "description": "Toàn quyền Đông Dương Paul Bert ký Nghị định thành lập tỉnh Mường, tách vùng đất có đông người Mường cư trú từ tỉnh Hưng Hóa và Sơn Tây. Tỉnh lỵ đặt tại Chợ Bờ (nay thuộc huyện Đà Bắc). Đến tháng 11/1886, tỉnh Mường đổi tên thành tỉnh Hòa Bình.",
+      "location": {
+        "commune": "Vầy Nưa",
+        "district": "Đà Bắc",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [
+        "Paul Bert"
+      ],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "HoaBinh_REV_01",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Giành chính quyền tại tỉnh lỵ Phương Lâm",
+      "description": "Lực lượng Việt Minh và quần chúng nhân dân đã khởi nghĩa giành chính quyền tại châu lỵ Kỳ Sơn và tỉnh lỵ Phương Lâm (nay thuộc thành phố Hòa Bình). Ủy ban Cách mạng lâm thời tỉnh Hòa Bình được thành lập do đồng chí Vũ Thơ làm Chủ tịch.",
+      "location": {
+        "commune": "Phương Lâm",
+        "district": "Thành phố Hòa Bình",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [
+        "Vũ Thơ"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "HoaBinh_REV_02",
+      "year": 1947,
+      "date": "1947-05-22",
+      "title": "Thành lập Ban Cán sự Đảng tỉnh Hòa Bình",
+      "description": "Khu ủy Khu 2 ra quyết định thành lập Ban Cán sự Đảng tỉnh Hòa Bình (tiền thân của Tỉnh ủy Hòa Bình). Sự kiện này đánh dấu bước ngoặt quan trọng trong công tác lãnh đạo, chỉ đạo kháng chiến và kiến quốc tại địa phương.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "HoaBinh_FRENCH_WAR_01",
+      "year": 1951,
+      "date": "1951-12-10",
+      "title": "Mở màn Chiến dịch Hòa Bình",
+      "description": "Quân đội Nhân dân Việt Nam mở chiến dịch tiến công lớn vào phòng tuyến sông Đà và thị xã Hòa Bình, nhằm phá tan âm mưu chiếm đóng vùng tự do và cắt đứt liên lạc giữa Việt Bắc với Liên khu 3, Liên khu 4 của thực dân Pháp.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hòa Bình",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Chiến dịch Hòa Bình",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "HoaBinh_FRENCH_WAR_02",
+      "year": 1951,
+      "date": "1951-12-13",
+      "title": "Trận Giang Mỗ (Anh hùng Cù Chính Lan)",
+      "description": "Tại dốc Giang Mỗ (đường số 6), Tiểu đội trưởng Cù Chính Lan đã dũng cảm nhảy lên xe tăng Pháp, ném lựu đạn vào buồng lái tiêu diệt xe. Hành động quả cảm của anh đã trở thành biểu tượng anh hùng của chiến dịch Hòa Bình.",
+      "location": {
+        "commune": "Bình Thanh",
+        "district": "Cao Phong",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [
+        "Cù Chính Lan"
+      ],
+      "tags": [
+        "Chiến dịch Hòa Bình",
+        "Anh hùng"
+      ]
+    },
+    {
+      "id": "HoaBinh_FRENCH_WAR_03",
+      "year": 1952,
+      "date": "1952-02-23",
+      "title": "Giải phóng thị xã Hòa Bình",
+      "description": "Bị thiệt hại nặng nề và có nguy cơ bị bao vây tiêu diệt, quân Pháp buộc phải rút chạy khỏi thị xã Hòa Bình theo đường sông Đà. Chiến dịch Hòa Bình kết thúc thắng lợi, vùng giải phóng được mở rộng nối liền Tây Bắc và Việt Bắc.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hòa Bình",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Hòa Bình"
+      ]
+    },
+    {
+      "id": "HoaBinh_ECONOMY_01",
+      "year": 1958,
+      "date": "1958-04-01",
+      "title": "Thành lập Trường Thanh niên Lao động Xã hội chủ nghĩa",
+      "description": "Trường Thanh niên Lao động Xã hội chủ nghĩa Hòa Bình được thành lập tại xã Yên Mông. Đây là mô hình giáo dục mới 'vừa học vừa làm', đào tạo cán bộ cốt cán cho miền núi và là lá cờ đầu của ngành giáo dục miền Bắc lúc bấy giờ.",
+      "location": {
+        "commune": "Yên Mông",
+        "district": "Thành phố Hòa Bình",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Giáo dục",
+        "Mô hình điểm"
+      ]
+    },
+    {
+      "id": "HoaBinh_US_WAR_01",
+      "year": 1966,
+      "date": null,
+      "title": "Chiến đấu chống chiến tranh phá hoại của Mỹ",
+      "description": "Trong cuộc chiến tranh phá hoại lần thứ nhất, không quân Mỹ đã ném bom ác liệt vào thị xã Hòa Bình, Nhà máy in tiền (Chi Nê) và các tuyến giao thông. Quân dân Hòa Bình đã bắn rơi nhiều máy bay, trong đó dân quân Lạc Thủy bắn rơi chiếc F-4.",
+      "location": {
+        "commune": null,
+        "district": "Lạc Thủy",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "HoaBinh_ADMIN_01",
+      "year": 1975,
+      "date": "1975-12-27",
+      "title": "Thành lập tỉnh Hà Sơn Bình",
+      "description": "Tại kỳ họp thứ 2, Quốc hội khóa V đã thông qua Nghị quyết hợp nhất hai tỉnh Hà Tây và Hòa Bình thành tỉnh Hà Sơn Bình. Đây là chủ trương chiến lược nhằm xây dựng các đơn vị hành chính quy mô lớn sau ngày thống nhất đất nước.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "HoaBinh_ADMIN_02",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Hòa Bình",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hà Sơn Bình thành hai tỉnh Hòa Bình và Hà Tây. Tỉnh Hòa Bình chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/10/1991.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

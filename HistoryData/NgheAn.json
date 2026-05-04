@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "NgheAn_EARLY_01",
+      "year": 713,
+      "date": null,
+      "title": "Khởi nghĩa Mai Hắc Đế",
+      "description": "Mai Thúc Loan (Mai Hắc Đế) phát động cuộc khởi nghĩa chống lại ách đô hộ của nhà Đường. Ông chọn vùng Sa Nam làm căn cứ, xây dựng thành Vạn An (Nam Đàn) và giải phóng một vùng rộng lớn, giữ vững nền độc lập trong gần 10 năm.",
+      "location": {
+        "commune": "Vân Diên",
+        "district": "Nam Đàn",
+        "province": "Nghệ An"
+      },
+      "related_figures": [
+        "Mai Thúc Loan"
+      ],
+      "tags": [
+        "Bắc thuộc",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "NgheAn_TAYSON_01",
+      "year": 1788,
+      "date": null,
+      "title": "Xây dựng Phượng Hoàng Trung Đô",
+      "description": "Trên đường tiến quân ra Bắc đánh đuổi quân Thanh, Hoàng đế Quang Trung đã chọn vùng đất giữa núi Dũng Quyết và núi Kỳ Lân để xây dựng kinh đô mới mang tên Phượng Hoàng Trung Đô, với tầm nhìn chiến lược về một vị trí trung tâm đất nước.",
+      "location": {
+        "commune": "Trung Đô",
+        "district": "Thành phố Vinh",
+        "province": "Nghệ An"
+      },
+      "related_figures": [
+        "Quang Trung"
+      ],
+      "tags": [
+        "Tây Sơn",
+        "Kinh đô"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_01",
+      "year": 1925,
+      "date": "1925-07-14",
+      "title": "Thành lập Hội Phục Việt (tiền thân Tân Việt Cách mạng Đảng)",
+      "description": "Một nhóm trí thức yêu nước, tù chính trị cũ tại Vinh đã thành lập Hội Phục Việt tại núi Quyết. Đây là tổ chức tiền thân của Tân Việt Cách mạng Đảng, đóng vai trò quan trọng trong việc truyền bá chủ nghĩa Mác - Lênin tại Trung Kỳ.",
+      "location": {
+        "commune": "Trung Đô",
+        "district": "Thành phố Vinh",
+        "province": "Nghệ An"
+      },
+      "related_figures": [
+        "Lê Văn Huân",
+        "Trần Mộng Bạch"
+      ],
+      "tags": [
+        "Tổ chức chính trị",
+        "Yêu nước"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_02",
+      "year": 1930,
+      "date": "1930-05-01",
+      "title": "Bãi công Bến Thủy (Mở đầu Xô viết Nghệ Tĩnh)",
+      "description": "Công nhân Nhà máy Diêm, Nhà máy Cưa Bến Thủy và nông dân các xã lân cận đã tổ chức biểu tình quy mô lớn nhân ngày Quốc tế Lao động. Cờ búa liềm lần đầu tiên xuất hiện, mở đầu cho cao trào cách mạng 1930-1931.",
+      "location": {
+        "commune": "Bến Thủy",
+        "district": "Thành phố Vinh",
+        "province": "Nghệ An"
+      },
+      "related_figures": [
+        "Lê Mao"
+      ],
+      "tags": [
+        "Xô viết Nghệ Tĩnh",
+        "Phong trào công nhân"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_03",
+      "year": 1930,
+      "date": "1930-09-12",
+      "title": "Cuộc biểu tình Thái Lão (Đỉnh cao Xô viết Nghệ Tĩnh)",
+      "description": "Hơn 8.000 nông dân Hưng Nguyên kéo về phủ lỵ biểu tình. Thực dân Pháp đã cho máy bay ném bom vào đoàn người tay không, làm 217 người chết. Sự kiện đẫm máu này đã thổi bùng ngọn lửa đấu tranh, dẫn đến việc thành lập các chính quyền Xô viết nông dân tự quản.",
+      "location": {
+        "commune": "Thái Lão",
+        "district": "Hưng Nguyên",
+        "province": "Nghệ An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Xô viết Nghệ Tĩnh",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_04",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Giành chính quyền tại Vinh",
+      "description": "Ủy ban Khởi nghĩa tỉnh Nghệ An huy động lực lượng tự vệ và hàng vạn quần chúng chiếm Tòa Công sứ, Trại lính khố xanh và các công sở tại thị xã Vinh. Chính quyền về tay nhân dân trọn vẹn và không đổ máu.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vinh",
+        "province": "Nghệ An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_05",
+      "year": 1957,
+      "date": "1957-06-14",
+      "title": "Bác Hồ về thăm quê lần thứ nhất",
+      "description": "Sau 50 năm xa cách tìm đường cứu nước và lãnh đạo kháng chiến, Chủ tịch Hồ Chí Minh mới có dịp về thăm quê hương Kim Liên, Nam Đàn. Người đã xúc động nói chuyện với đồng bào, thăm lại ngôi nhà tranh thuở thiếu thời.",
+      "location": {
+        "commune": "Kim Liên",
+        "district": "Nam Đàn",
+        "province": "Nghệ An"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lãnh tụ",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "NgheAn_US_WAR_01",
+      "year": 1964,
+      "date": "1964-08-05",
+      "title": "Trận đầu đánh thắng không quân Mỹ (Sự kiện Vịnh Bắc Bộ)",
+      "description": "Trong cuộc tập kích đường không đầu tiên của Mỹ ra miền Bắc, quân dân Vinh - Bến Thủy phối hợp với Hải quân đã chiến đấu dũng cảm, bắn rơi 2 máy bay phản lực Mỹ, bắt sống phi công, mở đầu cuộc chiến tranh nhân dân đất đối không.",
+      "location": {
+        "commune": "Bến Thủy",
+        "district": "Thành phố Vinh",
+        "province": "Nghệ An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "NgheAn_US_WAR_02",
+      "year": 1968,
+      "date": "1968-10-31",
+      "title": "Sự hy sinh của 13 thanh niên xung phong Truông Bồn",
+      "description": "Tại 'tọa độ lửa' Truông Bồn (trọng điểm giao thông huyết mạch chi viện cho miền Nam), 13 chiến sĩ Thanh niên xung phong thuộc Tiểu đội 2 (Đại đội 317) đã anh dũng hy sinh do bom Mỹ khi đang san lấp hố bom để thông đường, chỉ vài giờ trước khi lệnh ngừng ném bom có hiệu lực.",
+      "location": {
+        "commune": "Mỹ Sơn",
+        "district": "Đô Lương",
+        "province": "Nghệ An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Thanh niên xung phong",
+        "Truông Bồn"
+      ]
+    },
+    {
+      "id": "NgheAn_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Nghệ An",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Nghệ Tĩnh (hợp nhất từ năm 1976) trở lại thành hai tỉnh Nghệ An và Hà Tĩnh. Nghệ An trở thành tỉnh có diện tích lớn nhất Việt Nam.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Nghệ An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

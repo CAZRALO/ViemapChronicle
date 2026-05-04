@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "id": "KienGiang_FOUNDING_01",
+      "year": 1708,
+      "date": null,
+      "title": "Mạc Cửu dâng đất Hà Tiên cho Chúa Nguyễn",
+      "description": "Mạc Cửu (một thương nhân người Hoa có công khai phá vùng đất Hà Tiên) đã dâng biểu xin sáp nhập vùng đất này vào lãnh thổ Đàng Trong. Chúa Nguyễn Phúc Chu chấp thuận, phong Mạc Cửu làm Tổng binh trấn Hà Tiên. Sự kiện này chính thức xác lập chủ quyền của Đại Việt tại vùng biển Tây Nam.",
+      "location": {
+        "commune": "Bình San",
+        "district": "Thành phố Hà Tiên",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [
+        "Mạc Cửu",
+        "Nguyễn Phúc Chu"
+      ],
+      "tags": [
+        "Mở mang bờ cõi",
+        "Họ Mạc"
+      ]
+    },
+    {
+      "id": "KienGiang_RESISTANCE_01",
+      "year": 1868,
+      "date": "1868-06-16",
+      "title": "Trận đánh đồn Kiên Giang (Kiếm bạt Kiên Giang)",
+      "description": "Anh hùng dân tộc Nguyễn Trung Trực đã chỉ huy nghĩa quân cải trang, bất ngờ đánh úp đồn Kiên Giang (Rạch Giá) của Pháp. Nghĩa quân tiêu diệt chủ tỉnh Chánh Phèn và làm chủ tình hình trong 5 ngày. Đây là trận đánh chiếm lại đồn binh đầu tiên của phong trào kháng Pháp tại Nam Kỳ.",
+      "location": {
+        "commune": "Vĩnh Thanh Vân",
+        "district": "Thành phố Rạch Giá",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [
+        "Nguyễn Trung Trực"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Chiến công"
+      ]
+    },
+    {
+      "id": "KienGiang_REV_01",
+      "year": 1932,
+      "date": null,
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Vĩnh Thuận)",
+      "description": "Tại làng Vĩnh Thuận (thuộc vùng U Minh Thượng), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Rạch Giá (nay là Kiên Giang) được thành lập. Đây là mốc son đánh dấu sự ra đời của hạt nhân lãnh đạo phong trào cách mạng tại vùng căn cứ địa U Minh.",
+      "location": {
+        "commune": "Vĩnh Thuận",
+        "district": "Vĩnh Thuận",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "U Minh Thượng"
+      ]
+    },
+    {
+      "id": "KienGiang_REV_02",
+      "year": 1945,
+      "date": "1945-08-27",
+      "title": "Giành chính quyền tại Rạch Giá và Hà Tiên",
+      "description": "Lực lượng Thanh niên Tiền phong và quần chúng nhân dân đã phối hợp chiếm Dinh Tỉnh trưởng Rạch Giá và các công sở tại Hà Tiên. Chính quyền thực dân sụp đổ, Ủy ban Hành chính lâm thời tỉnh Rạch Giá và Hà Tiên được thành lập.",
+      "location": {
+        "commune": null,
+        "district": "Rạch Giá, Hà Tiên",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "KienGiang_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-06-01",
+      "title": "Chiến thắng Xẻo Rô",
+      "description": "Tiểu đoàn 307 và Tiểu đoàn 302 phối hợp với bộ đội địa phương tấn công tiêu diệt cứ điểm Xẻo Rô (An Biên) và Chi khu Tắc Cậu. Đây là trận công kiên lớn nhất ở miền Tây trong kháng chiến chống Pháp, giải phóng hoàn toàn huyện An Biên và vùng U Minh Thượng.",
+      "location": {
+        "commune": "Hưng Yên",
+        "district": "An Biên",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_01",
+      "year": 1962,
+      "date": "1962-01-09",
+      "title": "Nữ anh hùng Phan Thị Ràng (Chị Sứ) hy sinh",
+      "description": "Chị Phan Thị Ràng (nguyên mẫu của nhân vật Chị Sứ trong tác phẩm 'Hòn Đất' của Anh Đức) bị địch bắt và tra tấn dã man đến chết ngay dưới chân núi Hòn Đất. Sự hy sinh của chị đã trở thành biểu tượng cho lòng kiên trung của người phụ nữ Nam Bộ.",
+      "location": {
+        "commune": "Thổ Sơn",
+        "district": "Hòn Đất",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [
+        "Phan Thị Ràng"
+      ],
+      "tags": [
+        "Anh hùng",
+        "Hòn Đất"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_02",
+      "year": 1967,
+      "date": "1967-07-00",
+      "title": "Mở rộng Trại giam Tù binh Chiến tranh Phú Quốc",
+      "description": "Chính quyền Mỹ - Ngụy mở rộng quy mô Trại giam Phú Quốc (Nhà lao Cây Dừa) lên tới 400 ha, giam giữ gần 40.000 tù binh cộng sản. Nơi đây đã diễn ra những cuộc tra tấn tàn bạo nhất nhưng cũng là nơi chứng kiến những cuộc vượt ngục và đấu tranh kiên cường nhất.",
+      "location": {
+        "commune": "An Thới",
+        "district": "Thành phố Phú Quốc",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Nhà tù",
+        "Tội ác chiến tranh"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_03",
+      "year": 1969,
+      "date": "1969-05-00",
+      "title": "Trận chiến 132 ngày đêm tại Ba Hòn",
+      "description": "Quân dân Hòn Đất đã kiên cường bám trụ hang động, đánh trả các đợt càn quét quy mô lớn của Mỹ - Ngụy vào khu vực Ba Hòn (Hòn Đất, Hòn Me, Hòn Sóc) trong suốt 132 ngày đêm, bảo vệ vững chắc căn cứ cách mạng.",
+      "location": {
+        "commune": "Thổ Sơn",
+        "district": "Hòn Đất",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến đấu"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng Rạch Giá và Hà Tiên",
+      "description": "Lực lượng vũ trang tỉnh phối hợp với quần chúng nổi dậy chiếm các cơ quan đầu não địch. Đến chiều ngày 30/4, thị xã Rạch Giá và thị xã Hà Tiên được giải phóng, góp phần hoàn thành sự nghiệp thống nhất đất nước.",
+      "location": {
+        "commune": null,
+        "district": "Rạch Giá, Hà Tiên",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "KienGiang_BORDER_WAR_01",
+      "year": 1975,
+      "date": "1975-05-03",
+      "title": "Quân Khmer Đỏ đánh chiếm đảo Thổ Chu",
+      "description": "Lợi dụng tình hình ta vừa giải phóng, quân Pol Pot đã đổ bộ đánh chiếm đảo Phú Quốc (bị ta đẩy lùi) và đảo Thổ Chu. Tại Thổ Chu, chúng đã bắt cóc và sát hại hơn 500 người dân vô tội. Quân đội nhân dân Việt Nam sau đó đã tổ chức phản công giải phóng đảo (24/5/1975).",
+      "location": {
+        "commune": "Thổ Châu",
+        "district": "Thành phố Phú Quốc",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới",
+        "Hải đảo"
+      ]
+    },
+    {
+      "id": "KienGiang_ADMIN_01",
+      "year": 2021,
+      "date": "2021-01-01",
+      "title": "Thành lập Thành phố Phú Quốc (Thành phố đảo đầu tiên)",
+      "description": "Ủy ban Thường vụ Quốc hội thông qua Nghị quyết thành lập thành phố Phú Quốc thuộc tỉnh Kiên Giang. Đây là thành phố đảo đầu tiên của Việt Nam, đánh dấu bước phát triển vượt bậc về kinh tế du lịch và vị thế biển đảo của quốc gia.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phú Quốc",
+        "province": "Kiên Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Đô thị hóa"
+      ]
+    }
+  ]
+}

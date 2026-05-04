@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "NinhThuan_CHAMPA_01",
+      "year": 1300,
+      "date": null,
+      "title": "Xây dựng tháp Po Klong Garai",
+      "description": "Vua Chế Mân (Jaya Simhavarman III) cho xây dựng cụm tháp Po Klong Garai trên đồi Trầu để thờ vị vua huyền thoại Po Klong Garai. Đây là công trình kiến trúc đẹp nhất và hùng vĩ nhất còn lại của vương quốc Champa, trung tâm tín ngưỡng của vùng Panduranga.",
+      "location": {
+        "commune": "Đô Vinh",
+        "district": "Thành phố Phan Rang - Tháp Chàm",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [
+        "Po Klong Garai",
+        "Chế Mân"
+      ],
+      "tags": [
+        "Văn hóa Champa",
+        "Kiến trúc"
+      ]
+    },
+    {
+      "id": "NinhThuan_NGUYEN_01",
+      "year": 1832,
+      "date": "1832-10-01",
+      "title": "Thành lập phủ Ninh Thuận",
+      "description": "Vua Minh Mạng thực hiện cải cách hành chính, xóa bỏ quy chế tự trị của Thuận Thành trấn, thiết lập tỉnh Bình Thuận gồm 2 phủ là Ninh Thuận và Hàm Thuận. Đây là mốc lịch sử đánh dấu sự ra đời của danh xưng và địa giới hành chính Ninh Thuận.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phan Rang - Tháp Chàm",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "NinhThuan_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Thành lập Chi bộ Đảng Tháp Chàm",
+      "description": "Tại khu vực Nhà máy xe lửa Tháp Chàm (được ví như 'trái tim' công nghiệp của khu vực), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Ninh Thuận được thành lập. Đây là hạt nhân lãnh đạo phong trào đấu tranh của công nhân đường sắt và nhân dân địa phương.",
+      "location": {
+        "commune": "Đô Vinh",
+        "district": "Thành phố Phan Rang - Tháp Chàm",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Phong trào công nhân"
+      ]
+    },
+    {
+      "id": "NinhThuan_REV_02",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Giành chính quyền tại Phan Rang",
+      "description": "Hàng ngàn quần chúng nhân dân có lực lượng tự vệ hỗ trợ đã bao vây Tòa Công sứ và Trại Bảo an binh. Quản đạo Ninh Thuận buộc phải bàn giao ấn tín. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Ninh Thuận được thành lập.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phan Rang - Tháp Chàm",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [
+        "Trần Thi"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "NinhThuan_US_WAR_01",
+      "year": 1960,
+      "date": "1960-08-30",
+      "title": "Cuộc nổi dậy Bác Ái",
+      "description": "Dưới ánh sáng Nghị quyết 15, đồng bào các dân tộc huyện Bác Ái đã đồng loạt nổi dậy phá kìm kẹp, giải phóng hoàn toàn huyện Bác Ái. Đây là căn cứ địa cách mạng vững chắc, là 'Việt Bắc' của tỉnh Ninh Thuận trong kháng chiến chống Mỹ.",
+      "location": {
+        "commune": "Phước Đại",
+        "district": "Bác Ái",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đồng khởi",
+        "Căn cứ địa"
+      ]
+    },
+    {
+      "id": "NinhThuan_US_WAR_02",
+      "year": 1970,
+      "date": "1970-08-10",
+      "title": "Trận tập kích Sân bay Thành Sơn",
+      "description": "Đặc công tỉnh Ninh Thuận phối hợp với đơn vị chủ lực Quân khu 6 đã bí mật tập kích Sân bay Thành Sơn - căn cứ không quân chiến lược của Mỹ-Ngụy, phá hủy nhiều máy bay và kho tàng, gây tiếng vang lớn trên chiến trường Nam Trung Bộ.",
+      "location": {
+        "commune": "Thành Sơn",
+        "district": "Thành phố Phan Rang - Tháp Chàm",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Đặc công"
+      ]
+    },
+    {
+      "id": "NinhThuan_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-16",
+      "title": "Giải phóng Ninh Thuận (Đập tan lá chắn Phan Rang)",
+      "description": "Quân đoàn 3 phối hợp với lực lượng địa phương tấn công chọc thủng 'Lá chắn thép' Phan Rang của địch. Ta làm chủ Sân bay Thành Sơn và thị xã Phan Rang, bắt sống Trung tướng Nguyễn Vĩnh Nghi. Chiến thắng này mở toang cánh cửa cho đại quân tiến về Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phan Rang - Tháp Chàm",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [
+        "Hoàng Minh Thảo",
+        "Nguyễn Vĩnh Nghi"
+      ],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "NinhThuan_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Thành lập tỉnh Thuận Hải",
+      "description": "Thực hiện chủ trương của Chính phủ, ba tỉnh Ninh Thuận, Bình Thuận và Bình Tuy được hợp nhất thành tỉnh Thuận Hải. Tỉnh lỵ đặt tại thị xã Phan Thiết.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "NinhThuan_ADMIN_02",
+      "year": 1992,
+      "date": "1992-04-01",
+      "title": "Tái lập tỉnh Ninh Thuận",
+      "description": "Theo Nghị quyết của Quốc hội khóa VIII, tỉnh Thuận Hải được chia tách trở lại thành hai tỉnh Bình Thuận và Ninh Thuận. Tỉnh Ninh Thuận chính thức đi vào hoạt động, tập trung phát triển kinh tế biển và năng lượng.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "NinhThuan_CULTURE_01",
+      "year": 2022,
+      "date": "2022-11-29",
+      "title": "Gốm Chăm được UNESCO ghi danh",
+      "description": "Nghệ thuật làm gốm của người Chăm (tiêu biểu là làng gốm Bàu Trúc, Ninh Thuận) được UNESCO ghi danh vào danh sách Di sản văn hóa phi vật thể cần bảo vệ khẩn cấp. Đây là sự công nhận quốc tế đối với nét văn hóa độc đáo của vùng đất Ninh Thuận.",
+      "location": {
+        "commune": "Phước Dân",
+        "district": "Ninh Phước",
+        "province": "Ninh Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa",
+        "Di sản UNESCO"
+      ]
+    }
+  ]
+}

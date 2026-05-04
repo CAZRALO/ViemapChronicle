@@ -1,0 +1,1027 @@
+{
+  "Hải Phòng": [
+    {
+      "from": [
+        { "commune": "phường Dương Quan", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Thủy Đường", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Hoa Động", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường An Lư", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Thủy Hà", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Thủy Nguyên", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thiên Hương", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hoàng Lâm", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Lê Hồng Phong", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Hoa Động", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Thiên Hương", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hòa Bình", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường An Lư", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Thủy Hà", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Hòa Bình", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nam Triệu Giang", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Lập Lễ", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Tam Hưng", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Nam Triệu", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Minh Đức", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Bạch Đằng", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Phạm Ngũ Lão", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Bạch Đằng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trần Hưng Đạo", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Lưu Kiếm", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần xã Liên Xuân", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần xã Quang Trung", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Lưu Kiếm", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Quảng Thanh", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Lê Hồng Phong", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại xã Quang Trung", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Lê Ích Mộc", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ninh Sơn", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại xã Liên Xuân", "district": "huyện Thủy Nguyên", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Việt Khê", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hoàng Văn Thụ", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Minh Khai", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Phan Bội Châu", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Thượng Lý", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Sở Dầu", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hùng Vương", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Gia Viên", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Hồng Bàng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Quán Toan", "district": "quận Hồng Bàng", "province": "thành phố Hải Phòng" },
+        { "commune": "phường An Hồng", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường An Hưng", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Đại Bản", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Lê Thiện", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Tân Tiến", "district": "huyện An Dương", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Hồng An", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Máy Chai", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Vạn Mỹ", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Cầu Tre", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Gia Viên", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Đông Khê", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Ngô Quyền", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Đằng Giang", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Cầu Đất", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Lạch Tray", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Gia Viên", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Đông Khê", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Gia Viên", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hàng Kênh", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Dư Hàng Kênh", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Kênh Dương", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường An Biên", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Trần Nguyên Hãn", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Vĩnh Niệm", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Cầu Đất", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Lạch Tray", "district": "quận Ngô Quyền", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Lê Chân", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Dương", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường An Biên", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Trần Nguyên Hãn", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Vĩnh Niệm", "district": "quận Lê Chân", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường An Biên", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cát Bi", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Đằng Lâm", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Thành Tô", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Đằng Hải", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Tràng Cát", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Nam Hải", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Đông Hải 2", "district": "quận Hải An", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Hải An", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Đông Hải 1", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Đông Hải 2", "district": "quận Hải An", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Nam Hải", "district": "quận Hải An", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Đông Hải", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "một phần phường Nam Sơn", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Đồng Hòa", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Bắc Sơn", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Trần Thành Ngọ", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Văn Đẩu", "district": "quận Kiến An", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Kiến An", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bắc Hà", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Ngọc Sơn", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần thị trấn Trường Sơn", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Nam Sơn", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Đồng Hòa", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Bắc Sơn", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Trần Thành Ngọ", "district": "quận Kiến An", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Văn Đẩu", "district": "quận Kiến An", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Phù Liễn", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Minh Đức", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Bàng La", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hợp Đức", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Vạn Hương", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Ngọc Xuyên", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Nam Đồ Sơn", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hải Sơn", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Tân Thành", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Vạn Hương", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Ngọc Xuyên", "district": "quận Đồ Sơn", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Đồ Sơn", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Đa Phúc", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hưng Đạo", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Anh Dũng", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hải Thành", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Hưng Đạo", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hòa Nghĩa", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Tân Thành", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Anh Dũng", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Hải Thành", "district": "quận Dương Kinh", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường Dương Kinh", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nam Sơn", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường An Hải", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Lê Lợi", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Đồng Thái", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Tân Tiến", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường An Hưng", "district": "huyện An Dương", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường An Dương", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Đồng", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hồng Thái", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần phường Lê Lợi", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường An Hải", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Đồng Thái", "district": "huyện An Dương", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường An Hải", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Hòa", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phường Hồng Phong", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Đại Bản", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Lê Thiện", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Tân Tiến", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại phường Lê Lợi", "district": "huyện An Dương", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "phường An Phong", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Thái", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "xã An Thọ", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Chiến Thắng", "district": "huyện An Dương", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã An Hưng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Viên", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Mỹ Đức", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần xã Thái Sơn", "district": "huyện An Lão", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã An Khánh", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quốc Tuấn", "district": "huyện An Dương", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Quang Trung", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Quang Hưng", "district": "huyện An Lão", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã An Quang", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bát Trang", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Trường Thọ", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Trường Thành", "district": "huyện An Lão", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã An Trường", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn An Lão", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "xã An Thắng", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tân Dân", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "xã An Tiến", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại thị trấn Trường Sơn", "district": "huyện An Lão", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại xã Thái Sơn", "district": "huyện An Lão", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã An Lão", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Núi Đối", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Thanh Sơn", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Thuận Thiên", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Hữu Bằng", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần xã Kiến Hưng", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Kiến Thụy", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Minh Tân", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Đại Đồng", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Đông Phương", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Kiến Minh", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Phong", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Đại Hợp", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tú Sơn", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần xã Đoàn Xá", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Kiến Hải", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Trào", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại xã Kiến Hưng", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại xã Đoàn Xá", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Kiến Hưng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ngũ Phúc", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Kiến Quốc", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Du Lễ", "district": "huyện Kiến Thụy", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Nghi Dương", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đại Thắng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tiên Cường", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tự Cường", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Quyết Thắng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tiên Lãng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Quyết Tiến", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tiên Thanh", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Khởi Nghĩa", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Tiên Lãng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cấp Tiến", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Kiến Thiết", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Đoàn Lập", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "một phần xã Tân Minh", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Tân Minh", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tiên Thắng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tiên Minh", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "phần còn lại xã Tân Minh", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Tiên Minh", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Hưng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Bắc Hưng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Đông Hưng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tây Hưng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Chấn Hưng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hùng Thắng", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Vinh Quang", "district": "huyện Tiên Lãng", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Hùng Thắng", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Vĩnh Bảo", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Vĩnh Hưng", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tân Hưng", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Tân Liên", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trấn Dương", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Hòa Bình", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Lý Học", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Nguyễn Bỉnh Khiêm", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tam Cường", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Cao Minh", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Liên Am", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Vĩnh Am", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tiền Phong", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Vĩnh Hải", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Vĩnh Hải", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Hòa", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Hùng Tiến", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Vĩnh Hòa", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thắng Thủy", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Trung Lập", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Việt Tiến", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Vĩnh Thịnh", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh An", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Giang Biên", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Dũng Tiến", "district": "huyện Vĩnh Bảo", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "xã Vĩnh Thuận", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cát Hải", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "thị trấn Cát Bà", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Đồng Bài", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Hoàng Châu", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Nghĩa Lộ", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Văn Phong", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Gia Luận", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Hiền Hào", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Phù Long", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Trân Châu", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Việt Hải", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" },
+        { "commune": "xã Xuân Đám", "district": "huyện Cát Hải", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "đặc khu Cát Hải", "province": "thành phố Hải Phòng" }
+    },
+    {
+      "from": [
+        { "commune": "huyện Bạch Long Vĩ", "district": "huyện Bạch Long Vĩ", "province": "thành phố Hải Phòng" }
+      ],
+      "to": { "commune": "đặc khu Bạch Long Vĩ", "province": "thành phố Hải Phòng" }
+    }
+  ],
+  "Hải Dương": [
+    {
+      "from": [
+        { "commune": "phường Trần Hưng Đạo", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Nhị Châu", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Ngọc Châu", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Quang Trung", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Hải Dương", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Bình", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Thanh Bình", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Lê Thanh Nghị", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần phường Trần Phú", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Lê Thanh Nghị", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Việt Hòa", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cao An", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần phường Tứ Minh", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "thị trấn Lai Cách", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Việt Hòa", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cẩm Thượng", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Bình Hàn", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Nguyễn Trãi", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã An Thượng", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Thành Đông", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nam Đồng", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Tiền Tiến", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Nam Đồng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hải Tân", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Tân Hưng", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Ngọc Sơn", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại phường Trần Phú", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Tân Hưng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thạch Khôi", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Gia Xuyên", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Liên Hồng", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thống Nhất", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Thạch Khôi", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Đoài", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại phường Tứ Minh", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại thị trấn Lai Cách", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Tứ Minh", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ái Quốc", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Quyết Thắng", "district": "thành phố Hải Dương", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Hồng Lạc", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Ái Quốc", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Sao Đỏ", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Văn An", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Chí Minh", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Thái Học", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần phường Cộng Hòa", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần phường Văn Đức", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Chu Văn An", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phả Lại", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Cổ Thành", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Nhân Huệ", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Chí Linh", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lê Lợi", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hưng Đạo", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại phường Cộng Hòa", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Trần Hưng Đạo", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bến Tắm", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Bắc An", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hoàng Hoa Thám", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Nguyễn Trãi", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hoàng Tân", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Hoàng Tiến", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần phường Văn Đức", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Trần Nhân Tông", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Dân", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường An Lạc", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Đồng Lạc", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Lê Đại Hành", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Lưu", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Hiệp An", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Long Xuyên", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Kinh Môn", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thái Thịnh", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Hiến Thành", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Minh Hòa", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Nguyễn Đại Năng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Phụ", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hiệp Hòa", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thượng Quận", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Trần Liễu", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thất Hùng", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Bạch Đằng", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Lê Ninh", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại phường Văn Đức", "district": "thành phố Chí Linh", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Bắc An Phụ", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phạm Thái", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường An Sinh", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Hiệp Sơn", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Phạm Sư Mạnh", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Dân", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Minh Tân", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Duy Tân", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "phường Phú Thứ", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "phường Nhị Chiểu", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quang Thành", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Lạc Long", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thăng Long", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Tuấn Việt", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Vũ Dũng", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Cộng Hòa", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Nam An Phụ", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Nam Sách", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hồng Phong", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đồng Lạc", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Nam Sách", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Minh Tân", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã An Sơn", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thái Tân", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Thái Tân", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quốc Tuấn", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hiệp Cát", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Trần Phú", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Trần Phú", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Hưng", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Nam Tân", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hợp Tiến", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hợp Tiến", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Bình", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "xã An Phú", "district": "huyện Nam Sách", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Cộng Hòa", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã An Phú", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thanh Hà", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thanh Sơn", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thanh Tân", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Thanh Hà", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân An", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã An Phượng", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thanh Hải", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hà Tây", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Việt", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Cẩm Việt", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Hồng Lạc", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hà Bắc", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Xuân", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Liên Mạc", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thanh Lang", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thanh An", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Hòa Bình", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hà Nam", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Hồng", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Vĩnh Cường", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thanh Quang", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hà Đông", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Trường", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cẩm Đông", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Phúc Điền", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Mao Điền", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lương Điền", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Ngọc Liên", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cẩm Hưng", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Phúc Điền", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Cẩm Giàng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cẩm Giang", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Định Sơn", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cẩm Hoàng", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Cẩm Giang", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đức Chính", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cẩm Vũ", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cẩm Văn", "district": "huyện Cẩm Giàng", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Tuệ Tĩnh", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Hưng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hùng Thắng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "thị trấn Kẻ Sặt", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Vĩnh Hồng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Kẻ Sặt", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Việt", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Long Xuyên", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hồng Khê", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Cổ Bì", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Vĩnh Hồng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Bình Giang", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "một phần xã Thúc Kháng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thái Minh", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Tân Hồng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thái Dương", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thái Hòa", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Đường An", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình Xuyên", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thanh Tùng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đoàn Tùng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thúc Kháng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thái Minh", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Tân Hồng", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thái Dương", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thái Hòa", "district": "huyện Bình Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Thượng Hồng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Gia Tiến", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần thị trấn Gia Lộc", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Gia Phúc", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Yết Kiêu", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Lê Lợi", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Gia Lộc", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "phần còn lại xã Thống Nhất", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Lê Lợi", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Yết Kiêu", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Yết Kiêu", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Toàn Thắng", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hoàng Diệu", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hồng Hưng", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Thống Kênh", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đoàn Thượng", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Quang Đức", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại thị trấn Gia Lộc", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Gia Phúc", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Gia Phúc", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phạm Trấn", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Nhật Quang", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thống Kênh", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Đoàn Thượng", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Quang Đức", "district": "huyện Gia Lộc", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần thị trấn Thanh Miện", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Trường Tân", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tứ Kỳ", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Minh Đức", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Quang Khải", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Quang Phục", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Tứ Kỳ", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đại Hợp", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Tân Kỳ", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Dân An", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kỳ Sơn", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Hưng Đạo", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Tân Kỳ", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình Lãng", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đại Sơn", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thanh Hải", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Hưng Đạo", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Đại Sơn", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Thanh", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Văn Tố", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Chí Minh", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Chí Minh", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quang Trung", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Lạc Phượng", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "một phần xã Tiên Động", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Lạc Phượng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hà Kỳ", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Nguyên Giáp", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hà Thanh", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Tiên Động", "district": "huyện Tứ Kỳ", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Nguyên Giáp", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Ninh Giang", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Vĩnh Hòa", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hồng Dụ", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hiệp Lực", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Ninh Giang", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ứng Hòe", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Tân Hương", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Nghĩa An", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Vĩnh Lại", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình Xuyên", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hồng Phong", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kiến Phúc", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Khúc Thừa Dụ", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Phong", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã An Đức", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đức Phúc", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Tân An", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Quang", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Văn Hội", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Hưng Long", "district": "huyện Ninh Giang", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hồng Châu", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cao Thắng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Ngũ Hùng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Tứ Cường", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại thị trấn Thanh Miện", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Thanh Miện", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hồng Quang", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Lam Sơn", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Lê Hồng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Bắc Thanh Miện", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Trào", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Ngô Quyền", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đoàn Kết", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Hải Hưng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phạm Kha", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Nhân Quyền", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thanh Tùng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Đoàn Tùng", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Nguyễn Lương Bằng", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hồng Phong", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Thanh Giang", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Chi Lăng Bắc", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Chi Lăng Nam", "district": "huyện Thanh Miện", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Nam Thanh Miện", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phú Thái", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kim Xuyên", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kim Anh", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kim Liên", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thượng Quận", "district": "thị xã Kinh Môn", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Phú Thái", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lai Khê", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Vũ Dũng", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Tuấn Việt", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Cộng Hòa", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Thanh An", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Cẩm Việt", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Lai Khê", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ngũ Phúc", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kim Tân", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Kim Đính", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã An Thành", "province": "tỉnh Hải Dương" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đồng Cẩm", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Tam Kỳ", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "xã Đại Đức", "district": "huyện Kim Thành", "province": "tỉnh Hải Dương" },
+        { "commune": "phần còn lại xã Hòa Bình", "district": "huyện Thanh Hà", "province": "tỉnh Hải Dương" }
+      ],
+      "to": { "commune": "xã Kim Thành", "province": "tỉnh Hải Dương" }
+    }
+  ]
+}

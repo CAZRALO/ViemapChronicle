@@ -1,0 +1,204 @@
+{
+  "events": [
+    {
+      "id": "BacLieu_FOUNDING_01",
+      "year": 1899,
+      "date": "1899-12-20",
+      "title": "Thành lập tỉnh Bạc Liêu",
+      "description": "Toàn quyền Đông Dương Paul Doumer ký Nghị định tách hạt tham biện Bạc Liêu từ tỉnh Hà Tiên để thành lập tỉnh Bạc Liêu. Tỉnh chính thức đi vào hoạt động từ ngày 1/1/1900. Đây là mốc khởi đầu cho đơn vị hành chính cấp tỉnh của vùng đất này.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bạc Liêu",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "BacLieu_CULTURE_01",
+      "year": 1919,
+      "date": "1919-08-15",
+      "title": "Ra đời bản 'Dạ cổ hoài lang'",
+      "description": "Tại làng Vĩnh Hương, nhạc sĩ Cao Văn Lầu đã sáng tác bản 'Dạ cổ hoài lang' (Đêm nghe tiếng trống nhớ chồng). Tác phẩm này là tiền thân của các bản vọng cổ, đánh dấu bước phát triển rực rỡ của nghệ thuật Đờn ca tài tử và sân khấu Cải lương Nam Bộ.",
+      "location": {
+        "commune": "Phường 2",
+        "district": "Thành phố Bạc Liêu",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [
+        "Cao Văn Lầu"
+      ],
+      "tags": [
+        "Văn hóa",
+        "Đờn ca tài tử"
+      ]
+    },
+    {
+      "id": "BacLieu_RESISTANCE_01",
+      "year": 1927,
+      "date": "1927-05-00",
+      "title": "Cuộc nổi dậy Ninh Thạnh Lợi",
+      "description": "Nông dân Ninh Thạnh Lợi dưới sự lãnh đạo của 'Chủ Chọt' (Trần Kim Túc) đã đứng lên đấu tranh chống lại sự cướp đất của địa chủ Pháp và tay sai. Tuy bị đàn áp đẫm máu, sự kiện này đã thể hiện tinh thần phản kháng mạnh mẽ của nông dân Bạc Liêu trước khi có Đảng.",
+      "location": {
+        "commune": "Ninh Thạnh Lợi",
+        "district": "Hồng Dân",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [
+        "Trần Kim Túc"
+      ],
+      "tags": [
+        "Phong trào nông dân",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "BacLieu_RESISTANCE_02",
+      "year": 1928,
+      "date": "1928-02-16",
+      "title": "Vụ án Đồng Nọc Nạn",
+      "description": "Gia đình nông dân Biện Toại và Mười Chức tại cánh đồng Nọc Nạn (Phong Thạnh) đã dũng cảm chiến đấu chống lại bọn cường hào, địa chủ và lính mã tà đến cướp lúa, cướp đất. Vụ án gây chấn động toàn Đông Dương, buộc tòa án thực dân phải xử trắng án cho gia đình nạn nhân.",
+      "location": {
+        "commune": "Phong Thạnh A",
+        "district": "Thị xã Giá Rai",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [
+        "Biện Toại",
+        "Mười Chức"
+      ],
+      "tags": [
+        "Phong trào nông dân",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "BacLieu_REV_01",
+      "year": 1930,
+      "date": "1930-02-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Làng Phong Thạnh)",
+      "description": "Ngay sau khi Đảng Cộng sản Việt Nam ra đời, Chi bộ Đảng đầu tiên của tỉnh Bạc Liêu được thành lập tại làng Phong Thạnh (nay thuộc Giá Rai), do đồng chí Nguyễn Văn Uye (Chín Uye) làm Bí thư. Đây là hạt nhân lãnh đạo cách mạng đầu tiên của tỉnh.",
+      "location": {
+        "commune": "Phong Thạnh",
+        "district": "Thị xã Giá Rai",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [
+        "Nguyễn Văn Uye"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BacLieu_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Giành chính quyền tại Bạc Liêu (Thắng lợi không đổ máu)",
+      "description": "Dưới sự lãnh đạo tài tình của Tỉnh ủy lâm thời và Mặt trận Việt Minh, quần chúng nhân dân đã bao vây Dinh Tỉnh trưởng. Bằng sự khôn khéo và uy tín, ta đã thuyết phục Tỉnh trưởng Trương Công Thiện đầu hàng, giành chính quyền trọn vẹn mà không tốn một viên đạn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bạc Liêu",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [
+        "Cao Triều Phát"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BacLieu_US_WAR_01",
+      "year": 1960,
+      "date": "1960-09-00",
+      "title": "Đồng khởi tại Bạc Liêu (Châu Thành - Vĩnh Lợi)",
+      "description": "Hưởng ứng phong trào Đồng khởi Bến Tre, Tỉnh ủy Bạc Liêu phát động quần chúng nổi dậy ở các huyện Châu Thành, Vĩnh Lợi... phá thế kìm kẹp, gỡ đồn bốt, mở rộng vùng giải phóng, làm thất bại quốc sách 'Ấp chiến lược' của địch.",
+      "location": {
+        "commune": null,
+        "district": "Vĩnh Lợi",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đồng Khởi",
+        "Kháng chiến chống Mỹ"
+      ]
+    },
+    {
+      "id": "BacLieu_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân tại Bạc Liêu",
+      "description": "Các lực lượng vũ trang tỉnh tấn công vào thị xã Bạc Liêu, đánh chiếm Tòa Hành chính, Ty Cảnh sát và doanh trại địch. Cuộc chiến đấu diễn ra ác liệt ngay trong nội ô, ta làm chủ tình hình trong nhiều giờ và gây tổn thất lớn cho địch.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bạc Liêu",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BacLieu_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Bạc Liêu",
+      "description": "Sáng 30/4, quân ta tiến vào thị xã. Dưới sức ép quân sự và địch vận, Tỉnh trưởng Bạc Liêu là Đại tá Nguyễn Ngọc Điệp tuyên bố đầu hàng vô điều kiện lúc 10 giờ 30 phút. Bạc Liêu được giải phóng sớm và trọn vẹn, bảo toàn được cơ sở vật chất.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bạc Liêu",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "BacLieu_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Bạc Liêu",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Minh Hải (được hợp nhất từ năm 1976) thành hai tỉnh Bạc Liêu và Cà Mau. Tỉnh Bạc Liêu chính thức đi vào hoạt động từ ngày 1/1/1997, bắt đầu hành trình khôi phục và phát triển kinh tế.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "BacLieu_ECONOMY_01",
+      "year": 2010,
+      "date": "2010-09-09",
+      "title": "Khởi công Nhà máy Điện gió Bạc Liêu",
+      "description": "Dự án điện gió trên biển quy mô lớn đầu tiên tại Việt Nam được khởi công xây dựng tại vùng ven biển Bạc Liêu. Cánh đồng điện gió này không chỉ cung cấp năng lượng sạch mà còn trở thành biểu tượng du lịch mới của tỉnh.",
+      "location": {
+        "commune": "Vĩnh Trạch Đông",
+        "district": "Thành phố Bạc Liêu",
+        "province": "Bạc Liêu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Năng lượng sạch"
+      ]
+    }
+  ]
+}

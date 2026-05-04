@@ -1,0 +1,512 @@
+{
+  "Cà Mau": [
+    {
+      "from": [
+        { "commune": "xã Tân Đức", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Thuận", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tân Thuận", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nguyễn Huân", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Tiến", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tân Tiến", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tạ An Khương Đông", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tạ An Khương Nam", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Tạ An Khương", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tạ An Khương", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Trung", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Trần Phán", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Trần Phán", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ngọc Chánh", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Thanh Tùng", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Thanh Tùng", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đầm Dơi", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Duyệt", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Dân", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Tạ An Khương", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Đầm Dơi", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quách Phẩm Bắc", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Quách Phẩm", "district": "huyện Đầm Dơi", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Quách Phẩm", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Tiến", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Khánh Hòa", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Khánh Thuận", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Khánh Lâm", "district": "huyện U Minh", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã U Minh", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn U Minh", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Nguyễn Phích", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Khánh Thuận", "district": "huyện U Minh", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Nguyễn Phích", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Hội", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Nguyễn Phích", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Khánh Lâm", "district": "huyện U Minh", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Khánh Lâm", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh An", "district": "huyện U Minh", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Nguyễn Phích", "district": "huyện U Minh", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Khánh An", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Rạch Gốc", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Viên An Đông", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Tân Ân", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Phan Ngọc Hiển", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đất Mũi", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Viên An", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại của xã Tân Ân", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Đất Mũi", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tam Giang Tây", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Ân Tây", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tân Ân", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Bình Đông", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Khánh Bình", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Khánh Bình", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Bình Tây", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Khánh Bình Tây Bắc", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Trần Hợi", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Đá Bạc", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Hải", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Khánh Hưng", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Khánh Hưng", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Sông Đốc", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Phong Điền", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Sông Đốc", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Trần Văn Thời", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Khánh Lộc", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Phong Lạc", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Lợi An", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Trần Hợi", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Phong Điền", "district": "huyện Trần Văn Thời", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Trần Văn Thời", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thới Bình", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Thới Bình", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Thới Bình", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trí Lực", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Phú", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Trí Phải", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Trí Phải", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Lộc Bắc", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Lộc Đông", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Lộc", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tân Lộc", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Bằng", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Biển Bạch Đông", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Biển Bạch", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Biển Bạch", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lâm Hải", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Đất Mới", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần thị trấn Năm Căn", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Hàm Rồng", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Viên An", "district": "huyện Ngọc Hiển", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Đất Mới", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hàng Vịnh", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại thị trấn Năm Căn", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Hàm Rồng", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Năm Căn", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hiệp Tùng", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tam Giang Đông", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tam Giang", "district": "huyện Năm Căn", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tam Giang", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cái Đôi Vàm", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Nguyễn Việt Khái", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Cái Đôi Vàm", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hưng Tây", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Rạch Chèo", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Việt Thắng", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Nguyễn Việt Khái", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hải", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Phú Tân", "district": "huyện Phú Tân", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Phú Tân", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phú Thuận", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Phú Mỹ", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Hòa Mỹ", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Phú Mỹ", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Phú", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Phú Hưng", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Lương Thế Trân", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Lợi An", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Lương Thế Trân", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hưng", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Đông Hưng", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Đông Thới", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Hòa Mỹ", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Tân Hưng", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hưng Mỹ", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Tân Hưng Đông", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Hòa Mỹ", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Hưng Mỹ", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cái Nước", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Trần Thới", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Đông Hưng", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Đông Thới", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Tân Hưng Đông", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Cái Nước", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Thạnh", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Phong Thạnh Tây", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Phong", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Phong Thạnh", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "Phường 2", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "Phường 9", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phường Tân Xuyên", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "xã An Xuyên", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "phường An Xuyên", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 8", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Lý Văn Lâm", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Lợi An", "district": "huyện Cái Nước", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "phường Lý Văn Lâm", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 5", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phường Tân Thành", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Tân Thành", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần Phường 7", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần Phường 6", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Định Bình", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "một phần xã Tắc Vân", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "phường Tân Thành", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Tân", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "xã Hòa Thành", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại Phường 7", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại Phường 6", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Định Bình", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" },
+        { "commune": "phần còn lại xã Tắc Vân", "district": "thành phố Cà Mau", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "phường Hoà Thành", "province": "tỉnh Cà Mau" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hồ Thị Kỷ", "district": "huyện Thới Bình", "province": "tỉnh Cà Mau" }
+      ],
+      "to": { "commune": "xã Hồ Thị Kỷ", "province": "tỉnh Cà Mau" }
+    }
+  ],
+  "Bạc Liêu": [
+    {
+      "from": [
+        { "commune": "thị trấn Ngan Dừa", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Lộc Ninh", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Ninh Hòa", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Hồng Dân", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Lộc A", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Lộc", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Vĩnh Lộc", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ninh Thạnh Lợi A", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Ninh Thạnh Lợi", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Ninh Thạnh Lợi", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ninh Quới A", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Ninh Quới", "district": "huyện Hồng Dân", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Ninh Quới", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Gành Hào", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Long Điền Tây", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Gành Hào", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Phúc", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Định Thành A", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Định Thành", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Định Thành", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Trạch A", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã An Trạch", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã An Trạch", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Điền Hải", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Long Điền", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Long Điền", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Điền Đông", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Long Điền Đông A", "district": "huyện Đông Hải", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Đông Hải", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Hòa Bình", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Mỹ A", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Long Thạnh", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Hoà Bình", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Minh Diệu", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Bình", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Mỹ B", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Vĩnh Mỹ", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Thịnh", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Hậu A", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Hậu", "district": "huyện Hòa Bình", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Vĩnh Hậu", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phước Long", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Phú Đông", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Phước Long", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phước Long", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Phú Tây", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Vĩnh Phước", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phong Thạnh Tây A", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Phong Thạnh Tây B", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Phong Hiệp", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hưng Phú", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Thanh", "district": "huyện Phước Long", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Vĩnh Thanh", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Châu Hưng", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Châu Hưng A", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Vĩnh Lợi", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hưng Thành", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Hưng Hội", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Hưng Hội", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Hưng", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Hưng A", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Châu Thới", "district": "huyện Vĩnh Lợi", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "xã Châu Thới", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "Phường 2", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "Phường 7", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "Phường 8", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "Phường 3", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "phường Bạc Liêu", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 5", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Trạch", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "phường Vĩnh Trạch", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nhà Mát", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Vĩnh Trạch Đông", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Hiệp Thành", "district": "thành phố Bạc Liêu", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "phường Hiệp Thành", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" },
+        { "commune": "phường Hộ Phòng", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Phong Thạnh", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Phong Thạnh A", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "phường Giá Rai", "province": "tỉnh Bạc Liêu" }
+    },
+    {
+      "from": [
+        { "commune": "phường Láng Tròn", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Phong Tân", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" },
+        { "commune": "xã Phong Thạnh Đông", "district": "thị xã Giá Rai", "province": "tỉnh Bạc Liêu" }
+      ],
+      "to": { "commune": "phường Láng Tròn", "province": "tỉnh Bạc Liêu" }
+    }
+  ]
+}

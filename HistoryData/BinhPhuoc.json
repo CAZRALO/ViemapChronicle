@@ -1,0 +1,167 @@
+{
+  "events": [
+    {
+      "id": "BinhPhuoc_COLONIAL_01",
+      "year": 1930,
+      "date": "1930-02-03",
+      "title": "Thành lập Chi bộ Đông Dương Cộng sản Đảng (Phú Riềng Đỏ)",
+      "description": "Tại khu rừng sau Làng 3 của đồn điền cao su Phú Riềng, Chi bộ Đông Dương Cộng sản Đảng đầu tiên của vùng Đông Nam Bộ được thành lập do đồng chí Nguyễn Xuân Cừ làm Bí thư. Sự kiện này trùng với ngày thành lập Đảng, mở đầu cho phong trào đấu tranh 'Phú Riềng Đỏ' lừng lẫy của giai cấp công nhân cao su.",
+      "location": {
+        "commune": "Thuận Phú",
+        "district": "Đồng Phú",
+        "province": "Bình Phước"
+      },
+      "related_figures": [
+        "Nguyễn Xuân Cừ",
+        "Trần Tử Bình"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Phong trào công nhân"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_REV_01",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Hớn Quản và Lộc Ninh",
+      "description": "Lực lượng Thanh niên Tiền phong và công nhân các đồn điền cao su đã nổi dậy giành chính quyền tại quận lỵ Hớn Quản và Lộc Ninh. Hệ thống chính quyền thực dân tại các đồn điền cao su sụp đổ, chính quyền cách mạng về tay nhân dân, đóng góp vào thắng lợi chung của Cách mạng tháng Tám.",
+      "location": {
+        "commune": null,
+        "district": "Hớn Quản",
+        "province": "Bình Phước"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_01",
+      "year": 1965,
+      "date": "1965-06-09",
+      "title": "Chiến thắng Đồng Xoài",
+      "description": "Bộ đội chủ lực Miền phối hợp với quân dân địa phương mở cuộc tấn công vào Chi khu quân sự Đồng Xoài. Sau 2 ngày chiến đấu ác liệt, ta tiêu diệt 4 tiểu đoàn địch. Chiến thắng này cùng với chiến thắng Bình Giã, Ba Gia đã góp phần làm phá sản chiến lược 'Chiến tranh đặc biệt' của Mỹ.",
+      "location": {
+        "commune": "Tân Phú",
+        "district": "Thành phố Đồng Xoài",
+        "province": "Bình Phước"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến thắng lớn"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_02",
+      "year": 1972,
+      "date": "1972-04-07",
+      "title": "Giải phóng Lộc Ninh (Thủ phủ Kháng chiến)",
+      "description": "Trong Chiến dịch Nguyễn Huệ, Sư đoàn 5 chủ lực đã tấn công và giải phóng hoàn toàn quận lỵ Lộc Ninh. Lộc Ninh trở thành huyện đầu tiên ở miền Nam được giải phóng, sau đó được chọn làm thủ phủ của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam.",
+      "location": {
+        "commune": null,
+        "district": "Lộc Ninh",
+        "province": "Bình Phước"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mùa hè đỏ lửa",
+        "Giải phóng",
+        "Căn cứ địa"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_03",
+      "year": 1972,
+      "date": "1972-04-13",
+      "title": "Chốt chặn Tàu Ô (Bức tường thép trên đường 13)",
+      "description": "Sư đoàn 7 bộ đội chủ lực đã lập chốt chặn trên đường 13 (khu vực Tàu Ô - Xóm Ruộng) để ngăn chặn quân địch từ Sài Gòn lên giải tỏa cho An Lộc. Cuộc chiến đấu giằng co diễn ra suốt 150 ngày đêm dưới mưa bom bão đạn, được ví như 'Bức tường thép' chặn đứng các sư đoàn địch.",
+      "location": {
+        "commune": "Tân Khai",
+        "district": "Hớn Quản",
+        "province": "Bình Phước"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mùa hè đỏ lửa",
+        "Phòng ngự"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_04",
+      "year": 1973,
+      "date": "1973-03-00",
+      "title": "Xây dựng Căn cứ Tà Thiết (Rừng Chính phủ)",
+      "description": "Tại rừng Tà Thiết (Lộc Ninh), Bộ Chỉ huy Miền đã xây dựng căn cứ quy mô lớn gồm hầm hào, hội trường, nhà ở bán âm kiên cố. Đây là nơi Đại tướng Văn Tiến Dũng và Bộ Chính trị đã họp bàn và phát lệnh Tổng tiến công mùa Xuân 1975 (còn gọi là Căn cứ Bộ Chỉ huy quân giải phóng miền Nam Việt Nam).",
+      "location": {
+        "commune": "Lộc Thành",
+        "district": "Lộc Ninh",
+        "province": "Bình Phước"
+      },
+      "related_figures": [
+        "Văn Tiến Dũng",
+        "Phạm Hùng",
+        "Trần Văn Trà"
+      ],
+      "tags": [
+        "Căn cứ địa",
+        "Di tích quốc gia"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_05",
+      "year": 1975,
+      "date": "1975-01-06",
+      "title": "Chiến thắng Phước Long (Đòn trinh sát chiến lược)",
+      "description": "Quân đoàn 4 và lực lượng địa phương tấn công giải phóng thị xã Phước Long và toàn tỉnh Phước Long. Đây là tỉnh đầu tiên ở miền Nam được giải phóng hoàn toàn. Chiến thắng này giúp Bộ Chính trị đo lường phản ứng của Mỹ (Mỹ không can thiệp trở lại), từ đó hạ quyết tâm giải phóng miền Nam trong năm 1975.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Phước Long",
+        "province": "Bình Phước"
+      },
+      "related_figures": [
+        "Hoàng Cầm"
+      ],
+      "tags": [
+        "Chiến dịch đường 14",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_06",
+      "year": 1975,
+      "date": "1975-03-23",
+      "title": "Giải phóng An Lộc - Bình Long",
+      "description": "Trước sức ép của quân ta trên khắp các chiến trường Tây Nguyên và Đông Nam Bộ, quân địch tại An Lộc (thủ phủ tỉnh Bình Long cũ) buộc phải rút chạy. Bộ đội ta tiến vào tiếp quản, giải phóng hoàn toàn vùng đất Bình Long (Hớn Quản, Chơn Thành ngày nay), mở thông đường về Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Bình Long",
+        "province": "Bình Phước"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_ADMIN_01",
+      "year": 1997,
+      "date": "1997-01-01",
+      "title": "Tái lập tỉnh Bình Phước",
+      "description": "Theo Nghị quyết của Quốc hội khóa IX, tỉnh Sông Bé (được hợp nhất từ năm 1976) được chia tách thành hai tỉnh Bình Dương và Bình Phước. Tỉnh Bình Phước chính thức đi vào hoạt động với tỉnh lỵ ban đầu đặt tại Đồng Xoài, bắt đầu hành trình phát triển mới.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bình Phước"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

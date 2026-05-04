@@ -1,0 +1,180 @@
+{
+  "events": [
+    {
+      "id": "SocTrang_ADMIN_01",
+      "year": 1832,
+      "date": "1832-10-00",
+      "title": "Thiết lập phủ Ba Xuyên",
+      "description": "Trong cuộc cải cách hành chính của vua Minh Mạng, Nam Kỳ Lục tỉnh được thành lập. Vùng đất Sóc Trăng lúc bấy giờ thuộc phủ Ba Xuyên, tỉnh An Giang. Tên gọi 'Ba Xuyên' (bắt nguồn từ tiếng Khmer 'Bai Xau') gắn liền với lịch sử vùng đất này trong suốt thời kỳ phong kiến và chế độ cũ.",
+      "location": {
+        "commune": null,
+        "district": "Mỹ Xuyên",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "SocTrang_REV_01",
+      "year": 1930,
+      "date": "1930-03-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Mỹ Quới)",
+      "description": "Chỉ một tháng sau khi Đảng Cộng sản Việt Nam ra đời, Chi bộ Đảng đầu tiên của tỉnh Sóc Trăng được thành lập tại làng Mỹ Quới (nay thuộc thị xã Ngã Năm). Đây là một trong những chi bộ được thành lập sớm nhất ở vùng Đồng bằng sông Cửu Long, đặt nền móng cho phong trào cách mạng tỉnh nhà.",
+      "location": {
+        "commune": "Mỹ Quới",
+        "district": "Thị xã Ngã Năm",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "SocTrang_REV_02",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Khởi nghĩa Nam Kỳ tại Hòa Tú",
+      "description": "Hòa chung khí thế Nam Kỳ Khởi Nghĩa, nhân dân làng Hòa Tú (huyện Mỹ Xuyên) đã nổi dậy cướp đồn bốt, phá tề, giải phóng hoàn toàn làng xã. Đây là nơi đầu tiên trong tỉnh lá cờ đỏ sao vàng tung bay. Dù sau đó bị đàn áp khốc liệt, nhưng tinh thần Hòa Tú đã trở thành biểu tượng bất diệt.",
+      "location": {
+        "commune": "Hòa Tú 1",
+        "district": "Mỹ Xuyên",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [
+        "Văn Ngọc Chính"
+      ],
+      "tags": [
+        "Khởi nghĩa Nam Kỳ",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "SocTrang_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Sóc Trăng",
+      "description": "Sáng 25/8, hàng ngàn quần chúng từ các quận Long Phú, Mỹ Xuyên, Châu Thành rầm rộ kéo về tỉnh lỵ. Trước khí thế của nhân dân, Tỉnh trưởng Sóc Trăng buộc phải đầu hàng và giao nộp ấn tín. Ủy ban Dân tộc Giải phóng tỉnh Sóc Trăng ra mắt đồng bào.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sóc Trăng",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [
+        "Dương Kỳ Hiệp"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "SocTrang_US_WAR_01",
+      "year": 1958,
+      "date": "1958-12-01",
+      "title": "Vụ thảm sát Nhà tù Phú Lợi",
+      "description": "Chính quyền Mỹ - Diệm đã lén bỏ thuốc độc vào khẩu phần ăn của tù nhân chính trị tại trại giam Phú Lợi, khiến hàng trăm người bị trúng độc và tử vong. Sự kiện 'Phú Lợi căm thù' đã gây chấn động dư luận thế giới, thổi bùng ngọn lửa đấu tranh cách mạng tại miền Nam.",
+      "location": {
+        "commune": "Phường 2",
+        "district": "Thành phố Sóc Trăng",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tội ác chiến tranh",
+        "Nhà tù"
+      ]
+    },
+    {
+      "id": "SocTrang_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân (Sân bay Sóc Trăng)",
+      "description": "Tiểu đoàn Phú Lợi và các lực lượng địa phương đã tấn công vào thị xã Sóc Trăng, đánh chiếm Sân bay Sóc Trăng (căn cứ không quân chiến thuật quan trọng của Mỹ tại miền Tây) và Dinh Tỉnh trưởng, gây thiệt hại nặng nề cho các đơn vị cơ giới và trực thăng địch.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sóc Trăng",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "SocTrang_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Sóc Trăng",
+      "description": "Thực hiện phương châm 'xã giải phóng xã, huyện giải phóng huyện', quân dân Sóc Trăng đã bao vây, bức hàng tiểu khu Ba Xuyên. Đến 13 giờ 30 phút ngày 30/4, thị xã Sóc Trăng hoàn toàn giải phóng, góp phần cùng cả nước kết thúc thắng lợi cuộc kháng chiến chống Mỹ.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sóc Trăng",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "SocTrang_ADMIN_02",
+      "year": 1991,
+      "date": "1991-12-26",
+      "title": "Tái lập tỉnh Sóc Trăng",
+      "description": "Tại kỳ họp thứ 10, Quốc hội khóa VIII đã quyết định chia tỉnh Hậu Giang (cũ) thành hai tỉnh Cần Thơ và Sóc Trăng. Tỉnh Sóc Trăng chính thức được tái lập và đi vào hoạt động từ tháng 4/1992, mở ra giai đoạn phát triển mới.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "SocTrang_CULTURE_01",
+      "year": 2013,
+      "date": "2013-10-30",
+      "title": "Festival Đua ghe Ngo đồng bào Khmer ĐBSCL lần thứ nhất",
+      "description": "Sóc Trăng đăng cai tổ chức Festival Đua ghe Ngo đồng bào Khmer Đồng bằng sông Cửu Long lần thứ nhất. Sự kiện này nâng tầm lễ hội truyền thống Ooc Om Bok - Đua ghe Ngo lên quy mô khu vực và quốc gia, khẳng định bản sắc văn hóa độc đáo của tỉnh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sóc Trăng",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa",
+        "Lễ hội"
+      ]
+    },
+    {
+      "id": "SocTrang_ECONOMY_01",
+      "year": 2023,
+      "date": "2023-06-17",
+      "title": "Khởi công Cầu Đại Ngãi (Nối Trà Vinh - Sóc Trăng)",
+      "description": "Dự án cầu Đại Ngãi trên Quốc lộ 60 nối hai tỉnh Trà Vinh và Sóc Trăng được khởi công. Đây là công trình chiến lược phá thế độc đạo của Quốc lộ 1, kết nối Sóc Trăng với TP.HCM thông qua tuyến duyên hải, tạo động lực mạnh mẽ cho kinh tế biển.",
+      "location": {
+        "commune": "Long Đức",
+        "district": "Long Phú",
+        "province": "Sóc Trăng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giao thông",
+        "Kinh tế"
+      ]
+    }
+  ]
+}

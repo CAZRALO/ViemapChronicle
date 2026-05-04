@@ -1,0 +1,204 @@
+{
+  "events": [
+    {
+      "id": "BinhDuong_COLONIAL_01",
+      "year": 1899,
+      "date": "1899-12-20",
+      "title": "Thành lập tỉnh Thủ Dầu Một",
+      "description": "Toàn quyền Đông Dương ra Nghị định đổi tên các Sở Tham biện thành tỉnh. Tỉnh Thủ Dầu Một được thành lập (tách ra từ tỉnh Biên Hòa cũ), là tiền thân của tỉnh Bình Dương ngày nay. Vùng đất này bắt đầu phát triển các đồn điền cao su và nghề gốm sứ.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thủ Dầu Một",
+        "province": "Bình Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "BinhDuong_REV_01",
+      "year": 1930,
+      "date": "1930-08-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Bình Nhâm)",
+      "description": "Tại lò chén của ông Đinh Văn Xoàn (làng Bình Nhâm, Lái Thiêu), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Thủ Dầu Một được thành lập do đồng chí Trương Văn Nhâm làm Bí thư. Sự kiện này đánh dấu bước ngoặt trong phong trào cách mạng tại 'miền Đông gian lao mà anh dũng'.",
+      "location": {
+        "commune": "Bình Nhâm",
+        "district": "Thành phố Thuận An",
+        "province": "Bình Dương"
+      },
+      "related_figures": [
+        "Trương Văn Nhâm"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BinhDuong_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Thủ Dầu Một",
+      "description": "Hàng vạn quần chúng từ các quận Châu Thành, Lái Thiêu, Bến Cát... kéo về thị xã Thủ Dầu Một dự mít tinh. Ủy ban Khởi nghĩa tuyên bố xóa bỏ chính quyền tay sai, thành lập Ủy ban Nhân dân Cách mạng tỉnh Thủ Dầu Một.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thủ Dầu Một",
+        "province": "Bình Dương"
+      },
+      "related_figures": [
+        "Văn Công Khai"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BinhDuong_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-02-00",
+      "title": "Thành lập Chiến khu Đ",
+      "description": "Khu bộ Khu 7 quyết định thành lập Chiến khu Đ (gồm các xã phía Bắc Tân Uyên và một phần Đồng Nai). Nơi đây trở thành 'Mật khu' bất khả xâm phạm, căn cứ địa vững chắc của cách mạng miền Đông Nam Bộ trong suốt hai cuộc kháng chiến.",
+      "location": {
+        "commune": "Đất Cuốc",
+        "district": "Bắc Tân Uyên",
+        "province": "Bình Dương"
+      },
+      "related_figures": [
+        "Huỳnh Văn Nghệ"
+      ],
+      "tags": [
+        "Căn cứ địa",
+        "Chiến khu Đ"
+      ]
+    },
+    {
+      "id": "BinhDuong_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-03-19",
+      "title": "Trận tháp canh cầu Bà Kiên (Khai sinh lối đánh Đặc công)",
+      "description": "Đội du kích Tân Uyên do Trần Công An chỉ huy đã bí mật dùng thuốc nổ đánh sập tháp canh cầu Bà Kiên được Pháp bảo vệ nghiêm ngặt. Chiến thắng này khai sinh ra lối đánh 'Công đồn đặc biệt' (Đặc công) - một cách đánh độc đáo của quân sự Việt Nam.",
+      "location": {
+        "commune": "Thạnh Phước",
+        "district": "Tân Uyên",
+        "province": "Bình Dương"
+      },
+      "related_figures": [
+        "Trần Công An"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Đặc công"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_01",
+      "year": 1958,
+      "date": "1958-12-01",
+      "title": "Vụ đầu độc tù nhân Phú Lợi",
+      "description": "Tại Trại giam Phú Lợi (được mệnh danh là 'Địa ngục trần gian'), chính quyền Mỹ - Diệm đã bỏ thuốc độc vào khẩu phần ăn khiến hàng ngàn tù nhân chính trị bị trúng độc và nhiều người tử vong. Sự kiện này gây chấn động dư luận thế giới và thổi bùng ngọn lửa đấu tranh.",
+      "location": {
+        "commune": "Phú Lợi",
+        "district": "Thành phố Thủ Dầu Một",
+        "province": "Bình Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tội ác chiến tranh",
+        "Nhà tù"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_02",
+      "year": 1965,
+      "date": "1965-11-12",
+      "title": "Chiến thắng Bàu Bàng",
+      "description": "Sư đoàn 9 chủ lực Miền đã tổ chức trận tập kích táo bạo vào Lữ đoàn 1 (Sư đoàn 1 Bộ binh 'Anh cả đỏ' của Mỹ) đóng quân dã ngoại tại Bàu Bàng. Trận đánh gây thiệt hại nặng cho quân Mỹ, chứng minh khả năng tiêu diệt đơn vị Mỹ cấp lữ đoàn của quân ta.",
+      "location": {
+        "commune": "Lai Uyên",
+        "district": "Bàu Bàng",
+        "province": "Bình Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Trận đánh lớn"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_03",
+      "year": 1967,
+      "date": null,
+      "title": "Chiến đấu tại Tam giác sắt (Địa đạo Tây Nam Bến Cát)",
+      "description": "Mỹ mở cuộc hành quân Cedar Falls quy mô lớn nhằm san phẳng vùng 'Tam giác sắt' (Bến Cát - Củ Chi - Trảng Bàng). Quân dân Bến Cát đã dựa vào hệ thống địa đạo liên hoàn kiên cố để bám trụ, đánh trả và bảo toàn lực lượng trước sức mạnh hỏa lực của địch.",
+      "location": {
+        "commune": "An Tây",
+        "district": "Bến Cát",
+        "province": "Bình Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Địa đạo",
+        "Tam giác sắt"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng Thủ Dầu Một",
+      "description": "Sáng 30/4, Sư đoàn 320B (Quân đoàn 1) đập tan tuyến phòng thủ phía Bắc Sài Gòn của địch, tiến vào giải phóng thị xã Thủ Dầu Một lúc 10h30, mở đường tiến thẳng vào Bộ Tổng tham mưu ngụy quyền tại Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thủ Dầu Một",
+        "province": "Bình Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Hồ Chí Minh",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "BinhDuong_ADMIN_01",
+      "year": 1997,
+      "date": "1997-01-01",
+      "title": "Tái lập tỉnh Bình Dương",
+      "description": "Tỉnh Bình Dương được tái lập sau khi chia tách từ tỉnh Sông Bé (cũ). Với chính sách 'trải chiếu hoa mời gọi đầu tư', Bình Dương nhanh chóng chuyển mình từ một tỉnh nông nghiệp thành thủ phủ công nghiệp năng động nhất cả nước.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bình Dương"
+      },
+      "related_figures": [
+        "Nguyễn Minh Triết"
+      ],
+      "tags": [
+        "Hành chính",
+        "Đổi mới"
+      ]
+    },
+    {
+      "id": "BinhDuong_ECONOMY_01",
+      "year": 1996,
+      "date": "1996-05-14",
+      "title": "Khởi công KCN VSIP I",
+      "description": "Lễ động thổ Khu công nghiệp Việt Nam - Singapore (VSIP I) tại Thuận An dưới sự chứng kiến của Thủ tướng hai nước. Đây là biểu tượng hợp tác kinh tế thành công nhất, mở đầu cho mô hình khu công nghiệp kiểu mẫu lan tỏa ra cả nước.",
+      "location": {
+        "commune": "Bình Hòa",
+        "district": "Thành phố Thuận An",
+        "province": "Bình Dương"
+      },
+      "related_figures": [
+        "Võ Văn Kiệt",
+        "Goh Chok Tong"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Công nghiệp hóa"
+      ]
+    }
+  ]
+}

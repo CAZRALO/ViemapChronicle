@@ -1,0 +1,458 @@
+{
+  "Quảng Ninh": [
+    {
+      "from": [
+        { "commune": "xã Bằng Cả", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Dân Chủ", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tân Dân", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng La", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Quảng La", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vũ Oai", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hòa Bình", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Thống Nhất", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Đồng Lâm", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Thống Nhất", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "một phần xã Hải Lạng", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Hải Hòa", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Hải Hòa", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tiên Yên", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Phong Dụ", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tiên Lãng", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Yên Than", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Đại Dực", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Đông Ngũ", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Vô Ngại", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Tiên Yên", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hà Lâu", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Điền Xá", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Yên Than", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Điền Xá", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đông Hải", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Đại Dực", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Đông Ngũ", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Đông Ngũ", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đồng Rui", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Hải Lạng", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Hải Hòa", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Hải Lạng", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đồng Sơn", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Lương Minh", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Lương Minh", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Lâm", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đạp Thanh", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Kỳ Thượng", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Kỳ Thượng", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Ba Chẽ", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Thanh Sơn", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Nam Sơn", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đồn Đạc", "district": "huyện Ba Chẽ", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Hải Lạng", "district": "huyện Tiên Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Ba Chẽ", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quảng An", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Dực Yên", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Lâm", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Tân", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Quảng Tân", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đầm Hà", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tân Bình", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đại Bình", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tân Lập", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đầm Hà", "district": "huyện Đầm Hà", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Đầm Hà", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Quảng Hà", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Minh", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Chính", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Phong", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Quảng Long", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Quảng Hà", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quảng Sơn", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đường Hoa", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Quảng Long", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Đường Hoa", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quảng Thành", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Thịnh", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quảng Đức", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Quảng Đức", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đồng Văn", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hoành Mô", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Hoành Mô", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đồng Tâm", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Lục Hồn", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Lục Hồn", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Bình Liêu", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Húc Động", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Vô Ngại", "district": "huyện Bình Liêu", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Bình Liêu", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bắc Sơn", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hải Sơn", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Hải Sơn", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quảng Nghĩa", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hải Tiến", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Hải Ninh", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Trung", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Vĩnh Thực", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Vĩnh Thực", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bình Dương", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã An Sinh", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Việt Dân", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần phường Đức Chính", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường An Sinh", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thủy An", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hưng Đạo", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hồng Phong", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Nguyễn Huệ", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại phường Đức Chính", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Đông Triều", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tràng An", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Bình Khê", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tràng Lương", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Bình Khê", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Xuân Sơn", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Kim Sơn", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Yên Thọ", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Mạo Khê", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Mạo Khê", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Yên Đức", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hoàng Quế", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hồng Thái Tây", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hồng Thái Đông", "district": "thị xã Đông Triều", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hoàng Quế", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phương Đông", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Phương Nam", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Thượng Yên Công", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Yên Tử", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bắc Sơn", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Nam Khê", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Vàng Danh", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần phường Trưng Vương", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Vàng Danh", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Quang Trung", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Thanh Sơn", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Yên Thanh", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại phường Trưng Vương", "district": "thành phố Uông Bí", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Uông Bí", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Minh Thành", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Đông Mai", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Đông Mai", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cộng Hòa", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Sông Khoai", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hiệp Hòa", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hiệp Hòa", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Yên Giang", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Quảng Yên", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tiền An", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Quảng Yên", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân An", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hà An", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hoàng Tân", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần xã Liên Hòa", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hà An", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nam Hòa", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Yên Hải", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Phong Cốc", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Cẩm La", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Phong Cốc", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phong Hải", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Liên Vị", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Tiền Phong", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Liên Hòa", "district": "thị xã Quảng Yên", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Liên Hòa", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Đại Yên", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Tuần Châu", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "một phần phường Hà Khẩu", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Tuần Châu", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Giếng Đáy", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Việt Hưng", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại phường Hà Khẩu", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Việt Hưng", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hùng Thắng", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Bãi Cháy", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Bãi Cháy", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hà Phong", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hà Tu", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hà Tu", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cao Thắng", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hà Trung", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hà Lầm", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hà Lầm", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hà Khánh", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cao Xanh", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Cao Xanh", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bạch Đằng", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Trần Hưng Đạo", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hồng Gai", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hồng Gai", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hồng Hà", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hồng Hải", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hạ Long", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hoành Bồ", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Sơn Dương", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Lê Lợi", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phần còn lại xã Đồng Lâm", "district": "thành phố Hạ Long", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Hoành Bồ", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Mông Dương", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Dương Huy", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Mông Dương", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cẩm Thạch", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Thủy", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Quang Hanh", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Quang Hanh", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cẩm Trung", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Thành", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Bình", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Tây", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Đông", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Cẩm Phả", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Cẩm Phú", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Thịnh", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cẩm Sơn", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Cửa Ông", "district": "thành phố Cẩm Phả", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Cửa Ông", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trần Phú", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Hải Hòa", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Bình Ngọc", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Trà Cổ", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hải Xuân", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Móng Cái 1", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Dương", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "phường Ka Long", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Vạn Ninh", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Móng Cái 2", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hải Yên", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hải Đông", "district": "thành phố Móng Cái", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "phường Móng Cái 3", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cái Rồng", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Bản Sen", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Bình Dân", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đài Xuyên", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đoàn Kết", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đông Xá", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Hạ Long", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Minh Châu", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Ngọc Vừng", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Quan Lạn", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Thắng Lợi", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Vạn Yên", "district": "huyện Vân Đồn", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "đặc khu Vân Đồn", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cô Tô", "district": "huyện Cô Tô", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Đồng Tiến", "district": "huyện Cô Tô", "province": "tỉnh Quảng Ninh" },
+        { "commune": "xã Thanh Lân", "district": "huyện Cô Tô", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "đặc khu Cô Tô", "province": "tỉnh Quảng Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cái Chiên", "district": "huyện Hải Hà", "province": "tỉnh Quảng Ninh" }
+      ],
+      "to": { "commune": "xã Cái Chiên", "province": "tỉnh Quảng Ninh" }
+    }
+  ]
+}

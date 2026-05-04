@@ -1,0 +1,1058 @@
+{
+  "Hà Nam": [
+    {
+      "from": [
+        { "commune": "xã Bình Nghĩa", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Tràng An", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Đồng Du", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Bình Lục", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Bình Mỹ", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Đồn Xá", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã La Sơn", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Bình Mỹ", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trung Lương", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Ngọc Lũ", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Bình An", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Bình An", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bồ Đề", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Vũ Bản", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã An Ninh", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Bình Giang", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tiêu Động", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã An Lão", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" },
+        { "commune": "xã An Đổ", "district": "huyện Bình Lục", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Bình Sơn", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Liêm Phong", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Liêm Cần", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Hà", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Liêm Hà", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tân Thanh", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Thủy", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Phong", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Tân Thanh", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Liêm Sơn", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Liêm Thuận", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Liêm Túc", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Thanh Bình", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Nghị", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Tân", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Hải", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Thanh Lâm", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Hương", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Tâm", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Nguyên", "district": "huyện Thanh Liêm", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Thanh Liêm", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Chính Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Hợp Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Văn Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Lý Nhân", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Công Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nguyên Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Đức Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Nam Xang", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Chân Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Đạo Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Bắc Lý", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Bắc Lý", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Vĩnh Trụ", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nhân Chính", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nhân Khang", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Vĩnh Trụ", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trần Hưng Đạo", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nhân Nghĩa", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nhân Bình", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Trần Thương", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nhân Thịnh", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nhân Mỹ", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Xuân Khê", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Nhân Hà", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tiến Thắng", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Phú Phúc", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Hòa Hậu", "district": "huyện Lý Nhân", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "xã Nam Lý", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Chuyên Ngoại", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Trác Văn", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Yên Nam", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "một phần phường Hòa Mạc", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Duy Tiên", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Châu Giang", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Mộc Hoàn", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "phần còn lại phường Hòa Mạc", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Duy Tân", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bạch Thượng", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Yên Bắc", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Đồng Văn", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Đồng Văn", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Duy Minh", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Duy Hải", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "một phần phường Hoàng Đông", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Duy Hà", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tiên Sơn", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "một phần phường Tiên Nội", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "một phần xã Tiên Ngoại", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Tiên Sơn", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Đại Cương", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Đồng Hoá", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Lê Hồ", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Lê Hồ", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tượng Lĩnh", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Tân Sơn", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Nguyễn Úy", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Nguyễn Úy", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "xã Liên Sơn", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thanh Sơn", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Thi Sơn", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Lý Thường Kiệt", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Tựu", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Hoàng Tây", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Kim Thanh", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ba Sao", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Khả Phong", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Thuỵ Lôi", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Tam Chúc", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Quế", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Ngọc Sơn", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Văn Xá", "district": "thị xã Kim Bảng", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Kim Bảng", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lam Hạ", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Tân Hiệp", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "một phần phường Quang Trung", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "phần còn lại phường Hoàng Đông", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "phần còn lại phường Tiên Nội", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" },
+        { "commune": "phần còn lại xã Tiên Ngoại", "district": "thị xã Duy Tiên", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Hà Nam", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lê Hồng Phong", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Kim Bình", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Phù Vân", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Phù Vân", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thanh Tuyền", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Châu Sơn", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "thị trấn Kiện Khê", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Châu Sơn", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Châu Cầu", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Thanh Châu", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "phường Liêm Chính", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "phần còn lại phường Quang Trung", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Phủ Lý", "province": "tỉnh Hà Nam" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Liêm", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Đinh Xá", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" },
+        { "commune": "xã Trịnh Xá", "district": "thành phố Phủ Lý", "province": "tỉnh Hà Nam" }
+      ],
+      "to": { "commune": "phường Liêm Tuyền", "province": "tỉnh Hà Nam" }
+    }
+  ],
+  "Nam Định": [
+    {
+      "from": [
+        { "commune": "thị trấn Nam Giang", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Cường", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Hùng", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nam Trực", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Dương", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Bình Minh", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Tiến", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nam Minh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đồng Sơn", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Thái", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nam Đồng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Hoa", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Lợi", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Hải", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Thanh", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nam Ninh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Thịnh", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Thắng", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nam Hồng", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nam Hồng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cộng Hòa", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Minh Tân", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Minh Tân", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hợp Hưng", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trung Thành", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Quang Trung", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hiển Khánh", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hiển Khánh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Gôi", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Kim Thái", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Tam Thanh", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Vụ Bản", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Hào", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Đại Thắng", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" },
+        { "commune": "xã Liên Minh", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Liên Minh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Phong", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hồng Quang", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Khánh", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "thị trấn Lâm", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Ý Yên", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Đồng", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Trị", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Khang", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Yên Đồng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Nhân", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Lộc", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Phúc", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Cường", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Yên Cường", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Thắng", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Tiến", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Lương", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Vạn Thắng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Mỹ", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Bình", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Dương", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Ninh", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Vũ Dương", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trung Nghĩa", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Tân Minh", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Tân Minh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phú Hưng", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Thọ", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" },
+        { "commune": "xã Yên Chính", "district": "huyện Ý Yên", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Phong Doanh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cổ Lễ", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trung Đông", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Tuấn", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Cổ Lễ", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trực Chính", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Phương Định", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Liêm Hải", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Ninh Giang", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cát Thành", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Việt Hùng", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Đạo", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Cát Thành", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trực Thanh", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Nội", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Hưng", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Trực Ninh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trực Khang", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Mỹ", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Thuận", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Quang Hưng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trực Đại", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Thái", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Thắng", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Minh Thái", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Ninh Cường", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Cường", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trực Hùng", "district": "huyện Trực Ninh", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Ninh Cường", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Xuân Trường", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Phúc", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Ninh", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Ngọc", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Xuân Trường", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Xuân Vinh", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Trà Lũ", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Thọ Nghiệp", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Xuân Hưng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Xuân Tân", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Phú", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Giang", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Xuân Giang", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Xuân Châu", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Thành", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Thượng", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" },
+        { "commune": "xã Xuân Hồng", "district": "huyện Xuân Trường", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Xuân Hồng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Yên Định", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Trung", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Long", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Hậu", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hải Minh", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Đường", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Anh", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Anh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cồn", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Sơn", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Tân", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Tiến", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hải Nam", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Lộc", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Hưng", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Hưng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hải Phong", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Giang", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải An", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải An", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hải Đông", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Tây", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Quang", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Quang", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hải Phú", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Hòa", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Xuân", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Xuân", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thịnh Long", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Châu", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" },
+        { "commune": "xã Hải Ninh", "district": "huyện Hải Hậu", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hải Thịnh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Giao Thiện", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Hương", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Thanh", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Minh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hồng Thuận", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao An", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Lạc", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Hòa", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Giao Thủy", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Bình Hòa", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Thủy", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Giao Xuân", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Hà", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Hải", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Phúc", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Giao Nhân", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Long", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Châu", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Hưng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Giao Yến", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Bạch Long", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Tân", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Bình", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Quất Lâm", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Phong", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" },
+        { "commune": "xã Giao Thịnh", "district": "huyện Giao Thủy", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Giao Ninh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hoàng Nam", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Đồng Thịnh", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Đồng Thịnh", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Liễu Đề", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Thái", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Châu", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Trung", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nghĩa Hưng", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nghĩa Lạc", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Sơn", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nghĩa Sơn", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nghĩa Hồng", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Phong", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Phú", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Hồng Phong", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Quỹ Nhất", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Thành", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Lợi", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Quỹ Nhất", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nghĩa Hùng", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Hải", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa Lâm", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Nghĩa Lâm", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Điền", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "xã Phúc Thắng", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" },
+        { "commune": "thị trấn Rạng Đông", "district": "huyện Nghĩa Hưng", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "xã Rạng Đông", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "phường Quang Trung", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "phường Vị Xuyên", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "phường Lộc Vượng", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "phường Cửa Bắc", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "phường Trần Hưng Đạo", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "phường Năng Tĩnh", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "phường Cửa Nam", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Phúc", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Nam Định", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lộc Hạ", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Tân", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Trung", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Thiên Trường", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lộc Hòa", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Thắng", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Hà", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Đông A", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Điền", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "phường Nam Phong", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Vị Khê", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "phường Mỹ Xá", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "xã Đại An", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Thành Nam", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trường Thi", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "xã Thành Lợi", "district": "huyện Vụ Bản", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Trường Thi", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hồng Quang", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "xã Nghĩa An", "district": "huyện Nam Trực", "province": "tỉnh Nam Định" },
+        { "commune": "phường Nam Vân", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Hồng Quang", "province": "tỉnh Nam Định" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hưng Lộc", "district": "thành phố Nam Định", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Thuận", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" },
+        { "commune": "xã Mỹ Lộc", "district": "huyện Mỹ Lộc", "province": "tỉnh Nam Định" }
+      ],
+      "to": { "commune": "phường Mỹ Lộc", "province": "tỉnh Nam Định" }
+    }
+  ],
+  "Ninh Bình": [
+    {
+      "from": [
+        { "commune": "thị trấn Thịnh Vượng", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Hòa", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Viễn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tiến Thắng", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Phương", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Trung", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Đại Hoàng", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Liên Sơn", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Phú", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Hưng", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Hưng", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Gia Lạc", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Minh", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Phong", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Phong", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Gia Lập", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Vân", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "một phần xã Gia Tân", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Vân", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Gia Thanh", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Xuân", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Trấn", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Trấn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Nho Quan", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Đồng Phong", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Quang", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Nho Quan", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Gia Sơn", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Xích Thổ", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Lâm", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Lâm", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Gia Thủy", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Đức Long", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Tường", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Gia Tường", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạch Bình", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Lạc Vân", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Phú Sơn", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Phú Sơn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Văn Phương", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Cúc Phương", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Cúc Phương", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kỳ Phú", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Phú Long", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Phú Long", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Sơn", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Thượng Hòa", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Văn Phú", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Thanh Sơn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phú Lộc", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Quỳnh Lưu", "district": "huyện Nho Quan", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Quỳnh Lưu", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Yên Ninh", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Cư", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Vân", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Hải", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Yên Khánh", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Hồng", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Nhạc", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Khánh Nhạc", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Cường", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Lợi", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Thiện", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Khánh Thiện", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Mậu", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Thủy", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Hội", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Khánh Hội", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Thành", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Công", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Trung", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Khánh Trung", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Yên Thịnh", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Dương", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Hòa", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Yên Mô", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Phong", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Nhân", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Từ", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Yên Từ", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Mỹ", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Lâm", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Mạc", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Yên Mạc", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Đồng", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Thành", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Thái", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Đồng Thái", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Xuân Chính", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Hồi Ninh", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Chất Bình", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Chất Bình", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kim Định", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ân Hòa", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Hùng Tiến", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Kim Sơn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Như Hòa", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Đồng Hướng", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Quang Thiện", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Quang Thiện", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phát Diệm", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Thượng Kiệm", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Kim Chính", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Phát Diệm", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Lộc", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Tân Thành", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Lai Thành", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Lai Thành", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Văn Hải", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Kim Tân", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Định Hóa", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Định Hóa", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Bình Minh", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Cồn Thoi", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Kim Mỹ", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Bình Minh", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kim Trung", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Kim Đông", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" },
+        { "commune": "khu vực bãi bồi ven biển", "district": "huyện Kim Sơn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "xã Kim Đông", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Giang", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Trường Yên", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh Hòa", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Phúc Sơn", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Gia Sinh", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" },
+        { "commune": "phần còn lại xã Gia Tân", "district": "huyện Gia Viễn", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Tây Hoa Lư", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Mỹ", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Ninh Khánh", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Đông Thành", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Tân Thành", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Vân Giang", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Nam Thành", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Nam Bình", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Bích Đào", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh Khang", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh Nhất", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh Tiến", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Hoa Lư", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Phong", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Ninh Sơn", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh Vân", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh An", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Ninh Hải", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Nam Hoa Lư", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Phúc", "district": "thành phố Hoa Lư", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Hòa", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Phú", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh An", "district": "huyện Yên Khánh", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Đông Hoa Lư", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bắc Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Tây Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Quang Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Tam Điệp", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Bình", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Quảng Lạc", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Yên Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Yên Sơn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nam Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Trung Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Đông Sơn", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Trung Sơn", "province": "tỉnh Ninh Bình" }
+    },
+    {
+      "from": [
+        { "commune": "xã Yên Thắng", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "xã Khánh Thượng", "district": "huyện Yên Mô", "province": "tỉnh Ninh Bình" },
+        { "commune": "phường Yên Bình", "district": "thành phố Tam Điệp", "province": "tỉnh Ninh Bình" }
+      ],
+      "to": { "commune": "phường Yên Thắng", "province": "tỉnh Ninh Bình" }
+    }
+  ]
+}

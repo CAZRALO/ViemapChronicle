@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "ThaiBinh_TRAN_01",
+      "year": 1225,
+      "date": "1225-12-12",
+      "title": "Sự chuyển giao vương quyền Lý - Trần",
+      "description": "Tại vùng đất Long Hưng (Hưng Hà ngày nay), Lý Chiêu Hoàng đã nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông), chính thức kết thúc triều Lý và mở ra triều đại nhà Trần - một trong những triều đại thịnh trị nhất lịch sử phong kiến Việt Nam.",
+      "location": {
+        "commune": "Tiến Đức",
+        "district": "Hưng Hà",
+        "province": "Thái Bình"
+      },
+      "related_figures": [
+        "Trần Thái Tông",
+        "Lý Chiêu Hoàng",
+        "Trần Thủ Độ"
+      ],
+      "tags": [
+        "Nhà Trần",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "ThaiBinh_NGUYEN_01",
+      "year": 1828,
+      "date": null,
+      "title": "Nguyễn Công Trứ lập huyện Tiền Hải",
+      "description": "Dinh điền sứ Nguyễn Công Trứ chỉ huy cuộc khẩn hoang quy mô lớn, chiêu mộ dân chúng quai đê, lấn biển, biến những bãi bồi ven biển thành các làng xóm trù phú, chính thức thành lập huyện Tiền Hải (biển tiền tiêu).",
+      "location": {
+        "commune": null,
+        "district": "Tiền Hải",
+        "province": "Thái Bình"
+      },
+      "related_figures": [
+        "Nguyễn Công Trứ"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Khai hoang"
+      ]
+    },
+    {
+      "id": "ThaiBinh_REV_01",
+      "year": 1929,
+      "date": "1929-06-01",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại nhà cụ Nguyễn Tông Quai (thôn Hệ, xã Thụy Ninh), Chi bộ Thanh niên Cách mạng Đồng chí Hội được chuyển thành Chi bộ Cộng sản. Đây là tổ chức Đảng đầu tiên của tỉnh Thái Bình, đánh dấu bước ngoặt trong phong trào cách mạng địa phương.",
+      "location": {
+        "commune": "Thụy Ninh",
+        "district": "Thái Thụy",
+        "province": "Thái Bình"
+      },
+      "related_figures": [
+        "Nguyễn Đức Cảnh"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "ThaiBinh_REV_02",
+      "year": 1930,
+      "date": "1930-10-14",
+      "title": "Tiếng trống Tiền Hải",
+      "description": "Hưởng ứng phong trào Xô viết Nghệ Tĩnh, nông dân Tiền Hải dưới sự lãnh đạo của Đảng đã tổ chức biểu tình quy mô lớn tại ngã ba Thanh Nê, đánh trống, phất cờ búa liềm đòi giảm sưu thuế. Đây là cuộc đấu tranh chính trị mở đầu cho phong trào cách mạng 1930-1931 ở Bắc Kỳ.",
+      "location": {
+        "commune": "Thanh Nê",
+        "district": "Kiến Xương",
+        "province": "Thái Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Xô viết Nghệ Tĩnh",
+        "Nông dân"
+      ]
+    },
+    {
+      "id": "ThaiBinh_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại tỉnh lỵ Thái Bình",
+      "description": "Lực lượng Việt Minh cùng hàng ngàn quần chúng nhân dân từ các phủ, huyện kéo về thị xã Thái Bình, bao vây Dinh Tỉnh trưởng và Trại Bảo an binh. Chính quyền cách mạng lâm thời tỉnh Thái Bình chính thức ra mắt nhân dân.",
+      "location": {
+        "commune": "Lê Hồng Phong",
+        "district": "Thành phố Thái Bình",
+        "province": "Thái Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "ThaiBinh_FRENCH_WAR_01",
+      "year": 1950,
+      "date": null,
+      "title": "Xây dựng Làng kháng chiến Nguyên Xá",
+      "description": "Làng Nguyên Xá được xây dựng thành một pháo đài thép với hệ thống hầm hào, rào tre dày đặc. Tại đây, du kích địa phương đã bẻ gãy nhiều cuộc càn quét lớn của quân Pháp, được Hồ Chủ tịch tặng cờ 'Nguyên Xá - Làng kiểu mẫu'.",
+      "location": {
+        "commune": "Nguyên Xá",
+        "district": "Đông Hưng",
+        "province": "Thái Bình"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Du kích chiến"
+      ]
+    },
+    {
+      "id": "ThaiBinh_FRENCH_WAR_02",
+      "year": 1952,
+      "date": "1952-01-01",
+      "title": "Trận chống càn Bưu - Mốc (Bihineau - Mercure)",
+      "description": "Quân và dân Thái Bình phối hợp với Đại đoàn 320 đã chặn đánh quyết liệt chiến dịch càn quét quy mô lớn (mang tên Thủy Ngân - Mercure) của quân Pháp vào vùng Tiên Hưng, Thái Ninh, bảo vệ vững chắc vùng tự do.",
+      "location": {
+        "commune": null,
+        "district": "Thái Thụy",
+        "province": "Thái Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chống càn"
+      ]
+    },
+    {
+      "id": "ThaiBinh_FRENCH_WAR_03",
+      "year": 1954,
+      "date": "1954-06-30",
+      "title": "Giải phóng thị xã Thái Bình",
+      "description": "Sau chiến thắng Điện Biên Phủ, quân Pháp buộc phải rút khỏi thị xã Thái Bình. Các đơn vị bộ đội chủ lực và địa phương tiến vào tiếp quản thị xã, chấm dứt hoàn toàn sự chiếm đóng của thực dân Pháp tại tỉnh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thái Bình",
+        "province": "Thái Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "ThaiBinh_AGRI_01",
+      "year": 1966,
+      "date": null,
+      "title": "Thái Bình đạt danh hiệu 'Quê hương 5 tấn'",
+      "description": "Thái Bình trở thành tỉnh đầu tiên ở miền Bắc đạt năng suất lúa 5 tấn/ha/năm, lập kỷ lục về sản xuất lương thực, đóng góp to lớn cho tiền tuyến miền Nam với khẩu hiệu 'Thóc không thiếu một cân, quân không thiếu một người'.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thái Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Nông nghiệp"
+      ]
+    },
+    {
+      "id": "ThaiBinh_US_WAR_01",
+      "year": 1966,
+      "date": "1966-12-31",
+      "title": "Bác Hồ về thăm Thái Bình lần cuối",
+      "description": "Chủ tịch Hồ Chí Minh về thăm và chúc tết đồng bào Thái Bình tại xã Hiệp Hòa và đình Phương Cáp. Người động viên nhân dân phấn đấu đạt năng suất lúa cao hơn nữa và làm tốt công tác chi viện cho miền Nam.",
+      "location": {
+        "commune": "Hiệp Hòa",
+        "district": "Vũ Thư",
+        "province": "Thái Bình"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lãnh tụ",
+        "Văn hóa"
+      ]
+    }
+  ]
+}

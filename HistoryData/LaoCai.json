@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "LaoCai_COLONIAL_01",
+      "year": 1907,
+      "date": "1907-07-12",
+      "title": "Thành lập tỉnh Lào Cai",
+      "description": "Toàn quyền Đông Dương ra Nghị định bãi bỏ Đạo quan binh số 4, chuyển thành tỉnh dân sự Lào Cai. Đây là dấu mốc pháp lý chính thức xác lập đơn vị hành chính tỉnh Lào Cai trong thời kỳ Pháp thuộc.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lào Cai",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "LaoCai_COLONIAL_02",
+      "year": 1910,
+      "date": "1910-04-01",
+      "title": "Khánh thành đường sắt Hải Phòng - Vân Nam",
+      "description": "Tuyến đường sắt xuyên Á nối Hải Phòng (Việt Nam) với Côn Minh (Trung Quốc) chạy qua Lào Cai chính thức được khánh thành. Đây là công trình khai thác thuộc địa quy mô lớn, biến Lào Cai thành cửa ngõ giao thương quan trọng nhưng cũng cướp đi sinh mạng của hàng vạn phu phen.",
+      "location": {
+        "commune": "Lào Cai",
+        "district": "Thành phố Lào Cai",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Giao thông"
+      ]
+    },
+    {
+      "id": "LaoCai_REV_01",
+      "year": 1946,
+      "date": "1946-10-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Lào Cai được thành lập tại thị xã Lào Cai và vùng mỏ Cam Đường. Sự kiện này đánh dấu bước ngoặt trong công tác lãnh đạo phong trào cách mạng tại vùng biên ải, nơi tình hình chính trị vô cùng phức tạp.",
+      "location": {
+        "commune": "Cam Đường",
+        "district": "Thành phố Lào Cai",
+        "province": "Lào Cai"
+      },
+      "related_figures": [
+        "Lê Thanh Nghị"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "LaoCai_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-02-05",
+      "title": "Thành lập Chi bộ Đảng nông thôn đầu tiên (Chi bộ Soi Cờ)",
+      "description": "Chi bộ Soi Cờ được thành lập tại xã Xuân Quang (Bảo Thắng). Đây là chi bộ đảng đầu tiên ở vùng nông thôn Lào Cai, đóng vai trò hạt nhân trong việc gây dựng cơ sở kháng chiến và lãnh đạo nhân dân đánh Pháp.",
+      "location": {
+        "commune": "Xuân Quang",
+        "district": "Bảo Thắng",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tổ chức Đảng",
+        "Cơ sở cách mạng"
+      ]
+    },
+    {
+      "id": "LaoCai_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-02-13",
+      "title": "Chiến thắng Phố Lu",
+      "description": "Trung đoàn 102 (Trung đoàn Thủ Đô) phối hợp với bộ đội địa phương tấn công tiêu diệt cứ điểm Phố Lu. Chiến thắng này đã phá vỡ một mắt xích quan trọng trong hệ thống phòng thủ của Pháp, cắt đứt đường tiếp tế trên sông Hồng và đường 70.",
+      "location": {
+        "commune": "Phố Lu",
+        "district": "Bảo Thắng",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Công đồn"
+      ]
+    },
+    {
+      "id": "LaoCai_FRENCH_WAR_03",
+      "year": 1950,
+      "date": "1950-11-01",
+      "title": "Giải phóng Lào Cai (Chiến dịch Lê Hồng Phong II)",
+      "description": "Trong đợt 2 của chiến dịch biên giới, quân ta tiến vào giải phóng thị xã Lào Cai. Tàn quân Pháp rút chạy sang bên kia biên giới hoặc về xuôi. Lào Cai sạch bóng quân thù, trở thành hậu phương vững chắc nối liền với căn cứ địa Việt Bắc.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lào Cai",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "LaoCai_CONSTRUCTION_01",
+      "year": 1958,
+      "date": "1958-09-23",
+      "title": "Bác Hồ thăm Lào Cai",
+      "description": "Chủ tịch Hồ Chí Minh lên thăm tỉnh Lào Cai và vùng mỏ Apatit. Người đã nói chuyện với cán bộ, công nhân và đồng bào các dân tộc, căn dặn đoàn kết nội bộ và đẩy mạnh sản xuất công nghiệp, khai thác tài nguyên làm giàu cho đất nước.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lào Cai",
+        "province": "Lào Cai"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lãnh tụ",
+        "Kinh tế"
+      ]
+    },
+    {
+      "id": "LaoCai_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Chiến tranh bảo vệ biên giới tại Lào Cai",
+      "description": "Rạng sáng 17/2, quân đội Trung Quốc pháo kích và tấn công ồ ạt vào thị xã Lào Cai, Mường Khương, Bát Xát. Lực lượng vũ trang địa phương và bộ đội chủ lực (Sư đoàn 316, 345) đã chiến đấu quyết liệt, chặn đứng nhiều mũi tiến công của địch.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lào Cai",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới 1979",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "LaoCai_BORDER_WAR_02",
+      "year": 1979,
+      "date": null,
+      "title": "Trận phòng ngự tại Mường Khương",
+      "description": "Tại khu vực đồn biên phòng Mường Khương và các cao điểm lân cận, cán bộ chiến sĩ biên phòng và dân quân tự vệ đã chiến đấu dũng cảm trong điều kiện bị bao vây, đẩy lùi nhiều đợt sóng người của quân địch để bảo vệ đất đai Tổ quốc.",
+      "location": {
+        "commune": null,
+        "district": "Mường Khương",
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới 1979",
+        "Anh hùng"
+      ]
+    },
+    {
+      "id": "LaoCai_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Lào Cai",
+      "description": "Quốc hội khóa VIII ra Nghị quyết chia tách tỉnh Hoàng Liên Sơn (được hợp nhất từ năm 1975) thành hai tỉnh Yên Bái và Lào Cai. Tỉnh Lào Cai được tái lập, bắt đầu công cuộc tái thiết thị xã vùng biên sau chiến tranh.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lào Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "events": [
+    {
+      "id": "QuangNgai_NGUYEN_01",
+      "year": 1832,
+      "date": null,
+      "title": "Thành lập tỉnh Quảng Ngãi",
+      "description": "Trong cuộc cải cách hành chính lớn của vua Minh Mạng, tỉnh Quảng Ngãi chính thức được thành lập trên cơ sở Doanh Quảng Ngãi. Đây là dấu mốc định hình địa giới hành chính cấp tỉnh của Quảng Ngãi như ngày nay.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Quảng Ngãi",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "QuangNgai_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-07-13",
+      "title": "Cuộc khởi nghĩa Lê Trung Đình",
+      "description": "Ngay sau khi Kinh thành Huế thất thủ, cử nhân Lê Trung Đình và các sĩ phu yêu nước đã tập hợp nghĩa binh tại khu vực bãi sông Trà Khúc, đánh chiếm thành Quảng Ngãi, bắt sống Bố chánh và Án sát, lập ra chính quyền của nghĩa quân trong thời gian ngắn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Quảng Ngãi",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [
+        "Lê Trung Đình",
+        "Nguyễn Tự Tân"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "QuangNgai_REV_01",
+      "year": 1930,
+      "date": "1930-03-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Dư Quang)",
+      "description": "Tại làng Dư Quang (nay thuộc huyện Tư Nghĩa), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Quảng Ngãi được thành lập do đồng chí Phan Thái Ất làm Bí thư. Sự kiện này mở đầu cho sự lãnh đạo của Đảng đối với phong trào cách mạng trong tỉnh.",
+      "location": {
+        "commune": "Nghĩa Thắng",
+        "district": "Tư Nghĩa",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [
+        "Phan Thái Ất"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "QuangNgai_REV_02",
+      "year": 1945,
+      "date": "1945-03-11",
+      "title": "Khởi nghĩa Ba Tơ",
+      "description": "Dưới sự lãnh đạo của Tỉnh ủy lâm thời, cuộc khởi nghĩa Ba Tơ bùng nổ và thắng lợi. Đội du kích Ba Tơ được thành lập, trở thành tiền thân của lực lượng vũ trang Quân khu 5, nổi tiếng với khẩu hiệu 'Hy sinh vì Tổ quốc'.",
+      "location": {
+        "commune": "Ba Tơ",
+        "district": "Ba Tơ",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [
+        "Phạm Kiệt",
+        "Nguyễn Đôn"
+      ],
+      "tags": [
+        "Khởi nghĩa Ba Tơ",
+        "Lực lượng vũ trang"
+      ]
+    },
+    {
+      "id": "QuangNgai_REV_03",
+      "year": 1945,
+      "date": "1945-08-14",
+      "title": "Giành chính quyền tại Quảng Ngãi",
+      "description": "Chớp thời cơ Nhật đầu hàng Đồng minh, Ủy ban Khởi nghĩa tỉnh đã phát động quần chúng bao vây Tòa Công sứ và Dinh Tỉnh trưởng. Đến ngày 16/8, chính quyền cách mạng hoàn toàn làm chủ tỉnh Quảng Ngãi (rất sớm so với cả nước).",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Quảng Ngãi",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_01",
+      "year": 1959,
+      "date": "1959-08-28",
+      "title": "Khởi nghĩa Trà Bồng và miền Tây Quảng Ngãi",
+      "description": "Dưới ánh sáng Nghị quyết 15 của Trung ương Đảng, nhân dân huyện Trà Bồng và các huyện miền núi đã nổi dậy diệt ác, phá kìm, giành quyền làm chủ. Đây là cuộc khởi nghĩa mở đầu cho thời kỳ đấu tranh vũ trang của cách mạng miền Nam.",
+      "location": {
+        "commune": "Trà Phong",
+        "district": "Trà Bồng",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đồng khởi",
+        "Nghị quyết 15"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_02",
+      "year": 1965,
+      "date": "1965-05-31",
+      "title": "Chiến thắng Ba Gia",
+      "description": "Trung đoàn 1 (Bộ đội chủ lực Quân khu 5) đã đánh tiêu diệt Chiến đoàn 51 của quân đội Sài Gòn tại cứ điểm Ba Gia (Sơn Tịnh). Chiến thắng này đánh dấu sự phá sản của chiến lược 'Chiến tranh đặc biệt' trên chiến trường Khu 5.",
+      "location": {
+        "commune": "Tịnh Sơn",
+        "district": "Sơn Tịnh",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến thắng lớn"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_03",
+      "year": 1965,
+      "date": "1965-08-18",
+      "title": "Trận Vạn Tường (Chiến dịch Starlite)",
+      "description": "Quân Mỹ huy động hơn 8.000 quân với máy bay, xe tăng và tàu chiến tấn công vào thôn Vạn Tường để tiêu diệt Trung đoàn 1 chủ lực ta. Quân giải phóng đã dũng cảm đánh trả, bẻ gãy cuộc hành quân, chứng minh khả năng đánh thắng Mỹ trong 'Chiến tranh cục bộ'.",
+      "location": {
+        "commune": "Bình Hải",
+        "district": "Bình Sơn",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Vạn Tường",
+        "Trận đầu đánh Mỹ"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_04",
+      "year": 1968,
+      "date": "1968-03-16",
+      "title": "Vụ thảm sát Sơn Mỹ (Mỹ Lai)",
+      "description": "Lính Mỹ thuộc Lữ đoàn 11, Sư đoàn Americal đã gây ra vụ thảm sát kinh hoàng, giết hại 504 thường dân vô tội (chủ yếu là người già, phụ nữ và trẻ em) tại thôn Mỹ Lai, xã Tịnh Khê. Sự kiện gây chấn động lương tri toàn thế giới và thổi bùng phong trào phản chiến.",
+      "location": {
+        "commune": "Tịnh Khê",
+        "district": "Thành phố Quảng Ngãi",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tội ác chiến tranh",
+        "Sơn Mỹ"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_05",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Giải phóng tỉnh Quảng Ngãi",
+      "description": "Phối hợp với chiến trường Tây Nguyên và Huế - Đà Nẵng, các lực lượng vũ trang tỉnh và bộ đội chủ lực đã tấn công dồn dập, buộc quân địch tháo chạy. Tỉnh Quảng Ngãi hoàn toàn giải phóng, góp phần vào thắng lợi chung của Đại thắng mùa Xuân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Quảng Ngãi",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Xuân 1975"
+      ]
+    },
+    {
+      "id": "QuangNgai_ECONOMY_01",
+      "year": 1997,
+      "date": "1997-04-11",
+      "title": "Thành lập Khu kinh tế Dung Quất",
+      "description": "Thủ tướng Chính phủ ký quyết định thành lập Khu công nghiệp Dung Quất (nay là Khu kinh tế Dung Quất). Năm 2009, Nhà máy Lọc dầu Dung Quất (nhà máy lọc dầu đầu tiên của Việt Nam) tại đây chính thức vận hành thương mại, tạo bước ngoặt kinh tế cho tỉnh.",
+      "location": {
+        "commune": "Bình Thuận",
+        "district": "Bình Sơn",
+        "province": "Quảng Ngãi"
+      },
+      "related_figures": [
+        "Võ Văn Kiệt"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Công nghiệp hóa"
+      ]
+    }
+  ]
+}

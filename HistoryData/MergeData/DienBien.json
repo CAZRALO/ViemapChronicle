@@ -1,0 +1,358 @@
+{
+  "Điện Biên": [
+    {
+      "from": [
+        { "commune": "xã Nậm Vì", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Chung Chải", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Nhé", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Nhé", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sen Thượng", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Leng Su Sìn", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Sín Thầu", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Sín Thầu", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Huổi Lếch", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Toong", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Toong", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Pá Mỳ", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nậm Kè", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Nậm Kè", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Na Cô Sa", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Quảng Lâm", "district": "huyện Mường Nhé", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Quảng Lâm", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nà Khoa", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nậm Nhừ", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nậm Chua", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nà Hỳ", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Nà Hỳ", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Chà Cang", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Chà Nưa", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nậm Tin", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pa Tần", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Chà", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vàng Đán", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nà Bủng", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Nà Bủng", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nậm Khăn", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Chà Tở", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Chà Tở", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phìn Hồ", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Si Pa Phìn", "district": "huyện Nậm Pồ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Si Pa Phìn", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Mường Chà", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Ma Thì Hồ", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Sa Lông", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Na Sang", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Na Sang", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Huổi Lèng", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Tùng", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Tùng", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hừa Ngài", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pa Ham", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Pa Ham", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Huổi Mí", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nậm Nèn", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Nậm Nèn", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mường Mươn", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Pồn", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Pồn", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tủa Chùa", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Báng", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nà Tòng", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Tủa Chùa", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tả Sìn Thàng", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Lao Xả Phình", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Sín Chải", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Sín Chải", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trung Thu", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Tả Phìn", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Sính Phình", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Sính Phình", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Huổi Só", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Tủa Thàng", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Tủa Thàng", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Xá Nhè", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Đun", "district": "huyện Tủa Chùa", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Phình Sáng", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Sáng Nhè", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tuần Giáo", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Quài Cang", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Quài Nưa", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Tuần Giáo", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tỏa Tình", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Tênh Phông", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Quài Tở", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Quài Tở", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mùn Chung", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pú Xi", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Mùn", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Mùn", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Rạng Đông", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Ta Ma", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pú Nhung", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Pú Nhung", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nà Sáy", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Thín", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Khong", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Chiềng Sinh", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Chiềng Sinh", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Mường Ảng", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Ẳng Nưa", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Ẳng Cang", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Ảng", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mường Đăng", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Ngối Cáy", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Nà Tấu", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Nà Tấu", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ẳng Tở", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Chiềng Đông", "district": "huyện Tuần Giáo", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Búng Lao", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Búng Lao", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nặm Lịch", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Xuân Lao", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Lạn", "district": "huyện Mường Ảng", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Lạn", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nà Nhạn", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pá Khoang", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Phăng", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Phăng", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hua Thanh", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Luông", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Hưng", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Chăn", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Nưa", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Thanh Nưa", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Noong Hẹt", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Sam Mứn", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh An", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Thanh An", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Noong Luống", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pa Thơm", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Yên", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Thanh Yên", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Pom Lót", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Na Ư", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Sam Mứn", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hẹ Muông", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Na Tông", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Núa Ngam", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Núa Ngam", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mường Lói", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Phu Luông", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Nhà", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Nhà", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Điện Biên Đông", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Keo Lôm", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Na Son", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Na Son", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phì Nhừ", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Xa Dung", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Xa Dung", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nong U", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Pu Nhi", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Pu Nhi", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Chiềng Sơ", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Luân Giói", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Mường Luân", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Mường Luân", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Háng Lìa", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Tìa Dình", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Tìa Dình", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "xã Pú Hồng", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Phình Giàng", "district": "huyện Điện Biên Đông", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "xã Phình Giàng", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "phường Sông Đà", "district": "thị xã Mường Lay", "province": "tỉnh Điện Biên" },
+        { "commune": "phường Na Lay", "district": "thị xã Mường Lay", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Lay Nưa", "district": "thị xã Mường Lay", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Sá Tổng", "district": "huyện Mường Chà", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "phường Mường Lay", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "phường Him Lam", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "phường Tân Thanh", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "phường Mường Thanh", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "phường Thanh Bình", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "phường Thanh Trường", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Minh", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "phường Điện Biên Phủ", "province": "tỉnh Điện Biên" }
+    },
+    {
+      "from": [
+        { "commune": "phường Noong Bua", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "phường Nam Thanh", "district": "thành phố Điện Biên Phủ", "province": "tỉnh Điện Biên" },
+        { "commune": "xã Thanh Xương", "district": "huyện Điện Biên", "province": "tỉnh Điện Biên" }
+      ],
+      "to": { "commune": "phường Mường Thanh", "province": "tỉnh Điện Biên" }
+    }
+  ]
+}

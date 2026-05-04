@@ -1,0 +1,189 @@
+{
+  "events": [
+    {
+      "id": "DienBien_FEUDAL_01",
+      "year": 1754,
+      "date": null,
+      "title": "Hoàng Công Chất giải phóng Mường Thanh",
+      "description": "Thủ lĩnh nông dân Hoàng Công Chất đã lãnh đạo nghĩa quân cùng người dân địa phương đánh đuổi giặc Phẻ (nhóm thổ phỉ từ phương Bắc), giải phóng hoàn toàn vùng Mường Thanh, xây dựng thành Bản Phủ và trấn giữ vùng biên cương.",
+      "location": {
+        "commune": "Noong Hẹt",
+        "district": "Điện Biên",
+        "province": "Điện Biên"
+      },
+      "related_figures": [
+        "Hoàng Công Chất"
+      ],
+      "tags": [
+        "Khởi nghĩa nông dân",
+        "Lịch sử địa phương"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_01",
+      "year": 1953,
+      "date": "1953-11-20",
+      "title": "Pháp nhảy dù xuống Điện Biên Phủ",
+      "description": "Thực hiện kế hoạch Navarre, quân Pháp mở cuộc hành quân Castor, thả 6 tiểu đoàn dù xuống thung lũng Mường Thanh, bắt đầu xây dựng Điện Biên Phủ thành một tập đoàn cứ điểm quân sự mạnh nhất Đông Dương.",
+      "location": {
+        "commune": "Mường Thanh",
+        "district": "Thành phố Điện Biên Phủ",
+        "province": "Điện Biên"
+      },
+      "related_figures": [
+        "Henri Navarre",
+        "Christian de Castries"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_02",
+      "year": 1953,
+      "date": "1953-12-10",
+      "title": "Giải phóng thị trấn Lai Châu (cũ)",
+      "description": "Để chuẩn bị cho chiến dịch Điện Biên Phủ, Đại đoàn 316 đã tiến công giải phóng thị trấn Lai Châu (nay thuộc thị xã Mường Lay, Điện Biên), buộc quân Pháp phải rút chạy về Điện Biên Phủ, tạo thế bao vây chiến lược.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Mường Lay",
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tiền chiến dịch",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_03",
+      "year": 1954,
+      "date": "1954-03-13",
+      "title": "Trận Him Lam (Mở màn Chiến dịch Điện Biên Phủ)",
+      "description": "Đúng 17 giờ, pháo binh Việt Nam nã đạn cấp tập vào cứ điểm Him Lam (Beatrice). Sau 5 giờ chiến đấu, Đại đoàn 312 đã tiêu diệt hoàn toàn trung tâm đề kháng này, mở toang cánh cửa phía Bắc vào lòng chảo Mường Thanh.",
+      "location": {
+        "commune": "Him Lam",
+        "district": "Thành phố Điện Biên Phủ",
+        "province": "Điện Biên"
+      },
+      "related_figures": [
+        "Phan Đình Giót",
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Chiến dịch Điện Biên Phủ",
+        "Trận đánh mở màn"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_04",
+      "year": 1954,
+      "date": "1954-03-15",
+      "title": "Trận Độc Lập (Gabrielle)",
+      "description": "Đại đoàn 308 và 312 tấn công cứ điểm Độc Lập. Sau một đêm chiến đấu ác liệt dưới mưa pháo, quân ta làm chủ trận địa, bẻ gãy hoàn toàn hệ thống phòng ngự phía Bắc của quân Pháp.",
+      "location": {
+        "commune": "Thanh Nưa",
+        "district": "Điện Biên",
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Điện Biên Phủ",
+        "Công kiên"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_05",
+      "year": 1954,
+      "date": "1954-03-17",
+      "title": "Bức hàng cứ điểm Bản Kéo",
+      "description": "Trước sức ép của pháo binh và công tác địch vận của ta, lính Thái trong quân đội Pháp tại cứ điểm Bản Kéo (Anne Marie) đã ra hàng hoặc bỏ chạy. Phân khu Bắc của địch hoàn toàn sụp đổ.",
+      "location": {
+        "commune": "Thanh Nưa",
+        "district": "Điện Biên",
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Điện Biên Phủ",
+        "Địch vận"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_06",
+      "year": 1954,
+      "date": "1954-05-06",
+      "title": "Tiêu diệt Đồi A1 (Vụ nổ khối bộc phá nghìn cân)",
+      "description": "Đồi A1 (Eliane 2) là cứ điểm kiên cố nhất, diễn ra giằng co suốt 39 ngày đêm. Đêm 6/5, quân ta kích nổ khối bộc phá gần 1000kg trong lòng đồi, phá hủy hầm ngầm địch, tạo điều kiện cho xung kích chiếm lĩnh hoàn toàn cao điểm này.",
+      "location": {
+        "commune": "Mường Thanh",
+        "district": "Thành phố Điện Biên Phủ",
+        "province": "Điện Biên"
+      },
+      "related_figures": [
+        "Nguyễn Văn Bạch",
+        "Lưu Viết Thoảng"
+      ],
+      "tags": [
+        "Chiến dịch Điện Biên Phủ",
+        "A1"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_07",
+      "year": 1954,
+      "date": "1954-05-07",
+      "title": "Chiến thắng Điện Biên Phủ",
+      "description": "Chiều ngày 7/5, lá cờ 'Quyết chiến Quyết thắng' tung bay trên nóc hầm De Castries. Bộ chỉ huy tập đoàn cứ điểm Pháp đầu hàng. Chiến dịch lịch sử kết thúc thắng lợi, chấm dứt ách đô hộ của thực dân Pháp tại Đông Dương.",
+      "location": {
+        "commune": "Mường Thanh",
+        "district": "Thành phố Điện Biên Phủ",
+        "province": "Điện Biên"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp",
+        "Christian de Castries",
+        "Tạ Quốc Luật"
+      ],
+      "tags": [
+        "Chiến thắng lịch sử",
+        "Ngày kỷ niệm"
+      ]
+    },
+    {
+      "id": "DienBien_CONSTRUCTION_01",
+      "year": 1963,
+      "date": null,
+      "title": "Khởi công Đại thủy nông Nậm Rốm",
+      "description": "Hơn 2.000 thanh niên xung phong đã bắt tay vào xây dựng công trình thủy lợi lớn nhất Tây Bắc để đưa nước sông Nậm Rốm tưới cho cánh đồng Mường Thanh. Công trình hoàn thành năm 1969, biến Điện Biên thành vựa lúa lớn nhất vùng.",
+      "location": {
+        "commune": null,
+        "district": "Điện Biên",
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Thủy lợi"
+      ]
+    },
+    {
+      "id": "DienBien_ADMIN_01",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Thành lập tỉnh Điện Biên",
+      "description": "Quốc hội khóa XI thông qua Nghị quyết số 22/2003/QH11 chia tách tỉnh Lai Châu (cũ) thành hai tỉnh Lai Châu (mới) và Điện Biên. Tỉnh Điện Biên chính thức đi vào hoạt động từ ngày 01/01/2004 trên cơ sở vùng đất lịch sử Điện Biên Phủ.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Thành lập tỉnh"
+      ]
+    }
+  ]
+}

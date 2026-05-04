@@ -1,0 +1,210 @@
+{
+  "events": [
+    {
+      "id": "NinhBinh_DINH_01",
+      "year": 968,
+      "date": null,
+      "title": "Đinh Bộ Lĩnh lên ngôi Hoàng đế",
+      "description": "Sau khi dẹp loạn 12 sứ quân, Đinh Bộ Lĩnh lên ngôi Hoàng đế (Đinh Tiên Hoàng), đặt tên nước là Đại Cồ Việt, chọn Hoa Lư làm kinh đô. Đây là nhà nước phong kiến tập quyền đầu tiên của Việt Nam.",
+      "location": {
+        "commune": "Trường Yên",
+        "district": "Hoa Lư",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Đinh Tiên Hoàng"
+      ],
+      "tags": [
+        "Nhà Đinh",
+        "Kinh đô Hoa Lư"
+      ]
+    },
+    {
+      "id": "NinhBinh_LE_01",
+      "year": 981,
+      "date": null,
+      "title": "Chiến thắng quân Tống (Lần 1)",
+      "description": "Tại kinh thành Hoa Lư và các vùng lân cận, Lê Hoàn (Lê Đại Hành) đã chỉ huy quân dân Đại Cồ Việt đánh bại quân xâm lược Tống trên sông Bạch Đằng và ải Chi Lăng, bảo vệ vững chắc nền độc lập dân tộc.",
+      "location": {
+        "commune": "Trường Yên",
+        "district": "Hoa Lư",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Lê Đại Hành"
+      ],
+      "tags": [
+        "Tiền Lê",
+        "Chống ngoại xâm"
+      ]
+    },
+    {
+      "id": "NinhBinh_LY_01",
+      "year": 1010,
+      "date": "1010-10-01",
+      "title": "Dời đô từ Hoa Lư về Thăng Long",
+      "description": "Vua Lý Thái Tổ ban Chiếu dời đô. Đoàn thuyền rồng của nhà vua xuất phát từ bến Ghềnh Tháp (Hoa Lư) ngược dòng sông Đáy ra sông Hồng để về Đại La, kết thúc 42 năm Hoa Lư giữ vai trò là kinh đô của đất nước.",
+      "location": {
+        "commune": "Trường Yên",
+        "district": "Hoa Lư",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Lý Thái Tổ"
+      ],
+      "tags": [
+        "Nhà Lý",
+        "Dời đô"
+      ]
+    },
+    {
+      "id": "NinhBinh_TRAN_01",
+      "year": 1258,
+      "date": null,
+      "title": "Xây dựng Hành cung Vũ Lâm",
+      "description": "Các vua Trần cho xây dựng căn cứ địa Vũ Lâm tại vùng núi non hiểm trở của Ninh Bình. Nơi đây trở thành hậu phương chiến lược trong cuộc kháng chiến chống quân Nguyên Mông lần thứ 2 và thứ 3, đồng thời là nơi vua Trần Nhân Tông xuất gia tu hành.",
+      "location": {
+        "commune": "Ninh Hải",
+        "district": "Hoa Lư",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Trần Thái Tông",
+        "Trần Nhân Tông"
+      ],
+      "tags": [
+        "Nhà Trần",
+        "Kháng chiến chống Nguyên Mông"
+      ]
+    },
+    {
+      "id": "NinhBinh_NGUYEN_01",
+      "year": 1788,
+      "date": "1788-12-20",
+      "title": "Xây dựng phòng tuyến Tam Điệp - Biện Sơn",
+      "description": "Trước thế mạnh của quân Thanh, Ngô Thì Nhậm chủ trương rút quân về Tam Điệp 'để cho quân địch ngủ trọ một đêm'. Tại đây, Nguyễn Huệ đã hội quân với Ngô Thì Nhậm, khao quân ăn Tết sớm và phát động cuộc hành quân thần tốc đại phá quân Thanh.",
+      "location": {
+        "commune": null,
+        "district": "Tam Điệp",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Quang Trung",
+        "Ngô Thì Nhậm"
+      ],
+      "tags": [
+        "Tây Sơn",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "NinhBinh_NGUYEN_02",
+      "year": 1829,
+      "date": "1829-03-26",
+      "title": "Thành lập huyện Kim Sơn",
+      "description": "Doanh điền sứ Nguyễn Công Trứ chiêu mộ dân chúng quai đê, lấn biển, khai khẩn vùng đất bãi bồi ven biển Ninh Bình, chính thức lập nên huyện Kim Sơn (nghĩa là 'Núi Vàng').",
+      "location": {
+        "commune": null,
+        "district": "Kim Sơn",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Nguyễn Công Trứ"
+      ],
+      "tags": [
+        "Khai hoang",
+        "Hành chính"
+      ]
+    },
+    {
+      "id": "NinhBinh_REV_01",
+      "year": 1929,
+      "date": "1929-06-25",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại làng Lũ Phong, Chi bộ Đông Dương Cộng sản Đảng đầu tiên của tỉnh Ninh Bình được thành lập với 4 đảng viên, do đồng chí Lương Văn Thăng làm Bí thư, đánh dấu bước ngoặt của phong trào cách mạng tỉnh.",
+      "location": {
+        "commune": "Quỳnh Lưu",
+        "district": "Nho Quan",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Lương Văn Thăng"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "NinhBinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại tỉnh Ninh Bình",
+      "description": "Dưới sự lãnh đạo của Ủy ban Khởi nghĩa, quần chúng nhân dân đã chiếm Dinh Tỉnh trưởng và Trại Bảo an binh. Tỉnh trưởng Ninh Bình đầu hàng và giao nộp ấn tín. Ủy ban Nhân dân Cách mạng lâm thời tỉnh ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Ninh Bình",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "NinhBinh_FRENCH_WAR_01",
+      "year": 1951,
+      "date": "1951-05-28",
+      "title": "Chiến dịch Hà Nam Ninh (Chiến dịch Quang Trung)",
+      "description": "Đại tướng Võ Nguyên Giáp mở chiến dịch lớn tấn công vào phòng tuyến sông Đáy của Pháp. Trận đánh mở màn tiêu diệt vị trí Non Nước (Ninh Bình) diễn ra ác liệt, tại đây khẩu đội trưởng Hoàng Sâm và chính trị viên Kỳ Vân đã hy sinh anh dũng.",
+      "location": {
+        "commune": "Thanh Bình",
+        "district": "Thành phố Ninh Bình",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp",
+        "Giáp Văn Khương"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến dịch Quang Trung"
+      ]
+    },
+    {
+      "id": "NinhBinh_FRENCH_WAR_02",
+      "year": 1954,
+      "date": "1954-06-30",
+      "title": "Giải phóng thị xã Ninh Bình",
+      "description": "Trước sức ép của quân đội Việt Nam và tình hình bại trận trên chiến trường Đông Dương, quân Pháp rút khỏi thị xã Ninh Bình. Bộ đội ta tiến vào tiếp quản, tỉnh Ninh Bình hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Ninh Bình",
+        "province": "Ninh Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "NinhBinh_ADMIN_01",
+      "year": 1992,
+      "date": "1992-04-01",
+      "title": "Tái lập tỉnh Ninh Bình",
+      "description": "Thực hiện Nghị quyết của Quốc hội khóa VIII về việc chia tách tỉnh Hà Nam Ninh, tỉnh Ninh Bình được tái lập và chính thức đi vào hoạt động, mở ra thời kỳ phát triển kinh tế - xã hội và du lịch.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ninh Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

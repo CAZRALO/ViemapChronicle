@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "LongAn_RESISTANCE_01",
+      "year": 1861,
+      "date": "1861-12-10",
+      "title": "Hỏa hồng Nhựt Tảo (Đốt cháy tàu L'Espérance)",
+      "description": "Nghĩa quân Nguyễn Trung Trực đã tổ chức trận tập kích táo bạo, đốt cháy tàu chiến L'Espérance (Hy Vọng) của Pháp đang neo đậu tại vàm Nhựt Tảo. Đây là trận đánh chìm tàu chiến phương Tây đầu tiên trong lịch sử chống ngoại xâm của Việt Nam, làm nức lòng quân dân cả nước.",
+      "location": {
+        "commune": "An Nhựt Tân",
+        "district": "Tân Trụ",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Nguyễn Trung Trực"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Chiến công"
+      ]
+    },
+    {
+      "id": "LongAn_REV_01",
+      "year": 1930,
+      "date": "1930-03-06",
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên (Đức Hòa)",
+      "description": "Tại làng Đức Hòa, đồng chí Võ Văn Tần đã triệu tập cuộc họp bí mật thành lập Chi bộ Đảng Cộng sản đầu tiên của tỉnh Chợ Lớn (nay thuộc Long An). Sự kiện này biến Đức Hòa trở thành cái nôi cách mạng, ngọn cờ đầu trong các phong trào đấu tranh của tỉnh.",
+      "location": {
+        "commune": "Đức Hòa Thượng",
+        "district": "Đức Hòa",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Võ Văn Tần"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "LongAn_REV_02",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Giành chính quyền tại Tân An",
+      "description": "Tỉnh ủy Tân An đã chớp thời cơ, lãnh đạo quần chúng và lực lượng Thanh niên Tiền phong chiếm Dinh Tỉnh trưởng và các công sở. Tân An là một trong những tỉnh giành chính quyền sớm nhất ở Nam Bộ trong Cách mạng tháng Tám, tạo đà cho Sài Gòn khởi nghĩa.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tân An",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Nguyễn Văn Trọng"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "LongAn_FRENCH_WAR_01",
+      "year": 1948,
+      "date": "1948-08-16",
+      "title": "Trận Mộc Hóa",
+      "description": "Tiểu đoàn 307 và Trung đoàn 120 đã tổ chức công đồn, diệt viện tại Mộc Hóa (vùng Đồng Tháp Mười). Ta tiêu diệt đồn trưởng Louis Bertrand và bắt sống hàng trăm lính. Chiến thắng này mở rộng vùng căn cứ địa Đồng Tháp Mười, nối liền hành lang chiến lược Đông - Tây Nam Bộ.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Kiến Tường",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Đồng Tháp Mười"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_01",
+      "year": 1963,
+      "date": "1963-11-22",
+      "title": "Chiến thắng Hiệp Hòa",
+      "description": "Lực lượng vũ trang tỉnh Long An tấn công Trung tâm huấn luyện biệt kích Hiệp Hòa - một trong những 'xương sống' của chiến lược Chiến tranh đặc biệt. Đây là trận đầu tiên ở Nam Bộ ta tiêu diệt gọn một chi khu và trại huấn luyện biệt kích lớn do cố vấn Mỹ chỉ huy.",
+      "location": {
+        "commune": "Hiệp Hòa",
+        "district": "Đức Hòa",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phá ấp chiến lược"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_02",
+      "year": 1967,
+      "date": "1967-09-17",
+      "title": "Phong tặng danh hiệu 'Trung dũng kiên cường...'",
+      "description": "Tại Đại hội Anh hùng và Chiến sĩ thi đua toàn miền Nam, Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đã phong tặng cho quân dân Long An 8 chữ vàng: 'Trung dũng kiên cường, toàn dân đánh giặc' vì thành tích giữ vững hành lang cửa ngõ Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Danh hiệu",
+        "Lịch sử"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_03",
+      "year": 1972,
+      "date": "1972-05-11",
+      "title": "Trận công kiên Chi khu Đức Huệ",
+      "description": "Trong Chiến dịch Nguyễn Huệ, Sư đoàn 5 và quân dân Long An đã vây lấn, tấn công chi khu Đức Huệ, phá vỡ tuyến phòng thủ biên giới của địch, mở rộng hành lang vận chuyển chiến lược từ biên giới Campuchia xuống Đồng bằng sông Cửu Long.",
+      "location": {
+        "commune": null,
+        "district": "Đức Huệ",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mùa hè đỏ lửa",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng Tân An - Cắt đứt Quốc lộ 4",
+      "description": "Đoàn 232 (Cánh quân phía Tây Nam) phối hợp với lực lượng địa phương tấn công giải phóng thị xã Tân An và các huyện, thực hiện nhiệm vụ chiến lược là cắt đứt Quốc lộ 4 (nay là QL1A), ngăn chặn Quân đoàn 4 ngụy từ miền Tây lên ứng cứu cho Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tân An",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Lê Đức Anh"
+      ],
+      "tags": [
+        "Chiến dịch Hồ Chí Minh",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "LongAn_BORDER_WAR_01",
+      "year": 1978,
+      "date": null,
+      "title": "Chiến đấu bảo vệ biên giới Tây Nam (Đồn Long Khốt)",
+      "description": "Quân Pol Pot xua quân tràn sang biên giới Long An, gây ra nhiều tội ác. Cán bộ, chiến sĩ Đồn biên phòng Long Khốt đã kiên cường bám trụ, đẩy lùi nhiều đợt tấn công quy mô lớn của địch, bảo vệ vững chắc chủ quyền lãnh thổ thiêng liêng.",
+      "location": {
+        "commune": "Thái Bình Trung",
+        "district": "Vĩnh Hưng",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Vũ Xuân Sinh"
+      ],
+      "tags": [
+        "Chiến tranh biên giới",
+        "Bảo vệ tổ quốc"
+      ]
+    },
+    {
+      "id": "LongAn_ECONOMY_01",
+      "year": 2016,
+      "date": "2016-09-00",
+      "title": "Khánh thành Cảng Quốc tế Long An",
+      "description": "Cảng Quốc tế Long An chính thức đi vào hoạt động giai đoạn 1. Đây là dự án động lực quan trọng, đánh dấu sự chuyển mình của Long An từ một tỉnh thuần nông sang phát triển mạnh về công nghiệp và logistics, trở thành trung tâm trung chuyển hàng hóa của ĐBSCL.",
+      "location": {
+        "commune": "Tân Tập",
+        "district": "Cần Giuộc",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Công nghiệp hóa"
+      ]
+    }
+  ]
+}

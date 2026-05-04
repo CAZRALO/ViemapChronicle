@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "AnGiang_NGUYEN_01",
+      "year": 1819,
+      "date": "1819-12-00",
+      "title": "Khởi công đào kênh Vĩnh Tế",
+      "description": "Thoại Ngọc Hầu (Nguyễn Văn Thoại) chỉ huy dân binh bắt đầu đào kênh Vĩnh Tế chạy dọc biên giới Việt - Miên (từ Châu Đốc đến Hà Tiên). Đây là công trình thủy lợi và quốc phòng vĩ đại nhất thời nhà Nguyễn ở Nam Bộ, hoàn thành năm 1824.",
+      "location": {
+        "commune": "Vĩnh Ngươn",
+        "district": "Thành phố Châu Đốc",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Thoại Ngọc Hầu",
+        "Châu Thị Vĩnh Tế"
+      ],
+      "tags": [
+        "Nhà Nguyễn",
+        "Thủy lợi"
+      ]
+    },
+    {
+      "id": "AnGiang_REV_01",
+      "year": 1927,
+      "date": null,
+      "title": "Thành lập Chi bộ Hội Việt Nam Cách mạng Thanh niên đầu tiên",
+      "description": "Tại Long Xuyên, Chi bộ Hội Việt Nam Cách mạng Thanh niên đầu tiên của tỉnh An Giang được thành lập do Châu Văn Liêm làm Bí thư. Đây là tổ chức tiền thân, đặt nền móng cho sự ra đời của Đảng bộ An Giang sau này.",
+      "location": {
+        "commune": "Mỹ Long",
+        "district": "Thành phố Long Xuyên",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Châu Văn Liêm"
+      ],
+      "tags": [
+        "Cách mạng",
+        "Tổ chức tiền thân"
+      ]
+    },
+    {
+      "id": "AnGiang_REV_02",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên (Chợ Mới)",
+      "description": "Tại xã Long Điền (Chợ Mới), Chi bộ Đảng Cộng sản đầu tiên của tỉnh An Giang được thành lập gồm 3 đồng chí, do Lưu Kim Phong làm Bí thư. Chợ Mới trở thành cái nôi cách mạng của tỉnh trong những ngày đầu thành lập Đảng.",
+      "location": {
+        "commune": "Long Điền A",
+        "district": "Chợ Mới",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Lưu Kim Phong",
+        "Ung Văn Khiêm"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "AnGiang_RELIGION_01",
+      "year": 1939,
+      "date": "1939-07-04",
+      "title": "Khai sáng Đạo Phật giáo Hòa Hảo",
+      "description": "Tại làng Hòa Hảo (quận Tân Châu cũ), Đức Huỳnh Giáo Chủ (Huỳnh Phú Sổ) đã làm lễ Khai đạo Phật giáo Hòa Hảo. Đây là một tôn giáo nội sinh có ảnh hưởng sâu rộng đến đời sống văn hóa, xã hội và chính trị tại An Giang và miền Tây Nam Bộ.",
+      "location": {
+        "commune": "Hòa Hảo",
+        "district": "Phú Tân",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Huỳnh Phú Sổ"
+      ],
+      "tags": [
+        "Tôn giáo",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "AnGiang_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Long Xuyên",
+      "description": "Hàng ngàn quần chúng nhân dân từ các huyện Chợ Mới, Lấp Vò, Châu Thành... kéo về thị xã Long Xuyên. Trước sức mạnh của quần chúng, Tỉnh trưởng Lê Văn Sanh phải đầu hàng. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Long Xuyên được thành lập.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Long Xuyên",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Ung Văn Khiêm"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "AnGiang_US_WAR_01",
+      "year": 1968,
+      "date": "1968-11-17",
+      "title": "Chiến thắng Đồi Tức Dụp (Ngọn đồi 2 triệu đô la)",
+      "description": "Quân Mỹ - Ngụy huy động lực lượng lớn cùng máy bay B52 ném bom hòng san phẳng đồi Tức Dụp (thuộc dãy Thất Sơn) - căn cứ của Tỉnh ủy An Giang. Quân dân ta đã bám trụ hang động, chiến đấu kiên cường suốt 128 ngày đêm, buộc địch phải rút lui sau khi tiêu tốn lượng bom đạn trị giá khoảng 2 triệu đô la.",
+      "location": {
+        "commune": "An Tức",
+        "district": "Tri Tôn",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Huyền thoại"
+      ]
+    },
+    {
+      "id": "AnGiang_US_WAR_02",
+      "year": 1975,
+      "date": "1975-05-02",
+      "title": "Giải phóng tỉnh An Giang",
+      "description": "An Giang là một trong những tỉnh được giải phóng muộn nhất ở miền Tây (sau ngày 30/4). Do tính chất đặc thù về tôn giáo và vũ trang địa phương, quân ta vừa tiến công quân sự vừa vận động quần chúng. Đến ngày 2/5, thị xã Long Xuyên và Châu Đốc mới hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Long Xuyên, Châu Đốc",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "AnGiang_BORDER_WAR_01",
+      "year": 1978,
+      "date": "1978-04-18",
+      "title": "Thảm sát Ba Chúc (Chiến tranh biên giới Tây Nam)",
+      "description": "Quân Khmer Đỏ (Pol Pot) tràn sang biên giới, tàn sát dã man 3.157 thường dân vô tội tại xã Ba Chúc (Tri Tôn), phần lớn là người già, phụ nữ và trẻ em trú ẩn trong các chùa chiền. Đây là một trong những tội ác kinh hoàng nhất lịch sử chiến tranh biên giới.",
+      "location": {
+        "commune": "Ba Chúc",
+        "district": "Tri Tôn",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới",
+        "Sự kiện bi thương"
+      ]
+    },
+    {
+      "id": "AnGiang_ADMIN_01",
+      "year": 1999,
+      "date": "1999-03-01",
+      "title": "Thành lập thành phố Long Xuyên",
+      "description": "Thị xã Long Xuyên được nâng cấp lên thành phố trực thuộc tỉnh An Giang. Đây là trung tâm chính trị, kinh tế, văn hóa và giáo dục sầm uất bậc nhất vùng Tứ giác Long Xuyên.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Long Xuyên",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Đô thị hóa"
+      ]
+    },
+    {
+      "id": "AnGiang_CULTURE_01",
+      "year": 2012,
+      "date": "2012-09-27",
+      "title": "Di tích Văn hóa Óc Eo được xếp hạng Quốc gia đặc biệt",
+      "description": "Thủ tướng Chính phủ quyết định xếp hạng Di tích khảo cổ và kiến trúc nghệ thuật Óc Eo - Ba Thê là Di tích quốc gia đặc biệt. Đây là minh chứng cho sự tồn tại của Vương quốc Phù Nam hùng mạnh từng phát triển rực rỡ tại vùng đất này từ đầu Công nguyên.",
+      "location": {
+        "commune": "Thị trấn Óc Eo",
+        "district": "Thoại Sơn",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Louis Malleret"
+      ],
+      "tags": [
+        "Văn hóa Óc Eo",
+        "Di sản"
+      ]
+    }
+  ]
+}

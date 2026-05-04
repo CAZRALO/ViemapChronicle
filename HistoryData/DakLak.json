@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "DakLak_COLONIAL_01",
+      "year": 1904,
+      "date": "1904-11-22",
+      "title": "Thành lập tỉnh Đắk Lắk",
+      "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Đắk Lắk, tách khỏi địa bàn Kon Tum. Tỉnh lỵ ban đầu đặt tại Bản Đôn, sau dời về Buôn Ma Thuột. Đây là mốc khởi đầu cho sự hình thành đơn vị hành chính cấp tỉnh tại vùng đất cao nguyên trung phần.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [
+        "L. Bourgeois"
+      ],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "DakLak_COLONIAL_02",
+      "year": 1930,
+      "date": null,
+      "title": "Xây dựng Nhà đày Buôn Ma Thuột",
+      "description": "Thực dân Pháp xây dựng Nhà đày Buôn Ma Thuột để giam giữ và lưu đày các tù nhân chính trị 'nguy hiểm' nhất từ các tỉnh Trung Kỳ. Nơi đây nổi tiếng với chế độ cai trị tàn bạo nhưng lại trở thành trường học cách mạng kiên trung.",
+      "location": {
+        "commune": "Tự An",
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [
+        "Hồ Tùng Mậu",
+        "Phan Đăng Lưu"
+      ],
+      "tags": [
+        "Nhà tù",
+        "Di tích lịch sử"
+      ]
+    },
+    {
+      "id": "DakLak_REV_01",
+      "year": 1940,
+      "date": null,
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+      "description": "Tại Nhà đày Buôn Ma Thuột, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Đắk Lắk được bí mật thành lập. Chi bộ đã biến nhà tù thành nơi rèn luyện ý chí, đào tạo cán bộ cốt cán cho Đảng (như Nguyễn Chí Thanh, Tố Hữu...).",
+      "location": {
+        "commune": "Tự An",
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [
+        "Hồ Tùng Mậu"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "DakLak_REV_02",
+      "year": 1945,
+      "date": "1945-08-24",
+      "title": "Giành chính quyền tại Buôn Ma Thuột",
+      "description": "Hàng ngàn quần chúng nhân dân và lực lượng tự vệ, thanh niên cứu quốc đã tổ chức mít tinh, giành chính quyền tại thị xã Buôn Ma Thuột. Ủy ban Cách mạng lâm thời tỉnh Đắk Lắk được thành lập, đánh dấu sự sụp đổ của chế độ thực dân phong kiến tại Tây Nguyên.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "DakLak_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-12-01",
+      "title": "Trận chiến đấu bảo vệ thị xã Buôn Ma Thuột",
+      "description": "Quân Pháp quay lại đánh chiếm Tây Nguyên. Các đơn vị bộ đội Nam Tiến và quân dân Đắk Lắk đã chiến đấu dũng cảm tại mặt trận đường 21 và thị xã Buôn Ma Thuột để kìm chân địch, bảo vệ cơ quan đầu não rút lui an toàn để kháng chiến lâu dài.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Nam Tiến"
+      ]
+    },
+    {
+      "id": "DakLak_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-30",
+      "title": "Cuộc tiến công và nổi dậy Tết Mậu Thân",
+      "description": "Lực lượng vũ trang tỉnh Đắk Lắk phối hợp với bộ đội chủ lực tấn công vào các mục tiêu quan trọng tại thị xã Buôn Ma Thuột như Tòa Hành chính, Đài phát thanh, Sân bay Hòa Bình, gây tiếng vang lớn và thiệt hại nặng cho địch.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "DakLak_US_WAR_02",
+      "year": 1975,
+      "date": "1975-03-10",
+      "title": "Chiến thắng Buôn Ma Thuột (Trận then chốt)",
+      "description": "2 giờ sáng, quân ta nổ súng mở màn Chiến dịch Tây Nguyên. Với chiến thuật nghi binh hoàn hảo, ta bất ngờ tập trung hỏa lực tấn công và làm chủ thị xã Buôn Ma Thuột chỉ sau hơn 1 ngày. Chiến thắng này làm rung chuyển hệ thống phòng thủ của địch, mở đầu cho sự sụp đổ dây chuyền của chính quyền Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [
+        "Hoàng Minh Thảo",
+        "Vũ Lăng"
+      ],
+      "tags": [
+        "Chiến dịch Tây Nguyên",
+        "Chiến thắng lịch sử"
+      ]
+    },
+    {
+      "id": "DakLak_US_WAR_03",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Giải phóng hoàn toàn tỉnh Đắk Lắk",
+      "description": "Sau chiến thắng Buôn Ma Thuột và việc đập tan cuộc phản kích của quân đoàn 2 ngụy tại Phước An, quân ta tỏa ra giải phóng các huyện còn lại. Ngày 24/3, tỉnh Đắk Lắk hoàn toàn sạch bóng quân thù.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Xuân 1975"
+      ]
+    },
+    {
+      "id": "DakLak_ADMIN_01",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Chia tách tỉnh Đắk Lắk",
+      "description": "Quốc hội khóa XI thông qua Nghị quyết số 22/2003/QH11 chia tỉnh Đắk Lắk thành hai tỉnh: Đắk Lắk và Đắk Nông. Tỉnh Đắk Lắk mới vẫn giữ tỉnh lỵ là thành phố Buôn Ma Thuột và tiếp tục là trung tâm kinh tế, chính trị của vùng Tây Nguyên.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tách tỉnh"
+      ]
+    },
+    {
+      "id": "DakLak_CULTURE_01",
+      "year": 2005,
+      "date": "2005-11-25",
+      "title": "Không gian văn hóa Cồng chiêng Tây Nguyên được UNESCO ghi danh",
+      "description": "Không gian văn hóa Cồng chiêng Tây Nguyên (trải rộng 5 tỉnh, trong đó Đắk Lắk là một trung tâm quan trọng) được UNESCO công nhận là Kiệt tác truyền khẩu và phi vật thể nhân loại. Sự kiện này khẳng định giá trị văn hóa độc đáo của các dân tộc Ê Đê, M'nông...",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Buôn Ma Thuột",
+        "province": "Đắk Lắk"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa",
+        "Di sản UNESCO"
+      ]
+    }
+  ]
+}

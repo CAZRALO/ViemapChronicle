@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "BenTre_CULTURE_01",
+      "year": 1862,
+      "date": null,
+      "title": "Nguyễn Đình Chiểu về dạy học tại Ba Tri",
+      "description": "Sau khi quân Pháp chiếm 3 tỉnh miền Đông, nhà thơ yêu nước Nguyễn Đình Chiểu đã từ chối hợp tác, về Ba Tri dạy học và bốc thuốc. Tại đây, ông đã sáng tác nhiều tác phẩm bất hủ và sống trọn đạo nghĩa với dân với nước cho đến khi qua đời (1888).",
+      "location": {
+        "commune": "An Đức",
+        "district": "Ba Tri",
+        "province": "Bến Tre"
+      },
+      "related_figures": [
+        "Nguyễn Đình Chiểu"
+      ],
+      "tags": [
+        "Danh nhân",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "BenTre_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Tân Xuân)",
+      "description": "Tại xóm Hòa Bình, xã Tân Xuân, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Bến Tre được thành lập với 10 đảng viên. Đây là hạt nhân lãnh đạo phong trào cách mạng, biến Bến Tre thành một trong những tỉnh có phong trào mạnh nhất Nam Bộ.",
+      "location": {
+        "commune": "Tân Xuân",
+        "district": "Ba Tri",
+        "province": "Bến Tre"
+      },
+      "related_figures": [
+        "Trần Văn An"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BenTre_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Bến Tre",
+      "description": "Hưởng ứng lệnh Tổng khởi nghĩa, lực lượng Thanh niên Tiền phong và quần chúng nhân dân đã bao vây Dinh Tỉnh trưởng và các công sở. Chính quyền tay sai đầu hàng, Ủy ban Hành chính lâm thời tỉnh Bến Tre ra mắt trước cuộc mít tinh của hơn 2 vạn người.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bến Tre",
+        "province": "Bến Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_01",
+      "year": 1946,
+      "date": "1946-06-00",
+      "title": "Chuyến tàu vũ khí đầu tiên từ Bắc vào Nam",
+      "description": "Đội quân báo Bến Tre đã tổ chức vượt biển ra Bắc và vận chuyển thành công chuyến vũ khí đầu tiên về bến Khâu Băng (Thạnh Phú). Sự kiện này đặt nền móng sơ khai cho việc hình thành Đường Hồ Chí Minh trên biển huyền thoại sau này.",
+      "location": {
+        "commune": "Thạnh Phong",
+        "district": "Thạnh Phú",
+        "province": "Bến Tre"
+      },
+      "related_figures": [
+        "Nguyễn Thị Định"
+      ],
+      "tags": [
+        "Đường Hồ Chí Minh trên biển",
+        "Hậu cần"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_02",
+      "year": 1960,
+      "date": "1960-01-17",
+      "title": "Phong trào Đồng Khởi Bến Tre",
+      "description": "Dưới sự lãnh đạo của Nữ tướng Nguyễn Thị Định, nhân dân xã Định Thủy (Mỏ Cày) đã nổi dậy đồng loạt với gậy gộc, giáo mác, đánh chiếm đồn bốt, phá thế kìm kẹp. Ngọn lửa Đồng Khởi từ đây lan ra khắp miền Nam, làm phá sản chiến lược 'Chiến tranh đơn phương' của Mỹ - Diệm.",
+      "location": {
+        "commune": "Định Thủy",
+        "district": "Mỏ Cày Nam",
+        "province": "Bến Tre"
+      },
+      "related_figures": [
+        "Nguyễn Thị Định"
+      ],
+      "tags": [
+        "Đồng Khởi",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_03",
+      "year": 1960,
+      "date": null,
+      "title": "Ra đời 'Đội quân tóc dài'",
+      "description": "Từ phong trào Đồng Khởi, đội quân chính trị gồm toàn phụ nữ đã ra đời tại Bến Tre. Họ sử dụng phương pháp đấu tranh 'ba mũi giáp công', trực diện đấu lý với địch, trở thành nỗi khiếp sợ của quân đội Sài Gòn và là biểu tượng của phụ nữ Việt Nam anh hùng.",
+      "location": {
+        "commune": null,
+        "district": "Mỏ Cày Nam",
+        "province": "Bến Tre"
+      },
+      "related_figures": [
+        "Nguyễn Thị Định"
+      ],
+      "tags": [
+        "Đội quân tóc dài",
+        "Phụ nữ"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_04",
+      "year": 1968,
+      "date": "1968-02-00",
+      "title": "Trận Mậu Thân tại thị xã Bến Tre",
+      "description": "Quân giải phóng tấn công và làm chủ phần lớn thị xã Bến Tre. Để chiếm lại, quân Mỹ đã ném bom hủy diệt thị xã. Câu nói nổi tiếng của một thiếu tá Mỹ: 'Chúng tôi buộc phải phá hủy thị xã này để cứu nó' đã trở thành minh chứng cho sự tàn khốc của chiến tranh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bến Tre",
+        "province": "Bến Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Chiến tranh đô thị"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Bến Tre",
+      "description": "Phối hợp với chiến trường toàn Miền, quân dân Bến Tre đã nổi dậy bao vây, bức rút, bức hàng các đồn bốt địch. Đến 18 giờ 30 phút ngày 30/4, thị xã Bến Tre và toàn tỉnh hoàn toàn giải phóng, kết thúc 30 năm chiến tranh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bến Tre",
+        "province": "Bến Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "BenTre_ECONOMY_01",
+      "year": 2009,
+      "date": "2009-01-19",
+      "title": "Khánh thành Cầu Rạch Miễu",
+      "description": "Cầu Rạch Miễu nối Tiền Giang và Bến Tre chính thức khánh thành, chấm dứt lịch sử hàng trăm năm 'qua sông lụy phà' và thế cô lập 'ốc đảo' của xứ Dừa, mở ra kỷ nguyên phát triển kinh tế mới cho địa phương.",
+      "location": {
+        "commune": "Châu Thành",
+        "district": "Châu Thành",
+        "province": "Bến Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Giao thông"
+      ]
+    },
+    {
+      "id": "BenTre_ECONOMY_02",
+      "year": 2015,
+      "date": "2015-05-16",
+      "title": "Khởi công Cầu Đại Ngãi (Kết nối Trà Vinh - Sóc Trăng)",
+      "description": "Tuy không nằm trực tiếp tại Bến Tre, nhưng cùng với Cầu Cổ Chiên (khánh thành 2015) và Cầu Hàm Luong, hệ thống giao thông ven biển hoàn thiện đã đưa Bến Tre trở thành mắt xích quan trọng trong tuyến hành lang ven biển ĐBSCL.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bến Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giao thông",
+        "Liên kết vùng"
+      ]
+    }
+  ]
+}

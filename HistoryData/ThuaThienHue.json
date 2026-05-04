@@ -1,0 +1,195 @@
+{
+  "events": [
+    {
+      "id": "TTHue_CHAMPA_01",
+      "year": 1306,
+      "date": null,
+      "title": "Sáp nhập Châu Ô, Châu Lý vào Đại Việt",
+      "description": "Vua Chế Mân của Champa dâng hai châu Ô và Lý làm sính lễ cưới Công chúa Huyền Trân nhà Trần. Vùng đất Thừa Thiên Huế chính thức trở thành lãnh thổ Đại Việt, sau đó được đổi tên thành Hóa Châu.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Huyền Trân Công Chúa",
+        "Chế Mân",
+        "Trần Anh Tông"
+      ],
+      "tags": [
+        "Mở mang bờ cõi",
+        "Nhà Trần"
+      ]
+    },
+    {
+      "id": "TTHue_NGUYEN_LORD_01",
+      "year": 1687,
+      "date": null,
+      "title": "Chúa Nguyễn Phúc Thái dời phủ về Phú Xuân",
+      "description": "Chúa Nguyễn Phúc Thái (Chúa Nghĩa) quyết định dời thủ phủ Đàng Trong từ Kim Long về làng Phú Xuân. Sự kiện này đánh dấu sự khởi đầu cho vị thế trung tâm chính trị của Huế trong suốt các triều đại sau này.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Nguyễn Phúc Thái"
+      ],
+      "tags": [
+        "Chúa Nguyễn",
+        "Định đô"
+      ]
+    },
+    {
+      "id": "TTHue_TAYSON_01",
+      "year": 1788,
+      "date": "1788-12-22",
+      "title": "Nguyễn Huệ lên ngôi Hoàng đế",
+      "description": "Tại Núi Bân (phía Nam kinh thành Phú Xuân), Bắc Bình Vương Nguyễn Huệ đã cho lập đàn tế trời đất, chính thức lên ngôi Hoàng đế, lấy niên hiệu là Quang Trung, trước khi xuất quân ra Bắc đại phá quân Thanh.",
+      "location": {
+        "commune": "An Tây",
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Quang Trung"
+      ],
+      "tags": [
+        "Nhà Tây Sơn",
+        "Lên ngôi"
+      ]
+    },
+    {
+      "id": "TTHue_NGUYEN_DYNASTY_01",
+      "year": 1802,
+      "date": null,
+      "title": "Gia Long định đô tại Phú Xuân",
+      "description": "Sau khi đánh bại nhà Tây Sơn và thống nhất đất nước, Nguyễn Ánh lên ngôi Hoàng đế (Gia Long), chọn Phú Xuân (Huế) làm kinh đô của nước Việt Nam thống nhất, bắt đầu công cuộc xây dựng Kinh thành Huế quy mô lớn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Gia Long"
+      ],
+      "tags": [
+        "Nhà Nguyễn",
+        "Kinh đô"
+      ]
+    },
+    {
+      "id": "TTHue_COLONIAL_01",
+      "year": 1885,
+      "date": "1885-07-05",
+      "title": "Cuộc phản công tại Kinh thành Huế (Thất thủ Kinh đô)",
+      "description": "Phái chủ chiến triều Nguyễn do Tôn Thất Thuyết chỉ huy đã nổ súng tấn công trại lính Pháp tại đồn Mang Cá và Tòa Khâm sứ. Cuộc tấn công thất bại, quân Pháp phản công chiếm Kinh thành, tàn sát dân chúng. Vua Hàm Nghi phải bỏ ngai vàng ra Tân Sở, phát chiếu Cần Vương.",
+      "location": {
+        "commune": "Thuận Lộc",
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Tôn Thất Thuyết",
+        "Hàm Nghi"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "TTHue_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Thành lập Đảng bộ tỉnh Thừa Thiên Huế",
+      "description": "Hội nghị thành lập Đảng bộ Đảng Cộng sản Việt Nam tỉnh Thừa Thiên Huế được tổ chức bí mật, đánh dấu bước ngoặt quan trọng trong phong trào cách mạng tại trung tâm đầu não của chế độ thực dân phong kiến.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Lê Viết Lượng"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "TTHue_REV_02",
+      "year": 1945,
+      "date": "1945-08-30",
+      "title": "Vua Bảo Đại thoái vị",
+      "description": "Tại lầu Ngũ Phụng (Ngọ Môn), vua Bảo Đại đã trao ấn kiếm cho đại diện Chính phủ Lâm thời là ông Trần Huy Liệu, tuyên bố 'Thà làm dân một nước độc lập còn hơn làm vua một nước nô lệ', chấm dứt chế độ phong kiến hàng ngàn năm tại Việt Nam.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Bảo Đại",
+        "Trần Huy Liệu"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "TTHue_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công và nổi dậy Tết Mậu Thân (Mặt trận Huế)",
+      "description": "Quân Giải phóng tấn công đồng loạt và làm chủ thành phố Huế trong 26 ngày đêm. Lá cờ Mặt trận Dân tộc Giải phóng tung bay trên cột cờ Phu Văn Lâu. Đây là trận đánh đô thị ác liệt nhất, gây tiếng vang lớn trên thế giới nhưng cũng để lại nhiều đau thương.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [
+        "Lê Minh",
+        "Thân Trọng Một"
+      ],
+      "tags": [
+        "Tết Mậu Thân",
+        "Chiến tranh đô thị"
+      ]
+    },
+    {
+      "id": "TTHue_US_WAR_02",
+      "year": 1975,
+      "date": "1975-03-26",
+      "title": "Giải phóng Thừa Thiên Huế",
+      "description": "Trong Chiến dịch Huế - Đà Nẵng, quân đoàn 2 và lực lượng vũ trang địa phương đã tấn công, đập tan hệ thống phòng thủ của quân đội Sài Gòn. Lá cờ giải phóng được kéo lên đỉnh Kỳ Đài lúc 6h30 sáng, đánh dấu sự giải phóng hoàn toàn Cố đô.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Huế",
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Xuân 1975"
+      ]
+    },
+    {
+      "id": "TTHue_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Tái lập tỉnh Thừa Thiên Huế",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Bình Trị Thiên (hợp nhất từ năm 1976) trở lại thành 3 tỉnh: Quảng Bình, Quảng Trị và Thừa Thiên Huế. Tỉnh Thừa Thiên Huế bắt đầu giai đoạn phát triển mới dựa trên nền tảng văn hóa và du lịch.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thừa Thiên Huế"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

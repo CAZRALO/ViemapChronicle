@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "BacKan_COLONIAL_01",
+      "year": 1900,
+      "date": "1900-04-11",
+      "title": "Thành lập tỉnh Bắc Kạn",
+      "description": "Toàn quyền Đông Dương Paul Doumer ra Nghị định tách phần đất phía Bắc tỉnh Thái Nguyên để thành lập tỉnh Bắc Kạn. Tỉnh lỵ đặt tại thị xã Bắc Kạn, gồm các châu: Bạch Thông, Chợ Rã, Thông Hóa và Cảm Hóa.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bắc Kạn",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Hành chính",
+        "Thành lập tỉnh"
+      ]
+    },
+    {
+      "id": "BacKan_REV_01",
+      "year": 1943,
+      "date": "1943-09-22",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Chí Kiên)",
+      "description": "Tại thôn Co Bi (xã Thượng Ân), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Bắc Kạn được thành lập với tên gọi Chi bộ Chí Kiên, gồm 3 đảng viên, do đồng chí Dương Mạc Hiếu làm Bí thư. Sự kiện đánh dấu bước phát triển mới của phong trào cách mạng tại địa phương.",
+      "location": {
+        "commune": "Thượng Ân",
+        "district": "Ngân Sơn",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp",
+        "Dương Mạc Hiếu"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BacKan_REV_02",
+      "year": 1945,
+      "date": "1945-03-30",
+      "title": "Giải phóng Chợ Rã",
+      "description": "Thực hiện chỉ thị 'Nhật - Pháp bắn nhau và hành động của chúng ta', lực lượng vũ trang cách mạng đã tấn công và giải phóng châu lỵ Chợ Rã. Đây là huyện lỵ đầu tiên của tỉnh Bắc Kạn và cả nước được giải phóng trước ngày Tổng khởi nghĩa.",
+      "location": {
+        "commune": null,
+        "district": "Ba Bể",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tiền khởi nghĩa",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "BacKan_REV_03",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Giành chính quyền tại thị xã Bắc Kạn",
+      "description": "Sau khi quân Nhật đầu hàng, lực lượng giải phóng quân tiến vào tiếp quản thị xã Bắc Kạn. Chính quyền cách mạng lâm thời ra mắt nhân dân tại sân vận động thị xã, tuyên bố xóa bỏ ách thống trị của phát xít và phong kiến.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bắc Kạn",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-10-07",
+      "title": "Quân Pháp nhảy dù xuống Bắc Kạn (Chiến dịch Việt Bắc)",
+      "description": "Mở màn Chiến dịch Việt Bắc Thu - Đông, thực dân Pháp bất ngờ thả quân dù xuống thị xã Bắc Kạn và Chợ Mới nhằm chụp bắt cơ quan đầu não kháng chiến của ta (ATK). Quân dân Bắc Kạn đã nổ súng đánh trả quyết liệt, bảo vệ an toàn cho Trung ương Đảng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bắc Kạn",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [
+        "Raoul Salan"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Việt Bắc Thu Đông"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_02",
+      "year": 1947,
+      "date": "1947-12-15",
+      "title": "Trận phục kích Đèo Giàng",
+      "description": "Tại km 19-20 trên Quốc lộ 3, Trung đoàn 165 và dân quân du kích đã tổ chức trận phục kích lớn, đánh thiệt hại nặng đoàn xe quân sự của Pháp đang rút lui từ Cao Bằng về Bắc Kạn, phá hủy nhiều xe cơ giới và tiêu diệt nhiều sinh lực địch.",
+      "location": {
+        "commune": "Lãng Ngâm",
+        "district": "Ngân Sơn",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phục kích"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_03",
+      "year": 1948,
+      "date": "1948-07-25",
+      "title": "Trận công đồn Phủ Thông",
+      "description": "Tiểu đoàn 11 (Tiểu đoàn Phủ Thông) thuộc Trung đoàn 308 thực hiện trận cường tập quy mô tiểu đoàn đầu tiên vào cứ điểm kiên cố của Pháp. Trận đánh đánh dấu bước trưởng thành vượt bậc về chiến thuật công kiên của quân đội ta.",
+      "location": {
+        "commune": "Phủ Thông",
+        "district": "Bạch Thông",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [
+        "Trần Cừ",
+        "Vũ Yên"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Công đồn"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_04",
+      "year": 1949,
+      "date": "1949-08-24",
+      "title": "Giải phóng thị xã Bắc Kạn",
+      "description": "Trước áp lực bao vây và cắt đứt đường tiếp tế của quân đội ta, quân Pháp buộc phải rút chạy khỏi thị xã Bắc Kạn. Bắc Kạn trở thành thị xã đầu tiên trên cả nước được giải phóng hoàn toàn trong cuộc kháng chiến chống Pháp.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bắc Kạn",
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "BacKan_ADMIN_01",
+      "year": 1965,
+      "date": "1965-04-21",
+      "title": "Thành lập tỉnh Bắc Thái",
+      "description": "Ủy ban Thường vụ Quốc hội ra Quyết định số 103-NQ-TVQH về việc hợp nhất hai tỉnh Thái Nguyên và Bắc Kạn thành tỉnh Bắc Thái. Bắc Kạn trở thành khu vực hậu phương chiến lược trong kháng chiến chống Mỹ.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "BacKan_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Bắc Kạn",
+      "description": "Tại kỳ họp thứ 10, Quốc hội khóa IX đã thông qua Nghị quyết chia tách tỉnh Bắc Thái trở lại thành hai tỉnh Thái Nguyên và Bắc Kạn. Tỉnh Bắc Kạn chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bắc Kạn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

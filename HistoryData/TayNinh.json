@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "TayNinh_RELIGION_01",
+      "year": 1926,
+      "date": "1926-11-18",
+      "title": "Khai đạo Cao Đài",
+      "description": "Lễ Khai đạo chính thức được tổ chức trọng thể tại Chùa Gò Kén (huyện Hòa Thành). Sự kiện này đánh dấu sự ra đời của Đạo Cao Đài - một tôn giáo nội sinh lớn tại Việt Nam, sau đó Tòa Thánh Tây Ninh được xây dựng và trở thành trung tâm của tôn giáo này.",
+      "location": {
+        "commune": "Long Thành Trung",
+        "district": "Thị xã Hòa Thành",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [
+        "Lê Văn Trung",
+        "Cao Quỳnh Cư",
+        "Phạm Công Tắc"
+      ],
+      "tags": [
+        "Tôn giáo",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "TayNinh_REV_01",
+      "year": 1930,
+      "date": "1930-06-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Giồng Nần)",
+      "description": "Tại khu rừng Giồng Nần (Bến Cầu), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Tây Ninh được thành lập. Đây là ngọn cờ đầu tập hợp, giác ngộ quần chúng và lãnh đạo phong trào cách mạng tại vùng biên giới Tây Nam.",
+      "location": {
+        "commune": "Long Vĩnh",
+        "district": "Châu Thành",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [
+        "Trương Văn Chẩn"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "TayNinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Tây Ninh",
+      "description": "Lực lượng Thanh niên Tiền phong và quần chúng nhân dân đã bao vây Dinh Tỉnh trưởng, buộc Tỉnh trưởng Hồ Văn Vui phải giao chính quyền. Ủy ban Hành chính lâm thời tỉnh Tây Ninh ra mắt đồng bào tại sân vận động tỉnh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tây Ninh",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_01",
+      "year": 1960,
+      "date": "1960-01-26",
+      "title": "Chiến thắng Tua Hai",
+      "description": "Lực lượng vũ trang miền Đông Nam Bộ tập kích căn cứ Tua Hai (trụ sở Trung đoàn 32 của quân đội Sài Gòn). Trận đánh đã tiêu diệt và bắt sống nhiều địch, thu lượng lớn vũ khí. Đây là 'phát pháo lệnh' mở đầu cho phong trào Đồng khởi vũ trang tại miền Đông Nam Bộ.",
+      "location": {
+        "commune": "Đồng Khởi",
+        "district": "Châu Thành",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [
+        "Nguyễn Hữu Xuyến"
+      ],
+      "tags": [
+        "Đồng khởi",
+        "Chiến thắng lớn"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_02",
+      "year": 1961,
+      "date": "1961-10-10",
+      "title": "Thành lập Trung ương Cục miền Nam (Căn cứ R)",
+      "description": "Hội nghị thành lập Trung ương Cục miền Nam diễn ra tại Mã Đà, sau đó dời về căn cứ Chàng Riệc (Bắc Tây Ninh). Tây Ninh trở thành 'Thủ đô kháng chiến', nơi đóng quân của cơ quan đầu não chỉ đạo cách mạng miền Nam cho đến ngày thắng lợi.",
+      "location": {
+        "commune": "Tân Lập",
+        "district": "Tân Biên",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [
+        "Nguyễn Văn Linh",
+        "Nguyễn Chí Thanh",
+        "Phạm Hùng"
+      ],
+      "tags": [
+        "Căn cứ địa",
+        "Cơ quan đầu não"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_03",
+      "year": 1967,
+      "date": "1967-02-22",
+      "title": "Đánh bại cuộc hành quân Junction City",
+      "description": "Mỹ huy động 45.000 quân, mở cuộc hành quân lớn nhất trong chiến tranh (Junction City) đánh vào chiến khu Dương Minh Châu nhằm tiêu diệt Trung ương Cục. Quân dân Tây Ninh và các cơ quan đầu não đã kiên cường bám trụ, bẻ gãy gọng kìm của địch, bảo vệ an toàn căn cứ.",
+      "location": {
+        "commune": null,
+        "district": "Tân Biên, Tân Châu",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [
+        "Hoàng Văn Thái"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chống càn"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_04",
+      "year": 1975,
+      "date": "1975-01-07",
+      "title": "Giải phóng Núi Bà Đen",
+      "description": "Sư đoàn 5 và lực lượng đặc công đã tấn công tiêu diệt căn cứ thông tin chiến lược của Mỹ - Ngụy trên đỉnh núi Bà Đen (nơi được mệnh danh là 'Mắt thần' của Đông Nam Bộ). Việc chiếm lĩnh núi Bà Đen đã làm tê liệt hệ thống thông tin liên lạc của địch trong vùng.",
+      "location": {
+        "commune": "Thạnh Tân",
+        "district": "Thành phố Tây Ninh",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Tây Ninh",
+      "description": "Phối hợp với Chiến dịch Hồ Chí Minh lịch sử, lực lượng vũ trang tỉnh đã tấn công vào thị xã Tây Ninh. Đến 11 giờ ngày 30/4, quân ta làm chủ Tòa Hành chính, tỉnh Tây Ninh hoàn toàn giải phóng, góp phần vào đại thắng của cả dân tộc.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tây Ninh",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "TayNinh_BORDER_WAR_01",
+      "year": 1977,
+      "date": "1977-09-25",
+      "title": "Thảm sát Tân Lập (Chiến tranh biên giới Tây Nam)",
+      "description": "Lợi dụng đêm tối, quân Khmer Đỏ (Pol Pot) đã tràn sang xã Tân Lập, gây ra vụ thảm sát man rợ khiến 592 người dân vô tội (phần lớn là người già, phụ nữ, trẻ em) thiệt mạng. Sự kiện này là đỉnh điểm tội ác, buộc quân đội Việt Nam phải tổ chức phản công tự vệ.",
+      "location": {
+        "commune": "Tân Lập",
+        "district": "Tân Biên",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới",
+        "Sự kiện bi thương"
+      ]
+    },
+    {
+      "id": "TayNinh_ECONOMY_01",
+      "year": 1981,
+      "date": "1981-04-29",
+      "title": "Khởi công Hồ Dầu Tiếng",
+      "description": "Công trình thủy lợi Hồ Dầu Tiếng (lớn nhất Đông Nam Á lúc bấy giờ) chính thức được khởi công xây dựng trên thượng nguồn sông Sài Gòn. Công trình hoàn thành năm 1985, đã 'giải khát' cho hàng vạn ha đất nông nghiệp Tây Ninh và các tỉnh lân cận.",
+      "location": {
+        "commune": "Phước Minh",
+        "district": "Dương Minh Châu",
+        "province": "Tây Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Thủy lợi"
+      ]
+    }
+  ]
+}

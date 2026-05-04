@@ -1,0 +1,205 @@
+{
+  "events": [
+    {
+      "id": "QuangNam_NGUYEN_01",
+      "year": 1602,
+      "date": null,
+      "title": "Thành lập Dinh Quảng Nam",
+      "description": "Chúa Tiên Nguyễn Hoàng đổi trấn Quảng Nam thành dinh Quảng Nam, coi đây là 'đất dụng võ', vị trí trọng yếu bậc nhất để mở mang bờ cõi về phương Nam. Ông cử con trai là Nguyễn Phúc Nguyên (Sãi Vương) vào trấn thủ.",
+      "location": {
+        "commune": "Duy Phước",
+        "district": "Duy Xuyên",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [
+        "Nguyễn Hoàng",
+        "Nguyễn Phúc Nguyên"
+      ],
+      "tags": [
+        "Chúa Nguyễn",
+        "Hành chính"
+      ]
+    },
+    {
+      "id": "QuangNam_COLONIAL_01",
+      "year": 1908,
+      "date": "1908-03-11",
+      "title": "Phong trào chống sưu thuế (Trung Kỳ dân biến)",
+      "description": "Bắt nguồn từ cuộc biểu tình của nông dân huyện Đại Lộc đòi giảm sưu thuế, phong trào đã lan rộng khắp Quảng Nam và các tỉnh Trung Kỳ. Đây là đỉnh cao của phong trào Duy Tân, thể hiện tinh thần đấu tranh bất khuất của người dân xứ Quảng.",
+      "location": {
+        "commune": "Đại Nghĩa",
+        "district": "Đại Lộc",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [
+        "Phan Châu Trinh",
+        "Huỳnh Thúc Kháng",
+        "Trần Quý Cáp"
+      ],
+      "tags": [
+        "Phong trào Duy Tân",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "QuangNam_REV_01",
+      "year": 1930,
+      "date": "1930-03-28",
+      "title": "Thành lập Đảng bộ tỉnh Quảng Nam",
+      "description": "Tại khu rừng Cây Thông (gần Hội An), Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam được thành lập. Đây là mốc son lịch sử, đánh dấu sự chuyển biến về chất của phong trào cách mạng tại địa phương dưới sự lãnh đạo của Đảng.",
+      "location": {
+        "commune": "Tân An",
+        "district": "Hội An",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [
+        "Phan Văn Định"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "QuangNam_REV_02",
+      "year": 1945,
+      "date": "1945-08-18",
+      "title": "Giành chính quyền tại Hội An",
+      "description": "Lực lượng bạo động của thị xã Hội An và các huyện lân cận đã chiếm Tòa Công sứ, đồn Bảo an và Tỉnh đường Quảng Nam (đóng tại Hội An). Quảng Nam trở thành một trong 4 tỉnh giành chính quyền sớm nhất cả nước trong Cách mạng tháng Tám.",
+      "location": {
+        "commune": null,
+        "district": "Hội An",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "QuangNam_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-07-20",
+      "title": "Chiến thắng Bồ Bồ",
+      "description": "Đại đội 15, 16 và du kích địa phương đã tập kích cứ điểm Bồ Bồ của Pháp, tiêu diệt và bắt sống gần 300 tên địch. Chiến thắng này được ví như 'Điện Biên Phủ' trên chiến trường Quảng Nam, góp phần buộc Pháp ký Hiệp định Genève.",
+      "location": {
+        "commune": "Điện Tiến",
+        "district": "Điện Bàn",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_01",
+      "year": 1965,
+      "date": "1965-05-26",
+      "title": "Trận Núi Thành (Trận đầu đánh Mỹ)",
+      "description": "Đại đội 2 (Tiểu đoàn 70) và đặc công tỉnh đã táo bạo tập kích Đại đội 2 Thủy quân lục chiến Mỹ tại đồi Núi Thành. Chiến thắng đã trả lời câu hỏi 'Có đánh được Mỹ không?', mở ra phong trào 'Tìm Mỹ mà đánh, tìm Ngụy mà diệt', tặng Quảng Nam danh hiệu 'Trung dũng kiên cường, đi đầu diệt Mỹ'.",
+      "location": {
+        "commune": "Tam Nghĩa",
+        "district": "Núi Thành",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [
+        "Võ Như Hưng"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Trận đầu diệt Mỹ"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_02",
+      "year": 1968,
+      "date": "1968-05-12",
+      "title": "Chiến thắng Khâm Đức - Ngok Tavak",
+      "description": "Sư đoàn 2 (Quân khu 5) tấn công và đánh chiếm chi khu quận lỵ Khâm Đức - một cứ điểm kiên cố của Lực lượng đặc biệt Mỹ án ngữ đường mòn Hồ Chí Minh. Đây là quận lỵ đầu tiên ở miền Nam được giải phóng hoàn toàn.",
+      "location": {
+        "commune": "Khâm Đức",
+        "district": "Phước Sơn",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Giải phóng quận lỵ"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_03",
+      "year": 1974,
+      "date": "1974-08-07",
+      "title": "Chiến thắng Thượng Đức",
+      "description": "Sư đoàn 304 và lực lượng vũ trang địa phương tấn công giải phóng chi khu quân sự Thượng Đức - 'Cánh cửa thép' bảo vệ Đà Nẵng. Chiến thắng này có ý nghĩa chiến lược, giúp Bộ Chính trị đánh giá đúng so sánh lực lượng để hạ quyết tâm giải phóng miền Nam trong năm 1975.",
+      "location": {
+        "commune": "Đại Lãnh",
+        "district": "Đại Lộc",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tiền chiến dịch 1975",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Giải phóng thị xã Tam Kỳ",
+      "description": "Trong Chiến dịch Huế - Đà Nẵng, bộ đội chủ lực Quân khu 5 phối hợp với lực lượng địa phương tấn công mãnh liệt vào sào huyệt địch tại Tam Kỳ. Đến 10h30, lá cờ quyết chiến quyết thắng tung bay trên nóc Tỉnh đường Quảng Tín, giải phóng hoàn toàn tỉnh Quảng Nam.",
+      "location": {
+        "commune": null,
+        "district": "Tam Kỳ",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [
+        "Chu Huy Mân",
+        "Võ Chí Công"
+      ],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "QuangNam_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Quảng Nam",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Quảng Nam - Đà Nẵng thành thành phố Đà Nẵng trực thuộc Trung ương và tỉnh Quảng Nam. Tỉnh Quảng Nam chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997 với tỉnh lỵ đặt tại Tam Kỳ.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quảng Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "QuangNam_CULTURE_01",
+      "year": 1999,
+      "date": "1999-12-04",
+      "title": "Hội An và Mỹ Sơn được UNESCO công nhận Di sản Thế giới",
+      "description": "Tại hội nghị ở Morocco, UNESCO đã chính thức công nhận Đô thị cổ Hội An và Khu đền tháp Mỹ Sơn là Di sản Văn hóa Thế giới. Sự kiện này khẳng định giá trị văn hóa lịch sử to lớn của vùng đất Quảng Nam trên bản đồ thế giới.",
+      "location": {
+        "commune": null,
+        "district": "Hội An, Duy Xuyên",
+        "province": "Quảng Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa",
+        "Di sản thế giới"
+      ]
+    }
+  ]
+}

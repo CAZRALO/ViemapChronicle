@@ -1,0 +1,964 @@
+{
+  "Lâm Đồng": [
+    {
+      "from": [
+        { "commune": "Xã Đạ Sar", "district": "Huyện Lạc Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Nhim", "district": "Huyện Lạc Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Chais", "district": "Huyện Lạc Dương", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Lạc Dương", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thạnh Mỹ", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Ròn", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Tu Tra", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đơn Dương", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lạc Lâm", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Ka Đô", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Ka Đô", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ka Đơn", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Quảng Lập", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Quảng Lập", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn D’Ran", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Lạc Xuân", "district": "Huyện Đơn Dương", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã D’Ran", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hiệp An", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Liên Hiệp", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Hiệp Thạnh", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Hiệp Thạnh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Liên Nghĩa", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Phú Hội", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đức Trọng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thành", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã N’ Thôn Hạ", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Hội", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Tân Hội", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ninh Loan", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Đà Loan", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Tà Hine", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Tà Hine", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đa Quyn", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Tà Năng", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Tà Năng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bình Thạnh", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Văn", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Thị trấn Đinh Văn", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đinh Văn Lâm Hà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Sơn", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Đờn", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Phú Sơn Lâm Hà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nam Hà", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Phi Tô", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Nam Hà Lâm Hà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Nam Ban", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Đông Thanh", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Mê Linh", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Gia Lâm", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Nam Ban Lâm Hà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Hà", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Hoài Đức", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Đan Phượng", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Liên Hà", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Tân Hà Lâm Hà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phúc Thọ", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Thanh", "district": "Huyện Lâm Hà", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Phúc Thọ Lâm Hà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phi Liêng", "district": "Huyện Đam Rông", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ K’Nàng", "district": "Huyện Đam Rông", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đam Rông 1", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Rô Men", "district": "Huyện Đam Rông", "province": "Lâm Đồng" },
+        { "commune": "Xã Liêng Srônh", "district": "Huyện Đam Rông", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đam Rông 2", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đạ Rsal", "district": "Huyện Đam Rông", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ M’Rông", "district": "Huyện Đam Rông", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đam Rông 3", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đạ Tông", "district": "Huyện Đam Rông", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Long", "district": "Huyện Đam Rông", "province": "Lâm Đồng" },
+        { "commune": "Xã Đưng K’Nớ", "district": "Huyện Đam Rông", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đam Rông 4", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Di Linh", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Liên Đầm", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Châu", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Gung Ré", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Di Linh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đinh Trang Hòa", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Hòa Trung", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Hòa Ninh", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Hòa Ninh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hòa Nam", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Hòa Bắc", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Hòa Bắc", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Lâm", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Thượng", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Đinh Trang Thượng", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đinh Trang Thượng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đinh Lạc", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Nghĩa", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Bảo Thuận", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Bảo Thuận", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Gia Bắc", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Sơn Điền", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Sơn Điền", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tam Bố", "district": "Huyện Di Linh", "province": "Lâm Đồng" },
+        { "commune": "Xã Gia Hiệp", "district": "Huyện Di Linh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Gia Hiệp", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lộc Thắng", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Quảng", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Ngãi", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Bảo Lâm 1", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lộc An", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Đức", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Tân Lạc", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Bảo Lâm 2", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lộc Thành", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Nam", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Bảo Lâm 3", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lộc Phú", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Lâm", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã B’Lá", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Bảo Lâm 4", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lộc Bảo", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Bắc", "district": "Huyện Bảo Lâm", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Bảo Lâm 5", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Mađaguôi", "district": "Huyện Đạ Huoai", "province": "Lâm Đồng" },
+        { "commune": "Xã Mađaguôi", "district": "Huyện Đạ Huoai", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Oai", "district": "Huyện Đạ Huoai", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đạ Huoai", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đạ M’ri", "district": "Huyện Đạ Huoai", "province": "Lâm Đồng" },
+        { "commune": "Xã Hà Lâm", "district": "Huyện Đạ Huoai", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đạ Huoai 2", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đạ Tẻh", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" },
+        { "commune": "Xã An Nhơn", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Lây", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đạ Tẻh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Trị", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Pal", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" },
+        { "commune": "Xã Đạ Kho", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đạ Tẻh 2", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mỹ Đức", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" },
+        { "commune": "Xã Quốc Oai", "district": "Huyện Đạ Tẻh", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đạ Tẻh 3", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cát Tiên", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" },
+        { "commune": "Xã Nam Ninh", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" },
+        { "commune": "Xã Quảng Ngãi", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Cát Tiên", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Phước Cát", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" },
+        { "commune": "Xã Phước Cát 2", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" },
+        { "commune": "Xã Đức Phổ", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Cát Tiên 2", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Gia Viễn", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" },
+        { "commune": "Xã Tiên Hoàng", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" },
+        { "commune": "Xã Đồng Nai Thượng", "district": "Huyện Cát Tiên", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Cát Tiên 3", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 2", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 3", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 4", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 10", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường Xuân Hương - Đà Lạt", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 5", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 6", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Xã Tà Nung", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường Cam Ly - Đà Lạt", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 8", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 9", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Phường 12", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường Lâm Viên - Đà Lạt", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 11", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Xã Xuân Thọ", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Xã Xuân Trường", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Xã Trạm Hành", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường Xuân Trường - Đà Lạt", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 7", "district": "Thành phố Đà Lạt", "province": "Lâm Đồng" },
+        { "commune": "Thị trấn Lạc Dương", "district": "Huyện Lạc Dương", "province": "Lâm Đồng" },
+        { "commune": "Xã Lát", "district": "Huyện Lạc Dương", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường Lang Biang - Đà Lạt", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Phường Lộc Phát", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Thanh", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường 1 Bảo Lộc", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 2", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Tân", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Xã ĐamBri", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường 2 Bảo Lộc", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Lộc Tiến", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Châu", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Xã Đại Lào", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường 3 Bảo Lộc", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Lộc Sơn", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Phường B’Lao", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" },
+        { "commune": "Xã Lộc Nga", "district": "Thành phố Bảo Lộc", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Phường B’Lao", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bà Gia", "district": "Huyện Đạ Huoai", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Đạ Huoai 3", "province": "Lâm Đồng" },
+      "note": "Thực hiện đổi tên"
+    },
+    {
+      "from": [
+        { "commune": "Xã Ninh Gia", "district": "Huyện Đức Trọng", "province": "Lâm Đồng" }
+      ],
+      "to": { "commune": "Xã Ninh Gia", "province": "Lâm Đồng" },
+      "note": "Xã không thực hiện sắp xếp"
+    }
+  ],
+  "Bình Thuận": [
+    {
+      "from": [
+        { "commune": "Xã Vĩnh Tân", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Xã Vĩnh Hảo", "district": "Huyện Tuy Phong", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Vĩnh Hảo", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Liên Hương", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Xã Bình Thạnh", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Xã Phước Thể", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Xã Phú Lạc", "district": "Huyện Tuy Phong", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Liên Hương", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phan Dũng", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Một phần Xã Phong Phú", "district": "Huyện Tuy Phong", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tuy Phong", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Phan Rí Cửa", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Xã Chí Công", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Xã Hòa Minh", "district": "Huyện Tuy Phong", "province": "Bình Thuận" },
+        { "commune": "Phần còn lại Xã Phong Phú", "district": "Huyện Tuy Phong", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Phan Rí Cửa", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Chợ Lầu", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Phan Hòa", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Phan Hiệp", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Phan Rí Thành", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Bắc Bình", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phan Thanh", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Hồng Thái", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Một phần Xã Hòa Thắng", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hồng Thái", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bình An", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Phan Điền", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Hải Ninh", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hải Ninh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phan Lâm", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Phan Sơn", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Phan Sơn", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phan Tiến", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Bình Tân", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Sông Lũy", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Sông Lũy", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lương Sơn", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Xã Sông Bình", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Lương Sơn", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hồng Phong", "district": "Huyện Bắc Bình", "province": "Bình Thuận" },
+        { "commune": "Phần còn lại Xã Hòa Thắng", "district": "Huyện Bắc Bình", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hòa Thắng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đông Tiến", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Đông Giang", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Đông Giang", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đa Mi", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã La Dạ", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã La Dạ", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thuận Hòa", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Trí", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Phú", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Thuận Bắc", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Ma Lâm", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Thuận Minh", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Đức", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Thuận", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hồng Liêm", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Hồng Sơn", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hồng Sơn", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hàm Chính", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Liêm", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Liêm", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiến Lợi", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Mỹ", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tuyên Quang", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mỹ Thạnh", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Cần", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Thạnh", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Thạnh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mương Mán", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Cường", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Kiệm", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Kiệm", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thành", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Thuận Quý", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Thuận", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tân Thành", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thuận Nam", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Minh", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Thuận Nam", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Sông Phan", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Lập", "district": "Huyện Hàm Thuận Nam", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tân Lập", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Tân Minh", "district": "Huyện Hàm Tân", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Đức", "district": "Huyện Hàm Tân", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Phúc", "district": "Huyện Hàm Tân", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tân Minh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Hà", "district": "Huyện Hàm Tân", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Xuân", "district": "Huyện Hàm Tân", "province": "Bình Thuận" },
+        { "commune": "Thị trấn Tân Nghĩa", "district": "Huyện Hàm Tân", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hàm Tân", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thắng", "district": "Huyện Hàm Tân", "province": "Bình Thuận" },
+        { "commune": "Xã Thắng Hải", "district": "Huyện Hàm Tân", "province": "Bình Thuận" },
+        { "commune": "Xã Sơn Mỹ", "district": "Huyện Hàm Tân", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Sơn Mỹ", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Tiến", "district": "Thị xã La Gi", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Hải", "district": "Thị xã La Gi", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tân Hải", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đức Phú", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Nghị Đức", "district": "Huyện Tánh Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Nghị Đức", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Măng Tố", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Bắc Ruộng", "district": "Huyện Tánh Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Bắc Ruộng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Huy Khiêm", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã La Ngâu", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đức Bình", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đồng Kho", "district": "Huyện Tánh Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Đồng Kho", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lạc Tánh", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Gia An", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đức Thuận", "district": "Huyện Tánh Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Tánh Linh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Gia Huynh", "district": "Huyện Tánh Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Suối Kiết", "district": "Huyện Tánh Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Suối Kiết", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mê Pu", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Sùng Nhơn", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đa Kai", "district": "Huyện Đức Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Nam Thành", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Võ Xu", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Nam Chính", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Vũ Hòa", "district": "Huyện Đức Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Đức Linh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đức Tài", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đức Tín", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đức Hạnh", "district": "Huyện Đức Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Hoài Đức", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Hà", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Đông Hà", "district": "Huyện Đức Linh", "province": "Bình Thuận" },
+        { "commune": "Xã Trà Tân", "district": "Huyện Đức Linh", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Xã Trà Tân", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Xuân An", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Thị trấn Phú Long", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Thắng", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Hàm Thắng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Phú Tài", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Xã Phong Nẫm", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Xã Hàm Hiệp", "district": "Huyện Hàm Thuận Bắc", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Bình Thuận", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Hàm Tiến", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Phường Mũi Né", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Xã Thiện Nghiệp", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Mũi Né", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Thanh Hải", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Phường Phú Hài", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Phường Phú Thủy", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Phú Thủy", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Phú Trinh", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Phường Lạc Đạo", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Phường Bình Hưng", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Phan Thiết", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Đức Long", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" },
+        { "commune": "Xã Tiến Thành", "district": "Thành phố Phan Thiết", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Tiến Thành", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Tân An", "district": "Thị xã La Gi", "province": "Bình Thuận" },
+        { "commune": "Phường Bình Tân", "district": "Thị xã La Gi", "province": "Bình Thuận" },
+        { "commune": "Phường Tân Thiện", "district": "Thị xã La Gi", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Bình", "district": "Thị xã La Gi", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường La Gi", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Phước Lộc", "district": "Thị xã La Gi", "province": "Bình Thuận" },
+        { "commune": "Phường Phước Hội", "district": "Thị xã La Gi", "province": "Bình Thuận" },
+        { "commune": "Xã Tân Phước", "district": "Thị xã La Gi", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Phường Phước Hội", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Long Hải", "district": "Huyện Phú Quý", "province": "Bình Thuận" },
+        { "commune": "Xã Ngũ Phụng", "district": "Huyện Phú Quý", "province": "Bình Thuận" },
+        { "commune": "Xã Tam Thanh", "district": "Huyện Phú Quý", "province": "Bình Thuận" }
+      ],
+      "to": { "commune": "Đặc khu Phú Quý", "province": "Lâm Đồng" }
+    }
+  ],
+  "Đắk Nông": [
+    {
+      "from": [
+        { "commune": "Xã Ea Pô", "district": "Huyện Cư Jút", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Wil", "district": "Huyện Cư Jút", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Đắk Wil", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk D’rông", "district": "Huyện Cư Jút", "province": "Đắk Nông" },
+        { "commune": "Xã Nam Dong", "district": "Huyện Cư Jút", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Nam Dong", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Ea T’ling", "district": "Huyện Cư Jút", "province": "Đắk Nông" },
+        { "commune": "Xã Trúc Sơn", "district": "Huyện Cư Jút", "province": "Đắk Nông" },
+        { "commune": "Xã Tâm Thắng", "district": "Huyện Cư Jút", "province": "Đắk Nông" },
+        { "commune": "Xã Cư K’nia", "district": "Huyện Cư Jút", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Cư Jút", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Lao", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Thuận An", "district": "Huyện Đắk Mil", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Thuận An", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đắk Mil", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Đức Mạnh", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Đức Minh", "district": "Huyện Đắk Mil", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Đức Lập", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Gằn", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk N’Drót", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk R’La", "district": "Huyện Đắk Mil", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Đắk Mil", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nam Xuân", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Long Sơn", "district": "Huyện Đắk Mil", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Sắk", "district": "Huyện Đắk Mil", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Đắk Sắk", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Buôn Choáh", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Sôr", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Xã Nam Đà", "district": "Huyện Krông Nô", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Nam Đà", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thành", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Drô", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Thị trấn Đắk Mâm", "district": "Huyện Krông Nô", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Krông Nô", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nâm N’Đir", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Xã Nâm Nung", "district": "Huyện Krông Nô", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Nâm Nung", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đức Xuyên", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Nang", "district": "Huyện Krông Nô", "province": "Đắk Nông" },
+        { "commune": "Xã Quảng Phú", "district": "Huyện Krông Nô", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Phú", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Môl", "district": "Huyện Đắk Song", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Hòa", "district": "Huyện Đắk Song", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Đắk Song", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đức An", "district": "Huyện Đắk Song", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk N’Drung", "district": "Huyện Đắk Song", "province": "Đắk Nông" },
+        { "commune": "Xã Nam Bình", "district": "Huyện Đắk Song", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Đức An", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thuận Hà", "district": "Huyện Đắk Song", "province": "Đắk Nông" },
+        { "commune": "Xã Thuận Hạnh", "district": "Huyện Đắk Song", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Thuận Hạnh", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nâm N’Jang", "district": "Huyện Đắk Song", "province": "Đắk Nông" },
+        { "commune": "Xã Trường Xuân", "district": "Huyện Đắk Song", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Trường Xuân", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Som", "district": "Huyện Đắk Glong", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk R’Măng", "district": "Huyện Đắk Glong", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Tà Đùng", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Plao", "district": "Huyện Đắk Glong", "province": "Đắk Nông" },
+        { "commune": "Xã Quảng Khê", "district": "Huyện Đắk Glong", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Khê", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Ngo", "district": "Huyện Tuy Đức", "province": "Đắk Nông" },
+        { "commune": "Xã Quảng Tân", "district": "Huyện Tuy Đức", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Tân", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Tâm", "district": "Huyện Tuy Đức", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk R’Tíh", "district": "Huyện Tuy Đức", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Búk So", "district": "Huyện Tuy Đức", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Tuy Đức", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Kiến Đức", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Đạo Nghĩa", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Nghĩa Thắng", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Kiến Thành", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Kiến Đức", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nhân Đạo", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Wer", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Nhân Cơ", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Nhân Cơ", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đắk Sin", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Hưng Bình", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Ru", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" },
+        { "commune": "Xã Quảng Tín", "district": "Huyện Đắk R'Lấp", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Tín", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Quảng Thành", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" },
+        { "commune": "Phường Nghĩa Thành", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" },
+        { "commune": "Phường Nghĩa Đức", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Ha", "district": "Huyện Đắk Glong", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Phường Bắc Gia Nghĩa", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Nghĩa Phú", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" },
+        { "commune": "Phường Nghĩa Tân", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk R’Moan", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Phường Nam Gia Nghĩa", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Nghĩa Trung", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" },
+        { "commune": "Xã Đắk Nia", "district": "Thành phố Gia Nghĩa", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Phường Đông Gia Nghĩa", "province": "Lâm Đồng" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Hòa", "district": "Huyện Đắk Glong", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Hòa", "province": "Lâm Đồng" },
+      "note": "Xã không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Sơn", "district": "Huyện Đắk Glong", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Sơn", "province": "Lâm Đồng" },
+      "note": "Xã không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Trực", "district": "Huyện Tuy Đức", "province": "Đắk Nông" }
+      ],
+      "to": { "commune": "Xã Quảng Trực", "province": "Lâm Đồng" },
+      "note": "Xã không thực hiện sắp xếp"
+    }
+  ]
+}

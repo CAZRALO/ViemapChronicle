@@ -1,0 +1,199 @@
+{
+  "events": [
+    {
+      "id": "PhuYen_FOUNDING_01",
+      "year": 1611,
+      "date": null,
+      "title": "Thành lập Phủ Phú Yên",
+      "description": "Chúa Nguyễn Hoàng sai Chủ sự Văn Phong đưa quân vào dẹp loạn quân Chiêm Thành quấy phá biên giới. Sau khi bình định, chúa Nguyễn cho lập phủ Phú Yên gồm hai huyện Đồng Xuân và Tuy Hòa, đặt dưới sự cai quản của Dinh Quảng Nam.",
+      "location": {
+        "commune": "An Thạch",
+        "district": "Tuy An",
+        "province": "Phú Yên"
+      },
+      "related_figures": [
+        "Nguyễn Hoàng",
+        "Văn Phong",
+        "Lương Văn Chánh"
+      ],
+      "tags": [
+        "Mở mang bờ cõi",
+        "Chúa Nguyễn"
+      ]
+    },
+    {
+      "id": "PhuYen_CANVUONG_01",
+      "year": 1885,
+      "date": null,
+      "title": "Khởi nghĩa Lê Thành Phương",
+      "description": "Hưởng ứng chiếu Cần Vương, Lê Thành Phương đã dựng cờ khởi nghĩa tại núi Một (Tuy An), được nhân dân tôn làm Thống soái quân vụ. Nghĩa quân đã làm chủ tỉnh Phú Yên trong 2 năm (1885-1887) trước khi bị quân Pháp đàn áp.",
+      "location": {
+        "commune": "An Hiệp",
+        "district": "Tuy An",
+        "province": "Phú Yên"
+      },
+      "related_figures": [
+        "Lê Thành Phương"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "PhuYen_REV_01",
+      "year": 1930,
+      "date": "1930-10-05",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại xóm Đồng Bé (thôn Phước Long), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Phú Yên được thành lập với 9 đảng viên, do đồng chí Phan Lưu Thanh làm Bí thư. Sự kiện đánh dấu bước ngoặt lịch sử trong phong trào cách mạng tại địa phương.",
+      "location": {
+        "commune": "Xuân Long",
+        "district": "Đồng Xuân",
+        "province": "Phú Yên"
+      },
+      "related_figures": [
+        "Phan Lưu Thanh"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "PhuYen_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Tuy Hòa",
+      "description": "Hơn 15.000 quần chúng nhân dân từ các ngả đường kéo về sân vận động thị xã Tuy Hòa dự mít tinh. Ủy ban Khởi nghĩa tuyên bố xóa bỏ chính quyền thực dân phong kiến, thành lập Ủy ban Nhân dân Cách mạng lâm thời tỉnh Phú Yên.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tuy Hòa",
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "PhuYen_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-06-00",
+      "title": "Đánh bại Chiến dịch Át-lăng (Atlante)",
+      "description": "Quân dân Phú Yên phối hợp với chủ lực Liên khu 5 đã tổ chức phản công, bẻ gãy hoàn toàn chiến dịch Át-lăng (chiến dịch quân sự quy mô lớn nhất của Pháp tại chiến trường Nam Trung Bộ), giải phóng hoàn toàn tỉnh Phú Yên trước khi Hiệp định Genève được ký kết.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_01",
+      "year": 1960,
+      "date": "1960-12-22",
+      "title": "Đồng khởi Hòa Thịnh",
+      "description": "Dưới ánh sáng Nghị quyết 15, nhân dân xã Hòa Thịnh (Tuy Hòa) đã nhất loạt nổi dậy, dùng gậy gộc, giáo mác phá tan bộ máy kìm kẹp của địch. Đây là ngọn cờ đầu của phong trào Đồng khởi ở vùng đồng bằng Khu 5.",
+      "location": {
+        "commune": "Hòa Thịnh",
+        "district": "Tây Hòa",
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đồng khởi",
+        "Phá kìm"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_02",
+      "year": 1965,
+      "date": "1965-02-15",
+      "title": "Sự kiện Vũng Rô (Tàu Không số)",
+      "description": "Tàu 143 thuộc Đoàn 125 Hải quân chở vũ khí cập bến Vũng Rô thì bị địch phát hiện. Cuộc chiến đấu không cân sức giữa các thủy thủ, quân dân địa phương với hải lục không quân Mỹ diễn ra ác liệt. Để bảo vệ bí mật, ta buộc phải hủy tàu. Sự kiện này chấm dứt bí mật của con đường Hồ Chí Minh trên biển.",
+      "location": {
+        "commune": "Hòa Xuân Nam",
+        "district": "Thị xã Đông Hòa",
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đường Hồ Chí Minh trên biển",
+        "Hải quân"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_03",
+      "year": 1966,
+      "date": "1966-06-24",
+      "title": "Chiến thắng Gò Thì Thùng",
+      "description": "Tại hệ thống địa đạo Gò Thì Thùng (được mệnh danh là Củ Chi của Phú Yên), bộ đội chủ lực Quân khu 5 và dân quân du kích đã đánh bại cuộc hành quân càn quét quy mô lớn của Sư đoàn Mãnh Hổ (Hàn Quốc) và quân Mỹ.",
+      "location": {
+        "commune": "An Xuân",
+        "district": "Tuy An",
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Địa đạo"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Chiến thắng Đường 7 - Sông Ba",
+      "description": "Sau khi thất thủ ở Buôn Ma Thuột, Quân đoàn 2 ngụy rút chạy theo đường 7 (nay là QL25) về Tuy Hòa. Quân ta đã tổ chức truy kích, chặn đánh và tiêu diệt hoàn toàn quân địch tại khu vực Củng Sơn và hạ lưu sông Ba, tạo nên 'cơn ác mộng Đường 7'.",
+      "location": {
+        "commune": "Sơn Hà",
+        "district": "Sơn Hòa",
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Truy kích"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-01",
+      "title": "Giải phóng tỉnh Phú Yên",
+      "description": "Quân đoàn 2, Sư đoàn 320 và lực lượng vũ trang địa phương tiến vào giải phóng thị xã Tuy Hòa. Cờ giải phóng tung bay trên tháp Nhạn, tỉnh Phú Yên hoàn toàn sạch bóng quân thù.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tuy Hòa",
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Xuân 1975"
+      ]
+    },
+    {
+      "id": "PhuYen_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Tái lập tỉnh Phú Yên",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Phú Khánh (được hợp nhất từ năm 1975) thành hai tỉnh Phú Yên và Khánh Hòa. Tỉnh Phú Yên chính thức đi vào hoạt động trở lại từ ngày 01/07/1989.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phú Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

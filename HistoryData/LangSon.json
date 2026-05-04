@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "LangSon_LE_01",
+      "year": 1427,
+      "date": "1427-10-10",
+      "title": "Chiến thắng Chi Lăng - Xương Giang",
+      "description": "Tại ải Chi Lăng, nghĩa quân Lam Sơn do Lê Lợi và Lê Sát chỉ huy đã tổ chức phục kích, chém đầu chủ tướng quân Minh là Liễu Thăng. Chiến thắng này đã đập tan viện binh của địch, buộc Vương Thông phải đầu hàng, chấm dứt 20 năm đô hộ của nhà Minh.",
+      "location": {
+        "commune": "Chi Lăng",
+        "district": "Chi Lăng",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [
+        "Lê Lợi",
+        "Lê Sát",
+        "Liễu Thăng"
+      ],
+      "tags": [
+        "Khởi nghĩa Lam Sơn",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "LangSon_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Thành lập tỉnh Lạng Sơn",
+      "description": "Trong cuộc cải cách hành chính lớn của vua Minh Mạng, trấn Lạng Sơn được đổi thành tỉnh Lạng Sơn. Đây là mốc thời gian chính thức xác lập danh xưng và địa giới hành chính cấp tỉnh của Lạng Sơn trong lịch sử.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lạng Sơn",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "LangSon_COLONIAL_01",
+      "year": 1885,
+      "date": "1885-02-13",
+      "title": "Quân Pháp chiếm Lạng Sơn",
+      "description": "Trong chiến dịch Lạng Sơn, quân đội viễn chinh Pháp đã tấn công và chiếm được thành Lạng Sơn từ tay quân Thanh và lực lượng Cờ Đen. Tuy nhiên, cuộc rút lui hỗn loạn sau đó tại trận Bang Bo đã dẫn đến sự sụp đổ của chính phủ Jules Ferry tại Pháp.",
+      "location": {
+        "commune": "Chi Lăng",
+        "district": "Thành phố Lạng Sơn",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pháp thuộc",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "LangSon_REV_01",
+      "year": 1940,
+      "date": "1940-09-27",
+      "title": "Khởi nghĩa Bắc Sơn",
+      "description": "Lợi dụng việc quân Nhật đánh chiếm Lạng Sơn khiến quân Pháp tháo chạy, Đảng bộ Bắc Sơn đã lãnh đạo nhân dân nổi dậy chiếm đồn Mỏ Nhài, xóa bỏ chính quyền địch. Đây là tiếng súng báo hiệu cho thời kỳ đấu tranh vũ trang của cách mạng Việt Nam.",
+      "location": {
+        "commune": "Hưng Vũ",
+        "district": "Bắc Sơn",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [
+        "Phùng Chí Kiên",
+        "Chu Văn Tấn"
+      ],
+      "tags": [
+        "Khởi nghĩa Bắc Sơn",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "LangSon_REV_02",
+      "year": 1941,
+      "date": "1941-02-14",
+      "title": "Thành lập Trung đội Cứu quốc quân I",
+      "description": "Tại khu rừng Khuổi Nọi, Đội du kích Bắc Sơn được đổi tên và chính thức thành lập Trung đội Cứu quốc quân I. Đây là một trong những đơn vị tiền thân của Quân đội Nhân dân Việt Nam.",
+      "location": {
+        "commune": "Vũ Lễ",
+        "district": "Bắc Sơn",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [
+        "Lương Văn Tri",
+        "Chu Văn Tấn"
+      ],
+      "tags": [
+        "Lực lượng vũ trang",
+        "Tiền khởi nghĩa"
+      ]
+    },
+    {
+      "id": "LangSon_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại tỉnh lỵ Lạng Sơn",
+      "description": "Lực lượng cách mạng và quần chúng nhân dân đã bao vây, chiếm Dinh Tỉnh trưởng và các công sở tại thị xã Lạng Sơn. Chính quyền Nhật buộc phải đầu hàng, Ủy ban Cách mạng lâm thời tỉnh Lạng Sơn ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lạng Sơn",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [
+        "Lương Như Ý"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "LangSon_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-10-30",
+      "title": "Chiến thắng Bông Lau - Lũng Phầy",
+      "description": "Tiểu đoàn 374 và du kích địa phương tổ chức phục kích đoàn xe quân sự Pháp trên đường số 4 (đoạn đèo Bông Lau), phá hủy 27 xe, tiêu diệt nhiều sinh lực địch. Đây là trận phục kích giao thông lớn, gây tiếng vang trong những năm đầu kháng chiến.",
+      "location": {
+        "commune": "Tri Phương",
+        "district": "Tràng Định",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phục kích"
+      ]
+    },
+    {
+      "id": "LangSon_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-10-17",
+      "title": "Giải phóng Lạng Sơn (Chiến thắng Đường 4)",
+      "description": "Sau thất bại thảm hại tại Đông Khê và Cốc Xá (Cao Bằng), hệ thống phòng thủ của Pháp trên đường số 4 sụp đổ. Quân Pháp rút chạy khỏi Lạng Sơn, bộ đội ta tiến vào tiếp quản thị xã, giải phóng hoàn toàn vùng biên giới Việt - Trung.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lạng Sơn",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Biên giới",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "LangSon_ADMIN_01",
+      "year": 1978,
+      "date": "1978-12-29",
+      "title": "Tái lập tỉnh Lạng Sơn",
+      "description": "Quốc hội khóa VI ra Nghị quyết chia tách tỉnh Cao Lạng (được hợp nhất từ năm 1975) thành hai tỉnh Cao Bằng và Lạng Sơn. Tỉnh Lạng Sơn trở lại địa giới hành chính cũ, chuẩn bị đối mặt với cuộc chiến tranh biên giới.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "LangSon_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Chiến tranh bảo vệ biên giới tại Lạng Sơn",
+      "description": "Quân đoàn 55 của Trung Quốc tấn công ồ ạt vào khu vực Đồng Đăng và Hữu Nghị Quan. Sư đoàn 3 (Sao Vàng) cùng quân dân Lạng Sơn đã chiến đấu kiên cường tại Pháo đài Đồng Đăng, cầu Khánh Khê để ngăn chặn địch tiến về thị xã.",
+      "location": {
+        "commune": "Đồng Đăng",
+        "district": "Cao Lộc",
+        "province": "Lạng Sơn"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới 1979",
+        "Quân sự"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "events": [
+    {
+      "id": "HungYen_EARLY_01",
+      "year": 547,
+      "date": null,
+      "title": "Xây dựng căn cứ Dạ Trạch (Nhất Dạ Trạch)",
+      "description": "Sau khi Lý Nam Đế thất thủ, Triệu Quang Phục (Triệu Việt Vương) đã lui quân về đầm Dạ Trạch, sử dụng chiến thuật đánh du kích độc đáo để cầm cự và tiêu hao lực lượng quân Lương, viết nên trang sử hào hùng của vùng đất này.",
+      "location": {
+        "commune": "Dạ Trạch",
+        "district": "Khoái Châu",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [
+        "Triệu Việt Vương"
+      ],
+      "tags": [
+        "Tiền Lý",
+        "Chống ngoại xâm"
+      ]
+    },
+    {
+      "id": "HungYen_LE_TRINH_01",
+      "year": 1600,
+      "date": null,
+      "title": "Hưng thịnh Phố Hiến",
+      "description": "Vào thế kỷ 17, Phố Hiến phát triển rực rỡ, trở thành thương cảng sầm uất với câu ca 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'. Nơi đây tập trung nhiều thương điếm của người Hà Lan, Anh, Pháp, Nhật Bản, Trung Quốc.",
+      "location": {
+        "commune": "Lam Sơn",
+        "district": "Hưng Yên",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Thương cảng"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_01",
+      "year": 1883,
+      "date": null,
+      "title": "Khởi nghĩa Bãi Sậy",
+      "description": "Tán tương quân vụ Nguyễn Thiện Thuật chọn vùng lau sậy rậm rạp thuộc các huyện Văn Lâm, Văn Giang, Khoái Châu, Yên Mỹ làm căn cứ kháng Pháp. Nghĩa quân áp dụng lối đánh du kích linh hoạt, gây nhiều tổn thất cho quân Pháp trong gần 10 năm.",
+      "location": {
+        "commune": null,
+        "district": "Yên Mỹ",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [
+        "Nguyễn Thiện Thuật"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "HungYen_REV_01",
+      "year": 1929,
+      "date": "1929-12-01",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại gốc cây đa Sài Thị, Chi bộ Cộng sản đầu tiên của tỉnh Hưng Yên được thành lập dưới sự chỉ đạo của Xứ ủy Bắc Kỳ. Đây là hạt nhân lãnh đạo phong trào cách mạng của tỉnh trong giai đoạn sơ khai.",
+      "location": {
+        "commune": "Đại Tập",
+        "district": "Khoái Châu",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "HungYen_REV_02",
+      "year": 1945,
+      "date": "1945-08-22",
+      "title": "Giành chính quyền tại Hưng Yên",
+      "description": "Lực lượng Việt Minh cùng hàng nghìn quần chúng nhân dân từ các huyện ập vào bao vây Dinh Tỉnh trưởng. Trước sức mạnh của cách mạng, Tỉnh trưởng Hưng Yên buộc phải đầu hàng và bàn giao ấn tín, chính quyền về tay nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Hưng Yên",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_WAR_01",
+      "year": 1949,
+      "date": "1949-05-01",
+      "title": "Thành lập Đội nữ du kích Hoàng Ngân",
+      "description": "Tỉnh ủy Hưng Yên quyết định thành lập đội nữ du kích tập trung mang tên liệt sĩ Hoàng Ngân. Đội đã lập nhiều chiến công xuất sắc trong công tác địch vận, phá tề, trừ gian và trực tiếp chiến đấu, trở thành biểu tượng của phụ nữ Hưng Yên.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hưng Yên"
+      },
+      "related_figures": [
+        "Hoàng Ngân",
+        "Vũ Thị Kính"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phụ nữ"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_WAR_02",
+      "year": 1950,
+      "date": null,
+      "title": "Sự kiện Cây đa La Tiến",
+      "description": "Trong thời kỳ tạm chiếm, thực dân Pháp và tay sai đã biến khu vực bốt La Tiến và cây đa cổ thụ tại đây thành nơi hành quyết tàn bạo hơn 1.000 cán bộ, chiến sĩ và người dân yêu nước, biến nơi đây thành chứng tích tội ác chiến tranh.",
+      "location": {
+        "commune": "Nguyên Hòa",
+        "district": "Phù Cừ",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tội ác chiến tranh",
+        "Di tích lịch sử"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-12-03",
+      "title": "Trận chống càn tại Phan Tống Xá",
+      "description": "Tiểu đoàn Bạch Đằng và bộ đội địa phương huyện Tiên Lữ đã dũng cảm chặn đánh một cuộc càn quét lớn của quân Pháp (có xe tăng yểm trợ) vào làng Phan Tống Xá, bảo vệ an toàn cho cơ sở kháng chiến.",
+      "location": {
+        "commune": "Thiện Phiến",
+        "district": "Tiên Lữ",
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "HungYen_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Thành lập tỉnh Hải Hưng",
+      "description": "Hợp nhất tỉnh Hưng Yên và Hải Dương thành tỉnh Hải Hưng theo Nghị quyết của Quốc hội. Trong giai đoạn này, nhân dân Hưng Yên đã đóng góp lớn sức người, sức của cho chiến trường miền Nam.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "HungYen_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Hưng Yên",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Hải Hưng. Tỉnh Hưng Yên được tái lập và chính thức đi vào hoạt động từ ngày 01/01/1997, mở ra thời kỳ phát triển kinh tế công nghiệp mạnh mẽ.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hưng Yên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

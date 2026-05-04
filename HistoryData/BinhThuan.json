@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "BinhThuan_NGUYEN_01",
+      "year": 1697,
+      "date": null,
+      "title": "Thành lập Dinh Bình Thuận",
+      "description": "Chúa Nguyễn Phúc Chu chính thức thiết lập Dinh Bình Thuận, bao gồm hai phủ là Hàm Thuận và Bình Thuận. Sự kiện này đánh dấu việc xác lập chủ quyền và hệ thống hành chính chính quy của người Việt tại vùng đất cực Nam Trung Bộ.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phan Thiết",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [
+        "Nguyễn Phúc Chu"
+      ],
+      "tags": [
+        "Chúa Nguyễn",
+        "Mở mang bờ cõi"
+      ]
+    },
+    {
+      "id": "BinhThuan_REV_01",
+      "year": 1910,
+      "date": "1910-09-00",
+      "title": "Thầy giáo Nguyễn Tất Thành dạy học tại Dục Thanh",
+      "description": "Trên hành trình tìm đường cứu nước, người thanh niên Nguyễn Tất Thành (Hồ Chí Minh) đã dừng chân dạy học tại Trường Dục Thanh (Phan Thiết). Đây là khoảng thời gian quan trọng hình thành tư tưởng yêu nước thương dân của Người trước khi vào Sài Gòn ra đi tìm đường cứu nước.",
+      "location": {
+        "commune": "Đức Nghĩa",
+        "district": "Thành phố Phan Thiết",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lãnh tụ",
+        "Trường Dục Thanh"
+      ]
+    },
+    {
+      "id": "BinhThuan_REV_02",
+      "year": 1930,
+      "date": "1930-12-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Tam Tân)",
+      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Bình Thuận được thành lập tại làng Tam Tân (La Gi), gồm 7 đảng viên do đồng chí Ngô Đức Tốn làm Bí thư. Sự kiện này mở đầu cho sự lãnh đạo trực tiếp của Đảng đối với phong trào cách mạng trong tỉnh.",
+      "location": {
+        "commune": "Tân Tiến",
+        "district": "Thị xã La Gi",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [
+        "Ngô Đức Tốn"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BinhThuan_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Phan Thiết",
+      "description": "Ủy ban Khởi nghĩa do đồng chí Nguyễn Tương dẫn đầu cùng lực lượng vũ trang và quần chúng nhân dân đã chiếm Tòa Công sứ và Dinh Quản đạo. Chính quyền thực dân phong kiến sụp đổ, Ủy ban Nhân dân Cách mạng lâm thời tỉnh Bình Thuận ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phan Thiết",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [
+        "Nguyễn Tương"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BinhThuan_FRENCH_WAR_01",
+      "year": 1948,
+      "date": "1948-03-01",
+      "title": "Trận La Ngà",
+      "description": "Tiểu đoàn 303 và 300 của Chi đội 10 (Liên quân Bình Thuận - Đồng Nai) tổ chức phục kích đoàn xe quân sự Pháp trên Quốc lộ 20 (khu vực cầu La Ngà). Ta phá hủy 59 xe, tiêu diệt nhiều sĩ quan địch. Đây là trận giao thông chiến lớn nhất miền Đông Nam Bộ lúc bấy giờ.",
+      "location": {
+        "commune": "La Ngà",
+        "district": "Tánh Linh",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [
+        "Huỳnh Văn Nghệ"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phục kích"
+      ]
+    },
+    {
+      "id": "BinhThuan_US_WAR_01",
+      "year": 1960,
+      "date": "1960-09-02",
+      "title": "Chiến thắng Hoài Đức - Bắc Ruộng",
+      "description": "Lực lượng vũ trang tỉnh Bình Thuận tấn công tiêu diệt chi khu Hoài Đức và khu tập trung dân Bắc Ruộng. Đây là trận đánh mở màn cho phong trào Đồng khởi ở cực Nam Trung Bộ, phá vỡ hệ thống kìm kẹp của Mỹ - Diệm tại vùng giáp ranh.",
+      "location": {
+        "commune": "Bắc Ruộng",
+        "district": "Tánh Linh",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đồng khởi",
+        "Phá ấp chiến lược"
+      ]
+    },
+    {
+      "id": "BinhThuan_US_WAR_02",
+      "year": 1975,
+      "date": "1975-04-08",
+      "title": "Giải phóng huyện Hoài Đức - Tánh Linh",
+      "description": "Thực hiện lệnh tổng tiến công, quân dân Bình Thuận đã tấn công giải phóng hoàn toàn huyện Hoài Đức và Tánh Linh, mở thông hành lang chiến lược để đại quân ta tiến về giải phóng Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Đức Linh, Tánh Linh",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "BinhThuan_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-19",
+      "title": "Giải phóng thị xã Phan Thiết",
+      "description": "Cánh quân Duyên Hải (Quân đoàn 2) phối hợp với lực lượng địa phương tấn công đập tan hệ thống phòng thủ của địch tại Phan Thiết. Đến 9 giờ sáng, Ủy ban Quân quản vào tiếp quản thị xã, tỉnh Bình Thuận hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Phan Thiết",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [
+        "Lê Minh Đảo"
+      ],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "BinhThuan_ADMIN_01",
+      "year": 1992,
+      "date": "1992-04-01",
+      "title": "Tái lập tỉnh Bình Thuận",
+      "description": "Thực hiện Nghị quyết của Quốc hội khóa VIII, tỉnh Thuận Hải (hợp nhất từ năm 1976) được chia tách thành hai tỉnh Bình Thuận và Ninh Thuận. Tỉnh Bình Thuận chính thức hoạt động theo đơn vị hành chính mới, với tỉnh lỵ là thị xã Phan Thiết.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bình Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "BinhThuan_ECONOMY_01",
+      "year": 1995,
+      "date": "1995-10-24",
+      "title": "Sự kiện Nhật thực toàn phần (Khởi sắc du lịch Mũi Né)",
+      "description": "Hàng ngàn du khách và nhà khoa học đổ về Mũi Né để chiêm ngưỡng nhật thực toàn phần. Sự kiện này đã vô tình 'đánh thức' vẻ đẹp hoang sơ của Mũi Né, biến nơi đây từ làng chài nghèo trở thành 'Thủ đô Resort' của Việt Nam.",
+      "location": {
+        "commune": "Mũi Né",
+        "district": "Thành phố Phan Thiết",
+        "province": "Bình Thuận"
+      },
+      "related_figures": [],
+      "tags": [
+        "Du lịch",
+        "Kinh tế"
+      ]
+    }
+  ]
+}

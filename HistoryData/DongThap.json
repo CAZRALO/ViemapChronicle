@@ -1,0 +1,200 @@
+{
+  "events": [
+    {
+      "id": "DongThap_COLONIAL_01",
+      "year": 1864,
+      "date": null,
+      "title": "Xây dựng Căn cứ kháng chiến Đồng Tháp Mười",
+      "description": "Sau khi quân Pháp chiếm Gia Định, Thiên Hộ Dương (Võ Duy Dương) và Đốc Binh Kiều đã rút quân về vùng đầm lầy Đồng Tháp Mười xây dựng căn cứ chống Pháp. Nghĩa quân đã dựa vào địa hình hiểm trở để tổ chức lối đánh du kích, gây cho địch nhiều tổn thất trong giai đoạn 1864-1866.",
+      "location": {
+        "commune": "Tân Kiều",
+        "district": "Tháp Mười",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [
+        "Thiên Hộ Dương",
+        "Đốc Binh Kiều"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Căn cứ địa"
+      ]
+    },
+    {
+      "id": "DongThap_FIGURE_01",
+      "year": 1929,
+      "date": "1929-11-27",
+      "title": "Cụ Phó bảng Nguyễn Sinh Sắc qua đời tại Cao Lãnh",
+      "description": "Cụ Phó bảng Nguyễn Sinh Sắc (thân sinh Chủ tịch Hồ Chí Minh) sau thời gian hoạt động yêu nước và bốc thuốc chữa bệnh cho nhân dân đã qua đời tại làng Hòa An, Cao Lãnh. Mộ phần của cụ trở thành một di tích lịch sử - văn hóa đặc biệt quan trọng của tỉnh.",
+      "location": {
+        "commune": "Hòa An",
+        "district": "Thành phố Cao Lãnh",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [
+        "Nguyễn Sinh Sắc"
+      ],
+      "tags": [
+        "Danh nhân",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "DongThap_REV_01",
+      "year": 1929,
+      "date": "1929-11-00",
+      "title": "Thành lập Chi bộ An Nam Cộng sản Đảng đầu tiên",
+      "description": "Tại làng Hòa An (Cao Lãnh), Chi bộ An Nam Cộng sản Đảng đầu tiên của tỉnh Sa Đéc (cũ) được thành lập do đồng chí Phạm Hữu Lầu làm Bí thư. Đây là hạt nhân lãnh đạo phong trào cách mạng tại vùng Cao Lãnh - Đồng Tháp Mười.",
+      "location": {
+        "commune": "Hòa An",
+        "district": "Thành phố Cao Lãnh",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [
+        "Phạm Hữu Lầu"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "DongThap_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Cao Lãnh và Sa Đéc",
+      "description": "Hòa chung khí thế Tổng khởi nghĩa, quần chúng nhân dân đã nổi dậy giành chính quyền tại tỉnh lỵ Sa Đéc và quận lỵ Cao Lãnh. Chính quyền tay sai sụp đổ, Ủy ban Hành chính lâm thời ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Cao Lãnh, Sa Đéc",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [
+        "Trần Thị Nhượng"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "DongThap_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-09-26",
+      "title": "Chiến thắng Giồng Thị Đam - Gò Quản Cung",
+      "description": "Tiểu đoàn 502 (đơn vị chủ lực tỉnh) mới thành lập đã tổ chức trận phục kích táo bạo, đánh bại cuộc hành quân của quân Pháp, tiêu diệt cả Thủy lục bộ binh địch, bắt sống gần 100 tên. Đây là chiến thắng mở đầu vang dội của lực lượng vũ trang Đồng Tháp Mười.",
+      "location": {
+        "commune": "An Phước",
+        "district": "Tân Hồng",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Tiểu đoàn 502"
+      ]
+    },
+    {
+      "id": "DongThap_US_WAR_01",
+      "year": 1954,
+      "date": "1954-10-29",
+      "title": "Sự kiện 100 ngày tập kết chuyển quân (Cao Lãnh)",
+      "description": "Cao Lãnh được chọn là một trong ba điểm tập kết chuyển quân lớn ở Nam Bộ (cùng với Cà Mau và Xuyên Mộc) để đưa cán bộ, chiến sĩ miền Nam ra Bắc theo Hiệp định Genève. Trong 100 ngày, quân dân Cao Lãnh đã đón tiếp và tiễn đưa hàng vạn người con miền Nam.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Cao Lãnh",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hiệp định Genève",
+        "Tập kết ra Bắc"
+      ]
+    },
+    {
+      "id": "DongThap_US_WAR_02",
+      "year": 1966,
+      "date": null,
+      "title": "Đánh chìm Hạm đội nhỏ trên sông rạch",
+      "description": "Quân dân Đồng Tháp đã sáng tạo ra cách đánh đặc công thủy, sử dụng thủy lôi tự chế để đánh chìm nhiều tàu chiến thuộc 'Hạm đội nhỏ' của Mỹ trên các tuyến sông rạch chằng chịt, làm thất bại chiến thuật 'Hạm đội nổi' trên sông Mekong của địch.",
+      "location": {
+        "commune": null,
+        "district": "Hồng Ngự, Cao Lãnh",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến tranh du kích"
+      ]
+    },
+    {
+      "id": "DongThap_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Đồng Tháp (Kiến Phong và Sa Đéc)",
+      "description": "Lực lượng vũ trang tỉnh phối hợp với quần chúng nổi dậy tấn công vào thị xã Cao Lãnh (tỉnh lỵ Kiến Phong) và thị xã Sa Đéc. Đến trưa ngày 30/4, cờ giải phóng tung bay tại Dinh Tỉnh trưởng Kiến Phong và Sa Đéc, toàn tỉnh hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Cao Lãnh, Sa Đéc",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "DongThap_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Thành lập tỉnh Đồng Tháp",
+      "description": "Thực hiện Nghị quyết của Chính phủ, tỉnh Kiến Phong và tỉnh Sa Đéc được hợp nhất thành tỉnh Đồng Tháp. Tỉnh lỵ ban đầu đặt tại thị xã Sa Đéc, sau đó dời về thị xã Cao Lãnh (nay là thành phố Cao Lãnh) vào năm 1994.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "DongThap_CULTURE_01",
+      "year": 2012,
+      "date": "2012-09-27",
+      "title": "Di tích Gò Tháp được xếp hạng Quốc gia đặc biệt",
+      "description": "Khu di tích Gò Tháp - nơi chứa đựng những dấu tích quan trọng của nền văn hóa Óc Eo cổ đại và lịch sử khai hoang, chống ngoại xâm của vùng đất này - chính thức được Thủ tướng Chính phủ xếp hạng là Di tích Quốc gia đặc biệt.",
+      "location": {
+        "commune": "Tân Kiều",
+        "district": "Tháp Mười",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa Óc Eo",
+        "Di sản"
+      ]
+    },
+    {
+      "id": "DongThap_NATURE_01",
+      "year": 2012,
+      "date": "2012-05-22",
+      "title": "Vườn Quốc gia Tràm Chim trở thành khu Ramsar",
+      "description": "Vườn Quốc gia Tràm Chim (nơi bảo tồn loài Sếu đầu đỏ quý hiếm) được công nhận là khu Ramsar thứ 2.000 của thế giới. Đây là sự ghi nhận quốc tế đối với hệ sinh thái đất ngập nước đặc trưng của vùng Đồng Tháp Mười.",
+      "location": {
+        "commune": null,
+        "district": "Tam Nông",
+        "province": "Đồng Tháp"
+      },
+      "related_figures": [],
+      "tags": [
+        "Môi trường",
+        "Ramsar"
+      ]
+    }
+  ]
+}

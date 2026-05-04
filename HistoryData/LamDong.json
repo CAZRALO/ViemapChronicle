@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "id": "LamDong_FOUNDING_01",
+      "year": 1893,
+      "date": "1893-06-21",
+      "title": "Yersin khám phá ra Cao nguyên Lang Biang",
+      "description": "Sau hành trình thám hiểm gian khổ, Bác sĩ Alexandre Yersin đã đặt chân lên Cao nguyên Lang Biang. Nhận thấy khí hậu ôn hòa và cảnh quan tuyệt đẹp, ông đã đề nghị Toàn quyền Paul Doumer xây dựng một trạm nghỉ dưỡng tại đây, tiền đề cho sự ra đời của thành phố Đà Lạt.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [
+        "Alexandre Yersin",
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Khám phá",
+        "Lịch sử hình thành"
+      ]
+    },
+    {
+      "id": "LamDong_COLONIAL_01",
+      "year": 1899,
+      "date": "1899-11-01",
+      "title": "Thành lập tỉnh Đồng Nai Thượng",
+      "description": "Toàn quyền Đông Dương ký Nghị định thành lập tỉnh Đồng Nai Thượng (Haut Donnai), tỉnh lỵ đặt tại Djiring (Di Linh ngày nay). Đây là đơn vị hành chính cấp tỉnh đầu tiên bao trùm vùng đất Lâm Đồng.",
+      "location": {
+        "commune": null,
+        "district": "Di Linh",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "LamDong_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Cầu Quẹo)",
+      "description": "Tại khu vực Cầu Quẹo (Arbre Broyé), Chi bộ Đảng Cộng sản đầu tiên của tỉnh được thành lập gồm các đồng chí công nhân đường sắt và phu lục lộ. Đây là hạt nhân lãnh đạo phong trào cách mạng của công nhân và nhân dân lao động Đà Lạt.",
+      "location": {
+        "commune": "Phường 10",
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [
+        "Trần Diệm"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Phong trào công nhân"
+      ]
+    },
+    {
+      "id": "LamDong_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Giành chính quyền tại Đà Lạt",
+      "description": "Ủy ban Khởi nghĩa tỉnh Lâm Viên đã lãnh đạo quần chúng nhân dân chiếm Dinh Tỉnh trưởng, Sở Cảnh sát và Kho bạc. Chính quyền tay sai đầu hàng, Ủy ban Nhân dân Cách mạng lâm thời tỉnh Lâm Viên ra mắt nhân dân tại rạp chiếu bóng Ngọc Hiệp.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [
+        "Phan Như Thạch"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "LamDong_FRENCH_WAR_01",
+      "year": 1951,
+      "date": "1951-02-22",
+      "title": "Thành lập Trường Võ bị Liên quân Đà Lạt",
+      "description": "Chính quyền Quốc gia Việt Nam (thân Pháp) thành lập Trường Võ bị Liên quân Đà Lạt (sau này là Trường Võ bị Quốc gia Việt Nam của VNCH). Đây là trung tâm đào tạo sĩ quan hiện dịch lớn nhất của quân đội Sài Gòn tại miền Nam.",
+      "location": {
+        "commune": "Phường 9",
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Quân sự",
+        "Lịch sử chế độ cũ"
+      ]
+    },
+    {
+      "id": "LamDong_TECH_01",
+      "year": 1963,
+      "date": "1963-03-00",
+      "title": "Khánh thành Lò phản ứng hạt nhân Đà Lạt",
+      "description": "Viện Nghiên cứu Hạt nhân Đà Lạt chính thức vận hành lò phản ứng Triga Mark II công suất 250 kW. Đây là lò phản ứng hạt nhân đầu tiên của khu vực Đông Nam Á, đánh dấu bước tiến của ngành khoa học nguyên tử tại Việt Nam.",
+      "location": {
+        "commune": "Phường 8",
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Khoa học",
+        "Hạt nhân"
+      ]
+    },
+    {
+      "id": "LamDong_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân tại Đà Lạt",
+      "description": "Quân giải phóng bất ngờ tấn công đồng loạt vào các mục tiêu trọng yếu như Trường Võ bị, Tiểu khu Tuyên Đức, Dinh Tỉnh trưởng... Cuộc giao tranh ác liệt diễn ra ngay trong lòng phố thị Đà Lạt, gây thiệt hại lớn cho địch và chấn động dư luận.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Chiến tranh đô thị"
+      ]
+    },
+    {
+      "id": "LamDong_US_WAR_02",
+      "year": 1975,
+      "date": "1975-03-28",
+      "title": "Giải phóng thị xã Bảo Lộc",
+      "description": "Sau khi chi khu Di Linh thất thủ, quân địch tại Bảo Lộc hoang mang rút chạy. Quân ta nhanh chóng tiến vào tiếp quản thị xã Bảo Lộc và tỉnh lỵ Lâm Đồng (cũ) mà không gặp sự kháng cự lớn, giải phóng hoàn toàn vùng phía Nam tỉnh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Bảo Lộc",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "LamDong_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-03",
+      "title": "Giải phóng thành phố Đà Lạt",
+      "description": "Trước sức tấn công như vũ bão của quân ta trên toàn chiến trường, chính quyền và quân đội Sài Gòn tại Đà Lạt - Tuyên Đức tháo chạy hỗn loạn về hướng Phan Rang. Cờ giải phóng tung bay tại Tòa thị chính Đà Lạt, đánh dấu sự giải phóng hoàn toàn tỉnh Lâm Đồng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Đà Lạt",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "LamDong_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Hợp nhất tỉnh Lâm Đồng mới",
+      "description": "Thực hiện chủ trương của Chính phủ Cách mạng Lâm thời, tỉnh Tuyên Đức (gồm Đà Lạt, Đơn Dương, Đức Trọng, Lạc Dương) và tỉnh Lâm Đồng cũ (Bảo Lộc, Di Linh) được hợp nhất thành tỉnh Lâm Đồng ngày nay, tỉnh lỵ đặt tại Đà Lạt.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "LamDong_CULTURE_01",
+      "year": 2015,
+      "date": "2015-06-09",
+      "title": "Khu dự trữ sinh quyển Lang Biang được UNESCO công nhận",
+      "description": "UNESCO chính thức công nhận Khu dự trữ sinh quyển thế giới Lang Biang. Đây là khu dự trữ sinh quyển thứ 9 của Việt Nam, khẳng định giá trị đa dạng sinh học đặc biệt của vùng rừng nguyên sinh Tây Nguyên và văn hóa Cồng chiêng bản địa.",
+      "location": {
+        "commune": "Lát",
+        "district": "Lạc Dương",
+        "province": "Lâm Đồng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Môi trường",
+        "Di sản UNESCO"
+      ]
+    }
+  ]
+}

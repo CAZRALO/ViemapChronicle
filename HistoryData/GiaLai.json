@@ -1,0 +1,152 @@
+{
+  "events": [
+    {
+      "id": "GiaLai_TAYSON_01",
+      "year": 1771,
+      "date": null,
+      "title": "Xây dựng căn cứ Tây Sơn Thượng Đạo",
+      "description": "Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ chọn vùng đất An Khê (Tây Sơn Thượng Đạo) làm căn cứ địa đầu tiên để chiêu mộ nghĩa quân, luyện tập võ nghệ và tích trữ lương thảo trước khi tiến xuống đồng bằng.",
+      "location": {
+        "commune": null,
+        "district": "An Khê",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Nguyễn Nhạc",
+        "Nguyễn Huệ",
+        "Nguyễn Lữ"
+      ],
+      "tags": [
+        "Tây Sơn",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "GiaLai_REV_01",
+      "year": 1946,
+      "date": "1946-04-19",
+      "title": "Đại hội các dân tộc thiểu số miền Nam",
+      "description": "Đại hội đoàn kết các dân tộc thiểu số miền Nam được tổ chức tại Pleiku. Tại đây, bức thư của Chủ tịch Hồ Chí Minh gửi Đại hội đã được công bố, khẳng định chính sách đoàn kết dân tộc.",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Chính trị",
+        "Đoàn kết dân tộc"
+      ]
+    },
+    {
+      "id": "GiaLai_FRENCH_01",
+      "year": 1954,
+      "date": "1954-06-24",
+      "title": "Chiến thắng Đak Pơ - Mang Yang",
+      "description": "Trung đoàn 96 quân đội Việt Minh tổ chức phục kích và tiêu diệt Binh đoàn cơ động 100 (GM100) - lực lượng tinh nhuệ của Pháp trên đường rút quân từ An Khê về Pleiku qua đèo Mang Yang.",
+      "location": {
+        "commune": "Đăk Pơ",
+        "district": "Đăk Pơ",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Nguyễn Minh Châu"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_01",
+      "year": 1965,
+      "date": "1965-02-07",
+      "title": "Trận tập kích sân bay Pleiku (Camp Holloway)",
+      "description": "Quân Giải phóng miền Nam Việt Nam tấn công vào căn cứ cố vấn Mỹ và sân bay Pleiku (Camp Holloway), gây thiệt hại lớn cho không quân Mỹ. Sự kiện này là cái cớ để Mỹ phát động chiến tranh phá hoại miền Bắc (Chiến dịch Sấm Rền).",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_02",
+      "year": 1965,
+      "date": "1965-11-14",
+      "title": "Chiến dịch Plei Me - Trận Ia Đrăng",
+      "description": "Trận đụng độ trực tiếp quy mô lớn đầu tiên giữa quân chủ lực Quân đội Nhân dân Việt Nam và kỵ binh bay của quân đội Mỹ tại thung lũng Ia Đrăng, gần biên giới Campuchia.",
+      "location": {
+        "commune": "Ia Mơ",
+        "district": "Chư Prông",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Nguyễn Hữu An",
+        "Hal Moore"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Quân sự",
+        "Ia Đrăng"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-30",
+      "title": "Cuộc tổng tiến công và nổi dậy Mậu Thân tại Gia Lai",
+      "description": "Lực lượng vũ trang tỉnh Gia Lai đồng loạt tấn công vào các cơ quan đầu não của chính quyền Sài Gòn và quân đội Mỹ tại thị xã Pleiku, chiếm giữ đài phát thanh và nhà lao Pleiku trong thời gian ngắn.",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mậu Thân 1968",
+        "Đô thị"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-16",
+      "title": "Chiến thắng đường 7 - Sông Bờ (Cuộc rút lui Cheo Reo)",
+      "description": "Sau khi mất Buôn Ma Thuột, quân đoàn 2 Việt Nam Cộng hòa rút chạy theo đường 7 (nay là QL25). Quân Giải phóng đã chặn đánh và tiêu diệt phần lớn lực lượng địch tại khu vực Cheo Reo - Phú Bổn.",
+      "location": {
+        "commune": null,
+        "district": "Ayun Pa",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Tây Nguyên",
+        "Đại thắng mùa Xuân"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_05",
+      "year": 1975,
+      "date": "1975-03-17",
+      "title": "Giải phóng thị xã Pleiku",
+      "description": "Trước sức ép của chiến dịch Tây Nguyên, quân đội Sài Gòn bỏ chạy khỏi Pleiku. Quân Giải phóng tiến vào tiếp quản thị xã, cắm cờ trên Tòa hành chính tỉnh, đánh dấu sự giải phóng hoàn toàn tỉnh Gia Lai.",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Đại thắng mùa Xuân"
+      ]
+    }
+  ]
+}

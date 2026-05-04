@@ -1,0 +1,183 @@
+{
+  "events": [
+    {
+      "id": "NamDinh_TRAN_01",
+      "year": 1262,
+      "date": null,
+      "title": "Thành lập Phủ Thiên Trường",
+      "description": "Thượng hoàng Trần Thái Tông xuống chiếu thăng hương Tức Mặc thành phủ Thiên Trường, cho xây dựng hành cung Trùng Quang và Trùng Hoa làm nơi ở cho các Thái thượng hoàng. Thiên Trường trở thành 'kinh đô thứ hai' của Đại Việt thời Trần.",
+      "location": {
+        "commune": "Lộc Vượng",
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [
+        "Trần Thái Tông"
+      ],
+      "tags": [
+        "Nhà Trần",
+        "Hành chính"
+      ]
+    },
+    {
+      "id": "NamDinh_REV_01",
+      "year": 1929,
+      "date": "1929-06-01",
+      "title": "Thành lập Chi bộ Đông Dương Cộng sản Đảng",
+      "description": "Tại số nhà 7 phố Hàng Thao, Ban Tỉnh ủy lâm thời Nam Định được thành lập. Đây là tổ chức Đảng đầu tiên của tỉnh, trực tiếp lãnh đạo phong trào công nhân và nhân dân chống Pháp.",
+      "location": {
+        "commune": "Ngô Quyền",
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [
+        "Nguyễn Doãn",
+        "Nguyễn Hới"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "NamDinh_REV_02",
+      "year": 1930,
+      "date": "1930-03-25",
+      "title": "Cuộc bãi công của công nhân Nhà máy Dệt",
+      "description": "Hơn 4.000 công nhân Nhà máy Dệt Nam Định đã tiến hành cuộc bãi công quy mô lớn kéo dài 21 ngày đêm để phản đối chế độ làm việc hà khắc. Sự kiện này khẳng định sức mạnh của giai cấp công nhân Nam Định.",
+      "location": {
+        "commune": "Trần Đăng Ninh",
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [
+        "Nguyễn Thị Uyên"
+      ],
+      "tags": [
+        "Phong trào công nhân",
+        "Nhà máy Dệt"
+      ]
+    },
+    {
+      "id": "NamDinh_REV_03",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Giành chính quyền tại thành phố Nam Định",
+      "description": "Hàng vạn quần chúng từ các ngả đường kéo về bao vây Tòa Đốc lý và Trại Bảo an binh. Trước khí thế cách mạng, Đốc lý Nam Định buộc phải đầu hàng. Ủy ban Cách mạng lâm thời thành phố ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "NamDinh_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-12-20",
+      "title": "Mở màn Toàn quốc kháng chiến tại Nam Định",
+      "description": "Hưởng ứng lời kêu gọi của Chủ tịch Hồ Chí Minh, Tự vệ thành phố Nam Định đã nổ súng tấn công quân Pháp, thực hiện chiến thuật 'vườn không nhà trống' và bao vây, giam chân địch trong thành phố suốt 86 ngày đêm.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Đô thị"
+      ]
+    },
+    {
+      "id": "NamDinh_FRENCH_WAR_02",
+      "year": 1953,
+      "date": "1953-02-01",
+      "title": "Trận chống càn tại Giao Thủy - Xuân Trường",
+      "description": "Bộ đội chủ lực Đại đoàn 320 phối hợp với dân quân du kích địa phương đã đánh bại cuộc hành quân càn quét lớn (Chiến dịch Bretagne) của quân Pháp vào vùng biển Giao Thủy, Xuân Trường, bảo vệ vững chắc vùng tự do.",
+      "location": {
+        "commune": null,
+        "district": "Giao Thủy",
+        "province": "Nam Định"
+      },
+      "related_figures": [
+        "Văn Tiến Dũng"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chống càn"
+      ]
+    },
+    {
+      "id": "NamDinh_FRENCH_WAR_03",
+      "year": 1954,
+      "date": "1954-07-01",
+      "title": "Giải phóng thành phố Nam Định",
+      "description": "Sau khi Hiệp định Genève được ký kết, quân Pháp buộc phải rút khỏi Nam Định. Các đơn vị bộ đội ta tiến vào tiếp quản thành phố, đánh dấu ngày giải phóng hoàn toàn tỉnh Nam Định.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "NamDinh_US_WAR_01",
+      "year": 1965,
+      "date": "1965-07-02",
+      "title": "Trận chiến đấu bảo vệ thành phố Dệt",
+      "description": "Máy bay Mỹ ồ ạt ném bom đánh phá thành phố Nam Định, trọng điểm là khu công nghiệp Dệt. Quân dân Nam Định đã bắn rơi 2 máy bay Mỹ ngay trong trận đầu ra quân, bảo vệ an toàn cho khu công nghiệp.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nam Định",
+        "province": "Nam Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "NamDinh_ADMIN_01",
+      "year": 1965,
+      "date": "1965-04-21",
+      "title": "Thành lập tỉnh Nam Hà",
+      "description": "Hợp nhất tỉnh Nam Định và tỉnh Hà Nam thành tỉnh Nam Hà. Việc sáp nhập nhằm tăng cường tiềm lực kinh tế và quốc phòng cho cuộc kháng chiến chống Mỹ cứu nước.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Nam Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "NamDinh_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Nam Định",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Nam Hà trở lại thành hai tỉnh Nam Định và Hà Nam. Tỉnh Nam Định chính thức đi vào hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Nam Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

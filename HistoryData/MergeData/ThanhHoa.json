@@ -1,0 +1,1323 @@
+{
+  "Thanh Hóa": [
+    {
+      "from": [
+        { "commune": "Xã Anh Sơn", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Các Sơn", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Các Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Trường", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trường Lâm", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Trường Lâm", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hà Đông", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Ngọc", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yến Sơn", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Thị trấn Hà Trung", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Xã Hà Bình", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hà Trung", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hà Lĩnh", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Tiến", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Tân", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Sơn", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tống Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hà Long", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Bắc", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Giang", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hà Long", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Dương", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoạt Giang", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Thị trấn Hà Trung", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Xã Hà Bình", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoạt Giang", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hà Hải", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Châu", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thái Lai", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lĩnh Toại", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Lĩnh Toại", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đại Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tiến Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Triệu Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Triệu Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cầu Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tuy Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Đông Thành", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hậu Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thuần Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Mỹ Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lộc Sơn", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hậu Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Liên Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quang Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phú Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hòa Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoa Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoa Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Minh Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hải Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hưng Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngư Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đa Lộc", "district": "Huyện Hậu Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Vạn Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Nga Sơn", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Yên", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thanh", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Hiệp", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thủy", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nga Văn", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Phượng", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thạch", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thắng", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Nga Thắng", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nga Hải", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thành", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Giáp", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Liên", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hồ Vương", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nga Tiến", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Tân", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thái", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tân Tiến", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nga Điền", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Phú", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga An", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Nga An", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nga Vịnh", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Trường", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nga Thiện", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ba Đình", "district": "Huyện Nga Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Ba Đình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Bút Sơn", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Đức", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Đồng", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Đạo", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Hà", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Đạt", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Yến", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Hải", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Trường", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Tiến", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Tiến", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Đông", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Ngọc", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Phụ", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Thanh", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Thanh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Thịnh", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Thái", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Thành", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Trạch", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Tân", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Lộc", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Thắng", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Phong", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Lưu", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Châu", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Châu", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Trinh", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Xuyên", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Cát", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Sơn", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Quý", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Kim", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Trung", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Phú", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Phú", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoằng Xuân", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Quỳ", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Hợp", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Giang", "district": "Huyện Hoằng Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hoằng Giang", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Tân Phong", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Đức", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Định", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Lưu Vệ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Trạch", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Hòa", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Long", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Yên", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quảng Yên", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Hợp", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Văn", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Phúc", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Ngọc", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quảng Ngọc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Nhân", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Hải", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Ninh", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quảng Ninh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Lưu", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Lộc", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Thái", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Bình", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quảng Bình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Thạch", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Nham", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tiên Trang", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tiên Trang", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Trường", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Khê", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Trung", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Chính", "district": "Huyện Quảng Xương", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quảng Chính", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Nông Cống", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vạn Thắng", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vạn Hòa", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vạn Thiện", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Minh Nghĩa", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Minh Khôi", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Nông Cống", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trung Thành", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tế Nông", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tế Thắng", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tế Lợi", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thắng Lợi", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Phúc", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tân Thọ", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tân Khang", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoàng Sơn", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoàng Giang", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trung Chính", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Trung Chính", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trường Minh", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trường Trung", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trường Sơn", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trường Giang", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Trường Văn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thăng Long", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thăng Thọ", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thăng Bình", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thăng Bình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tượng Sơn", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tượng Văn", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tượng Lĩnh", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tượng Lĩnh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Công Liêm", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Mỹ", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Công Chính", "district": "Huyện Nông Cống", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Xã Thanh Tân", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Công Chính", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thiệu Phúc", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Công", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Nguyên", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Thị trấn Thiệu Hóa", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Xã Thiệu Long", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thiệu Duy", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Hợp", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Thịnh", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Giang", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Quang", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Thị trấn Thiệu Hóa", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiệu Quang", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thiệu Ngọc", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Vũ", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Thành", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Tiến", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiệu Tiến", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hậu Hiền", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Chính", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Hòa", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Toán", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiệu Toán", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thiệu Vận", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Lý", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Viên", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Trung", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Thị trấn Thiệu Hóa", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiệu Trung", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Quán Lào", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Liên", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Long", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Tăng", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Yên Định", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Trung", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Phong", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Thái", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Trường", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Yên Trường", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thống Nhất", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Tâm", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Phú", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Yên Phú", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Thọ", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Thị trấn Yên Lâm", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Thị trấn Quý Lộc", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quý Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Hùng", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Thịnh", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Ninh", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Yên Ninh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Định Hải", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Hưng", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Tiến", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Tân", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Định Tân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Định Bình", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Công", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Thành", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Định Hòa", "district": "Huyện Yên Định", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Xã Thiệu Long", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Định Hòa", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thọ Xuân", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Hồng", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Trường", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Giang", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thọ Lộc", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Phong", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nam Giang", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Bắc Lương", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tây Hồ", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thọ Long", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Hòa", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Hải", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Diên", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Hưng", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Hòa", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Sao Vàng", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Lâm", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Phú", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Sinh", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Sao Vàng", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lam Sơn", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Bái", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Xương", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Lam Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Thiên", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thuận Minh", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Lập", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thọ Lập", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Xuân", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Phú", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Tín", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Tín", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Minh", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Lai", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trường Xuân", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Lập", "district": "Huyện Thọ Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Lập", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Vĩnh Lộc", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ninh Khang", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Phúc", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Hưng", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Hòa", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Vĩnh Quang", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Yên", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Tiến", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Long", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tây Đô", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Vĩnh Hùng", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Minh Tân", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh Thịnh", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vĩnh An", "district": "Huyện Vĩnh Lộc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Biện Thượng", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Triệu Sơn", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Minh Sơn", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Dân Lực", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Dân Lý", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Dân Quyền", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thọ Sơn", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Bình Sơn", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Bình", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thọ Bình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thọ Tiến", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Thọ", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Cường", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Ngọc", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thọ Ngọc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Lộc", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Dân", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Thế", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Tân", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Phú", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thọ Phú", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hợp Lý", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hợp Thắng", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hợp Thành", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Triệu Thành", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hợp Tiến", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hợp Tiến", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiến Nông", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Khuyến Nông", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nông Trường", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã An Nông", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã An Nông", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Nưa", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thái Hòa", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vân Sơn", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tân Ninh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Lợi", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đồng Thắng", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đồng Tiến", "district": "Huyện Triệu Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Đồng Tiến", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hồi Xuân", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phú Nghiêm", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hồi Xuân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nam Tiến", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nam Xuân", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Nam Xuân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nam Động", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiên Phủ", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiên Phủ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hiền Chung", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hiền Kiệt", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hiền Kiệt", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Sơn", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phú Thanh", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phú Lệ", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Phú Lệ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thành Sơn", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trung Thành", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Trung Thành", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Sơn Hà", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tam Lư", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Thị trấn Sơn Lư", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tam Lư", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trung Thượng", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Thị trấn Sơn Lư", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quan Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trung Tiến", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trung Xuân", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trung Hạ", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Trung Hạ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lang Chánh", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trí Nang", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Linh Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Phúc", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đồng Lương", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Đồng Lương", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tam Văn", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lâm Phú", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Văn Phú", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Giao Thiện", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Giao An", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Giao An", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cành Nàng", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ban Công", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hạ Trung", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Bá Thước", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thiết Kế", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiết Ống", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thiết Ống", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Kỳ Tân", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Văn Nho", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Văn Nho", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Điền Thượng", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Điền Hạ", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Điền Quang", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Điền Quang", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ái Thượng", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Điền Trung", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Điền Lư", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Điền Lư", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lương Nội", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lương Trung", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lương Ngoại", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Quý Lương", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lũng Cao", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cổ Lũng", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Cổ Lũng", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thành Sơn", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lũng Niêm", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Lâm", "district": "Huyện Bá Thước", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Pù Luông", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Ngọc Lặc", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Mỹ Tân", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thúy Sơn", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quang Trung", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đồng Thịnh", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Lập", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thạch Lập", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lộc Thịnh", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cao Thịnh", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngọc Sơn", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngọc Trung", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngọc Liên", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Ngọc Liên", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Minh Sơn", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lam Sơn", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cao Ngọc", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Minh Tiến", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Minh Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phùng Giáo", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vân Am", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nguyệt Ấn", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Nguyệt Ấn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phúc Thịnh", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phùng Minh", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Kiên Thọ", "district": "Huyện Ngọc Lặc", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Kiên Thọ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cẩm Thành", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Liên", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Bình", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Thạch", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Cẩm Thạch", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Phong Sơn", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Ngọc", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Cẩm Thủy", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cẩm Quý", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Giang", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Lương", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Tú", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Cẩm Tú", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cẩm Tâm", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Châu", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Yên", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Vân", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Cẩm Vân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cẩm Long", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Phú", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cẩm Tân", "district": "Huyện Cẩm Thủy", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Cẩm Tân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Kim Tân", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Hưng", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Thọ", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Định", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Trực", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Tiến", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Kim Tân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Vân Du", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Công", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Tân", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Vân Du", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thành An", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Long", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Tâm", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngọc Trạo", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Ngọc Trạo", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thạch Sơn", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Long", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Cẩm", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Bình", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thạch Bình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thành Minh", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Mỹ", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Yên", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thành Vinh", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thành Vinh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thạch Lâm", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Tượng", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thạch Quảng", "district": "Huyện Thạch Thành", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thạch Quảng", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Yên Cát", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tân Bình", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Như Xuân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cát Tân", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Cát Vân", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thượng Ninh", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thượng Ninh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Hòa", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Bãi Trành", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Bình", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Bình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bình Lương", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hóa Quỳ", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Hóa Quỳ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Hòa", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thanh Lâm", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thanh Phong", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thanh Phong", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Sơn", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thanh Xuân", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thanh Quân", "district": "Huyện Như Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thanh Quân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cán Khê", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phượng Nghi", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Du", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Du", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Nhuận", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Mậu Lâm", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Mậu Lâm", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Bến Sung", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Khang", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hải Long", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Xã Yên Thọ", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Như Thanh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Phúc", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Lạc", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Xã Yên Thọ", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Yên Thọ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Kỳ", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Xã Thanh Tân", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thanh Kỳ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thường Xuân", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thọ Thanh", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngọc Phụng", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Dương", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Cao", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Luận Thành", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Xã Luận Khê", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Luận Thành", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thành", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Xã Luận Khê", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Tân Thành", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Lộc", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Thắng", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Thắng Lộc", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Lẹ", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Xuân Chinh", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Chinh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Mường Lát", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Mường Lát", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Phú Sơn", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Lam Sơn", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Ba Đình", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Ngọc Trạo", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Đông Sơn", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Trường Thi", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Điện Biên", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Đông Hương", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Đông Hải", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Đông Vệ", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Một phần Phường Đông Thọ", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường An Hưng", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Hạc Thành", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Quảng Hưng", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Tâm", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Thành", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Đông", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Thịnh", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Cát", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Phú", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Quảng Phú", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Quảng Thắng", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Vinh", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Quang", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Yên", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Văn", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Phú", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Nam", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Phường An Hưng", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Đông Quang", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Rừng Thông", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Thịnh", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Tân", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Hòa", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Minh", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Hoàng", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Khê", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Ninh", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Đông Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Đông Lĩnh", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Thiệu Khánh", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Thanh", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Vân", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tân Châu", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thiệu Giao", "district": "Huyện Thiệu Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đông Tiến", "district": "Huyện Đông Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Đông Tiến", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Thiệu Dương", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Đông Cương", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Nam Ngạn", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Hàm Rồng", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phần còn lại Phường Đông Thọ", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Hàm Rồng", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Tào Xuyên", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Long Anh", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Quang", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hoằng Đại", "district": "Thành phố Thanh Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Nguyệt Viên", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Bắc Sơn", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Tiến", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Cư", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Trung Sơn", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Trường Sơn", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Châu", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Quảng Thọ", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Sầm Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Quảng Vinh", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Minh", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Đại Hùng", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quảng Giao", "district": "Thành phố Sầm Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Nam Sầm Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Đông Sơn", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Lam Sơn", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Ba Đình", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hà Vinh", "district": "Huyện Hà Trung", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Bỉm Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Bắc Sơn", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Ngọc Trạo", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Phú Sơn", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quang Trung", "district": "Thị xã Bỉm Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Quang Trung", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Sơn", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Thanh Thủy", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Hải Châu", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Hải Ninh", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Ngọc Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Hải An", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Tân Dân", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Ngọc Lĩnh", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Tân Dân", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Định Hải", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Ninh Hải", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Hải Lĩnh", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Hải Lĩnh", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Hải Hòa", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Bình Minh", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Hải Thanh", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hải Nhân", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Tĩnh Gia", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Nguyên Bình", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Xuân Lâm", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Đào Duy Từ", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Mai Lâm", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Tĩnh Hải", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Phường Hải Bình", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Hải Bình", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Trúc Lâm", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phú Sơn", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Phú Lâm", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tùng Lâm", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Trúc Lâm", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Hải Thượng", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Hải Hà", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nghi Sơn", "district": "Thị xã Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Phường Nghi Sơn", "province": "Tỉnh Thanh Hóa" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Xuân", "district": "Huyện Quan Hóa", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Phú Xuân", "province": "Tỉnh Thanh Hóa" },
+      "note": "Không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Mường Chanh", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Quang Chiểu", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tam Chung", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Pù Nhi", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Nhi Sơn", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Mường Lý", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trung Lý", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Trung Sơn", "district": "Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Các xã thuộc Huyện Mường Lát", "province": "Tỉnh Thanh Hóa" },
+      "note": "Không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Na Mèo", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Sơn Thủy", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Sơn Điện", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Mường Mìn", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Tam Thanh", "district": "Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Các xã thuộc Huyện Quan Sơn", "province": "Tỉnh Thanh Hóa" },
+      "note": "Không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Khương", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Thắng", "district": "Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Các xã thuộc Huyện Lang Chánh", "province": "Tỉnh Thanh Hóa" },
+      "note": "Không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Thái", "district": "Huyện Như Thanh", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Xã Xuân Thái", "province": "Tỉnh Thanh Hóa" },
+      "note": "Không thực hiện sắp xếp"
+    },
+    {
+      "from": [
+        { "commune": "Xã Bát Mọt", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Yên Nhân", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Lương Sơn", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+        { "commune": "Xã Vạn Xuân", "district": "Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" }
+      ],
+      "to": { "commune": "Các xã thuộc Huyện Thường Xuân", "province": "Tỉnh Thanh Hóa" },
+      "note": "Không thực hiện sắp xếp"
+    }
+  ]
+}

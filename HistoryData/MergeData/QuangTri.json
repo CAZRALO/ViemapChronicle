@@ -1,0 +1,661 @@
+{
+  "Quảng Bình": [
+    {
+      "from": [
+        { "commune": "Xã Quảng Hòa", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Lộc", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Văn", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Minh", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Nam Gianh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Tân", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Trung", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Tiên", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Sơn", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Thủy", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Nam Ba Đồn", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trọng Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Dân Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Dân Hóa", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hóa Sơn", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Hóa Hợp", "district": "Huyện Minh Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Kim Điền", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thượng Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Trung Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Minh Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Tân Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Kim Phú", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Quy Đạt", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Xuân Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Yên Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Hồng Hóa", "district": "Huyện Minh Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Minh Hóa", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thành", "district": "Huyện Minh Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tân Thành", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lâm Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Thanh Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tuyên Lâm", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Thạch", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Hương Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tuyên Sơn", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đồng Lê", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Kim Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Lê Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Thuận Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Sơn Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Đồng Lê", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Thạch Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Đức Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tuyên Phú", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phong Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Ngư Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Mai Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tuyên Bình", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiến Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Châu Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Cao Quảng", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" },
+        { "commune": "Xã Văn Hóa", "district": "Huyện Tuyên Hóa", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tuyên Hóa", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phù Cảnh", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Liên Trường", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Thanh", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tân Gianh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Lưu", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Thạch", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Tiến", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Trung Thuần", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Phương", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Xuân", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Hưng", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Quảng Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Châu", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Tùng", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Cảnh Dương", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Hòa Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quảng Đông", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Phú", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Kim", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Hợp", "district": "Huyện Quảng Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Phú Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Thượng Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Thượng Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Phong Nha", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Lâm Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Xuân Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Phúc Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Phong Nha", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Hạ Mỹ", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Liên Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Bắc Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Bắc Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hải Phú", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Sơn Lộc", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Đức Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Đồng Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Đông Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hoàn Lão", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Trung Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Đại Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Tây Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Hòa Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Hoàn Lão", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hưng Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Cự Nẫm", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Vạn Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Phú Định", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Bố Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Nông trường Việt Trung", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Nhân Trạch", "district": "Huyện Bố Trạch", "province": "Quảng Bình" },
+        { "commune": "Xã Lý Nam", "district": "Huyện Bố Trạch", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Nam Trạch", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Quán Hàu", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Vĩnh Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Võ Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Hàm Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Quảng Ninh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Gia Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Duy Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Hải Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Ninh Châu", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Vạn Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã An Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Xuân Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Hiền Ninh", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Trường Ninh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trường Xuân", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" },
+        { "commune": "Xã Trường Sơn", "district": "Huyện Quảng Ninh", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Trường Sơn", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Kiến Giang", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Liên Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Xuân Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã An Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Phong Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Lộc Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Lệ Thủy", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cam Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Thanh Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Hồng Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Ngư Thủy Bắc", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Cam Hồng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hưng Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Sen Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Ngư Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Sen Ngư", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Dương Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Mỹ Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Thái Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Tân Mỹ", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trường Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Mai Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Phú Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Trường Phú", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Nông trường Lệ Ninh", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Sơn Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Hoa Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Lệ Ninh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Kim Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Ngân Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" },
+        { "commune": "Xã Lâm Thủy", "district": "Huyện Lệ Thủy", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Xã Kim Ngân", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Đức Ninh Đông", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Phường Đồng Hải", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Phường Đồng Phú", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Phường Phú Hải", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Phường Hải Thành", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Phường Nam Lý", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Xã Bảo Ninh", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Xã Đức Ninh", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Phường Đồng Hới", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Bắc Lý", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Xã Lộc Ninh", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Xã Quang Phú", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Phường Đồng Thuận", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Bắc Nghĩa", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Phường Đồng Sơn", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Xã Nghĩa Ninh", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" },
+        { "commune": "Xã Thuận Đức", "district": "Thành phố Đồng Hới", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Phường Đồng Sơn", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Quảng Phong", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Phường Quảng Long", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Phường Ba Đồn", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Xã Quảng Hải", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Phường Ba Đồn", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Quảng Phúc", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Phường Quảng Thọ", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" },
+        { "commune": "Phường Quảng Thuận", "district": "Thị xã Ba Đồn", "province": "Quảng Bình" }
+      ],
+      "to": { "commune": "Phường Bắc Gianh", "province": "Quảng Trị" }
+    }
+  ],
+  "Quảng Trị": [
+    {
+      "from": [
+        { "commune": "Thị trấn Hồ Xá", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Long", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Chấp", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Vĩnh Linh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cửa Tùng", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Giang", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Hiền Thành", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Kim Thạch", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Cửa Tùng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Vĩnh Thái", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Trung Nam", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Hòa", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Tú", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Vĩnh Hoàng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Vĩnh Lâm", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Sơn", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Thủy", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Vĩnh Thủy", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Bến Quan", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Ô", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Hà", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Vĩnh Khê", "district": "Huyện Vĩnh Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Bến Quan", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hải Thái", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Linh Trường", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Gio An", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Gio Sơn", "district": "Huyện Gio Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Cồn Tiên", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cửa Việt", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Gio Mai", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Gio Hải", "district": "Huyện Gio Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Cửa Việt", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Gio Linh", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Gio Quang", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Gio Mỹ", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Phong Bình", "district": "Huyện Gio Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Gio Linh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trung Hải", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Trung Giang", "district": "Huyện Gio Linh", "province": "Quảng Trị" },
+        { "commune": "Xã Trung Sơn", "district": "Huyện Gio Linh", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Bến Hải", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cam Lộ", "district": "Huyện Cam Lộ", "province": "Quảng Trị" },
+        { "commune": "Xã Cam Thành", "district": "Huyện Cam Lộ", "province": "Quảng Trị" },
+        { "commune": "Xã Cam Chính", "district": "Huyện Cam Lộ", "province": "Quảng Trị" },
+        { "commune": "Xã Cam Nghĩa", "district": "Huyện Cam Lộ", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Cam Lộ", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cam Thủy", "district": "Huyện Cam Lộ", "province": "Quảng Trị" },
+        { "commune": "Xã Cam Hiếu", "district": "Huyện Cam Lộ", "province": "Quảng Trị" },
+        { "commune": "Xã Cam Tuyền", "district": "Huyện Cam Lộ", "province": "Quảng Trị" },
+        { "commune": "Xã Thanh An", "district": "Huyện Cam Lộ", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Hiếu Giang", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã A Bung", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã A Ngo", "district": "Huyện Đakrông", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã La Lay", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã A Vao", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Húc Nghì", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Tà Rụt", "district": "Huyện Đakrông", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Tà Rụt", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ba Nang", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Tà Long", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Đakrông", "district": "Huyện Đakrông", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Đakrông", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Triệu Nguyên", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Ba Lòng", "district": "Huyện Đakrông", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Ba Lòng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Krông Klang", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Mò Ó", "district": "Huyện Đakrông", "province": "Quảng Trị" },
+        { "commune": "Xã Hướng Hiệp", "district": "Huyện Đakrông", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Hướng Hiệp", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hướng Việt", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Hướng Lập", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Hướng Lập", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hướng Sơn", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Hướng Linh", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Hướng Phùng", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Hướng Phùng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Khe Sanh", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Tân Hợp", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Húc", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Hướng Tân", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Khe Sanh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Liên", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Hướng Lộc", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Tân Lập", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Tân Lập", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Thành", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Tân Long", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Thị trấn Lao Bảo", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Lao Bảo", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Thuận", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Lìa", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Lìa", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ba Tầng", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã Xy", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" },
+        { "commune": "Xã A Dơi", "district": "Huyện Hướng Hóa", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã A Dơi", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Ái Tử", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Thành", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Thượng", "district": "Huyện Triệu Phong", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Triệu Phong", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Triệu Ái", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Giang", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Long", "district": "Huyện Triệu Phong", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Ái Tử", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Triệu Độ", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Thuận", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Hòa", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Đại", "district": "Huyện Triệu Phong", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Triệu Bình", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Triệu Trung", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Tài", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Cơ", "district": "Huyện Triệu Phong", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Triệu Cơ", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Triệu Trạch", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Phước", "district": "Huyện Triệu Phong", "province": "Quảng Trị" },
+        { "commune": "Xã Triệu Tân", "district": "Huyện Triệu Phong", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Nam Cửa Việt", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Diên Sanh", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Trường", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Định", "district": "Huyện Hải Lăng", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Diên Sanh", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hải Dương", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải An", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Khê", "district": "Huyện Hải Lăng", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Mỹ Thủy", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hải Phú", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Lâm", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Thượng", "district": "Huyện Hải Lăng", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Hải Lăng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hải Sơn", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Phong", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Chánh", "district": "Huyện Hải Lăng", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Nam Hải Lăng", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hải Quy", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Hưng", "district": "Huyện Hải Lăng", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Bình", "district": "Huyện Hải Lăng", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Xã Vĩnh Định", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường 3", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường 4", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường Đông Giang", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường Đông Thanh", "district": "Thành phố Đông Hà", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Phường Đông Hà", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 2", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường 5", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường Đông Lễ", "district": "Thành phố Đông Hà", "province": "Quảng Trị" },
+        { "commune": "Phường Đông Lương", "district": "Thành phố Đông Hà", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Phường Nam Đông Hà", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "Thị xã Quảng Trị", "province": "Quảng Trị" },
+        { "commune": "Phường 2", "district": "Thị xã Quảng Trị", "province": "Quảng Trị" },
+        { "commune": "Phường 3", "district": "Thị xã Quảng Trị", "province": "Quảng Trị" },
+        { "commune": "Phường An Đôn", "district": "Thị xã Quảng Trị", "province": "Quảng Trị" },
+        { "commune": "Xã Hải Lệ", "district": "Thị xã Quảng Trị", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Phường Quảng Trị", "province": "Quảng Trị" }
+    },
+    {
+      "from": [
+        { "commune": "Huyện Cồn Cỏ", "district": "Huyện Cồn Cỏ", "province": "Quảng Trị" }
+      ],
+      "to": { "commune": "Đặc khu Cồn Cỏ", "province": "Quảng Trị" }
+    }
+  ]
+}

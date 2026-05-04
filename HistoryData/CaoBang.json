@@ -1,0 +1,190 @@
+{
+  "events": [
+    {
+      "id": "CaoBang_MAC_01",
+      "year": 1592,
+      "date": null,
+      "title": "Nhà Mạc rút lên Cao Bằng",
+      "description": "Sau khi thất thủ tại Thăng Long trước quân Lê - Trịnh, nhà Mạc rút lên vùng đất Cao Bằng xây dựng thành quách, thiết lập vương quyền và cát cứ tại đây trong hơn 80 năm (đến năm 1677), tạo nên những dấu ấn văn hóa - lịch sử đặc biệt.",
+      "location": {
+        "commune": "Hưng Đạo",
+        "district": "Thành phố Cao Bằng",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [
+        "Mạc Kính Cung",
+        "Mạc Kính Vũ"
+      ],
+      "tags": [
+        "Nhà Mạc",
+        "Phong kiến"
+      ]
+    },
+    {
+      "id": "CaoBang_REV_01",
+      "year": 1941,
+      "date": "1941-01-28",
+      "title": "Lãnh tụ Nguyễn Ái Quốc về nước",
+      "description": "Sau 30 năm bôn ba tìm đường cứu nước, lãnh tụ Nguyễn Ái Quốc đã vượt qua cột mốc 108 biên giới Việt - Trung, trở về Pác Bó để trực tiếp lãnh đạo phong trào cách mạng Việt Nam.",
+      "location": {
+        "commune": "Trường Hà",
+        "district": "Hà Quảng",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lịch sử Đảng",
+        "Pác Bó"
+      ]
+    },
+    {
+      "id": "CaoBang_REV_02",
+      "year": 1941,
+      "date": "1941-05-19",
+      "title": "Thành lập Mặt trận Việt Minh",
+      "description": "Hội nghị Trung ương Đảng lần thứ 8 do Nguyễn Ái Quốc chủ trì tại lán Khuổi Nặm (Pác Bó) đã quyết định thành lập Việt Nam Độc lập Đồng minh (gọi tắt là Việt Minh) để đoàn kết toàn dân đánh Pháp, đuổi Nhật.",
+      "location": {
+        "commune": "Trường Hà",
+        "district": "Hà Quảng",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [
+        "Hồ Chí Minh",
+        "Trường Chinh"
+      ],
+      "tags": [
+        "Việt Minh",
+        "Tổ chức chính trị"
+      ]
+    },
+    {
+      "id": "CaoBang_ARMY_01",
+      "year": 1944,
+      "date": "1944-12-22",
+      "title": "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân",
+      "description": "Tại khu rừng Trần Hưng Đạo, Đội Việt Nam Tuyên truyền Giải phóng quân (tiền thân của Quân đội Nhân dân Việt Nam) được thành lập với 34 chiến sĩ, do đồng chí Võ Nguyên Giáp chỉ huy, thực hiện phương châm 'Chính trị trọng hơn quân sự'.",
+      "location": {
+        "commune": "Tam Kim",
+        "district": "Nguyên Bình",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp",
+        "Hoàng Sâm",
+        "Xích Thắng"
+      ],
+      "tags": [
+        "Quân đội",
+        "Thành lập tổ chức"
+      ]
+    },
+    {
+      "id": "CaoBang_ARMY_02",
+      "year": 1944,
+      "date": "1944-12-25",
+      "title": "Chiến thắng Phai Khắt - Nà Ngần",
+      "description": "Ngay sau khi thành lập, Đội Việt Nam Tuyên truyền Giải phóng quân đã cải trang, dùng mưu tập kích và tiêu diệt gọn hai đồn Phai Khắt và Nà Ngần, mở đầu truyền thống 'đánh thắng trận đầu' của quân đội ta.",
+      "location": {
+        "commune": "Tam Kim",
+        "district": "Nguyên Bình",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Trận đánh đầu tiên",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "CaoBang_REV_03",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Giành chính quyền tại thị xã Cao Bằng",
+      "description": "Ủy ban Khởi nghĩa tỉnh Cao Bằng lãnh đạo quần chúng và lực lượng vũ trang tiến vào thị xã, chiếm Dinh Tỉnh trưởng và đồn lính bảo an. Chính quyền cách mạng lâm thời được thiết lập, xóa bỏ bộ máy cai trị của địch.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Cao Bằng",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "CaoBang_FRENCH_WAR_01",
+      "year": 1950,
+      "date": "1950-09-16",
+      "title": "Trận Đông Khê (Mở màn Chiến dịch Biên giới)",
+      "description": "Quân đội ta nổ súng tấn công cụm cứ điểm Đông Khê. Sau 54 giờ chiến đấu ác liệt, ta đã tiêu diệt hoàn toàn cứ điểm này, chặt đứt mắt xích quan trọng trên tuyến phòng thủ đường số 4 của Pháp, cô lập Cao Bằng.",
+      "location": {
+        "commune": "Đông Khê",
+        "district": "Thạch An",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [
+        "La Văn Cầu"
+      ],
+      "tags": [
+        "Chiến dịch Biên giới",
+        "Đông Khê"
+      ]
+    },
+    {
+      "id": "CaoBang_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-10-03",
+      "title": "Giải phóng Cao Bằng",
+      "description": "Sau khi mất Đông Khê và chịu thiệt hại nặng nề trong cuộc hành quân rút lui thảm họa trên đường số 4 (binh đoàn Charton và Le Page bị xóa sổ), quân Pháp buộc phải bỏ thị xã Cao Bằng. Cao Bằng trở thành tỉnh đầu tiên được giải phóng hoàn toàn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Cao Bằng",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Biên giới"
+      ]
+    },
+    {
+      "id": "CaoBang_ADMIN_01",
+      "year": 1978,
+      "date": "1978-12-29",
+      "title": "Tái lập tỉnh Cao Bằng",
+      "description": "Kỳ họp thứ 4 Quốc hội khóa VI đã ra nghị quyết chia tách tỉnh Cao Lạng (được hợp nhất từ năm 1975) thành hai tỉnh Cao Bằng và Lạng Sơn. Tỉnh Cao Bằng trở lại địa giới hành chính cũ.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Cao Bằng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "CaoBang_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Chiến đấu bảo vệ biên giới phía Bắc tại Cao Bằng",
+      "description": "Quân đội Trung Quốc tấn công ồ ạt vào biên giới Cao Bằng, phá hủy nặng nề thị xã Cao Bằng và khu di tích Pác Bó. Quân và dân Cao Bằng, đặc biệt là tại cầu Bằng Giang và các điểm cao biên giới, đã chiến đấu kiên cường để ngăn chặn bước tiến của địch.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Cao Bằng",
+        "province": "Cao Bằng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới 1979",
+        "Quân sự"
+      ]
+    }
+  ]
+}

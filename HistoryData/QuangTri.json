@@ -1,0 +1,199 @@
+{
+  "events": [
+    {
+      "id": "QuangTri_NGUYEN_01",
+      "year": 1558,
+      "date": null,
+      "title": "Chúa Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+      "description": "Nguyễn Hoàng cùng gia quyến và binh lính vào đóng quân tại Ái Tử, mở đầu cho sự nghiệp của các chúa Nguyễn ở Đàng Trong. Vùng đất Ái Tử - Trà Bát trở thành thủ phủ đầu tiên, đặt nền móng cho việc mở mang bờ cõi về phương Nam.",
+      "location": {
+        "commune": "Triệu Ái",
+        "district": "Triệu Phong",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [
+        "Nguyễn Hoàng"
+      ],
+      "tags": [
+        "Chúa Nguyễn",
+        "Đàng Trong"
+      ]
+    },
+    {
+      "id": "QuangTri_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-07-13",
+      "title": "Ban Chiếu Cần Vương tại Tân Sở",
+      "description": "Sau khi kinh thành Huế thất thủ, Tôn Thất Thuyết đưa vua Hàm Nghi ra căn cứ Tân Sở. Tại đây, thay mặt vua, ông đã ban Chiếu Cần Vương lần thứ nhất, kêu gọi văn thân, sĩ phu và nhân dân đứng lên giúp vua cứu nước.",
+      "location": {
+        "commune": "Cam Chính",
+        "district": "Cam Lộ",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [
+        "Hàm Nghi",
+        "Tôn Thất Thuyết"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "QuangTri_REV_01",
+      "year": 1930,
+      "date": "1930-04-21",
+      "title": "Thành lập Đảng bộ Đảng Cộng sản tỉnh Quảng Trị",
+      "description": "Tại nhà bà Nguyễn Thị Lợi (làng Phước Kiểm), Hội nghị thành lập Đảng bộ tỉnh Quảng Trị được tổ chức, cử ra Ban Chấp hành lâm thời. Đây là mốc son đánh dấu sự lãnh đạo trực tiếp của Đảng đối với phong trào cách mạng địa phương.",
+      "location": {
+        "commune": "Cam Thành",
+        "district": "Cam Lộ",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "QuangTri_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-08-25",
+      "title": "Vĩ tuyến 17 và sự chia cắt đất nước",
+      "description": "Theo Hiệp định Genève, sông Bến Hải (vĩ tuyến 17) được chọn làm giới tuyến quân sự tạm thời. Cầu Hiền Lương trở thành biểu tượng của nỗi đau chia cắt hai miền Nam - Bắc trong suốt hơn 20 năm.",
+      "location": {
+        "commune": "Hiền Lương",
+        "district": "Vĩnh Linh",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hiệp định Genève",
+        "Chia cắt"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_01",
+      "year": 1965,
+      "date": "1965-02-08",
+      "title": "Không kích đảo Cồn Cỏ",
+      "description": "Không quân và hải quân Mỹ bắt đầu đánh phá ác liệt đảo Cồn Cỏ - 'vọng gác tiền tiêu' của miền Bắc xã hội chủ nghĩa. Cán bộ chiến sĩ đảo Cồn Cỏ đã chiến đấu kiên cường suốt nhiều năm, được Bác Hồ 3 lần gửi thư khen.",
+      "location": {
+        "commune": null,
+        "district": "Cồn Cỏ",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Hải đảo"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_02",
+      "year": 1966,
+      "date": null,
+      "title": "Hoàn thành Địa đạo Vịnh Mốc",
+      "description": "Quân và dân Vĩnh Linh đã kỳ công đào hệ thống địa đạo Vịnh Mốc dài gần 2km trong lòng đất đỏ bazan để làm nơi trú ẩn và sinh hoạt cho hàng trăm người dân trước sự đánh phá hủy diệt của bom đạn Mỹ.",
+      "location": {
+        "commune": "Vĩnh Thạch",
+        "district": "Vĩnh Linh",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Địa đạo"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-20",
+      "title": "Chiến dịch Đường 9 - Khe Sanh",
+      "description": "Quân đội Nhân dân Việt Nam mở chiến dịch vây hãm căn cứ Thủy quân lục chiến Mỹ tại Khe Sanh (Tà Cơn). Cuộc vây hãm kéo dài 77 ngày đêm đã thu hút và giam chân một lực lượng lớn quân Mỹ, tạo điều kiện cho cuộc Tổng tiến công Tết Mậu Thân trên toàn miền Nam.",
+      "location": {
+        "commune": "Tân Hợp",
+        "district": "Hướng Hóa",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Khe Sanh"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_04",
+      "year": 1972,
+      "date": "1972-05-01",
+      "title": "Giải phóng thị xã Quảng Trị lần đầu",
+      "description": "Trong cuộc Tiến công chiến lược năm 1972, quân ta chọc thủng phòng tuyến Đường 9, buộc quân đội Sài Gòn rút chạy. Tỉnh Quảng Trị được giải phóng lần đầu tiên, gây chấn động dư luận quốc tế.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Quảng Trị",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mùa hè đỏ lửa",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_05",
+      "year": 1972,
+      "date": "1972-06-28",
+      "title": "Cuộc chiến đấu 81 ngày đêm bảo vệ Thành cổ",
+      "description": "Quân đội Mỹ và VNCH mở cuộc hành quân tái chiếm Quảng Trị. Các chiến sĩ quân Giải phóng đã bám trụ kiên cường trong Thành cổ Quảng Trị suốt 81 ngày đêm (từ 28/6 đến 16/9) dưới mật độ bom đạn khủng khiếp chưa từng có, viết nên khúc tráng ca bất tử.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Quảng Trị",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mùa hè đỏ lửa",
+        "Thành cổ Quảng Trị"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_06",
+      "year": 1973,
+      "date": "1973-06-06",
+      "title": "Ra mắt Trụ sở Chính phủ Cách mạng Lâm thời",
+      "description": "Sau khi Hiệp định Paris được ký kết, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đã đặt trụ sở tại Cam Lộ. Tại đây, nhiều đại sứ các nước đã đến trình Quốc thư, đặc biệt là chuyến thăm lịch sử của Chủ tịch Cuba Fidel Castro (tháng 9/1973).",
+      "location": {
+        "commune": "Cam Lộ",
+        "district": "Cam Lộ",
+        "province": "Quảng Trị"
+      },
+      "related_figures": [
+        "Nguyễn Hữu Thọ",
+        "Fidel Castro"
+      ],
+      "tags": [
+        "Ngoại giao",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "QuangTri_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Tái lập tỉnh Quảng Trị",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Bình Trị Thiên (hợp nhất từ năm 1976) trở lại thành 3 tỉnh: Quảng Bình, Quảng Trị và Thừa Thiên Huế. Tỉnh Quảng Trị chính thức đi vào hoạt động trở lại từ ngày 01/07/1989.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quảng Trị"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

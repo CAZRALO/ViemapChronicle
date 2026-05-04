@@ -1,0 +1,211 @@
+{
+  "events": [
+    {
+      "id": "ThaiNguyen_LY_01",
+      "year": 1127,
+      "date": null,
+      "title": "Dương Tự Minh được gả công chúa",
+      "description": "Dương Tự Minh, thủ lĩnh phủ Phú Lương (bao gồm Thái Nguyên ngày nay), là người có công lớn trong việc giữ yên bờ cõi phía Bắc. Ông được vua Lý Nhân Tông gả công chúa Diên Bình, trở thành Phò mã nhà Lý, biểu tượng cho sự đoàn kết dân tộc.",
+      "location": {
+        "commune": "Động Đạt",
+        "district": "Phú Lương",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Dương Tự Minh",
+        "Lý Nhân Tông"
+      ],
+      "tags": [
+        "Nhà Lý",
+        "Nhân vật lịch sử"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_COLONIAL_01",
+      "year": 1917,
+      "date": "1917-08-30",
+      "title": "Khởi nghĩa Thái Nguyên",
+      "description": "Đội Cấn (Trịnh Văn Cấn) và Lương Ngọc Quyến lãnh đạo binh lính và tù chính trị nổi dậy chiếm trại lính, phá nhà lao Thái Nguyên, làm chủ tỉnh lỵ trong 7 ngày. Đây là cuộc khởi nghĩa vũ trang lớn nhất ở Bắc Kỳ trong Chiến tranh thế giới thứ nhất.",
+      "location": {
+        "commune": "Trưng Vương",
+        "district": "Thành phố Thái Nguyên",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Đội Cấn",
+        "Lương Ngọc Quyến"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_REV_01",
+      "year": 1941,
+      "date": "1941-09-15",
+      "title": "Thành lập Trung đội Cứu quốc quân II",
+      "description": "Tại rừng Khuôn Mánh, Trung đội Cứu quốc quân II được thành lập, đánh dấu sự phát triển của lực lượng vũ trang cách mạng sau cuộc khởi nghĩa Bắc Sơn, trở thành nòng cốt cho chiến tranh du kích tại vùng Võ Nhai - Thái Nguyên.",
+      "location": {
+        "commune": "Tràng Xá",
+        "district": "Võ Nhai",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Chu Văn Tấn"
+      ],
+      "tags": [
+        "Lực lượng vũ trang",
+        "Tiền khởi nghĩa"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_REV_02",
+      "year": 1945,
+      "date": "1945-05-15",
+      "title": "Hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân",
+      "description": "Tại đình làng Quặng, lễ hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân thành Việt Nam Giải phóng quân đã diễn ra. Đồng chí Võ Nguyên Giáp được cử làm Tư lệnh.",
+      "location": {
+        "commune": "Định Biên",
+        "district": "Định Hóa",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp",
+        "Chu Văn Tấn"
+      ],
+      "tags": [
+        "Quân đội",
+        "Thành lập tổ chức"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_REV_03",
+      "year": 1945,
+      "date": "1945-08-20",
+      "title": "Giải phóng thị xã Thái Nguyên",
+      "description": "Chi đội Giải phóng quân do đồng chí Võ Nguyên Giáp chỉ huy từ Tân Trào tiến về bao vây, tấn công quân Nhật tại thị xã Thái Nguyên. Chiều cùng ngày, Ủy ban Khởi nghĩa công bố bãi bỏ chính quyền tay sai, thành lập Ủy ban nhân dân cách mạng lâm thời.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thái Nguyên",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-05-20",
+      "title": "Bác Hồ đến ATK Định Hóa",
+      "description": "Chủ tịch Hồ Chí Minh cùng các cơ quan Trung ương Đảng, Chính phủ chuyển lên ATK (An toàn khu) Định Hóa để lãnh đạo cuộc kháng chiến trường kỳ. Đồi Khau Tý là nơi ở và làm việc đầu tiên của Người tại ATK.",
+      "location": {
+        "commune": "Điềm Mặc",
+        "district": "Định Hóa",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "ATK Định Hóa",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-05-28",
+      "title": "Lễ phong quân hàm Đại tướng đầu tiên",
+      "description": "Tại đồi Nà Lọm (bên dòng suối Khuôn Tát), Chủ tịch Hồ Chí Minh đã chủ trì lễ phong quân hàm Đại tướng cho Tổng chỉ huy Võ Nguyên Giáp. Đây là vị Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam.",
+      "location": {
+        "commune": "Phú Đình",
+        "district": "Định Hóa",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Hồ Chí Minh",
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Quân đội",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-12-06",
+      "title": "Quyết định mở Chiến dịch Điện Biên Phủ",
+      "description": "Tại lán Tỉn Keo, Bộ Chính trị Trung ương Đảng dưới sự chủ trì của Chủ tịch Hồ Chí Minh đã họp và thông qua phương án tác chiến Đông Xuân 1953-1954, quyết định mở chiến dịch Điện Biên Phủ lịch sử.",
+      "location": {
+        "commune": "Phú Đình",
+        "district": "Định Hóa",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Điện Biên Phủ",
+        "ATK Định Hóa"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_INDUSTRY_01",
+      "year": 1963,
+      "date": "1963-11-29",
+      "title": "Mẻ gang đầu tiên của Khu Gang thép Thái Nguyên",
+      "description": "Lò cao số 1 của Khu công nghiệp Gang thép Thái Nguyên cho ra mẻ gang đầu tiên. Sự kiện này đánh dấu sự ra đời của ngành công nghiệp luyện kim đen Việt Nam, biến Thái Nguyên thành 'Thành phố Thép'.",
+      "location": {
+        "commune": "Cam Giá",
+        "district": "Thành phố Thái Nguyên",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Công nghiệp"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_US_WAR_01",
+      "year": 1972,
+      "date": "1972-12-24",
+      "title": "Bắn rơi máy bay B-52",
+      "description": "Trong chiến dịch Điện Biên Phủ trên không, Đại đội tự vệ 98 của Khu Gang thép Thái Nguyên và Trung đoàn 256 Cao xạ đã phối hợp chiến đấu, bắn rơi 2 máy bay B-52 của Mỹ khi chúng ném bom hủy diệt khu công nghiệp.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thái Nguyên",
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "B-52"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Thái Nguyên",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Bắc Thái (được hợp nhất từ năm 1965) trở lại thành hai tỉnh Thái Nguyên và Bắc Kạn. Tỉnh Thái Nguyên chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thái Nguyên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+[
+  {
+    "year": 1976,
+    "title": "Hợp nhất các tỉnh sau thống nhất",
+    "description": "Sau năm 1975, nhiều tỉnh nhỏ được sáp nhập thành các tỉnh lớn như Hà Nam Ninh, Hà Sơn Bình, Bình Trị Thiên, Nghĩa Bình, Thuận Hải, Cửu Long...",
+    "type": "merge",
+    "changes": []
+  },
+  {
+    "year": 1979,
+    "title": "Thành lập Đặc khu Vũng Tàu - Côn Đảo",
+    "description": "Thành lập Đặc khu Vũng Tàu - Côn Đảo trực thuộc Trung ương (tách ra từ Đồng Nai).",
+    "type": "split",
+    "changes": [
+      {
+        "from": ["Đồng Nai"],
+        "to": ["Đồng Nai", "Đặc khu Vũng Tàu - Côn Đảo"]
+      }
+    ]
+  },
+  {
+    "year": 1989,
+    "title": "Tách tỉnh đợt 1 (Miền Trung)",
+    "description": "Chia tách các tỉnh Bình Trị Thiên, Nghĩa Bình, Phú Khánh.",
+    "type": "split",
+    "changes": [
+      {
+        "from": ["Bình Trị Thiên"],
+        "to": ["Quảng Bình", "Quảng Trị", "Thừa Thiên Huế"]
+      },
+      {
+        "from": ["Nghĩa Bình"],
+        "to": ["Quảng Ngãi", "Bình Định"]
+      },
+      {
+        "from": ["Phú Khánh"],
+        "to": ["Phú Yên", "Khánh Hòa"]
+      }
+    ]
+  },
+  {
+    "year": 1991,
+    "title": "Tách tỉnh đợt 2 (Đợt lớn nhất)",
+    "description": "Tái lập nhiều tỉnh cũ tại miền Bắc và Tây Nguyên.",
+    "type": "split",
+    "changes": [
+      {
+        "from": ["Nghệ Tĩnh"],
+        "to": ["Nghệ An", "Hà Tĩnh"]
+      },
+      {
+        "from": ["Hoàng Liên Sơn"],
+        "to": ["Lào Cai", "Yên Bái"]
+      },
+      {
+        "from": ["Hà Tuyên"],
+        "to": ["Tuyên Quang", "Hà Giang"]
+      },
+      {
+        "from": ["Gia Lai - Kon Tum"],
+        "to": ["Gia Lai", "Kon Tum"]
+      },
+      {
+        "from": ["Hà Nam Ninh"],
+        "to": ["Nam Hà", "Ninh Bình"]
+      },
+      {
+        "from": ["Cửu Long"],
+        "to": ["Vĩnh Long", "Trà Vinh"]
+      },
+      {
+        "from": ["Hậu Giang"],
+        "to": ["Cần Thơ", "Sóc Trăng"]
+      },
+      {
+        "from": ["Đồng Nai", "Đặc khu Vũng Tàu - Côn Đảo"],
+        "to": ["Đồng Nai", "Bà Rịa - Vũng Tàu"]
+      },
+      {
+        "from": ["Thuận Hải"],
+        "to": ["Bình Thuận", "Ninh Thuận"]
+      },
+      {
+        "from": ["Hà Sơn Bình"],
+        "to": ["Hòa Bình", "Hà Tây"]
+      }
+    ]
+  },
+  {
+    "year": 1997,
+    "title": "Tách tỉnh đợt 3",
+    "description": "Tách các tỉnh Hà Bắc, Vĩnh Phú, Bắc Thái, Sông Bé...",
+    "type": "split",
+    "changes": [
+      {
+        "from": ["Hà Bắc"],
+        "to": ["Bắc Giang", "Bắc Ninh"]
+      },
+      {
+        "from": ["Hải Hưng"],
+        "to": ["Hải Dương", "Hưng Yên"]
+      },
+      {
+        "from": ["Vĩnh Phú"],
+        "to": ["Vĩnh Phúc", "Phú Thọ"]
+      },
+      {
+        "from": ["Nam Hà"],
+        "to": ["Hà Nam", "Nam Định"]
+      },
+      {
+        "from": ["Bắc Thái"],
+        "to": ["Thái Nguyên", "Bắc Kạn"]
+      },
+      {
+        "from": ["Quảng Nam - Đà Nẵng"],
+        "to": ["Quảng Nam", "Đà Nẵng"]
+      },
+      {
+        "from": ["Sông Bé"],
+        "to": ["Bình Dương", "Bình Phước"]
+      },
+      {
+        "from": ["Minh Hải"],
+        "to": ["Bạc Liêu", "Cà Mau"]
+      }
+    ]
+  },
+  {
+    "year": 2004,
+    "title": "Thành lập tỉnh mới đợt cuối",
+    "description": "Chia tách Cần Thơ, Đắk Lắk, Lai Châu.",
+    "type": "split",
+    "changes": [
+      {
+        "from": ["Tỉnh Cần Thơ"],
+        "to": ["TP. Cần Thơ", "Hậu Giang"]
+      },
+      {
+        "from": ["Đắk Lắk"],
+        "to": ["Đắk Lắk", "Đắk Nông"]
+      },
+      {
+        "from": ["Lai Châu"],
+        "to": ["Lai Châu (mới)", "Điện Biên"]
+      }
+    ]
+  },
+  {
+    "year": 2008,
+    "title": "Mở rộng địa giới hành chính Hà Nội",
+    "description": "Sáp nhập toàn bộ tỉnh Hà Tây và một số khu vực lân cận vào Hà Nội.",
+    "type": "merge",
+    "changes": [
+      {
+        "from": ["Hà Nội", "Hà Tây", "Vĩnh Phúc (H. Mê Linh)", "Hòa Bình (4 xã Lương Sơn)"],
+        "to": ["Hà Nội"]
+      }
+    ]
+  },
+{
+    "year": 2025,
+    "title": "Tổng sáp nhập địa giới hành chính cấp Tỉnh năm 2025",
+    "description": "Thực hiện nghị quyết sáp nhập quy mô lớn trên toàn quốc. Giữ nguyên 11 tỉnh thành (Hà Nội, Huế, Lai Châu, Điện Biên, Sơn La, Lạng Sơn, Quảng Ninh, Thanh Hóa, Nghệ An, Hà Tĩnh, Cao Bằng); các tỉnh còn lại được sáp nhập thành 23 đơn vị hành chính mới.",
+    "type": "merge",
+    "changes": [
+      {
+        "from": ["Tuyên Quang", "Hà Giang"],
+        "to": ["Tuyên Quang"]
+      },
+      {
+        "from": ["Lào Cai", "Yên Bái"],
+        "to": ["Lào Cai"]
+      },
+      {
+        "from": ["Bắc Kạn", "Thái Nguyên"],
+        "to": ["Thái Nguyên"]
+      },
+      {
+        "from": ["Vĩnh Phúc", "Phú Thọ", "Hòa Bình"],
+        "to": ["Phú Thọ"]
+      },
+      {
+        "from": ["Bắc Ninh", "Bắc Giang"],
+        "to": ["Bắc Ninh"]
+      },
+      {
+        "from": ["Hưng Yên", "Thái Bình"],
+        "to": ["Hưng Yên"]
+      },
+      {
+        "from": ["Hải Dương", "Thành phố Hải Phòng"],
+        "to": ["Thành phố Hải Phòng"]
+      },
+      {
+        "from": ["Hà Nam", "Ninh Bình", "Nam Định"],
+        "to": ["Ninh Bình"]
+      },
+      {
+        "from": ["Quảng Bình", "Quảng Trị"],
+        "to": ["Quảng Trị"]
+      },
+      {
+        "from": ["Quảng Nam", "Thành phố Đà Nẵng"],
+        "to": ["Thành phố Đà Nẵng"]
+      },
+      {
+        "from": ["Kon Tum", "Quảng Ngãi"],
+        "to": ["Quảng Ngãi"]
+      },
+      {
+        "from": ["Gia Lai", "Bình Định"],
+        "to": ["Gia Lai"]
+      },
+      {
+        "from": ["Đắk Lắk", "Phú Yên"],
+        "to": ["Đắk Lắk"]
+      },
+      {
+        "from": ["Ninh Thuận", "Khánh Hòa"],
+        "to": ["Khánh Hòa"]
+      },
+      {
+        "from": ["Lâm Đồng", "Đắk Nông", "Bình Thuận"],
+        "to": ["Lâm Đồng"]
+      },
+      {
+        "from": ["Đồng Nai", "Bình Phước"],
+        "to": ["Đồng Nai"]
+      },
+      {
+        "from": ["Bà Rịa - Vũng Tàu", "Bình Dương", "Thành phố Hồ Chí Minh"],
+        "to": ["Thành phố Hồ Chí Minh"]
+      },
+      {
+        "from": ["Tây Ninh", "Long An"],
+        "to": ["Tây Ninh"]
+      },
+      {
+        "from": ["Tiền Giang", "Đồng Tháp"],
+        "to": ["Đồng Tháp"]
+      },
+      {
+        "from": ["Bến Tre", "Vĩnh Long", "Trà Vinh"],
+        "to": ["Vĩnh Long"]
+      },
+      {
+        "from": ["Thành phố Cần Thơ", "Sóc Trăng", "Hậu Giang"],
+        "to": ["Thành phố Cần Thơ"]
+      },
+      {
+        "from": ["Bạc Liêu", "Cà Mau"],
+        "to": ["Cà Mau"]
+      },
+      {
+        "from": ["An Giang", "Kiên Giang"],
+        "to": ["An Giang"]
+      }
+    ]
+  }
+]

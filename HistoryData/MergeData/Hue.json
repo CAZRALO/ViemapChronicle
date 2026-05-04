@@ -1,0 +1,337 @@
+{
+  "Thừa Thiên Huế": [
+    {
+      "from": [
+        { "commune": "phường Phong Thu", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phong Mỹ", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phong Xuân", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phong Điền", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phong An", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Phong Hiền", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phong Sơn", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phong Thái", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phong Hòa", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phong Bình", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phong Chương", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phong Dinh", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phong Phú", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phong Thạnh", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phong Phú", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phong Hải", "district": "huyện Phong Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Công", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Ngạn", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phong Quảng", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tứ Hạ", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương Văn", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương Vân", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Hương Trà", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hương Xuân", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương Chữ", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hương Toàn", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Kim Trà", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Long Hồ", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương Long", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Kim Long", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Kim Long", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Hòa", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương Sơ", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương An", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Hương An", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Gia Hội", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Phú Hậu", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Tây Lộc", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Thuận Lộc", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Thuận Hòa", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Đông Ba", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phú Xuân", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thuận An", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Hải", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Thuận", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Thuận An", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hương Phong", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Hương Vinh", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Thành", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Hóa Châu", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phú Thượng", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú An", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Mỹ", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Mỹ Thượng", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thủy Vân", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Xuân Phú", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Vỹ Dạ", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Vỹ Dạ", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phú Hội", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Phú Nhuận", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Phường Đúc", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Vĩnh Ninh", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Phước Vĩnh", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Trường An", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Thuận Hóa", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Đông", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường An Tây", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường An Cựu", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường An Cựu", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thủy Biều", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Thủy Bằng", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Thủy Xuân", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Thủy Xuân", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thủy Dương", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Thủy Phương", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Thủy Thanh", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Thanh Thủy", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thủy Lương", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "phường Thủy Châu", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Thủy Tân", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Hương Thủy", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Phú Bài", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Thủy Phù", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Sơn", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Dương Hòa", "district": "thị xã Hương Thủy", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Phú Bài", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quảng Thái", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Lợi", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Vinh", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Phú", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Đan Điền", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Sịa", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Phước", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng An", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Thọ", "district": "huyện Quảng Điền", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Quảng Điền", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Bình", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Bình Thành", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Bình Tiến", "district": "thị xã Hương Trà", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Bình Điền", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phú Diên", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Vinh Xuân", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Vinh An", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Vinh Thanh", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Phú Vinh", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phú Xuân", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Lương", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Hồ", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Phú Hồ", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phú Đa", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Gia", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Vinh Hà", "district": "huyện Phú Vang", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Phú Vang", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vinh Hưng", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Vinh Mỹ", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Giang Hải", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Vinh Hiền", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Vinh Lộc", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Lộc Sơn", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Bổn", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Xuân Lộc", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Hưng Lộc", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lộc Hòa", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Điền", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc An", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Lộc An", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phú Lộc", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Trì", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Bình", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Phú Lộc", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Lăng Cô", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Tiến", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Vĩnh", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lộc Thủy", "district": "huyện Phú Lộc", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Chân Mây - Lăng Cô", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thượng Quảng", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Thượng Long", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hương Hữu", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Long Quảng", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Xuân", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Thượng Nhật", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hương Sơn", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Nam Đông", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Khe Tre", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hương Phú", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hương Lộc", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Thượng Lộ", "district": "huyện Nam Đông", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã Khe Tre", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hồng Thủy", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hồng Vân", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Trung Sơn", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hồng Kim", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã A Lưới 1", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn A Lưới", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hồng Bắc", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Quảng Nhâm", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã A Ngo", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã A Lưới 2", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Thủy", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hồng Thượng", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Phú Vinh", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hồng Thái", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã A Lưới 3", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Phong", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã A Roàng", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Đông Sơn", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Lâm Đớt", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã A Lưới 4", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Nguyên", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" },
+        { "commune": "xã Hồng Hạ", "district": "huyện A Lưới", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "xã A Lưới 5", "province": "tỉnh Thừa Thiên Huế" }
+    },
+    {
+      "from": [
+        { "commune": "phường Dương Nỗ", "district": "thành phố Huế", "province": "tỉnh Thừa Thiên Huế" }
+      ],
+      "to": { "commune": "phường Dương Nỗ", "province": "tỉnh Thừa Thiên Huế" }
+    }
+  ]
+}

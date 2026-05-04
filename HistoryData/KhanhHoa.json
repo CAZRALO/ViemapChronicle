@@ -1,0 +1,175 @@
+{
+  "events": [
+    {
+      "id": "KhanhHoa_FOUNDING_01",
+      "year": 1653,
+      "date": null,
+      "title": "Thành lập Dinh Thái Khang (Khai sinh Khánh Hòa)",
+      "description": "Sau khi đánh bại quân Chiêm Thành quấy nhiễu biên giới, Chúa Hiền Nguyễn Phúc Tần đã tiếp nhận vùng đất từ đèo Cả đến sông Phan Rang, lập ra dinh Thái Khang gồm 2 phủ là Thái Khang và Diên Ninh. Đây là mốc lịch sử đánh dấu sự hình thành của tỉnh Khánh Hòa ngày nay.",
+      "location": {
+        "commune": "Diên Thạnh",
+        "district": "Diên Khánh",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Nguyễn Phúc Tần",
+        "Hùng Lộc"
+      ],
+      "tags": [
+        "Mở mang bờ cõi",
+        "Chúa Nguyễn"
+      ]
+    },
+    {
+      "id": "KhanhHoa_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-07-00",
+      "title": "Khởi nghĩa Trịnh Phong",
+      "description": "Hưởng ứng chiếu Cần Vương, Trịnh Phong (nguyên Đề đốc) đã lãnh đạo nghĩa quân lập căn cứ tại thành Diên Khánh, được tôn làm 'Bình Tây Đại tướng quân'. Nghĩa quân đã chiến đấu dũng cảm chống lại quân Pháp đổ bộ vào Nha Trang trong suốt hơn 1 năm.",
+      "location": {
+        "commune": null,
+        "district": "Diên Khánh",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Trịnh Phong",
+        "Trần Đường",
+        "Nguyễn Khanh"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "KhanhHoa_REV_01",
+      "year": 1930,
+      "date": "1930-02-24",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại nhà ông Nguyễn Cừ (khu phố Đệ Nhị, thị xã Nha Trang), Đảng bộ bộ phận Đảng Cộng sản Việt Nam tại Khánh Hòa được thành lập (trên cơ sở chuyển từ tổ chức Tân Việt). Đây là mốc son mở đầu cho sự lãnh đạo của Đảng tại địa phương.",
+      "location": {
+        "commune": "Phương Sài",
+        "district": "Thành phố Nha Trang",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Vương Gia Cương"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "KhanhHoa_REV_02",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "Giành chính quyền tại Nha Trang",
+      "description": "Hòa cùng khí thế của Hà Nội, cuộc mít tinh lớn tại Sân vận động Nha Trang đã biến thành cuộc biểu tình vũ trang chiếm các công sở. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Khánh Hòa ra mắt nhân dân, xóa bỏ chính quyền thực dân phong kiến.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nha Trang",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "KhanhHoa_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-10-23",
+      "title": "Mặt trận Nha Trang (101 ngày đêm)",
+      "description": "Quân dân Khánh Hòa nổ súng tấn công quân Pháp, mở đầu cuộc kháng chiến tại Nam Trung Bộ. Lực lượng ta đã vây hãm quân Pháp trong thành phố Nha Trang suốt 101 ngày đêm (tương tự như 60 ngày đêm ở Hà Nội), tạo điều kiện cho nhân dân tản cư và chuẩn bị kháng chiến lâu dài.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nha Trang",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Trần Công Khanh",
+        "Võ Nguyên Giáp"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Bao vây"
+      ]
+    },
+    {
+      "id": "KhanhHoa_US_WAR_01",
+      "year": 1968,
+      "date": "1968-03-01",
+      "title": "Sự kiện Tàu 235 (Huyền thoại Đường Hồ Chí Minh trên biển)",
+      "description": "Tàu 235 do thuyền trưởng Nguyễn Phan Vinh chỉ huy chở vũ khí vào bến Hòn Hèo thì bị địch phát hiện. Sau cuộc chiến đấu không cân sức với 7 tàu chiến và nhiều máy bay Mỹ, các chiến sĩ đã cho nổ tàu để xóa dấu vết. Thuyền trưởng Nguyễn Phan Vinh hy sinh anh dũng (tên anh sau được đặt cho một đảo ở Trường Sa).",
+      "location": {
+        "commune": "Ninh Vân",
+        "district": "Ninh Hòa",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Nguyễn Phan Vinh"
+      ],
+      "tags": [
+        "Hải quân",
+        "Đường Hồ Chí Minh trên biển"
+      ]
+    },
+    {
+      "id": "KhanhHoa_US_WAR_02",
+      "year": 1975,
+      "date": "1975-04-02",
+      "title": "Giải phóng thành phố Nha Trang",
+      "description": "Sau khi tuyến phòng thủ đèo Phượng Hoàng bị Sư đoàn 10 (Quân đoàn 3) chọc thủng, quân địch tại Nha Trang hoảng loạn tháo chạy ra biển. Quân giải phóng tiến vào tiếp quản thành phố, tỉnh Khánh Hòa (phần đất liền) hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Nha Trang",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Phạm Hùng"
+      ],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Xuân 1975"
+      ]
+    },
+    {
+      "id": "KhanhHoa_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-29",
+      "title": "Giải phóng quần đảo Trường Sa",
+      "description": "Thực hiện chỉ thị 'Thần tốc, táo bạo', Đoàn 126 Đặc công Hải quân phối hợp với Quân khu 5 lần lượt giải phóng các đảo: Song Tử Tây (14/4), Sơn Ca, Nam Yết, Sinh Tồn và cuối cùng là Trường Sa Lớn (29/4), khẳng định chủ quyền biển đảo thiêng liêng.",
+      "location": {
+        "commune": "Trường Sa",
+        "district": "Trường Sa",
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [
+        "Mai Năng"
+      ],
+      "tags": [
+        "Giải phóng",
+        "Biển đảo"
+      ]
+    },
+    {
+      "id": "KhanhHoa_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Tái lập tỉnh Khánh Hòa",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Phú Khánh (được hợp nhất từ năm 1975) thành hai tỉnh Phú Yên và Khánh Hòa. Tỉnh Khánh Hòa bước vào giai đoạn phát triển mới, trở thành trung tâm du lịch và kinh tế biển đảo.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Khánh Hòa"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

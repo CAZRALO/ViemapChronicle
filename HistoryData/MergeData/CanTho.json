@@ -1,0 +1,789 @@
+{
+  "Cần Thơ": [
+    {
+      "from": [
+        { "commune": "phường Tân An", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thới Bình", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Xuân Khánh", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Ninh Kiều", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Hòa", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Cái Khế", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" },
+        { "commune": "một phần phường Bùi Hữu Nghĩa", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Cái Khế", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Khánh", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Hưng Lợi", "district": "quận Ninh Kiều", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Tân An", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Bình", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Mỹ Khánh", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" },
+        { "commune": "một phần phường Long Tuyền", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường An Bình", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trà An", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Trà Nóc", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thới An Đông", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Thới An Đông", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Thới", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Bình Thủy", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" },
+        { "commune": "phần còn lại phường Bùi Hữu Nghĩa", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Bình Thủy", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Long Hòa", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" },
+        { "commune": "phần còn lại phường Long Tuyền", "district": "quận Bình Thủy", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Long Tuyền", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lê Bình", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thường Thạnh", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Ba Láng", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Hưng Thạnh", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Cái Răng", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Phú", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Phú Thứ", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Hưng Phú", "district": "quận Cái Răng", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Hưng Phú", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Châu Văn Liêm", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thới Hòa", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thới An", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thới Thạnh", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Ô Môn", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trường Lạc", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Phước Thới", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Phước Thới", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Long Hưng", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Tân Hưng", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thới Long", "district": "quận Ô Môn", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Thới Long", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thạnh Hòa", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Trung Nhứt", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Trung An", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Trung Nhứt", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trung Kiên", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thuận Hưng", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" },
+        { "commune": "một phần phường Thốt Nốt", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Thuận Hưng", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thuận An", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" },
+        { "commune": "phường Thới Thuận", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" },
+        { "commune": "phần còn lại phường Thốt Nốt", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Thốt Nốt", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phong Điền", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Tân Thới", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Giai Xuân", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Phong Điền", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nhơn Nghĩa", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Nhơn Ái", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Nhơn Ái", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thới Lai", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thới Tân", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Trường Thắng", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Thới Lai", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đông Bình", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Đông Thuận", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Đông Thuận", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trường Xuân A", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Trường Xuân B", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Trường Xuân", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Trường Xuân", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Thạnh", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Định Môn", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Trường Thành", "district": "huyện Thới Lai", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Trường Thành", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cờ Đỏ", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thới Đông", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thới Xuân", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Cờ Đỏ", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đông Thắng", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Xuân Thắng", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Đông Hiệp", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Đông Hiệp", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trung Thạnh", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Trung Hưng", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Trung Hưng", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Vĩnh Thạnh", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thạnh Lộc", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thạnh Mỹ", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Vĩnh Thạnh", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Bình", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Vĩnh Trinh", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Vĩnh Trinh", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thạnh An", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thạnh Lợi", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thạnh Thắng", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Thạnh An", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Tiến", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thạnh An", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" },
+        { "commune": "xã Thạnh Quới", "district": "huyện Vĩnh Thạnh", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Thạnh Quới", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Lộc", "district": "quận Thốt Nốt", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "phường Tân Lộc", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trường Long", "district": "huyện Phong Điền", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Trường Long", "province": "thành phố Cần Thơ" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thới Hưng", "district": "huyện Cờ Đỏ", "province": "thành phố Cần Thơ" }
+      ],
+      "to": { "commune": "xã Thới Hưng", "province": "thành phố Cần Thơ" }
+    }
+  ],
+  "Hậu Giang": [
+    {
+      "from": [
+        { "commune": "Phường I", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "Phường III", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "Phường VII", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Vị Thanh", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "Phường IV", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "Phường V", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vị Tân", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Vị Tân", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bình Thạnh", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "phường Vĩnh Tường", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Long Bình", "district": "thành phố Vị Thanh", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Long Bình", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "phường Thuận An", "district": "thị xã Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Long Trị", "district": "thị xã Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Long Trị A", "district": "thị xã Long Mỹ", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Long Mỹ", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "phường Trà Lồng", "district": "thị xã Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Phú", "district": "thị xã Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Long Phú", "district": "thị xã Long Mỹ", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Long Phú 1", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hiệp Lợi", "district": "thị xã Ngã Bảy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Thành", "district": "thị xã Ngã Bảy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Đại Thành", "district": "thị xã Ngã Bảy", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Đại Thành", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lái Hiếu", "district": "thị xã Ngã Bảy", "province": "tỉnh Hậu Giang" },
+        { "commune": "phường Hiệp Thành", "district": "thị xã Ngã Bảy", "province": "tỉnh Hậu Giang" },
+        { "commune": "phường Ngã Bảy", "district": "thị xã Ngã Bảy", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "phường Ngã Bảy", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Tiến", "district": "huyện Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Hỏa Tiến", "district": "huyện Vị Thanh", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Hỏa Lựu", "district": "huyện Vị Thanh", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Hỏa Lựu", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Nàng Mau", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vị Thắng", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vị Trung", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Vị Thủy", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Thuận Tây", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vị Thủy", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vĩnh Thuận Đông", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Vĩnh Thuận Đông", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vị Đông", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vị Bình", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vị Thanh", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Vị Thanh 1", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Trung", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vĩnh Tường", "district": "huyện Vị Thủy", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Vĩnh Tường", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Vĩnh Viễn", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Vĩnh Viễn A", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Vĩnh Viễn", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thuận Hòa", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Thuận Hưng", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Xà Phiên", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Xà Phiên", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lương Nghĩa", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Lương Tâm", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Lương Tâm", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Rạch Gòi", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Phú Thạnh", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Thạnh Xuân", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Thạnh Xuân", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Một Ngàn", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" },
+        { "commune": "thị trấn Bảy Ngàn", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Nhơn Nghĩa A", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Hòa", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Tân Hòa", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trường Long A", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Trường Long Tây", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Trường Long Tây", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Mái Dầm", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "thị trấn Ngã Sáu", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Đông Phú", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Châu Thành", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cái Tắc", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Đông Thạnh", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Đông Phước A", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Đông Phước", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phú Tân", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Đông Phước", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Phú Hữu", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Phú Hữu", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình Thành", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Bình", "district": "huyện Châu Thành", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Tân Bình", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Kinh Cùng", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Hòa An", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Hòa An", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phương Phú", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Phương Bình", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Phương Bình", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Búng Tàu", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Phước Hưng", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Tân Phước Hưng", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cây Dương", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Hiệp Hưng", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Hiệp Hưng", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Mỹ", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Phụng Hiệp", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Thạnh", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Tân Long", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" },
+        { "commune": "xã Thạnh Hòa", "district": "huyện Phụng Hiệp", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Thạnh Hòa", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Phú", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Thạnh Phú", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phong Nẫm", "district": "huyện Châu Thành A", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Phong Nẫm", "province": "tỉnh Hậu Giang" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mỹ Phước", "district": "huyện Long Mỹ", "province": "tỉnh Hậu Giang" }
+      ],
+      "to": { "commune": "xã Mỹ Phước", "province": "tỉnh Hậu Giang" }
+    }
+  ],
+  "Sóc Trăng": [
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 2", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 3", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 4", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Phú Lợi", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 5", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 6", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 7", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 8", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Sóc Trăng", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 10", "district": "thành phố Sóc Trăng", "province": "tỉnh Sóc Trăng" },
+        { "commune": "thị trấn Mỹ Xuyên", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Đại Tâm", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Vĩnh Phước", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Vĩnh Tân", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Vĩnh Phước", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 2", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Lạc Hòa", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Vĩnh Châu", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "phường Khánh Hòa", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Vĩnh Hiệp", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Hòa Đông", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Khánh Hòa", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thị xã Ngã Năm", "province": "tỉnh Sóc Trăng" },
+        { "commune": "Phường 2", "district": "thị xã Ngã Năm", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Vĩnh Quới", "district": "thị xã Ngã Năm", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Ngã Năm", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 3", "district": "thị xã Ngã Năm", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Mỹ Bình", "district": "thị xã Ngã Năm", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Mỹ Quới", "district": "thị xã Ngã Năm", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "phường Mỹ Quới", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Tú 1", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Hòa Tú 2", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Hòa Tú", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Quới", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Gia Hòa 2", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Gia Hòa", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Phú", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Gia Hòa 1", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Nhu Gia", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tham Đôn", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Ngọc Đông", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Ngọc Tố", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Ngọc Tố", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hậu Thạnh", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Phú Hữu", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Trường Khánh", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Trường Khánh", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đại Ngãi", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Long Đức", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Đại Ngãi", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hưng", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Châu Khánh", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Tân Thạnh", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Tân Thạnh", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Long Phú", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Long Phú", "district": "huyện Long Phú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Long Phú", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Mỹ", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Song Phụng", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Nhơn Mỹ", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Nhơn Mỹ", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn An Lạc Thôn", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Xuân Hòa", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Trinh Phú", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã An Lạc Thôn", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Kế Sách", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Kế An", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Kế Thành", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Kế Sách", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Lạc Tây", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Thới An Hội", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Thới An Hội", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ba Trinh", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Đại Hải", "district": "huyện Kế Sách", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Đại Hải", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Châu Thành", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Phú Tâm", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Phú Tâm", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Hiệp", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã An Ninh", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã An Ninh", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thuận Hòa", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Phú Tân", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Thuận Hòa", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thiện Mỹ", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Hồ Đắc Kiện", "district": "huyện Châu Thành", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Hồ Đắc Kiện", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Huỳnh Hữu Nghĩa", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Mỹ Thuận", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Mỹ Tú", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Mỹ Tú", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hưng Phú", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Long Hưng", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Long Hưng", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thuận Hưng", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Phú Mỹ", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Mỹ Hương", "district": "huyện Mỹ Tú", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Mỹ Hương", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Tân", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Long Bình", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Tân Long", "district": "huyện Mỹ Xuyên", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Tân Long", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Hưng Lợi", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" },
+        { "commune": "thị trấn Phú Lộc", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Thạnh Trị", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Phú Lộc", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Châu Hưng", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Vĩnh Thành", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Vĩnh Lợi", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Vĩnh Lợi", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tuân Tức", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Lâm Kiết", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Lâm Tân", "district": "huyện Thạnh Trị", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Lâm Tân", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Thới Thuận", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Thạnh Thới An", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Thạnh Thới An", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Viên An", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Tài Văn", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Tài Văn", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Viên Bình", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Liêu Tú", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Liêu Tú", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Lịch Hội Thượng", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Lịch Hội Thượng", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Lịch Hội Thượng", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Trần Đề", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Đại Ân 2", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Trung Bình", "district": "huyện Trần Đề", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Trần Đề", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cù Lao Dung", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã An Thạnh 1", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã An Thạnh Tây", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã An Thạnh Đông", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã An Thạnh", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Thạnh 2", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã Đại Ân 1", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã An Thạnh 3", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" },
+        { "commune": "xã An Thạnh Nam", "district": "huyện Cù Lao Dung", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Cù Lao Dung", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lai Hòa", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Lai Hòa", "province": "tỉnh Sóc Trăng" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Hải", "district": "thị xã Vĩnh Châu", "province": "tỉnh Sóc Trăng" }
+      ],
+      "to": { "commune": "xã Vĩnh Hải", "province": "tỉnh Sóc Trăng" }
+    }
+  ]
+}

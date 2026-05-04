@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "LaiChau_COLONIAL_01",
+      "year": 1909,
+      "date": "1909-06-28",
+      "title": "Thành lập tỉnh Lai Châu (thời Pháp thuộc)",
+      "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Lai Châu. Tỉnh lỵ đặt tại thị xã Lai Châu cũ (nay là thị xã Mường Lay thuộc tỉnh Điện Biên). Đây là mốc pháp lý đầu tiên xác lập đơn vị hành chính cấp tỉnh của vùng đất này.",
+      "location": {
+        "commune": null,
+        "district": "Mường Lay",
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "LaiChau_REV_01",
+      "year": 1945,
+      "date": "1945-10-15",
+      "title": "Giải phóng Than Uyên lần thứ nhất",
+      "description": "Đội du kích Than Uyên phối hợp với nhân dân địa phương nổi dậy đánh đổ chính quyền tay sai, thành lập chính quyền cách mạng. Than Uyên là châu đầu tiên của tỉnh Lai Châu được giải phóng trong cao trào cách mạng.",
+      "location": {
+        "commune": null,
+        "district": "Than Uyên",
+        "province": "Lai Châu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "LaiChau_REV_02",
+      "year": 1949,
+      "date": "1949-11-20",
+      "title": "Thành lập Ban Cán sự Đảng tỉnh Lai Châu",
+      "description": "Liên khu ủy 10 ra Quyết định thành lập Ban Cán sự Đảng tỉnh Lai Châu (tiền thân của Đảng bộ tỉnh Lai Châu ngày nay) để trực tiếp lãnh đạo phong trào kháng chiến chống Pháp tại địa phương.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lai Châu"
+      },
+      "related_figures": [
+        "Nguyễn Bá Lại"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "LaiChau_FRENCH_WAR_01",
+      "year": 1952,
+      "date": "1952-10-15",
+      "title": "Giải phóng hoàn toàn khu Than Uyên",
+      "description": "Trong Chiến dịch Tây Bắc, Trung đoàn 165 (Đại đoàn 312) đã tấn công và tiêu diệt các đồn bốt địch tại Than Uyên. Việc giải phóng Than Uyên đã đập tan phòng tuyến sông Đà của Pháp, mở thông cửa ngõ vào Lai Châu.",
+      "location": {
+        "commune": null,
+        "district": "Than Uyên",
+        "province": "Lai Châu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Tây Bắc",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "LaiChau_FRENCH_WAR_02",
+      "year": 1953,
+      "date": "1953-12-12",
+      "title": "Giải phóng thị trấn Lai Châu",
+      "description": "Trước áp lực của Đại đoàn 316 trong chiến dịch tiến công lên Tây Bắc, quân Pháp buộc phải rút chạy khỏi thị trấn Lai Châu (cũ) để co cụm về Điện Biên Phủ. Bộ đội ta tiến vào tiếp quản, tỉnh Lai Châu cơ bản được giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Mường Lay",
+        "province": "Điện Biên"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "LaiChau_ADMIN_01",
+      "year": 1955,
+      "date": "1955-04-29",
+      "title": "Thành lập Khu tự trị Thái - Mèo",
+      "description": "Chủ tịch Hồ Chí Minh ký Sắc lệnh thành lập Khu tự trị Thái - Mèo (bao gồm Lai Châu, Sơn La và Nghĩa Lộ). Lai Châu trở thành một châu thuộc Khu tự trị, thực hiện chính sách đại đoàn kết dân tộc và quyền tự quyết của các dân tộc thiểu số.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lai Châu"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Hành chính",
+        "Khu tự trị"
+      ]
+    },
+    {
+      "id": "LaiChau_SECURITY_01",
+      "year": 1955,
+      "date": null,
+      "title": "Chiến dịch tiễu phỉ Đồng Văn - Phong Thổ",
+      "description": "Lợi dụng địa hình hiểm trở, các toán thổ phỉ và tàn quân Pháp (được sự hỗ trợ của CIA) đã nổi lên chống phá tại vùng cao Phong Thổ. Lực lượng vũ trang Lai Châu đã kiên trì vận động quần chúng và tổ chức truy quét, dẹp yên nạn thổ phỉ.",
+      "location": {
+        "commune": "Đồng Văn",
+        "district": "Bình Liêu",
+        "province": "Lai Châu"
+      },
+      "related_figures": [],
+      "tags": [
+        "An ninh",
+        "Tiễu phỉ"
+      ]
+    },
+    {
+      "id": "LaiChau_ADMIN_02",
+      "year": 1962,
+      "date": "1962-10-27",
+      "title": "Tái lập tỉnh Lai Châu (Khu Tây Bắc)",
+      "description": "Quốc hội khóa II ra Nghị quyết đổi tên Khu tự trị Thái - Mèo thành Khu tự trị Tây Bắc và tái lập 3 tỉnh Sơn La, Nghĩa Lộ, Lai Châu trực thuộc khu. Tỉnh Lai Châu lúc này bao gồm cả phần đất Điện Biên ngày nay.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lai Châu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "LaiChau_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Chiến đấu bảo vệ biên giới tại Phong Thổ",
+      "description": "Quân đội Trung Quốc tấn công đồng loạt vào các xã biên giới thuộc huyện Phong Thổ (như Ma Lù Thàng, Sì Lở Lầu). Bộ đội địa phương, công an vũ trang và dân quân Lai Châu đã chiến đấu dũng cảm, làm chậm bước tiến và tiêu hao sinh lực địch.",
+      "location": {
+        "commune": "Ma Ly Pho",
+        "district": "Phong Thổ",
+        "province": "Lai Châu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới 1979",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "LaiChau_ADMIN_03",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Chia tách tỉnh Lai Châu",
+      "description": "Quốc hội khóa XI thông qua Nghị quyết chia tách tỉnh Lai Châu (cũ) thành hai tỉnh: Lai Châu (mới) và Điện Biên. Tỉnh lỵ Lai Châu mới được đặt tại thị trấn Tam Đường (sau nâng cấp thành thành phố Lai Châu).",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Lai Châu",
+        "province": "Lai Châu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Thành lập tỉnh"
+      ]
+    }
+  ]
+}

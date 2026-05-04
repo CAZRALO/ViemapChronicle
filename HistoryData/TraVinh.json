@@ -1,0 +1,199 @@
+{
+  "events": [
+    {
+      "id": "TraVinh_NGUYEN_01",
+      "year": 1832,
+      "date": "1832-10-01",
+      "title": "Thành lập tỉnh Vĩnh Bình (Tiền thân Trà Vinh)",
+      "description": "Trong cuộc cải cách hành chính của vua Minh Mạng, Nam Kỳ Lục tỉnh được chia thành các tỉnh mới. Tỉnh Vĩnh Bình được thành lập (bao gồm địa phận Trà Vinh ngày nay), là một tỉnh quan trọng nằm giữa hai con sông lớn Tiền và Hậu.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Trà Vinh",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "TraVinh_REV_01",
+      "year": 1930,
+      "date": "1930-03-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (An Trường)",
+      "description": "Tại làng An Trường, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Trà Vinh được thành lập do đồng chí Nguyễn Đáng (tức Bảy Đáng) làm Bí thư. Sự kiện này đánh dấu bước ngoặt quan trọng, đưa phong trào đấu tranh của nhân dân Trà Vinh đi vào quỹ đạo của cách mạng vô sản.",
+      "location": {
+        "commune": "An Trường",
+        "district": "Càng Long",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [
+        "Nguyễn Đáng"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "TraVinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Trà Vinh",
+      "description": "Hơn 20.000 quần chúng từ các huyện Càng Long, Châu Thành, Cầu Ngang đổ về tỉnh lỵ. Trước khí thế áp đảo, Tỉnh trưởng Trà Vinh phải đầu hàng và giao nộp ấn tín. Ủy ban Hành chính lâm thời tỉnh Trà Vinh ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Trà Vinh",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [
+        "Dương Quang Đông"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "TraVinh_FRENCH_WAR_01",
+      "year": 1948,
+      "date": "1948-03-14",
+      "title": "Chiến thắng La Bang",
+      "description": "Tiểu đoàn 307 và lực lượng vũ trang địa phương tổ chức phục kích đoàn xe quân sự Pháp tại La Bang. Ta tiêu diệt nhiều xe cơ giới và lính địch. Đây là trận đánh giao thông chiến điển hình, vang danh 'Tiểu đoàn 307' trên chiến trường miền Tây Nam Bộ.",
+      "location": {
+        "commune": "Đôn Châu",
+        "district": "Duyên Hải",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "TraVinh_FRENCH_WAR_02",
+      "year": 1949,
+      "date": "1949-12-07",
+      "title": "Chiến dịch Cầu Kè",
+      "description": "Bộ Tư lệnh Khu 8 mở Chiến dịch Cầu Kè, đây là chiến dịch tiến công quy mô đầu tiên trên chiến trường Nam Bộ có sự phối hợp giữa bộ đội chủ lực và địa phương, tiêu diệt nhiều đồn bốt, mở rộng vùng giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Cầu Kè",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Chiến dịch"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_01",
+      "year": 1965,
+      "date": null,
+      "title": "Huyền thoại 'Người mẹ cầm súng' Nguyễn Thị Út",
+      "description": "Chị Nguyễn Thị Út (Út Tịch), người con của vùng đất Tam Ngãi, nổi tiếng với câu nói 'Còn cái lai quần cũng đánh'. Chị đã tham gia hàng chục trận đánh lớn nhỏ, là biểu tượng của phụ nữ miền Nam anh hùng, bất khuất trong kháng chiến chống Mỹ.",
+      "location": {
+        "commune": "Tam Ngãi",
+        "district": "Cầu Kè",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [
+        "Nguyễn Thị Út"
+      ],
+      "tags": [
+        "Anh hùng",
+        "Phụ nữ"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tết Mậu Thân tại Trà Vinh",
+      "description": "Quân dân Trà Vinh đồng loạt tấn công vào Dinh Tỉnh trưởng, Ty Cảnh sát và các cơ quan đầu não địch tại thị xã. Ta làm chủ khu vực trung tâm thị xã trong nhiều giờ, gây hoang mang tột độ cho bộ máy chính quyền Sài Gòn tại địa phương.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Trà Vinh",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_03",
+      "year": 1970,
+      "date": "1970-03-10",
+      "title": "Xây dựng Đền thờ Bác Hồ (Long Đức)",
+      "description": "Ngay giữa vòng vây ác liệt của địch, quân dân xã Long Đức đã bí mật xây dựng Đền thờ Bác Hồ để tỏ lòng kính yêu vô hạn khi nghe tin Bác mất. Ngôi đền được bảo vệ kiên cường suốt 5 năm bom đạn (1970-1975) cho đến ngày toàn thắng.",
+      "location": {
+        "commune": "Long Đức",
+        "district": "Thành phố Trà Vinh",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Di tích lịch sử",
+        "Lãnh tụ"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Trà Vinh",
+      "description": "Lực lượng vũ trang tỉnh phối hợp với quần chúng nhân dân bao vây, tấn công Dinh Tỉnh trưởng. Đúng 11 giờ 30 phút ngày 30/4/1975, lá cờ Mặt trận tung bay trên nóc Dinh Tỉnh trưởng, Trà Vinh hoàn toàn giải phóng, không đổ nhiều máu do địch đầu hàng nhanh chóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Trà Vinh",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "TraVinh_ADMIN_01",
+      "year": 1992,
+      "date": "1992-05-05",
+      "title": "Tái lập tỉnh Trà Vinh",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Cửu Long (hợp nhất từ năm 1976) trở lại thành hai tỉnh Vĩnh Long và Trà Vinh. Tỉnh Trà Vinh chính thức đi vào hoạt động, bắt đầu công cuộc tái thiết và phát triển kinh tế vùng ven biển.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "TraVinh_ECONOMY_01",
+      "year": 2015,
+      "date": "2015-05-16",
+      "title": "Khánh thành Cầu Cổ Chiên",
+      "description": "Cầu Cổ Chiên nối liền Bến Tre và Trà Vinh được khánh thành. Công trình này có ý nghĩa chiến lược, phá vỡ thế 'túi cụt' về giao thông của Trà Vinh, rút ngắn khoảng cách đi TP.HCM, tạo đà cho phát triển kinh tế biển và năng lượng sạch.",
+      "location": {
+        "commune": null,
+        "district": "Càng Long",
+        "province": "Trà Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giao thông",
+        "Kinh tế"
+      ]
+    }
+  ]
+}

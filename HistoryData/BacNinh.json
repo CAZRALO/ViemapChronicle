@@ -1,0 +1,208 @@
+{
+  "events": [
+    {
+      "id": "BacNinh_LY_01",
+      "year": 1009,
+      "date": null,
+      "title": "Lý Công Uẩn lên ngôi",
+      "description": "Lý Công Uẩn, người hương Cổ Pháp (nay thuộc Từ Sơn, Bắc Ninh), lên ngôi Hoàng đế, lấy hiệu là Lý Thái Tổ, sáng lập ra triều Lý, mở ra thời kỳ hưng thịnh lâu dài cho đất nước.",
+      "location": {
+        "commune": "Đình Bảng",
+        "district": "Từ Sơn",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [
+        "Lý Thái Tổ",
+        "Sư Vạn Hạnh"
+      ],
+      "tags": [
+        "Nhà Lý",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "BacNinh_LY_02",
+      "year": 1057,
+      "date": null,
+      "title": "Xây dựng chùa Phật Tích",
+      "description": "Vua Lý Thánh Tông cho xây dựng chùa Phật Tích (Vạn Phúc tự) và tháp báu trên núi Lạn Kha. Đây là trung tâm văn hóa Phật giáo lớn của Đại Việt thời bấy giờ.",
+      "location": {
+        "commune": "Phật Tích",
+        "district": "Tiên Du",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [
+        "Lý Thánh Tông",
+        "Ỷ Lan"
+      ],
+      "tags": [
+        "Phật giáo",
+        "Văn hóa",
+        "Kiến trúc"
+      ]
+    },
+    {
+      "id": "BacNinh_LY_03",
+      "year": 1077,
+      "date": null,
+      "title": "Trận chiến trên phòng tuyến sông Như Nguyệt",
+      "description": "Thái úy Lý Thường Kiệt chỉ huy quân dân Đại Việt đánh bại quân xâm lược Tống trên bờ sông Như Nguyệt (sông Cầu). Tại đây, bài thơ 'Nam quốc sơn hà' đã vang lên như bản tuyên ngôn độc lập đầu tiên.",
+      "location": {
+        "commune": "Tam Giang",
+        "district": "Yên Phong",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [
+        "Lý Thường Kiệt",
+        "Quách Quỳ"
+      ],
+      "tags": [
+        "Kháng chiến chống Tống",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BacNinh_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Thành lập tỉnh Bắc Ninh",
+      "description": "Trong cuộc cải cách hành chính của vua Minh Mạng, trấn Kinh Bắc được đổi tên thành tỉnh Bắc Ninh. Đây là một trong 13 tỉnh được thành lập đầu tiên ở Bắc Kỳ.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "BacNinh_COLONIAL_01",
+      "year": 1884,
+      "date": "1884-03-12",
+      "title": "Pháp đánh chiếm thành Bắc Ninh",
+      "description": "Quân Pháp do tướng Millot chỉ huy mở cuộc tấn công lớn vào thành Bắc Ninh. Quân nhà Nguyễn và quân Cờ Đen thất thủ, thành Bắc Ninh rơi vào tay thực dân Pháp.",
+      "location": {
+        "commune": "Vệ An",
+        "district": "Bắc Ninh",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [
+        "Millot"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BacNinh_REV_01",
+      "year": 1929,
+      "date": "1929-07-01",
+      "title": "Thành lập Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh",
+      "description": "Tại núi Hồng Vân (núi Lim), Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh - Bắc Giang được thành lập, đánh dấu bước phát triển quan trọng của phong trào cách mạng vùng Kinh Bắc.",
+      "location": {
+        "commune": "Vân Tương",
+        "district": "Tiên Du",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [
+        "Ngô Gia Tự",
+        "Nguyễn Văn Cừ"
+      ],
+      "tags": [
+        "Đảng Cộng sản",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BacNinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-20",
+      "title": "Giành chính quyền tại tỉnh lỵ Bắc Ninh",
+      "description": "Ủy ban Khởi nghĩa ra lệnh tiến công, quần chúng nhân dân từ các huyện đổ về thị xã Bắc Ninh, tước khí giới của lính Bảo an, chiếm Tòa Công sứ, giành chính quyền về tay nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Bắc Ninh",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BacNinh_FR_WAR_01",
+      "year": 1949,
+      "date": "1949-04-01",
+      "title": "Trận chống càn tại Làng Đình Bảng",
+      "description": "Du kích và nhân dân Đình Bảng đã kiên cường chiến đấu, sử dụng hệ thống hầm ngầm bí mật để chống lại các cuộc càn quét quy mô lớn của quân Pháp, bảo toàn lực lượng và gây thiệt hại cho địch.",
+      "location": {
+        "commune": "Đình Bảng",
+        "district": "Từ Sơn",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Du kích"
+      ]
+    },
+    {
+      "id": "BacNinh_FR_WAR_02",
+      "year": 1954,
+      "date": "1954-08-08",
+      "title": "Giải phóng tỉnh Bắc Ninh",
+      "description": "Sau thất bại tại Điện Biên Phủ và việc ký kết Hiệp định Genève, quân Pháp rút khỏi thị xã Bắc Ninh. Bộ đội chủ lực và nhân dân tiến vào tiếp quản, tỉnh Bắc Ninh hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Bắc Ninh",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "BacNinh_US_WAR_01",
+      "year": 1967,
+      "date": null,
+      "title": "Chiến đấu bảo vệ cầu Đáp Cầu",
+      "description": "Quân và dân Bắc Ninh phối hợp với bộ đội phòng không chiến đấu quyết liệt bảo vệ cầu Đáp Cầu (huyết mạch giao thông quan trọng) trước các đợt ném bom phá hoại của không quân Mỹ.",
+      "location": {
+        "commune": "Đáp Cầu",
+        "district": "Bắc Ninh",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "BacNinh_US_WAR_02",
+      "year": 1972,
+      "date": "1972-12-29",
+      "title": "Trận địa dân quân gái Hoa Lộc bắn rơi máy bay Mỹ",
+      "description": "Trong chiến dịch Điện Biên Phủ trên không, dân quân du kích các huyện Tiên Sơn, Yên Phong đã phối hợp bắn rơi máy bay Mỹ, góp phần vào chiến thắng chung của quân dân miền Bắc.",
+      "location": {
+        "commune": null,
+        "district": "Tiên Du",
+        "province": "Bắc Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Dân quân tự vệ"
+      ]
+    }
+  ]
+}

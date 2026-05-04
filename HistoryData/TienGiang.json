@@ -1,0 +1,200 @@
+{
+  "events": [
+    {
+      "id": "TienGiang_TAYSON_01",
+      "year": 1785,
+      "date": "1785-01-20",
+      "title": "Chiến thắng Rạch Gầm - Xoài Mút",
+      "description": "Tại đoạn sông Tiền từ Rạch Gầm đến Xoài Mút, Nguyễn Huệ đã bố trí trận địa mai phục hiểm hóc, tiêu diệt gần 5 vạn quân Xiêm và quân Nguyễn Ánh chỉ trong một ngày. Đây là một trong những trận thủy chiến oanh liệt nhất lịch sử chống ngoại xâm của dân tộc ta.",
+      "location": {
+        "commune": "Kim Sơn",
+        "district": "Châu Thành",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [
+        "Nguyễn Huệ"
+      ],
+      "tags": [
+        "Nhà Tây Sơn",
+        "Thủy chiến"
+      ]
+    },
+    {
+      "id": "TienGiang_COLONIAL_01",
+      "year": 1861,
+      "date": "1861-02-00",
+      "title": "Khởi nghĩa Trương Định",
+      "description": "Sau khi thành Gia Định thất thủ, Trương Định đã rút quân về Gò Công lập căn cứ (Đám lá tối trời), chiêu mộ nghĩa binh chống Pháp. Ông được nhân dân suy tôn là 'Bình Tây Đại Nguyên Soái', trở thành ngọn cờ đầu của phong trào kháng Pháp tại Nam Kỳ.",
+      "location": {
+        "commune": "Gia Thuận",
+        "district": "Gò Công Đông",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [
+        "Trương Định"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Cần Vương"
+      ]
+    },
+    {
+      "id": "TienGiang_REV_01",
+      "year": 1940,
+      "date": "1940-08-12",
+      "title": "Thành lập Tỉnh ủy lâm thời Mỹ Tho",
+      "description": "Hội nghị thành lập Tỉnh ủy lâm thời Mỹ Tho được tổ chức tại Rạch Gầm (xã Kim Sơn), do đồng chí Phan Văn Khỏe làm Bí thư. Hội nghị đã đề ra chủ trương gấp rút chuẩn bị vũ trang khởi nghĩa, tiền đề cho cuộc Khởi nghĩa Nam Kỳ.",
+      "location": {
+        "commune": "Kim Sơn",
+        "district": "Châu Thành",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [
+        "Phan Văn Khỏe"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "TienGiang_REV_02",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Khởi nghĩa Nam Kỳ (Lần đầu xuất hiện Quốc kỳ)",
+      "description": "Tại Đình Long Hưng, Ủy ban Khởi nghĩa tỉnh Mỹ Tho đã ra mắt nhân dân. Lần đầu tiên trong lịch sử, lá Cờ đỏ sao vàng 5 cánh đã được treo trên ngọn cây bàng tại sân đình. Chính quyền cách mạng đã tổ chức Tòa án nhân dân xét xử bọn tay sai ác ôn ngay tại đây.",
+      "location": {
+        "commune": "Long Hưng",
+        "district": "Châu Thành",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [
+        "Phan Văn Khỏe",
+        "Nguyễn Thị Thập"
+      ],
+      "tags": [
+        "Khởi nghĩa Nam Kỳ",
+        "Quốc kỳ"
+      ]
+    },
+    {
+      "id": "TienGiang_REV_03",
+      "year": 1945,
+      "date": "1945-08-24",
+      "title": "Giành chính quyền tại Mỹ Tho",
+      "description": "Dưới sự lãnh đạo của Tỉnh ủy, hàng vạn quần chúng từ các huyện Cai Lậy, Châu Thành rầm rộ kéo về thị xã Mỹ Tho, bao vây Dinh Tỉnh trưởng và Trại lính. Tỉnh trưởng Nguyễn Văn Tâm bỏ trốn. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Mỹ Tho được thành lập.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Mỹ Tho",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_01",
+      "year": 1963,
+      "date": "1963-01-02",
+      "title": "Chiến thắng Ấp Bắc",
+      "description": "Tiểu đoàn 261 và 514 của quân giải phóng đã đánh bại cuộc càn quét quy mô lớn của 2.000 quân Sài Gòn có cố vấn Mỹ chỉ huy với đầy đủ máy bay, xe thiết giáp M113. Chiến thắng này đã đánh bại chiến thuật 'Trực thăng vận' và 'Thiết xa vận', báo hiệu sự sụp đổ của chiến lược 'Chiến tranh đặc biệt'.",
+      "location": {
+        "commune": "Tân Phú",
+        "district": "Cai Lậy",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến thắng lớn"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_02",
+      "year": 1967,
+      "date": "1967-05-03",
+      "title": "Thành lập Vành đai diệt Mỹ Rạch Gầm",
+      "description": "Tại xã Bình Đức, Mỹ xây dựng căn cứ Đồng Tâm cho Sư đoàn 9 Bộ binh Mỹ trú đóng. Quân dân Tiền Giang đã thiết lập 'Vành đai diệt Mỹ Rạch Gầm - Xoài Mút' bao quanh căn cứ, thực hiện phương châm 'bám thắt lưng địch mà đánh', bắn hạ nhiều máy bay và tàu chiến ngay tại sào huyệt địch.",
+      "location": {
+        "commune": "Bình Đức",
+        "district": "Châu Thành",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến tranh du kích"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân tại Mỹ Tho",
+      "description": "Lực lượng vũ trang tỉnh đồng loạt tấn công vào các mục tiêu đầu não tại thị xã Mỹ Tho như: Dinh Tỉnh trưởng, Bộ Tư lệnh Sư đoàn 7, Trung tâm Hành quân... Quân giải phóng đã làm chủ một phần thị xã trong nhiều ngày, gây thiệt hại nặng nề cho Mỹ - Ngụy.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Mỹ Tho",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng thành phố Mỹ Tho",
+      "description": "Phối hợp với chiến trường chung, quân dân Tiền Giang đã nổi dậy tấn công và kêu gọi địch đầu hàng. Đến 10 giờ 30 phút, bộ đội ta chiếm Dinh Tỉnh trưởng và cắm cờ giải phóng trên nóc Bộ Tư lệnh Sư đoàn 7 ngụy. Tỉnh Mỹ Tho (Tiền Giang) hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Mỹ Tho",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Hồ Chí Minh",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "TienGiang_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Thành lập tỉnh Tiền Giang",
+      "description": "Thực hiện Nghị quyết của Chính phủ Cách mạng Lâm thời, tỉnh Mỹ Tho và tỉnh Gò Công được hợp nhất thành tỉnh Tiền Giang. Tỉnh lỵ đặt tại thành phố Mỹ Tho, trở thành trung tâm kinh tế, văn hóa của vùng Bắc sông Tiền.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "TienGiang_ECONOMY_01",
+      "year": 2009,
+      "date": "2009-01-19",
+      "title": "Khánh thành Cầu Rạch Miễu",
+      "description": "Cầu Rạch Miễu nối liền hai tỉnh Tiền Giang và Bến Tre chính thức thông xe. Đây là cây cầu dây văng đầu tiên do các kỹ sư Việt Nam hoàn toàn thiết kế và thi công, xóa bỏ thế 'ốc đảo' của Bến Tre và thúc đẩy kinh tế Tiền Giang.",
+      "location": {
+        "commune": "Thới Sơn",
+        "district": "Thành phố Mỹ Tho",
+        "province": "Tiền Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Giao thông"
+      ]
+    }
+  ]
+}

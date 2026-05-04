@@ -1,0 +1,209 @@
+{
+  "events": [
+    {
+      "id": "DongNai_FOUNDING_01",
+      "year": 1698,
+      "date": null,
+      "title": "Nguyễn Hữu Cảnh kinh lược Đồng Nai",
+      "description": "Thống suất Nguyễn Hữu Cảnh vâng lệnh chúa Nguyễn Phúc Chu vào kinh lược xứ Đồng Nai, thiết lập phủ Gia Định gồm huyện Phước Long (dinh Trấn Biên - Đồng Nai ngày nay) và huyện Tân Bình (dinh Phiên Trấn - Sài Gòn). Đây là cột mốc khai sinh vùng đất Nam Bộ vào bản đồ hành chính Việt Nam.",
+      "location": {
+        "commune": "Hiệp Hòa",
+        "district": "Thành phố Biên Hòa",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Nguyễn Hữu Cảnh",
+        "Trần Thượng Xuyên"
+      ],
+      "tags": [
+        "Khai hoang",
+        "Chúa Nguyễn"
+      ]
+    },
+    {
+      "id": "DongNai_REV_01",
+      "year": 1935,
+      "date": "1935-02-00",
+      "title": "Thành lập Chi bộ Đảng Bình Phước - Tân Triều",
+      "description": "Tại làng Bình Phước (nay thuộc xã Tân Bình), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Biên Hòa được thành lập. Đây là hạt nhân lãnh đạo phong trào cách mạng tại Biên Hòa trong giai đoạn sơ khai.",
+      "location": {
+        "commune": "Tân Bình",
+        "district": "Vĩnh Cửu",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Hoàng Minh Châu"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "DongNai_REV_02",
+      "year": 1945,
+      "date": "1945-08-27",
+      "title": "Giành chính quyền tại Biên Hòa",
+      "description": "Khoảng 10.000 quần chúng từ các quận Châu Thành, Long Thành và công nhân các nhà máy đã kéo về Quảng trường Sông Phố dự mít tinh. Tỉnh trưởng Nguyễn Bá Thước buộc phải giao ấn tín. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Biên Hòa ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Biên Hòa",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Hoàng Minh Châu"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "DongNai_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-01-01",
+      "title": "Thành lập Chiến khu Đ",
+      "description": "Chiến khu Đ được thành lập, bao gồm vùng rừng núi hiểm trở phía Bắc sông Đồng Nai (thuộc Vĩnh Cửu, Đồng Nai và Tân Uyên, Bình Dương). Đây là căn cứ địa kháng chiến huyền thoại, 'thủ đô kháng chiến' của miền Đông Nam Bộ.",
+      "location": {
+        "commune": "Mã Đà",
+        "district": "Vĩnh Cửu",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Huỳnh Văn Nghệ"
+      ],
+      "tags": [
+        "Căn cứ địa",
+        "Chiến khu Đ"
+      ]
+    },
+    {
+      "id": "DongNai_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-03-01",
+      "title": "Trận phục kích La Ngà",
+      "description": "Chi đội 10 và Liên quân 17 tổ chức trận địa phục kích đoàn xe quân sự Pháp trên Quốc lộ 20 (đoạn cầu La Ngà). Ta tiêu diệt 59 xe, diệt 150 tên địch (có cả Đại tá De Sérigné và nhiều sĩ quan cao cấp). Chiến thắng này vang dội khắp cả nước.",
+      "location": {
+        "commune": "Phú Ngọc",
+        "district": "Định Quán",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Huỳnh Văn Nghệ"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Giao thông chiến"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_01",
+      "year": 1959,
+      "date": "1959-07-07",
+      "title": "Trận tập kích Nhà Xanh (Trận đánh Mỹ đầu tiên)",
+      "description": "Đặc công Biên Hòa đã táo bạo tập kích vào Nhà Xanh (trụ sở phái đoàn cố vấn quân sự Mỹ - MAAG) tại Biên Hòa, tiêu diệt 2 cố vấn Mỹ. Đây được xem là trận đánh tiêu diệt lính Mỹ đầu tiên trên chiến trường miền Nam, báo hiệu sự thất bại của chính sách 'Mỹ hóa' chiến tranh.",
+      "location": {
+        "commune": "Thống Nhất",
+        "district": "Thành phố Biên Hòa",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Năm Hoa"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Trận đầu diệt Mỹ"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_02",
+      "year": 1964,
+      "date": "1964-10-31",
+      "title": "Trận tập kích Sân bay Biên Hòa",
+      "description": "Đoàn pháo binh Miền (U80) đã bí mật pháo kích dữ dội vào Sân bay Biên Hòa - căn cứ không quân chiến lược của Mỹ. Trận đánh phá hủy và làm hỏng 59 máy bay, diệt và làm bị thương gần 300 tên địch, gây chấn động Lầu Năm Góc.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Biên Hòa",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Lương Văn Nho"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Đặc công"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân (Mặt trận Biên Hòa - Long Bình)",
+      "description": "Quân giải phóng đồng loạt tấn công các mục tiêu trọng yếu: Sân bay Biên Hòa, Tổng kho Long Bình, Bộ Tư lệnh Quân đoàn III... Tại Tổng kho Long Bình, đặc công ta đã phá hủy kho bom đạn lớn nhất của Mỹ ở miền Nam, gây cháy nổ dữ dội suốt nhiều ngày.",
+      "location": {
+        "commune": "Long Bình",
+        "district": "Thành phố Biên Hòa",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Tổng kho Long Bình"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-21",
+      "title": "Chiến thắng Xuân Lộc (Đập tan 'Cánh cửa thép')",
+      "description": "Sau 12 ngày đêm chiến đấu ác liệt (9/4 - 21/4), Quân đoàn 4 chủ lực đã đập tan tuyến phòng thủ kiên cố nhất của địch tại Xuân Lộc - Long Khánh ('Cánh cửa thép' bảo vệ Sài Gòn từ phía Đông). Chiến thắng này làm rung chuyển chế độ Sài Gòn, mở toang đường cho đại quân tiến vào Dinh Độc Lập.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Long Khánh",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [
+        "Hoàng Cầm",
+        "Lê Minh Đảo"
+      ],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Chiến thắng lịch sử"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng Biên Hòa",
+      "description": "Sáng 30/4, Quân đoàn 2 và các lực lượng địa phương tiến công giải phóng hoàn toàn thành phố Biên Hòa, chiếm Sân bay Biên Hòa và Bộ Tư lệnh Quân đoàn III ngụy, đập tan tuyến phòng thủ cuối cùng ở cửa ngõ Đông Bắc Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Biên Hòa",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Chiến dịch Hồ Chí Minh"
+      ]
+    },
+    {
+      "id": "DongNai_CULTURE_01",
+      "year": 2001,
+      "date": "2001-11-10",
+      "title": "Vườn quốc gia Cát Tiên được UNESCO công nhận",
+      "description": "UNESCO công nhận Vườn quốc gia Cát Tiên là Khu dự trữ sinh quyển thế giới (lần thứ 411). Đây là khu vực bảo tồn thiên nhiên quan trọng bậc nhất Việt Nam với hệ động thực vật phong phú, nơi từng phát hiện quần thể tê giác Java một sừng cuối cùng.",
+      "location": {
+        "commune": "Nam Cát Tiên",
+        "district": "Tân Phú",
+        "province": "Đồng Nai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Môi trường",
+        "Di sản UNESCO"
+      ]
+    }
+  ]
+}

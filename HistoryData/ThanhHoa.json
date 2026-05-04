@@ -1,0 +1,194 @@
+{
+  "events": [
+    {
+      "id": "ThanhHoa_EARLY_01",
+      "year": 248,
+      "date": null,
+      "title": "Khởi nghĩa Bà Triệu",
+      "description": "Tại vùng núi Nưa (Triệu Sơn) và Phú Điền (Hậu Lộc), Bà Triệu (Triệu Thị Trinh) cùng anh trai là Triệu Quốc Đạt đã phất cờ khởi nghĩa chống lại ách đô hộ của nhà Đông Ngô, làm chấn động giao châu với câu nói nổi tiếng về chí khí nam nhi.",
+      "location": {
+        "commune": "Triệu Lộc",
+        "district": "Hậu Lộc",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Triệu Thị Trinh",
+        "Triệu Quốc Đạt"
+      ],
+      "tags": [
+        "Bắc thuộc",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "ThanhHoa_HO_01",
+      "year": 1397,
+      "date": null,
+      "title": "Dời đô về Tây Đô (Thành nhà Hồ)",
+      "description": "Hồ Quý Ly ép vua Trần Thuận Tông dời kinh đô từ Thăng Long về Thanh Hóa, xây dựng tòa thành đá kiên cố (Thành Tây Đô) tại huyện Vĩnh Lộc. Đây là công trình kiến trúc bằng đá độc đáo duy nhất còn lại ở Đông Nam Á.",
+      "location": {
+        "commune": "Vĩnh Long",
+        "district": "Vĩnh Lộc",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Hồ Quý Ly"
+      ],
+      "tags": [
+        "Nhà Hồ",
+        "Di sản văn hóa"
+      ]
+    },
+    {
+      "id": "ThanhHoa_LAMSON_01",
+      "year": 1416,
+      "date": "1416-02-01",
+      "title": "Hội thề Lũng Nhai",
+      "description": "Tại rừng Lũng Nhai, Lê Lợi cùng 18 người hào kiệt (trong đó có Nguyễn Trãi, Lê Lai) đã tổ chức lễ tế cáo trời đất, kết nghĩa anh em, thề sống chết có nhau để đánh đuổi giặc Minh, cứu nước.",
+      "location": {
+        "commune": "Ngọc Phụng",
+        "district": "Thường Xuân",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Lê Lợi",
+        "Nguyễn Trãi",
+        "Lê Lai"
+      ],
+      "tags": [
+        "Khởi nghĩa Lam Sơn",
+        "Hội thề"
+      ]
+    },
+    {
+      "id": "ThanhHoa_LAMSON_02",
+      "year": 1418,
+      "date": "1418-02-07",
+      "title": "Khởi nghĩa Lam Sơn bùng nổ",
+      "description": "Lê Lợi xưng là Bình Định Vương, chính thức dựng cờ khởi nghĩa tại vùng đất Lam Sơn chống lại quân Minh xâm lược. Cuộc khởi nghĩa kéo dài 10 năm và kết thúc thắng lợi, mở ra triều đại Hậu Lê.",
+      "location": {
+        "commune": "Xuân Lam",
+        "district": "Thọ Xuân",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Lê Lợi"
+      ],
+      "tags": [
+        "Khởi nghĩa Lam Sơn",
+        "Chống ngoại xâm"
+      ]
+    },
+    {
+      "id": "ThanhHoa_COLONIAL_01",
+      "year": 1886,
+      "date": "1886-12-18",
+      "title": "Khởi nghĩa Ba Đình",
+      "description": "Dưới sự lãnh đạo của Đinh Công Tráng và Phạm Bành, nghĩa quân đã biến ba làng Mậu Thịnh, Thượng Thọ, Mỹ Khê thành một cứ điểm phòng thủ kiên cố ngập nước (chiến khu Ba Đình), cầm cự quyết liệt với quân Pháp trong phong trào Cần Vương.",
+      "location": {
+        "commune": "Ba Đình",
+        "district": "Nga Sơn",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Đinh Công Tráng",
+        "Phạm Bành"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "ThanhHoa_REV_01",
+      "year": 1930,
+      "date": "1930-07-22",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại nhà đồng chí Lê Văn Sỹ (làng Hàm Hạ), Hội nghị thành lập Chi bộ Đảng Cộng sản Việt Nam đầu tiên của tỉnh Thanh Hóa được tổ chức gồm 3 đảng viên, do đồng chí Lê Thế Long làm Bí thư.",
+      "location": {
+        "commune": "Đông Tiến",
+        "district": "Đông Sơn",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Lê Thế Long"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "ThanhHoa_REV_02",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "Giành chính quyền tại Thanh Hóa",
+      "description": "Hòa cùng khí thế của Hà Nội, quần chúng nhân dân và lực lượng tự vệ Thanh Hóa đã bao vây Dinh Tổng đốc, buộc Tổng đốc Nguyễn Trác phải đầu hàng. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Thanh Hóa ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Thanh Hóa",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "ThanhHoa_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-02-20",
+      "title": "Bác Hồ về thăm Thanh Hóa lần đầu tiên",
+      "description": "Chủ tịch Hồ Chí Minh về thăm Thanh Hóa và có cuộc nói chuyện lịch sử tại Rừng Thông. Người giao nhiệm vụ: 'Tỉnh Thanh Hóa phải trở nên một tỉnh kiểu mẫu'.",
+      "location": {
+        "commune": "Đông Lĩnh",
+        "district": "Thành phố Thanh Hóa",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lãnh tụ",
+        "Hậu phương lớn"
+      ]
+    },
+    {
+      "id": "ThanhHoa_US_WAR_01",
+      "year": 1965,
+      "date": "1965-04-03",
+      "title": "Chiến thắng Hàm Rồng - Nam Ngạn",
+      "description": "Trong hai ngày 3 và 4/4, không quân Mỹ tập trung đánh phá cầu Hàm Rồng nhằm cắt đứt mạch máu giao thông. Quân dân Thanh Hóa đã chiến đấu kiên cường, bắn rơi 47 máy bay Mỹ, bảo vệ an toàn cây cầu.",
+      "location": {
+        "commune": "Hàm Rồng",
+        "district": "Thành phố Thanh Hóa",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [
+        "Ngô Thị Tuyển"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Hàm Rồng"
+      ]
+    },
+    {
+      "id": "ThanhHoa_US_WAR_02",
+      "year": 1967,
+      "date": "1967-10-14",
+      "title": "Trung đội Lão dân quân Hoằng Trường bắn rơi máy bay",
+      "description": "Trung đội Lão dân quân xã Hoằng Trường (gồm 18 cụ già) đã dùng súng bộ binh bắn rơi máy bay phản lực hiện đại của Mỹ. Đây là đơn vị lão dân quân đầu tiên ở miền Bắc lập được chiến công này, được Bác Hồ gửi thư khen.",
+      "location": {
+        "commune": "Hoằng Trường",
+        "district": "Hoằng Hóa",
+        "province": "Thanh Hóa"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Dân quân"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "events": [
+    {
+      "id": "SonLa_LE_01",
+      "year": 1440,
+      "date": null,
+      "title": "Vua Lê Thái Tông đề thơ tại Quế Lâm Ngự Chế",
+      "description": "Sau khi thân chinh cầm quân dẹp loạn Thượng Nghiễm tại vùng Tây Bắc, vua Lê Thái Tông đã nghỉ chân tại động Thẩm Báo và khắc bài thơ 'Quế Lâm Ngự Chế' lên vách đá, khẳng định chủ quyền lãnh thổ quốc gia Đại Việt.",
+      "location": {
+        "commune": "Chiềng Lề",
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [
+        "Lê Thái Tông"
+      ],
+      "tags": [
+        "Nhà Lê Sơ",
+        "Chủ quyền",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "SonLa_COLONIAL_01",
+      "year": 1895,
+      "date": "1895-10-10",
+      "title": "Thành lập tỉnh Sơn La",
+      "description": "Toàn quyền Đông Dương Rousseau ký Nghị định thành lập tỉnh Sơn La trên cơ sở tách đất từ tỉnh Hưng Hóa. Tỉnh lỵ ban đầu đặt tại Vạn Yên (Phù Yên), sau chuyển về đồi Khau Cả (thành phố Sơn La ngày nay).",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "SonLa_COLONIAL_02",
+      "year": 1908,
+      "date": null,
+      "title": "Xây dựng Nhà tù Sơn La",
+      "description": "Thực dân Pháp xây dựng nhà tù kiên cố trên đồi Khau Cả để giam giữ tù nhân chính trị. Nơi đây được ví như 'địa ngục trần gian' nhưng đã trở thành trường học cách mạng đào tạo nên nhiều chiến sĩ cộng sản kiên trung.",
+      "location": {
+        "commune": "Tô Hiệu",
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pháp thuộc",
+        "Nhà tù Sơn La"
+      ]
+    },
+    {
+      "id": "SonLa_REV_01",
+      "year": 1939,
+      "date": "1939-12-01",
+      "title": "Thành lập Chi bộ Đảng tại Nhà tù Sơn La",
+      "description": "Tại xà lim của Nhà tù Sơn La, Chi bộ Cộng sản được bí mật thành lập do đồng chí Nguyễn Lương Bằng làm Bí thư (sau đó là Tô Hiệu). Chi bộ đã biến nhà tù thành trường học cách mạng, lãnh đạo cuộc đấu tranh của tù nhân.",
+      "location": {
+        "commune": "Tô Hiệu",
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [
+        "Nguyễn Lương Bằng",
+        "Tô Hiệu"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "SonLa_REV_02",
+      "year": 1945,
+      "date": "1945-08-26",
+      "title": "Khởi nghĩa giành chính quyền tại Sơn La",
+      "description": "Lực lượng Thanh niên Cứu quốc Mường La và quần chúng nhân dân mang cờ đỏ sao vàng và vũ khí thô sơ tràn lên đồi Khau Cả, chiếm Dinh Công sứ và Trại Bảo an binh. Chính quyền cách mạng lâm thời tỉnh Sơn La được thành lập.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [
+        "Chu Văn Thịnh"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "SonLa_FRENCH_WAR_01",
+      "year": 1952,
+      "date": "1952-11-22",
+      "title": "Giải phóng Sơn La (Chiến dịch Tây Bắc)",
+      "description": "Trung đoàn 148 và các đơn vị chủ lực tấn công truy kích quân Pháp rút chạy từ Nghĩa Lộ. Quân Pháp tại thị xã Sơn La bỏ chạy về Nà Sản. Bộ đội ta tiến vào tiếp quản thị xã, giải phóng tỉnh Sơn La (trừ tập đoàn cứ điểm Nà Sản).",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Tây Bắc",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "SonLa_FRENCH_WAR_02",
+      "year": 1953,
+      "date": null,
+      "title": "Bảo vệ Ngã ba Cò Nòi",
+      "description": "Ngã ba Cò Nòi là tử huyệt giao thông trên đường 6, nơi quân Pháp ném xuống 300 tấn bom đạn nhằm cắt đứt đường tiếp tế cho Điện Biên Phủ. Lực lượng Thanh niên xung phong đã bám trụ kiên cường 'Sống bám cầu đường, chết kiên cường dũng cảm' để thông xe.",
+      "location": {
+        "commune": "Cò Nòi",
+        "district": "Mai Sơn",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Điện Biên Phủ",
+        "Thanh niên xung phong"
+      ]
+    },
+    {
+      "id": "SonLa_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-08-12",
+      "title": "Pháp rút khỏi Nà Sản",
+      "description": "Tập đoàn cứ điểm Nà Sản (được Pháp xây dựng năm 1952 làm mẫu cho Điện Biên Phủ) bị cô lập hoàn toàn. Quân Pháp buộc phải tổ chức cuộc rút quân bằng đường không (Cuộc hành quân Hirondelle) tháo chạy về Hà Nội, Sơn La hoàn toàn sạch bóng quân thù.",
+      "location": {
+        "commune": "Hát Lót",
+        "district": "Mai Sơn",
+        "province": "Sơn La"
+      },
+      "related_figures": [
+        "Raoul Salan"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Nà Sản"
+      ]
+    },
+    {
+      "id": "SonLa_ADMIN_01",
+      "year": 1955,
+      "date": "1955-05-07",
+      "title": "Lễ ra mắt Khu tự trị Thái - Mèo",
+      "description": "Hơn một vạn đồng bào các dân tộc đã mít tinh tại thủ phủ Thuận Châu chào mừng sự thành lập Khu tự trị Thái - Mèo. Đây là sự kiện chính trị lớn, thực hiện quyền bình đẳng, tự quyết của các dân tộc Tây Bắc.",
+      "location": {
+        "commune": "Thuận Châu",
+        "district": "Thuận Châu",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Khu tự trị"
+      ]
+    },
+    {
+      "id": "SonLa_ECONOMY_01",
+      "year": 1958,
+      "date": "1958-04-08",
+      "title": "Thành lập Nông trường Mộc Châu",
+      "description": "Các chiến sĩ Trung đoàn 280 (Sư đoàn 335) sau khi hoàn thành nhiệm vụ quốc tế tại Lào đã chuyển sang làm kinh tế, thành lập Nông trường Quân đội Mộc Châu, mở đầu cho công cuộc xây dựng cao nguyên Mộc Châu trù phú.",
+      "location": {
+        "commune": null,
+        "district": "Mộc Châu",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kinh tế",
+        "Nông trường"
+      ]
+    },
+    {
+      "id": "SonLa_US_WAR_01",
+      "year": 1965,
+      "date": "1965-06-14",
+      "title": "Trận đầu bắn rơi máy bay Mỹ",
+      "description": "Đại đội Pháo cao xạ 24 và dân quân tự vệ thị xã Sơn La đã chiến đấu dũng cảm, bắn rơi tại chỗ máy bay F-105 của Mỹ khi chúng ném bom đánh phá thị xã, mở đầu thành tích bắn rơi máy bay Mỹ của quân dân Sơn La.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Sơn La",
+        "province": "Sơn La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    }
+  ]
+}

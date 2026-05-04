@@ -1,0 +1,187 @@
+{
+  "events": [
+    {
+      "id": "HaTinh_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Thành lập tỉnh Hà Tĩnh",
+      "description": "Trong cuộc cải cách hành chính quy mô lớn của vua Minh Mạng, đạo Hà Tĩnh được tách ra khỏi trấn Nghệ An để thành lập tỉnh Hà Tĩnh. Đây là cột mốc lịch sử chính thức xác lập địa giới hành chính của tỉnh.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hà Tĩnh",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [
+        "Minh Mạng"
+      ],
+      "tags": [
+        "Hành chính",
+        "Nhà Nguyễn"
+      ]
+    },
+    {
+      "id": "HaTinh_CANVUONG_01",
+      "year": 1885,
+      "date": null,
+      "title": "Bùng nổ Khởi nghĩa Hương Khê",
+      "description": "Phan Đình Phùng và Cao Thắng đã chọn vùng rừng núi hiểm trở Hương Khê, Vụ Quang làm căn cứ địa để phát động cuộc khởi nghĩa Hương Khê. Đây là cuộc khởi nghĩa có quy mô lớn nhất, tổ chức chặt chẽ nhất và kéo dài nhất (10 năm) trong phong trào Cần Vương.",
+      "location": {
+        "commune": null,
+        "district": "Hương Khê",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [
+        "Phan Đình Phùng",
+        "Cao Thắng"
+      ],
+      "tags": [
+        "Phong trào Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "HaTinh_CANVUONG_02",
+      "year": 1894,
+      "date": "1894-10-26",
+      "title": "Trận Vụ Quang",
+      "description": "Nghĩa quân Phan Đình Phùng đã dựa vào địa thế hiểm trở và mưu trí dụ địch, đánh bại cuộc tấn công quy mô lớn của quân Pháp và lính khố xanh tại căn cứ Vụ Quang, gây thương vong lớn cho địch. Đây là chiến thắng vang dội nhất của cuộc khởi nghĩa.",
+      "location": {
+        "commune": "Hòa Hải",
+        "district": "Hương Khê",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [
+        "Phan Đình Phùng",
+        "Cao Thắng"
+      ],
+      "tags": [
+        "Quân sự",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "HaTinh_REV_01",
+      "year": 1930,
+      "date": "1930-03-01",
+      "title": "Thành lập Đảng bộ tỉnh Hà Tĩnh",
+      "description": "Hội nghị thành lập Đảng bộ tỉnh Hà Tĩnh lâm thời được tổ chức tại bến đò Thượng Trụ. Sự ra đời của Đảng bộ đã trực tiếp lãnh đạo phong trào đấu tranh của nông dân Hà Tĩnh trong cao trào Xô viết Nghệ Tĩnh.",
+      "location": {
+        "commune": "Thiên Lộc",
+        "district": "Can Lộc",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [
+        "Trần Hữu Thiều"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "HaTinh_REV_02",
+      "year": 1930,
+      "date": "1930-08-01",
+      "title": "Cao trào Xô viết Nghệ Tĩnh tại Hà Tĩnh",
+      "description": "Nông dân các huyện Can Lộc, Thạch Hà, Cẩm Xuyên đồng loạt biểu tình, phá huyện đường, đốt giấy tờ sổ sách của chính quyền thực dân phong kiến, thành lập các Nông hội đỏ (chính quyền Xô viết) tự quản thôn xã.",
+      "location": {
+        "commune": null,
+        "district": "Can Lộc",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Xô viết Nghệ Tĩnh",
+        "Nông dân"
+      ]
+    },
+    {
+      "id": "HaTinh_REV_03",
+      "year": 1945,
+      "date": "1945-08-18",
+      "title": "Giành chính quyền tại Hà Tĩnh",
+      "description": "Hà Tĩnh là một trong 4 tỉnh đầu tiên của cả nước (cùng với Bắc Giang, Hải Dương, Quảng Nam) giành được chính quyền về tay nhân dân trong Cách mạng tháng Tám, trước khi lệnh Tổng khởi nghĩa từ Hà Nội về tới nơi.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hà Tĩnh",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "HaTinh_US_WAR_01",
+      "year": 1965,
+      "date": "1965-03-26",
+      "title": "Trận đầu đánh thắng không quân Mỹ (Núi Nài)",
+      "description": "Tiểu đoàn Phòng không 8 cùng dân quân địa phương đã lập công xuất sắc tại trận địa Núi Nài, bắn rơi 9 máy bay Mỹ trong trận đầu ra quân đánh trả cuộc leo thang chiến tranh phá hoại miền Bắc của không quân Mỹ.",
+      "location": {
+        "commune": "Đại Nài",
+        "district": "Thành phố Hà Tĩnh",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "HaTinh_US_WAR_02",
+      "year": 1968,
+      "date": "1968-07-24",
+      "title": "Sự hy sinh của 10 nữ Thanh niên xung phong Ngã ba Đồng Lộc",
+      "description": "Tại trọng điểm giao thông ác liệt Ngã ba Đồng Lộc, 10 nữ thanh niên xung phong thuộc Tiểu đội 4 (Đại đội 552) đã anh dũng hy sinh khi đang san lấp hố bom để thông đường cho xe ra tiền tuyến. Họ trở thành biểu tượng bất tử của chủ nghĩa anh hùng cách mạng.",
+      "location": {
+        "commune": "Đồng Lộc",
+        "district": "Can Lộc",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [
+        "Võ Thị Tần"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Đồng Lộc",
+        "Thanh niên xung phong"
+      ]
+    },
+    {
+      "id": "HaTinh_ADMIN_01",
+      "year": 1976,
+      "date": "1976-01-01",
+      "title": "Thành lập tỉnh Nghệ Tĩnh",
+      "description": "Thực hiện Nghị quyết của Quốc hội, hai tỉnh Nghệ An và Hà Tĩnh được hợp nhất thành tỉnh Nghệ Tĩnh. Đây là giai đoạn hai tỉnh cùng chung sức xây dựng kinh tế và khắc phục hậu quả chiến tranh.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "HaTinh_ADMIN_02",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Hà Tĩnh",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Nghệ Tĩnh trở lại thành hai tỉnh Nghệ An và Hà Tĩnh. Tỉnh Hà Tĩnh chính thức hoạt động theo đơn vị hành chính mới, bắt đầu công cuộc đổi mới và phát triển kinh tế.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

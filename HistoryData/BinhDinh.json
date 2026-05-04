@@ -1,0 +1,247 @@
+{
+  "events": [
+    {
+      "id": "BinhDinh_CHAM_01",
+      "year": 1471,
+      "date": null,
+      "title": "Sự sụp đổ của thành Đồ Bàn (Vijaya)",
+      "description": "Vua Lê Thánh Tông thân chinh dẫn đại quân đánh chiếm thành Đồ Bàn, kinh đô của vương quốc Chăm Pa. Sự kiện này đánh dấu việc sáp nhập vùng đất Bình Định vào lãnh thổ Đại Việt, lập ra phủ Hoài Nhơn.",
+      "location": {
+        "commune": "Nhơn Hậu",
+        "district": "An Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Lê Thánh Tông",
+        "Trà Toàn"
+      ],
+      "tags": [
+        "Chăm Pa",
+        "Đại Việt",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BinhDinh_TAYSON_01",
+      "year": 1771,
+      "date": null,
+      "title": "Khởi nghĩa Tây Sơn bùng nổ",
+      "description": "Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa tại vùng Tây Sơn Thượng Đạo, chống lại chính quyền chúa Nguyễn, mở đầu cho phong trào nông dân Tây Sơn.",
+      "location": {
+        "commune": "Tây Phú",
+        "district": "Tây Sơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Nguyễn Nhạc",
+        "Nguyễn Huệ",
+        "Nguyễn Lữ"
+      ],
+      "tags": [
+        "Tây Sơn",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "BinhDinh_TAYSON_02",
+      "year": 1778,
+      "date": null,
+      "title": "Nguyễn Nhạc lên ngôi Hoàng đế",
+      "description": "Nguyễn Nhạc xưng là Thái Đức Hoàng đế, chọn thành Đồ Bàn làm kinh đô, sửa sang và mở rộng thành, đổi tên là thành Hoàng Đế.",
+      "location": {
+        "commune": "Nhơn Hậu",
+        "district": "An Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Nguyễn Nhạc"
+      ],
+      "tags": [
+        "Tây Sơn",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "BinhDinh_TAYSON_03",
+      "year": 1801,
+      "date": "1801-02-28",
+      "title": "Trận thủy chiến Thị Nại",
+      "description": "Trận thủy chiến quy mô lớn nhất lịch sử phong kiến Việt Nam giữa quân nhà Tây Sơn (do Võ Văn Dũng, Trần Quang Diệu chỉ huy) và quân Nguyễn Ánh. Quân Nguyễn Ánh giành chiến thắng, phá hủy hạm đội Tây Sơn.",
+      "location": {
+        "commune": null,
+        "district": "Quy Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Võ Văn Dũng",
+        "Trần Quang Diệu",
+        "Nguyễn Ánh",
+        "Võ Tánh"
+      ],
+      "tags": [
+        "Thủy chiến",
+        "Nội chiến"
+      ]
+    },
+    {
+      "id": "BinhDinh_COLONIAL_01",
+      "year": 1885,
+      "date": null,
+      "title": "Phong trào Cần Vương tại Bình Định",
+      "description": "Hưởng ứng chiếu Cần Vương, Mai Xuân Thưởng tập hợp nghĩa sĩ lập căn cứ tại Linh Đỗng, được suy tôn làm Bình Tây nguyên soái, lãnh đạo phong trào chống Pháp tại Bình Định.",
+      "location": {
+        "commune": "Bình Tường",
+        "district": "Tây Sơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Mai Xuân Thưởng",
+        "Tăng Bạt Hổ"
+      ],
+      "tags": [
+        "Cần Vương",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "BinhDinh_REV_01",
+      "year": 1930,
+      "date": "1930-09-01",
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Bình Định được thành lập tại Nhà máy đèn Cửu Lợi (phủ Hoài Nhơn), đánh dấu bước ngoặt trong phong trào cách mạng địa phương.",
+      "location": {
+        "commune": "Tam Quan Nam",
+        "district": "Hoài Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Nguyễn Trân"
+      ],
+      "tags": [
+        "Đảng Cộng sản",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "BinhDinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Khởi nghĩa giành chính quyền tại Quy Nhơn",
+      "description": "Trong bối cảnh Cách mạng tháng Tám, quần chúng nhân dân dưới sự lãnh đạo của Việt Minh đã biểu tình, chiếm các cơ quan đầu não của chính quyền thân Nhật tại thị xã Quy Nhơn, giành chính quyền về tay nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Quy Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_01",
+      "year": 1964,
+      "date": "1964-12-07",
+      "title": "Chiến thắng An Lão",
+      "description": "Quân Giải phóng tấn công chi khu An Lão, giải phóng hoàn toàn huyện An Lão. Đây là chiến thắng mở đầu phong trào Đồng Khởi ở khu V, phá vỡ hệ thống ấp chiến lược của địch.",
+      "location": {
+        "commune": null,
+        "district": "An Lão",
+        "province": "Bình Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Đồng Khởi"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_02",
+      "year": 1965,
+      "date": "1965-02-08",
+      "title": "Chiến thắng Đèo Nhông - Dương Liễu",
+      "description": "Sư đoàn 3 Sao Vàng và lực lượng địa phương phục kích tiêu diệt hai tiểu đoàn quân đội Sài Gòn, bẻ gãy chiến thuật 'thiết xa vận' và 'trực thăng vận' của địch.",
+      "location": {
+        "commune": "Mỹ Lợi",
+        "district": "Phù Mỹ",
+        "province": "Bình Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_03",
+      "year": 1965,
+      "date": "1965-09-18",
+      "title": "Trận Thuận Ninh",
+      "description": "Quân Giải phóng tập kích tiêu diệt Tiểu đoàn 1, Trung đoàn 41 của quân đội Sài Gòn và cố vấn Mỹ tại thung lũng Thuận Ninh, chứng minh khả năng tiêu diệt quân chủ lực địch ngay tại căn cứ.",
+      "location": {
+        "commune": "Bình Tân",
+        "district": "Tây Sơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_04",
+      "year": 1966,
+      "date": "1966-01-28",
+      "title": "Vụ thảm sát Tây Sơn - Bình An",
+      "description": "Lính đánh thuê Nam Triều Tiên (Sư đoàn Mãnh Hổ) thực hiện các cuộc càn quét và thảm sát hơn 1.000 thường dân tại các xã thuộc huyện Tây Sơn và An Nhơn (khu vực Gò Dài).",
+      "location": {
+        "commune": "Tây Vinh",
+        "district": "Tây Sơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tội ác chiến tranh",
+        "Nam Triều Tiên"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_05",
+      "year": 1972,
+      "date": "1972-04-09",
+      "title": "Chiến dịch Xuân Hè 1972 tại Bắc Bình Định",
+      "description": "Sư đoàn 3 Sao Vàng phối hợp lực lượng địa phương tấn công cứ điểm Đồi Mười, giải phóng huyện Hoài Ân và phần lớn huyện Hoài Nhơn, mở ra vùng giải phóng rộng lớn liên hoàn.",
+      "location": {
+        "commune": "Hoài Châu",
+        "district": "Hoài Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mùa hè đỏ lửa",
+        "Kháng chiến chống Mỹ"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_06",
+      "year": 1975,
+      "date": "1975-03-31",
+      "title": "Giải phóng Quy Nhơn và toàn tỉnh Bình Định",
+      "description": "Trong cuộc Tổng tiến công và nổi dậy mùa Xuân 1975, quân và dân Bình Định đã đánh chiếm các cơ quan đầu não, làm chủ thị xã Quy Nhơn, hoàn thành giải phóng toàn tỉnh.",
+      "location": {
+        "commune": null,
+        "district": "Quy Nhơn",
+        "province": "Bình Định"
+      },
+      "related_figures": [
+        "Chu Huy Mân"
+      ],
+      "tags": [
+        "Đại thắng mùa Xuân",
+        "Giải phóng"
+      ]
+    }
+  ]
+}

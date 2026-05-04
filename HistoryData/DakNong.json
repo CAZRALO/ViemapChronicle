@@ -1,0 +1,164 @@
+{
+  "events": [
+    {
+      "id": "DakNong_COLONIAL_01",
+      "year": 1912,
+      "date": null,
+      "title": "Bùng nổ Khởi nghĩa N'Trang Lơng",
+      "description": "Tù trưởng N'Trang Lơng đã tập hợp các tộc người M'nông, S'tiêng, Ê Đê... đứng lên chống lại ách cai trị và chính sách 'xâu thuế', bắt phu của thực dân Pháp. Đây là cuộc khởi nghĩa có quy mô lớn nhất và kéo dài nhất (1912-1936) ở Tây Nguyên.",
+      "location": {
+        "commune": null,
+        "district": "Tuy Đức",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [
+        "N'Trang Lơng"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "DakNong_COLONIAL_02",
+      "year": 1914,
+      "date": "1914-07-00",
+      "title": "Trận Bu Nơr (Tiêu diệt Henri Maître)",
+      "description": "Tại buôn Bu Nơr, nghĩa quân N'Trang Lơng đã mưu trí tổ chức trận phục kích, tiêu diệt Henri Maître (một sĩ quan và nhà thám hiểm thực dân nổi tiếng tàn bạo). Chiến công này đã làm chấn động bộ máy cai trị của Pháp tại Đông Dương.",
+      "location": {
+        "commune": "Đắk R'Tih",
+        "district": "Tuy Đức",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [
+        "N'Trang Lơng",
+        "Henri Maître"
+      ],
+      "tags": [
+        "Chống Pháp",
+        "Chiến thắng"
+      ]
+    },
+    {
+      "id": "DakNong_REV_01",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Đắk Mil",
+      "description": "Hưởng ứng lệnh Tổng khởi nghĩa, lực lượng quần chúng và tự vệ tại Đắk Mil đã nổi dậy chiếm Đồn Đắk Mil, tịch thu vũ khí và tài liệu của địch. Chính quyền cách mạng lâm thời huyện Đắk Mil được thành lập.",
+      "location": {
+        "commune": "Đắk Lao",
+        "district": "Đắk Mil",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_01",
+      "year": 1960,
+      "date": "1960-12-00",
+      "title": "Khai thông Hành lang chiến lược Bắc - Nam (Đoạn B4)",
+      "description": "Đoàn B90 đã bắt liên lạc với các cơ sở cách mạng tại Đắk Nông, chính thức khai thông đoạn đường hành lang chiến lược (đường mòn Hồ Chí Minh) qua phía Nam Tây Nguyên, nối liền Tây Nguyên với chiến trường Đông Nam Bộ, vận chuyển sức người sức của cho miền Nam.",
+      "location": {
+        "commune": "Nam Nung",
+        "district": "Krông Nô",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [],
+      "tags": [
+        "Đường Trường Sơn",
+        "Hậu cần"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_02",
+      "year": 1968,
+      "date": "1968-08-23",
+      "title": "Chiến thắng Đức Lập (Đợt 3 Mậu Thân)",
+      "description": "Sư đoàn 1 chủ lực phối hợp với bộ đội địa phương tấn công và làm chủ chi khu quân sự Đức Lập, tiêu diệt một lượng lớn sinh lực địch, cắt đứt giao thông đường 14, uy hiếp thị xã Buôn Ma Thuột từ phía Tây Nam.",
+      "location": {
+        "commune": "Đức Mạnh",
+        "district": "Đắk Mil",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_03",
+      "year": 1975,
+      "date": "1975-03-09",
+      "title": "Giải phóng Chi khu Đức Lập (Mở màn Tây Nguyên)",
+      "description": "Sư đoàn 10 (Quân đoàn 3) nổ súng tấn công căn cứ Đức Lập và Núi Lửa. Sau 24 giờ chiến đấu ác liệt, ta làm chủ hoàn toàn Đức Lập. Chiến thắng này cắt đứt đường 14, cô lập Buôn Ma Thuột, tạo thế nghi binh chiến lược hoàn hảo cho trận then chốt Buôn Ma Thuột.",
+      "location": {
+        "commune": "Đắk Sắk",
+        "district": "Đắk Mil",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [
+        "Vũ Lăng"
+      ],
+      "tags": [
+        "Chiến dịch Tây Nguyên",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-23",
+      "title": "Giải phóng Gia Nghĩa (Tỉnh lỵ Quảng Đức)",
+      "description": "Sau thất bại tại Buôn Ma Thuột, quân địch tại Gia Nghĩa hoang mang tột độ. Quân ta tiến công giải phóng thị xã Gia Nghĩa và quận lỵ Khiêm Đức. Tỉnh Quảng Đức (địa bàn chính của Đắk Nông ngày nay) hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Gia Nghĩa",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Xuân 1975",
+        "Giải phóng"
+      ]
+    },
+    {
+      "id": "DakNong_ADMIN_01",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Thành lập tỉnh Đắk Nông",
+      "description": "Quốc hội khóa XI thông qua Nghị quyết số 22/2003/QH11 chia tỉnh Đắk Lắk thành hai tỉnh Đắk Lắk và Đắk Nông. Tỉnh Đắk Nông chính thức đi vào hoạt động từ ngày 01/01/2004 với tỉnh lỵ là thị xã Gia Nghĩa.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Đắk Nông"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Thành lập tỉnh"
+      ]
+    },
+    {
+      "id": "DakNong_CULTURE_01",
+      "year": 2020,
+      "date": "2020-07-07",
+      "title": "Công nhận Công viên Địa chất Toàn cầu UNESCO",
+      "description": "UNESCO chính thức công nhận Công viên Địa chất Đắk Nông là Công viên Địa chất Toàn cầu. Nơi đây sở hữu hệ thống hang động núi lửa dài nhất Đông Nam Á (C7, C3...) cùng những giá trị độc đáo về địa chất và văn hóa bản địa.",
+      "location": {
+        "commune": null,
+        "district": "Krông Nô",
+        "province": "Đắk Nông"
+      },
+      "related_figures": [],
+      "tags": [
+        "Du lịch",
+        "Di sản UNESCO"
+      ]
+    }
+  ]
+}

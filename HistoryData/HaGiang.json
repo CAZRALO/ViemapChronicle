@@ -1,0 +1,179 @@
+{
+  "events": [
+    {
+      "id": "HaGiang_COLONIAL_01",
+      "year": 1891,
+      "date": "1891-08-20",
+      "title": "Thành lập tỉnh Hà Giang",
+      "description": "Toàn quyền Đông Dương ra Nghị định khôi phục lại Đạo quan binh thứ 3, lỵ sở đặt tại Hà Giang. Sự kiện này đánh dấu việc xác lập địa giới hành chính tỉnh Hà Giang (tách khỏi Tuyên Quang) dưới thời Pháp thuộc.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hà Giang",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "HaGiang_HMONG_01",
+      "year": 1919,
+      "date": null,
+      "title": "Khởi công xây dựng Dinh thự Vua Mèo",
+      "description": "Vương Chính Đức (người đứng đầu chế độ thổ ty phong kiến miền núi tại Đồng Văn) bắt đầu cho xây dựng khu dinh thự kiên cố tại thung lũng Sà Phìn. Công trình thể hiện quyền lực của dòng họ Vương và kiến trúc độc đáo kết hợp văn hóa Mông - Hoa - Pháp.",
+      "location": {
+        "commune": "Sà Phìn",
+        "district": "Đồng Văn",
+        "province": "Hà Giang"
+      },
+      "related_figures": [
+        "Vương Chính Đức"
+      ],
+      "tags": [
+        "Văn hóa",
+        "Vua Mèo"
+      ]
+    },
+    {
+      "id": "HaGiang_REV_01",
+      "year": 1945,
+      "date": "1945-06-21",
+      "title": "Thành lập Tiểu khu cách mạng Trọng Con",
+      "description": "Đội công tác tuyên truyền xung phong của liên tỉnh Hà - Tuyên - Thái tổ chức hội nghị thành lập Tiểu khu cách mạng Trọng Con. Đây là căn cứ địa cách mạng đầu tiên của tỉnh Hà Giang, chuẩn bị cho tổng khởi nghĩa.",
+      "location": {
+        "commune": "Bằng Hành",
+        "district": "Bắc Quang",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Căn cứ địa"
+      ]
+    },
+    {
+      "id": "HaGiang_REV_02",
+      "year": 1945,
+      "date": "1945-08-29",
+      "title": "Khởi nghĩa giành chính quyền tại thị xã Hà Giang",
+      "description": "Lực lượng vũ trang và quần chúng nhân dân tiến vào thị xã, tước vũ khí của lính bảo an, chiếm đồn khố xanh. Ủy ban Hành chính lâm thời tỉnh Hà Giang ra mắt nhân dân tại sân vận động thị xã, tuyên bố xóa bỏ chế độ thực dân phong kiến.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hà Giang",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "HaGiang_REV_03",
+      "year": 1945,
+      "date": "1945-12-25",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Hà Giang được thành lập tại thị xã Hà Giang. Sự kiện này đánh dấu bước ngoặt quan trọng, đảm bảo sự lãnh đạo trực tiếp và toàn diện của Đảng đối với phong trào cách mạng địa phương.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hà Giang",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "HaGiang_SECURITY_01",
+      "year": 1959,
+      "date": "1959-12-00",
+      "title": "Chiến dịch tiễu phỉ Đồng Văn",
+      "description": "Trước sự xúi giục của các thế lực phản động, bạo loạn thổ phỉ nổ ra tại Đồng Văn nhằm chống lại chính quyền cách mạng. Lực lượng vũ trang Hà Giang phối hợp với Quân khu Tây Bắc đã tổ chức chiến dịch tiễu phỉ, dẹp yên bạo loạn, ổn định vùng cao.",
+      "location": {
+        "commune": null,
+        "district": "Đồng Văn",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "An ninh",
+        "Tiễu phỉ"
+      ]
+    },
+    {
+      "id": "HaGiang_CONSTRUCTION_01",
+      "year": 1965,
+      "date": "1965-03-20",
+      "title": "Khánh thành con đường Hạnh Phúc",
+      "description": "Sau 6 năm thi công gian khổ với hơn 2 triệu ngày công của thanh niên xung phong và dân công 8 tỉnh, con đường Hạnh Phúc nối thị xã Hà Giang với 4 huyện vùng cao núi đá (Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc) qua đèo Mã Pì Lèng chính thức thông xe.",
+      "location": {
+        "commune": "Pải Lủng",
+        "district": "Mèo Vạc",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giao thông",
+        "Thanh niên xung phong"
+      ]
+    },
+    {
+      "id": "HaGiang_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Chiến tranh bảo vệ biên giới phía Bắc (1979)",
+      "description": "Quân đội Trung Quốc đồng loạt tấn công trên toàn tuyến biên giới Hà Giang (lúc đó là tỉnh Hà Tuyên). Quân và dân các huyện biên giới (Đồng Văn, Mèo Vạc, Vị Xuyên) đã kiên cường đánh trả, bảo vệ từng tấc đất biên cương.",
+      "location": {
+        "commune": "Thanh Thủy",
+        "district": "Vị Xuyên",
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến tranh biên giới",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "HaGiang_BORDER_WAR_02",
+      "year": 1984,
+      "date": "1984-07-12",
+      "title": "Chiến dịch MB84 - Mặt trận Vị Xuyên",
+      "description": "Ngày khốc liệt nhất của mặt trận Vị Xuyên trong cuộc chiến tranh biên giới kéo dài (1984-1989). Các sư đoàn chủ lực Việt Nam mở chiến dịch phản công lấy lại các cao điểm bị lấn chiếm (1509, 772, 685). Vị Xuyên được ví như 'Lò vôi thế kỷ'.",
+      "location": {
+        "commune": "Thanh Thủy",
+        "district": "Vị Xuyên",
+        "province": "Hà Giang"
+      },
+      "related_figures": [
+        "Nguyễn Đình Thiện",
+        "Đặng Việt Châu"
+      ],
+      "tags": [
+        "Chiến tranh biên giới",
+        "Vị Xuyên"
+      ]
+    },
+    {
+      "id": "HaGiang_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Hà Giang",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hà Tuyên thành hai tỉnh Hà Giang và Tuyên Quang. Tỉnh Hà Giang chính thức đi vào hoạt động trở lại từ ngày 01/10/1991.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hà Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

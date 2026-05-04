@@ -1,0 +1,1230 @@
+{
+  "Phú Thọ": [
+    {
+      "from": [
+        { "commune": "Xã Thanh Đình", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Chu Hóa", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Hy Cương", "district": "Thành phố Việt Trì", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hy Cương", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hùng Sơn", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Thị trấn Lâm Thao", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Thạch Sơn", "district": "Huyện Lâm Thao", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Lâm Thao", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiên Kiên", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân Huy", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân Lũng", "district": "Huyện Lâm Thao", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Xuân Lũng", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tứ Xã", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Sơn Vi", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Phùng Nguyên", "district": "Huyện Lâm Thao", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Phùng Nguyên", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cao Xá", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Vĩnh Lại", "district": "Huyện Lâm Thao", "province": "Phú Thọ" },
+        { "commune": "Xã Bản Nguyên", "district": "Huyện Lâm Thao", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Bản Nguyên", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Phong Châu", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Phú Nham", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Phú Lộc", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Phù Ninh", "district": "Huyện Phù Ninh", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Phù Ninh", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bảo Thanh", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Trị Quận", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Hạ Giáp", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Gia Thanh", "district": "Huyện Phù Ninh", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Dân Chủ", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Liên Hoa", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Lệ Mỹ", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Phú Mỹ", "district": "Huyện Phù Ninh", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Phú Mỹ", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiên Phú", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Trung Giáp", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Trạm Thản", "district": "Huyện Phù Ninh", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Trạm Thản", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiên Du", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã An Đạo", "district": "Huyện Phù Ninh", "province": "Phú Thọ" },
+        { "commune": "Xã Bình Phú", "district": "Huyện Phù Ninh", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Bình Phú", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thanh Ba", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Đồng Xuân", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Hanh Cù", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Vân Lĩnh", "district": "Huyện Thanh Ba", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Thanh Ba", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đại An", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Đông Lĩnh", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Quảng Yên", "district": "Huyện Thanh Ba", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Quảng Yên", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ninh Dân", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Mạn Lạn", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Hoàng Cương", "district": "Huyện Thanh Ba", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hoàng Cương", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Khải Xuân", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Võ Lao", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Đông Thành", "district": "Huyện Thanh Ba", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Đông Thành", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Sơn Cương", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Thanh Hà", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Chí Tiên", "district": "Huyện Thanh Ba", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Chí Tiên", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đỗ Sơn", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Đỗ Xuyên", "district": "Huyện Thanh Ba", "province": "Phú Thọ" },
+        { "commune": "Xã Lương Lỗ", "district": "Huyện Thanh Ba", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Liên Minh", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đoan Hùng", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Hợp Nhất", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Ngọc Quan", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Đoan Hùng", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Lâm", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Ca Đình", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Tây Cốc", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Tây Cốc", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hùng Long", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Yên Kiện", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Chân Mộng", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Chân Mộng", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hùng Xuyên", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Chí Đám", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Chí Đám", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bằng Doãn", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Phúc Lai", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" },
+        { "commune": "Xã Bằng Luân", "district": "Huyện Đoan Hùng", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Bằng Luân", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hạ Hòa", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Minh Hạc", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Ấm Hạ", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Gia Điền", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hạ Hòa", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tứ Hiệp", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Đại Phạm", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Hà Lương", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Đan Thượng", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Đan Thượng", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hương Xạ", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Phương Viên", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Yên Kỳ", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Yên Kỳ", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Lang Sơn", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Yên Luật", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Vĩnh Chân", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Vĩnh Chân", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Vô Tranh", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Bằng Giã", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Minh Côi", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Văn Lang", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Văn Lang", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hiền Lương", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân Áng", "district": "Huyện Hạ Hòa", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hiền Lương", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cẩm Khê", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Minh Tân", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Phong Thịnh", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Cẩm Khê", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hương Lung", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Phú Khê", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Phú Khê", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nhật Tiến", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Hùng Việt", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hùng Việt", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Điêu Lương", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Yên Dưỡng", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Đồng Lương", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Đồng Lương", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phượng Vĩ", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Minh Thắng", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Tiên Lương", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Tiên Lương", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tùng Khê", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Tam Sơn", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" },
+        { "commune": "Xã Văn Bán", "district": "Huyện Cẩm Khê", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Vân Bán", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hưng Hóa", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Dân Quyền", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Hương Nộn", "district": "Huyện Tam Nông", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Tam Nông", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Dị Nậu", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Tề Lễ", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Thọ Văn", "district": "Huyện Tam Nông", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Thọ Văn", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quang Húc", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Lam Sơn", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Vạn Xuân", "district": "Huyện Tam Nông", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Vạn Xuân", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Uyên", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Bắc Sơn", "district": "Huyện Tam Nông", "province": "Phú Thọ" },
+        { "commune": "Xã Hiền Quan", "district": "Huyện Tam Nông", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hiền Quan", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Sơn Thủy", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Đoan Hạ", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Bảo Yên", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Thị trấn Thanh Thủy", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Thanh Thủy", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Lộc", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Thạch Đồng", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Tân Phương", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Đào Xá", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Đào Xá", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Trung", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Hoàng Xá", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" },
+        { "commune": "Xã Tu Vũ", "district": "Huyện Thanh Thủy", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Tu Vũ", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thanh Sơn", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Sơn Hùng", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Giáp Lai", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Thạch Khoán", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Thục Luyện", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Thanh Sơn", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Địch Quả", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Cự Thắng", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Võ Miếu", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Võ Miếu", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Lập", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Tân Minh", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Văn Miếu", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Văn Miếu", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tất Thắng", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Thắng Sơn", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Cự Đồng", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Cự Đồng", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Lương", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Yên Lãng", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Hương Cần", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Hương Cần", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tinh Nhuệ", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Lương Nha", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Yên Sơn", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Yên Sơn", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đông Cửu", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Thượng Cửu", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Khả Cửu", "district": "Huyện Thanh Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Khả Cửu", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Tân Phú", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Thu Ngạc", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Thạch Kiệt", "district": "Huyện Tân Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Tân Sơn", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mỹ Thuận", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Văn Luông", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Minh Đài", "district": "Huyện Tân Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Minh Đài", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Kiệt Sơn", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Tân Sơn", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Đồng Sơn", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Lai Đồng", "district": "Huyện Tân Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Lai Đồng", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Kim Thượng", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân Sơn", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân Đài", "district": "Huyện Tân Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Xuân Đài", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tam Thanh", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Vinh Tiền", "district": "Huyện Tân Sơn", "province": "Phú Thọ" },
+        { "commune": "Xã Long Cốc", "district": "Huyện Tân Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Long Cốc", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Yên Lập", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Đồng Thịnh", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Hưng Long", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Đồng Lạc", "district": "Huyện Yên Lập", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Yên Lập", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phúc Khánh", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Nga Hoàng", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Thượng Long", "district": "Huyện Yên Lập", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Thượng Long", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mỹ Lương", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Mỹ Lung", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Lương Sơn", "district": "Huyện Yên Lập", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Sơn Lương", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Thủy", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân An", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Xuân Viên", "district": "Huyện Yên Lập", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Xuân Viên", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ngọc Lập", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Ngọc Đồng", "district": "Huyện Yên Lập", "province": "Phú Thọ" },
+        { "commune": "Xã Minh Hòa", "district": "Huyện Yên Lập", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Minh Hòa", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Tân Dân", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Gia Cẩm", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Minh Nông", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Dữu Lâu", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Trưng Vương", "district": "Thành phố Việt Trì", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Việt Trì", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Minh Phương", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Nông Trang", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Thụy Vân", "district": "Thành phố Việt Trì", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Nông Trang", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Thọ Sơn", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Tiên Cát", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Bạch Hạc", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Phường Thanh Miếu", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Sông Lô", "district": "Thành phố Việt Trì", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Thanh Miếu", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Vân Phú", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Phượng Lâu", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Hùng Lô", "district": "Thành phố Việt Trì", "province": "Phú Thọ" },
+        { "commune": "Xã Kim Đức", "district": "Thành phố Việt Trì", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Vân Phú", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Hùng Vương", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" },
+        { "commune": "Xã Văn Lung", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" },
+        { "commune": "Xã Hà Lộc", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Phú Thọ", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Phong Châu", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" },
+        { "commune": "Xã Phú Hộ", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" },
+        { "commune": "Xã Hà Thạch", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Phong Châu", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Thanh Vinh", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" },
+        { "commune": "Phường Âu Cơ", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" },
+        { "commune": "Xã Thanh Minh", "district": "Thị xã Phú Thọ", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Phường Âu Cơ", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thu Cúc", "district": "Huyện Tân Sơn", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Thu Cúc", "province": "Phú Thọ" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Trung Sơn", "district": "Huyện Yên Lập", "province": "Phú Thọ" }
+      ],
+      "to": { "commune": "Xã Trung Sơn", "province": "Phú Thọ" }
+    }
+  ],
+  "Vĩnh Phúc": [
+    {
+      "from": [
+        { "commune": "Xã Tân Lập", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đồng Quế", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Thị trấn Tam Sơn", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tam Sơn", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Thịnh", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tứ Yên", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đức Bác", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Yên Thạch", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Sông Lô", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nhân Đạo", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đôn Nhân", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Phương Khoan", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hải Lựu", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Hải Lựu", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Quang Yên", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Lãng Công", "district": "Huyện Sông Lô", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Yên Lãng", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lập Thạch", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Xuân Hòa", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tử Du", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Vân Trục", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Lập Thạch", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Lôi", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Văn Quán", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đồng Ích", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tiên Lữ", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tiên Lữ", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bắc Bình", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Liễn Sơn", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Thái Hòa", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Thái Hòa", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hoa Sơn", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Bàn Giản", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Liên Hòa", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Liên Hòa", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ngọc Mỹ", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Quang Sơn", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hợp Lý", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Hợp Lý", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tây Sơn", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Cao Phong", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Sơn Đông", "district": "Huyện Lập Thạch", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Sơn Đông", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hợp Châu", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" },
+        { "commune": "Thị trấn Tam Đảo", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hồ Sơn", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Minh Quang", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tam Đảo", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đại Đình", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Bồ Lý", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Đại Đình", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Yên Dương", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đạo Trù", "district": "Huyện Tam Đảo", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Đạo Trù", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hợp Hòa", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Thị trấn Kim Long", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hướng Đạo", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đạo Tú", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tam Dương", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Duy Phiên", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Thanh Vân", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hội Thịnh", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Hội Thịnh", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hoàng Đan", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hoàng Lâu", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã An Hòa", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Hoàng An", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Tĩnh", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hoàng Hoa", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tam Quan", "district": "Huyện Tam Dương", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tam Dương Bắc", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Vĩnh Tường", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Thị trấn Tứ Trưng", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Lương Điền", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Vũ Di", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Vĩnh Tường", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thổ Tang", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Thượng Trưng", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tuân Chính", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Thổ Tang", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Nghĩa Hưng", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Yên Lập", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đại Đồng", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Vĩnh Hưng", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Kim Xá", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Yên Bình", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Chấn Hưng", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Vĩnh An", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã An Nhân", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Vĩnh Thịnh", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Ngũ Kiên", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Vĩnh Phú", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Vĩnh Phú", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Sao Đại Việt", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Lũng Hòa", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tân Phú", "district": "Huyện Vĩnh Tường", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Vĩnh Thành", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Yên Lạc", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Bình Định", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Đồng Cương", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Yên Lạc", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Văn", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Trung Nguyên", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tề Lỗ", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tề Lỗ", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đại Tự", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hồng Châu", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Liên Châu", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Liên Châu", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Tam Hồng", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Yên Phương", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Yên Đồng", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Tam Hồng", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Văn Tiến", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Trung Kiên", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Trung Hà", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Nguyệt Đức", "district": "Huyện Yên Lạc", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Nguyệt Đức", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hương Canh", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tam Hợp", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Quất Lưu", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Sơn Lôi", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Bình Nguyên", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Thanh Lãng", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Thị trấn Đạo Đức", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Tân Phong", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Phú Xuân", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Xuân Lãng", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Gia Khánh", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Hương Sơn", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Thiện Kế", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Bình Xuyên", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Bá Hiến", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Trung Mỹ", "district": "Huyện Bình Xuyên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Xã Bình Tuyền", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Định Trung", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Liên Bảo", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Khai Quang", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Ngô Quyền", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Đống Đa", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Phường Vĩnh Phúc", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Tích Sơn", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Hội Hợp", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Đồng Tâm", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Thanh Trù", "district": "Thành phố Vĩnh Yên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Phường Vĩnh Yên", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Hùng Vương", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Hai Bà Trưng", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Phúc Thắng", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Tiền Châu", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Nam Viêm", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Phường Phúc Yên", "province": "Vĩnh Phúc" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Đồng Xuân", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Phường Xuân Hòa", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Cao Minh", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" },
+        { "commune": "Xã Ngọc Thanh", "district": "Thành phố Phúc Yên", "province": "Vĩnh Phúc" }
+      ],
+      "to": { "commune": "Phường Xuân Hòa", "province": "Vĩnh Phúc" }
+    }
+  ],
+  "Hòa Bình": [
+    {
+      "from": [
+        { "commune": "Xã Hợp Thành", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Xã Quang Tiến", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Xã Thịnh Minh", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Thịnh Minh", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Cao Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Hợp Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Thu Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Cao Phong", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Dũng Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Nam Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Tây Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Thạch Yên", "district": "Huyện Cao Phong", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mường Thàng", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bắc Phong", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Bình Thanh", "district": "Huyện Cao Phong", "province": "Hòa Bình" },
+        { "commune": "Xã Thung Nai", "district": "Huyện Cao Phong", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Thung Nai", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Đà Bắc", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Hiền Lương", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Toàn Sơn", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Tú Lý", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Đà Bắc", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Minh", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Cao Sơn", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Cao Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mường Chiềng", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Nánh Nghê", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Đức Nhàn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đoàn Kết", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Đồng Ruộng", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Trung Thành", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Yên Hoà", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Quy Đức", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đồng Chum", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Giáp Đắt", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "Xã Tân Pheo", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Tân Pheo", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tiền Phong", "district": "Huyện Đà Bắc", "province": "Hòa Bình" },
+        { "commune": "một phần Xã Vầy Nưa", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Tiền Phong", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Bo", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Vĩnh Đồng", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Kim Bôi", "district": "Huyện Kim Bôi", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Kim Bôi", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đông Bắc", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Hợp Tiến", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Tú Sơn", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Vĩnh Tiến", "district": "Huyện Kim Bôi", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mường Động", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cuối Hạ", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Mỵ Hòa", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Nuông Dăm", "district": "Huyện Kim Bôi", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Dũng Tiến", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Kim Lập", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Nam Thượng", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Sào Báy", "district": "Huyện Kim Bôi", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Hợp Kim", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Xuân Thủy", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Bình Sơn", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Đú Sáng", "district": "Huyện Kim Bôi", "province": "Hòa Bình" },
+        { "commune": "Xã Hùng Sơn", "district": "Huyện Kim Bôi", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Nật Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Vụ Bản", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Hương Nhượng", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Vũ Bình", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Lạc Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Tân Lập", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Quý Hòa", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Tuân Đạo", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mường Vang", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ân Nghĩa", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Tân Mỹ", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Yên Nghiệp", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Đại Đồng", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ngọc Lâu", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Tự Do", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Ngọc Sơn", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Ngọc Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mỹ Thành", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Văn Nghĩa", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Nhân Nghĩa", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Nhân Nghĩa", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Chí Đạo", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Định Cư", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Quyết Thắng", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Quyết Thắng", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Miền Đồi", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Văn Sơn", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Thượng Cốc", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Thượng Cốc", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bình Hẻm", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Xuất Hóa", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Yên Phú", "district": "Huyện Lạc Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Yên Phú", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Chi Nê", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Đồng Tâm", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Khoan Dụ", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Yên Bồng", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Lạc Thủy", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Hưng Thi", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Thống Nhất", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã An Bình", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã An Bình", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Ba Hàng Đồi", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Phú Nghĩa", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Phú Thành", "district": "Huyện Lạc Thủy", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã An Nghĩa", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Lương Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Hòa Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Lâm Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Nhuận Trạch", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Tân Vinh", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "một phần Xã Cao Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Lương Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Thanh Cao", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Thanh Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Cao Dương", "district": "Huyện Lương Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Cao Dương", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cư Yên", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "Xã Liên Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" },
+        { "commune": "phần còn lại Xã Cao Sơn", "district": "Huyện Lương Sơn", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Liên Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Mai Châu", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Nà Phòn", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Thành Sơn", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Tòng Đậu", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "một phần Xã Đồng Tân", "district": "Huyện Mai Châu", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mai Châu", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mai Hịch", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Xăm Khòe", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Bao La", "district": "Huyện Mai Châu", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Bao La", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Chiềng Châu", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Vạn Mai", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Mai Hạ", "district": "Huyện Mai Châu", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mai Hạ", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Cun Pheo", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Hang Kia", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Pà Cò", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "phần còn lại Xã Đồng Tân", "district": "Huyện Mai Châu", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Pà Cò", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Sơn Thủy", "district": "Huyện Mai Châu", "province": "Hòa Bình" },
+        { "commune": "Xã Tân Thành", "district": "Huyện Mai Châu", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Tân Mai", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Mãn Đức", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Ngọc Mỹ", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Đông Lai", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Thanh Hối", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Tử Nê", "district": "Huyện Tân Lạc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Tân Lạc", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Mỹ Hòa", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Phong Phú", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Phú Cường", "district": "Huyện Tân Lạc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mường Bi", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Phú Vinh", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Suối Hoa", "district": "Huyện Tân Lạc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Mường Hoa", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Gia Mô", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Lỗ Sơn", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Nhân Mỹ", "district": "Huyện Tân Lạc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Toàn Thắng", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Ngổ Luông", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Quyết Chiến", "district": "Huyện Tân Lạc", "province": "Hòa Bình" },
+        { "commune": "Xã Vân Sơn", "district": "Huyện Tân Lạc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Vân Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Thị trấn Hàng Trạm", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Lạc Thịnh", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Phú Lai", "district": "Huyện Yên Thủy", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Yên Thủy", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Bảo Hiệu", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Đa Phúc", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Lạc Sỹ", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Lạc Lương", "district": "Huyện Yên Thủy", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Lạc Lương", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Xã Đoàn Kết", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Hữu Lợi", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Ngọc Lương", "district": "Huyện Yên Thủy", "province": "Hòa Bình" },
+        { "commune": "Xã Yên Trị", "district": "Huyện Yên Thủy", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Xã Yên Trị", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Đồng Tiến", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Hữu Nghị", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Phương Lâm", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Quỳnh Lâm", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Tân Thịnh", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Thịnh Lang", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Trung Minh", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Phường Hòa Bình", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Kỳ Sơn", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Xã Độc Lập", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Xã Mông Hóa", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Phường Kỳ Sơn", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Tân Hòa", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Xã Hòa Bình", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Xã Yên Mông", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Phường Tân Hòa", "province": "Hòa Bình" }
+    },
+    {
+      "from": [
+        { "commune": "Phường Dân Chủ", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Thái Bình", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "Phường Thống Nhất", "district": "Thành phố Hòa Bình", "province": "Hòa Bình" },
+        { "commune": "phần còn lại Xã Vầy Nưa", "district": "Huyện Đà Bắc", "province": "Hòa Bình" }
+      ],
+      "to": { "commune": "Phường Thống Nhất", "province": "Hòa Bình" }
+    }
+  ]
+}

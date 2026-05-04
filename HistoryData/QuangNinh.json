@@ -1,0 +1,192 @@
+{
+  "events": [
+    {
+      "id": "QuangNinh_LY_01",
+      "year": 1149,
+      "date": null,
+      "title": "Thành lập thương cảng Vân Đồn",
+      "description": "Vua Lý Anh Tông ra chiếu thành lập trang Vân Đồn để làm nơi buôn bán, trao đổi hàng hóa với thương nhân nước ngoài. Đây là thương cảng quốc tế đầu tiên và sầm uất nhất của Việt Nam trong nhiều thế kỷ.",
+      "location": {
+        "commune": "Quan Lạn",
+        "district": "Vân Đồn",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Lý Anh Tông"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Thương cảng"
+      ]
+    },
+    {
+      "id": "QuangNinh_TRAN_01",
+      "year": 1288,
+      "date": "1288-04-09",
+      "title": "Chiến thắng Bạch Đằng",
+      "description": "Hưng Đạo Đại Vương Trần Quốc Tuấn chỉ huy quân dân Đại Việt lợi dụng thủy triều và bãi cọc ngầm, tiêu diệt và bắt sống toàn bộ đạo quân thủy của Ô Mã Nhi trên sông Bạch Đằng, chấm dứt hoàn toàn mộng xâm lược của quân Nguyên Mông.",
+      "location": {
+        "commune": "Yên Giang",
+        "district": "Quảng Yên",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Trần Hưng Đạo",
+        "Ô Mã Nhi"
+      ],
+      "tags": [
+        "Kháng chiến chống Nguyên Mông",
+        "Thủy chiến"
+      ]
+    },
+    {
+      "id": "QuangNinh_TRAN_02",
+      "year": 1299,
+      "date": null,
+      "title": "Sơ tổ Trúc Lâm nhập sơn Yên Tử",
+      "description": "Thượng hoàng Trần Nhân Tông từ bỏ ngai vàng, lên núi Yên Tử tu hành và sáng lập Thiền phái Trúc Lâm Yên Tử - dòng thiền mang đậm bản sắc văn hóa Việt Nam.",
+      "location": {
+        "commune": "Thượng Yên Công",
+        "district": "Uông Bí",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Trần Nhân Tông"
+      ],
+      "tags": [
+        "Tôn giáo",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "QuangNinh_COLONIAL_01",
+      "year": 1936,
+      "date": "1936-11-12",
+      "title": "Cuộc tổng bãi công của thợ mỏ",
+      "description": "Hơn 3 vạn thợ mỏ vùng Hòn Gai - Cẩm Phả đồng loạt bãi công đòi tăng lương, giảm giờ làm với khẩu hiệu 'Kỷ luật và Đồng tâm'. Cuộc bãi công thắng lợi rực rỡ, trở thành mốc son chói lọi trong lịch sử phong trào công nhân Việt Nam.",
+      "location": {
+        "commune": null,
+        "district": "Cẩm Phả",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Ngô Huy Tăng"
+      ],
+      "tags": [
+        "Phong trào công nhân",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "QuangNinh_REV_01",
+      "year": 1945,
+      "date": "1945-06-08",
+      "title": "Thành lập Chiến khu Đông Triều (Chiến khu Trần Hưng Đạo)",
+      "description": "Dưới sự chỉ huy của Nguyễn Bình, lực lượng nghĩa quân đã đánh chiếm đồn Đông Triều, tuyên bố thành lập Chiến khu Đông Triều. Đây là một trong những căn cứ địa quan trọng chuẩn bị cho Tổng khởi nghĩa tháng Tám ở vùng Duyên hải Bắc Bộ.",
+      "location": {
+        "commune": null,
+        "district": "Đông Triều",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Nguyễn Bình"
+      ],
+      "tags": [
+        "Tiền khởi nghĩa",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "QuangNinh_REV_02",
+      "year": 1946,
+      "date": "1946-07-15",
+      "title": "Trận đánh chiếm lại Móng Cái",
+      "description": "Bộ đội Hải Ninh phối hợp với các lực lượng vũ trang địa phương tấn công quân phản động Quốc dân đảng, giải phóng thị xã Móng Cái, củng cố chính quyền cách mạng tại vùng biên giới.",
+      "location": {
+        "commune": null,
+        "district": "Móng Cái",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Bảo vệ chính quyền",
+        "Biên giới"
+      ]
+    },
+    {
+      "id": "QuangNinh_FRENCH_01",
+      "year": 1955,
+      "date": "1955-04-25",
+      "title": "Tiếp quản khu mỏ Hồng Quảng",
+      "description": "Tên lính Pháp cuối cùng rút khỏi bến phà Bãi Cháy. Bộ đội Việt Nam tiến vào tiếp quản vùng mỏ Hòn Gai, Cẩm Phả, giải phóng hoàn toàn khu mỏ sau những ngày đấu tranh bền bỉ trên mặt trận ngoại giao và quân sự.",
+      "location": {
+        "commune": "Hòn Gai",
+        "district": "Hạ Long",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Tiếp quản"
+      ]
+    },
+    {
+      "id": "QuangNinh_ADMIN_01",
+      "year": 1963,
+      "date": "1963-10-30",
+      "title": "Thành lập tỉnh Quảng Ninh",
+      "description": "Quốc hội nước Việt Nam Dân chủ Cộng hòa ra nghị quyết hợp nhất tỉnh Hải Ninh và khu Hồng Quảng thành tỉnh Quảng Ninh. Tên gọi Quảng Ninh do Bác Hồ gợi ý, ghép từ hai chữ 'Quảng' (rộng lớn) và 'Ninh' (yên vui).",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Hành chính",
+        "Thành lập tỉnh"
+      ]
+    },
+    {
+      "id": "QuangNinh_US_WAR_01",
+      "year": 1964,
+      "date": "1964-08-05",
+      "title": "Chiến thắng trận đầu ngày 5/8",
+      "description": "Hải quân và Phòng không nhân dân Việt Nam tại vùng biển Cửa Lục - Bãi Cháy đã dũng cảm đánh trả cuộc không kích của máy bay Mỹ (sự kiện Vịnh Bắc Bộ), bắn rơi và làm bị thương nhiều máy bay, bắt sống phi công Mỹ đầu tiên tại miền Bắc.",
+      "location": {
+        "commune": "Bãi Cháy",
+        "district": "Hạ Long",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Everett Alvarez Jr."
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Hải quân"
+      ]
+    },
+    {
+      "id": "QuangNinh_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Chiến đấu bảo vệ biên giới tại Pò Hèn",
+      "description": "Cán bộ, chiến sĩ Đồn Công an nhân dân vũ trang 209 (nay là Đồn Biên phòng Pò Hèn) và nhân viên Lâm trường Hải Sơn đã chiến đấu anh dũng để chặn đứng đợt tấn công ồ ạt của quân đội Trung Quốc.",
+      "location": {
+        "commune": "Hải Sơn",
+        "district": "Móng Cái",
+        "province": "Quảng Ninh"
+      },
+      "related_figures": [
+        "Hoàng Thị Hồng Chiêm",
+        "Đỗ Sĩ Họa"
+      ],
+      "tags": [
+        "Chiến tranh biên giới 1979",
+        "Anh hùng"
+      ]
+    }
+  ]
+}

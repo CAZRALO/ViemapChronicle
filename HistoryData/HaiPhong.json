@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "HaiPhong_EARLY_01",
+      "year": 40,
+      "date": null,
+      "title": "Nữ tướng Lê Chân khai hoang lập ấp An Biên",
+      "description": "Nữ tướng Lê Chân đã đưa gia quyến và người nhà đến vùng đất ven biển khai hoang, lấn biển, lập nên trang An Biên (tên cũ của quê nhà bà). Đây được coi là mốc khởi đầu cho sự hình thành của đô thị Hải Phòng ngày nay.",
+      "location": {
+        "commune": "An Biên",
+        "district": "Lê Chân",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [
+        "Lê Chân"
+      ],
+      "tags": [
+        "Khởi nghĩa Hai Bà Trưng",
+        "Lịch sử địa phương"
+      ]
+    },
+    {
+      "id": "HaiPhong_NGO_01",
+      "year": 938,
+      "date": null,
+      "title": "Trận Bạch Đằng (Ngô Quyền)",
+      "description": "Tại vùng cửa sông Bạch Đằng (khu vực huyện Thủy Nguyên ngày nay), Ngô Quyền đã chỉ huy quân dân đóng cọc gỗ bịt sắt xuống lòng sông, đánh tan quân Nam Hán, chấm dứt 1000 năm Bắc thuộc, mở ra kỷ nguyên độc lập lâu dài.",
+      "location": {
+        "commune": "Tràng Kênh",
+        "district": "Thủy Nguyên",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [
+        "Ngô Quyền"
+      ],
+      "tags": [
+        "Bạch Đằng",
+        "Chống ngoại xâm"
+      ]
+    },
+    {
+      "id": "HaiPhong_COLONIAL_01",
+      "year": 1888,
+      "date": "1888-07-19",
+      "title": "Thành lập thành phố Hải Phòng",
+      "description": "Tổng thống Pháp Sadi Carnot ký sắc lệnh thành lập thành phố Hải Phòng, tách khỏi tỉnh Hải Dương. Hải Phòng chính thức trở thành thành phố cảng, cửa ngõ giao thương quốc tế quan trọng nhất Bắc Kỳ.",
+      "location": {
+        "commune": null,
+        "district": "Hồng Bàng",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [
+        "Sadi Carnot"
+      ],
+      "tags": [
+        "Pháp thuộc",
+        "Đô thị hóa"
+      ]
+    },
+    {
+      "id": "HaiPhong_REV_01",
+      "year": 1929,
+      "date": "1929-08-01",
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+      "description": "Tại nhà số D9 phố Lý Thường Kiệt (nay là phố Cù Chính Lan), Chi bộ Cộng sản đầu tiên của Hải Phòng được thành lập. Đồng chí Nguyễn Đức Cảnh là người trực tiếp chỉ đạo phong trào công nhân và tổ chức Đảng tại đây.",
+      "location": {
+        "commune": null,
+        "district": "Hồng Bàng",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [
+        "Nguyễn Đức Cảnh"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Phong trào công nhân"
+      ]
+    },
+    {
+      "id": "HaiPhong_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Giành chính quyền tại Hải Phòng",
+      "description": "Hàng chục vạn quần chúng nhân dân từ Kiến An và các huyện ngoại thành tràn về trung tâm thành phố, chiếm trại Bảo an binh, Ty Cảnh sát và Tòa Đốc lý, tuyên bố xóa bỏ chính quyền thực dân phong kiến, thành lập Ủy ban Cách mạng lâm thời.",
+      "location": {
+        "commune": null,
+        "district": "Hồng Bàng",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [
+        "Vũ Quốc Uy"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "HaiPhong_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-11-20",
+      "title": "Sự kiện Hải Phòng (Toàn quốc kháng chiến tiền trạm)",
+      "description": "Quân đội Pháp vi phạm Hiệp định Sơ bộ, nổ súng đánh chiếm Hải Phòng và nã pháo vào khu dân cư, giết hại hàng nghìn người dân thường. Quân dân Hải Phòng đã nổ súng đánh trả quyết liệt tại Nhà hát Lớn và Ga Hải Phòng, mở đầu cho cuộc kháng chiến chống Pháp.",
+      "location": {
+        "commune": null,
+        "district": "Hồng Bàng",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "HaiPhong_FRENCH_WAR_02",
+      "year": 1954,
+      "date": "1954-03-07",
+      "title": "Trận tập kích sân bay Cát Bi",
+      "description": "32 chiến sĩ đặc công tinh nhuệ đã bí mật đột nhập sân bay Cát Bi - căn cứ không quân lớn nhất của Pháp ở Đông Dương, phá hủy 59 máy bay địch. Chiến công này được ví như trận 'Điện Biên Phủ trên mặt đất' tại vùng duyên hải.",
+      "location": {
+        "commune": "Cát Bi",
+        "district": "Hải An",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Đặc công"
+      ]
+    },
+    {
+      "id": "HaiPhong_FRENCH_WAR_03",
+      "year": 1955,
+      "date": "1955-05-13",
+      "title": "Giải phóng Hải Phòng (Sự kiện Bến Nghiêng)",
+      "description": "Những tên lính Pháp cuối cùng rút khỏi Bến Nghiêng (Đồ Sơn), kết thúc 300 ngày tập kết chuyển quân theo Hiệp định Genève. Hải Phòng hoàn toàn giải phóng, trở thành hậu phương lớn của miền Bắc xã hội chủ nghĩa.",
+      "location": {
+        "commune": "Nghiêng",
+        "district": "Đồ Sơn",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [
+        "Đỗ Mười"
+      ],
+      "tags": [
+        "Giải phóng",
+        "Hiệp định Genève"
+      ]
+    },
+    {
+      "id": "HaiPhong_US_WAR_01",
+      "year": 1972,
+      "date": "1972-04-16",
+      "title": "Bắn rơi B-52 đầu tiên tại miền Bắc",
+      "description": "Trong cuộc tập kích lần thứ hai ra miền Bắc, Trung đoàn tên lửa 238 bảo vệ Hải Phòng đã bắn rơi một máy bay B-52 của Mỹ. Đây được ghi nhận là chiếc B-52 đầu tiên bị bắn rơi tại miền Bắc Việt Nam.",
+      "location": {
+        "commune": null,
+        "district": "Hải Phòng",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "B-52"
+      ]
+    },
+    {
+      "id": "HaiPhong_US_WAR_02",
+      "year": 1972,
+      "date": "1972-05-09",
+      "title": "Mỹ thả thủy lôi phong tỏa Cảng Hải Phòng",
+      "description": "Tổng thống Mỹ Richard Nixon ra lệnh tiến hành chiến dịch Pocket Money, thả hàng ngàn quả thủy lôi và bom từ trường xuống luồng Nam Triệu và vùng biển Hải Phòng nhằm cô lập miền Bắc với sự viện trợ quốc tế bằng đường biển.",
+      "location": {
+        "commune": "Cảng Hải Phòng",
+        "district": "Ngô Quyền",
+        "province": "Hải Phòng"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phong tỏa biển"
+      ]
+    }
+  ]
+}

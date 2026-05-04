@@ -1,0 +1,191 @@
+{
+  "events": [
+    {
+      "id": "TuyenQuang_COLONIAL_01",
+      "year": 1884,
+      "date": "1884-11-23",
+      "title": "Trận vây hãm thành Tuyên Quang",
+      "description": "Quân Cờ Đen phối hợp với quân đội nhà Nguyễn đã tổ chức vây hãm quân Pháp tại thành Tuyên Quang trong suốt 4 tháng. Đây là một trận đánh nổi tiếng trong lịch sử quân sự thế giới về chiến thuật công - thủ thành, cho thấy sự khốc liệt trong giai đoạn đầu Pháp xâm lược Bắc Kỳ.",
+      "location": {
+        "commune": "Tân Quang",
+        "district": "Thành phố Tuyên Quang",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Lưu Vĩnh Phúc"
+      ],
+      "tags": [
+        "Pháp thuộc",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_01",
+      "year": 1940,
+      "date": "1940-03-20",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Mỏ Than)",
+      "description": "Tại nhà ông Cả Kiến (Khu mỏ than Tuyên Quang), Chi bộ Đảng Cộng sản đầu tiên của tỉnh được thành lập gồm 7 đảng viên. Sự kiện này đánh dấu bước ngoặt quan trọng của phong trào cách mạng Tuyên Quang.",
+      "location": {
+        "commune": "Minh Xuân",
+        "district": "Thành phố Tuyên Quang",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Vũ Mùi"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_02",
+      "year": 1945,
+      "date": "1945-05-21",
+      "title": "Bác Hồ về Tuyên Quang (Tân Trào)",
+      "description": "Sau khi rời Pác Bó (Cao Bằng), lãnh tụ Hồ Chí Minh đã về đến thôn Tân Lập (xã Tân Trào, huyện Sơn Dương) để chỉ đạo phong trào cách mạng cả nước. Tân Trào trở thành 'Thủ đô Khu giải phóng'.",
+      "location": {
+        "commune": "Tân Trào",
+        "district": "Sơn Dương",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Lãnh tụ",
+        "Căn cứ địa"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_03",
+      "year": 1945,
+      "date": "1945-06-04",
+      "title": "Thành lập Khu giải phóng Việt Bắc",
+      "description": "Hội nghị cán bộ Việt Minh quyết định thành lập Khu giải phóng bao gồm 6 tỉnh (Cao - Bắc - Lạng - Hà - Tuyên - Thái). Tuyên Quang được chọn là Thủ đô của Khu giải phóng, nơi đặt các cơ quan đầu não của Trung ương.",
+      "location": {
+        "commune": "Tân Trào",
+        "district": "Sơn Dương",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tiền khởi nghĩa",
+        "Việt Bắc"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_04",
+      "year": 1945,
+      "date": "1945-08-16",
+      "title": "Quốc dân Đại hội Tân Trào",
+      "description": "Đại hội đại biểu quốc dân (được ví như Hội nghị Diên Hồng thứ hai) đã họp tại đình Tân Trào, thông qua lệnh Tổng khởi nghĩa, quy định Quốc kỳ, Quốc ca và bầu ra Ủy ban Dân tộc Giải phóng Việt Nam (Chính phủ lâm thời) do Hồ Chí Minh làm Chủ tịch.",
+      "location": {
+        "commune": "Tân Trào",
+        "district": "Sơn Dương",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Sự kiện trọng đại"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_05",
+      "year": 1945,
+      "date": "1945-08-17",
+      "title": "Giải phóng thị xã Tuyên Quang",
+      "description": "Quân giải phóng từ các ngả tiến vào bao vây, tấn công quân Nhật tại thị xã. Đến ngày 21/8, quân Nhật đầu hàng, chính quyền về tay nhân dân. Tuyên Quang là một trong những tỉnh lỵ được giải phóng sớm nhất bằng đấu tranh vũ trang.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Tuyên Quang",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Song Hào"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "TuyenQuang_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-10-23",
+      "title": "Chiến thắng Sông Lô (Trận Khe Lau)",
+      "description": "Pháo binh và bộ binh ta phục kích đoàn tàu chiến Pháp tại khu vực Khe Lau (ngã ba sông Lô và sông Gâm). Ta bắn chìm tàu chiến và ca nô địch, bẻ gãy gọng kìm phía Tây trong chiến dịch Việt Bắc Thu Đông 1947, bảo vệ an toàn cho 'Thủ đô Kháng chiến'.",
+      "location": {
+        "commune": "Thắng Quân",
+        "district": "Yên Sơn",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Vũ Hiển"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Thủy chiến"
+      ]
+    },
+    {
+      "id": "TuyenQuang_FRENCH_WAR_02",
+      "year": 1951,
+      "date": "1951-02-11",
+      "title": "Đại hội đại biểu toàn quốc lần thứ II của Đảng",
+      "description": "Đại hội Đảng lần thứ II được tổ chức tại xã Vinh Quang (nay là Kim Bình). Đại hội quyết định đưa Đảng ra hoạt động công khai, đổi tên thành Đảng Lao động Việt Nam. Đây là Đại hội Đảng duy nhất tổ chức ngoài Hà Nội.",
+      "location": {
+        "commune": "Kim Bình",
+        "district": "Chiêm Hóa",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Hồ Chí Minh",
+        "Trường Chinh"
+      ],
+      "tags": [
+        "Đại hội Đảng",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "TuyenQuang_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-12-01",
+      "title": "Quốc hội khóa I họp Kỳ thứ 3",
+      "description": "Tại thôn Tưn (xã Cầu Hưu, nay là xã Hùng Lợi), Quốc hội khóa I nước Việt Nam Dân chủ Cộng hòa đã tổ chức kỳ họp thứ 3. Kỳ họp đã thông qua Luật Cải cách ruộng đất, một quyết sách quan trọng huy động sức dân cho chiến dịch Điện Biên Phủ.",
+      "location": {
+        "commune": "Hùng Lợi",
+        "district": "Yên Sơn",
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [
+        "Tôn Đức Thắng"
+      ],
+      "tags": [
+        "Quốc hội",
+        "Chính trị"
+      ]
+    },
+    {
+      "id": "TuyenQuang_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Tuyên Quang",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hà Tuyên (được hợp nhất từ năm 1976) trở lại thành hai tỉnh Tuyên Quang và Hà Giang. Tỉnh Tuyên Quang chính thức hoạt động theo đơn vị hành chính mới.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Tuyên Quang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

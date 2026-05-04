@@ -1,0 +1,561 @@
+{
+  "Hà Tĩnh": [
+    {
+      "from": [
+        { "commune": "xã Tượng Sơn", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Thắng", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Lạc", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Thạch Lạc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạch Trị", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Hội", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Văn", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đồng Tiến", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đỉnh Bàn", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Hải", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Khê", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Thạch Khê", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Vịnh", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Bình", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Thành", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Bình", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cẩm Bình", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kỳ Phong", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Bắc", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Xuân", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Xuân", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Kỳ Đồng", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Giang", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Tiến", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Phú", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kỳ Tân", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Hoa", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Hoa", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kỳ Tây", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Trung", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Văn", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Văn", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kỳ Thọ", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Thư", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Khang", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Khang", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lâm Hợp", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Lạc", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Lạc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kỳ Sơn", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Thượng", "district": "huyện Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kỳ Thượng", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cẩm Xuyên", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Quang", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Quan", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thiên Cầm", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Nam Phúc Thăng", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Nhượng", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Thiên Cầm", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Mỹ", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Thạch", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Duệ", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cẩm Duệ", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Thịnh", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Hà", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Hưng", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cẩm Hưng", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Minh", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Sơn", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Lạc", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cẩm Lạc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Lĩnh", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Lộc", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cẩm Trung", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cẩm Trung", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cẩm Dương", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Yên Hòa", "district": "huyện Cẩm Xuyên", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Yên Hòa", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thạch Hà", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Long", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Sơn", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ngọc Sơn", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Lưu Vĩnh Sơn", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Toàn Lưu", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Việt Tiến", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Ngọc", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Việt Xuyên", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạch Kênh", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Liên", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Ích Hậu", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đông Kinh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Nam Điền", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Xuân", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Thạch Xuân", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Lộc Hà", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Bình An", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thịnh Lộc", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Kim", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Lộc Hà", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Lộc", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hồng Lộc", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hồng Lộc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạch Mỹ", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Châu", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Phù Lưu", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Mai Phụ", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Mai Phụ", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Nghèn", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thiên Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Vượng Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Can Lộc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thuần Thiện", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Tùng Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Tùng Lộc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Khánh Vĩnh Yên", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thanh Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Gia Hanh", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Gia Hanh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Kim Song Trường", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thường Nga", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Phú Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Trường Lưu", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Quang Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Xuân Lộc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đồng Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thượng Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Mỹ Lộc", "district": "huyện Can Lộc", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đồng Lộc", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tiên Điền", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Yên", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Mỹ", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Thành", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Tiên Điền", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Xuân An", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Giang", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Hồng", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Viên", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Lĩnh", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Nghi Xuân", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Cương Gián", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Liên", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Cổ Đạm", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Cổ Đạm", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đan Trường", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Hải", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Hội", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Phổ", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đan Hải", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đức Thọ", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Tùng Ảnh", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hòa Lạc", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Tân Dân", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đức Thọ", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đức Lạng", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Tân Hương", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Đức Đồng", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đức Đồng", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Quang Vĩnh", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Bùi La Nhân", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Yên Hồ", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đức Quang", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Bình Thịnh", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Lâm Trung Thủy", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã An Dũng", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đức Thịnh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Trường Sơn", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Tùng Châu", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Liên Minh", "district": "huyện Đức Thọ", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Đức Minh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Phố Châu", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Phú", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Bằng", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Ninh", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Trung", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tây Sơn", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Tây", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Sơn Tây", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Châu Bình", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Tân Mỹ Hà", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Mỹ Long", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Tứ Mỹ", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Lâm", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Quang Diệm", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Giang", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Sơn Giang", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Lễ", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã An Hòa Thịnh", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Tiến", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Sơn Tiến", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Lĩnh", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Sơn Hồng", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Sơn Hồng", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hàm Trường", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kim Hoa", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Kim Hoa", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Vũ Quang", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Minh", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Quang Thọ", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thọ Điền", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Vũ Quang", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Ân Phú", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Đức Giang", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Đức Lĩnh", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Mai Hoa", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đức Bồng", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Đức Hương", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Đức Liên", "district": "huyện Vũ Quang", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Thượng Đức", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Hương Khê", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Long", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Phú Gia", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hương Khê", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Giang", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Thủy", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Gia Phố", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hương Phố", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lộc Yên", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Trà", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Đô", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hương Đô", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Điền Mỹ", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hà Linh", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hà Linh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Hải", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Phúc Đồng", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Bình", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hương Bình", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Trạch", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Liên", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Phúc Trạch", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Phúc Trạch", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hương Lâm", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Vĩnh", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hương Xuân", "district": "huyện Hương Khê", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Hương Xuân", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bắc Hà", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Thạch Quý", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Tân Giang", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Hưng", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Nam Hà", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Trần Phú", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Hà Huy Tập", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Văn Yên", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "một phần phường Đại Nài", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Thành Sen", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạch Trung", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Đồng Môn", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Hạ", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Hộ Độ", "district": "huyện Lộc Hà", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Trần Phú", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Lâm Hương", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thạch Đài", "district": "huyện Thạch Hà", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phần còn lại phường Đại Nài", "district": "thành phố Hà Tĩnh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Hà Huy Tập", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Kỳ Long", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Kỳ Thịnh", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Lợi", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Vũng Áng", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hưng Trí", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Kỳ Trinh", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Châu", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "một phần xã Kỳ Lợi", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Sông Trí", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Kỳ Nam", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Kỳ Phương", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Kỳ Liên", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phần còn lại xã Kỳ Lợi", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Hoành Sơn", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Kỳ Ninh", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Hà", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Kỳ Hải", "district": "thị xã Kỳ Anh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Hải Ninh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Bắc Hồng", "district": "thị xã Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Đức Thuận", "district": "thị xã Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Trung Lương", "district": "thị xã Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Xuân Lam", "district": "huyện Nghi Xuân", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Bắc Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Nam Hồng", "district": "thị xã Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "phường Đậu Liêu", "district": "thị xã Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" },
+        { "commune": "xã Thuận Lộc", "district": "thị xã Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "phường Nam Hồng Lĩnh", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Kim 1", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Sơn Kim 1", "province": "tỉnh Hà Tĩnh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Sơn Kim 2", "district": "huyện Hương Sơn", "province": "tỉnh Hà Tĩnh" }
+      ],
+      "to": { "commune": "xã Sơn Kim 2", "province": "tỉnh Hà Tĩnh" }
+    }
+  ]
+}

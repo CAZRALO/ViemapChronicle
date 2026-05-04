@@ -1,0 +1,185 @@
+{
+  "events": [
+    {
+      "id": "PhuTho_EARLY_01",
+      "year": 965,
+      "date": null,
+      "title": "Kiều Công Hãn trấn giữ Phong Châu",
+      "description": "Trong thời kỳ loạn 12 sứ quân, Kiều Công Hãn (một trong 12 sứ quân) đã chiếm đóng và xây dựng căn cứ tại Phong Châu (vùng Việt Trì, Bạch Hạc ngày nay) để tranh giành quyền lực, trước khi bị Đinh Bộ Lĩnh thu phục.",
+      "location": {
+        "commune": "Bạch Hạc",
+        "district": "Thành phố Việt Trì",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [
+        "Kiều Công Hãn",
+        "Đinh Bộ Lĩnh"
+      ],
+      "tags": [
+        "12 sứ quân",
+        "Lịch sử địa phương"
+      ]
+    },
+    {
+      "id": "PhuTho_COLONIAL_01",
+      "year": 1891,
+      "date": "1891-05-05",
+      "title": "Thành lập tỉnh Phú Thọ",
+      "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Phú Thọ bằng cách tách huyện Sơn Vi, Thanh Ba, Phù Ninh của tỉnh Sơn Tây và huyện Tam Nông, Thanh Sơn của tỉnh Hưng Hóa. Tỉnh lỵ đặt tại làng Phú Thọ (thị xã Phú Thọ ngày nay).",
+      "location": {
+        "commune": "Phong Châu",
+        "district": "Thị xã Phú Thọ",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Thành lập tỉnh"
+      ]
+    },
+    {
+      "id": "PhuTho_REV_01",
+      "year": 1939,
+      "date": null,
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Cát Lem)",
+      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Phú Thọ được thành lập tại đồi Cát Lem (nay thuộc xã Thục Luyện). Đây là mốc son đánh dấu sự ra đời của tổ chức Đảng tại Đất Tổ, trực tiếp lãnh đạo phong trào cách mạng.",
+      "location": {
+        "commune": "Thục Luyện",
+        "district": "Thanh Sơn",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "PhuTho_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại tỉnh lỵ Phú Thọ",
+      "description": "Lực lượng tự vệ và quần chúng nhân dân đã bao vây Dinh Tỉnh trưởng và Trại lính bảo an tại thị xã Phú Thọ. Chính quyền thực dân phong kiến sụp đổ, Ủy ban Cách mạng lâm thời tỉnh Phú Thọ chính thức ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thị xã Phú Thọ",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "PhuTho_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-11-17",
+      "title": "Chiến thắng Sông Lô (Đoan Hùng)",
+      "description": "Pháo binh và bộ binh ta tổ chức phục kích tại ngã ba sông Lô - sông Gâm (khu vực Đoan Hùng), bắn chìm tàu chiến và ca nô của Pháp, bẻ gãy gọng kìm tấn công lên Việt Bắc, bảo vệ an toàn cho cơ quan đầu não kháng chiến.",
+      "location": {
+        "commune": "Chí Đám",
+        "district": "Đoan Hùng",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [
+        "Vũ Hiển"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Thủy chiến"
+      ]
+    },
+    {
+      "id": "PhuTho_FRENCH_WAR_02",
+      "year": 1951,
+      "date": "1951-12-10",
+      "title": "Trận Tu Vũ",
+      "description": "Mở màn Chiến dịch Hòa Bình, Trung đoàn 88 (Đại đoàn 308) đã tấn công kiên cường vào cứ điểm Tu Vũ - cứ điểm được Pháp xây dựng kiên cố nhất trên phòng tuyến sông Đà. Chiến thắng Tu Vũ đã khai thông đường vận chuyển liên khu.",
+      "location": {
+        "commune": "Tu Vũ",
+        "district": "Thanh Thủy",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [
+        "Vũ Lăng"
+      ],
+      "tags": [
+        "Chiến dịch Hòa Bình",
+        "Công đồn"
+      ]
+    },
+    {
+      "id": "PhuTho_FRENCH_WAR_03",
+      "year": 1952,
+      "date": "1952-11-17",
+      "title": "Chiến thắng Chân Mộng - Trạm Thản",
+      "description": "Trong chiến dịch Tây Bắc, Trung đoàn 36 (Đại đoàn 308) đã tổ chức trận phục kích táo bạo tại thung lũng Chân Mộng - Trạm Thản, tiêu diệt binh đoàn cơ động GM4 của Pháp (gồm xe tăng và bộ binh), phá tan âm mưu đánh chiếm hậu phương Phú Thọ.",
+      "location": {
+        "commune": "Trạm Thản",
+        "district": "Phù Ninh",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [
+        "Phạm Hồng Sơn"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Phục kích"
+      ]
+    },
+    {
+      "id": "PhuTho_INDUSTRY_01",
+      "year": 1962,
+      "date": "1962-03-18",
+      "title": "Khánh thành Khu công nghiệp Việt Trì",
+      "description": "Dưới sự chứng kiến của Chủ tịch Hồ Chí Minh, Khu công nghiệp Việt Trì - khu công nghiệp đầu tiên của miền Bắc xã hội chủ nghĩa được khánh thành. Việt Trì trở thành 'Thành phố ngã ba sông', trung tâm công nghiệp nhẹ và hóa chất.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Việt Trì",
+        "province": "Phú Thọ"
+      },
+      "related_figures": [
+        "Hồ Chí Minh"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Công nghiệp hóa"
+      ]
+    },
+    {
+      "id": "PhuTho_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Thành lập tỉnh Vĩnh Phú",
+      "description": "Ủy ban Thường vụ Quốc hội ra Nghị quyết hợp nhất hai tỉnh Phú Thọ và Vĩnh Phúc thành tỉnh Vĩnh Phú. Tỉnh lỵ đặt tại thành phố Việt Trì, đóng vai trò quan trọng trong việc chi viện cho chiến trường miền Nam.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phú Thọ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "PhuTho_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Phú Thọ",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Vĩnh Phú trở lại thành hai tỉnh Phú Thọ và Vĩnh Phúc. Tỉnh Phú Thọ chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phú Thọ"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

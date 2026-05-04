@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "YenBai_TRAN_01",
+      "year": 1285,
+      "date": null,
+      "title": "Chiến thắng Thu Vật",
+      "description": "Trong cuộc kháng chiến chống quân Nguyên Mông lần thứ hai, tướng Trần Nhật Duật đã chỉ huy quân dân chặn đánh quân địch tại trại Thu Vật (vùng Yên Bình ngày nay), bắt sống tướng giặc và những kẻ phản bội, bảo vệ sườn phía Tây của Đại Việt.",
+      "location": {
+        "commune": null,
+        "district": "Yên Bình",
+        "province": "Yên Bái"
+      },
+      "related_figures": [
+        "Trần Nhật Duật"
+      ],
+      "tags": [
+        "Kháng chiến chống Nguyên Mông",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "YenBai_COLONIAL_01",
+      "year": 1900,
+      "date": "1900-04-11",
+      "title": "Thành lập tỉnh Yên Bái",
+      "description": "Toàn quyền Đông Dương Paul Doumer ký Nghị định thành lập tỉnh Yên Bái trên cơ sở tách một phần đất của tỉnh Hưng Hóa. Tỉnh lỵ đặt tại làng Yên Bái bên bờ sông Hồng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Yên Bái",
+        "province": "Yên Bái"
+      },
+      "related_figures": [
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Hành chính",
+        "Pháp thuộc"
+      ]
+    },
+    {
+      "id": "YenBai_VNQDD_01",
+      "year": 1930,
+      "date": "1930-02-10",
+      "title": "Khởi nghĩa Yên Bái",
+      "description": "Việt Nam Quốc Dân Đảng do Nguyễn Thái Học lãnh đạo đã tổ chức cuộc bạo động vũ trang cướp chính quyền tại trại lính khố xanh Yên Bái. Dù thất bại, cuộc khởi nghĩa đã gây tiếng vang lớn với câu nói nổi tiếng: 'Không thành công cũng thành nhân'.",
+      "location": {
+        "commune": "Hồng Hà",
+        "district": "Thành phố Yên Bái",
+        "province": "Yên Bái"
+      },
+      "related_figures": [
+        "Nguyễn Thái Học",
+        "Phó Đức Chính",
+        "Nguyễn Khắc Nhu"
+      ],
+      "tags": [
+        "Việt Nam Quốc Dân Đảng",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "YenBai_VNQDD_02",
+      "year": 1930,
+      "date": "1930-06-17",
+      "title": "Vụ xử chém 13 liệt sĩ Yên Bái",
+      "description": "Thực dân Pháp thiết lập máy chém tại thị xã Yên Bái để hành quyết Nguyễn Thái Học và 12 đồng chí của ông. Sự kiện này gây chấn động dư luận trong nước và quốc tế, thổi bùng ngọn lửa yêu nước.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Yên Bái",
+        "province": "Yên Bái"
+      },
+      "related_figures": [
+        "Nguyễn Thái Học"
+      ],
+      "tags": [
+        "Pháp thuộc",
+        "Sự kiện lịch sử"
+      ]
+    },
+    {
+      "id": "YenBai_REV_01",
+      "year": 1945,
+      "date": "1945-06-30",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại chiến khu Vần (Hiền Lương), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Yên Bái được thành lập. Đây là hạt nhân lãnh đạo phong trào cách mạng, chuẩn bị lực lượng cho cuộc Tổng khởi nghĩa.",
+      "location": {
+        "commune": "Việt Hồng",
+        "district": "Trấn Yên",
+        "province": "Yên Bái"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Chiến khu Vần"
+      ]
+    },
+    {
+      "id": "YenBai_REV_02",
+      "year": 1945,
+      "date": "1945-08-22",
+      "title": "Giành chính quyền tại tỉnh lỵ Yên Bái",
+      "description": "Lực lượng vũ trang chiến khu Vần phối hợp với quần chúng nhân dân tiến vào thị xã Yên Bái, tước vũ khí của lính bảo an và tiếp quản các cơ quan công sở, thành lập Ủy ban nhân dân cách mạng lâm thời.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Yên Bái",
+        "province": "Yên Bái"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "YenBai_FRENCH_WAR_01",
+      "year": 1952,
+      "date": "1952-10-17",
+      "title": "Chiến thắng Nghĩa Lộ (Mở màn Chiến dịch Tây Bắc)",
+      "description": "Đại đoàn 308 mở cuộc tấn công chớp nhoáng tiêu diệt phân khu Nghĩa Lộ - cứ điểm được mệnh danh là 'cánh cửa thép' của Pháp ở Tây Bắc. Chiến thắng này đập tan tuyến phòng thủ sông Đà, mở đường giải phóng hoàn toàn vùng Tây Bắc.",
+      "location": {
+        "commune": "Pú Trạng",
+        "district": "Thị xã Nghĩa Lộ",
+        "province": "Yên Bái"
+      },
+      "related_figures": [
+        "Vương Thừa Vũ"
+      ],
+      "tags": [
+        "Chiến dịch Tây Bắc",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "YenBai_FRENCH_WAR_02",
+      "year": 1952,
+      "date": "1952-11-22",
+      "title": "Giải phóng hoàn toàn tỉnh Yên Bái",
+      "description": "Sau thất bại tại Nghĩa Lộ và các mặt trận lân cận, quân Pháp rút chạy khỏi các vị trí còn lại. Tỉnh Yên Bái sạch bóng quân thù, trở thành hậu phương lớn chi viện sức người, sức của cho chiến dịch Điện Biên Phủ sau này.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Yên Bái",
+        "province": "Yên Bái"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "YenBai_US_WAR_01",
+      "year": 1965,
+      "date": "1965-05-31",
+      "title": "Trận đầu đánh thắng không quân Mỹ",
+      "description": "Lực lượng vũ trang Yên Bái đã bắn rơi chiếc máy bay F-105 đầu tiên của Mỹ tại khu vực xã Bảo Hưng và Minh Quân, mở đầu cho phong trào 'bắn máy bay Mỹ' của quân dân địa phương.",
+      "location": {
+        "commune": "Bảo Hưng",
+        "district": "Trấn Yên",
+        "province": "Yên Bái"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không"
+      ]
+    },
+    {
+      "id": "YenBai_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Tái lập tỉnh Yên Bái",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hoàng Liên Sơn (hợp nhất từ năm 1976) thành hai tỉnh Yên Bái và Lào Cai. Tỉnh Yên Bái chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/10/1991.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Yên Bái"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

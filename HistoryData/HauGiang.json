@@ -1,0 +1,181 @@
+{
+  "events": [
+    {
+      "id": "HauGiang_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-01-00",
+      "title": "Trận Tầm Vu I",
+      "description": "Tại rạch Tầm Vu (gần cầu Tầm Vu ngày nay), lực lượng bộ đội do đồng chí Ngô Hồng Giỏi chỉ huy đã phục kích đoàn xe quân sự Pháp. Đây là trận Tầm Vu đầu tiên, mở màn cho chuỗi 4 trận đánh vang dội tại địa danh lịch sử này, tiêu diệt nhiều sinh lực địch và xe cơ giới.",
+      "location": {
+        "commune": "Thạnh Xuân",
+        "district": "Châu Thành A",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [
+        "Ngô Hồng Giỏi"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Tầm Vu"
+      ]
+    },
+    {
+      "id": "HauGiang_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-04-19",
+      "title": "Chiến thắng Tầm Vu IV (Thu pháo 105 ly)",
+      "description": "Quân khu 9 phối hợp với du kích địa phương tổ chức trận phục kích quy mô lớn tại Tầm Vu lần thứ 4. Ta tiêu diệt hơn 100 lính Pháp, phá hủy 14 xe quân sự và đặc biệt là thu được khẩu pháo 105 ly (lần đầu tiên ở chiến trường Nam Bộ). Chiến thắng này đã đi vào ca khúc nổi tiếng 'Tầm Vu'.",
+      "location": {
+        "commune": "Thạnh Xuân",
+        "district": "Châu Thành A",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [
+        "Nguyễn Bình"
+      ],
+      "tags": [
+        "Chiến thắng lớn",
+        "Văn hóa"
+      ]
+    },
+    {
+      "id": "HauGiang_REV_01",
+      "year": 1954,
+      "date": null,
+      "title": "Xây dựng Căn cứ Cách mạng Long Mỹ",
+      "description": "Sau Hiệp định Genève, Long Mỹ được chọn làm vùng căn cứ cách mạng trọng điểm của tỉnh Cần Thơ và Khu 9. Nơi đây trở thành 'vùng đất lửa', che chở cho nhiều cơ quan đầu não kháng chiến và là bàn đạp tấn công vào sào huyệt địch tại Chương Thiện.",
+      "location": {
+        "commune": null,
+        "district": "Long Mỹ",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Căn cứ địa",
+        "Kháng chiến"
+      ]
+    },
+    {
+      "id": "HauGiang_ADMIN_01",
+      "year": 1961,
+      "date": "1961-12-24",
+      "title": "Thành lập tỉnh Chương Thiện (Chính quyền Sài Gòn)",
+      "description": "Tổng thống Ngô Đình Diệm ký sắc lệnh thành lập tỉnh Chương Thiện (gồm đất đai tách ra từ các tỉnh Ba Xuyên, Kiên Giang, Phong Dinh). Tỉnh lỵ đặt tại Vị Thanh. Mục đích là để tăng cường kiểm soát, bình định vùng U Minh và chia cắt căn cứ cách mạng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vị Thanh",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Lịch sử chế độ cũ"
+      ]
+    },
+    {
+      "id": "HauGiang_US_WAR_01",
+      "year": 1969,
+      "date": "1969-09-02",
+      "title": "Khánh thành Đền thờ Bác Hồ (Lương Tâm)",
+      "description": "Nghe tin Bác mất, Đảng bộ và quân dân xã Lương Tâm (Long Mỹ) đã bất chấp bom đạn, lập đền thờ Bác ngay tại vùng tranh chấp ác liệt. Đền thờ trở thành biểu tượng của lòng dân miền Nam hướng về Bác, được bảo vệ nguyên vẹn đến ngày thắng lợi.",
+      "location": {
+        "commune": "Lương Tâm",
+        "district": "Long Mỹ",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Lãnh tụ",
+        "Di tích lịch sử"
+      ]
+    },
+    {
+      "id": "HauGiang_US_WAR_02",
+      "year": 1973,
+      "date": "1973-00-00",
+      "title": "Chiến thắng 75 lượt tiểu đoàn địch (Chương Thiện)",
+      "description": "Tại mặt trận Chương Thiện, Khu ủy Khu 9 (do đồng chí Võ Văn Kiệt và Lê Đức Anh chỉ huy) đã lãnh đạo quân dân bẻ gãy cuộc hành quân bình định lấn chiếm quy mô lớn chưa từng có của địch. Ta đã đánh bại 75 lượt tiểu đoàn địch, giữ vững vùng giải phóng, tạo bước ngoặt cục diện chiến trường miền Tây.",
+      "location": {
+        "commune": null,
+        "district": "Long Mỹ, Vị Thanh",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [
+        "Võ Văn Kiệt",
+        "Lê Đức Anh"
+      ],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Chiến thắng chiến lược"
+      ]
+    },
+    {
+      "id": "HauGiang_US_WAR_03",
+      "year": 1975,
+      "date": "1975-05-01",
+      "title": "Giải phóng thị xã Vị Thanh",
+      "description": "Sau khi Cần Thơ giải phóng, quân địch tại Chương Thiện hoang mang cực độ. Sáng 1/5/1975, lực lượng vũ trang địa phương và quần chúng nhân dân tiến vào tiếp quản Dinh Tỉnh trưởng Chương Thiện và các cơ quan đầu não. Thị xã Vị Thanh và toàn tỉnh hoàn toàn giải phóng.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vị Thanh",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "HauGiang_ADMIN_02",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Thành lập tỉnh Hậu Giang (Cũ)",
+      "description": "Chính phủ quyết định hợp nhất tỉnh Cần Thơ, tỉnh Sóc Trăng và thành phố Cần Thơ thành tỉnh Hậu Giang (cũ). Tỉnh lỵ đặt tại thành phố Cần Thơ. Vùng đất Hậu Giang ngày nay lúc đó thuộc các huyện phía Nam của tỉnh lớn này.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "HauGiang_ADMIN_03",
+      "year": 2004,
+      "date": "2004-01-01",
+      "title": "Tái lập tỉnh Hậu Giang",
+      "description": "Thực hiện Nghị quyết 22/2003/QH11, tỉnh Cần Thơ (cũ) được chia tách. Phần phía Bắc thành lập TP. Cần Thơ trực thuộc Trung ương, phần phía Nam thành lập tỉnh Hậu Giang mới. Tỉnh lỵ đặt tại thị xã Vị Thanh (nay là TP. Vị Thanh).",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "HauGiang_CULTURE_01",
+      "year": 2015,
+      "date": "2015-07-00",
+      "title": "Công nhận Chợ nổi Ngã Bảy là Di tích cấp tỉnh",
+      "description": "Chợ nổi Ngã Bảy (ra đời từ năm 1915), nguồn cảm hứng của bài vọng cổ 'Tình anh bán chiếu', được công nhận là Di tích lịch sử - văn hóa. Đây là đầu mối giao thương đường thủy lớn và lâu đời bậc nhất vùng Đồng bằng sông Cửu Long.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Ngã Bảy",
+        "province": "Hậu Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Văn hóa",
+        "Thương mại"
+      ]
+    }
+  ]
+}

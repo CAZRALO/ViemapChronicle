@@ -1,0 +1,205 @@
+{
+  "events": [
+    {
+      "id": "VinhPhuc_TRAN_01",
+      "year": 1258,
+      "date": "1258-01-17",
+      "title": "Trận Bình Lệ Nguyên",
+      "description": "Trận đánh mở màn cuộc kháng chiến chống quân Nguyên Mông lần thứ nhất. Vua Trần Thái Tông trực tiếp chỉ huy quân đội Đại Việt chặn đánh quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy. Dù phải rút lui để bảo toàn lực lượng, trận đánh đã làm tiêu hao sinh lực địch.",
+      "location": {
+        "commune": "Đạo Đức",
+        "district": "Bình Xuyên",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [
+        "Trần Thái Tông",
+        "Lê Tần",
+        "Ngột Lương Hợp Thai"
+      ],
+      "tags": [
+        "Kháng chiến chống Nguyên Mông",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "VinhPhuc_LE_TRINH_01",
+      "year": 1740,
+      "date": null,
+      "title": "Khởi nghĩa Nguyễn Danh Phương",
+      "description": "Nguyễn Danh Phương (Quận Hẻo) tập hợp nông dân khởi nghĩa chống lại chính quyền Lê - Trịnh, xây dựng căn cứ vững chắc tại vùng núi Tam Đảo (Độc Tôn, Ngọc Thanh). Cuộc khởi nghĩa kéo dài hơn 10 năm, kiểm soát một vùng rộng lớn ở Sơn Tây, Thái Nguyên và Tuyên Quang.",
+      "location": {
+        "commune": "Ngọc Thanh",
+        "district": "Phúc Yên",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [
+        "Nguyễn Danh Phương"
+      ],
+      "tags": [
+        "Khởi nghĩa nông dân",
+        "Lịch sử địa phương"
+      ]
+    },
+    {
+      "id": "VinhPhuc_REV_01",
+      "year": 1930,
+      "date": "1930-03-01",
+      "title": "Thành lập Chi bộ Đảng Vĩnh Tường",
+      "description": "Chi bộ Cộng sản đầu tiên của tỉnh Vĩnh Yên (nay là Vĩnh Phúc) được thành lập tại thôn Bích Chu. Sự kiện này đánh dấu bước ngoặt trong phong trào cách mạng địa phương dưới sự lãnh đạo của Đảng.",
+      "location": {
+        "commune": "An Tường",
+        "district": "Vĩnh Tường",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [
+        "Lê Xoay"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "VinhPhuc_REV_02",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "Giành chính quyền tại tỉnh lỵ Vĩnh Yên",
+      "description": "Lực lượng Việt Minh và quần chúng nhân dân đã bao vây, tấn công và chiếm Đồn Vĩnh Yên, Dinh Tỉnh trưởng, giành chính quyền về tay nhân dân trong cuộc Tổng khởi nghĩa Tháng Tám.",
+      "location": {
+        "commune": "Ngô Quyền",
+        "district": "Vĩnh Yên",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "VinhPhuc_FRENCH_01",
+      "year": 1947,
+      "date": "1947-11-23",
+      "title": "Chiến thắng Khoan Bộ",
+      "description": "Du kích và bộ đội địa phương tổ chức phục kích đoàn xe cơ giới và bộ binh Pháp trên đường số 2 (đoạn qua dốc Khoan Bộ). Quân ta tiêu diệt nhiều lính Âu - Phi và phá hủy xe quân sự, bẻ gãy một mũi tiến công trong chiến dịch Thu Đông của Pháp.",
+      "location": {
+        "commune": "Phương Khoan",
+        "district": "Lập Thạch",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Du kích chiến"
+      ]
+    },
+    {
+      "id": "VinhPhuc_FRENCH_02",
+      "year": 1950,
+      "date": "1950-05-24",
+      "title": "Trận Xuân Trạch",
+      "description": "Tiểu đoàn 428 và bộ đội địa phương tấn công tiêu diệt vị trí Xuân Trạch, một cứ điểm quan trọng của Pháp nhằm kiểm soát vùng sông Lô. Chiến thắng này mở rộng vùng tự do Lập Thạch - Sông Lô.",
+      "location": {
+        "commune": "Xuân Hòa",
+        "district": "Lập Thạch",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "VinhPhuc_FRENCH_03",
+      "year": 1951,
+      "date": "1951-01-13",
+      "title": "Trận Vĩnh Yên (Chiến dịch Trần Hưng Đạo)",
+      "description": "Một trong những trận đánh lớn nhất trong kháng chiến chống Pháp tại Bắc Bộ. Đại đoàn 308 và 312 dưới sự chỉ huy của Đại tướng Võ Nguyên Giáp đã giao tranh ác liệt với binh đoàn cơ động của tướng De Lattre de Tassigny tại khu vực đồi núi phía Bắc Vĩnh Yên.",
+      "location": {
+        "commune": null,
+        "district": "Vĩnh Yên",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [
+        "Võ Nguyên Giáp",
+        "Jean de Lattre de Tassigny"
+      ],
+      "tags": [
+        "Chiến dịch Trần Hưng Đạo",
+        "Kháng chiến chống Pháp"
+      ]
+    },
+    {
+      "id": "VinhPhuc_AGRI_01",
+      "year": 1966,
+      "date": "1966-09-10",
+      "title": "Nghị quyết 68 (Khoán hộ - Khoán 10)",
+      "description": "Tỉnh ủy Vĩnh Phúc dưới sự chủ trì của Bí thư Kim Ngọc ban hành Nghị quyết số 68-NQ/TU về 'Một số vấn đề quản lý lao động nông nghiệp', khởi xướng phương thức khoán hộ. Đây là bước đột phá tư duy kinh tế, tiền đề cho Khoán 10 và công cuộc Đổi mới sau này.",
+      "location": {
+        "commune": null,
+        "district": "Vĩnh Yên",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [
+        "Kim Ngọc"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Đổi mới",
+        "Nông nghiệp"
+      ]
+    },
+    {
+      "id": "VinhPhuc_US_WAR_01",
+      "year": 1967,
+      "date": "1967-10-17",
+      "title": "Bắn rơi máy bay F-105D",
+      "description": "Dân quân tự vệ xã Tiền Châu phối hợp với bộ đội phòng không bắn rơi máy bay F-105D 'Thần sấm' của Mỹ khi chúng đánh phá các tuyến giao thông huyết mạch qua địa bàn.",
+      "location": {
+        "commune": "Tiền Châu",
+        "district": "Phúc Yên",
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Phòng không nhân dân"
+      ]
+    },
+    {
+      "id": "VinhPhuc_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Thành lập tỉnh Vĩnh Phú",
+      "description": "Ủy ban Thường vụ Quốc hội ra Nghị quyết số 504-NQ/TVQH hợp nhất hai tỉnh Vĩnh Phúc và Phú Thọ thành tỉnh Vĩnh Phú để tập trung nguồn lực cho kháng chiến chống Mỹ và xây dựng chủ nghĩa xã hội.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "VinhPhuc_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Vĩnh Phúc",
+      "description": "Tại kỳ họp thứ 10, Quốc hội khóa IX đã thông qua Nghị quyết tách tỉnh Vĩnh Phú trở lại thành hai tỉnh Vĩnh Phúc và Phú Thọ. Tỉnh Vĩnh Phúc chính thức đi vào hoạt động trở lại từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Vĩnh Phúc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

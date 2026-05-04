@@ -1,0 +1,183 @@
+{
+  "events": [
+    {
+      "id": "HaiDuong_EARLY_01",
+      "year": 905,
+      "date": null,
+      "title": "Khúc Thừa Dụ dựng quyền tự chủ",
+      "description": "Nhân lúc nhà Đường suy yếu, Khúc Thừa Dụ (người làng Cúc Bồ) đã dấy binh, đánh chiếm phủ Tống Bình (Hà Nội), tự xưng là Tiết độ sứ, chấm dứt hơn 1000 năm Bắc thuộc, đặt nền móng cho nền độc lập của dân tộc.",
+      "location": {
+        "commune": "Kiến Quốc",
+        "district": "Ninh Giang",
+        "province": "Hải Dương"
+      },
+      "related_figures": [
+        "Khúc Thừa Dụ"
+      ],
+      "tags": [
+        "Tự chủ",
+        "Khởi nghĩa"
+      ]
+    },
+    {
+      "id": "HaiDuong_TRAN_01",
+      "year": 1285,
+      "date": "1285-06-24",
+      "title": "Chiến thắng Vạn Kiếp",
+      "description": "Hưng Đạo Vương Trần Quốc Tuấn chọn Vạn Kiếp làm đại bản doanh và vùng phòng thủ then chốt. Tại đây, quân dân nhà Trần đã tổ chức nhiều trận đánh chặn quyết liệt, góp phần quan trọng vào thắng lợi của cuộc kháng chiến chống quân Nguyên Mông lần thứ hai.",
+      "location": {
+        "commune": "Hưng Đạo",
+        "district": "Chí Linh",
+        "province": "Hải Dương"
+      },
+      "related_figures": [
+        "Trần Hưng Đạo"
+      ],
+      "tags": [
+        "Kháng chiến chống Nguyên Mông",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "HaiDuong_FRENCH_01",
+      "year": 1883,
+      "date": "1883-08-19",
+      "title": "Thành Hải Dương thất thủ",
+      "description": "Quân Pháp huy động tàu chiến và bộ binh tấn công thành Hải Dương. Mặc dù quan quân triều đình chống trả, nhưng do hỏa lực chênh lệch, thành đã rơi vào tay quân Pháp, đánh dấu việc thiết lập ách cai trị thực dân tại vùng đất này.",
+      "location": {
+        "commune": null,
+        "district": "Hải Dương",
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pháp thuộc",
+        "Quân sự"
+      ]
+    },
+    {
+      "id": "HaiDuong_REV_01",
+      "year": 1930,
+      "date": "1930-03-27",
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "description": "Tại thôn Mạo Điền, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Hải Dương được thành lập gồm 3 đảng viên. Đây là mốc son mở đầu cho phong trào cách mạng có tổ chức chặt chẽ tại địa phương.",
+      "location": {
+        "commune": "Cẩm Điền",
+        "district": "Cẩm Giàng",
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "HaiDuong_REV_02",
+      "year": 1945,
+      "date": "1945-08-17",
+      "title": "Khởi nghĩa giành chính quyền tại tỉnh lỵ",
+      "description": "Hàng vạn quần chúng nhân dân từ các huyện đã đổ về thị xã Hải Dương, tổ chức mít tinh lớn tại Nhà hát Nhân dân (Rạp Con Cò), sau đó chiếm các công sở, giành chính quyền sớm hơn Hà Nội 2 ngày.",
+      "location": {
+        "commune": null,
+        "district": "Hải Dương",
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "HaiDuong_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-09-00",
+      "title": "Phong trào 'Tiếng sấm đường 5'",
+      "description": "Quân và dân Hải Dương (đặc biệt tại Kim Thành, Cẩm Giàng) phát động chiến tranh du kích dọc Quốc lộ 5 và tuyến đường sắt Hà Nội - Hải Phòng. Các trận đánh mìn, lật tàu hỏa đã biến con đường huyết mạch này thành 'con đường tử địa' đối với quân Pháp.",
+      "location": {
+        "commune": "Kim Thành",
+        "district": "Kim Thành",
+        "province": "Hải Dương"
+      },
+      "related_figures": [
+        "Đặng Tính"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Du kích chiến"
+      ]
+    },
+    {
+      "id": "HaiDuong_CONSTRUCTION_01",
+      "year": 1958,
+      "date": "1958-10-01",
+      "title": "Khởi công Đại thủy nông Bắc - Hưng - Hải",
+      "description": "Thủ tướng Phạm Văn Đồng bổ nhát cuốc đầu tiên khởi công công trình thủy lợi Bắc Hưng Hải tại cống Xuân Quan. Đây là hệ thống thủy lợi lớn nhất miền Bắc lúc bấy giờ, giải quyết vấn đề tưới tiêu cho 3 tỉnh Bắc Ninh, Hưng Yên, Hải Dương.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hải Dương"
+      },
+      "related_figures": [
+        "Hồ Chí Minh",
+        "Phạm Văn Đồng"
+      ],
+      "tags": [
+        "Kinh tế",
+        "Thủy lợi"
+      ]
+    },
+    {
+      "id": "HaiDuong_US_WAR_01",
+      "year": 1965,
+      "date": "1965-11-05",
+      "title": "Trận chiến bảo vệ cầu Phú Lương",
+      "description": "Không quân Mỹ bắt đầu đánh phá ác liệt cầu Phú Lương và cầu Lai Vu nhằm cắt đứt tuyến vận tải chiến lược ra cảng Hải Phòng. Lực lượng phòng không và dân quân tự vệ Hải Dương đã chiến đấu kiên cường, bắn rơi nhiều máy bay Mỹ để bảo vệ cầu.",
+      "location": {
+        "commune": null,
+        "district": "Hải Dương",
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Mỹ",
+        "Giao thông"
+      ]
+    },
+    {
+      "id": "HaiDuong_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Thành lập tỉnh Hải Hưng",
+      "description": "Hợp nhất hai tỉnh Hải Dương và Hưng Yên thành tỉnh Hải Hưng theo Nghị quyết của Ủy ban Thường vụ Quốc hội, nhằm tập trung sức người sức của cho cuộc kháng chiến chống Mỹ cứu nước.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Sáp nhập"
+      ]
+    },
+    {
+      "id": "HaiDuong_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Tái lập tỉnh Hải Dương",
+      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Hải Hưng trở lại thành hai tỉnh Hải Dương và Hưng Yên. Tỉnh Hải Dương chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    }
+  ]
+}

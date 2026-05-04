@@ -1,0 +1,788 @@
+{
+  "Tây Ninh": [
+    {
+      "from": [
+        { "commune": "xã Phước Bình", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Phước Chỉ", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Phước Chỉ", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đôn Thuận", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Hưng Thuận", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Hưng Thuận", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Đức", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Cẩm Giang", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Thạnh Đức", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hiệp Thạnh", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Phước Trạch", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Phước Thạnh", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Phước Thạnh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bàu Đồn", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Truông Mít", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Truông Mít", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bến Củi", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Lộc Ninh", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Phước Minh", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Lộc Ninh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phước Ninh", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Cầu Khởi", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Chà Là", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Cầu Khởi", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Dương Minh Châu", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Phan", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Suối Đá", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Phước Minh", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Dương Minh Châu", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Đông", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Tân Hà", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Đông", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tân Châu", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Thạnh Đông", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Tân Phú", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Suối Dây", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Châu", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hưng", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Mỏ Công", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Trà Vong", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Tân Phong", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Tân Phú", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Phú", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hiệp", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Tân Hội", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Hội", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Thành", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Suối Dây", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Thành", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hòa", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Suối Ngô", "district": "huyện Tân Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Hòa", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Lập", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Thạnh Bắc", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Lập", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Bình", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Thạnh Tây", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "thị trấn Tân Biên", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Tân Biên", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Bình", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Tân Phong", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Thạnh Bình", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phần còn lại xã Mỏ Công", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Trà Vong", "district": "huyện Tân Biên", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Trà Vong", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Hiệp", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Phước Vinh", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Phước Vinh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Biên Giới", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Hòa Thạnh", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Hòa Hội", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Hòa Hội", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thành Long", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Ninh Điền", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Ninh Điền", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Châu Thành", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Đồng Khởi", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã An Bình", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "một phần xã Thái Bình", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Châu Thành", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Cơ", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Trí Bình", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Hảo Đước", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Hảo Đước", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Vĩnh", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Long Phước", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Long Chữ", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Long Chữ", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Thuận", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Long Giang", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Long Khánh", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Long Thuận", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Bến Cầu", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã An Thạnh", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Tiên Thuận", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Lợi Thuận", "district": "huyện Bến Cầu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "xã Bến Cầu", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "Phường 2", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "Phường 3", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "Phường IV", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "phường Hiệp Ninh", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Thái Bình", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Tân Ninh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Sơn", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Tân Bình", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Bình Minh", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Thạnh Tân", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Suối Đá", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Phan", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Bình Minh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Ninh Thạnh", "district": "thành phố Tây Ninh", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Bàu Năng", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" },
+        { "commune": "phần còn lại xã Chà Là", "district": "huyện Dương Minh Châu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Ninh Thạnh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Long Thành Bắc", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "phường Long Hoa", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Trường Hòa", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Trường Tây", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Trường Đông", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Long Hoa", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Long Thành Trung", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Long Thành Nam", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Hòa Thành", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Hiệp Tân", "district": "thị xã Hòa Thành", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Thanh Điền", "district": "huyện Châu Thành", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Thanh Điền", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường An Hòa", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" },
+        { "commune": "phường Trảng Bàng", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Trảng Bàng", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Lộc Hưng", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" },
+        { "commune": "phường An Tịnh", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường An Tịnh", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "phường Gia Bình", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" },
+        { "commune": "thị trấn Gò Dầu", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "xã Thanh Phước", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Gò Dầu", "province": "tỉnh Tây Ninh" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phước Đông", "district": "huyện Gò Dầu", "province": "tỉnh Tây Ninh" },
+        { "commune": "phường Gia Lộc", "district": "thị xã Trảng Bàng", "province": "tỉnh Tây Ninh" }
+      ],
+      "to": { "commune": "phường Gia Lộc", "province": "tỉnh Tây Ninh" }
+    }
+  ],
+  "Long An": [
+    {
+      "from": [
+        { "commune": "xã Hưng Hà", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Hưng Điền B", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Hưng Điền", "district": "huyện Tân Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Hưng Điền", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Hưng", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Vĩnh Châu B", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Hưng Thạnh", "district": "huyện Tân Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Vĩnh Thạnh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tân Hưng", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Vĩnh Thạnh", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Vĩnh Lợi", "district": "huyện Tân Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Hưng", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Vĩnh Đại", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Vĩnh Bửu", "district": "huyện Tân Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Vĩnh Châu A", "district": "huyện Tân Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Vĩnh Châu", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tuyên Bình", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "xã Tuyên Bình Tây", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Vĩnh Bình", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Vĩnh Thuận", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Thái Bình Trung", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tuyên Bình", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Vĩnh Hưng", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Vĩnh Trị", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Thái Trị", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Khánh Hưng", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Thái Bình Trung", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Vĩnh Thuận", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Vĩnh Bình", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Vĩnh Hưng", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hưng Điền A", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Thái Bình Trung", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Vĩnh Trị", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Thái Trị", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Khánh Hưng", "district": "huyện Vĩnh Hưng", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Khánh Hưng", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Hưng", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" },
+        { "commune": "xã Tuyên Thạnh", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Bắc Hòa", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tuyên Thạnh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Trị", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Tân", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Hòa Tây", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Hiệp", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Bình Hiệp", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình Thạnh", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Hòa Đông", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Hòa Trung", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Bình Hòa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Thành", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Lập", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" },
+        { "commune": "thị trấn Bình Phong Thạnh", "district": "huyện Mộc Hóa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mộc Hóa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hậu Thạnh Đông", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Hậu Thạnh Tây", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Bắc Hòa", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Hậu Thạnh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Lập", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Nhơn Hòa", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Nhơn Hòa Lập", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Nhơn Hòa Lập", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Thành", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Ninh", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Nhơn Ninh", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Nhơn Ninh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Bình", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Hòa", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "xã Kiến Bình", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" },
+        { "commune": "thị trấn Tân Thạnh", "district": "huyện Tân Thạnh", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Thạnh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Hiệp", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Thuận Bình", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Hòa Hưng", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Bình Thành", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thuận Nghĩa Hòa", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Thạnh Phú", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Thạnh Phước", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Thạnh Phước", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thạnh Hóa", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Thủy Tây", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Thạnh An", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Thạnh Hóa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Đông", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Thủy Đông", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Tây", "district": "huyện Thạnh Hóa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Tây", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Thủ Thừa", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Bình Thạnh", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Tân Thành", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "xã Nhị Thành", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Thủ Thừa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mỹ Phú", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ An", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ An", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình An", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Lạc", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Thạnh", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Tân Thành", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ Thạnh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Thuận", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "xã Long Thạnh", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Long", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Long", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Mỹ Thạnh Bắc", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Quý Đông", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Quý Tây", "district": "huyện Đức Huệ", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ Quý", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đông Thành", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Thạnh Tây", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Thạnh Đông", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Bình", "district": "huyện Đức Huệ", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Đông Thành", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Bình Hòa Bắc", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Hòa Nam", "district": "huyện Đức Huệ", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Thành", "district": "huyện Đức Huệ", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Đức Huệ", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Lộc Giang", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã An Ninh Đông", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã An Ninh Tây", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã An Ninh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Phú", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Hiệp Hòa", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "thị trấn Hiệp Hòa", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Hiệp Hòa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Hậu Nghĩa", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Đức Lập Thượng", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Mỹ", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Hậu Nghĩa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Khánh Tây", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Hòa Khánh Nam", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Hòa Khánh Đông", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Hòa Khánh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đức Lập Hạ", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Hạnh Bắc", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "một phần xã Đức Hòa Thượng", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Đức Lập", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đức Hòa Đông", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Hạnh Nam", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Đức Hòa Thượng", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ Hạnh", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Đức Hòa", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Hựu Thạnh", "district": "huyện Đức Hòa", "province": "tỉnh Long An" },
+        { "commune": "xã Đức Hòa Hạ", "district": "huyện Đức Hòa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Đức Hòa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Hòa", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Lương Bình", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Thạnh Lợi", "district": "huyện Bến Lức", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Thạnh Lợi", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thạnh Đức", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Nhựt Chánh", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Đức", "district": "huyện Bến Lức", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Bình Đức", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Bửu", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Lương Hòa", "district": "huyện Bến Lức", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Lương Hòa", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã An Thạnh", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Thanh Phú", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "thị trấn Bến Lức", "district": "huyện Bến Lức", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Bến Lức", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Hiệp", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Lợi", "district": "huyện Bến Lức", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Yên", "district": "huyện Bến Lức", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ Yên", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Định", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Vân", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Long Cang", "district": "huyện Cần Đước", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Long Cang", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Trạch", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Long Khê", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Long Hòa", "district": "huyện Cần Đước", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Rạch Kiến", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Trạch", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Long Sơn", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Lệ", "district": "huyện Cần Đước", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ Lệ", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phước Đông", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Lân", "district": "huyện Cần Đước", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Lân", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cần Đước", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Tuy", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Ân", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Chánh", "district": "huyện Cần Đước", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Cần Đước", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Hựu Đông", "district": "huyện Cần Đước", "province": "tỉnh Long An" },
+        { "commune": "xã Long Hựu Tây", "district": "huyện Cần Đước", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Long Hựu", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long Thượng", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Hậu", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Lý", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Phước Lý", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Phước Lâm", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Thuận Thành", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Mỹ Lộc", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Mỹ Lộc", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Cần Giuộc", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Lại", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Long Hậu", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Cần Giuộc", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Long An", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Long Phụng", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Vĩnh Tây", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Phước Vĩnh Tây", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Đông Thạnh", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Vĩnh Đông", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Tân Tập", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Tập", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Phước Tây", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Nhựt Ninh", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" },
+        { "commune": "xã Đức Tân", "district": "huyện Cần Giuộc", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Vàm Cỏ", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tân Trụ", "district": "huyện Tân Trụ", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Trinh Đông", "district": "huyện Tân Trụ", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Lãng", "district": "huyện Tân Trụ", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Tịnh", "district": "huyện Tân Trụ", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tân Trụ", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Tân Bình", "district": "huyện Tân Trụ", "province": "tỉnh Long An" },
+        { "commune": "xã Quê Mỹ Thạnh", "district": "huyện Tân Trụ", "province": "tỉnh Long An" },
+        { "commune": "xã Lạc Tấn", "district": "huyện Tân Trụ", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Nhị Thành", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Nhựt Tảo", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Thanh Phú Long", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Thanh Vĩnh Đông", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Thuận Mỹ", "district": "huyện Châu Thành", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Thuận Mỹ", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Dương Xuân Hội", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Long Trì", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã An Lục Long", "district": "huyện Châu Thành", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã An Lục Long", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "thị trấn Tầm Vu", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Hiệp Thạnh", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Phú Ngãi Trị", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Phước Tân Hưng", "district": "huyện Châu Thành", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Tầm Vu", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "xã Hòa Phú", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Quới", "district": "huyện Châu Thành", "province": "tỉnh Long An" },
+        { "commune": "xã Vĩnh Công", "district": "huyện Châu Thành", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "xã Vĩnh Công", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" },
+        { "commune": "Phường 2", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" },
+        { "commune": "Phường 3", "district": "thị xã Kiến Tường", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "phường Kiến Tường", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 1", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "Phường 3", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "Phường 4", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "Phường 5", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "Phường 6", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "xã Hướng Thọ Phú", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "phần còn lại xã Bình Thạnh", "district": "huyện Thủ Thừa", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "phường Long An", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "Phường 7", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "xã Bình Tâm", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "xã Nhơn Thạnh Trung", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "xã An Vĩnh Ngãi", "district": "thành phố Tân An", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "phường Tân An", "province": "tỉnh Long An" }
+    },
+    {
+      "from": [
+        { "commune": "phường Tân Khánh", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "phường Khánh Hậu", "district": "thành phố Tân An", "province": "tỉnh Long An" },
+        { "commune": "xã Lợi Bình Nhơn", "district": "thành phố Tân An", "province": "tỉnh Long An" }
+      ],
+      "to": { "commune": "phường Khánh Hậu", "province": "tỉnh Long An" }
+    }
+  ]
+}

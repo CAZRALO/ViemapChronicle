@@ -1,0 +1,201 @@
+{
+  "events": [
+    {
+      "id": "VinhLong_FOUNDING_01",
+      "year": 1732,
+      "date": null,
+      "title": "Thành lập Long Hồ Dinh",
+      "description": "Chúa Nguyễn Phúc Chú phê chuẩn thiết lập đơn vị hành chính mới là Long Hồ Dinh (tách ra từ Phủ Gia Định), bao quản cả vùng đất rộng lớn các tỉnh miền Tây ngày nay. Đây là mốc lịch sử xác lập vị thế trung tâm chính trị, quân sự đầu tiên của vùng Đồng bằng sông Cửu Long.",
+      "location": {
+        "commune": null,
+        "district": "Long Hồ",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [
+        "Nguyễn Phúc Chú"
+      ],
+      "tags": [
+        "Chúa Nguyễn",
+        "Khai hoang"
+      ]
+    },
+    {
+      "id": "VinhLong_COLONIAL_01",
+      "year": 1867,
+      "date": "1867-06-20",
+      "title": "Thành Vĩnh Long thất thủ (Phan Thanh Giản tuẫn tiết)",
+      "description": "Quân Pháp đem tàu chiến uy hiếp thành Vĩnh Long. Để tránh đổ máu vô ích cho nhân dân khi lực lượng quá chênh lệch, Kinh lược sứ Phan Thanh Giản đã quyết định giao thành, sau đó ông tuyệt thực uống thuốc độc tự tử để tạ tội với vua và dân. Vĩnh Long và 3 tỉnh miền Tây rơi vào tay Pháp.",
+      "location": {
+        "commune": "Phường 1",
+        "district": "Thành phố Vĩnh Long",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [
+        "Phan Thanh Giản"
+      ],
+      "tags": [
+        "Pháp thuộc",
+        "Sự kiện bi hùng"
+      ]
+    },
+    {
+      "id": "VinhLong_REV_01",
+      "year": 1930,
+      "date": "1930-02-00",
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Ngã tư Long Hồ)",
+      "description": "Tại nhà ông Nguyễn Văn Mẹo (Ngã tư Long Hồ), Chi bộ Đảng Cộng sản Việt Nam đầu tiên của tỉnh Vĩnh Long được thành lập do đồng chí Nguyễn Văn Thiệt làm Bí thư. Sự kiện đánh dấu bước ngoặt trong phong trào cách mạng tại địa phương.",
+      "location": {
+        "commune": "Long Phước",
+        "district": "Long Hồ",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [
+        "Nguyễn Văn Thiệt"
+      ],
+      "tags": [
+        "Thành lập Đảng",
+        "Cách mạng"
+      ]
+    },
+    {
+      "id": "VinhLong_REV_02",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Khởi nghĩa Nam Kỳ tại Vũng Liêm",
+      "description": "Dưới sự chỉ huy của đồng chí Nguyễn Thị Hồng Gấm và Tỉnh ủy, nhân dân quận Vũng Liêm đã nổi dậy chiếm Dinh quận, đốt hồ sơ, phá nhà tù. Đây là một trong những điểm nóng quyết liệt nhất trong cuộc Khởi nghĩa Nam Kỳ ở miền Tây.",
+      "location": {
+        "commune": null,
+        "district": "Vũng Liêm",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [
+        "Nguyễn Thị Hồng Gấm"
+      ],
+      "tags": [
+        "Khởi nghĩa Nam Kỳ",
+        "Chống Pháp"
+      ]
+    },
+    {
+      "id": "VinhLong_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Giành chính quyền tại Vĩnh Long",
+      "description": "Hàng ngàn quần chúng từ Tam Bình, Vũng Liêm, Trà Ôn kéo về thị xã Vĩnh Long hỗ trợ lực lượng tại chỗ. Tỉnh trưởng Lương Khắc Nhạc buộc phải giao chính quyền. Ủy ban Hành chính lâm thời tỉnh Vĩnh Long ra mắt nhân dân.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vĩnh Long",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ]
+    },
+    {
+      "id": "VinhLong_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-06-16",
+      "title": "Trận Cây Bàng (Tiêu diệt Tỉnh trưởng Pháp)",
+      "description": "Lực lượng Quốc vệ đội Vĩnh Long đã tổ chức phục kích tại Cây Bàng (trên Quốc lộ 4 cũ), tiêu diệt đoàn xe quân sự và giết chết tên Tỉnh trưởng Pháp Palazzaci. Chiến công này gây tiếng vang lớn, cổ vũ tinh thần kháng chiến toàn tỉnh.",
+      "location": {
+        "commune": "Mỹ Thạnh Trung",
+        "district": "Tam Bình",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Diệt ác"
+      ]
+    },
+    {
+      "id": "VinhLong_US_WAR_01",
+      "year": 1966,
+      "date": "1966-10-09",
+      "title": "Anh hùng Lưu Văn Liệt hy sinh",
+      "description": "Trong trận tập kích táo bạo vào cư xá sĩ quan Mỹ tại thị xã Vĩnh Long, sau khi hoàn thành nhiệm vụ và bị địch bao vây, chiến sĩ biệt động Lưu Văn Liệt đã chiến đấu đến viên đạn cuối cùng và anh dũng hy sinh ở tuổi 21. Anh trở thành biểu tượng anh hùng của tuổi trẻ Vĩnh Long.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vĩnh Long",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [
+        "Lưu Văn Liệt"
+      ],
+      "tags": [
+        "Biệt động",
+        "Anh hùng"
+      ]
+    },
+    {
+      "id": "VinhLong_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tổng tiến công Tết Mậu Thân tại Vĩnh Long",
+      "description": "Quân giải phóng tấn công đồng loạt vào Sân bay Vĩnh Long, Tòa Hành chính và các cứ điểm quân sự. Cuộc chiến đấu giằng co ác liệt diễn ra trong 6 ngày đêm ngay tại nội ô thị xã, gây thiệt hại nặng nề cho lực lượng Mỹ và quân đội Sài Gòn.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vĩnh Long",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Chiến tranh đô thị"
+      ]
+    },
+    {
+      "id": "VinhLong_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Giải phóng tỉnh Vĩnh Long",
+      "description": "Sau khi nghe tin Dương Văn Minh đầu hàng, Tỉnh ủy Vĩnh Long đã lãnh đạo quần chúng nổi dậy kết hợp binh vận. Tỉnh trưởng Vĩnh Long đầu hàng. Đến 13 giờ, ta hoàn toàn làm chủ thị xã, kết thúc thắng lợi cuộc kháng chiến chống Mỹ.",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Vĩnh Long",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giải phóng",
+        "Ngày thống nhất"
+      ]
+    },
+    {
+      "id": "VinhLong_ADMIN_01",
+      "year": 1992,
+      "date": "1992-05-05",
+      "title": "Tái lập tỉnh Vĩnh Long",
+      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Cửu Long (hợp nhất từ năm 1976) thành hai tỉnh Vĩnh Long và Trà Vinh. Tỉnh Vĩnh Long chính thức hoạt động trở lại, tập trung phát triển nông nghiệp công nghệ cao và du lịch sinh thái.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ]
+    },
+    {
+      "id": "VinhLong_INFRA_01",
+      "year": 2000,
+      "date": "2000-05-21",
+      "title": "Khánh thành Cầu Mỹ Thuận",
+      "description": "Cầu Mỹ Thuận - cầu dây văng đầu tiên của Việt Nam bắc qua sông Tiền nối Tiền Giang và Vĩnh Long chính thức khánh thành. Đây là công trình biểu tượng, xóa bỏ cảnh 'lụy phà' hàng thế kỷ, mở ra cơ hội phát triển đột phá cho Vĩnh Long và cả miền Tây.",
+      "location": {
+        "commune": "Tân Hòa",
+        "district": "Thành phố Vĩnh Long",
+        "province": "Vĩnh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Giao thông",
+        "Biểu tượng"
+      ]
+    }
+  ]
+}
