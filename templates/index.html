@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viemap Chronicle</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- Marked JS cho Markdown Chatbot -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+        /* --- THEME COLORS --- */
+        :root {
+            --primary-color: #2E7D32;   /* Xanh lá đậm */
+            --secondary-color: #4CAF50; /* Xanh lá tươi */
+            --accent-color: #C8E6C9;    /* Xanh lá rất sáng */
+            --bg-color: #F1F8E9;        /* Nền xanh cốm nhạt */
+            --light-bg: #FFFFFF;
+            --text-color: #2c3e50;
+            --border-color: #ddd;
+        }
+
+        body, html { 
+            margin: 0; padding: 0; height: 100%; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            overflow: hidden; display: flex; flex-direction: column; 
+            background-color: var(--bg-color); 
+        }
+        
+        /* --- NAVIGATION BAR --- */
+        .navbar {
+            height: 60px; background: var(--primary-color); display: flex; align-items: center; padding: 0 20px; color: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2); z-index: 2000; justify-content: space-between; flex-shrink: 0;
+        }
+        .navbar-brand { display: flex; align-items: center; gap: 10px; font-size: 1.4rem; font-weight: bold; }
+        .nav-tabs { display: flex; gap: 5px; height: 100%; }
+        .nav-item {
+            padding: 0 20px; height: 100%; display: flex; align-items: center; cursor: pointer;
+            background: rgba(255,255,255,0.05); transition: background 0.2s; color: #f0f0f0; border-bottom: 4px solid transparent; user-select: none;
+        }
+        .nav-item:hover { background: rgba(255,255,255,0.15); }
+        .nav-item.active { background: var(--light-bg); color: var(--primary-color); border-bottom: 4px solid var(--secondary-color); font-weight: bold; }
+
+        /* --- MAIN CONTENT CONTAINER --- */
+        .main-content { flex: 1; position: relative; overflow: hidden; background: #fff; }
+        
+        /* Tabs Logic */
+        .tab-pane { width: 100%; height: 100%; display: none; overflow-y: auto; scroll-behavior: smooth; }
+        .tab-pane.active { display: block; }
+        /* Map tab needs hidden overflow so Leaflet controls scrolling */
+        #tabMap.tab-pane { overflow: hidden; }
+
+        /* --- MAP TAB STYLES --- */
+        #map { width: 100%; height: 100%; z-index: 1; }
+        
+        /* Info Box (Top Left) */
+        .info-box {
+            position: absolute; top: 20px; left: 20px; width: 300px; background: white; padding: 15px;
+            border-radius: 8px; box-shadow: 0 0 15px rgba(0,0,0,0.2); z-index: 1000; border-left: 5px solid var(--secondary-color);
+        }
+        .info-box h3 { margin-top: 0; margin-bottom: 10px; color: var(--primary-color); font-size: 1.1rem; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+        .info-row { margin-bottom: 8px; font-size: 0.95rem; }
+        .info-label { font-weight: bold; color: #666; width: 60px; display: inline-block; }
+        .info-value { color: var(--primary-color); font-weight: 600; }
+        .btn-history {
+            display: block; width: 100%; padding: 8px; margin-top: 10px; background: var(--secondary-color); color: white;
+            border: none; border-radius: 4px; cursor: pointer; font-weight: bold; text-align: center; transition: background 0.2s;
+        }
+        .btn-history:hover { background: var(--primary-color); }
+        .btn-history:disabled { background: #ccc; cursor: not-allowed; }
+
+        /* Control Panel (Bottom Center) */
+        .control-panel {
+            position: absolute; bottom: 30px; left: 50%; transform: translateX(-50%);
+            width: 70%; max-width: 700px; background: rgba(255, 255, 255, 0.95);
+            padding: 15px 25px; border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            z-index: 1000; display: flex; flex-direction: column; gap: 10px; border: 1px solid var(--accent-color);
+        }
+        .header-info { display: flex; justify-content: space-between; align-items: center; }
+        .year-display { font-size: 1.5rem; font-weight: bold; color: white; background: var(--secondary-color); padding: 5px 15px; border-radius: 8px; min-width: 80px; text-align: center; }
+        
+        /* Timeline Slider */
+        .timeline-container { width: 100%; }
+        input[type=range] { width: 100%; cursor: pointer; accent-color: var(--secondary-color); margin: 10px 0; }
+        .timeline-ticks { display: flex; justify-content: space-between; font-size: 0.8rem; color: #666; padding: 0 5px; }
+        
+        /* View Mode Controls */
+        .layer-controls { display: flex; gap: 15px; margin-top: 5px; padding-top: 10px; border-top: 1px solid #eee; justify-content: center; }
+        .radio-wrapper { display: flex; align-items: center; cursor: pointer; background: #f0f0f0; padding: 8px 15px; border-radius: 20px; color: #555; transition: all 0.2s; }
+        .radio-wrapper:hover { background: #e0e0e0; }
+        .radio-wrapper.active { background: var(--secondary-color); color: white; }
+        .radio-wrapper.disabled { opacity: 0.5; cursor: not-allowed; background: #eee; color: #999; }
+        .radio-wrapper input { margin-right: 8px; }
+
+        /* Side Panel (Slide in from right) */
+        .history-slide-panel {
+            position: absolute; top: 0; right: -450px; width: 420px; height: 100%;
+            background: white; box-shadow: -2px 0 10px rgba(0,0,0,0.1); z-index: 1001; transition: right 0.3s ease;
+            display: flex; flex-direction: column;
+        }
+        .history-slide-panel.active { right: 0; }
+        .slide-header { padding: 15px; background: var(--bg-color); border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: center; }
+        .slide-content { flex: 1; overflow-y: auto; padding: 20px; }
+        
+        /* Content inside Slide Panel */
+        .section-header { font-size: 1.1rem; font-weight: bold; color: var(--secondary-color); border-bottom: 2px solid var(--accent-color); margin-top: 25px; margin-bottom: 15px; padding-bottom: 5px; }
+        .section-header:first-child { margin-top: 0; }
+        
+        .event-item { margin-bottom: 18px; padding-bottom: 15px; border-bottom: 1px dashed #eee; }
+        .event-year { color: var(--secondary-color); font-weight: bold; font-size: 1.1rem; background: #f1f8e9; display: inline-block; padding: 2px 8px; border-radius: 4px; margin-bottom: 5px; }
+        .event-title { font-weight: bold; color: #333; margin: 5px 0; line-height: 1.4; font-size: 1.05rem; }
+        .event-loc { font-size: 0.85rem; color: #e65100; margin: 4px 0; display: flex; align-items: center; gap: 5px; font-weight: 500; }
+        .event-desc { font-size: 0.95rem; color: #555; margin-top: 8px; line-height: 1.6; text-align: justify; }
+        
+        .site-item { background: #fffcf5; padding: 15px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #ff9800; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .site-name { font-weight: bold; color: #e65100; font-size: 1.1rem; margin-bottom: 5px; }
+        .site-type { font-size: 0.75rem; color: #fff; background: #ff9800; display: inline-block; padding: 3px 8px; border-radius: 4px; text-transform: uppercase; margin-bottom: 8px; font-weight: bold; }
+        .site-desc { font-size: 0.95rem; color: #444; margin-bottom: 8px; line-height: 1.5; }
+        .site-loc { font-size: 0.85rem; color: #2E7D32; font-style: italic; display: flex; align-items: center; gap: 5px; border-top: 1px solid #ffe0b2; padding-top: 8px; margin-top: 8px; }
+
+        .merged-source-badge { font-size: 0.8rem; background: #eee; padding: 2px 6px; border-radius: 4px; color: #666; margin-left: 5px; }
+
+        /* --- MERGER TAB STYLES (FLEX LAYOUT) --- */
+        #tabMerger { padding: 20px; background-color: var(--bg-color); }
+        
+        /* Flex Container */
+        .merger-container { 
+            max-width: 1400px; margin: 0 auto; 
+            display: flex; gap: 25px; align-items: flex-start;
+            padding-bottom: 50px; 
+        }
+
+        /* SIDEBAR */
+        .merger-sidebar {
+            width: 280px; flex-shrink: 0;
+            position: sticky; top: 0;
+            background: transparent;
+            z-index: 10;
+            max-height: calc(100vh - 100px); 
+            overflow-y: auto;
+            padding-right: 5px; 
+        }
+
+        /* MAIN CONTENT */
+        .merger-main-content {
+            flex: 1; min-width: 0;
+        }
+        
+        /* Controls */
+        .search-container { position: relative; margin-bottom: 15px; }
+        .search-bar { 
+            width: 100%; padding: 12px 20px 12px 40px; border-radius: 25px; 
+            border: 2px solid var(--secondary-color); outline: none; font-size: 0.95rem; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05); box-sizing: border-box; background: white;
+        }
+        .search-icon { position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: var(--secondary-color); font-size: 1rem; }
+        
+        .merger-toc { 
+            display: flex; flex-direction: column; gap: 8px; 
+            background: white; padding: 15px; border-radius: 10px; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05); 
+        }
+        .toc-title { width: 100%; font-weight: bold; color: #555; margin-bottom: 10px; font-size: 0.9rem; text-transform: uppercase; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+        .toc-item { 
+            background: #e8f5e9; color: var(--primary-color); padding: 8px 12px; 
+            border-radius: 6px; font-size: 0.9rem; text-decoration: none; 
+            border: 1px solid #c8e6c9; transition: all 0.2s; display: block;
+        }
+        .toc-item:hover { background: var(--secondary-color); color: white; transform: translateX(5px); box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+
+        /* Section Titles */
+        .main-section-title {
+            text-align: center; color: white; background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            padding: 15px; border-radius: 8px; margin: 0 0 25px 0; font-size: 1.4rem; font-weight: bold;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1); text-transform: uppercase; letter-spacing: 0.5px;
+        }
+        .main-section-title.mt-large { margin-top: 40px; }
+
+        /* Timeline Card */
+        .timeline-card {
+            background: white; border-radius: 8px; padding: 25px; margin-bottom: 25px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05); border-left: 6px solid var(--primary-color);
+            position: relative; transition: transform 0.2s;
+        }
+        .timeline-card:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        .timeline-year { font-size: 1.5rem; font-weight: bold; color: var(--primary-color); display: inline-block; margin-bottom: 10px; background: #e8f5e9; padding: 2px 10px; border-radius: 4px; }
+        .timeline-title { font-size: 1.2rem; font-weight: 700; margin-bottom: 10px; color: #222; }
+        .timeline-desc { color: #555; line-height: 1.6; font-size: 1rem; text-align: justify; margin-bottom: 10px; }
+        
+        .change-list { margin: 10px 0 0 0; padding-left: 20px; background: #f9f9f9; padding: 15px; border-radius: 5px; border: 1px dashed #ddd; }
+        .change-list li { margin-bottom: 8px; color: #333; line-height: 1.4; }
+        .change-list li strong { color: var(--secondary-color); }
+
+        /* Merger Cards */
+        .merger-province-group { margin-bottom: 30px; background: white; border-radius: 12px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.05); border: 1px solid #e0e0e0; scroll-margin-top: 20px; }
+        .merger-province-header { 
+            font-size: 1.4rem; color: var(--secondary-color); font-weight: bold; 
+            border-bottom: 2px solid #f0f0f0; padding-bottom: 15px; margin-bottom: 20px;
+            display: flex; align-items: center; gap: 10px;
+        }
+        .commune-change-card {
+            background: #fafafa; border: 1px solid #eee; border-radius: 10px; padding: 15px; margin-bottom: 15px;
+            display: flex; flex-direction: column; gap: 10px; position: relative; overflow: hidden;
+        }
+        .commune-change-card::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: #ddd; }
+        .change-flow { display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap; }
+        
+        .unit-group { display: flex; flex-direction: column; gap: 8px; flex: 1; min-width: 250px; }
+        .unit-label { font-size: 0.8rem; color: #888; text-transform: uppercase; font-weight: bold; margin-bottom: 2px; }
+        .unit-badge { background: #fff3e0; color: #ef6c00; padding: 8px 12px; border-radius: 6px; font-weight: 500; font-size: 0.95rem; text-align: left; border: 1px solid #ffe0b2; display: flex; align-items: center; gap: 8px; }
+        
+        .arrow-section { display: flex; flex-direction: column; align-items: center; justify-content: center; color: var(--primary-color); padding: 0 10px; }
+        .arrow-icon { font-size: 1.5rem; }
+        .arrow-text { font-size: 0.7rem; font-weight: bold; text-transform: uppercase; margin-top: 2px; }
+
+        .dest-group { flex: 1; min-width: 250px; }
+        .dest-badge { background: #e8f5e9; color: #2e7d32; padding: 15px; border-radius: 8px; font-weight: bold; text-align: center; border: 2px solid #c8e6c9; font-size: 1.1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+
+        /* --- CHATBOT TAB --- */
+        #tabChat { display: none; height: 100%; flex-direction: column; max-width: 900px; margin: 0 auto; background: white; border-left: 1px solid #eee; border-right: 1px solid #eee; }
+        #tabChat.active { display: flex; }
+        .chat-header { padding: 15px 20px; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; align-items: center; background: #fff; }
+        .chat-header h2 { margin: 0; color: var(--primary-color); font-size: 1.2rem; display: flex; align-items: center; gap: 10px; }
+        
+        .chat-messages { flex: 1; overflow-y: auto; padding: 20px; background: var(--bg-color); display: flex; flex-direction: column; gap: 15px; }
+        .message { max-width: 80%; padding: 12px 18px; border-radius: 15px; line-height: 1.6; font-size: 0.95rem; word-wrap: break-word; }
+        .message.user { align-self: flex-end; background: var(--secondary-color); color: white; border-bottom-right-radius: 2px; }
+        .message.ai { align-self: flex-start; background: white; color: #333; border: 1px solid #eee; border-bottom-left-radius: 2px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .message.ai p { margin: 0 0 10px 0; }
+        .chat-input-area { padding: 20px; border-top: 1px solid #eee; display: flex; gap: 10px; background: #fff; }
+        .chat-input { flex: 1; padding: 12px 20px; border: 1px solid #ddd; border-radius: 25px; outline: none; font-size: 1rem; transition: border 0.2s; }
+        .chat-input:focus { border-color: var(--secondary-color); }
+        .btn-send { padding: 0 25px; background: var(--primary-color); color: white; border: none; border-radius: 25px; cursor: pointer; font-weight: bold; font-size: 0.95rem; transition: background 0.2s; }
+        .btn-new-chat { background: #f5f5f5; color: #333; border: 1px solid #ddd; padding: 6px 12px; border-radius: 15px; cursor: pointer; font-size: 0.85rem; display: flex; align-items: center; gap: 5px; transition: all 0.2s; }
+
+        /* --- LOADING OVERLAY --- */
+        .loading-overlay { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,0.8); z-index: 2000; display: none; justify-content: center; align-items: center; font-size: 1.5rem; color: var(--primary-color); flex-direction: column; gap: 15px; backdrop-filter: blur(2px); }
+    </style>
+</head>
+<body>
+
+    <!-- NAVIGATION -->
+    <div class="navbar">
+        <div class="navbar-brand">
+            <i class="fas fa-scroll"></i> Viemap Chronicle
+        </div>
+        <div class="nav-tabs">
+            <div class="nav-item active" onclick="switchMainTab('map')">
+                <i class="fas fa-globe-asia" style="margin-right:8px"></i> Bản đồ
+            </div>
+            <div class="nav-item" onclick="switchMainTab('merger')">
+                <i class="fas fa-book-atlas" style="margin-right:8px"></i> Thông tin Sáp nhập
+            </div>
+            <div class="nav-item" onclick="switchMainTab('chat')">
+                <i class="fas fa-robot" style="margin-right:8px"></i> Chatbot AI
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN CONTENT AREA -->
+    <div class="main-content">
+        
+        <!-- TAB 1: MAP -->
+        <div id="tabMap" class="tab-pane active">
+            <div id="map"></div>
+            
+            <!-- Info Box -->
+            <div class="info-box" id="infoBox">
+                <h3><i class="fas fa-map-marker-alt"></i> Thông tin địa điểm</h3>
+                <div id="infoContent">
+                    <div style="color: #95a5a6; font-style: italic;">Chọn một điểm trên bản đồ để xem thông tin chi tiết.</div>
+                </div>
+                <button id="btnShowHistory" class="btn-history" disabled>
+                    <i class="fas fa-info-circle"></i> Xem chi tiết & Lịch sử
+                </button>
+            </div>
+
+            <!-- Side Panel (History & GeoData) -->
+            <div class="history-slide-panel" id="historySlidePanel">
+                <div class="slide-header">
+                    <h3 style="margin:0; color: var(--primary-color);"><i class="fas fa-file-alt"></i> Thông tin Địa phương</h3>
+                    <button onclick="toggleHistorySlide(false)" style="border:none; background:none; cursor:pointer; font-size:1.5rem; color: #666;">&times;</button>
+                </div>
+                <div id="sidePanelContent" class="slide-content">
+                    <p style="text-align:center; color:#7f8c8d; margin-top:20px;">Vui lòng chọn một địa điểm trên bản đồ để tải dữ liệu.</p>
+                </div>
+            </div>
+
+            <!-- Map Controls -->
+            <div class="control-panel">
+                <div class="header-info">
+                    <h2 style="margin:0; font-size:1.2rem; color: var(--primary-color);">Dòng thời gian</h2>
+                    <div class="year-display" id="yearValue">...</div>
+                </div>
+                <div class="timeline-container">
+                    <input type="range" id="timeline" min="0" max="1" step="1">
+                    <div class="timeline-ticks" id="timelineTicks"></div>
+                </div>
+                
+                <div class="layer-controls">
+                    <label class="radio-wrapper active" id="lblProvince">
+                        <input type="radio" name="viewMode" value="province" checked> Xem Tỉnh
+                    </label>
+                    <label class="radio-wrapper" id="lblDistrict">
+                        <input type="radio" name="viewMode" value="district"> Xem Huyện
+                    </label>
+                    <label class="radio-wrapper" id="lblWard">
+                        <input type="radio" name="viewMode" value="ward"> Xem Xã
+                    </label>
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 2: MERGER INFORMATION -->
+        <div id="tabMerger" class="tab-pane">
+            <div class="merger-container" id="mergerContainer">
+                <div style="text-align:center; padding: 40px; color: #666; font-size: 1.1rem; width: 100%;">
+                    <i class="fas fa-spinner fa-spin"></i> Đang tải dữ liệu sáp nhập...
+                </div>
+            </div>
+        </div>
+
+        <!-- TAB 3: AI CHATBOT -->
+        <div id="tabChat" class="tab-pane">
+            <div class="chat-header">
+                <h2><i class="fas fa-brain"></i> Trợ lý AI Viemacle</h2>
+                <button class="btn-new-chat" onclick="resetChat()">
+                    <i class="fas fa-redo"></i> Cuộc trò chuyện mới
+                </button>
+            </div>
+            <div class="chat-messages" id="chatMessages">
+                <div class="message ai">
+                    Xin chào! Tôi là AI hỗ trợ tìm hiểu về Lịch sử và Địa lý Việt Nam. Hãy đặt câu hỏi cho tôi nhé!
+                </div>
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="chatInput" class="chat-input" placeholder="Nhập câu hỏi của bạn (VD: Lịch sử tỉnh Quảng Nam?)..." onkeypress="if(event.key==='Enter') sendMessage()">
+                <button class="btn-send" onclick="sendMessage()"><i class="fas fa-paper-plane"></i> Gửi</button>
+            </div>
+        </div>
+
+    </div>
+    
+    <!-- LOADING SPINNER -->
+    <div class="loading-overlay" id="loading">
+        <i class="fas fa-spinner fa-spin" style="font-size: 3rem;"></i>
+        <div>Đang tải dữ liệu bản đồ...</div>
+    </div>
+
+    <!-- MAIN SCRIPT -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        // --- GLOBAL VARIABLES ---
+        let DATA_SOURCES = { province: [], district: [], ward: [] };
+        let AVAILABLE_YEARS = [];
+        let TIMELINE_DATA = null; // Store merger info
+        let sessionId = localStorage.getItem('chat_session_id') || crypto.randomUUID();
+        localStorage.setItem('chat_session_id', sessionId);
+
+        // --- INITIALIZATION ---
+        async function initApp() {
+            document.getElementById('loading').style.display = 'flex';
+            try {
+                // Fetch Config & Timeline Data in parallel
+                const [configRes, timelineRes] = await Promise.all([
+                    fetch('/api/config'),
+                    fetch('/api/history/timeline_index.json')
+                ]);
+                
+                const config = await configRes.json();
+                AVAILABLE_YEARS = config.years;
+                DATA_SOURCES = config.files;
+
+                if (timelineRes.ok) {
+                    TIMELINE_DATA = await timelineRes.json();
+                }
+                
+                setupTimeline();
+                updateMap();
+                loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
+
+            } catch (e) {
+                console.error("Init Error:", e);
+                alert("Không thể kết nối đến máy chủ. Vui lòng thử lại sau.");
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        // Helper to find constituent provinces for year 2025+
+        function getConstituentProvinces(provName, year) {
+            if (year < 2025 || !TIMELINE_DATA) return [provName];
+
+            // Normalize current province name for comparison
+            const normProv = normalizeFileName(provName).replace('.json', '').toLowerCase();
+
+            // Find the 2025 merger event
+            const mergerEvent = TIMELINE_DATA.find(item => item.year === 2025);
+            if (!mergerEvent || !mergerEvent.changes) return [provName];
+
+            // Look for a change where 'to' contains our province
+            const change = mergerEvent.changes.find(c => {
+                // Check if any destination name matches the selected province
+                return c.to.some(destName => {
+                    const normDest = normalizeFileName(destName).replace('.json', '').toLowerCase();
+                    return normDest === normProv;
+                });
+            });
+
+            if (change) {
+                return change.from; // Return list of original provinces (e.g., ["Gia Lai", "Bình Định"])
+            }
+
+            return [provName];
+        }
+
+        // --- MERGER TAB LOGIC ---
+        async function loadMergerTab() {
+            const container = document.getElementById('mergerContainer');
+            
+            try {
+                // Use cached TIMELINE_DATA if available, else fetch
+                let timelineData = TIMELINE_DATA;
+                if (!timelineData) {
+                    const res = await fetch('/api/history/timeline_index.json');
+                    timelineData = await res.json();
+                }
+                const communeRes = await fetch('/api/merger/communes');
+
+                // 1. SIDEBAR
+                let sidebarHtml = `
+                    <div class="merger-sidebar">
+                        <div class="search-container">
+                            <i class="fas fa-search search-icon"></i>
+                            <input type="text" id="mergerSearch" class="search-bar" placeholder="Tìm kiếm..." onkeyup="filterMergerData()">
+                        </div>
+                        <div id="mergerTOC" class="merger-toc">
+                            <div class="toc-title"><i class="fas fa-list-ul"></i> Mục lục (2025):</div>
+                        </div>
+                    </div>
+                `;
+
+                // 2. MAIN CONTENT
+                let mainContentHtml = `<div class="merger-main-content">`;
+                let tocItemsHtml = '';
+                
+                // --- SECTION: PROVINCIAL TIMELINE ---
+                mainContentHtml += `<div class="main-section-title"><i class="fas fa-history"></i> Lịch sử Thay đổi Tỉnh/Thành phố</div>`;
+                
+                if (timelineData && Array.isArray(timelineData) && timelineData.length > 0) {
+                    timelineData.forEach(item => {
+                        mainContentHtml += `
+                        <div class="timeline-card">
+                            <div><span class="timeline-year">${item.year}</span></div>
+                            <div class="timeline-title">${item.title}</div>
+                            <div class="timeline-desc">${item.description}</div>`;
+                        
+                        if(item.changes && Array.isArray(item.changes) && item.changes.length > 0) {
+                            mainContentHtml += `<ul class="change-list">`;
+                            item.changes.forEach(change => {
+                                if(typeof change === 'object' && change.from && change.to) {
+                                    mainContentHtml += `<li><strong>${change.from.join(', ')}</strong> &rarr; <strong>${change.to.join(', ')}</strong></li>`;
+                                } else {
+                                    mainContentHtml += `<li>${change}</li>`;
+                                }
+                            });
+                            mainContentHtml += `</ul>`;
+                        }
+                        mainContentHtml += `</div>`;
+                    });
+                } else {
+                    mainContentHtml += `<p style="text-align:center; color:#666;">Chưa có dữ liệu lịch sử tỉnh.</p>`;
+                }
+
+                // --- SECTION: COMMUNE MERGER 2025 ---
+                mainContentHtml += `<div class="main-section-title mt-large"><i class="fas fa-random"></i> Sáp nhập Hành chính Cấp Xã (Năm 2025)</div>`;
+                
+                if (communeRes.ok) {
+                    const communeData = await communeRes.json();
+                    const provinces = Object.keys(communeData).sort((a, b) => a.localeCompare(b, 'vi')); 
+                    
+                    if (provinces.length === 0) {
+                        mainContentHtml += `<p style="text-align:center; color:#666; font-style:italic;">Chưa có dữ liệu sáp nhập xã.</p>`;
+                    } else {
+                        provinces.forEach((provName, index) => {
+                            const provId = `merger-prov-${index}`;
+                            tocItemsHtml += `<a href="#${provId}" class="toc-item">${provName}</a>`;
+
+                            mainContentHtml += `<div id="${provId}" class="merger-province-group">`;
+                            mainContentHtml += `<div class="merger-province-header"><i class="fas fa-map-marked-alt"></i> ${provName}</div>`;
+                            
+                            const changes = communeData[provName];
+                            changes.forEach(change => {
+                                mainContentHtml += `<div class="commune-change-card"><div class="change-flow">`;
+                                mainContentHtml += `<div class="unit-group"><div class="unit-label">Sáp nhập:</div>`;
+                                change.from.forEach(f => {
+                                    mainContentHtml += `<div class="unit-badge"><i class="far fa-dot-circle"></i> ${f.commune} <small>(${f.district})</small></div>`;
+                                });
+                                mainContentHtml += `</div>`;
+                                mainContentHtml += `<div class="arrow-section"><div class="arrow-icon"><i class="fas fa-long-arrow-alt-right"></i></div><div class="arrow-text">Thành</div></div>`;
+                                mainContentHtml += `<div class="dest-group"><div class="unit-label">Đơn vị mới:</div>`;
+                                mainContentHtml += `<div class="dest-badge">${change.to.commune}</div>`;
+                                mainContentHtml += `</div></div></div>`;
+                            });
+                            mainContentHtml += `</div>`;
+                        });
+                    }
+                }
+
+                mainContentHtml += `</div>`; // End Main Content Wrapper
+                container.innerHTML = sidebarHtml + mainContentHtml;
+                document.getElementById('mergerTOC').innerHTML += tocItemsHtml;
+
+            } catch (e) {
+                console.error("Merger Tab Error:", e);
+                container.innerHTML = `<p style="text-align:center; color:red; padding:20px;">Có lỗi xảy ra khi tải dữ liệu sáp nhập.<br>${e.message}</p>`;
+            }
+        }
+
+        // Search Function
+        function filterMergerData() {
+            const input = document.getElementById('mergerSearch');
+            const filter = input.value.toUpperCase();
+            const provGroups = document.getElementsByClassName('merger-province-group');
+            
+            for (let i = 0; i < provGroups.length; i++) {
+                const group = provGroups[i];
+                const header = group.getElementsByClassName('merger-province-header')[0];
+                const headerText = header.textContent || header.innerText;
+                
+                if (headerText.toUpperCase().indexOf(filter) > -1) {
+                    group.style.display = "";
+                    const cards = group.getElementsByClassName('commune-change-card');
+                    for (let j = 0; j < cards.length; j++) cards[j].style.display = "";
+                    continue; 
+                }
+                
+                let hasMatchInGroup = false;
+                const cards = group.getElementsByClassName('commune-change-card');
+                for (let j = 0; j < cards.length; j++) {
+                    const card = cards[j];
+                    const txtValue = card.textContent || card.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        card.style.display = "";
+                        hasMatchInGroup = true;
+                    } else {
+                        card.style.display = "none";
+                    }
+                }
+                group.style.display = hasMatchInGroup ? "" : "none";
+            }
+        }
+
+        // --- MAP LOGIC ---
+        function setupTimeline() {
+            const tl = document.getElementById('timeline');
+            const ticks = document.getElementById('timelineTicks');
+            const display = document.getElementById('yearValue');
+
+            if (AVAILABLE_YEARS.length === 0) {
+                display.innerText = "N/A";
+                tl.disabled = true;
+                return;
+            }
+
+            tl.min = 0;
+            tl.max = AVAILABLE_YEARS.length - 1;
+            tl.value = 0;
+            
+            let ticksHtml = '';
+            AVAILABLE_YEARS.forEach(y => { ticksHtml += `<span>${y}</span>`; });
+            ticks.innerHTML = ticksHtml;
+            display.innerText = AVAILABLE_YEARS[0];
+        }
+
+        const map = L.map('map', { zoomControl: false }).setView([16.047079, 108.206230], 6);
+        //L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap contributors' }).addTo(map);
+        //L.control.zoom({ position: 'bottomright' }).addTo(map);
+        L.tileLayer('http://mt0.google.com/vt/lyrs=y&hl=vi&x={x}&y={y}&z={z}', {
+            maxZoom: 21,
+            attribution: 'Map data &copy; Google',
+            crossOrigin: true
+        }).addTo(map);
+
+        // Thanh tỷ lệ
+        L.control.scale({metric: true, imperial: false, position: 'bottomright'}).addTo(map);
+        map.createPane('provincePane'); map.getPane('provincePane').style.zIndex = 350;
+        map.createPane('districtPane'); map.getPane('districtPane').style.zIndex = 400;
+        map.createPane('wardPane'); map.getPane('wardPane').style.zIndex = 450;
+        map.createPane('borderPane'); map.getPane('borderPane').style.zIndex = 500;
+        map.createPane('highlightPane'); map.getPane('highlightPane').style.zIndex = 600;
+
+        let layers = { province: null, district: null, ward: null, border: null };
+        let viewMode = 'province';
+        let selectedFeature = null;
+
+        const styles = {
+            province: f => ({ fillColor: getColor(f.properties.Name || f.properties.NAME_1), weight: 0, fillOpacity: 0.6, color: 'transparent' }),
+            border: { fill: false, color: '#ecf0f1', weight: 2, interactive: false, opacity: 1 },
+            district: { fillColor: 'transparent', weight: 1, color: '#2980b9', fillOpacity: 0, opacity: 0.8 },
+            ward: { fillColor: 'transparent', weight: 0.5, color: '#555', fillOpacity: 0.1, opacity: 0.6 },
+            high: { weight: 4, color: '#e74c3c', fillOpacity: 0.4, opacity: 1 }
+        };
+
+        function getColor(name) {
+            if (!name) return '#ccc';
+            let hash = 0;
+            for (let i = 0; i < name.length; i++) hash = name.charCodeAt(i) + ((hash << 5) - hash);
+            const c = (hash & 0x00FFFFFF).toString(16).toUpperCase();
+            return '#' + '00000'.substring(0, 6 - c.length) + c;
+        }
+
+        function normalizeFileName(str) {
+            let name = str.replace(/^(Tỉnh|Thành phố)\s+/i, ""); 
+            return name.normalize("NFD")
+                       .replace(/[\u0300-\u036f]/g, "")
+                       .replace(/đ/g, "d").replace(/Đ/g, "D")
+                       .replace(/[^a-zA-Z0-9]/g, '') 
+                       + '.json';
+        }
+
+        async function updateMap() {
+            if (AVAILABLE_YEARS.length === 0) return;
+            const year = AVAILABLE_YEARS[document.getElementById('timeline').value];
+            document.getElementById('yearValue').innerText = year;
+            updateUIControls(year);
+            document.getElementById('loading').style.display = 'flex';
+
+            if (layers.province) map.removeLayer(layers.province);
+            if (layers.border) map.removeLayer(layers.border);
+            if (layers.district) map.removeLayer(layers.district);
+            if (layers.ward) map.removeLayer(layers.ward);
+
+            try {
+                const pEntry = DATA_SOURCES.province.find(x => x.year === year);
+                if (pEntry) {
+                    const data = await (await fetch(`/api/map/${pEntry.file}`)).json();
+                    layers.province = L.geoJSON(data, {
+                        style: styles.province, pane: 'provincePane',
+                        onEachFeature: (f, l) => l.on('click', e => onFeatureClick(e, f, l, 'province'))
+                    }).addTo(map);
+                    layers.border = L.geoJSON(data, { style: styles.border, pane: 'borderPane' }).addTo(map);
+                }
+
+                if (viewMode === 'district') {
+                    const dEntry = DATA_SOURCES.district.find(x => x.year === year);
+                    if (dEntry) {
+                        const data = await (await fetch(`/api/map/${dEntry.file}`)).json();
+                        layers.district = L.geoJSON(data, {
+                            style: styles.district, pane: 'districtPane',
+                            onEachFeature: (f, l) => l.on('click', e => onFeatureClick(e, f, l, 'district'))
+                        }).addTo(map);
+                    }
+                } else if (viewMode === 'ward') {
+                    if (year < 2025) {
+                        const dEntry = DATA_SOURCES.district.find(x => x.year === year);
+                        if (dEntry) {
+                            const dData = await (await fetch(`/api/map/${dEntry.file}`)).json();
+                            layers.district = L.geoJSON(dData, { style: {...styles.district, interactive:false}, pane: 'districtPane' }).addTo(map);
+                        }
+                    }
+                    const wEntry = DATA_SOURCES.ward.find(x => x.year === year);
+                    if (wEntry) {
+                        const data = await (await fetch(`/api/map/${wEntry.file}`)).json();
+                        layers.ward = L.geoJSON(data, {
+                            style: styles.ward, pane: 'wardPane',
+                            onEachFeature: (f, l) => l.on('click', e => onFeatureClick(e, f, l, 'ward'))
+                        }).addTo(map);
+                    }
+                }
+                if (selectedFeature) resetHighlight();
+            } catch (err) { console.warn("Map Update Error:", err); } 
+            finally { document.getElementById('loading').style.display = 'none'; }
+        }
+
+        function onFeatureClick(e, feature, layer, type) {
+            L.DomEvent.stopPropagation(e);
+            if (selectedFeature && selectedFeature.layer === layer) {
+                resetHighlight();
+            } else {
+                resetHighlight();
+                layer.setStyle(styles.high);
+                selectedFeature = { layer: layer, feat: feature, type: type };
+                updateInfoBox(feature.properties);
+                document.getElementById('btnShowHistory').disabled = false;
+            }
+        }
+
+        function resetHighlight() {
+            if (selectedFeature) {
+                const { layer, feat, type } = selectedFeature;
+                if (type === 'province') layer.setStyle(styles.province(feat));
+                else layer.setStyle(styles[type]);
+            }
+            selectedFeature = null;
+            document.getElementById('infoContent').innerHTML = '<div style="color: #95a5a6; font-style: italic;">Chọn một điểm trên bản đồ...</div>';
+            document.getElementById('btnShowHistory').disabled = true;
+        }
+
+        function updateInfoBox(props) {
+            let html = '';
+            const pName = props.Name || props.NAME_1 || "N/A";
+            const dName = props.NAME_2;
+            const wName = props.NAME_3;
+            const currentYear = AVAILABLE_YEARS[document.getElementById('timeline').value];
+
+            html += `<div class="info-row"><span class="info-label">Tỉnh:</span> <span class="info-value">${pName}</span></div>`;
+            if (currentYear >= 2025) {
+                if (wName) html += `<div class="info-row"><span class="info-label">Xã:</span> <span class="info-value">${wName}</span></div>`;
+            } else {
+                if (dName) html += `<div class="info-row"><span class="info-label">Huyện:</span> <span class="info-value">${dName}</span></div>`;
+                if (wName) html += `<div class="info-row"><span class="info-label">Xã:</span> <span class="info-value">${wName}</span></div>`;
+            }
+            document.getElementById('infoContent').innerHTML = html;
+        }
+
+        function updateUIControls(year) {
+            const lblDist = document.getElementById('lblDistrict');
+            const inpDist = lblDist.querySelector('input');
+            
+            if (year >= 2025) {
+                lblDist.classList.add('disabled');
+                inpDist.disabled = true;
+                if (viewMode === 'district') {
+                    viewMode = 'province';
+                    document.querySelector('input[value="province"]').checked = true;
+                    document.getElementById('lblProvince').classList.add('active');
+                }
+            } else {
+                lblDist.classList.remove('disabled');
+                inpDist.disabled = false;
+            }
+            document.querySelectorAll('.radio-wrapper').forEach(el => el.classList.remove('active'));
+            document.querySelector(`input[value="${viewMode}"]`).parentElement.classList.add('active');
+        }
+
+        function toggleHistorySlide(show) {
+            const panel = document.getElementById('historySlidePanel');
+            show ? panel.classList.add('active') : panel.classList.remove('active');
+        }
+
+        // --- FETCH & DISPLAY DETAIL LOGIC ---
+        document.getElementById('btnShowHistory').addEventListener('click', async () => {
+            if (!selectedFeature) return;
+            toggleHistorySlide(true);
+            const contentDiv = document.getElementById('sidePanelContent');
+            contentDiv.innerHTML = '<div style="text-align:center; margin-top:30px;"><i class="fas fa-spinner fa-spin"></i> Đang tải thông tin chi tiết...</div>';
+            
+            const props = selectedFeature.feat.properties;
+            const provName = props.NAME_1 || props.Name; 
+            
+            if (!provName) {
+                contentDiv.innerHTML = "<p>Không xác định được tên tỉnh.</p>";
+                return;
+            }
+
+            // Get current year to check for merger logic
+            const currentYear = AVAILABLE_YEARS[document.getElementById('timeline').value];
+            
+            // Get constituent provinces if in 2025+
+            const sourceProvinces = getConstituentProvinces(provName, currentYear);
+            
+            let htmlContent = `<h2 style="color:var(--primary-color); border-bottom:1px solid #eee; padding-bottom:10px;">${provName}</h2>`;
+            
+            // Show note if it's a merged province
+            if (sourceProvinces.length > 1) {
+                htmlContent += `<div style="font-size: 0.9rem; color: #555; margin-bottom: 10px;">
+                    <i class="fas fa-layer-group"></i> <strong>Sáp nhập từ:</strong> ${sourceProvinces.join(', ')}
+                </div>`;
+            }
+
+            htmlContent += `<div style="font-size: 0.8rem; background: #fff3e0; padding: 8px; border-radius: 4px; color: #e65100; margin-bottom: 15px; border: 1px solid #ffe0b2;">
+                <i class="fas fa-info-circle"></i> <em>Lưu ý: Địa chỉ sự kiện và địa danh dưới đây áp dụng theo địa giới hành chính trước ngày 01/07/2025.</em>
+            </div>`;
+
+            let aggregatedEvents = [];
+            let aggregatedSites = [];
+            let hasData = false;
+
+            // Loop through all source provinces and fetch data
+            for (const sourceProv of sourceProvinces) {
+                const fileName = normalizeFileName(sourceProv);
+                
+                try {
+                    // Fetch History
+                    const historyRes = await fetch(`/api/history/${fileName}`);
+                    if (historyRes.ok) {
+                        const hData = await historyRes.json();
+                        if (hData.events && hData.events.length > 0) {
+                            // Add source info if merged
+                            const events = hData.events.map(ev => ({...ev, sourceProv: sourceProv}));
+                            aggregatedEvents = aggregatedEvents.concat(events);
+                            hasData = true;
+                        }
+                    }
+
+                    // Fetch Geo
+                    const geoRes = await fetch(`/api/geodata/${fileName}`);
+                    if (geoRes.ok) {
+                        const gData = await geoRes.json();
+                        if (gData.sites && gData.sites.length > 0) {
+                            const sites = gData.sites.map(s => ({...s, sourceProv: sourceProv}));
+                            aggregatedSites = aggregatedSites.concat(sites);
+                            hasData = true;
+                        }
+                    }
+                } catch (e) { 
+                    console.error(`Fetch Error for ${sourceProv}:`, e); 
+                }
+            }
+
+            // RENDER EVENTS
+            if (aggregatedEvents.length > 0) {
+                // Sort by year
+                aggregatedEvents.sort((a, b) => (a.year || 0) - (b.year || 0));
+                
+                htmlContent += `<div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div>`;
+                aggregatedEvents.forEach(ev => {
+                    const desc = ev.desc || ev.description || ev.content || "";
+                    let timeDisplay = ev.date || ev.time || ev.year || "Không rõ thời gian";
+                    
+                    let locDisplay = "";
+                    if (ev.location) {
+                        if (typeof ev.location === 'string') locDisplay = ev.location;
+                        else if (typeof ev.location === 'object') {
+                            const parts = [];
+                            if (ev.location.commune) parts.push(ev.location.commune);
+                            if (ev.location.district) parts.push(ev.location.district);
+                            locDisplay = parts.join(", ");
+                        }
+                    }
+
+                    // Source badge if multiple provinces
+                    const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge">${ev.sourceProv}</span>` : '';
+
+                    htmlContent += `
+                    <div class="event-item">
+                        <div class="event-year">${timeDisplay} ${sourceBadge}</div>
+                        <div class="event-title">${ev.title}</div>
+                        ${locDisplay ? `<div class="event-loc"><i class="fas fa-map-marker-alt"></i> ${locDisplay}</div>` : ''}
+                        ${desc ? `<div class="event-desc">${desc}</div>` : ''}
+                    </div>`;
+                });
+            }
+
+            // RENDER SITES
+            if (aggregatedSites.length > 0) {
+                htmlContent += `<div class="section-header"><i class="fas fa-landmark"></i> Địa danh & Di tích</div>`;
+                aggregatedSites.forEach(site => {
+                    let typeDisplay = site.type_of_place;
+                    if(typeDisplay && typeDisplay.toLowerCase() === 'natural') typeDisplay = "Thiên nhiên";
+                    else if(typeDisplay && typeDisplay.toLowerCase() === 'historical') typeDisplay = "Lịch sử";
+
+                    let descHtml = '';
+                    if (site.event && site.event !== 'null') {
+                        descHtml = `<div class="site-desc">${site.event}</div>`;
+                    }
+
+                    const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge" style="float:right; margin-top: -2px;">${site.sourceProv}</span>` : '';
+
+                    htmlContent += `
+                    <div class="site-item">
+                        <div class="site-name">${site.name} ${sourceBadge}</div>
+                        <div class="site-type">${typeDisplay}</div>
+                        ${descHtml}
+                        <div class="site-loc"><i class="fas fa-map-pin"></i> ${site.place.commune}, ${site.place.district}</div>
+                    </div>`;
+                });
+            }
+
+            if (!hasData) htmlContent += `<p style="margin-top:20px; font-style:italic; color:#777;">Chưa có dữ liệu chi tiết cho địa phương này.</p>`;
+            contentDiv.innerHTML = htmlContent;
+        });
+
+        // Events
+        const tlInput = document.getElementById('timeline');
+        tlInput.addEventListener('input', function() { document.getElementById('yearValue').innerText = AVAILABLE_YEARS[this.value]; });
+        tlInput.addEventListener('change', updateMap);
+
+        document.querySelectorAll('input[name="viewMode"]').forEach(radio => {
+            radio.addEventListener('change', function() { if (this.checked) { viewMode = this.value; updateMap(); } });
+        });
+
+        function switchMainTab(tabName) {
+            document.querySelectorAll('.tab-pane').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            if (tabName === 'map') { document.getElementById('tabMap').classList.add('active'); map.invalidateSize(); } 
+            else if (tabName === 'merger') { document.getElementById('tabMerger').classList.add('active'); } 
+            else if (tabName === 'chat') { document.getElementById('tabChat').classList.add('active'); }
+            document.querySelector(`.nav-item[onclick="switchMainTab('${tabName}')"]`).classList.add('active');
+        }
+
+        async function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const msg = input.value.trim();
+            if (!msg) return;
+            const messagesDiv = document.getElementById('chatMessages');
+            messagesDiv.innerHTML += `<div class="message user">${msg}</div>`;
+            input.value = '';
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            try {
+                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ message: msg, session_id: sessionId }) });
+                const data = await res.json();
+                messagesDiv.innerHTML += `<div class="message ai">${marked.parse(data.response)}</div>`;
+            } catch (e) { messagesDiv.innerHTML += `<div class="message ai" style="color:red;">Lỗi kết nối.</div>`; }
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        async function resetChat() {
+            if (!confirm("Xóa lịch sử?")) return;
+            try {
+                sessionId = crypto.randomUUID(); localStorage.setItem('chat_session_id', sessionId);
+                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ session_id: sessionId, reset: true }) });
+                const data = await res.json();
+                document.getElementById('chatMessages').innerHTML = `<div class="message ai">${data.response}</div>`;
+            } catch (e) { alert("Lỗi."); }
+        }
+
+        initApp();
+    </script>
+</body>
+</html>
