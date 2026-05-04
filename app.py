@@ -37,60 +37,59 @@ chat_sessions = {}
 
 # --- CACHE DỮ LIỆU SÁP NHẬP ĐỂ CUNG CẤP CHO AI ---
 MERGER_CONTEXT_CACHE = ""
+# --- CACHE DỮ LIỆU DICT ĐỂ TÌM KIẾM ---
+MERGE_DICT_CACHE = None
 
-def load_merger_context():
-    """Tải và format dữ liệu sáp nhập để đưa vào System Prompt của AI"""
-    global MERGER_CONTEXT_CACHE
-    if MERGER_CONTEXT_CACHE:
-        return MERGER_CONTEXT_CACHE
+def get_merge_dict():
+    """Tải và cache dữ liệu sáp nhập dưới dạng Dictionary để dễ tìm kiếm"""
+    global MERGE_DICT_CACHE
+    if MERGE_DICT_CACHE is not None:
+        return MERGE_DICT_CACHE
+        
+    MERGE_DICT_CACHE = load_all_commune_merger_data() # Gọi lại hàm đọc JSON của bạn
+    return MERGE_DICT_CACHE
 
-    context = "DỮ LIỆU THAM KHẢO VỀ SÁP NHẬP ĐỊA GIỚI HÀNH CHÍNH (Áp dụng từ 1/7/2025):\n\n"
+def extract_relevant_context(user_message):
+    """Lọc các thông tin sáp nhập khớp với từ khóa trong câu hỏi"""
+    merge_data = get_merge_dict()
+    if not merge_data:
+        return ""
 
-    # 1. Thông tin sáp nhập Tỉnh (từ timeline_index.json)
-    timeline_path = os.path.join(HISTORY_DATA_FOLDER, 'timeline_index.json')
-    if os.path.exists(timeline_path):
-        try:
-            with open(timeline_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                # Tìm mục năm 2025
-                merger_2025 = next((item for item in data if item.get('year') == 2025), None)
-                if merger_2025 and 'changes' in merger_2025:
-                    context += "1. Sáp nhập cấp Tỉnh:\n"
-                    for change in merger_2025['changes']:
-                        # change có dạng {from: [...], to: [...]}
-                        if isinstance(change, dict) and 'from' in change and 'to' in change:
-                            src = ", ".join(change['from'])
-                            dst = ", ".join(change['to'])
-                            context += f"   - Các tỉnh cũ [{src}] đã sáp nhập thành [{dst}]\n"
-                    context += "\n"
-        except Exception as e:
-            print(f"Lỗi đọc timeline_index.json: {e}")
+    relevant_context = ""
+    user_msg_lower = user_message.lower()
 
-    # 2. Thông tin sáp nhập Xã (từ folder MergeData)
-    context += "2. Sáp nhập cấp Xã (Chi tiết):\n"
-    if os.path.exists(MERGE_DATA_FOLDER):
-        for filename in os.listdir(MERGE_DATA_FOLDER):
-            if filename.endswith('.json'):
-                file_path = os.path.join(MERGE_DATA_FOLDER, filename)
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        prov_data = json.load(f)
-                        # prov_data thường có key là tên tỉnh, value là list thay đổi
-                        for province, changes in prov_data.items():
-                            context += f"   * Tỉnh {province}:\n"
-                            for change in changes:
-                                # change có dạng {from: [{commune, district...}], to: {commune...}}
-                                src_names = []
-                                if isinstance(change.get('from'), list):
-                                    src_names = [f"{item.get('commune', '')} ({item.get('district', '')})" for item in change['from']]
-                                
-                                dst_name = change.get('to', {}).get('commune', 'Mới')
-                                context += f"      - [{', '.join(src_names)}] -> Thành [{dst_name}]\n"
-                except Exception as e:
-                    print(f"Lỗi đọc file {filename}: {e}")
+    for province, changes in merge_data.items():
+        prov_context = ""
+        # Nếu người dùng nhắc đến tên tỉnh
+        province_in_query = province.lower() in user_msg_lower
+        
+        for change in changes:
+            is_relevant = province_in_query
+            src_names = []
+            
+            if isinstance(change.get('from'), list):
+                for item in change['from']:
+                    commune = item.get('commune', '')
+                    district = item.get('district', '')
+                    src_names.append(f"{commune} ({district})")
+                    
+                    # Kiểm tra xem tên xã/huyện cũ có nằm trong câu hỏi không
+                    if commune.lower() in user_msg_lower or district.lower() in user_msg_lower:
+                        is_relevant = True
+
+            dst_name = change.get('to', {}).get('commune', 'Mới')
+            # Kiểm tra xem tên xã mới có nằm trong câu hỏi không
+            if dst_name.lower() in user_msg_lower:
+                is_relevant = True
+
+            if is_relevant:
+                prov_context += f"      - [{', '.join(src_names)}] -> Thành [{dst_name}]\n"
+        
+        # Nếu có dữ liệu liên quan của tỉnh này, thêm vào context
+        if prov_context:
+            relevant_context += f"   * Tỉnh {province}:\n{prov_context}"
     
-    MERGER_CONTEXT_CACHE = context
-    return context
+    return relevant_context 
 
 def scan_map_files():
     """Quét thư mục Mapdata để tìm file theo năm."""
@@ -195,48 +194,46 @@ def chat():
     
     if not session_id: return jsonify({"error": "Missing session_id"}), 400
 
-    # Kiểm tra xem client Gemini đã được khởi tạo chưa
     if not gemini_client:
-        print(f"Lỗi: Google API Key chưa được cấu hình trên server.")
         return jsonify({"response": "Lỗi từ nhà phát triển, vui lòng thử lại vào lần dùng sau."}), 500
 
     try:
+        # 1. KHỞI TẠO SESSION VỚI SYSTEM PROMPT RẤT NGẮN GỌN (Tiết kiệm token đầu vào)
         if reset or session_id not in chat_sessions:
-            # Tải ngữ cảnh sáp nhập để đưa vào system prompt
-            merger_context = load_merger_context()
-            
-            system_prompt = f"""Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
-            
-            QUY TẮC TRẢ LỜI QUAN TRỌNG:
-            1. Trả lời rõ ràng, chính xác các câu hỏi.
-            2. XỬ LÝ CÂU HỎI VỀ ĐỊA ĐIỂM CŨ (TRƯỚC 1/7/2025):
-               - Nếu người dùng hỏi về địa điểm vào thời gian trước 1/7/2025.
-               - Hãy trả lời theo cấu trúc: "Vào năm [Năm], địa điểm là [Thông tin lịch sử/địa lý của bạn]..."
-               - Sau đó, TRA CỨU DỮ LIỆU SÁP NHẬP DƯỚI ĐÂY. Nếu tìm thấy địa danh đó đã bị thay đổi/sáp nhập, hãy nói tiếp: "Nơi đó hiện nay là [Tên địa danh mới]..."
-               - Nếu không có trong danh sách thay đổi, không cần bịa thêm thông tin.
-
-            DƯỚI ĐÂY LÀ DỮ LIỆU SÁP NHẬP 2025 ĐỂ BẠN THAM KHẢO:
-            {merger_context}
-            """
+            system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
+            QUY TẮC:
+            - Trả lời rõ ràng, chính xác.
+            - Nếu người dùng hỏi về địa danh trước 1/7/2025, hãy trả lời về lịch sử của nó. 
+            - Nếu hệ thống cung cấp [DỮ LIỆU SÁP NHẬP LIÊN QUAN], hãy cập nhật thêm cho người dùng là "Nơi đó hiện nay là [Tên địa danh mới]".
+            - Nếu hệ thống không cung cấp thông tin sáp nhập cho địa danh đó, hãy trả lời bình thường và không bịa thêm."""
             
             history = [
                 {"role": "user", "parts": [{"text": system_prompt}]},
-                {"role": "model", "parts": [{"text": "Tôi đã hiểu quy tắc. Tôi sẽ đối chiếu địa danh cũ với dữ liệu sáp nhập 2025 khi trả lời."}]}
+                {"role": "model", "parts": [{"text": "Tôi đã hiểu quy tắc. Tôi đã sẵn sàng."}]}
             ]
             
-            # Tạo session chat với model mới (gemini-2.5-flash hoặc gemini-1.5-flash)
             chat_sessions[session_id] = gemini_client.chats.create(model='gemini-2.5-flash', history=history)
             
             if reset: return jsonify({"response": "Đã bắt đầu cuộc trò chuyện mới."})
 
         if not user_message: return jsonify({"response": "..."})
 
-        response = chat_sessions[session_id].send_message(user_message)
+        # 2. LỌC DỮ LIỆU ĐỘNG DỰA TRÊN CÂU HỎI
+        dynamic_context = extract_relevant_context(user_message)
+        
+        # 3. GẮN DỮ LIỆU VÀO CÂU HỎI NẾU CÓ TÌM THẤY
+        final_message = user_message
+        if dynamic_context:
+            final_message += f"\n\n[DỮ LIỆU SÁP NHẬP LIÊN QUAN TỪ HỆ THỐNG ĐỂ BẠN THAM KHẢO TRẢ LỜI]:\n{dynamic_context}"
+
+        # Gửi tin nhắn đã được "bơm" thêm context cho AI
+        response = chat_sessions[session_id].send_message(final_message)
         return jsonify({"response": response.text})
+        
     except Exception as e:
         print(f"Chat Error: {e}")
         if session_id in chat_sessions: del chat_sessions[session_id]
         return jsonify({"response": f"Lỗi! Vui lòng thử lại sau vài phút"})
-
+    
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5050) 
