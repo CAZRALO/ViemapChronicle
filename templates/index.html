@@ -316,6 +316,9 @@
             <div class="nav-item" onclick="switchMainTab('chat')">
                 <i class="fas fa-robot" style="margin-right:8px"></i> Chatbot AI
             </div>
+            <div class="nav-item" onclick="switchMainTab('memory')">
+                <i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Ghi nhớ bản đồ
+            </div>
         </div>
     </div>
 
@@ -398,6 +401,15 @@
             <div class="chat-input-area">
                 <input type="text" id="chatInput" class="chat-input" placeholder="Nhập câu hỏi của bạn (VD: Lịch sử tỉnh Quảng Nam?)..." onkeypress="if(event.key==='Enter') sendMessage()">
                 <button class="btn-send" onclick="sendMessage()"><i class="fas fa-paper-plane"></i> Gửi</button>
+            </div>
+        </div>
+
+        <!-- TAB 4: MINIGAME -->
+         <div id="tabMemory" class="tab-pane">
+            <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%; color: #666; background-color: var(--bg-color);">
+                <i class="fas fa-tools" style="font-size: 4rem; color: var(--secondary-color); margin-bottom: 20px;"></i>
+                <h2 style="color: var(--primary-color);">Tính năng đang được phát triển</h2>
+                <p>Tính năng Ghi nhớ bản đồ sẽ sớm được ra mắt trong bản cập nhật tới!</p>
             </div>
         </div>
 
@@ -949,6 +961,7 @@
             if (tabName === 'map') { document.getElementById('tabMap').classList.add('active'); map.invalidateSize(); } 
             else if (tabName === 'merger') { document.getElementById('tabMerger').classList.add('active'); } 
             else if (tabName === 'chat') { document.getElementById('tabChat').classList.add('active'); }
+            else if (tabName === 'memory') { document.getElementById('tabMemory').classList.add('active'); }
             document.querySelector(`.nav-item[onclick="switchMainTab('${tabName}')"]`).classList.add('active');
         }
 
