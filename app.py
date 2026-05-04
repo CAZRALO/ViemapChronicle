@@ -40,6 +40,24 @@ MERGER_CONTEXT_CACHE = ""
 # --- CACHE DỮ LIỆU DICT ĐỂ TÌM KIẾM ---
 MERGE_DICT_CACHE = None
 
+def load_all_commune_merger_data():
+    """Đọc và gộp tất cả file json trong HistoryData/MergeData"""
+    combined_data = {}
+    if not os.path.exists(MERGE_DATA_FOLDER):
+        return combined_data
+
+    for filename in os.listdir(MERGE_DATA_FOLDER):
+        if filename.endswith('.json'):
+            file_path = os.path.join(MERGE_DATA_FOLDER, filename)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if isinstance(data, dict):
+                        combined_data.update(data)
+            except Exception as e:
+                print(f"Lỗi đọc file merger {filename}: {e}")
+    return combined_data
+
 def get_merge_dict():
     """Tải và cache dữ liệu sáp nhập dưới dạng Dictionary để dễ tìm kiếm"""
     global MERGE_DICT_CACHE
@@ -49,47 +67,79 @@ def get_merge_dict():
     MERGE_DICT_CACHE = load_all_commune_merger_data() # Gọi lại hàm đọc JSON của bạn
     return MERGE_DICT_CACHE
 
-def extract_relevant_context(user_message):
-    """Lọc các thông tin sáp nhập khớp với từ khóa trong câu hỏi"""
+def clean_prefix(name):
+    """Loại bỏ tiền tố hành chính để lấy tên lõi (Ví dụ: 'Thị xã Hoài Nhơn' -> 'hoài nhơn')"""
+    if not name: return ""
+    name = str(name).lower().strip()
+    prefixes = ["thành phố ", "tỉnh ", "thị xã ", "huyện ", "quận ", "thị trấn ", "phường ", "xã "]
+    for p in prefixes:
+        if name.startswith(p):
+            return name[len(p):].strip()
+    return name
+
+def is_exact_match(keyword, text):
+    """Tìm kiếm từ khóa nguyên vẹn, chống nhận diện nhầm chuỗi con (VD: 'an' trong 'bàn')"""
+    if not keyword: return False
+    # Chuyển dấu câu thành khoảng trắng để so sánh chữ độc lập
+    text_clean = re.sub(r'[^\w\s]', ' ', text)
+    return f" {keyword} " in f" {text_clean} "
+
+def extract_relevant_context(user_message, session_history_text=""):
+    """Lọc thông tin: Nếu tìm thấy địa danh, gửi TOÀN BỘ dữ liệu của Tỉnh chứa địa danh đó"""
     merge_data = get_merge_dict()
     if not merge_data:
         return ""
 
     relevant_context = ""
-    user_msg_lower = user_message.lower()
+    search_text = (session_history_text + " " + user_message).lower()
 
     for province, changes in merge_data.items():
-        prov_context = ""
-        # Nếu người dùng nhắc đến tên tỉnh
-        province_in_query = province.lower() in user_msg_lower
+        province_core = clean_prefix(province)
+        include_whole_province = False
         
-        for change in changes:
-            is_relevant = province_in_query
-            src_names = []
-            
-            if isinstance(change.get('from'), list):
-                for item in change['from']:
-                    commune = item.get('commune', '')
-                    district = item.get('district', '')
-                    src_names.append(f"{commune} ({district})")
+        # 1. Kiểm tra xem tên Tỉnh có nằm trong câu hỏi không
+        if is_exact_match(province_core, search_text):
+            include_whole_province = True
+        
+        # 2. Nếu không thấy tên Tỉnh, quét sâu vào tên các Xã/Huyện bên trong
+        if not include_whole_province:
+            for change in changes:
+                # Kiểm tra danh sách địa danh cũ (from)
+                if isinstance(change.get('from'), list):
+                    for item in change['from']:
+                        c_core = clean_prefix(item.get('commune', ''))
+                        d_core = clean_prefix(item.get('district', ''))
+                        
+                        # Chạm trúng bất kỳ xã/huyện nào là kích hoạt cờ lấy cả Tỉnh
+                        if is_exact_match(c_core, search_text) or is_exact_match(d_core, search_text):
+                            include_whole_province = True
+                            break 
+                
+                # Kiểm tra địa danh mới (to)
+                dst_core = clean_prefix(change.get('to', {}).get('commune', ''))
+                if is_exact_match(dst_core, search_text):
+                    include_whole_province = True
                     
-                    # Kiểm tra xem tên xã/huyện cũ có nằm trong câu hỏi không
-                    if commune.lower() in user_msg_lower or district.lower() in user_msg_lower:
-                        is_relevant = True
-
-            dst_name = change.get('to', {}).get('commune', 'Mới')
-            # Kiểm tra xem tên xã mới có nằm trong câu hỏi không
-            if dst_name.lower() in user_msg_lower:
-                is_relevant = True
-
-            if is_relevant:
+                if include_whole_province:
+                    break # Tìm thấy 1 điểm chung là đủ, thoát vòng lặp changes của Tỉnh này
+                    
+        # 3. NẾU CÓ ĐIỂM CHẠM, GỬI TOÀN BỘ THAY ĐỔI CỦA TỈNH NÀY CHO AI
+        if include_whole_province:
+            prov_context = ""
+            for change in changes:
+                src_names = []
+                if isinstance(change.get('from'), list):
+                    for item in change['from']:
+                        commune = item.get('commune', '')
+                        district = item.get('district', '')
+                        src_names.append(f"{commune} ({district})")
+                
+                dst_name = change.get('to', {}).get('commune', 'Mới')
                 prov_context += f"      - [{', '.join(src_names)}] -> Thành [{dst_name}]\n"
-        
-        # Nếu có dữ liệu liên quan của tỉnh này, thêm vào context
-        if prov_context:
-            relevant_context += f"   * Tỉnh {province}:\n{prov_context}"
+            
+            relevant_context += f"   * Tỉnh {province}:\n{prov_context}\n"
     
-    return relevant_context 
+    return relevant_context
 
 def scan_map_files():
     """Quét thư mục Mapdata để tìm file theo năm."""
@@ -135,24 +185,6 @@ def scan_map_files():
 
     config['years'] = sorted(list(config['years']))
     return config
-
-def load_all_commune_merger_data():
-    """Đọc và gộp tất cả file json trong HistoryData/MergeData"""
-    combined_data = {}
-    if not os.path.exists(MERGE_DATA_FOLDER):
-        return combined_data
-
-    for filename in os.listdir(MERGE_DATA_FOLDER):
-        if filename.endswith('.json'):
-            file_path = os.path.join(MERGE_DATA_FOLDER, filename)
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if isinstance(data, dict):
-                        combined_data.update(data)
-            except Exception as e:
-                print(f"Lỗi đọc file merger {filename}: {e}")
-    return combined_data
 
 # --- ROUTES ---
 
@@ -211,7 +243,7 @@ def chat():
                 {"role": "user", "parts": [{"text": system_prompt}]},
                 {"role": "model", "parts": [{"text": "Tôi đã hiểu quy tắc. Tôi đã sẵn sàng."}]}
             ]
-            
+
             chat_sessions[session_id] = gemini_client.chats.create(model='gemini-2.5-flash', history=history)
             
             if reset: return jsonify({"response": "Đã bắt đầu cuộc trò chuyện mới."})
