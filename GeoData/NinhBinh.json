@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Cố đô Hoa Lư",
+    "type_of_place": "historical",
+    "event": "Kinh đô đầu tiên của nhà nước phong kiến trung ương tập quyền Việt Nam (thế kỷ X), gắn với hai triều đại Đinh và Tiền Lê.",
+    "place": {
+      "hamlet": "Thôn Yên Thành",
+      "commune": "Xã Trường Yên",
+      "district": "Huyện Hoa Lư",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Quần thể danh thắng Tràng An",
+    "type_of_place": "natural",
+    "event": "Di sản Văn hóa và Thiên nhiên thế giới (Di sản kép) duy nhất tại Đông Nam Á, phim trường của bom tấn 'Kong: Skull Island'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Trường Yên, Xã Ninh Xuân, Xã Gia Sinh...",
+      "district": "Huyện Hoa Lư, Huyện Gia Viễn, TP. Ninh Bình",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Tam Cốc - Bích Động",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Nam thiên đệ nhị động' và 'Vịnh Hạ Long trên cạn', nổi tiếng với mùa lúa chín vàng dọc dòng sông Ngô Đồng.",
+    "place": {
+      "hamlet": "Thôn Văn Lâm",
+      "commune": "Xã Ninh Hải",
+      "district": "Huyện Hoa Lư",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Chùa Bái Đính",
+    "type_of_place": "historical",
+    "event": "Quần thể chùa lớn nhất Đông Nam Á, nơi lưu giữ nhiều kỷ lục Việt Nam và Châu Á (tượng Phật bằng đồng lớn nhất, hành lang La Hán dài nhất...).",
+    "place": {
+      "hamlet": "Thôn Sinh Dược",
+      "commune": "Xã Gia Sinh",
+      "district": "Huyện Gia Viễn",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Nhà thờ đá Phát Diệm",
+    "type_of_place": "historical",
+    "event": "Quần thể kiến trúc Công giáo độc đáo được xây dựng hoàn toàn bằng đá và gỗ, kết hợp hài hòa giữa phong cách Gothic phương Tây và đình chùa phương Đông.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phát Diệm",
+      "district": "Huyện Kim Sơn",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Cúc Phương",
+    "type_of_place": "natural",
+    "event": "Vườn quốc gia đầu tiên của Việt Nam (thành lập năm 1962), nổi tiếng với mùa bướm và cây Chò ngàn năm tuổi.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Cúc Phương",
+      "district": "Huyện Nho Quan",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Hang Múa",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Vạn Lý Trường Thành thu nhỏ', nơi vua Trần xưa kia thường ghé tới nghe các cung tần mỹ nữ đàn ca múa hát.",
+    "place": {
+      "hamlet": "Thôn Khê Đầu Hạ",
+      "commune": "Xã Ninh Xuân",
+      "district": "Huyện Hoa Lư",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Khu bảo tồn thiên nhiên Vân Long",
+    "type_of_place": "natural",
+    "event": "Khu bảo tồn đất ngập nước lớn nhất vùng đồng bằng Bắc Bộ, nơi cư trú của loài Voọc mông trắng quý hiếm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Gia Vân (và các xã lân cận)",
+      "district": "Huyện Gia Viễn",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Động Am Tiên (Tuyệt Tình Cốc)",
+    "type_of_place": "historical",
+    "event": "Nơi Thái hậu Dương Vân Nga tu hành những năm cuối đời và từng là pháp trường xử án thời vua Đinh Tiên Hoàng (Ao Giải, Hang Muối).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Trường Yên",
+      "district": "Huyện Hoa Lư",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Vườn chim Thung Nham",
+    "type_of_place": "natural",
+    "event": "Khu du lịch sinh thái nổi tiếng với vườn chim tự nhiên lớn, nơi hàng ngàn cánh cò bay về tổ lúc hoàng hôn.",
+    "place": {
+      "hamlet": "Thôn Hải Nham",
+      "commune": "Xã Ninh Hải",
+      "district": "Huyện Hoa Lư",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Đền Thái Vi",
+    "type_of_place": "historical",
+    "event": "Nơi thờ các vua Trần (Trần Thái Tông, Trần Thánh Tông, Trần Nhân Tông, Trần Anh Tông) và các tướng lĩnh nhà Trần.",
+    "place": {
+      "hamlet": "Thôn Văn Lâm",
+      "commune": "Xã Ninh Hải",
+      "district": "Huyện Hoa Lư",
+      "province": "Ninh Bình"
+    }
+  },
+  {
+    "name": "Kênh Gà - Vân Trình",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với suối khoáng nóng Kênh Gà và động Vân Trình đẹp lung linh.",
+    "place": {
+      "hamlet": "Thôn Kênh Gà",
+      "commune": "Xã Gia Thịnh",
+      "district": "Huyện Gia Viễn",
+      "province": "Ninh Bình"
+    }
+  }
+]
+}

@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Phố Hiến",
+    "type_of_place": "historical",
+    "event": "Thương cảng sầm uất bậc nhất thế kỷ 16-17, nổi tiếng với câu ca 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các phường Hồng Châu, Lam Sơn, Quảng Trung...",
+      "district": "Thành phố Hưng Yên",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Đền Đa Hòa (Đền Chử Đồng Tử)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Đức thánh Chử Đồng Tử (một trong Tứ bất tử của tín ngưỡng Việt Nam) và nhị vị phu nhân, gắn với truyền thuyết tình yêu Tiên Dung - Chử Đồng Tử.",
+    "place": {
+      "hamlet": "Thôn Đa Hòa",
+      "commune": "Xã Bình Minh",
+      "district": "Huyện Khoái Châu",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Đền Dạ Trạch (Đền Hóa)",
+    "type_of_place": "historical",
+    "event": "Nơi được cho là nền cũ của tòa thành trạch (Đầm Nhất Dạ) nơi Chử Đồng Tử và Tiên Dung hóa về trời.",
+    "place": {
+      "hamlet": "Thôn Yên Vĩnh",
+      "commune": "Xã Dạ Trạch",
+      "district": "Huyện Khoái Châu",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Làng Nôm - Chùa Nôm",
+    "type_of_place": "historical",
+    "event": "Quần thể làng cổ Bắc Bộ được bảo tồn nguyên vẹn nhất với cây đa, giếng nước, sân đình và ngôi chùa cổ Linh Thông Cổ Tự.",
+    "place": {
+      "hamlet": "Thôn Nôm",
+      "commune": "Xã Đại Đồng",
+      "district": "Huyện Văn Lâm",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Văn miếu Xích Đằng",
+    "type_of_place": "historical",
+    "event": "Biểu tượng cho truyền thống hiếu học của vùng đất Phố Hiến xưa, nơi thờ Khổng Tử và các bậc hiền tài.",
+    "place": {
+      "hamlet": "Thôn Xích Đằng",
+      "commune": "Phường Lam Sơn",
+      "district": "Thành phố Hưng Yên",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Đền Mẫu (Hoa Dương Linh Từ)",
+    "type_of_place": "historical",
+    "event": "Ngôi đền linh thiêng bậc nhất Phố Hiến, thờ Dương Quý Phi, nổi tiếng với cây sanh cổ thụ hơn 700 năm tuổi.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Quang Trung",
+      "district": "Thành phố Hưng Yên",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Chùa Chuông (Kim Chung Tự)",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Phố Hiến đệ nhất danh lam', gắn liền với truyền thuyết quả chuông vàng trôi dạt vào bãi sông.",
+    "place": {
+      "hamlet": "Thôn Nhân Dục",
+      "commune": "Phường Hiến Nam",
+      "district": "Thành phố Hưng Yên",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Đền Phù Ủng",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Tướng quân Phạm Ngũ Lão, danh tướng đời Trần có công lớn trong các cuộc kháng chiến chống quân Nguyên Mông.",
+    "place": {
+      "hamlet": "Thôn Phù Ủng",
+      "commune": "Xã Phù Ủng",
+      "district": "Huyện Ân Thi",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Hồ Bán Nguyệt",
+    "type_of_place": "natural",
+    "event": "Hồ nước có hình trăng khuyết thơ mộng nằm ngay trung tâm Phố Hiến, từng là một đoạn của sông Hồng cũ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Quang Trung",
+      "district": "Thành phố Hưng Yên",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Đền Đậu An (An Xá)",
+    "type_of_place": "historical",
+    "event": "Ngôi đền cổ thờ Ngọc Hoàng Thượng Đế và các thiên thần, nổi tiếng với kiến trúc tháp đất nung và tòa tháp Cửu trùng.",
+    "place": {
+      "hamlet": "Thôn An Xá",
+      "commune": "Xã An Viên",
+      "district": "Huyện Tiên Lữ",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Đền Ủng (Đền Tống Trân)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Lưỡng quốc Trạng nguyên Tống Trân và vợ là Cúc Hoa, biểu tượng của sự hiếu học và lòng chung thủy.",
+    "place": {
+      "hamlet": "Thôn An Cầu",
+      "commune": "Xã Tống Trân",
+      "district": "Huyện Phù Cừ",
+      "province": "Hưng Yên"
+    }
+  },
+  {
+    "name": "Làng nghề Tương Bần",
+    "type_of_place": "historical",
+    "event": "Làng nghề truyền thống nổi tiếng với đặc sản Tương Bần ('Tương Bần, húng Láng...'), món ngon tiến vua ngày xưa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Bần Yên Nhân",
+      "district": "Thị xã Mỹ Hào",
+      "province": "Hưng Yên"
+    }
+  }
+]
+}

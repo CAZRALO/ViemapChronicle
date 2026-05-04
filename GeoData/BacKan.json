@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Hồ Ba Bể",
+    "type_of_place": "natural",
+    "event": "Một trong 20 hồ nước ngọt tự nhiên lớn nhất thế giới, được công nhận là Di tích quốc gia đặc biệt và Vườn di sản ASEAN.",
+    "place": {
+      "hamlet": "Thôn Pác Ngòi (và các thôn lân cận)",
+      "commune": "Xã Nam Mẫu",
+      "district": "Huyện Ba Bể",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Di tích lịch sử ATK Chợ Đồn",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa quan trọng của Trung ương Đảng và Bác Hồ trong cuộc kháng chiến chống thực dân Pháp (1947-1954).",
+    "place": {
+      "hamlet": "Bản Ca, Nà Pậu, Khuổi Linh...",
+      "commune": "Xã Bình Trung, Xã Nghĩa Tá, Thị trấn Bằng Lũng",
+      "district": "Huyện Chợ Đồn",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Động Puông",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Khang Ninh",
+      "district": "Huyện Ba Bể",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Di tích Nà Tu",
+    "type_of_place": "historical",
+    "event": "Nơi Bác Hồ đến thăm đơn vị Thanh niên xung phong năm 1951 và tặng 4 câu thơ nổi tiếng: 'Không có việc gì khó...'.",
+    "place": {
+      "hamlet": "Thôn Nà Tu",
+      "commune": "Xã Cẩm Giàng",
+      "district": "Huyện Bạch Thông",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Thác Đầu Đẳng",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "Thôn Húa Tạng",
+      "commune": "Xã Nam Mẫu",
+      "district": "Huyện Ba Bể",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Đồn Phủ Thông",
+    "type_of_place": "historical",
+    "event": "Ghi dấu trận công kiên cấp tiểu đoàn đầu tiên của Quân đội nhân dân Việt Nam tiêu diệt cứ điểm phòng ngự kiên cố của Pháp (1948).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phủ Thông",
+      "district": "Huyện Bạch Thông",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Đèo Giàng",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận phục kích thắng lợi của quân ta trong chiến dịch Việt Bắc Thu - Đông năm 1947.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Giáp ranh xã Lục Bình và xã Hà Hiệu",
+      "district": "Huyện Bạch Thông, Huyện Ba Bể",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Động Nàng Tiên",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết về 7 nàng tiên xuống tắm mát và đánh cờ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Lương Hạ",
+      "district": "Huyện Na Rì",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Khu bảo tồn thiên nhiên Kim Hỷ",
+    "type_of_place": "natural",
+    "event": "Khu rừng nguyên sinh trên núi đá vôi với hệ động thực vật phong phú, đặc biệt là loài Voọc má trắng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Kim Hỷ, Xã Lương Thượng...",
+      "district": "Huyện Na Rì",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Thác Nà Khoang",
+    "type_of_place": "natural",
+    "event": "Được công nhận là Di tích danh thắng cấp quốc gia, thác nước đẹp ẩn mình giữa rừng tái sinh.",
+    "place": {
+      "hamlet": "Bản Nà Khoang",
+      "commune": "Thị trấn Nà Phặc",
+      "district": "Huyện Ngân Sơn",
+      "province": "Bắc Kạn"
+    }
+  },
+  {
+    "name": "Chùa Thạch Long (Chùa Đá Rồng)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ nằm trong hang đá, từng là kho vũ khí và trạm gác trong kháng chiến chống Pháp.",
+    "place": {
+      "hamlet": "Thôn Vi Hương",
+      "commune": "Xã Cao Kỳ",
+      "district": "Huyện Chợ Mới",
+      "province": "Bắc Kạn"
+    }
+  }
+]
+}

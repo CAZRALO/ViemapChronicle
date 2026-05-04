@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Mũi Cà Mau (Đất Mũi)",
+    "type_of_place": "natural",
+    "event": "Điểm cực Nam trên đất liền của Tổ quốc, nơi duy nhất ở Việt Nam có thể ngắm mặt trời mọc ở biển Đông và lặn ở biển Tây.",
+    "place": {
+      "hamlet": "Ấp Mũi",
+      "commune": "Xã Đất Mũi",
+      "district": "Huyện Ngọc Hiển",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Hòn Đá Bạc",
+    "type_of_place": "historical",
+    "event": "Ghi dấu chiến thắng vẻ vang của Chuyên án CM12 (chống gián điệp biệt kích) và nơi có Lăng Ông Nam Hải thờ bộ xương cá voi khổng lồ.",
+    "place": {
+      "hamlet": "Ấp Kinh Hòn",
+      "commune": "Xã Khánh Bình Tây",
+      "district": "Huyện Trần Văn Thời",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Vườn quốc gia U Minh Hạ",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới, nổi tiếng với hệ sinh thái rừng tràm ngập nước đặc trưng và nghề gác kèo ong.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Khánh Lâm, Xã Khánh An",
+      "district": "Huyện U Minh",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Đầm Thị Tường",
+    "type_of_place": "natural",
+    "event": "Đầm nước tự nhiên lớn nhất Đồng bằng sông Cửu Long, được mệnh danh là 'Biển Hồ giữa đồng bằng'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Tiếp giáp các xã thuộc 3 huyện",
+      "district": "Huyện Trần Văn Thời, Huyện Phú Tân, Huyện Cái Nước",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Khu tưởng niệm Chủ tịch Hồ Chí Minh",
+    "type_of_place": "historical",
+    "event": "Nơi người dân đất Mũi thể hiện lòng tôn kính với Bác Hồ, có công trình phỏng theo Nhà sàn Bác Hồ tại Hà Nội.",
+    "place": {
+      "hamlet": "Khóm 1",
+      "commune": "Phường 1",
+      "district": "Thành phố Cà Mau",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Di tích Bến Vàm Lũng",
+    "type_of_place": "historical",
+    "event": "Bến cảng quan trọng của đường Hồ Chí Minh trên biển, nơi tiếp nhận vũ khí từ miền Bắc chi viện cho chiến trường miền Nam.",
+    "place": {
+      "hamlet": "Ấp Dinh Hạn",
+      "commune": "Xã Tân Ân",
+      "district": "Huyện Ngọc Hiển",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Chùa Monivongsa Bopharam",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Khmer lớn và đẹp nhất Cà Mau, mang đậm kiến trúc Phật giáo Nam tông và văn hóa người Khmer.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1",
+      "district": "Thành phố Cà Mau",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Biển Khai Long",
+    "type_of_place": "natural",
+    "event": "Bãi biển cát mịn hiếm hoi giữa hệ sinh thái rừng ngập mặn, nơi có hiện tượng đất lấn biển tự nhiên hàng năm.",
+    "place": {
+      "hamlet": "Ấp Khai Long",
+      "commune": "Xã Đất Mũi",
+      "district": "Huyện Ngọc Hiển",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Sân chim Ngọc Hiển (Sân chim Chà Là)",
+    "type_of_place": "natural",
+    "event": "Một trong những sân chim tự nhiên lớn nhất nước, nơi cư trú của hàng vạn cá thể cò, vạc và các loài chim quý hiếm.",
+    "place": {
+      "hamlet": "Ấp Chà Là",
+      "commune": "Xã Trần Phán",
+      "district": "Huyện Đầm Dơi",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Nhà dây thép Cà Mau",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc thông tin liên lạc do thực dân Pháp xây dựng năm 1910, gắn liền với lịch sử đấu tranh cách mạng của tỉnh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thành phố Cà Mau",
+      "province": "Cà Mau"
+    }
+  },
+  {
+    "name": "Lâm viên 19/5 (Vườn chim Cà Mau)",
+    "type_of_place": "natural",
+    "event": "Vườn chim tự nhiên nằm ngay trong lòng thành phố, nơi du khách có thể quan sát đời sống của các loài chim hoang dã.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1",
+      "district": "Thành phố Cà Mau",
+      "province": "Cà Mau"
+    }
+  }
+]
+}

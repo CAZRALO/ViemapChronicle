@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Thác Bản Giốc",
+    "type_of_place": "natural",
+    "event": "Một trong những thác nước xuyên biên giới đẹp và lớn nhất thế giới, nằm trên dòng sông Quây Sơn (biên giới Việt - Trung).",
+    "place": {
+      "hamlet": "Bản Gun",
+      "commune": "Xã Đàm Thủy",
+      "district": "Huyện Trùng Khánh",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Pác Bó",
+    "type_of_place": "historical",
+    "event": "Nơi Chủ tịch Hồ Chí Minh đặt bước chân đầu tiên trở về Tổ quốc (28/01/1941) sau 30 năm bôn ba tìm đường cứu nước để trực tiếp lãnh đạo cách mạng.",
+    "place": {
+      "hamlet": "Bản Pác Bó",
+      "commune": "Xã Trường Hà",
+      "district": "Huyện Hà Quảng",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Rừng Trần Hưng Đạo",
+    "type_of_place": "historical",
+    "event": "Nơi thành lập Đội Việt Nam Tuyên truyền Giải phóng quân (tiền thân của Quân đội Nhân dân Việt Nam) vào ngày 22/12/1944.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tam Kim, Xã Hoa Thám",
+      "district": "Huyện Nguyên Bình",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Động Ngườm Ngao",
+    "type_of_place": "natural",
+    "event": "Hang động đá vôi tuyệt đẹp với hệ thống nhũ đá kỳ ảo, tên gọi theo tiếng Tày có nghĩa là 'Hang Hổ'.",
+    "place": {
+      "hamlet": "Bản Gun",
+      "commune": "Xã Đàm Thủy",
+      "district": "Huyện Trùng Khánh",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Hồ Thang Hen",
+    "type_of_place": "natural",
+    "event": "Hồ nước ngọt trên núi đẹp nhất trong quần thể 36 hồ Thang Hen, gắn liền với huyền thoại về chàng Sung.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Quốc Toản",
+      "district": "Huyện Quảng Hòa",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Núi Mắt Thần (Núi Thủng)",
+    "type_of_place": "natural",
+    "event": "Ngọn núi độc đáo với lỗ thủng xuyên qua lòng núi đường kính khoảng 50m, được mệnh danh là 'Tuyệt tình cốc' của Cao Bằng.",
+    "place": {
+      "hamlet": "Bản Danh",
+      "commune": "Xã Cao Chương",
+      "district": "Huyện Trùng Khánh",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Khu di tích Chiến thắng Đông Khê",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận đánh then chốt mở màn cho Chiến dịch Biên giới Thu đông 1950, đánh dấu bước trưởng thành vượt bậc của quân đội ta.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Đông Khê",
+      "district": "Huyện Thạch An",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Mộ Anh hùng Liệt sĩ Kim Đồng",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của Nông Văn Dền (Kim Đồng) - người Đội trưởng đầu tiên của Đội Thiếu niên Tiền phong Hồ Chí Minh.",
+    "place": {
+      "hamlet": "Thôn Nà Mạ",
+      "commune": "Xã Trường Hà",
+      "district": "Huyện Hà Quảng",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Chùa Phật Tích Trúc Lâm Bản Giốc",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa đầu tiên được xây dựng nơi biên cương phía Bắc của Tổ quốc, mang ý nghĩa trấn giữ bờ cõi và tâm linh.",
+    "place": {
+      "hamlet": "Phia Nhằm",
+      "commune": "Xã Đàm Thủy",
+      "district": "Huyện Trùng Khánh",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Đèo Mã Phục",
+    "type_of_place": "natural",
+    "event": "Con đèo 7 tầng dốc nổi tiếng, được UNESCO công nhận là di sản địa chất độc đáo trong Công viên địa chất Non nước Cao Bằng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Ranh giới xã Quốc Toản (Quảng Hòa) và xã Nguyễn Huệ (Hòa An)",
+      "district": "Huyện Quảng Hòa, Huyện Hòa An",
+      "province": "Cao Bằng"
+    }
+  },
+  {
+    "name": "Làng rèn Phúc Sen",
+    "type_of_place": "historical",
+    "event": "Làng nghề rèn thủ công truyền thống nổi tiếng của người Nùng An, có lịch sử hàng trăm năm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phúc Sen",
+      "district": "Huyện Quảng Hòa",
+      "province": "Cao Bằng"
+    }
+  }
+]
+}

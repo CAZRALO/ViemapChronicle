@@ -1,0 +1,137 @@
+{   
+    "sites": 
+    [
+  {
+    "name": "Đại Nội Huế (Hoàng thành Huế)",
+    "type_of_place": "historical",
+    "event": "Di sản Văn hóa Thế giới UNESCO, trung tâm quyền lực chính trị của triều đại nhà Nguyễn suốt 143 năm (1802-1945).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thuận Thành",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Chùa Thiên Mụ (Linh Mụ Tự)",
+    "type_of_place": "historical",
+    "event": "Biểu tượng của cố đô Huế, gắn liền với truyền thuyết về người đàn bà nhà trời (Thiên Mụ) báo mộng cho chúa Nguyễn Hoàng.",
+    "place": {
+      "hamlet": "Đồi Hà Khê",
+      "commune": "Phường Hương Long",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Lăng Khải Định (Ứng Lăng)",
+    "type_of_place": "historical",
+    "event": "Lăng tẩm có kiến trúc độc đáo nhất thời Nguyễn, kết hợp giữa văn hóa Đông - Tây, nổi bật với nghệ thuật khảm sành sứ.",
+    "place": {
+      "hamlet": "Thôn Châu Chữ",
+      "commune": "Xã Thủy Bằng",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Vịnh Lăng Cô",
+    "type_of_place": "natural",
+    "event": "Được công nhận là một trong những vịnh biển đẹp nhất thế giới (Worldbays), nằm dưới chân đèo Hải Vân.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Lăng Cô",
+      "district": "Huyện Phú Lộc",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Lăng Minh Mạng (Hiếu Lăng)",
+    "type_of_place": "historical",
+    "event": "Lăng tẩm uy nghiêm, hài hòa tuyệt đối với thiên nhiên, phản ánh tư tưởng nho giáo sâu sắc của vua Minh Mạng.",
+    "place": {
+      "hamlet": "Thôn La Khê Bãi",
+      "commune": "Xã Hương Thọ",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Phá Tam Giang",
+    "type_of_place": "natural",
+    "event": "Hệ thống đầm phá nước lợ lớn nhất Đông Nam Á, nổi tiếng với vẻ đẹp lúc hoàng hôn và đời sống ngư dân sông nước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các xã thuộc Quảng Điền, Phong Điền, Phú Vang",
+      "district": "Huyện Quảng Điền, Huyện Phú Vang...",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Bạch Mã",
+    "type_of_place": "natural",
+    "event": "Khu nghỉ dưỡng nổi tiếng từ thời Pháp với khí hậu mát mẻ, hệ sinh thái đa dạng và vọng hải đài ngắm toàn cảnh đầm Cầu Hai.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Lộc Trì",
+      "district": "Huyện Phú Lộc",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Cầu ngói Thanh Toàn",
+    "type_of_place": "historical",
+    "event": "Cây cầu ngói cổ hiếm hoi còn lại ở Việt Nam (cùng với Chùa Cầu Hội An), di tích kiến trúc nghệ thuật cấp quốc gia.",
+    "place": {
+      "hamlet": "Làng Thanh Thủy Chánh",
+      "commune": "Xã Thủy Thanh",
+      "district": "Thị xã Hương Thủy",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Trường Quốc Học Huế",
+    "type_of_place": "historical",
+    "event": "Ngôi trường trung học lâu đời thứ 3 tại Việt Nam, nơi Chủ tịch Hồ Chí Minh và Đại tướng Võ Nguyên Giáp từng theo học.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Vĩnh Ninh",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Đồi Vọng Cảnh",
+    "type_of_place": "natural",
+    "event": "Địa điểm ngắm sông Hương đẹp nhất từ trên cao, xưa kia là nơi các vua chúa nhà Nguyễn thường đến thưởng ngoạn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thủy Xuân",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Đầm Lập An",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Tuyệt tình cốc' của xứ Huế với vẻ đẹp tĩnh lặng, soi bóng mây trời bên cạnh vịnh Lăng Cô.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Lăng Cô",
+      "district": "Huyện Phú Lộc",
+      "province": "Thừa Thiên Huế"
+    }
+  },
+  {
+    "name": "Sông Hương",
+    "type_of_place": "natural",
+    "event": "Dòng sông thơ mộng chảy qua lòng thành phố, biểu tượng của Huế, nơi diễn ra các hoạt động ca Huế trên sông.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Chảy qua trung tâm thành phố",
+      "district": "Thành phố Huế",
+      "province": "Thừa Thiên Huế"
+    }
+  }
+]
+}

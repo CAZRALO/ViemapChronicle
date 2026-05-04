@@ -1,0 +1,137 @@
+{   
+    "sites": 
+    [
+  {
+    "name": "Chợ nổi Cái Răng",
+    "type_of_place": "historical",
+    "event": "Di sản văn hóa phi vật thể quốc gia, nét văn hóa đặc trưng nhất của vùng sông nước miền Tây, nơi giao thương hàng hóa trên sông.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Lê Bình (và các phường lân cận trên sông Cần Thơ)",
+      "district": "Quận Cái Răng",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Nhà cổ Bình Thủy",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà cổ hơn 150 năm tuổi với kiến trúc giao thoa Đông - Tây độc đáo, từng là bối cảnh của bộ phim nổi tiếng 'Người tình' (L'Amant).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bình Thủy",
+      "district": "Quận Bình Thủy",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Bến Ninh Kiều",
+    "type_of_place": "historical",
+    "event": "Biểu tượng của thành phố Cần Thơ, gắn liền với giai thoại và thơ ca, nơi giao thoa giữa sông Hậu và sông Cần Thơ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân An",
+      "district": "Quận Ninh Kiều",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Đình Bình Thủy (Long Tuyền Cổ Miếu)",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc nghệ thuật cấp quốc gia, một trong những ngôi đình cổ đẹp và còn nguyên vẹn nhất tại miền Tây Nam Bộ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bình Thủy",
+      "district": "Quận Bình Thủy",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Vườn cò Bằng Lăng",
+    "type_of_place": "natural",
+    "event": "Sân chim lớn nhất vùng Đồng bằng sông Cửu Long, nơi quy tụ hàng ngàn con cò và các loài chim quý hiếm.",
+    "place": {
+      "hamlet": "Ấp Thới Bình 1",
+      "commune": "Phường Thới Thuận",
+      "district": "Quận Thốt Nốt",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Phương Nam",
+    "type_of_place": "historical",
+    "event": "Ngôi thiền viện lớn nhất miền Tây Nam Bộ, mang đậm lối kiến trúc văn hóa thời Lý - Trần.",
+    "place": {
+      "hamlet": "Ấp Mỹ Nhơn",
+      "commune": "Xã Mỹ Khánh",
+      "district": "Huyện Phong Điền",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Chùa Ông (Quảng Triệu Hội Quán)",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc nghệ thuật quốc gia, ngôi chùa tiêu biểu của người Hoa với kiến trúc rực rỡ và linh thiêng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân An",
+      "district": "Quận Ninh Kiều",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Khu di tích Mộ Thủ khoa Bùi Hữu Nghĩa",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ và tưởng niệm danh nhân văn hóa Bùi Hữu Nghĩa - một trong 'Rồng Vàng' của đất Đồng Nai xưa.",
+    "place": {
+      "hamlet": "Khu vực 2",
+      "commune": "Phường Bùi Hữu Nghĩa",
+      "district": "Quận Bình Thủy",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Khám lớn Cần Thơ",
+    "type_of_place": "historical",
+    "event": "Nhà tù do thực dân Pháp xây dựng năm 1886, nơi giam giữ nhiều chiến sĩ cách mạng và đồng bào yêu nước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân An",
+      "district": "Quận Ninh Kiều",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Cồn Sơn",
+    "type_of_place": "natural",
+    "event": "Điểm du lịch sinh thái cộng đồng nổi tiếng với mô hình nuôi cá lóc bay và các vườn cây ăn trái.",
+    "place": {
+      "hamlet": "Khu vực 1",
+      "commune": "Phường Bùi Hữu Nghĩa",
+      "district": "Quận Bình Thủy",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Chợ nổi Phong Điền",
+    "type_of_place": "historical",
+    "event": "Khu chợ nổi vẫn giữ được nét hoang sơ và mộc mạc của văn hóa sông nước miệt vườn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nhơn Ái",
+      "district": "Huyện Phong Điền",
+      "province": "Cần Thơ"
+    }
+  },
+  {
+    "name": "Giàn Gừa (Di tích lịch sử Giàn Gừa)",
+    "type_of_place": "natural",
+    "event": "Di tích lịch sử cấp thành phố, nổi tiếng với cây Gừa cổ thụ khổng lồ đan xen chằng chịt tạo thành giàn lớn, từng là cơ sở cách mạng.",
+    "place": {
+      "hamlet": "Ấp Nhơn Khánh",
+      "commune": "Xã Nhơn Nghĩa",
+      "district": "Huyện Phong Điền",
+      "province": "Cần Thơ"
+    }
+  }
+]
+}

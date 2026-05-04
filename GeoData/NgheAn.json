@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Kim Liên (Làng Sen - Quê nội Bác Hồ)",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ những hiện vật, tài liệu và không gian sinh hoạt thời niên thiếu của Chủ tịch Hồ Chí Minh và gia đình.",
+    "place": {
+      "hamlet": "Làng Sen",
+      "commune": "Xã Kim Liên",
+      "district": "Huyện Nam Đàn",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Làng Hoàng Trù (Quê ngoại Bác Hồ)",
+    "type_of_place": "historical",
+    "event": "Nơi Chủ tịch Hồ Chí Minh cất tiếng khóc chào đời và sống những năm tháng đầu đời (1890-1895).",
+    "place": {
+      "hamlet": "Làng Hoàng Trù",
+      "commune": "Xã Kim Liên",
+      "district": "Huyện Nam Đàn",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Biển Cửa Lò",
+    "type_of_place": "natural",
+    "event": "Một trong những bãi biển đẹp và sầm uất nhất Bắc Trung Bộ, nổi tiếng với bãi cát dài, nước trong và hải sản phong phú.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các phường: Thu Thủy, Nghi Hương, Nghi Thu...",
+      "district": "Thị xã Cửa Lò",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Khu di tích lịch sử Truông Bồn",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu sự hy sinh oanh liệt của 13 chiến sĩ thanh niên xung phong Tiểu đội thép (Đại đội 317) trong cuộc kháng chiến chống Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Mỹ Sơn",
+      "district": "Huyện Đô Lương",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Pù Mát",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới, nơi bảo tồn loài Sao La và sở hữu cảnh quan thiên nhiên hùng vĩ như thác Khe Kèm, sông Giăng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Chi Khê (Trụ sở)",
+      "district": "Huyện Con Cuông (trải rộng ra Anh Sơn, Tương Dương)",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Đền Cuông",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Thục Phán An Dương Vương, gắn liền với truyền thuyết nỏ thần và sự sụp đổ của nhà nước Âu Lạc.",
+    "place": {
+      "hamlet": "Núi Mộ Dạ",
+      "commune": "Xã Diễn An",
+      "district": "Huyện Diễn Châu",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Đảo chè Thanh Chương",
+    "type_of_place": "natural",
+    "event": "Những đồi chè xanh mướt nằm giữa hồ nước trong xanh, được mệnh danh là 'Hạ Long trên cạn' của xứ Nghệ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thanh An",
+      "district": "Huyện Thanh Chương",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Thành cổ Vinh",
+    "type_of_place": "historical",
+    "event": "Di tích thành lũy quân sự được xây dựng từ thời nhà Nguyễn (năm 1804), chứng kiến nhiều biến cố lịch sử của vùng đất Nghệ An.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Cửa Nam",
+      "district": "Thành phố Vinh",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Đền Ông Hoàng Mười",
+    "type_of_place": "historical",
+    "event": "Điểm du lịch tâm linh nổi tiếng thờ Ông Hoàng Mười (Quan Hoàng Mười) - vị thánh chuyên ban lộc tài, công danh.",
+    "place": {
+      "hamlet": "Làng Xuân Am",
+      "commune": "Xã Hưng Thịnh",
+      "district": "Huyện Hưng Nguyên",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Mộ bà Hoàng Thị Loan",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của thân mẫu Chủ tịch Hồ Chí Minh, nằm trên núi Động Tranh với hình dáng khung cửi dệt vải cách điệu.",
+    "place": {
+      "hamlet": "Núi Động Tranh",
+      "commune": "Xã Nam Giang",
+      "district": "Huyện Nam Đàn",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Cánh đồng hoa hướng dương",
+    "type_of_place": "natural",
+    "event": "Cánh đồng hoa hướng dương lớn nhất Việt Nam, điểm check-in nổi tiếng mỗi dịp cuối năm.",
+    "place": {
+      "hamlet": "Nông trường 19/5",
+      "commune": "Xã Nghĩa Sơn",
+      "district": "Huyện Nghĩa Đàn",
+      "province": "Nghệ An"
+    }
+  },
+  {
+    "name": "Bãi Lữ",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Đà Lạt trên biển' với rừng thông xanh mát chạy dọc theo bờ biển hoang sơ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nghi Yên",
+      "district": "Huyện Nghi Lộc",
+      "province": "Nghệ An"
+    }
+  }
+]
+}

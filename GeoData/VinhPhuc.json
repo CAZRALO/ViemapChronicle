@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu du lịch Tam Đảo",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Đà Lạt của miền Bắc', từng là khu nghỉ mát cao cấp của người Pháp đầu thế kỷ 20.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Tam Đảo",
+      "district": "Huyện Tam Đảo",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Khu danh thắng Tây Thiên",
+    "type_of_place": "historical",
+    "event": "Trung tâm Phật giáo và tín ngưỡng thờ Mẫu (thờ Quốc Mẫu Tây Thiên Lăng Thị Tiêu) lâu đời bậc nhất Bắc Bộ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đại Đình",
+      "district": "Huyện Tam Đảo",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Tháp Bình Sơn",
+    "type_of_place": "historical",
+    "event": "Ngọn tháp đất nung cao nhất và đẹp nhất còn lại từ đời Trần (thế kỷ 14), di tích kiến trúc nghệ thuật độc đáo.",
+    "place": {
+      "hamlet": "Thôn Bình Sơn",
+      "commune": "Thị trấn Tam Sơn",
+      "district": "Huyện Sông Lô",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Hồ Đại Lải",
+    "type_of_place": "natural",
+    "event": "Hồ nước nhân tạo rộng lớn nằm dưới chân núi Ngọc Thanh, nổi tiếng với cảnh quan sơn thủy hữu tình và các khu nghỉ dưỡng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ngọc Thanh",
+      "district": "Thành phố Phúc Yên",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Làng gốm Hương Canh",
+    "type_of_place": "historical",
+    "event": "Làng nghề cổ truyền nổi tiếng với các sản phẩm sành, chum vại chống thấm nước cực tốt, gắn với lịch sử chống giặc Minh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Hương Canh",
+      "district": "Huyện Bình Xuyên",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Tây Thiên",
+    "type_of_place": "historical",
+    "event": "Một trong ba thiền viện lớn nhất của dòng thiền Trúc Lâm Yên Tử tại Việt Nam, tọa lạc lưng chừng núi Thạch Bàn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đại Đình",
+      "district": "Huyện Tam Đảo",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Đầm Vạc",
+    "type_of_place": "natural",
+    "event": "Đầm tự nhiên rộng lớn được ví như 'hồ Tây' của Vĩnh Yên, nơi cung cấp nguồn thủy sản dồi dào (tép Dầu Đầm Vạc).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tích Sơn, Đồng Tâm...",
+      "district": "Thành phố Vĩnh Yên",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Đình Thổ Tang",
+    "type_of_place": "historical",
+    "event": "Ngôi đình cổ thế kỷ 17 với nghệ thuật chạm khắc gỗ tinh xảo bậc nhất, minh chứng cho sự phồn thịnh của vùng đất buôn bán lâu đời.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Thổ Tang",
+      "district": "Huyện Vĩnh Tường",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Di chỉ khảo cổ học Đồng Đậu",
+    "type_of_place": "historical",
+    "event": "Di chỉ quan trọng minh chứng cho sự phát triển liên tục của người Việt cổ từ thời đại đồ đồng đến đồ sắt (văn hóa Phùng Nguyên đến Đông Sơn).",
+    "place": {
+      "hamlet": "Thôn Đồng Đậu",
+      "commune": "Thị trấn Yên Lạc",
+      "district": "Huyện Yên Lạc",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Đền thờ Tả tướng quốc Trần Nguyên Hãn",
+    "type_of_place": "historical",
+    "event": "Nơi thờ danh tướng có công lớn trong cuộc khởi nghĩa Lam Sơn, được nhân dân lập đền trên nền nhà cũ của ông.",
+    "place": {
+      "hamlet": "Thôn Đa Cai",
+      "commune": "Xã Sơn Đông",
+      "district": "Huyện Lập Thạch",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Thác Bạc Tam Đảo",
+    "type_of_place": "natural",
+    "event": "Dòng thác đẹp nằm ẩn mình trong núi rừng Tam Đảo, nước chảy trắng xóa như bạc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Tam Đảo",
+      "district": "Huyện Tam Đảo",
+      "province": "Vĩnh Phúc"
+    }
+  },
+  {
+    "name": "Cụm đình Hương Canh",
+    "type_of_place": "historical",
+    "event": "Gồm 3 ngôi đình (Hương Canh, Tiên Canh, Ngọc Canh) nổi tiếng với kiến trúc điêu khắc gỗ dân gian đặc sắc thời Hậu Lê.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Hương Canh",
+      "district": "Huyện Bình Xuyên",
+      "province": "Vĩnh Phúc"
+    }
+  }
+]
+}

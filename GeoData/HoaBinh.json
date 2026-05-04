@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Nhà máy Thủy điện Hòa Bình",
+    "type_of_place": "historical",
+    "event": "Công trình thế kỷ chinh phục sông Đà, biểu tượng của sự nghiệp công nghiệp hóa và tình hữu nghị Việt - Xô, nơi lưu giữ Bức thư thế kỷ gửi thế hệ mai sau.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân Thịnh",
+      "district": "Thành phố Hòa Bình",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Thung Nai (Hồ Hòa Bình)",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Vịnh Hạ Long trên cạn' với hàng trăm đảo nhỏ nổi trên mặt nước xanh biếc của lòng hồ sông Đà.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thung Nai",
+      "district": "Huyện Cao Phong",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Bản Lác",
+    "type_of_place": "historical",
+    "event": "Bản làng cổ hơn 700 năm tuổi của người Thái Trắng, cái nôi của du lịch cộng đồng tại Việt Nam.",
+    "place": {
+      "hamlet": "Bản Lác",
+      "commune": "Xã Chiềng Châu",
+      "district": "Huyện Mai Châu",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Đèo Thung Khe (Đèo Đá Trắng)",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với cảnh quan trắng xóa như tuyết do đá vôi sạt lở và chợ phiên người Mường ven đường.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phú Cường",
+      "district": "Huyện Tân Lạc",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Suối khoáng nóng Kim Bôi",
+    "type_of_place": "natural",
+    "event": "Nguồn nước khoáng tự nhiên lộ thiên có nhiệt độ thấp nhất Việt Nam (34-36 độ C), chứa nhiều khoáng chất tốt cho sức khỏe.",
+    "place": {
+      "hamlet": "Xóm Mớ Đá",
+      "commune": "Thị trấn Bo",
+      "district": "Huyện Kim Bôi",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Đền Thác Bờ (Đền Bà Chúa Thác Bờ)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ bà Đinh Thị Vân và bà Quách Thị Lan, hai nữ tướng có công giúp vua Lê Lợi dẹp loạn và trị thủy sông Đà.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thung Nai, Xã Vầy Nưa",
+      "district": "Huyện Cao Phong, Huyện Đà Bắc",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Khu di tích Mộ cổ Đống Thếch",
+    "type_of_place": "historical",
+    "event": "Khu mộ táng của dòng họ Đinh (quan lang Mường) qua nhiều thế kỷ, ẩn chứa những bí ẩn về văn hóa và tín ngưỡng người Mường xưa.",
+    "place": {
+      "hamlet": "Xóm Chiềng",
+      "commune": "Xã Vĩnh Đồng",
+      "district": "Huyện Kim Bôi",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Hang Xóm Trại",
+    "type_of_place": "historical",
+    "event": "Di tích khảo cổ học tiêu biểu nhất của nền Văn hóa Hòa Bình (thời đại đồ đá), minh chứng cho sự tồn tại của người tiền sử cách đây hàng vạn năm.",
+    "place": {
+      "hamlet": "Xóm Trại",
+      "commune": "Xã Tân Lập",
+      "district": "Huyện Lạc Sơn",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Thung lũng Ba Khan",
+    "type_of_place": "natural",
+    "event": "Thung lũng yên bình nằm giữa Mai Châu và lòng hồ sông Đà, được ví như 'thiên đường bị lãng quên'.",
+    "place": {
+      "hamlet": "Xóm Khan Hạ",
+      "commune": "Xã Sơn Thủy",
+      "district": "Huyện Mai Châu",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Cửu Thác Tú Sơn",
+    "type_of_place": "natural",
+    "event": "Danh thắng hùng vĩ với 9 dòng thác chảy liên tiếp nhau, gắn liền với chuyện tình của chàng Tiên và nàng Ngọc.",
+    "place": {
+      "hamlet": "Xóm Củ",
+      "commune": "Xã Tú Sơn",
+      "district": "Huyện Kim Bôi",
+      "province": "Hòa Bình"
+    }
+  },
+  {
+    "name": "Khu bảo tồn thiên nhiên Phu Canh",
+    "type_of_place": "natural",
+    "event": "Khu rừng nguyên sinh lưu giữ hệ sinh thái đa dạng và văn hóa của người Mường, người Dao vùng lòng hồ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đoàn Kết",
+      "district": "Huyện Đà Bắc",
+      "province": "Hòa Bình"
+    }
+  }
+]
+}

@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Nhà tù Côn Đảo",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Địa ngục trần gian' thời Pháp - Mỹ, nơi giam giữ và đày ải hàng vạn chiến sĩ cách mạng và những người yêu nước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "null",
+      "district": "Huyện Côn Đảo",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Nghĩa trang Hàng Dương",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của hàng vạn chiến sĩ cách mạng và nhà yêu nước, trong đó có mộ của nữ anh hùng Võ Thị Sáu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "null",
+      "district": "Huyện Côn Đảo",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Bạch Dinh (Villa Blanche)",
+    "type_of_place": "historical",
+    "event": "Dinh thự kiến trúc châu Âu xây dựng năm 1898, từng là nơi nghỉ mát của Toàn quyền Đông Dương, vua Bảo Đại và nơi giam lỏng vua Thành Thái.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1",
+      "district": "Thành phố Vũng Tàu",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Tượng Chúa Kitô Vua (Tượng Chúa dang tay)",
+    "type_of_place": "historical",
+    "event": "Biểu tượng của thành phố Vũng Tàu, là bức tượng Chúa Giêsu lớn nhất khu vực châu Á (xác lập kỷ lục năm 2012).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thành phố Vũng Tàu",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Khu căn cứ Minh Đạm",
+    "type_of_place": "historical",
+    "event": "Căn cứ cách mạng quan trọng của tỉnh Bà Rịa - Long Khánh trong hai cuộc kháng chiến chống Pháp và Mỹ, dựa trên địa thế núi non hiểm trở.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phước Hải, Xã Tam Phước, Xã Phước Hưng...",
+      "district": "Huyện Đất Đỏ, Huyện Long Điền",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Địa đạo Long Phước",
+    "type_of_place": "historical",
+    "event": "Hệ thống địa đạo quy mô được quân và dân xã Long Phước đào từ năm 1948 để phục vụ chiến đấu.",
+    "place": {
+      "hamlet": "Ấp Bắc",
+      "commune": "Xã Long Phước",
+      "district": "Thành phố Bà Rịa",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Nhà Lớn Long Sơn (Đền Ông Trần)",
+    "type_of_place": "historical",
+    "event": "Quần thể kiến trúc nghệ thuật cổ kính, nơi phát tích tín ngưỡng đạo Ông Trần và lưu giữ những nếp sống văn hóa xưa của Nam Bộ.",
+    "place": {
+      "hamlet": "Thôn 5",
+      "commune": "Xã Long Sơn",
+      "district": "Thành phố Vũng Tàu",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Hải đăng Vũng Tàu",
+    "type_of_place": "historical",
+    "event": "Được người Pháp xây dựng năm 1862, là một trong những ngọn hải đăng cổ nhất Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2 (trên đỉnh Núi Nhỏ)",
+      "district": "Thành phố Vũng Tàu",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Suối khoáng nóng Bình Châu",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "Ấp Bình Thắng",
+      "commune": "Xã Bình Châu",
+      "district": "Huyện Xuyên Mộc",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Bãi Sau (Bãi Thùy Vân)",
+    "type_of_place": "natural",
+    "event": "Bãi biển dài và nổi tiếng nhất Vũng Tàu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thắng Tam",
+      "district": "Thành phố Vũng Tàu",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Hồ Tràm",
+    "type_of_place": "natural",
+    "event": "Khu vực bãi biển hoang sơ và các khu nghỉ dưỡng cao cấp, nằm giữa Bình Châu và Long Hải.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phước Thuận",
+      "district": "Huyện Xuyên Mộc",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  },
+  {
+    "name": "Mũi Nghinh Phong",
+    "type_of_place": "natural",
+    "event": "Mũi đất vươn dài ra biển tạo thành hình dáng độc đáo, nơi đón gió suốt 4 mùa (nghĩa là 'đón gió').",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thành phố Vũng Tàu",
+      "province": "Bà Rịa - Vũng Tàu"
+    }
+  }
+]
+}

@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích lịch sử Đền Hùng",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia đặc biệt, nơi thờ phụng các Vua Hùng - Tổ tiên của dân tộc Việt Nam, diễn ra Lễ hội Đền Hùng (Giỗ Tổ) hàng năm.",
+    "place": {
+      "hamlet": "Thôn Cổ Tích",
+      "commune": "Xã Hy Cương",
+      "district": "Thành phố Việt Trì",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Xuân Sơn",
+    "type_of_place": "natural",
+    "event": "Vườn quốc gia duy nhất tại Việt Nam có rừng nguyên sinh mọc trên núi đá vôi, nổi tiếng với hệ thống hang động kỳ vĩ.",
+    "place": {
+      "hamlet": "Bản Dù, Bản Cỏi...",
+      "commune": "Xã Xuân Sơn",
+      "district": "Huyện Tân Sơn",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Đền Mẫu Âu Cơ",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Tổ Mẫu Âu Cơ, gắn liền với huyền thoại bọc trăm trứng và sự tích 'xuống biển lên non' của dân tộc Việt.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hiền Lương",
+      "district": "Huyện Hạ Hòa",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Đồi chè Long Cốc",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Vịnh Hạ Long vùng trung du', một trong những đồi chè đẹp nhất Việt Nam với hàng trăm ốc đảo chè bát úp.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Long Cốc",
+      "district": "Huyện Tân Sơn",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Đền Lạc Long Quân",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Đức Quốc Tổ Lạc Long Quân, nằm trong quần thể di tích Đền Hùng.",
+    "place": {
+      "hamlet": "Đồi Sim",
+      "commune": "Xã Chu Hóa",
+      "district": "Thành phố Việt Trì",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Đầm Ao Châu",
+    "type_of_place": "natural",
+    "event": "Đầm nước lớn được ví như 'Vịnh Hạ Long trên cạn' của Phú Thọ, gắn với truyền thuyết Trâu Vàng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Hạ Hòa, Xã Ấm Hạ, Xã Y Sơn...",
+      "district": "Huyện Hạ Hòa",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Làng cổ Hùng Lô",
+    "type_of_place": "historical",
+    "event": "Làng cổ nổi tiếng với Đình Hùng Lô (hơn 300 năm tuổi) và nghề làm mì gạo truyền thống, nơi lưu giữ điệu Hát Xoan cổ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hùng Lô",
+      "district": "Thành phố Việt Trì",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Miếu Lãi Lèn",
+    "type_of_place": "historical",
+    "event": "Được coi là nơi phát tích của Hát Xoan Phú Thọ (Di sản văn hóa phi vật thể đại diện của nhân loại).",
+    "place": {
+      "hamlet": "Thôn Phù Đức",
+      "commune": "Xã Kim Đức",
+      "district": "Thành phố Việt Trì",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Suối khoáng nóng Thanh Thủy",
+    "type_of_place": "natural",
+    "event": "Mỏ nước khoáng nóng tự nhiên có chứa chất Radon quý hiếm, thích hợp cho nghỉ dưỡng và trị liệu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã La Phù, Xã Bảo Yên...",
+      "district": "Huyện Thanh Thủy",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Ao Giời - Suối Tiên",
+    "type_of_place": "natural",
+    "event": "Danh thắng hoang sơ với hệ thống thác nước đổ từ trên đỉnh núi Nả xuống qua các tầng bậc đá.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Quân Khê",
+      "district": "Huyện Hạ Hòa",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Đền Tam Giang (Đền thờ Chiêu Văn Vương)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ thần Thổ Lệnh và Chiêu Văn Vương Trần Nhật Duật, nằm tại ngã ba sông (nơi hợp lưu của sông Hồng, sông Lô, sông Đà).",
+    "place": {
+      "hamlet": "Phường Bạch Hạc",
+      "commune": "Phường Bạch Hạc",
+      "district": "Thành phố Việt Trì",
+      "province": "Phú Thọ"
+    }
+  },
+  {
+    "name": "Thác Mây",
+    "type_of_place": "natural",
+    "event": "Thác nước đẹp nằm giữa rừng nguyên sinh, gắn liền với vẻ đẹp thơ mộng của vùng đất Thanh Sơn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hương Cần",
+      "district": "Huyện Thanh Sơn",
+      "province": "Phú Thọ"
+    }
+  }
+]
+}

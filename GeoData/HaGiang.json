@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Cột cờ Lũng Cú",
+    "type_of_place": "historical",
+    "event": "Biểu tượng thiêng liêng về chủ quyền quốc gia nơi cực Bắc của Tổ quốc, gắn liền với truyền thuyết vua Quang Trung đặt trống đồng.",
+    "place": {
+      "hamlet": "Thôn Thèn Pả",
+      "commune": "Xã Lũng Cú",
+      "district": "Huyện Đồng Văn",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Dinh thự họ Vương (Dinh Vua Mèo)",
+    "type_of_place": "historical",
+    "event": "Khu dinh thự bề thế của 'Vua Mèo' Vương Chính Đức, công trình kiến trúc độc đáo kết hợp văn hóa H'Mông, Trung Hoa và Pháp.",
+    "place": {
+      "hamlet": "Thung lũng Sà Phìn",
+      "commune": "Xã Sà Phìn",
+      "district": "Huyện Đồng Văn",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Đèo Mã Pí Lèng",
+    "type_of_place": "natural",
+    "event": "Một trong 'Tứ đại đỉnh đèo' của Việt Nam, nằm trên 'Con đường Hạnh Phúc' huyền thoại được làm bởi hàng vạn thanh niên xung phong.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Pả Vi, Xã Pải Lủng",
+      "district": "Huyện Mèo Vạc",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Cao nguyên đá Đồng Văn",
+    "type_of_place": "natural",
+    "event": "Công viên Địa chất Toàn cầu UNESCO, nơi lưu giữ những dấu ấn về lịch sử phát triển của vỏ Trái Đất và văn hóa bản địa đặc sắc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các xã thuộc 4 huyện vùng cao",
+      "district": "Huyện Quản Bạ, Huyện Yên Minh, Huyện Đồng Văn, Huyện Mèo Vạc",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Ruộng bậc thang Hoàng Su Phì",
+    "type_of_place": "natural",
+    "event": "Di tích Danh thắng Quốc gia, kiệt tác canh tác lúa nước trên địa hình dốc của người Dao, Nùng, La Chí.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Bản Phùng, Bản Luốc, Sán Sả Hồ, Hồ Thầu...",
+      "district": "Huyện Hoàng Su Phì",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Sông Nho Quế (Hẻm Tu Sản)",
+    "type_of_place": "natural",
+    "event": "Nơi có Hẻm Tu Sản - hẻm vực sâu nhất Đông Nam Á, nằm dưới chân đèo Mã Pí Lèng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Giàng Chu Phìn, Xã Pả Vi",
+      "district": "Huyện Mèo Vạc",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Phố cổ Đồng Văn",
+    "type_of_place": "historical",
+    "event": "Khu phố cổ trăm tuổi với kiến trúc trình tường mái âm dương, nơi giao thương và sinh sống của đồng bào Tày, H'Mông, Hoa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Đồng Văn",
+      "district": "Huyện Đồng Văn",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Núi Đôi Quản Bạ (Núi Cô Tiên)",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết về nàng tiên Hoa Đào để lại bầu sữa nuôi con, tạo nên hai ngọn núi có hình dáng độc đáo.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Tam Sơn",
+      "district": "Huyện Quản Bạ",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Di tích Căng Bắc Mê",
+    "type_of_place": "historical",
+    "event": "Nhà tù do thực dân Pháp xây dựng (1938-1942) để giam giữ các chiến sĩ cách mạng.",
+    "place": {
+      "hamlet": "Đồi Rồng",
+      "commune": "Xã Yên Cường",
+      "district": "Huyện Bắc Mê",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Dốc Thẩm Mã",
+    "type_of_place": "natural",
+    "event": "Cung đường đèo uốn lượn nổi tiếng, tương truyền là nơi người xưa thử sức ngựa (ngựa thồ hàng lên đến đỉnh còn khỏe thì giữ lại).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Vần Chải",
+      "district": "Huyện Đồng Văn",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Cột mốc số 0 (Km0)",
+    "type_of_place": "historical",
+    "event": "Điểm khởi đầu của 'Con đường Hạnh Phúc', nơi đánh dấu hành trình chinh phục vùng cao nguyên đá.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Nguyễn Trãi",
+      "district": "Thành phố Hà Giang",
+      "province": "Hà Giang"
+    }
+  },
+  {
+    "name": "Chợ tình Khâu Vai",
+    "type_of_place": "historical",
+    "event": "Phiên chợ độc đáo họp mỗi năm một lần (27/3 âm lịch), nơi những người yêu nhau không đến được với nhau tìm về gặp gỡ.",
+    "place": {
+      "hamlet": "Bản Khâu Vai",
+      "commune": "Xã Khâu Vai",
+      "district": "Huyện Mèo Vạc",
+      "province": "Hà Giang"
+    }
+  }
+]
+}

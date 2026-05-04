@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Nhà thờ Gỗ Kon Tum (Nhà thờ Chánh tòa)",
+    "type_of_place": "historical",
+    "event": "Kiệt tác kiến trúc hơn 100 năm tuổi, kết hợp độc đáo giữa phong cách Roman cổ điển và nhà sàn của người Ba Na.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thống Nhất",
+      "district": "Thành phố Kon Tum",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Khu du lịch sinh thái Măng Đen",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Đà Lạt thứ hai' của Tây Nguyên với khí hậu mát mẻ quanh năm, rừng thông bạt ngàn và nhiều hồ thác.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Măng Đen",
+      "district": "Huyện Kon Plông",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Ngã ba Đông Dương (Cột mốc tam biên)",
+    "type_of_place": "historical",
+    "event": "Cột mốc biên giới giữa ba nước Việt Nam - Lào - Campuchia, nơi được ví von là 'một con gà gáy cả ba nước cùng nghe'.",
+    "place": {
+      "hamlet": "Thôn Iệc",
+      "commune": "Xã Pờ Y",
+      "district": "Huyện Ngọc Hồi",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Nhà rông Kon Klor",
+    "type_of_place": "historical",
+    "event": "Nhà rông lớn nhất Kon Tum và Tây Nguyên, biểu tượng văn hóa cộng đồng của người Ba Na bên dòng sông Đăk Bla.",
+    "place": {
+      "hamlet": "Làng Kon Klor",
+      "commune": "Phường Thắng Lợi",
+      "district": "Thành phố Kon Tum",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Ngục Kon Tum",
+    "type_of_place": "historical",
+    "event": "Di tích lịch sử quốc gia, nơi thực dân Pháp giam cầm các chiến sĩ cộng sản trong giai đoạn 1930-1931.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Quyết Thắng",
+      "district": "Thành phố Kon Tum",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Thác Pa Sỹ",
+    "type_of_place": "natural",
+    "event": "Ngọn thác hoang sơ và đẹp nhất Măng Đen, gắn liền với truyền thuyết 'Bảy hồ ba thác' của người Mơ Nâm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Măng Cành",
+      "district": "Huyện Kon Plông",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Di tích Chiến thắng Đăk Tô - Tân Cảnh",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận đánh ác liệt năm 1972, nổi tiếng với Tượng đài Chiến thắng và chiếc xe tăng số 377.",
+    "place": {
+      "hamlet": "Khu phố 1",
+      "commune": "Thị trấn Đăk Tô",
+      "district": "Huyện Đăk Tô",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Chư Mom Ray",
+    "type_of_place": "natural",
+    "event": "Vườn di sản ASEAN, nơi có diện tích rừng nguyên sinh rộng lớn và độ đa dạng sinh học cao nhất Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Sa Sơn (và các xã lân cận)",
+      "district": "Huyện Sa Thầy, Huyện Ngọc Hồi",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Cầu treo Kon Klor",
+    "type_of_place": "historical",
+    "event": "Cây cầu treo công nghiệp to đẹp nhất khu vực Tây Nguyên, nối liền hai bờ sông Đăk Bla huyền thoại.",
+    "place": {
+      "hamlet": "Làng Kon Klor",
+      "commune": "Phường Thắng Lợi",
+      "district": "Thành phố Kon Tum",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Tòa Giám mục Kon Tum (Chủng viện thừa sai)",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc phương Tây kết hợp vật liệu bản địa (gỗ quý) xây dựng từ năm 1935, bảo tàng thu nhỏ của Tây Nguyên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thống Nhất",
+      "district": "Thành phố Kon Tum",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Sông Đăk Bla",
+    "type_of_place": "natural",
+    "event": "Dòng sông biểu tượng của Kon Tum, nổi tiếng với đặc điểm 'chảy ngược' hiếm có (chảy từ Đông sang Tây).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Chảy qua trung tâm thành phố",
+      "district": "Thành phố Kon Tum",
+      "province": "Kon Tum"
+    }
+  },
+  {
+    "name": "Hồ Đăk Ke",
+    "type_of_place": "natural",
+    "event": "Hồ nước trong xanh thơ mộng thuộc khu du lịch sinh thái Măng Đen, gắn với truyền thuyết của người Mơ Nâm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Măng Đen",
+      "district": "Huyện Kon Plông",
+      "province": "Kon Tum"
+    }
+  }
+]
+}

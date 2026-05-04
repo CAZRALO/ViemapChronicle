@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Nhà Công tử Bạc Liêu",
+    "type_of_place": "historical",
+    "event": "Gắn liền với giai thoại về Ba Huy (Công tử Bạc Liêu) - người giàu có và 'chơi ngông' nức tiếng Nam Kỳ Lục tỉnh xưa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 3",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Khu lưu niệm Nghệ thuật Đờn ca tài tử Nam Bộ và Nhạc sĩ Cao Văn Lầu",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của cố nhạc sĩ Cao Văn Lầu, tác giả bản 'Dạ cổ hoài lang' bất hủ, tiền thân của bài vọng cổ ngày nay.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Cánh đồng điện gió Bạc Liêu",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "Ấp Biển Đông A",
+      "commune": "Xã Vĩnh Trạch Đông",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Vườn chim Bạc Liêu",
+    "type_of_place": "natural",
+    "event": "Khu bảo tồn thiên nhiên với hệ sinh thái rừng ngập mặn và là nơi cư trú của hàng nghìn cá thể chim hoang dã.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hiệp Thành",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Nhà thờ Tắc Sậy (Cha Diệp)",
+    "type_of_place": "historical",
+    "event": "Gắn liền với câu chuyện cảm động về cuộc đời linh mục Trương Bửu Diệp, là điểm hành hương Công giáo lớn nhất miền Tây.",
+    "place": {
+      "hamlet": "Ấp 2",
+      "commune": "Xã Tân Phong",
+      "district": "Thị xã Giá Rai",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Chùa Xiêm Cán",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Khmer lớn và lộng lẫy bậc nhất Nam Bộ, tiêu biểu cho kiến trúc và văn hóa tâm linh của đồng bào Khmer.",
+    "place": {
+      "hamlet": "Ấp Biển Đông B",
+      "commune": "Xã Vĩnh Trạch Đông",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Khu Quán Âm Phật Đài (Mẹ Nam Hải)",
+    "type_of_place": "historical",
+    "event": "Công trình văn hóa tâm linh nổi tiếng với tượng Phật Bà Nam Hải cao 11m hướng ra biển Đông.",
+    "place": {
+      "hamlet": "Khóm Bờ Tây",
+      "commune": "Phường Nhà Mát",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Tháp cổ Vĩnh Hưng",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc nghệ thuật cấp quốc gia đặc biệt, dấu tích duy nhất của văn hóa Óc Eo còn sót lại ở Tây Nam Bộ.",
+    "place": {
+      "hamlet": "Ấp Trung Hưng 1B",
+      "commune": "Xã Vĩnh Hưng A",
+      "district": "Huyện Vĩnh Lợi",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Vườn nhãn cổ Bạc Liêu",
+    "type_of_place": "natural",
+    "event": "Khu vườn nhãn hàng trăm năm tuổi, gắn liền với lịch sử di dân và khai khẩn đất đai của người dân vùng đất Giồng Nhãn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hiệp Thành, Xã Vĩnh Trạch Đông",
+      "district": "Thành phố Bạc Liêu",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Cánh đồng muối Bạc Liêu",
+    "type_of_place": "natural",
+    "event": "Nơi sản xuất ra thương hiệu 'Muối Bạc Liêu' nổi tiếng, nghề làm muối tại đây đã được công nhận là Di sản văn hóa phi vật thể quốc gia.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các xã ven biển (Vĩnh Thịnh, Vĩnh Hậu,...)",
+      "district": "Huyện Hòa Bình, Huyện Đông Hải",
+      "province": "Bạc Liêu"
+    }
+  },
+  {
+    "name": "Đền thờ Chủ tịch Hồ Chí Minh",
+    "type_of_place": "historical",
+    "event": "Được nhân dân xã Châu Thới bí mật xây dựng và bảo vệ ngay trong lòng địch suốt những năm tháng chiến tranh ác liệt.",
+    "place": {
+      "hamlet": "Ấp Bà Chăng A",
+      "commune": "Xã Châu Thới",
+      "district": "Huyện Vĩnh Lợi",
+      "province": "Bạc Liêu"
+    }
+  }
+]
+}

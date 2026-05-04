@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Động Phong Nha",
+    "type_of_place": "natural",
+    "event": "Di sản thiên nhiên thế giới UNESCO, được mệnh danh là 'Đệ nhất kỳ quan động' với hệ thống sông ngầm dài nhất.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phong Nha",
+      "district": "Huyện Bố Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Vũng Chùa - Đảo Yến",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ cuối cùng của Đại tướng Võ Nguyên Giáp - Người anh cả của Quân đội Nhân dân Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Thọ Sơn",
+      "commune": "Xã Quảng Đông",
+      "district": "Huyện Quảng Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Hang Sơn Đoòng",
+    "type_of_place": "natural",
+    "event": "Hang động tự nhiên lớn nhất thế giới, sở hữu hệ sinh thái rừng nguyên sinh và khí hậu riêng biệt ngay trong lòng hang.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Trạch",
+      "district": "Huyện Bố Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Quảng Bình Quan",
+    "type_of_place": "historical",
+    "event": "Một trong những chốt chặn quan trọng của hệ thống Lũy Thầy (Lũy Đào Duy Từ), được xây dựng năm 1639 thời Chúa Nguyễn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Đồng Hải",
+      "district": "Thành phố Đồng Hới",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Động Thiên Đường",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Hoàng cung trong lòng đất', là hang động khô dài nhất Châu Á với hệ thống thạch nhũ tráng lệ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phong Nha",
+      "district": "Huyện Bố Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Hang Tám Cô",
+    "type_of_place": "historical",
+    "event": "Di tích lịch sử đường 20 Quyết Thắng, nơi ghi dấu sự hy sinh bi tráng của 8 thanh niên xung phong bị bom Mỹ vùi lấp năm 1972.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Trạch",
+      "district": "Huyện Bố Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Biển Đá Nhảy",
+    "type_of_place": "natural",
+    "event": "Bãi biển đẹp với quần thể đá muôn hình vạn trạng nhấp nhô theo từng đợt sóng, từng là bối cảnh phim 'Người bất tử'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thanh Trạch",
+      "district": "Huyện Bố Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Tượng đài Mẹ Suốt",
+    "type_of_place": "historical",
+    "event": "Biểu tượng của tinh thần yêu nước, ghi nhớ công ơn Mẹ Nguyễn Thị Suốt đã chèo đò chở bộ đội qua sông Nhật Lệ dưới mưa bom bão đạn.",
+    "place": {
+      "hamlet": "Thôn Trung Bính",
+      "commune": "Phường Bảo Ninh (Tượng đài nằm ở bờ sông phía P. Hải Đình cũ)",
+      "district": "Thành phố Đồng Hới",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Suối nước Moọc",
+    "type_of_place": "natural",
+    "event": "Điểm du lịch sinh thái nổi tiếng với dòng nước xanh ngọc bích mát lạnh mọc lên từ chân núi đá vôi.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phong Nha",
+      "district": "Huyện Bố Trạch",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Di tích tháp chuông Nhà thờ Tam Tòa",
+    "type_of_place": "historical",
+    "event": "Chứng tích tội ác chiến tranh, phế tích còn lại của nhà thờ Công giáo bị bom Mỹ phá hủy năm 1965.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Đồng Mỹ",
+      "district": "Thành phố Đồng Hới",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Chùa Hoằng Phúc",
+    "type_of_place": "historical",
+    "event": "Một trong những ngôi chùa cổ nhất miền Trung (có từ năm 1314), nơi Phật hoàng Trần Nhân Tông từng ghé thăm và thuyết pháp.",
+    "place": {
+      "hamlet": "Thôn Thuận Trạch",
+      "commune": "Xã Mỹ Thủy",
+      "district": "Huyện Lệ Thủy",
+      "province": "Quảng Bình"
+    }
+  },
+  {
+    "name": "Nhà lưu niệm Đại tướng Võ Nguyên Giáp",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà gỗ 3 gian đơn sơ nơi Đại tướng Võ Nguyên Giáp sinh ra và lớn lên.",
+    "place": {
+      "hamlet": "Làng An Xá",
+      "commune": "Xã Lộc Thủy",
+      "district": "Huyện Lệ Thủy",
+      "province": "Quảng Bình"
+    }
+  }
+]
+}

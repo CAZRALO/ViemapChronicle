@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Hồ Hoàn Kiếm (Hồ Gươm)",
+    "type_of_place": "historical",
+    "event": "Gắn liền với truyền thuyết Vua Lê Lợi trả gươm báu cho Rùa Thần sau khi đánh tan giặc Minh, biểu tượng của khát vọng hòa bình.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hàng Trống, Phường Lý Thái Tổ...",
+      "district": "Quận Hoàn Kiếm",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Lăng Chủ tịch Hồ Chí Minh",
+    "type_of_place": "historical",
+    "event": "Nơi gìn giữ thi hài Chủ tịch Hồ Chí Minh, vị lãnh tụ kính yêu của dân tộc Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Điện Biên",
+      "district": "Quận Ba Đình",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Văn Miếu - Quốc Tử Giám",
+    "type_of_place": "historical",
+    "event": "Trường đại học đầu tiên của Việt Nam, nơi thờ Khổng Tử và tôn vinh các bậc hiền tài, tiến sĩ qua các triều đại (Bia Tiến sĩ là Di sản tư liệu thế giới).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Quốc Tử Giám",
+      "district": "Quận Đống Đa",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Hoàng thành Thăng Long",
+    "type_of_place": "historical",
+    "event": "Di sản văn hóa thế giới UNESCO, trung tâm quyền lực chính trị của Việt Nam liên tục trong suốt 13 thế kỷ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Điện Biên, Phường Quán Thánh",
+      "district": "Quận Ba Đình",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Làng cổ Đường Lâm",
+    "type_of_place": "historical",
+    "event": "Làng cổ đầu tiên được công nhận di tích quốc gia, được gọi là 'Đất hai vua' (quê hương của Phùng Hưng và Ngô Quyền).",
+    "place": {
+      "hamlet": "Thôn Mông Phụ (và các thôn Đông Sàng, Cam Thịnh...)",
+      "commune": "Xã Đường Lâm",
+      "district": "Thị xã Sơn Tây",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Ba Vì",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với hệ sinh thái đa dạng, khí hậu mát mẻ và quần thể các phế tích kiến trúc thời Pháp thuộc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tản Lĩnh (và các xã lân cận)",
+      "district": "Huyện Ba Vì",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Chùa Hương (Hương Sơn)",
+    "type_of_place": "historical",
+    "event": "Quần thể văn hóa - tôn giáo lớn bậc nhất Việt Nam, nơi diễn ra Lễ hội chùa Hương kéo dài nhất cả nước.",
+    "place": {
+      "hamlet": "Thôn Yến Vĩ",
+      "commune": "Xã Hương Sơn",
+      "district": "Huyện Mỹ Đức",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Thành Cổ Loa",
+    "type_of_place": "historical",
+    "event": "Kinh đô của nhà nước Âu Lạc dưới thời An Dương Vương, gắn liền với truyền thuyết Nỏ thần và chuyện tình Mỵ Châu - Trọng Thủy.",
+    "place": {
+      "hamlet": "Thôn Cổ Loa",
+      "commune": "Xã Cổ Loa",
+      "district": "Huyện Đông Anh",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Nhà tù Hỏa Lò",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Hilton Hà Nội' trong chiến tranh, nơi giam giữ tù nhân chính trị thời Pháp và phi công Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Trần Hưng Đạo",
+      "district": "Quận Hoàn Kiếm",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Làng gốm Bát Tràng",
+    "type_of_place": "historical",
+    "event": "Làng nghề gốm sứ truyền thống nổi tiếng nhất Việt Nam, tồn tại hơn 500 năm.",
+    "place": {
+      "hamlet": "Thôn Bát Tràng",
+      "commune": "Xã Bát Tràng",
+      "district": "Huyện Gia Lâm",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Hồ Tây",
+    "type_of_place": "natural",
+    "event": "Hồ nước ngọt tự nhiên lớn nhất Hà Nội, gắn liền với nhiều di tích lịch sử và là không gian văn hóa lãng mạn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các phường quanh hồ (Yên Phụ, Quảng An, Nhật Tân...)",
+      "district": "Quận Tây Hồ",
+      "province": "Hà Nội"
+    }
+  },
+  {
+    "name": "Núi Hàm Lợn",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Nóc nhà của Thủ đô' (thuộc dãy Độc Tôn), địa điểm cắm trại và trekking yêu thích của giới trẻ.",
+    "place": {
+      "hamlet": "Thôn Hàm Lợn",
+      "commune": "Xã Nam Sơn",
+      "district": "Huyện Sóc Sơn",
+      "province": "Hà Nội"
+    }
+  }
+]
+}

@@ -1,0 +1,235 @@
+{   
+    "sites": [
+  {
+    "name": "Biển Hồ (Hồ T'Nưng)",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Biển Hồ",
+      "district": "Thành phố Pleiku",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Núi lửa Chư Đăng Ya",
+    "type_of_place": "natural",
+    "event": "Ngọn núi lửa đã tắt hàng triệu năm, nổi tiếng với lễ hội hoa Dã Quỳ hàng năm.",
+    "place": {
+      "hamlet": "Làng Ia Gri",
+      "commune": "Xã Chư Đăng Ya",
+      "district": "Huyện Chư Păh",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Quảng trường Đại Đoàn Kết",
+    "type_of_place": "historical",
+    "event": "Trung tâm chính trị - văn hóa, nơi đặt Tượng đài Bác Hồ với các dân tộc Tây Nguyên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tây Sơn",
+      "district": "Thành phố Pleiku",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Di tích Lịch sử - Văn hóa Tây Sơn Thượng Đạo",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa đầu tiên của cuộc khởi nghĩa Tây Sơn (1771-1773) trước khi tiến xuống đồng bằng Bình Định (Tây Sơn Hạ Đạo).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các xã/phường thuộc khu vực An Khê và vùng lân cận",
+      "district": "Thị xã An Khê, Huyện Đak Pơ, Huyện Kông Chro, Huyện Kbang",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Thác Phú Cường",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Dun",
+      "district": "Huyện Chư Sê",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Làng kháng chiến Stơr",
+    "type_of_place": "historical",
+    "event": "Quê hương của Anh hùng Núp, biểu tượng của tinh thần bất khuất Tây Nguyên trong kháng chiến chống Pháp.",
+    "place": {
+      "hamlet": "Làng Stơr",
+      "commune": "Xã Tơ Tung",
+      "district": "Huyện Kbang",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Nhà lao Pleiku",
+    "type_of_place": "historical",
+    "event": "Nơi giam giữ các chiến sĩ cộng sản và những người yêu nước trong hai cuộc kháng chiến chống Pháp và Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Diên Hồng",
+      "district": "Thành phố Pleiku",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Thác K50 (Thác Hang Én)",
+    "type_of_place": "natural",
+    "event": "Nằm trong Khu bảo tồn thiên nhiên Kon Chư Răng, được mệnh danh là 'nàng thơ' giữa đại ngàn.",
+    "place": {
+      "hamlet": "Thôn 1 (khu vực giáp ranh)",
+      "commune": "Xã Sơn Lang",
+      "district": "Huyện Kbang",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Di tích khảo cổ Rộc Tưng - Gò Đá",
+    "type_of_place": "historical",
+    "event": "Di tích thời đại Đá cũ, chứng minh sự xuất hiện của con người tại vùng đất này từ rất sớm (khoảng 80 vạn năm trước).",
+    "place": {
+      "hamlet": "Thôn Rộc Tưng",
+      "commune": "Xã Xuân An, Phường An Bình",
+      "district": "Thị xã An Khê",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Kon Ka Kinh",
+    "type_of_place": "natural",
+    "event": "Vườn di sản ASEAN, nơi bảo tồn đa dạng sinh học đặc trưng của vùng núi cao Tây Nguyên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Nhiều xã thuộc 3 huyện",
+      "district": "Huyện Đak Đoa, Huyện Mang Yang, Huyện Kbang",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Chùa Minh Thành",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc Phật giáo độc đáo mang đậm bản sắc Á Đông, là điểm du lịch tâm linh nổi tiếng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hội Phú",
+      "district": "Thành phố Pleiku",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Hàng thông trăm tuổi (Con đường tình yêu)",
+    "type_of_place": "natural",
+    "event": "Được trồng từ thời Pháp thuộc (đầu thế kỷ XX) bởi những người công nhân đồn điền Sở Trà.",
+    "place": {
+      "hamlet": "Thôn 1",
+      "commune": "Xã Nghĩa Hưng",
+      "district": "Huyện Chư Păh",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Thác Chín Tầng",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ia Sao",
+      "district": "Huyện Ia Grai",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Tượng đài Chiến thắng Đak Pơ",
+    "type_of_place": "historical",
+    "event": "Ghi dấu trận vận động phục kích lớn nhất trong kháng chiến chống Pháp tại Liên khu 5 (năm 1954).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Đak Pơ",
+      "district": "Huyện Đak Pơ",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Núi Hàm Rồng (Chư Hdrung)",
+    "type_of_place": "natural",
+    "event": "Được coi là nóc nhà của Pleiku, là một miệng núi lửa dương đã tắt từ hàng triệu năm trước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Chư Hdrung",
+      "district": "Thành phố Pleiku",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Đồi chè Bàu Cạn",
+    "type_of_place": "natural",
+    "event": "Gắn liền với lịch sử khai thác đồn điền chè Catecka của người Pháp từ đầu thế kỷ XX.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Bàu Cạn",
+      "district": "Huyện Chư Prông",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Thác Xung Khoeng",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ia Me",
+      "district": "Huyện Chư Prông",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Căn cứ địa cách mạng Khu 10",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa quan trọng của tỉnh Gia Lai trong cuộc kháng chiến chống Mỹ cứu nước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Krong",
+      "district": "Huyện Kbang",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Công viên văn hóa Đồng Xanh",
+    "type_of_place": "historical",
+    "event": "Nơi tái hiện không gian văn hóa các dân tộc Tây Nguyên và lưu giữ nhiều hiện vật lịch sử - văn hóa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Phú",
+      "district": "Thành phố Pleiku",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Thủy điện Ialy",
+    "type_of_place": "natural",
+    "event": "Công trình thủy điện ngầm lớn nhất Tây Nguyên, gắn liền với sự nghiệp công nghiệp hóa và chinh phục thiên nhiên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ialy",
+      "district": "Huyện Chư Păh",
+      "province": "Gia Lai"
+    }
+  },
+  {
+    "name": "Đập Tân Sơn",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nghĩa Hưng",
+      "district": "Huyện Chư Păh",
+      "province": "Gia Lai"
+    }
+  }
+]
+}

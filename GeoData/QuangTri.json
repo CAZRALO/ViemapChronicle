@@ -1,0 +1,137 @@
+{   
+    "sites": 
+    [
+  {
+    "name": "Thành cổ Quảng Trị",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra cuộc chiến đấu 81 ngày đêm khốc liệt (Mùa hè đỏ lửa 1972) bảo vệ thành cổ, khúc tráng ca bi hùng của dân tộc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thị xã Quảng Trị",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Đôi bờ Hiền Lương - Bến Hải",
+    "type_of_place": "historical",
+    "event": "Biểu tượng của nỗi đau chia cắt hai miền Nam - Bắc suốt 20 năm chiến tranh (vĩ tuyến 17) và khát vọng thống nhất non sông.",
+    "place": {
+      "hamlet": "Thôn Hiền Lương",
+      "commune": "Xã Hiền Thành (bờ Bắc) và Xã Trung Hải (bờ Nam)",
+      "district": "Huyện Vĩnh Linh, Huyện Gio Linh",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Địa đạo Vịnh Mốc",
+    "type_of_place": "historical",
+    "event": "Công trình kỳ vĩ dưới lòng đất, 'ngôi làng ngầm' nơi quân và dân Vĩnh Linh sinh sống và chiến đấu an toàn dưới mưa bom bão đạn.",
+    "place": {
+      "hamlet": "Thôn Vịnh Mốc",
+      "commune": "Xã Kim Thạch",
+      "district": "Huyện Vĩnh Linh",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Nghĩa trang liệt sĩ Quốc gia Trường Sơn",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ đời đời của hơn 10.000 liệt sĩ đã hy sinh trên tuyến đường Trường Sơn huyền thoại.",
+    "place": {
+      "hamlet": "Đồi Bến Tắt",
+      "commune": "Xã Linh Trường",
+      "district": "Huyện Gio Linh",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Sân bay Tà Cơn (Khu di tích Khe Sanh)",
+    "type_of_place": "historical",
+    "event": "Căn cứ điểm quan trọng trong hệ thống phòng thủ Đường 9 - Khe Sanh của Mỹ, nơi diễn ra Chiến dịch Khe Sanh (1968) chấn động địa cầu.",
+    "place": {
+      "hamlet": "Thôn Hòa Thành",
+      "commune": "Xã Tân Hợp",
+      "district": "Huyện Hướng Hóa",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Đảo Cồn Cỏ",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Vọng gác tiền tiêu' giữa biển Đông, 2 lần được phong tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Huyện đảo Cồn Cỏ",
+      "district": "Huyện Cồn Cỏ",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Trung tâm Hành hương Đức Mẹ La Vang",
+    "type_of_place": "historical",
+    "event": "Trung tâm Thánh mẫu toàn quốc của Giáo hội Công giáo Việt Nam, nơi ghi dấu sự kiện Đức Mẹ hiện ra năm 1798.",
+    "place": {
+      "hamlet": "Thôn Phú Hưng",
+      "commune": "Xã Hải Phú",
+      "district": "Huyện Hải Lăng",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Biển Cửa Tùng",
+    "type_of_place": "natural",
+    "event": "Từng được người Pháp mệnh danh là 'Nữ hoàng của các bãi tắm' nhờ bãi cát mịn và vẻ đẹp hoang sơ.",
+    "place": {
+      "hamlet": "Khu phố An Hòa",
+      "commune": "Thị trấn Cửa Tùng",
+      "district": "Huyện Vĩnh Linh",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Nhà tù Lao Bảo",
+    "type_of_place": "historical",
+    "event": "Một trong những nhà tù lớn nhất Đông Dương, nơi thực dân Pháp giam cầm nhiều nhà cách mạng cốt cán (Tố Hữu, Nguyễn Chí Thanh...).",
+    "place": {
+      "hamlet": "Khóm Duy Tân",
+      "commune": "Thị trấn Lao Bảo",
+      "district": "Huyện Hướng Hóa",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Trụ sở Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam",
+    "type_of_place": "historical",
+    "event": "Nơi đặt trụ sở làm việc của Chính phủ CMLT từ năm 1973 đến 1975 sau khi Hiệp định Paris được ký kết, nơi tiếp đón nhiều nguyên thủ quốc gia (Fidel Castro).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cam Lộ",
+      "district": "Huyện Cam Lộ",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Mũi Trèo",
+    "type_of_place": "natural",
+    "event": "Mõm đá nhô ra biển với độ cao hàng chục mét, nằm giữa rừng nguyên sinh Rú Bàu và biển xanh, điểm cắm trại nổi tiếng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Kim Thạch",
+      "district": "Huyện Vĩnh Linh",
+      "province": "Quảng Trị"
+    }
+  },
+  {
+    "name": "Thác Tà Puồng",
+    "type_of_place": "natural",
+    "event": "Hệ thống thác nước hùng vĩ nằm sâu trong rừng già, nơi có động Tà Puồng từng là kho chứa lương thực trong chiến tranh.",
+    "place": {
+      "hamlet": "Thôn Trăng Tà Puồng",
+      "commune": "Xã Hướng Việt",
+      "district": "Huyện Hướng Hóa",
+      "province": "Quảng Trị"
+    }
+  }
+]
+}

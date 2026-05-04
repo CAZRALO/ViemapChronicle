@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu du lịch Quốc gia Tam Chúc",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Vịnh Hạ Long trên cạn', nơi có ngôi chùa lớn nhất thế giới và từng đăng cai Đại lễ Phật đản Liên Hợp Quốc (Vesak).",
+    "place": {
+      "hamlet": "Thôn Đục",
+      "commune": "Thị trấn Ba Sao",
+      "district": "Huyện Kim Bảng",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Chùa Bà Đanh",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ kính nổi tiếng với câu thành ngữ 'Vắng như chùa Bà Đanh', nằm bên dòng sông Đáy thơ mộng.",
+    "place": {
+      "hamlet": "Thôn Đanh",
+      "commune": "Xã Ngọc Sơn",
+      "district": "Huyện Kim Bảng",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Đền Trần Thương",
+    "type_of_place": "historical",
+    "event": "Di tích Quốc gia đặc biệt, tương truyền là kho lương thảo quan trọng của Hưng Đạo Đại Vương Trần Quốc Tuấn trong cuộc kháng chiến chống quân Nguyên Mông.",
+    "place": {
+      "hamlet": "Thôn Trần Thương",
+      "commune": "Xã Trần Hưng Đạo",
+      "district": "Huyện Lý Nhân",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Nhà Bá Kiến (Làng Vũ Đại)",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà hơn 100 năm tuổi, nguyên mẫu trong tác phẩm văn học kinh điển 'Chí Phèo' của nhà văn Nam Cao.",
+    "place": {
+      "hamlet": "Thôn 4 (Làng Vũ Đại)",
+      "commune": "Xã Hòa Hậu",
+      "district": "Huyện Lý Nhân",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Chùa Long Đọi Sơn (Chùa Đọi)",
+    "type_of_place": "historical",
+    "event": "Di tích Quốc gia đặc biệt, nơi lưu giữ Bia Sùng Thiện Diên Linh (Bảo vật quốc gia) thời Lý và diễn ra Lễ hội Tịch điền Đọi Sơn hàng năm.",
+    "place": {
+      "hamlet": "Thôn Đọi Tam",
+      "commune": "Xã Tiên Sơn",
+      "district": "Thị xã Duy Tiên",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Địa Tạng Phi Lai Tự (Chùa Đùng)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa có kiến trúc đẹp, thanh tịnh, tựa lưng vào núi, là điểm đến tâm linh và 'sống ảo' nổi tiếng gần đây.",
+    "place": {
+      "hamlet": "Thôn Ninh Trung",
+      "commune": "Xã Liêm Sơn",
+      "district": "Huyện Thanh Liêm",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Kẽm Trống",
+    "type_of_place": "natural",
+    "event": "Thắng cảnh quốc gia được mệnh danh là 'Nam thiên đệ tam động', từng đi vào thơ của nữ sĩ Hồ Xuân Hương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thanh Hải",
+      "district": "Huyện Thanh Liêm",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Đền Lảnh Giang",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Tam Vị Danh Thần đời Trần, gắn liền với tín ngưỡng thờ Mẫu và các huyền tích sông nước sông Hồng.",
+    "place": {
+      "hamlet": "Thôn Yên Lạc",
+      "commune": "Xã Mộc Nam",
+      "district": "Thị xã Duy Tiên",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Bát Cảnh Sơn",
+    "type_of_place": "natural",
+    "event": "Quần thể danh thắng với 8 ngôi chùa và hang động đẹp, từng là nơi chúa Trịnh Sâm thưởng ngoạn và ví như thắng cảnh tiêu dao.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tượng Lĩnh",
+      "district": "Huyện Kim Bảng",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Làng Trống Đọi Tam",
+    "type_of_place": "historical",
+    "event": "Làng nghề làm trống truyền thống nổi tiếng hơn 1.000 năm tuổi, nơi làm ra chiếc trống sấm lớn nhất Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Đọi Tam",
+      "commune": "Xã Tiên Sơn",
+      "district": "Thị xã Duy Tiên",
+      "province": "Hà Nam"
+    }
+  },
+  {
+    "name": "Ao Dong - Hang Luồn",
+    "type_of_place": "natural",
+    "event": "Khu du lịch sinh thái với cảnh quan sơn thủy hữu tình, thích hợp cho các hoạt động chèo thuyền khám phá hang động.",
+    "place": {
+      "hamlet": "Thôn Bút Phong",
+      "commune": "Xã Liên Sơn",
+      "district": "Huyện Kim Bảng",
+      "province": "Hà Nam"
+    }
+  }
+]
+}

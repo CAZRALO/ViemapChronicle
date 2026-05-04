@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Ao Bà Om (Ao Vuông)",
+    "type_of_place": "natural",
+    "event": "Thắng cảnh nổi tiếng gắn liền với truyền thuyết cuộc thi đào ao giữa phái nam và phái nữ để giành quyền cưới hỏi.",
+    "place": {
+      "hamlet": "Khóm 3",
+      "commune": "Phường 8",
+      "district": "Thành phố Trà Vinh",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Chùa Ang (Angkorajaborey)",
+    "type_of_place": "historical",
+    "event": "Một trong những ngôi chùa Khmer cổ kính và đẹp nhất Trà Vinh, nằm trong khuôn viên thắng cảnh Ao Bà Om, mang đậm kiến trúc Angkor.",
+    "place": {
+      "hamlet": "Khóm 3",
+      "commune": "Phường 8",
+      "district": "Thành phố Trà Vinh",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Biển Ba Động",
+    "type_of_place": "natural",
+    "event": "Bãi biển dài với những triền cát nhấp nhô độc đáo (do đó có tên Ba Động), nơi có bãi cát pha sắt đen đặc trưng.",
+    "place": {
+      "hamlet": "Ấp Nhà Mát",
+      "commune": "Xã Trường Long Hòa",
+      "district": "Thị xã Duyên Hải",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Đền thờ Chủ tịch Hồ Chí Minh",
+    "type_of_place": "historical",
+    "event": "Được quân dân Trà Vinh bí mật xây dựng và bảo vệ ngay trong lòng địch trong suốt những năm tháng chiến tranh ác liệt (khánh thành năm 1971).",
+    "place": {
+      "hamlet": "Ấp Vĩnh Hội",
+      "commune": "Xã Long Đức",
+      "district": "Thành phố Trà Vinh",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Chùa Hang (Kompong Chray)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Khmer độc đáo với cổng chùa thiết kế giống như một cái hang, nổi tiếng với xưởng điêu khắc gỗ nghệ thuật và sân chim tự nhiên.",
+    "place": {
+      "hamlet": "Khóm 3",
+      "commune": "Thị trấn Châu Thành",
+      "district": "Huyện Châu Thành",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Cù lao Tân Quy",
+    "type_of_place": "natural",
+    "event": "Vùng đất phù sa trù phú nổi tiếng với các vườn cây ăn trái trĩu quả (măng cụt, chôm chôm) nằm giữa dòng sông Hậu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Phú Tân",
+      "district": "Huyện Cầu Kè",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Bảo tàng Văn hóa dân tộc Khmer Trà Vinh",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ, trưng bày và giới thiệu hơn 800 hiện vật phản ánh đời sống văn hóa, tinh thần phong phú của đồng bào dân tộc Khmer Nam Bộ.",
+    "place": {
+      "hamlet": "Khóm 4",
+      "commune": "Phường 8",
+      "district": "Thành phố Trà Vinh",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Chùa Cò (Chùa Nodol)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Khmer cổ có khuôn viên rộng lớn là nơi cư trú của hàng nghìn con cò, vạc, cồng cộc... tạo nên cảnh quan thiên nhiên kỳ thú.",
+    "place": {
+      "hamlet": "Ấp Giồng Lớn",
+      "commune": "Xã Đại An",
+      "district": "Huyện Trà Cú",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Nhà cổ Huỳnh Kỳ",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà cổ tuyệt đẹp kết hợp kiến trúc Pháp và hoa văn Việt - Hoa, từng là tư gia của Đốc phủ sứ Huỳnh Kỳ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cầu Kè",
+      "district": "Huyện Cầu Kè",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Cù lao Long Trị",
+    "type_of_place": "natural",
+    "event": "Khu du lịch sinh thái với rừng bần ngập mặn nguyên sinh và các hoạt động chèo thuyền, câu cá thư giãn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Long Đức",
+      "district": "Thành phố Trà Vinh",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Trà Vinh",
+    "type_of_place": "historical",
+    "event": "Ngôi thiền viện thuộc phái Trúc Lâm Yên Tử đầu tiên và lớn nhất tại Trà Vinh, nằm hướng ra biển Đông.",
+    "place": {
+      "hamlet": "Ấp Khoán Tiều",
+      "commune": "Xã Trường Long Hòa",
+      "district": "Thị xã Duyên Hải",
+      "province": "Trà Vinh"
+    }
+  },
+  {
+    "name": "Di tích Bến tiếp nhận vũ khí Cồn Tàu (Đường Hồ Chí Minh trên biển)",
+    "type_of_place": "historical",
+    "event": "Một mắt xích quan trọng của đường Hồ Chí Minh trên biển, nơi tiếp nhận vũ khí từ miền Bắc chi viện cho chiến trường miền Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Trường Long Hòa",
+      "district": "Thị xã Duyên Hải",
+      "province": "Trà Vinh"
+    }
+  }
+]
+}

@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Bạch Đằng Giang",
+    "type_of_place": "historical",
+    "event": "Quần thể di tích ghi dấu 3 trận thủy chiến hào hùng trên sông Bạch Đằng gắn liền với các vị anh hùng: Ngô Quyền (938), Lê Đại Hành (981) và Trần Hưng Đạo (1288).",
+    "place": {
+      "hamlet": "Thôn Tràng Kênh",
+      "commune": "Thị trấn Minh Đức",
+      "district": "Huyện Thủy Nguyên",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Quần đảo Cát Bà (Vườn quốc gia Cát Bà)",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới được UNESCO công nhận, nơi bảo tồn loài Voọc Cát Bà quý hiếm và hệ sinh thái đa dạng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cát Bà (và các xã lân cận)",
+      "district": "Huyện Cát Hải",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Vịnh Lan Hạ",
+    "type_of_place": "natural",
+    "event": "Một trong những vịnh đẹp nhất thế giới, nằm liền kề vịnh Hạ Long với hàng trăm đảo đá vôi và bãi tắm hoang sơ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cát Bà",
+      "district": "Huyện Cát Hải",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Bến K15 (Bến tàu không số)",
+    "type_of_place": "historical",
+    "event": "Điểm xuất phát của những con 'Tàu không số' huyền thoại, mở đường Hồ Chí Minh trên biển chi viện cho chiến trường miền Nam.",
+    "place": {
+      "hamlet": "Khu 3",
+      "commune": "Phường Vạn Hương",
+      "district": "Quận Đồ Sơn",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Nhà hát Lớn Hải Phòng",
+    "type_of_place": "historical",
+    "event": "Một trong ba nhà hát lớn nhất Việt Nam xây dựng thời Pháp thuộc (1904-1912), biểu tượng kiến trúc và văn hóa của thành phố Cảng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hoàng Văn Thụ",
+      "district": "Quận Hồng Bàng",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Đảo Hòn Dấu",
+    "type_of_place": "historical",
+    "event": "Nơi có ngọn hải đăng cổ nhất Việt Nam (xây dựng năm 1892) và đền thờ Nam Hải Thần Vương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Vạn Hương",
+      "district": "Quận Đồ Sơn",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Núi Voi",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa quan trọng của nước ta thời nhà Mạc và trong hai cuộc kháng chiến chống Pháp, Mỹ; nơi có hang động ghi dấu vết người tiền sử.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Tiến, Xã Trường Thành",
+      "district": "Huyện An Lão",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Tháp Tường Long",
+    "type_of_place": "historical",
+    "event": "Ngọn tháp Rồng Tường được xây dựng từ thời vua Lý Thánh Tông (năm 1058), từng là trung tâm Phật giáo lớn vùng duyên hải.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Ngọc Xuyên",
+      "district": "Quận Đồ Sơn",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Chùa Dư Hàng (Phúc Lâm Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ danh tiếng, tương truyền có từ thời Tiền Lê, nơi lưu giữ nhiều di vật quý và kiến trúc chạm khắc tinh xảo.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hồ Nam",
+      "district": "Quận Lê Chân",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Khu tưởng niệm Vương triều Mạc",
+    "type_of_place": "historical",
+    "event": "Nơi thờ cúng các vị vua nhà Mạc và các danh tướng, nằm trên vùng đất phát tích của Vương triều Mạc (Cổ Trai).",
+    "place": {
+      "hamlet": "Thôn Cổ Trai",
+      "commune": "Xã Ngũ Đoan",
+      "district": "Huyện Kiến Thụy",
+      "province": "Thành phố Hải Phòng"
+    }
+  },
+  {
+    "name": "Tuyệt Tình Cốc (Hồ nước xanh)",
+    "type_of_place": "natural",
+    "event": "Hồ nước nhân tạo (do khai thác đá) có màu xanh ngọc bích lạ mắt, là điểm check-in nổi tiếng.",
+    "place": {
+      "hamlet": "Thôn Trại Sơn",
+      "commune": "Xã An Sơn",
+      "district": "Huyện Thủy Nguyên",
+      "province": "Thành phố Hải Phòng"
+    }
+  }
+]
+}

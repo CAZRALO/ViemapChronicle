@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Chiến thắng Xương Giang",
+    "type_of_place": "historical",
+    "event": "Ghi dấu chiến thắng Chi Lăng - Xương Giang (1427) của quân Lam Sơn, chấm dứt 20 năm đô hộ của nhà Minh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Xương Giang",
+      "district": "Thành phố Bắc Giang",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Chùa Vĩnh Nghiêm (Chùa La)",
+    "type_of_place": "historical",
+    "event": "Chốn tổ của Thiền phái Trúc Lâm Yên Tử, nơi lưu giữ kho mộc bản kinh Phật được UNESCO công nhận là Di sản tư liệu thế giới.",
+    "place": {
+      "hamlet": "Thôn Đức La",
+      "commune": "Xã Trí Yên",
+      "district": "Huyện Yên Dũng",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Chùa Bổ Đà (Chùa Bổ)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với vườn tháp lớn nhất Việt Nam, kiến trúc tường trình đất độc đáo và bộ mộc bản kinh Phật khắc trên gỗ thị.",
+    "place": {
+      "hamlet": "Thôn Thượng Lát",
+      "commune": "Xã Tiên Sơn",
+      "district": "Thị xã Việt Yên",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Khu di tích Khởi nghĩa Yên Thế",
+    "type_of_place": "historical",
+    "event": "Gắn liền với tên tuổi người anh hùng áo vải Hoàng Hoa Thám (Đề Thám) và cuộc khởi nghĩa nông dân kéo dài 30 năm (1884-1913).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Phồn Xương",
+      "district": "Huyện Yên Thế",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Cây Dã Hương ngàn năm tuổi",
+    "type_of_place": "natural",
+    "event": "Cây cổ thụ quý hiếm, được vua Lê Cảnh Hưng phong là 'Quốc chúa đô mộc', ước tính hơn 1000 năm tuổi.",
+    "place": {
+      "hamlet": "Thôn Giữa",
+      "commune": "Xã Tiên Lục",
+      "district": "Huyện Lạng Giang",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Khu du lịch sinh thái Suối Mỡ",
+    "type_of_place": "natural",
+    "event": "Gắn liền với huyền thoại Công chúa Quế Mị Nương (Thượng Ngàn Thánh Mẫu) mở suối khai nương, có hệ thống đền thờ và thác nước đẹp.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nghĩa Phương",
+      "district": "Huyện Lục Nam",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Cao nguyên Đồng Cao",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Mẫu Sơn' hay 'Sapa' của Bắc Giang với bãi cỏ xanh ngát, bãi đá cổ và khí hậu mát mẻ, địa điểm cắm trại nổi tiếng.",
+    "place": {
+      "hamlet": "Bản Gà",
+      "commune": "Xã Thạch Sơn",
+      "district": "Huyện Sơn Động",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Hồ Cấm Sơn",
+    "type_of_place": "natural",
+    "event": "Hồ nước nhân tạo rộng lớn với cảnh quan sơn thủy hữu tình, là nguồn cảm hứng cho ca khúc nổi tiếng 'Hồ trên núi'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Sơn Hải, Xã Hộ Đáp, Xã Tân Sơn, Xã Cấm Sơn",
+      "district": "Huyện Lục Ngạn",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Lăng Dinh Hương",
+    "type_of_place": "historical",
+    "event": "Quần thể kiến trúc điêu khắc đá độc đáo thời Hậu Lê, nơi an nghỉ của Quận công La Quý Hầu.",
+    "place": {
+      "hamlet": "Thôn Dinh Hương",
+      "commune": "Xã Đức Thắng",
+      "district": "Huyện Hiệp Hòa",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Khu du lịch tâm linh - sinh thái Tây Yên Tử",
+    "type_of_place": "historical",
+    "event": "Tái hiện con đường hoằng dương Phật pháp của Phật hoàng Trần Nhân Tông, kết nối với khu di tích Yên Tử (Quảng Ninh).",
+    "place": {
+      "hamlet": "Thôn Đồng Thông",
+      "commune": "Thị trấn Tây Yên Tử",
+      "district": "Huyện Sơn Động",
+      "province": "Bắc Giang"
+    }
+  },
+  {
+    "name": "Rừng nguyên sinh Khe Rỗ",
+    "type_of_place": "natural",
+    "event": "Khu rừng nguyên sinh tiêu biểu của vùng Đông Bắc Việt Nam với hệ động thực vật phong phú.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Lạc",
+      "district": "Huyện Sơn Động",
+      "province": "Bắc Giang"
+    }
+  }
+]
+}

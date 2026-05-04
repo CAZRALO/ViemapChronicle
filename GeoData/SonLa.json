@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Di tích Quốc gia đặc biệt Nhà tù Sơn La",
+    "type_of_place": "historical",
+    "event": "Nơi thực dân Pháp giam cầm và đày ải những người cộng sản kiên trung (như Tô Hiệu, Lê Duẩn...), nổi tiếng với cây đào Tô Hiệu.",
+    "place": {
+      "hamlet": "Đồi Khau Cả",
+      "commune": "Phường Tô Hiệu",
+      "district": "Thành phố Sơn La",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Nhà máy Thủy điện Sơn La",
+    "type_of_place": "historical",
+    "event": "Nhà máy thủy điện lớn nhất khu vực Đông Nam Á (tại thời điểm khánh thành), công trình trọng điểm quốc gia trên dòng sông Đà.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ít Ong",
+      "district": "Huyện Mường La",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Đỉnh Tà Xùa (Sống lưng Khủng Long)",
+    "type_of_place": "natural",
+    "event": "Thiên đường săn mây nổi tiếng miền Bắc, nơi có dãy núi hình sống lưng khủng long vươn ra giữa biển mây bồng bềnh.",
+    "place": {
+      "hamlet": "Bản Chống Tra",
+      "commune": "Xã Tà Xùa",
+      "district": "Huyện Bắc Yên",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Thác Dải Yếm (Thác Nàng)",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết về chiếc dải yếm của người con gái dùng để cứu chàng trai khỏi dòng nước lũ.",
+    "place": {
+      "hamlet": "Bản Vặt",
+      "commune": "Xã Mường Sang",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Rừng thông Bản Áng",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Đà Lạt thu nhỏ' của Tây Bắc với hồ nước tự nhiên và rừng thông xanh bạt ngàn.",
+    "place": {
+      "hamlet": "Bản Áng",
+      "commune": "Xã Đông Sang",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Đỉnh Pha Luông",
+    "type_of_place": "natural",
+    "event": "Nóc nhà của cao nguyên Mộc Châu, địa danh đi vào bài thơ 'Tây Tiến' của Quang Dũng ('Nhà ai Pha Luông mưa xa khơi').",
+    "place": {
+      "hamlet": "Bản Pha Luông",
+      "commune": "Xã Chiềng Sơn",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Văn bia Quế Lâm Ngự Chế",
+    "type_of_place": "historical",
+    "event": "Nơi khắc bài thơ của Vua Lê Thái Tông vào vách đá năm 1440 sau khi đi tuần thú vùng Tây Bắc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Chiềng Lề",
+      "district": "Thành phố Sơn La",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Đồi chè Trái Tim",
+    "type_of_place": "natural",
+    "event": "Biểu tượng của du lịch Mộc Châu, nơi những luống chè được trồng khéo léo tạo thành hình trái tim.",
+    "place": {
+      "hamlet": "Tiểu khu Mía Đường",
+      "commune": "Thị trấn Nông trường Mộc Châu",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Hang Dơi (Động Sơn Mộc Hương)",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Tây Thiên Đệ Nhất Động', hang động đá vôi đẹp nhất vùng cao nguyên Mộc Châu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Mộc Châu",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Cầu Pá Uôn",
+    "type_of_place": "historical",
+    "event": "Cây cầu có trụ cao nhất Việt Nam (tại thời điểm xây dựng) bắc qua lòng hồ thủy điện Sơn La.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Chiềng Ơn",
+      "district": "Huyện Quỳnh Nhai",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Thung lũng mận Nà Ka",
+    "type_of_place": "natural",
+    "event": "Thung lũng trồng mận hậu lớn nhất Mộc Châu, đẹp rực rỡ vào mùa hoa nở trắng trời hoặc mùa hái quả.",
+    "place": {
+      "hamlet": "Bản Nà Ka",
+      "commune": "Thị trấn Nông trường Mộc Châu",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  },
+  {
+    "name": "Di tích lịch sử Đồn Mộc Lỵ",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận đánh tiêu diệt đồn Mộc Lỵ (1952), chiến thắng quan trọng mở màn cho chiến dịch giải phóng Tây Bắc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Mộc Châu",
+      "district": "Huyện Mộc Châu",
+      "province": "Sơn La"
+    }
+  }
+]
+}

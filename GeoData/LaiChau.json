@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Đỉnh Pu Ta Leng",
+    "type_of_place": "natural",
+    "event": "Đỉnh núi cao thứ hai của Việt Nam (3.049m), là một trong những cung đường trekking thử thách và hấp dẫn nhất cả nước, nổi tiếng với rừng đỗ quyên nguyên sinh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tả Lèng",
+      "district": "Thành phố Lai Châu",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Đèo Ô Quy Hồ",
+    "type_of_place": "natural",
+    "event": "Một trong 'Tứ Đại Đỉnh Đèo' của Việt Nam, nơi có cột mốc ranh giới ba tỉnh Lai Châu, Lào Cai và Yên Bái, với cảnh quan hùng vĩ và mây mù bao phủ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Sơn Bình (giáp ranh với Lào Cai)",
+      "district": "Huyện Tam Đường",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Cao nguyên Sìn Hồ",
+    "type_of_place": "natural",
+    "event": "Cao nguyên đá vôi với khí hậu mát mẻ, nơi sinh sống của nhiều dân tộc thiểu số như Mông, Dao, Lự, Giáy, giữ được nét văn hóa và chợ phiên độc đáo.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Sìn Hồ (và các xã lân cận)",
+      "district": "Huyện Sìn Hồ",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Thác Tác Tình",
+    "type_of_place": "natural",
+    "event": "Ngọn thác hùng vĩ, gắn liền với truyền thuyết về mối tình buồn của đôi trai gái dân tộc Thái, mang vẻ đẹp hoang sơ giữa núi rừng.",
+    "place": {
+      "hamlet": "Bản Hon",
+      "commune": "Xã Bản Hon",
+      "district": "Huyện Tam Đường",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Quần thể động Pu Sam Cap",
+    "type_of_place": "natural",
+    "event": "Hệ thống hang động đá vôi lớn nằm trong núi Pu Sam Cap, gồm các hang Thiên Môn, Thiên Đường, Thủy Tinh với nhũ đá muôn hình vạn trạng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nậm Loỏng, Xã San Thàng",
+      "district": "Thành phố Lai Châu",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Khu di tích lịch sử Khu ủy Tây Bắc",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa của cơ quan Khu ủy, nơi làm việc và lãnh đạo cách mạng của các đồng chí lãnh đạo cao cấp vùng Tây Bắc trong cuộc kháng chiến chống Pháp.",
+    "place": {
+      "hamlet": "Bản Xo La",
+      "commune": "Xã Mường So",
+      "district": "Huyện Phong Thổ",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Cánh đồng Mường Than",
+    "type_of_place": "natural",
+    "event": "Cánh đồng lúa lớn thứ ba vùng Tây Bắc ('Nhất Thanh, nhì Lò, tam Than, tứ Tấc'), tạo nên cảnh quan nông nghiệp tuyệt đẹp.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Mường Than (và các xã lân cận)",
+      "district": "Huyện Than Uyên",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Cửa khẩu Quốc tế Ma Lù Thàng",
+    "type_of_place": "historical",
+    "event": "Cửa khẩu quan trọng giao thương kinh tế giữa Việt Nam và Trung Quốc, nằm trên đường biên giới tỉnh Lai Châu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ma Ly Pho",
+      "district": "Huyện Phong Thổ",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Di tích lịch sử Tỉnh ủy Lai Châu",
+    "type_of_place": "historical",
+    "event": "Căn cứ hoạt động bí mật và lãnh đạo nhân dân trong cuộc kháng chiến chống Pháp (1950-1954).",
+    "place": {
+      "hamlet": "Bản Mô",
+      "commune": "Xã Sìn Hồ",
+      "district": "Huyện Sìn Hồ",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Bản Hon (Làng người Thái)",
+    "type_of_place": "historical",
+    "event": "Làng cổ của đồng bào dân tộc Thái, nơi còn giữ được những nét kiến trúc nhà sàn truyền thống và các lễ hội dân gian độc đáo.",
+    "place": {
+      "hamlet": "Bản Hon",
+      "commune": "Xã Bản Hon",
+      "district": "Huyện Tam Đường",
+      "province": "Lai Châu"
+    }
+  },
+  {
+    "name": "Đỉnh Bạch Mộc Lương Tử",
+    "type_of_place": "natural",
+    "event": "Đỉnh núi cao thứ tư Việt Nam (3.046m), nổi tiếng với 'biển mây' hùng vĩ vào sáng sớm.",
+    "place": {
+      "hamlet": "Bản Dền Sung",
+      "commune": "Xã Sin Suối Hồ",
+      "district": "Huyện Phong Thổ",
+      "province": "Lai Châu"
+    }
+  }
+]
+}

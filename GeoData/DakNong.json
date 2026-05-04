@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Hồ Tà Đùng",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Vịnh Hạ Long của Tây Nguyên', nằm trong Vườn quốc gia Tà Đùng với hơn 36 hòn đảo lớn nhỏ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đắk Som",
+      "district": "Huyện Đắk Glong",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Hang động núi lửa Chư Bluk (Dray Sáp)",
+    "type_of_place": "natural",
+    "event": "Hệ thống hang động núi lửa dài nhất Đông Nam Á, điểm nhấn quan trọng của Công viên địa chất toàn cầu UNESCO Đắk Nông.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Buôn Choáh",
+      "district": "Huyện Krông Nô",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Di tích lịch sử Ngục Đắk Mil",
+    "type_of_place": "historical",
+    "event": "Nhà ngục do thực dân Pháp xây dựng năm 1940 để giam giữ và đày ải những chiến sĩ cách mạng.",
+    "place": {
+      "hamlet": "Thôn 9",
+      "commune": "Xã Đắk Lao",
+      "district": "Huyện Đắk Mil",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Thác Liêng Nung",
+    "type_of_place": "natural",
+    "event": "Thác nước hùng vĩ với cấu tạo địa chất vách đá hình lục giác độc đáo, mang đậm huyền thoại của người M'nông.",
+    "place": {
+      "hamlet": "Buôn N'Jriêng",
+      "commune": "Xã Đắk Nia",
+      "district": "Thành phố Gia Nghĩa",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Thác Đắk G'Lun",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "Thôn 5",
+      "commune": "Xã Quảng Tâm",
+      "district": "Huyện Tuy Đức",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Khu căn cứ kháng chiến B4 - Liên tỉnh IV",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa cách mạng quan trọng của lực lượng kháng chiến Khu 6 và Khu 10 trong cuộc kháng chiến chống Mỹ (thuộc khu bảo tồn Nâm Nung).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nâm Nung",
+      "district": "Huyện Krông Nô",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Thác Dray Sáp",
+    "type_of_place": "natural",
+    "event": "Ngọn thác hùng vĩ bậc nhất Tây Nguyên, tên gọi có nghĩa là 'Thác Khói' do bọt nước tung trắng xóa quanh năm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đắk Sôr",
+      "district": "Huyện Krông Nô",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Di tích lịch sử Đồi 722 - Đắk Sắk",
+    "type_of_place": "historical",
+    "event": "Trại lực lượng đặc biệt của Mỹ - Ngụy, nơi diễn ra nhiều trận đánh ác liệt trong chiến tranh Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Thổ Hoàng 4",
+      "commune": "Xã Đắk Sắk",
+      "district": "Huyện Đắk Mil",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Đạo Nguyên",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc Phật giáo ẩn mình giữa rừng thông bạt ngàn của khu bảo tồn thiên nhiên Nâm Nung.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nâm N'Jang",
+      "district": "Huyện Đắk Song",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Tượng đài Anh hùng N'Trang Lơng",
+    "type_of_place": "historical",
+    "event": "Công trình tưởng niệm thủ lĩnh phong trào khởi nghĩa chống thực dân Pháp của đồng bào các dân tộc Tây Nguyên.",
+    "place": {
+      "hamlet": "Đồi Đắk Nur",
+      "commune": "Phường Nghĩa Đức",
+      "district": "Thành phố Gia Nghĩa",
+      "province": "Đắk Nông"
+    }
+  },
+  {
+    "name": "Thác Gia Long (Dray Sáp Thượng)",
+    "type_of_place": "natural",
+    "event": "Gắn liền với giai thoại vua Gia Long từng đến đây nghỉ ngơi và chiêm ngưỡng cảnh đẹp.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đắk Sôr",
+      "district": "Huyện Krông Nô",
+      "province": "Đắk Nông"
+    }
+  }
+]
+}

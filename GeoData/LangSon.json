@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích lịch sử Chi Lăng (Ải Chi Lăng)",
+    "type_of_place": "historical",
+    "event": "Địa danh lừng lẫy với những chiến công vang dội chống quân xâm lược phương Bắc (Tống, Nguyên, Minh), nơi Liễu Thăng bị chém đầu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Chi Lăng, Thị trấn Chi Lăng",
+      "district": "Huyện Chi Lăng",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Đỉnh Mẫu Sơn",
+    "type_of_place": "natural",
+    "event": "Nơi được người Pháp chọn làm khu nghỉ dưỡng từ đầu thế kỷ 20, nổi tiếng với khí hậu ôn đới và hiện tượng băng tuyết vào mùa đông.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Mẫu Sơn",
+      "district": "Huyện Lộc Bình (và Huyện Cao Lộc)",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Chùa Tam Thanh - Động Tam Thanh",
+    "type_of_place": "historical",
+    "event": "Danh thắng nổi tiếng trong câu ca dao 'Đồng Đăng có phố Kỳ Lừa / Có nàng Tô Thị, có chùa Tam Thanh', nơi lưu giữ nhiều bia ma nhai cổ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tam Thanh",
+      "district": "Thành phố Lạng Sơn",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Thành Nhà Mạc",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc quân sự phản ánh thời kỳ phong kiến phân tranh (Lê - Mạc), dựa vào địa thế núi non hiểm trở để xây dựng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tam Thanh",
+      "district": "Thành phố Lạng Sơn",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Núi Tô Thị (Nàng Tô Thị)",
+    "type_of_place": "historical",
+    "event": "Ngọn núi có tảng đá tự nhiên hình người phụ nữ bồng con, gắn liền với huyền thoại Hòn Vọng Phu chờ chồng hóa đá.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tam Thanh",
+      "district": "Thành phố Lạng Sơn",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Đền Mẫu Đồng Đăng",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Phật và Mẫu Thượng Ngàn, điểm đến tâm linh nổi tiếng bậc nhất vùng biên giới phía Bắc.",
+    "place": {
+      "hamlet": "Khu Lò Rèn",
+      "commune": "Thị trấn Đồng Đăng",
+      "district": "Huyện Cao Lộc",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Thung lũng Bắc Sơn",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với những cánh đồng lúa chín vàng óng ả nằm giữa các dãy núi đá vôi trùng điệp, điểm chụp ảnh phong cảnh nổi tiếng.",
+    "place": {
+      "hamlet": "Thôn Quỳnh Sơn",
+      "commune": "Xã Quỳnh Sơn",
+      "district": "Huyện Bắc Sơn",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Cửa khẩu Quốc tế Hữu Nghị",
+    "type_of_place": "historical",
+    "event": "Điểm khởi đầu của Quốc lộ 1A (Km 0), nơi đặt cột mốc 1116 ghi dấu chủ quyền và quan hệ giao thương Việt - Trung.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Đồng Đăng",
+      "district": "Huyện Cao Lộc",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Di tích Khởi nghĩa Bắc Sơn",
+    "type_of_place": "historical",
+    "event": "Nơi nổ ra cuộc khởi nghĩa vũ trang đầu tiên do Đảng Cộng sản Đông Dương lãnh đạo (năm 1940).",
+    "place": {
+      "hamlet": "Thôn Nông Lục",
+      "commune": "Xã Hưng Vũ",
+      "district": "Huyện Bắc Sơn",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Đền Kỳ Cùng",
+    "type_of_place": "historical",
+    "event": "Nơi thờ quan Tuần Tranh (Quan Lớn Tuần Tranh) bên bến sông Kỳ Cùng, gắn liền với lễ hội rước kiệu tắm sông độc đáo.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Vĩnh Trại",
+      "district": "Thành phố Lạng Sơn",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Hang Thẩm Khuyên - Thẩm Hai",
+    "type_of_place": "historical",
+    "event": "Di chỉ khảo cổ học quan trọng, nơi phát hiện các hóa thạch của người vượn (Homo erectus) và động vật cổ đại.",
+    "place": {
+      "hamlet": "Bản Còn",
+      "commune": "Xã Tân Văn",
+      "district": "Huyện Bình Gia",
+      "province": "Lạng Sơn"
+    }
+  },
+  {
+    "name": "Thác Đăng Mò",
+    "type_of_place": "natural",
+    "event": "Thác nước hoang sơ chảy dọc theo các triền đá, ẩn mình giữa khu rừng già.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Mông Ân",
+      "district": "Huyện Bình Gia",
+      "province": "Lạng Sơn"
+    }
+  }
+]
+}

@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Chùa Keo (Thần Quang Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ có kiến trúc gỗ độc đáo nhất Việt Nam (đặc biệt là gác chuông), Di tích Quốc gia đặc biệt, nơi thờ Thiền sư Dương Không Lộ.",
+    "place": {
+      "hamlet": "Thôn Dũng Nhuệ",
+      "commune": "Xã Duy Nhất",
+      "district": "Huyện Vũ Thư",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Khu di tích Đền Trần (Thái Bình)",
+    "type_of_place": "historical",
+    "event": "Nơi phát tích của vương triều Trần, nơi đặt lăng mộ của các vị vua đầu triều Trần và Thái sư Trần Thủ Độ.",
+    "place": {
+      "hamlet": "Thôn Tam Đường",
+      "commune": "Xã Tiến Đức",
+      "district": "Huyện Hưng Hà",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Biển Cồn Vành",
+    "type_of_place": "natural",
+    "event": "Nằm trong Khu dự trữ sinh quyển châu thổ sông Hồng được UNESCO công nhận, nổi tiếng với hệ sinh thái rừng ngập mặn và bãi biển hoang sơ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nam Phú",
+      "district": "Huyện Tiền Hải",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Khu du lịch sinh thái Cồn Đen",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Cồn biển đẹp nhất miền Bắc' với rừng thông xanh ngát và hệ thống cầu tre xuyên rừng ngập mặn dài nhất Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thái Đô",
+      "district": "Huyện Thái Thụy",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Đền Tiên La",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Bát Nàn Tướng quân Vũ Thị Thục (nữ tướng dưới trướng Hai Bà Trưng) có công đánh đuổi giặc Đông Hán.",
+    "place": {
+      "hamlet": "Thôn Tiên La",
+      "commune": "Xã Đoan Hùng",
+      "district": "Huyện Hưng Hà",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Đền Đồng Bằng (Đền Đức Vua Cha)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Vua Cha Bát Hải Động Đình, một trong những trung tâm tín ngưỡng Tứ phủ (Đạo Mẫu) lớn nhất vùng Bắc Bộ.",
+    "place": {
+      "hamlet": "Thôn Đồng Bằng",
+      "commune": "Xã An Lễ",
+      "district": "Huyện Quỳnh Phụ",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Làng vườn Bách Thuận",
+    "type_of_place": "natural",
+    "event": "Làng vườn cổ tiêu biểu của vùng đồng bằng Bắc Bộ với hệ thống nhà cổ, vườn cây cảnh và nghề trồng dâu nuôi tằm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Bách Thuận",
+      "district": "Huyện Vũ Thư",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Biển Đồng Châu",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với những cánh đồng nuôi ngao (vạng) rộng lớn trải dài ngút tầm mắt, tạo nên cảnh quan 'biển vô cực' độc đáo vào bình minh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đông Minh",
+      "district": "Huyện Tiền Hải",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Làng nghề chạm bạc Đồng Xâm",
+    "type_of_place": "historical",
+    "event": "Làng nghề thủ công truyền thống nổi tiếng hơn 400 năm tuổi, nơi có Đền Đồng Xâm thờ tổ nghề Nguyễn Kim Lâu.",
+    "place": {
+      "hamlet": "Thôn Thượng Gia",
+      "commune": "Xã Hồng Thái",
+      "district": "Huyện Kiến Xương",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Khu lưu niệm Nhà bác học Lê Quý Đôn",
+    "type_of_place": "historical",
+    "event": "Nơi thờ tự và lưu giữ các kỷ vật, tác phẩm của Lê Quý Đôn - nhà bác học lớn của Việt Nam thời phong kiến.",
+    "place": {
+      "hamlet": "Thôn Đồng Phú",
+      "commune": "Xã Độc Lập",
+      "district": "Huyện Hưng Hà",
+      "province": "Thái Bình"
+    }
+  },
+  {
+    "name": "Nhà thờ Chính tòa Thái Bình",
+    "type_of_place": "historical",
+    "event": "Một trong những ngôi thánh đường đẹp và lộng lẫy nhất Việt Nam, được khánh thành năm 2007, là trung tâm của Giáo phận Thái Bình.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Lê Hồng Phong",
+      "district": "Thành phố Thái Bình",
+      "province": "Thái Bình"
+    }
+  }
+]
+}

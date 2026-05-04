@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Đảo Lý Sơn (Cù lao Ré)",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Vương quốc tỏi', nơi lưu giữ các bằng chứng lịch sử về chủ quyền Hoàng Sa (Lễ khao lề thế lính Hoàng Sa).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Huyện đảo Lý Sơn (gồm xã An Vĩnh, An Hải, An Bình)",
+      "district": "Huyện Lý Sơn",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Khu chứng tích Sơn Mỹ (Thảm sát Mỹ Lai)",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu vụ thảm sát kinh hoàng ngày 16/3/1968 do quân đội Mỹ gây ra, cướp đi sinh mạng của 504 thường dân vô tội.",
+    "place": {
+      "hamlet": "Thôn Tư Cung",
+      "commune": "Xã Tịnh Khê",
+      "district": "Thành phố Quảng Ngãi",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Chùa Thiên Ấn (Mộ Cụ Huỳnh Thúc Kháng)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ tọa lạc trên đỉnh núi Thiên Ấn ('Niêm Hà Ấn Triện' - đệ nhất thắng cảnh Quảng Ngãi), nơi an nghỉ của Chí sĩ yêu nước Huỳnh Thúc Kháng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tịnh Ấn Đông",
+      "district": "Thành phố Quảng Ngãi",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Đồng muối Sa Huỳnh",
+    "type_of_place": "natural",
+    "event": "Cái nôi của Văn hóa Sa Huỳnh (một trong 3 nền văn hóa cổ đại của Việt Nam) và là vựa muối lớn, lâu đời bậc nhất miền Trung.",
+    "place": {
+      "hamlet": "Tổ dân phố Thạnh Đức",
+      "commune": "Phường Phổ Thạnh",
+      "district": "Thị xã Đức Phổ",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Khu di tích Khởi nghĩa Ba Tơ",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra cuộc Khởi nghĩa Ba Tơ (11/3/1945), đánh dấu sự ra đời của Đội du kích Ba Tơ - tiền thân của lực lượng vũ trang Quân khu 5.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Ba Tơ",
+      "district": "Huyện Ba Tơ",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Thác Trắng Minh Long",
+    "type_of_place": "natural",
+    "event": "Ngọn thác hùng vĩ cao hơn 40m nằm giữa rừng già, được ví như mái tóc của nàng tiên giữa đại ngàn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thanh An",
+      "district": "Huyện Minh Long",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Khu lưu niệm Thủ tướng Phạm Văn Đồng",
+    "type_of_place": "historical",
+    "event": "Nơi sinh ra, lớn lên và lưu giữ những kỷ vật về cuộc đời hoạt động cách mạng của cố Thủ tướng Phạm Văn Đồng.",
+    "place": {
+      "hamlet": "Thôn 2",
+      "commune": "Xã Đức Tân",
+      "district": "Huyện Mộ Đức",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Bãi biển Mỹ Khê",
+    "type_of_place": "natural",
+    "event": "Bãi biển đẹp và nổi tiếng nhất Quảng Ngãi, từng được quân đội Mỹ chọn làm khu vui chơi giải trí trong chiến tranh.",
+    "place": {
+      "hamlet": "Thôn Cổ Lũy",
+      "commune": "Xã Tịnh Khê",
+      "district": "Thành phố Quảng Ngãi",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Di tích Bệnh xá Đặng Thùy Trâm",
+    "type_of_place": "historical",
+    "event": "Nơi làm việc và hy sinh của nữ bác sĩ, Anh hùng LLVTND Đặng Thùy Trâm, tác giả cuốn 'Nhật ký Đặng Thùy Trâm' lay động lòng người.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phổ Cường",
+      "district": "Thị xã Đức Phổ",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Gành Yến",
+    "type_of_place": "natural",
+    "event": "Thắng cảnh thiên nhiên hoang sơ với các bãi đá trầm tích núi lửa xếp lớp độc đáo và là nơi chim yến thường về làm tổ.",
+    "place": {
+      "hamlet": "Thôn Thanh Thủy",
+      "commune": "Xã Bình Hải",
+      "district": "Huyện Bình Sơn",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Thành cổ Châu Sa",
+    "type_of_place": "historical",
+    "event": "Tòa thành đất duy nhất của Vương quốc Chăm Pa còn tồn tại ở Việt Nam, từng là trung tâm hành chính của châu Amaravati.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tịnh Châu",
+      "district": "Thành phố Quảng Ngãi",
+      "province": "Quảng Ngãi"
+    }
+  },
+  {
+    "name": "Mũi Ba Làng An",
+    "type_of_place": "natural",
+    "event": "Mũi đất có ngọn hải đăng cổ và địa hình miệng núi lửa dưới lòng biển độc đáo, gần di tích Địa đạo Đám Toái.",
+    "place": {
+      "hamlet": "Thôn Phú Quý",
+      "commune": "Xã Bình Châu",
+      "district": "Huyện Bình Sơn",
+      "province": "Quảng Ngãi"
+    }
+  }
+]
+}

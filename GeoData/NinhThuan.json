@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Tháp Po Klong Garai",
+    "type_of_place": "historical",
+    "event": "Cụm tháp Chăm hùng vĩ và đẹp nhất còn lại ở Việt Nam, nơi thờ vua Po Klong Garai - vị vua có công lớn trong việc khai mương đắp đập thủy lợi.",
+    "place": {
+      "hamlet": "Đồi Trầu",
+      "commune": "Phường Đô Vinh",
+      "district": "Thành phố Phan Rang - Tháp Chàm",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Vịnh Vĩnh Hy",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là một trong 4 vịnh đẹp nhất Việt Nam, nổi tiếng với con đường đèo ven biển và ngắm san hô bằng tàu đáy kính.",
+    "place": {
+      "hamlet": "Thôn Vĩnh Hy",
+      "commune": "Xã Vĩnh Hải",
+      "district": "Huyện Ninh Hải",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Làng gốm Bàu Trúc",
+    "type_of_place": "historical",
+    "event": "Làng gốm cổ nhất Đông Nam Á, nổi tiếng với kỹ thuật làm gốm thủ công 'tay nặn, chân xoay' (không dùng bàn xoay), được UNESCO ghi danh là Di sản văn hóa phi vật thể.",
+    "place": {
+      "hamlet": "Khu phố 7 (Làng Bàu Trúc)",
+      "commune": "Thị trấn Phước Dân",
+      "district": "Huyện Ninh Phước",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Hang Rái",
+    "type_of_place": "natural",
+    "event": "Tuyệt tác thiên nhiên với bãi đá san hô cổ hàng triệu năm tuổi và hiện tượng 'thác trên biển' độc đáo khi sóng vỗ.",
+    "place": {
+      "hamlet": "Thôn Thái An",
+      "commune": "Xã Vĩnh Hải",
+      "district": "Huyện Ninh Hải",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Đồi cát Nam Cương",
+    "type_of_place": "natural",
+    "event": "Đồi cát đỏ hoang sơ, được ví như sa mạc thu nhỏ, nơi du khách có thể ngắm cảnh sinh hoạt đời thường của người Chăm.",
+    "place": {
+      "hamlet": "Thôn Tuấn Tú",
+      "commune": "Xã An Hải",
+      "district": "Huyện Ninh Phước",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Mũi Dinh (Hải đăng Mũi Dinh)",
+    "type_of_place": "natural",
+    "event": "Nơi có ngọn hải đăng cổ xây dựng từ năm 1904 bởi người Pháp và Bãi Tràng hoang sơ tuyệt đẹp.",
+    "place": {
+      "hamlet": "Thôn Sơn Hải",
+      "commune": "Xã Phước Dinh",
+      "district": "Huyện Thuận Nam",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Núi Chúa",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới, đặc trưng với hệ sinh thái rừng khô hạn độc đáo hiếm thấy ở Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Vĩnh Hải (và các xã lân cận)",
+      "district": "Huyện Ninh Hải",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Đồng cừu An Hòa",
+    "type_of_place": "natural",
+    "event": "Cánh đồng chăn thả cừu lớn nhất Ninh Thuận, mang đậm phong cách du mục giữa vùng đất nắng gió.",
+    "place": {
+      "hamlet": "Thôn An Hòa",
+      "commune": "Xã Xuân Hải",
+      "district": "Huyện Ninh Hải",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Tháp Hòa Lai (Ba Tháp)",
+    "type_of_place": "historical",
+    "event": "Cụm di tích tháp Chăm cổ được xây dựng từ thế kỷ thứ 9, mang phong cách kiến trúc Hòa Lai đặc trưng.",
+    "place": {
+      "hamlet": "Thôn Ba Tháp",
+      "commune": "Xã Bắc Phong",
+      "district": "Huyện Thuận Bắc",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Làng dệt Mỹ Nghiệp",
+    "type_of_place": "historical",
+    "event": "Làng nghề dệt thổ cẩm truyền thống lâu đời của người Chăm, nơi lưu giữ những hoa văn độc đáo.",
+    "place": {
+      "hamlet": "Khu phố 6 (Làng Mỹ Nghiệp)",
+      "commune": "Thị trấn Phước Dân",
+      "district": "Huyện Ninh Phước",
+      "province": "Ninh Thuận"
+    }
+  },
+  {
+    "name": "Vườn nho Ba Mọi",
+    "type_of_place": "natural",
+    "event": "Trang trại nho nổi tiếng, điểm tiên phong trong mô hình du lịch sinh thái nông nghiệp tại Ninh Thuận.",
+    "place": {
+      "hamlet": "Thôn Hiệp Hòa",
+      "commune": "Xã Phước Thuận",
+      "district": "Huyện Ninh Phước",
+      "province": "Ninh Thuận"
+    }
+  }
+]
+}

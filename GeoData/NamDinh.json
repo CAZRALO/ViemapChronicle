@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Đền Trần",
+    "type_of_place": "historical",
+    "event": "Nơi thờ các vua nhà Trần và các quan lại có công, nổi tiếng với Lễ Khai ấn Đền Trần đầu xuân cầu quốc thái dân an.",
+    "place": {
+      "hamlet": "Thôn Tức Mặc",
+      "commune": "Phường Lộc Vượng",
+      "district": "Thành phố Nam Định",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Phủ Dầy",
+    "type_of_place": "historical",
+    "event": "Trung tâm của tín ngưỡng thờ Mẫu Tam Phủ (Di sản văn hóa phi vật thể đại diện của nhân loại), nơi thờ Thánh Mẫu Liễu Hạnh.",
+    "place": {
+      "hamlet": "Thôn Vân Cát, Tiên Hương",
+      "commune": "Xã Kim Thái",
+      "district": "Huyện Vụ Bản",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Xuân Thủy",
+    "type_of_place": "natural",
+    "event": "Khu Ramsar đầu tiên của Việt Nam và Đông Nam Á, nơi dừng chân quan trọng của hàng ngàn loài chim di cư quý hiếm.",
+    "place": {
+      "hamlet": "Cồn Lu, Cồn Ngạn",
+      "commune": "Xã Giao Thiện",
+      "district": "Huyện Giao Thủy",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Nhà thờ đổ Hải Lý (Nhà thờ Trái Tim)",
+    "type_of_place": "historical",
+    "event": "Chứng tích của sự xâm thực biển và biến đổi khí hậu, tàn tích của nhà thờ thánh Maria Madalena bên bờ biển.",
+    "place": {
+      "hamlet": "Xóm 3",
+      "commune": "Xã Hải Lý",
+      "district": "Huyện Hải Hậu",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Chùa Cổ Lễ (Thần Quang Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa nổi tiếng với tháp Cửu Phẩm Liên Hoa và lịch sử các nhà sư 'cởi cà sa khoác chiến bào' tham gia kháng chiến.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cổ Lễ",
+      "district": "Huyện Trực Ninh",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Vương cung thánh đường Phú Nhai",
+    "type_of_place": "historical",
+    "event": "Một trong những nhà thờ Công giáo lớn và đẹp nhất Việt Nam, mang đậm kiến trúc Gothic tráng lệ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Xuân Phương",
+      "district": "Huyện Xuân Trường",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Tháp Phổ Minh",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc gạch điển hình thời Trần (năm 1305), biểu tượng của Phật giáo Trúc Lâm và hào khí Đông A.",
+    "place": {
+      "hamlet": "Thôn Tức Mặc",
+      "commune": "Phường Lộc Vượng",
+      "district": "Thành phố Nam Định",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Cầu Ngói Chùa Lương",
+    "type_of_place": "historical",
+    "event": "Một trong ba cây cầu ngói cổ đẹp nhất Việt Nam (cùng với cầu ngói Thanh Toàn và Chùa Cầu Hội An), có niên đại hơn 500 năm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hải Anh",
+      "district": "Huyện Hải Hậu",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Biển Thịnh Long",
+    "type_of_place": "natural",
+    "event": "Bãi biển trải dài với hàng phi lao chắn cát, điểm nghỉ mát mùa hè nổi tiếng của tỉnh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Thịnh Long",
+      "district": "Huyện Hải Hậu",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Chùa Keo Hành Thiện",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ kính với kiến trúc gỗ độc đáo, nơi thờ Thiền sư Dương Không Lộ, gắn liền với lễ hội bơi chải đứng.",
+    "place": {
+      "hamlet": "Làng Hành Thiện",
+      "commune": "Xã Xuân Hồng",
+      "district": "Huyện Xuân Trường",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Nhà lưu niệm Cố Tổng Bí thư Trường Chinh",
+    "type_of_place": "historical",
+    "event": "Nơi sinh ra và lớn lên của đồng chí Trường Chinh, nhà lãnh đạo kiệt xuất của Cách mạng Việt Nam.",
+    "place": {
+      "hamlet": "Làng Hành Thiện",
+      "commune": "Xã Xuân Hồng",
+      "district": "Huyện Xuân Trường",
+      "province": "Nam Định"
+    }
+  },
+  {
+    "name": "Biển Quất Lâm",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Quất Lâm",
+      "district": "Huyện Giao Thủy",
+      "province": "Nam Định"
+    }
+  }
+]
+}

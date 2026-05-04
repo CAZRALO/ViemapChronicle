@@ -1,0 +1,125 @@
+{   
+    "sites": [
+        {
+            "name": "Cù lao An Bình",
+            "type_of_place": "natural",
+            "event": "Được ví như 'kho lương thực' và 'vườn quả' khổng lồ của miền Tây, điểm du lịch sinh thái miệt vườn sông nước nổi tiếng.",
+            "place": {
+            "hamlet": "null",
+            "commune": "Xã An Bình, Xã Bình Hòa Phước, Xã Hòa Ninh, Xã Đồng Phú",
+            "district": "Huyện Long Hồ",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Văn Thánh Miếu Vĩnh Long",
+            "type_of_place": "historical",
+            "event": "Một trong ba Văn Thánh Miếu đầu tiên ở Nam Bộ, thờ Khổng Tử, biểu tượng cho truyền thống hiếu học của vùng đất Vĩnh Long.",
+            "place": {
+            "hamlet": "Khóm 3",
+            "commune": "Phường 4",
+            "district": "Thành phố Vĩnh Long",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Lò gạch Mang Thít (Vương quốc Đỏ)",
+            "type_of_place": "historical",
+            "event": "Di sản đương đại độc đáo với hàng nghìn lò nung gạch gốm đỏ rực nằm dọc kênh Thầy Cai, được ví như 'Kim tự tháp' của miền Tây.",
+            "place": {
+            "hamlet": "null",
+            "commune": "Xã Mỹ An, Xã Mỹ Phước, Xã Nhơn Phú, Xã Hòa Tịnh",
+            "district": "Huyện Mang Thít",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Khu lưu niệm Thủ tướng Võ Văn Kiệt",
+            "type_of_place": "historical",
+            "event": "Công trình văn hóa tưởng niệm cố Thủ tướng Võ Văn Kiệt (Bác Sáu Dân) - kiến trúc sư của công cuộc Đổi mới, người con ưu tú của Vĩnh Long.",
+            "place": {
+            "hamlet": "Khu phố 2",
+            "commune": "Thị trấn Vũng Liêm",
+            "district": "Huyện Vũng Liêm",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Chùa Tiên Châu (Chùa Di Đà)",
+            "type_of_place": "historical",
+            "event": "Ngôi chùa cổ nhất Vĩnh Long (giữa thế kỷ 18) nằm trên bãi Tiên bên dòng Cổ Chiên, được công nhận là Di tích lịch sử - văn hóa cấp quốc gia.",
+            "place": {
+            "hamlet": "Ấp Bình Lương",
+            "commune": "Xã An Bình",
+            "district": "Huyện Long Hồ",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Khu lưu niệm Chủ tịch Hội đồng Bộ trưởng Phạm Hùng",
+            "type_of_place": "historical",
+            "event": "Nơi tưởng niệm đồng chí Phạm Hùng, người chiến sĩ cộng sản kiên trung, nhà lãnh đạo tài năng của Đảng và Nhà nước.",
+            "place": {
+            "hamlet": "Ấp Long Thuận A",
+            "commune": "Xã Long Phước",
+            "district": "Huyện Long Hồ",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Đình Long Thanh",
+            "type_of_place": "historical",
+            "event": "Di tích kiến trúc nghệ thuật tiêu biểu ven sông Long Hồ, nơi thờ Thành hoàng Bổn cảnh và lưu giữ nhiều sắc phong của triều Nguyễn.",
+            "place": {
+            "hamlet": "Khóm 4",
+            "commune": "Phường 5",
+            "district": "Thành phố Vĩnh Long",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Chợ nổi Trà Ôn",
+            "type_of_place": "historical",
+            "event": "Chợ nổi lâu đời nằm ở ngã ba sông Hậu và sông Mang Thít, mang đậm nét văn hóa thương hồ của người dân miền Tây, họp theo con nước.",
+            "place": {
+            "hamlet": "null",
+            "commune": "Thị trấn Trà Ôn",
+            "district": "Huyện Trà Ôn",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Khu du lịch Vinh Sang",
+            "type_of_place": "natural",
+            "event": "Khu du lịch sinh thái nổi tiếng với các hoạt động trải nghiệm như cưỡi đà điểu, câu cá sấu, tát mương bắt cá giữa miệt vườn.",
+            "place": {
+            "hamlet": "Tổ 14, ấp An Thuận",
+            "commune": "Xã An Bình",
+            "district": "Huyện Long Hồ",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Chùa Phật Ngọc Xá Lợi",
+            "type_of_place": "historical",
+            "event": "Một trong những ngôi chùa lớn và bề thế nhất miền Tây, nổi bật với bảo tháp xá lợi cao 45m và tượng Phật bà Quan Âm lộ thiên.",
+            "place": {
+            "hamlet": "Ấp Vĩnh Hòa",
+            "commune": "Xã Tân Ngãi",
+            "district": "Thành phố Vĩnh Long",
+            "province": "Vĩnh Long"
+            }
+        },
+        {
+            "name": "Nhà cổ Cai Cường",
+            "type_of_place": "historical",
+            "event": "Ngôi nhà cổ độc đáo xây dựng năm 1885, kết hợp hài hòa giữa kiến trúc phương Tây và nội thất phương Đông.",
+            "place": {
+            "hamlet": "Ấp Bình Hòa 1",
+            "commune": "Xã Bình Hòa Phước",
+            "district": "Huyện Long Hồ",
+            "province": "Vĩnh Long"
+            }
+        }
+    ]
+}

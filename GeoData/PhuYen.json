@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Gành Đá Đĩa (Ghềnh Đá Đĩa)",
+    "type_of_place": "natural",
+    "event": "Di tích quốc gia đặc biệt, nổi tiếng với các khối đá bazan hình lăng trụ xếp chồng lên nhau như tổ ong khổng lồ (top 5 gành đá đĩa đẹp nhất thế giới).",
+    "place": {
+      "hamlet": "Thôn Phú Hạnh",
+      "commune": "Xã An Ninh Đông",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Mũi Điện (Mũi Đại Lãnh)",
+    "type_of_place": "natural",
+    "event": "Nơi có ngọn hải đăng được người Pháp xây dựng năm 1890, một trong những nơi đón ánh bình minh đầu tiên trên đất liền Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Phước Tân",
+      "commune": "Xã Hòa Tâm",
+      "district": "Thị xã Đông Hòa",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Tháp Nhạn",
+    "type_of_place": "historical",
+    "event": "Ngôi tháp Chăm Pa cổ kính được xây dựng vào khoảng thế kỷ XII, biểu tượng của thành phố Tuy Hòa, nơi thờ Thiên Y A Na.",
+    "place": {
+      "hamlet": "Núi Nhạn",
+      "commune": "Phường 1",
+      "district": "Thành phố Tuy Hòa",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Vịnh Vũng Rô",
+    "type_of_place": "historical",
+    "event": "Di tích lịch sử đường Hồ Chí Minh trên biển, nơi đón nhận những chuyến 'Tàu không số' chi viện vũ khí cho chiến trường miền Nam.",
+    "place": {
+      "hamlet": "Thôn Vũng Rô",
+      "commune": "Xã Hòa Xuân Nam",
+      "district": "Thị xã Đông Hòa",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Nhà thờ Mằng Lăng",
+    "type_of_place": "historical",
+    "event": "Một trong những nhà thờ cổ nhất Việt Nam, nơi lưu giữ cuốn sách in chữ Quốc ngữ đầu tiên của linh mục Alexandre de Rhodes (Phép giảng tám ngày).",
+    "place": {
+      "hamlet": "Thôn Hội Tín",
+      "commune": "Xã An Thạch",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Đầm Ô Loan",
+    "type_of_place": "natural",
+    "event": "Danh thắng quốc gia, nổi tiếng với món đặc sản sò huyết Ô Loan trứ danh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Cư (và các xã An Hòa Hải, An Hiệp, An Ninh Đông)",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Bãi Xép",
+    "type_of_place": "natural",
+    "event": "Phim trường của bộ phim nổi tiếng 'Tôi thấy hoa vàng trên cỏ xanh' với bãi xương rồng và bờ biển hoang sơ.",
+    "place": {
+      "hamlet": "Thôn Mỹ Quang Nam",
+      "commune": "Xã An Chấn",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Núi Đá Bia (Thạch Bi Sơn)",
+    "type_of_place": "historical",
+    "event": "Gắn liền với truyền thuyết vua Lê Thánh Tông khắc chữ vào đá làm mốc biên giới Đại Việt năm 1471 (Đá Bia).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hòa Xuân Nam",
+      "district": "Thị xã Đông Hòa",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Cao nguyên Vân Hòa",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Đà Lạt của Phú Yên' với khí hậu mát mẻ, vườn đỏ (dâu da đất) và các di tích lịch sử kháng chiến.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Sơn Long, Xã Sơn Định, Xã Sơn Xuân",
+      "district": "Huyện Sơn Hòa",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Gành Đèn (Hải đăng Gành Đèn)",
+    "type_of_place": "natural",
+    "event": "Nổi bật với ngọn hải đăng cổ và những tảng đá đỏ xếp chồng lên nhau, nằm gần Gành Đá Đĩa.",
+    "place": {
+      "hamlet": "Thôn Phú Hạnh",
+      "commune": "Xã An Ninh Đông",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Chùa Đá Trắng (Bạch Thạch Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ linh thiêng được xây dựng từ năm 1797, gắn liền với đặc sản 'xoài Đá Trắng' từng dùng để tiến vua.",
+    "place": {
+      "hamlet": "Thôn Cần Lương",
+      "commune": "Xã An Dân",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  },
+  {
+    "name": "Cầu Ông Cọp (Cầu Bình Thạnh)",
+    "type_of_place": "historical",
+    "event": "Cây cầu gỗ dài nhất Việt Nam (khoảng 800m), một điểm check-in mộc mạc và độc đáo.",
+    "place": {
+      "hamlet": "Thôn Bình Thạnh",
+      "commune": "Xã An Ninh Tây",
+      "district": "Huyện Tuy An",
+      "province": "Phú Yên"
+    }
+  }
+]
+}

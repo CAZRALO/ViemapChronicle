@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Thành Điện Hải",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia đặc biệt, pháo đài quân sự quan trọng góp phần đánh bại quân Pháp - Tây Ban Nha trong trận đầu xâm lược (1858 - 1860).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thạch Thang",
+      "district": "Quận Hải Châu",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Danh thắng Ngũ Hành Sơn (Non Nước)",
+    "type_of_place": "natural",
+    "event": "Di tích quốc gia đặc biệt, quần thể 5 ngọn núi đá vôi chứa nhiều hang động và chùa chiền, từng là căn cứ cách mạng.",
+    "place": {
+      "hamlet": "Khu vực Hòn Thủy (và lân cận)",
+      "commune": "Phường Hòa Hải",
+      "district": "Quận Ngũ Hành Sơn",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Bảo tàng Điêu khắc Chăm Đà Nẵng",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ và trưng bày bộ sưu tập nghệ thuật điêu khắc Chăm Pa lớn nhất thế giới, được người Pháp xây dựng từ năm 1915.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bình Hiên",
+      "district": "Quận Hải Châu",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Bán đảo Sơn Trà (Núi Tiên Sa)",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'lá phổi xanh' của Đà Nẵng, có vị trí chiến lược quân sự quan trọng và hệ sinh thái đa dạng (Voọc chà vá chân nâu).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thọ Quang",
+      "district": "Quận Sơn Trà",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Đèo Hải Vân (Hải Vân Quan)",
+    "type_of_place": "natural",
+    "event": "Được vua Lê Thánh Tông phong là 'Thiên hạ đệ nhất hùng quan', là ranh giới tự nhiên và lịch sử giữa Thừa Thiên Huế và Đà Nẵng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hòa Hiệp Bắc",
+      "district": "Quận Liên Chiểu",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Căn cứ cách mạng K20",
+    "type_of_place": "historical",
+    "event": "Mật khu kháng chiến nằm ngay trong lòng địch, nổi tiếng với hệ thống hầm bí mật nuôi giấu cán bộ và bộ đội đặc công.",
+    "place": {
+      "hamlet": "Khu dân cư Đa Mặn",
+      "commune": "Phường Khuê Mỹ",
+      "district": "Quận Ngũ Hành Sơn",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Bà Nà Hills (Núi Chúa)",
+    "type_of_place": "natural",
+    "event": "Từng là khu nghỉ dưỡng của người Pháp từ đầu thế kỷ 20, nay là khu du lịch nổi tiếng với Cầu Vàng.",
+    "place": {
+      "hamlet": "Thôn An Sơn",
+      "commune": "Xã Hòa Ninh",
+      "district": "Huyện Hòa Vang",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Nghĩa trủng Phước Ninh",
+    "type_of_place": "historical",
+    "event": "Nơi quy tập hài cốt của các nghĩa sĩ và đồng bào hy sinh trong cuộc kháng chiến chống Pháp (1858-1860).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Nam Dương",
+      "district": "Quận Hải Châu",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Rạn Nam Ô",
+    "type_of_place": "natural",
+    "event": "Bãi đá phủ rêu xanh nổi tiếng nằm cạnh làng chài cổ Nam Ô (nơi làm nước mắm truyền thống lâu đời).",
+    "place": {
+      "hamlet": "Khu vực Nam Ô",
+      "commune": "Phường Hòa Hiệp Nam",
+      "district": "Quận Liên Chiểu",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Chùa Linh Ứng Bãi Bụt",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với tượng Phật Quan Thế Âm cao 67m, hướng ra biển Đông, là điểm tựa tâm linh cho ngư dân.",
+    "place": {
+      "hamlet": "Bãi Bụt",
+      "commune": "Phường Thọ Quang",
+      "district": "Quận Sơn Trà",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Đình làng Hải Châu",
+    "type_of_place": "historical",
+    "event": "Ngôi đình cổ nhất Đà Nẵng, nơi lưu giữ sắc phong và chứng tích quá trình mở cỏi về phương Nam của người Việt.",
+    "place": {
+      "hamlet": "Tổ 6",
+      "commune": "Phường Hải Châu I",
+      "district": "Quận Hải Châu",
+      "province": "Đà Nẵng"
+    }
+  },
+  {
+    "name": "Giếng Trời",
+    "type_of_place": "natural",
+    "event": "Khu vực rừng nguyên sinh với thác nước và hồ nước tự nhiên nằm sâu trong núi, địa điểm trekking nổi tiếng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hòa Ninh",
+      "district": "Huyện Hòa Vang",
+      "province": "Đà Nẵng"
+    }
+  }
+]
+}

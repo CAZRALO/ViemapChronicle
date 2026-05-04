@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Núi Langbiang",
+    "type_of_place": "natural",
+    "event": "Gắn liền với thiên tình sử bi thương của chàng K'lang và nàng H'biang, được mệnh danh là 'Nóc nhà Đà Lạt'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Lạc Dương",
+      "district": "Huyện Lạc Dương",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Ga Đà Lạt",
+    "type_of_place": "historical",
+    "event": "Nhà ga cổ nhất Đông Dương còn lại, nổi tiếng với kiến trúc 3 mái hình chóp mô phỏng núi Langbiang và đường ray răng cưa độc đáo.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 10",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Dinh III Bảo Đại (Biệt điện Quốc trưởng)",
+    "type_of_place": "historical",
+    "event": "Nơi sinh sống và làm việc của vua Bảo Đại (vị vua cuối cùng của triều Nguyễn) và gia đình tại Đà Lạt.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 4",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Hồ Tuyền Lâm",
+    "type_of_place": "natural",
+    "event": "Hồ nước ngọt lớn nhất Đà Lạt, được công nhận là Khu du lịch quốc gia, nơi có Thiền viện Trúc Lâm tọa lạc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 3, Phường 4",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Thác Pongour (Thác Bảy Tầng)",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Nam Thiên Đệ Nhất Thác', gắn liền với truyền thuyết về nữ tù trưởng Kanai và bốn con tê giác.",
+    "place": {
+      "hamlet": "Thôn Tân Nghĩa",
+      "commune": "Xã Ninh Gia",
+      "district": "Huyện Đức Trọng",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Trường Cao đẳng Sư phạm Đà Lạt (Grand Lycée Yersin)",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc Pháp độc đáo được Hội Kiến trúc sư thế giới (UIA) công nhận là một trong 1.000 công trình tiêu biểu của thế kỷ 20.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 10",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Chùa Linh Quy Pháp Ấn",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với 'Cổng Trời' giữa biển mây, nơi được ví như chốn bồng lai tiên cảnh.",
+    "place": {
+      "hamlet": "Thôn 4",
+      "commune": "Xã Lộc Thành",
+      "district": "Huyện Bảo Lâm",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Thác Dambri",
+    "type_of_place": "natural",
+    "event": "Ngọn thác hùng vĩ nhất vùng Bảo Lộc, gắn liền với truyền thuyết về tình yêu chung thủy của đôi trai gái người K'ho (chàng Đam và nàng H'bi).",
+    "place": {
+      "hamlet": "Thôn 14",
+      "commune": "Xã Đamb'ri",
+      "district": "Thành phố Bảo Lộc",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Bidoup - Núi Bà",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới Langbiang, nơi có đỉnh Bidoup cao nhất tỉnh Lâm Đồng (2.287m).",
+    "place": {
+      "hamlet": "Thôn K'Long K'Lanh",
+      "commune": "Xã Đa Nhim",
+      "district": "Huyện Lạc Dương",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Hồ Xuân Hương",
+    "type_of_place": "natural",
+    "event": "Viên ngọc xanh giữa lòng thành phố, được công nhận là Di tích danh thắng quốc gia đầu tiên của Lâm Đồng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1 (trung tâm thành phố)",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Thác Datanla",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết dũng sĩ K'Lang giao chiến với bầy thú dữ, nổi tiếng với hệ thống máng trượt xuyên rừng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 3",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Đà Lạt",
+    "type_of_place": "historical",
+    "event": "Một trong ba thiền viện lớn nhất Việt Nam theo phái Trúc Lâm Yên Tử, tọa lạc trên núi Phụng Hoàng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 3",
+      "district": "Thành phố Đà Lạt",
+      "province": "Lâm Đồng"
+    }
+  }
+]
+}

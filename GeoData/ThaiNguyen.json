@@ -1,0 +1,137 @@
+{   
+    "sites": 
+    [
+  {
+    "name": "Khu di tích lịch sử ATK Định Hóa",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Thủ đô gió ngàn', trung tâm lãnh đạo cuộc kháng chiến chống thực dân Pháp (1946-1954) của Trung ương Đảng và Bác Hồ.",
+    "place": {
+      "hamlet": "Đèo De, Tỉn Keo...",
+      "commune": "Xã Phú Đình (và các xã lân cận)",
+      "district": "Huyện Định Hóa",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Hồ Núi Cốc",
+    "type_of_place": "natural",
+    "event": "Danh thắng nổi tiếng gắn liền với huyền thoại tình yêu bi thương của nàng Công và chàng Cốc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Thái",
+      "district": "Huyện Đại Từ",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Bảo tàng Văn hóa các dân tộc Việt Nam",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ, bảo quản và trưng bày hơn 40.000 tài liệu, hiện vật về văn hóa của 54 dân tộc anh em (một trong 5 bảo tàng quốc gia).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Trưng Vương",
+      "district": "Thành phố Thái Nguyên",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Đồi chè Tân Cương",
+    "type_of_place": "natural",
+    "event": "Vùng chè nổi tiếng nhất Việt Nam, được mệnh danh là 'Đệ nhất danh trà' với sản phẩm chè móc câu thượng hạng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Cương",
+      "district": "Thành phố Thái Nguyên",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Đền Đuồm",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Dương Tự Minh (Thánh Đuồm), vị thủ lĩnh tài ba của phủ Phú Lương và là phò mã dưới hai đời vua nhà Lý.",
+    "place": {
+      "hamlet": "Xóm Đuồm",
+      "commune": "Xã Động Đạt",
+      "district": "Huyện Phú Lương",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Hang Phượng Hoàng - Suối Mỏ Gà",
+    "type_of_place": "natural",
+    "event": "Di tích thắng cảnh cấp quốc gia, hang động đá vôi hùng vĩ nằm trên núi Phượng Hoàng với dòng suối chảy ra từ lòng núi.",
+    "place": {
+      "hamlet": "Xóm Phượng Hoàng",
+      "commune": "Xã Phú Thượng",
+      "district": "Huyện Võ Nhai",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Khu di tích Thanh niên xung phong Đại đội 915",
+    "type_of_place": "historical",
+    "event": "Nơi tưởng niệm 60 thanh niên xung phong đã hy sinh anh dũng trong trận bom B52 của Mỹ đêm Noel năm 1972.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Gia Sàng",
+      "district": "Thành phố Thái Nguyên",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Suối Cửa Tử",
+    "type_of_place": "natural",
+    "event": "Địa điểm trekking mạo hiểm nổi tiếng với dòng suối hoang sơ chảy qua những vách đá dựng đứng.",
+    "place": {
+      "hamlet": "Xóm Hoàng Nông",
+      "commune": "Xã Hoàng Nông",
+      "district": "Huyện Đại Từ",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Hồ Ghềnh Chè",
+    "type_of_place": "natural",
+    "event": "Hồ nước sinh thái rộng lớn, địa điểm cắm trại và du lịch sinh thái mới nổi.",
+    "place": {
+      "hamlet": "Xóm Tiền Tiến",
+      "commune": "Xã Bình Sơn",
+      "district": "Thành phố Sông Công",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Chùa Hang (Kim Sơn Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ nằm trong lòng 3 ngọn núi đá lớn (Huyền Vũ, Thanh Long, Bạch Hổ), được ví như 'Tiên cảnh'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Chùa Hang",
+      "district": "Thành phố Thái Nguyên",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Khu di tích Lý Nam Đế (Chùa Hương Ấp)",
+    "type_of_place": "historical",
+    "event": "Quê hương và nơi thờ Vua Lý Nam Đế (Lý Bí), vị hoàng đế đầu tiên của nước Việt Nam (nước Vạn Xuân).",
+    "place": {
+      "hamlet": "Thôn Cổ Pháp",
+      "commune": "Phường Tiên Phong",
+      "district": "Thành phố Phổ Yên",
+      "province": "Thái Nguyên"
+    }
+  },
+  {
+    "name": "Thác Mưa Rơi (Thác Nậm Rứt)",
+    "type_of_place": "natural",
+    "event": "Dòng thác đẹp đổ từ vách núi đá vôi xuống sông Thần Sa, tạo nên màn bụi nước như mưa rơi.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thần Sa",
+      "district": "Huyện Võ Nhai",
+      "province": "Thái Nguyên"
+    }
+  }
+]
+}

@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Phố cổ Hội An",
+    "type_of_place": "historical",
+    "event": "Di sản văn hóa thế giới UNESCO, thương cảng quốc tế sầm uất bậc nhất Đông Nam Á thế kỷ 16-17.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Minh An (và các phường lân cận)",
+      "district": "Thành phố Hội An",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Thánh địa Mỹ Sơn",
+    "type_of_place": "historical",
+    "event": "Di sản văn hóa thế giới UNESCO, quần thể đền tháp Chăm Pa cổ kính, từng là trung tâm tôn giáo của Vương quốc Chăm Pa.",
+    "place": {
+      "hamlet": "Thôn Mỹ Sơn",
+      "commune": "Xã Duy Phú",
+      "district": "Huyện Duy Xuyên",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Cù Lao Chàm",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới, nổi tiếng với hệ san hô đa dạng và di tích văn hóa Sa Huỳnh, Chăm Pa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Hiệp",
+      "district": "Thành phố Hội An",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Tượng đài Mẹ Thứ (Tượng đài Mẹ Việt Nam Anh hùng)",
+    "type_of_place": "historical",
+    "event": "Tượng đài Mẹ Việt Nam Anh hùng lớn nhất nước, lấy nguyên mẫu từ Mẹ Nguyễn Thị Thứ (người có 9 con trai, 1 con rể, 1 cháu ngoại hy sinh).",
+    "place": {
+      "hamlet": "Thôn Phú Thạnh",
+      "commune": "Xã Tam Phú",
+      "district": "Thành phố Tam Kỳ",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Làng rau Trà Quế",
+    "type_of_place": "historical",
+    "event": "Làng nghề trồng rau truyền thống hơn 300 năm tuổi, nổi tiếng với các loại rau thơm đặc trưng.",
+    "place": {
+      "hamlet": "Thôn Trà Quế",
+      "commune": "Xã Cẩm Hà",
+      "district": "Thành phố Hội An",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Hồ Phú Ninh",
+    "type_of_place": "natural",
+    "event": "Công trình đại thủy nông, được ví như 'Hòn ngọc xanh' của miền Trung với hệ sinh thái phong phú và nước khoáng nóng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tam Đại, Xã Tam Lãnh...",
+      "district": "Huyện Phú Ninh",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Làng gốm Thanh Hà",
+    "type_of_place": "historical",
+    "event": "Làng nghề gốm sứ hình thành từ thế kỷ 16, từng cung cấp gạch ngói cho việc xây dựng kinh thành Huế.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thanh Hà",
+      "district": "Thành phố Hội An",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Địa đạo Kỳ Anh",
+    "type_of_place": "historical",
+    "event": "Một trong ba địa đạo lớn nhất miền Nam, huyền thoại trong lòng đất Quảng Nam thời kháng chiến chống Mỹ.",
+    "place": {
+      "hamlet": "Thôn Thạch Tân",
+      "commune": "Xã Tam Thăng",
+      "district": "Thành phố Tam Kỳ",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Ghềnh đá Bàng Than",
+    "type_of_place": "natural",
+    "event": "Tuyệt tác đá phiến đen xếp chồng lên nhau do tạo hóa, được ví như 'Gành Đá Đĩa' của Quảng Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tam Hải",
+      "district": "Huyện Núi Thành",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Phật viện Đồng Dương",
+    "type_of_place": "historical",
+    "event": "Di tích khảo cổ quan trọng, từng là kinh đô Indrapura và trung tâm Phật giáo lớn nhất của Vương quốc Chăm Pa (thế kỷ 9).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Bình Định Bắc",
+      "district": "Huyện Thăng Bình",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Thác Grăng",
+    "type_of_place": "natural",
+    "event": "Cụm thác 3 tầng hoang sơ nằm giữa đại ngàn Trường Sơn, còn được gọi là 'Tam thác Grăng'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tà Bhing",
+      "district": "Huyện Nam Giang",
+      "province": "Quảng Nam"
+    }
+  },
+  {
+    "name": "Làng Bích họa Tam Thanh",
+    "type_of_place": "historical",
+    "event": "Làng bích họa đầu tiên tại Việt Nam, dự án giao lưu mỹ thuật cộng đồng Hàn Quốc - Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Trung Thanh",
+      "commune": "Xã Tam Thanh",
+      "district": "Thành phố Tam Kỳ",
+      "province": "Quảng Nam"
+    }
+  }
+]
+}

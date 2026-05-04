@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Ngã ba Đồng Lộc",
+    "type_of_place": "historical",
+    "event": "Biểu tượng của tinh thần bất khuất, nơi ghi dấu sự hy sinh anh dũng của 10 nữ thanh niên xung phong và lực lượng bảo đảm giao thông trong kháng chiến chống Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Đồng Lộc",
+      "district": "Huyện Can Lộc",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Khu di tích Đại thi hào Nguyễn Du",
+    "type_of_place": "historical",
+    "event": "Quê hương và nơi an nghỉ của Danh nhân văn hóa thế giới Nguyễn Du, tác giả của kiệt tác 'Truyện Kiều'.",
+    "place": {
+      "hamlet": "Làng Tiên Điền",
+      "commune": "Thị trấn Tiên Điền",
+      "district": "Huyện Nghi Xuân",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Chùa Hương Tích",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Hoan Châu đệ nhất danh lam' (Thắng cảnh đẹp nhất xứ Nghệ), tọa lạc trên đỉnh núi Hồng Lĩnh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thiên Lộc",
+      "district": "Huyện Can Lộc",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Biển Thiên Cầm",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết vua Hồ Quý Ly nghe tiếng sóng vỗ vào hang núi vọng ra âm thanh như tiếng đàn (Thiên Cầm nghĩa là Đàn Trời).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Thiên Cầm",
+      "district": "Huyện Cẩm Xuyên",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Hồ Kẻ Gỗ",
+    "type_of_place": "natural",
+    "event": "Hồ nước nhân tạo lớn nổi tiếng, đi vào bài hát 'Người đi xây hồ Kẻ Gỗ', nằm giữa bao la núi rừng thiên nhiên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Cẩm Mỹ",
+      "district": "Huyện Cẩm Xuyên",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Đền Củi (Đền Chợ Củi)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Quan Hoàng Mười linh thiêng, một điểm đến tâm linh quan trọng trong tín ngưỡng thờ Mẫu Tam Phủ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Xuân Hồng",
+      "district": "Huyện Nghi Xuân",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Hoành Sơn Quan (Cổng Trời - Đèo Ngang)",
+    "type_of_place": "historical",
+    "event": "Cửa ải lịch sử trấn giữ trên đỉnh Đèo Ngang, ranh giới cũ giữa Đại Việt và Chiêm Thành, nguồn cảm hứng cho bài thơ 'Qua Đèo Ngang'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Kỳ Nam",
+      "district": "Thị xã Kỳ Anh",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Khu di tích Tổng Bí thư Trần Phú",
+    "type_of_place": "historical",
+    "event": "Nơi tưởng niệm đồng chí Trần Phú - Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam, tác giả Luận cương Chính trị năm 1930.",
+    "place": {
+      "hamlet": "Thôn Châu Tùng",
+      "commune": "Xã Tùng Ảnh",
+      "district": "Huyện Đức Thọ",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Vũ Quang",
+    "type_of_place": "natural",
+    "event": "Khu di sản ASEAN, nơi phát hiện loài Sao La quý hiếm và từng là căn cứ địa của nghĩa quân Phan Đình Phùng (Cần Vương).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Vũ Quang (và các xã lân cận)",
+      "district": "Huyện Vũ Quang",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Khu di tích Tổng Bí thư Hà Huy Tập",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ những kỷ vật về cuộc đời và sự nghiệp cách mạng của cố Tổng Bí thư Hà Huy Tập.",
+    "place": {
+      "hamlet": "Làng Miếu Đồng",
+      "commune": "Xã Cẩm Hưng",
+      "district": "Huyện Cẩm Xuyên",
+      "province": "Hà Tĩnh"
+    }
+  },
+  {
+    "name": "Suối khoáng nóng Sơn Kim",
+    "type_of_place": "natural",
+    "event": "Khu du lịch sinh thái nghỉ dưỡng với nguồn nước khoáng nóng tự nhiên phun từ lòng đất.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Sơn Kim 1",
+      "district": "Huyện Hương Sơn",
+      "province": "Hà Tĩnh"
+    }
+  }
+]
+}

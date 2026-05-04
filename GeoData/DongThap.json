@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Nguyễn Sinh Sắc",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của Cụ Phó bảng Nguyễn Sinh Sắc (thân sinh Chủ tịch Hồ Chí Minh), quần thể kiến trúc văn hóa tâm linh trọng điểm của tỉnh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 4",
+      "district": "Thành phố Cao Lãnh",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Tràm Chim",
+    "type_of_place": "natural",
+    "event": "Khu Ramsar thứ 2.000 của thế giới, nơi bảo tồn sếu đầu đỏ (loài chim quý hiếm nằm trong sách đỏ) và hệ sinh thái đất ngập nước.",
+    "place": {
+      "hamlet": "Khóm 4 (Trụ sở)",
+      "commune": "Thị trấn Tràm Chim (và 5 xã: Phú Đức, Phú Hiệp, Phú Thành B, Phú Thọ, Tân Công Sính)",
+      "district": "Huyện Tam Nông",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Khu di tích Xẻo Quýt",
+    "type_of_place": "historical",
+    "event": "Căn cứ cách mạng của Tỉnh ủy Kiến Phong trong kháng chiến chống Mỹ, nổi tiếng với hệ thống hầm hào bí mật nằm dưới tán rừng tràm nguyên sinh.",
+    "place": {
+      "hamlet": "Ấp 4",
+      "commune": "Xã Mỹ Hiệp, Xã Mỹ Long",
+      "district": "Huyện Cao Lãnh",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Làng hoa Sa Đéc (Làng hoa Tân Quy Đông)",
+    "type_of_place": "natural",
+    "event": "Thủ phủ hoa kiểng của miền Tây Nam Bộ với lịch sử hơn 100 năm tuổi, cung cấp hoa cho cả nước mỗi dịp Tết.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân Quy Đông",
+      "district": "Thành phố Sa Đéc",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Gò Tháp",
+    "type_of_place": "historical",
+    "event": "Trung tâm của nền văn hóa Óc Eo cổ đại và là căn cứ địa cách mạng trong hai cuộc kháng chiến (nơi có Đền thờ Thiên hộ Võ Duy Dương và Đốc binh Nguyễn Tấn Kiều).",
+    "place": {
+      "hamlet": "Ấp 1",
+      "commune": "Xã Tân Kiều, Xã Mỹ Hòa",
+      "district": "Huyện Tháp Mười",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Nhà cổ Huỳnh Thủy Lê",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà cổ kiến trúc Đông - Tây kết hợp, gắn liền với mối tình không biên giới giữa ông Huỳnh Thủy Lê và nữ nhà văn Marguerite Duras (tác phẩm 'Người tình').",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thành phố Sa Đéc",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Khu du lịch sinh thái Gáo Giồng",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Đồng Tháp Mười thu nhỏ' với hệ thống rừng tràm, sân chim rộng lớn và ẩm thực khẩn hoang đặc sắc.",
+    "place": {
+      "hamlet": "Ấp 6",
+      "commune": "Xã Gáo Giồng",
+      "district": "Huyện Cao Lãnh",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Chùa Phước Kiển (Chùa Lá Sen)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với loại sen vua (sen nia) có lá khổng lồ, người trưởng thành có thể đứng lên lá mà không chìm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hòa Tân",
+      "district": "Huyện Châu Thành",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Đồng Sen Tháp Mười",
+    "type_of_place": "natural",
+    "event": "Vùng trồng sen rộng lớn, nơi du khách trải nghiệm không gian 'Tháp Mười đẹp nhất bông sen'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Mỹ Hòa",
+      "district": "Huyện Tháp Mười",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Định Yên (Làng chiếu Định Yên)",
+    "type_of_place": "historical",
+    "event": "Làng nghề dệt chiếu thủ công truyền thống nổi tiếng, từng có 'chợ ma' (chợ họp ban đêm) độc đáo, là Di sản văn hóa phi vật thể quốc gia.",
+    "place": {
+      "hamlet": "Ấp An Khương, Ấp An Lợi A",
+      "commune": "Xã Định Yên",
+      "district": "Huyện Lấp Vò",
+      "province": "Đồng Tháp"
+    }
+  },
+  {
+    "name": "Kiến An Cung (Chùa Ông Quách)",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc độc đáo của người Hoa (Phúc Kiến) xây dựng từ năm 1924, được công nhận là Di tích lịch sử văn hóa cấp quốc gia.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 2",
+      "district": "Thành phố Sa Đéc",
+      "province": "Đồng Tháp"
+    }
+  }
+]
+}

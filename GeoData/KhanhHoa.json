@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Tháp Bà Ponagar",
+    "type_of_place": "historical",
+    "event": "Quần thể kiến trúc Chăm Pa quy mô nhất còn lại ở miền Trung, nơi thờ nữ thần Po Ina Nagar (Thiên Y Ana - Bà Mẹ Xứ Sở) của người Chăm.",
+    "place": {
+      "hamlet": "Cù lao xóm Bóng",
+      "commune": "Phường Vĩnh Phước",
+      "district": "Thành phố Nha Trang",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Chùa Long Sơn (Chùa Phật Trắng)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với bức tượng Kim Thân Phật Tổ (Phật Trắng) ngồi ngoài trời lớn nhất Việt Nam (vào thời điểm xây dựng) trên đỉnh đồi Trại Thủy.",
+    "place": {
+      "hamlet": "Đồi Trại Thủy",
+      "commune": "Phường Phương Sơn",
+      "district": "Thành phố Nha Trang",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Thành cổ Diên Khánh",
+    "type_of_place": "historical",
+    "event": "Tòa thành quân sự được Chúa Nguyễn Ánh xây dựng năm 1793, nơi diễn ra nhiều trận chiến ác liệt giữa nhà Tây Sơn và nhà Nguyễn.",
+    "place": {
+      "hamlet": "Khóm Đông Môn (và các khóm lân cận)",
+      "commune": "Thị trấn Diên Khánh",
+      "district": "Huyện Diên Khánh",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Viện Hải dương học Nha Trang",
+    "type_of_place": "historical",
+    "event": "Cơ sở nghiên cứu khoa học biển ra đời sớm nhất ở Việt Nam (năm 1922), nơi lưu giữ hàng chục ngàn mẫu vật sinh vật biển.",
+    "place": {
+      "hamlet": "Cầu Đá",
+      "commune": "Phường Vĩnh Nguyên",
+      "district": "Thành phố Nha Trang",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Hòn Chồng - Hòn Vợ",
+    "type_of_place": "natural",
+    "event": "Quần thể đá xếp chồng lên nhau tự nhiên, gắn liền với truyền thuyết về vết lõm hình 5 ngón tay khổng lồ in sâu vào đá.",
+    "place": {
+      "hamlet": "Khóm Hòn Chồng",
+      "commune": "Phường Vĩnh Phước",
+      "district": "Thành phố Nha Trang",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Mũi Đôi",
+    "type_of_place": "natural",
+    "event": "Điểm Cực Đông trên đất liền của Việt Nam, nơi đón ánh bình minh đầu tiên của Tổ quốc.",
+    "place": {
+      "hamlet": "Bán đảo Hòn Gốm",
+      "commune": "Xã Vạn Thạnh",
+      "district": "Huyện Vạn Ninh",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Đảo Bình Ba (Đảo Tôm Hùm)",
+    "type_of_place": "natural",
+    "event": "Hòn đảo nổi tiếng với nghề nuôi tôm hùm và cảnh quan hoang sơ, từng là khu vực quân sự hạn chế người nước ngoài.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Cam Bình",
+      "district": "Thành phố Cam Ranh",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Mộ bác sĩ Alexandre Yersin",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của nhà bác học vĩ đại người Pháp - công dân danh dự của Việt Nam, người có công tìm ra vi khuẩn dịch hạch và khám phá cao nguyên Lâm Viên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Suối Cát",
+      "district": "Huyện Cam Lâm",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Đảo Điệp Sơn",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với con đường đi bộ giữa biển độc đáo (dài khoảng 700m) nối liền các hòn đảo khi thủy triều rút.",
+    "place": {
+      "hamlet": "Thôn Điệp Sơn",
+      "commune": "Xã Vạn Thắng",
+      "district": "Huyện Vạn Ninh",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Nhà thờ Chánh tòa Nha Trang (Nhà thờ Đá)",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc Gothic phương Tây tuyệt đẹp được xây dựng bằng đá từ thời Pháp thuộc (1928).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Phước Tân",
+      "district": "Thành phố Nha Trang",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Thác Yang Bay",
+    "type_of_place": "natural",
+    "event": "Theo tiếng Raglai có nghĩa là 'Thác Trời', nằm giữa cánh rừng nguyên sinh hùng vĩ, gắn liền với văn hóa người Raglai.",
+    "place": {
+      "hamlet": "Thôn Ngã Hai",
+      "commune": "Xã Khánh Phú",
+      "district": "Huyện Khánh Vĩnh",
+      "province": "Khánh Hòa"
+    }
+  },
+  {
+    "name": "Đảo Yến (Hòn Nội)",
+    "type_of_place": "natural",
+    "event": "Nơi có bãi tắm đôi độc đáo (một bên nóng, một bên lạnh) và là nơi khai thác yến sào thiên nhiên lớn nhất, nơi có Đền thờ Tổ nghề Yến sào.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Vĩnh Nguyên",
+      "district": "Thành phố Nha Trang",
+      "province": "Khánh Hòa"
+    }
+  }
+]
+}

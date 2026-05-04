@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Di tích Đồi A1",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận đánh ác liệt và dài ngày nhất trong chiến dịch Điện Biên Phủ (1954), được ví là 'cối xay thịt' với hố bộc phá nghìn cân.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mường Thanh",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Hầm Đờ Cát (Hầm chỉ huy Tập đoàn cứ điểm Điện Biên Phủ)",
+    "type_of_place": "historical",
+    "event": "Nơi ở và làm việc của Tướng De Castries, nơi quân ta cắm cờ quyết chiến quyết thắng, đánh dấu sự sụp đổ của thực dân Pháp tại Đông Dương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thanh Trường",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Sở chỉ huy chiến dịch Điện Biên Phủ (Mường Phăng)",
+    "type_of_place": "historical",
+    "event": "Nơi Đại tướng Võ Nguyên Giáp và Bộ chỉ huy chiến dịch làm việc, đưa ra những quyết sách lịch sử (đặc biệt là quyết định chuyển từ 'đánh nhanh thắng nhanh' sang 'đánh chắc tiến chắc').",
+    "place": {
+      "hamlet": "Bản Phăng",
+      "commune": "Xã Mường Phăng",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Cực Tây A Pa Chải (Cột mốc số 0)",
+    "type_of_place": "natural",
+    "event": "Điểm cực Tây của Tổ quốc, ngã ba biên giới Việt - Lào - Trung, nơi được mệnh danh là 'một con gà gáy cả ba nước đều nghe'.",
+    "place": {
+      "hamlet": "Bản Tá Miếu",
+      "commune": "Xã Sín Thầu",
+      "district": "Huyện Mường Nhé",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Hồ Pá Khoang",
+    "type_of_place": "natural",
+    "event": "Hồ nước rộng lớn nằm giữa núi rừng, được ví như 'Vịnh Hạ Long trên cạn' của Tây Bắc, nơi có rừng hoa anh đào nở rộ vào mùa xuân.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Pá Khoang",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Đèo Pha Đin",
+    "type_of_place": "natural",
+    "event": "Một trong 'Tứ đại đỉnh đèo' Tây Bắc, huyền thoại trong lịch sử tiếp vận đạn dược và lương thực cho chiến dịch Điện Biên Phủ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tỏa Tình (giáp ranh với Sơn La)",
+      "district": "Huyện Tuần Giáo",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Bảo tàng Chiến thắng lịch sử Điện Biên Phủ",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ hàng ngàn hiện vật và nổi tiếng với bức tranh Panorama tái hiện toàn cảnh chiến dịch Điện Biên Phủ lớn nhất thế giới.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mường Thanh",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Cánh đồng Mường Thanh",
+    "type_of_place": "natural",
+    "event": "Cánh đồng lúa lớn nhất vùng Tây Bắc ('Nhất Thanh, nhì Lò, tam Than, tứ Tấc'), vựa lúa trù phú nuôi sống quân dân.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Trải rộng trên nhiều xã/phường lòng chảo Điện Biên",
+      "district": "Thành phố Điện Biên Phủ, Huyện Điện Biên",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Tượng đài Chiến thắng Điện Biên Phủ",
+    "type_of_place": "historical",
+    "event": "Công trình nghệ thuật bằng đồng lớn nhất Việt Nam đặt trên đồi D1, biểu tượng cho tinh thần quyết chiến quyết thắng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mường Thanh (Đồi D1)",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Cầu Mường Thanh",
+    "type_of_place": "historical",
+    "event": "Cây cầu sắt bắc qua sông Nậm Rốm do Pháp xây dựng, là nhân chứng lịch sử chứng kiến quân ta vượt sông đánh chiếm hầm Đờ Cát.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mường Thanh",
+      "district": "Thành phố Điện Biên Phủ",
+      "province": "Điện Biên"
+    }
+  },
+  {
+    "name": "Động Pa Thơm (Hang Tiên Hoa)",
+    "type_of_place": "natural",
+    "event": "Hang động đá vôi tự nhiên tuyệt đẹp gắn liền với truyền thuyết tình yêu đôi lứa của người Lào và người Khơ Mú.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Pa Thơm",
+      "district": "Huyện Điện Biên",
+      "province": "Điện Biên"
+    }
+  }
+]
+}

@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Đỉnh Fansipan",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Nóc nhà Đông Dương' (3.143m), biểu tượng chinh phục của du lịch Lào Cai.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Fansipan (giáp ranh Tam Đường, Lai Châu)",
+      "district": "Thị xã Sa Pa",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Dinh Hoàng A Tưởng (Dinh Vua Mèo)",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc độc đáo kết hợp Á - Âu, nơi ở của 'Vua Mèo' Hoàng A Tưởng, thổ ty cai quản vùng Bắc Hà xưa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Bắc Hà",
+      "district": "Huyện Bắc Hà",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Bãi đá cổ Sapa",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia, nơi lưu giữ hàng trăm tảng đá sa thạch có khắc hình vẽ và ký tự cổ chưa được giải mã của người tiền sử.",
+    "place": {
+      "hamlet": "Thôn Hầu Thào",
+      "commune": "Xã Mường Hoa",
+      "district": "Thị xã Sa Pa",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Đèo Ô Quy Hồ",
+    "type_of_place": "natural",
+    "event": "Một trong 'Tứ đại đỉnh đèo' của Việt Nam, gắn liền với huyền thoại về loài chim Ô Quy Hồ và tiếng kêu da diết tìm bạn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Ô Quý Hồ (giáp ranh Lai Châu)",
+      "district": "Thị xã Sa Pa",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Đền Thượng",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Quốc công tiết chế Hưng Đạo Đại Vương Trần Quốc Tuấn, người từng đóng quân tại đây để trấn giữ biên cương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Lào Cai",
+      "district": "Thành phố Lào Cai",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Núi Hàm Rồng",
+    "type_of_place": "natural",
+    "event": "Ngọn núi có hình dáng đầu rồng vươn lên trời xanh, gắn liền với truyền thuyết về đôi rồng bị chia cắt bởi trận đại hồng thủy.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Sa Pa",
+      "district": "Thị xã Sa Pa",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Cột cờ Lũng Pô",
+    "type_of_place": "historical",
+    "event": "Công trình đánh dấu chủ quyền nơi con sông Hồng chảy vào đất Việt ('Nơi con sông Hồng chảy vào đất Việt').",
+    "place": {
+      "hamlet": "Thôn Lũng Pô",
+      "commune": "Xã A Mú Sung",
+      "district": "Huyện Bát Xát",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Đền Bảo Hà (Đền Ông Hoàng Bảy)",
+    "type_of_place": "historical",
+    "event": "Di tích lịch sử văn hóa quốc gia, nơi thờ danh tướng Nguyễn Hoàng Bảy (Thần vệ quốc) có công đánh giặc phương Bắc.",
+    "place": {
+      "hamlet": "Thôn Bảo Vinh",
+      "commune": "Xã Bảo Hà",
+      "district": "Huyện Bảo Yên",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Ruộng bậc thang Y Tý",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với biển mây và những ngôi nhà trình tường hình nấm độc đáo của người Hà Nhì.",
+    "place": {
+      "hamlet": "Thôn Choản Thèn",
+      "commune": "Xã Y Tý",
+      "district": "Huyện Bát Xát",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Thác Bạc",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Ô Quý Hồ",
+      "district": "Thị xã Sa Pa",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Chợ phiên Bắc Hà",
+    "type_of_place": "historical",
+    "event": "Phiên chợ vùng cao lớn nhất và còn giữ được nét văn hóa nguyên sơ của đồng bào các dân tộc thiểu số vùng Tây Bắc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Bắc Hà",
+      "district": "Huyện Bắc Hà",
+      "province": "Lào Cai"
+    }
+  },
+  {
+    "name": "Cửa khẩu Quốc tế Lào Cai",
+    "type_of_place": "historical",
+    "event": "Cửa ngõ giao thương quan trọng giữa Việt Nam và Trung Quốc, chứng nhân của nhiều sự kiện lịch sử biên giới.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Lào Cai",
+      "district": "Thành phố Lào Cai",
+      "province": "Lào Cai"
+    }
+  }
+]
+}

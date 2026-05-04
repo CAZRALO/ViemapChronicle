@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Thành Nhà Hồ (Thành Tây Đô)",
+    "type_of_place": "historical",
+    "event": "Di sản văn hóa thế giới UNESCO, kinh đô của nước Đại Ngu dưới triều Hồ, công trình kiến trúc bằng đá độc đáo và kiên cố bậc nhất Đông Nam Á.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Vĩnh Long, Xã Vĩnh Tiến",
+      "district": "Huyện Vĩnh Lộc",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Khu di tích lịch sử Lam Kinh",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa của cuộc khởi nghĩa Lam Sơn và là nơi an nghỉ, thờ cúng các vị vua, hoàng thái hậu nhà Hậu Lê; nơi có Bia Vĩnh Lăng do Nguyễn Trãi soạn.",
+    "place": {
+      "hamlet": "Thôn Hào Lương",
+      "commune": "Thị trấn Lam Sơn",
+      "district": "Huyện Thọ Xuân",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Biển Sầm Sơn",
+    "type_of_place": "natural",
+    "event": "Khu nghỉ dưỡng biển nổi tiếng được người Pháp khai thác từ năm 1906, gắn liền với huyền thoại Hòn Trống Mái và Đền Độc Cước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các phường: Bắc Sơn, Trung Sơn, Trường Sơn, Quảng Cư...",
+      "district": "Thành phố Sầm Sơn",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Suối Cá thần Cẩm Lương",
+    "type_of_place": "natural",
+    "event": "Dòng suối kỳ bí với hàng ngàn con cá giốc lớn nhỏ chen chúc nhau nhưng người dân không bao giờ ăn thịt, gắn liền với truyền thuyết về Thần Rắn.",
+    "place": {
+      "hamlet": "Bản Ngọc",
+      "commune": "Xã Cẩm Lương",
+      "district": "Huyện Cẩm Thủy",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Cầu Hàm Rồng",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Hàm Rồng thần thánh', biểu tượng của ý chí kiên cường trong cuộc kháng chiến chống Mỹ (tọa độ lửa bảo vệ tuyến đường huyết mạch).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hàm Rồng",
+      "district": "Thành phố Thanh Hóa",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Khu bảo tồn thiên nhiên Pù Luông",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với những thửa ruộng bậc thang tuyệt đẹp, hệ sinh thái núi đá vôi và văn hóa bản địa của người Thái, người Mường.",
+    "place": {
+      "hamlet": "Bản Đôn, Bản Hiêu...",
+      "commune": "Xã Thành Lâm, Xã Cổ Lũng (và các xã lân cận)",
+      "district": "Huyện Bá Thước (và Huyện Quan Hóa)",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Đền Bà Triệu",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Nữ anh hùng dân tộc Triệu Thị Trinh (Bà Triệu), người đã cưỡi voi đánh đuổi giặc Đông Ngô (năm 248).",
+    "place": {
+      "hamlet": "Thôn Phú Điền",
+      "commune": "Xã Triệu Lộc",
+      "district": "Huyện Hậu Lộc",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Bến En",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Hạ Long trên cạn' của xứ Thanh với hồ Sông Mực rộng lớn và hệ động thực vật phong phú.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hải Vân, Xã Xuân Thái, Xã Bình Lương...",
+      "district": "Huyện Như Thanh, Huyện Như Xuân",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Đền thờ Lê Hoàn",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia đặc biệt, nơi thờ Vua Lê Đại Hành, nổi bật với kiến trúc chữ 'Công' độc đáo và nghệ thuật chạm khắc gỗ tinh xảo.",
+    "place": {
+      "hamlet": "Làng Trung Lập",
+      "commune": "Xã Xuân Lập",
+      "district": "Huyện Thọ Xuân",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Biển Hải Tiến",
+    "type_of_place": "natural",
+    "event": "Bãi biển mới nổi với vẻ đẹp hoang sơ, bờ cát dài và rặng phi lao xanh ngát.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hoằng Tiến, Xã Hoằng Hải, Xã Hoằng Thanh...",
+      "district": "Huyện Hoằng Hóa",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Thác Voi",
+    "type_of_place": "natural",
+    "event": "Thác nước đẹp hoang sơ, tương truyền là nơi đàn voi chiến của vua Quang Trung từng ghé uống nước trên đường ra Bắc (trận Ngọc Hồi - Đống Đa).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thành Vân",
+      "district": "Huyện Thạch Thành",
+      "province": "Thanh Hóa"
+    }
+  },
+  {
+    "name": "Hòn Trống Mái",
+    "type_of_place": "natural",
+    "event": "Danh thắng nằm trên núi Trường Lệ, gồm ba tảng đá xếp chồng lên nhau tựa hình đôi chim trống mái, biểu tượng cho tình yêu thủy chung.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Trường Sơn",
+      "district": "Thành phố Sầm Sơn",
+      "province": "Thanh Hóa"
+    }
+  }
+]
+}

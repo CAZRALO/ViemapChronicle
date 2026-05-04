@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Núi Bà Đen",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Nóc nhà Đông Nam Bộ' (986m), gắn liền với huyền thoại Linh Sơn Thánh Mẫu (Bà Đen) và phong trào cách mạng.",
+    "place": {
+      "hamlet": "Khu phố Ninh Phú",
+      "commune": "Phường Ninh Sơn",
+      "district": "Thành phố Tây Ninh",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Tòa Thánh Tây Ninh",
+    "type_of_place": "historical",
+    "event": "Tổ đình của Đạo Cao Đài, công trình kiến trúc tôn giáo độc đáo kết hợp hài hòa giữa mỹ thuật Á Đông và phương Tây.",
+    "place": {
+      "hamlet": "Khu phố Long Hoa",
+      "commune": "Phường Long Hoa",
+      "district": "Thị xã Hòa Thành",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Hồ Dầu Tiếng",
+    "type_of_place": "natural",
+    "event": "Hồ thủy lợi nhân tạo lớn nhất Đông Nam Á vào thời điểm xây dựng, nằm trải dài trên địa phận 3 tỉnh (chủ yếu ở Tây Ninh).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phước Minh, Phước Ninh, Suối Đá...",
+      "district": "Huyện Dương Minh Châu",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Di tích Căn cứ Trung ương Cục Miền Nam",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Thủ đô kháng chiến' hay 'R', nơi ở và làm việc của cơ quan đầu não cách mạng miền Nam thời chống Mỹ.",
+    "place": {
+      "hamlet": "Rừng Chàng Riệc",
+      "commune": "Xã Tân Lập",
+      "district": "Huyện Tân Biên",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Tháp cổ Bình Thạnh",
+    "type_of_place": "historical",
+    "event": "Tháp cổ Chăm Pa (thuộc văn hóa Óc Eo) duy nhất ở Nam Bộ còn giữ được tường vách đá khá nguyên vẹn, niên đại thế kỷ VIII-IX.",
+    "place": {
+      "hamlet": "Ấp Bình Phú",
+      "commune": "Xã Bình Thạnh",
+      "district": "Thị xã Trảng Bàng",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Lò Gò - Xa Mát",
+    "type_of_place": "natural",
+    "event": "Vườn di sản ASEAN, nơi bảo tồn nhiều hệ sinh thái đặc trưng của vùng chuyển tiếp Đông Nam Bộ và Tây Nguyên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Bình, Tân Lập, Hòa Hiệp, Thạnh Tây",
+      "district": "Huyện Tân Biên",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Thung lũng Ma Thiên Lãnh",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Đà Lạt của miền Đông', thung lũng hoang sơ nằm tiếp giáp giữa ba ngọn núi (Bà Đen, núi Phụng, núi Heo).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thạnh Tân",
+      "district": "Thành phố Tây Ninh",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Di tích Chiến thắng Tua Hai",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận đánh mở màn cho phong trào Đồng Khởi vũ trang ở miền Nam (ngày 26/01/1960).",
+    "place": {
+      "hamlet": "Ấp Tua Hai",
+      "commune": "Xã Đồng Khởi",
+      "district": "Huyện Châu Thành",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Chùa Gò Kén (Thiền Lâm Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ hơn 100 năm tuổi, nơi Hòa thượng Thích Từ Phong từng trụ trì và có liên quan đến sự hình thành đạo Cao Đài giai đoạn đầu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hiệp Tân",
+      "district": "Thị xã Hòa Thành",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Cửa khẩu Quốc tế Mộc Bài",
+    "type_of_place": "historical",
+    "event": "Cửa khẩu đường bộ lớn nhất phía Nam trên tuyến biên giới Việt Nam - Campuchia.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Lợi Thuận",
+      "district": "Huyện Bến Cầu",
+      "province": "Tây Ninh"
+    }
+  },
+  {
+    "name": "Tháp Chót Mạt",
+    "type_of_place": "historical",
+    "event": "Một trong những tháp cổ hiếm hoi của nền văn hóa Óc Eo còn sót lại tại Nam Bộ, được phát hiện vào đầu thế kỷ 20.",
+    "place": {
+      "hamlet": "Ấp Xóm Mới",
+      "commune": "Xã Tân Phong",
+      "district": "Huyện Tân Biên",
+      "province": "Tây Ninh"
+    }
+  }
+]
+}

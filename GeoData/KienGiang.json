@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Di tích Nhà tù Phú Quốc",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Địa ngục trần gian', nơi giam giữ hơn 40.000 tù binh chiến tranh trong thời kỳ kháng chiến chống Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường An Thới",
+      "district": "Thành phố Phú Quốc",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Khu di tích Lăng Mạc Cửu",
+    "type_of_place": "historical",
+    "event": "Nơi thờ tự và an nghỉ của Tổng trấn Mạc Cửu và dòng họ Mạc - những người có công khai phá và trấn giữ vùng đất Hà Tiên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bình San",
+      "district": "Thành phố Hà Tiên",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Đình thần Nguyễn Trung Trực",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Anh hùng dân tộc Nguyễn Trung Trực, nổi tiếng với câu nói 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Vĩnh Thanh",
+      "district": "Thành phố Rạch Giá",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Vườn quốc gia U Minh Thượng",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới, từng là căn cứ địa cách mạng (Khu ủy khu 9) trong hai cuộc kháng chiến.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Minh Bắc, Xã Minh Thuận",
+      "district": "Huyện U Minh Thượng",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Thạch Động (Thạch Động Thôn Vân)",
+    "type_of_place": "natural",
+    "event": "Hang động đá vôi gắn liền với truyền thuyết Thạch Sanh chém chằn tinh cứu công chúa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mỹ Đức",
+      "district": "Thành phố Hà Tiên",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Quần đảo Nam Du",
+    "type_of_place": "natural",
+    "event": "Quần đảo hoang sơ tuyệt đẹp gồm 21 hòn đảo lớn nhỏ, được ví như 'Vịnh Hạ Long' thu nhỏ giữa biển Tây.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Sơn, Xã Nam Du",
+      "district": "Huyện Kiên Hải",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Khu di tích lịch sử Hòn Đất (Ba Hòn)",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra cuộc chiến đấu ác liệt năm 1962 và là nơi hy sinh của Anh hùng lực lượng vũ trang nhân dân Phan Thị Ràng (nguyên mẫu chị Sứ trong tiểu thuyết 'Hòn Đất').",
+    "place": {
+      "hamlet": "Ấp Hòn Sóc",
+      "commune": "Xã Thổ Sơn",
+      "district": "Huyện Hòn Đất",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Danh thắng Hòn Phụ Tử - Chùa Hang",
+    "type_of_place": "natural",
+    "event": "Biểu tượng cảnh quan của Kiên Giang gắn liền với truyền thuyết cha con diệt thủy quái; Chùa Hang (Hải Sơn Tự) nằm trong lòng núi đá vôi.",
+    "place": {
+      "hamlet": "Ấp Ba Trại",
+      "commune": "Xã Bình An",
+      "district": "Huyện Kiên Lương",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Cổng Tam Quan Rạch Giá",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc biểu tượng, 'lời chào' của thành phố biển Rạch Giá, xây dựng từ thời Pháp thuộc.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Vĩnh Thanh Vân",
+      "district": "Thành phố Rạch Giá",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Bãi Sao",
+    "type_of_place": "natural",
+    "event": "Một trong những bãi biển đẹp nhất Phú Quốc với bờ cát trắng mịn như kem và nước biển xanh ngọc bích.",
+    "place": {
+      "hamlet": "Ấp Bãi Sao",
+      "commune": "Phường An Thới",
+      "district": "Thành phố Phú Quốc",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Quần đảo Bà Lụa",
+    "type_of_place": "natural",
+    "event": "Cụm đảo gồm hơn 40 đảo lớn nhỏ, nổi tiếng với mực nước biển nông, có thể đi bộ từ đảo này sang đảo khác.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Sơn Hải",
+      "district": "Huyện Kiên Lương",
+      "province": "Kiên Giang"
+    }
+  },
+  {
+    "name": "Đền thờ Quốc tổ Hùng Vương",
+    "type_of_place": "historical",
+    "event": "Nơi thờ cúng Vua Hùng lâu đời và quy mô tại miền Tây, thể hiện lòng biết ơn nguồn cội của người dân đi mở cõi.",
+    "place": {
+      "hamlet": "Ấp Đông Bình",
+      "commune": "Xã Thạnh Đông A",
+      "district": "Huyện Tân Hiệp",
+      "province": "Kiên Giang"
+    }
+  }
+]
+}

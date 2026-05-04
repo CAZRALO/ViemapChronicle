@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Côn Sơn - Kiếp Bạc",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia đặc biệt, gắn liền với cuộc đời và sự nghiệp của các danh nhân Nguyễn Trãi, Trần Hưng Đạo và Chu Văn An.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Cộng Hòa, Xã Hưng Đạo",
+      "district": "Thành phố Chí Linh",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Đảo Cò Chi Lăng Nam",
+    "type_of_place": "natural",
+    "event": "Khu bảo tồn thiên nhiên độc đáo với hàng vạn con cò, vạc cư trú giữa lòng hồ An Dương.",
+    "place": {
+      "hamlet": "Thôn An Dương",
+      "commune": "Xã Chi Lăng Nam",
+      "district": "Huyện Thanh Miện",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Văn miếu Mao Điền",
+    "type_of_place": "historical",
+    "event": "Nơi tổ chức thi Hương của trấn Hải Dương xưa, biểu tượng cho truyền thống hiếu học của xứ Đông (đứng thứ 2 sau Văn Miếu Quốc Tử Giám về quy mô).",
+    "place": {
+      "hamlet": "Thôn Mao Điền",
+      "commune": "Xã Cẩm Điền",
+      "district": "Huyện Cẩm Giàng",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Làng gốm Chu Đậu",
+    "type_of_place": "historical",
+    "event": "Cái nôi của dòng gốm hoa lam cao cấp từng thất truyền, được mệnh danh là 'gốm đạo', hiện đang được khôi phục và phát triển mạnh mẽ.",
+    "place": {
+      "hamlet": "Thôn Chu Đậu",
+      "commune": "Xã Thái Tân",
+      "district": "Huyện Nam Sách",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Động Kính Chủ (Động Dương Nham)",
+    "type_of_place": "historical",
+    "event": "Được vua Lê Thánh Tông phong tặng là 'Nam Thiên đệ lục động', lưu giữ hệ thống văn bia ma nhai (khắc trên vách đá) quý giá.",
+    "place": {
+      "hamlet": "Thôn Dương Nham",
+      "commune": "Phường Phạm Thái",
+      "district": "Thị xã Kinh Môn",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Đền Tranh (Đền Quan Lớn Tuần Tranh)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Quan Lớn Tuần Tranh, vị thần trấn giữ miền sông nước, địa điểm tâm linh nổi tiếng trong tín ngưỡng thờ Mẫu.",
+    "place": {
+      "hamlet": "Thôn Tranh Xuyên",
+      "commune": "Xã Đồng Tâm",
+      "district": "Huyện Ninh Giang",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Đền Cao An Phụ",
+    "type_of_place": "historical",
+    "event": "Nơi thờ An Sinh Vương Trần Liễu (thân phụ của Hưng Đạo Vương Trần Quốc Tuấn) nằm trên đỉnh núi An Phụ hùng vĩ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường An Sinh",
+      "district": "Thị xã Kinh Môn",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Rừng lá phong Chùa Thanh Mai",
+    "type_of_place": "natural",
+    "event": "Rừng phong hương cổ thụ hiếm hoi tại miền Bắc, nơi lá chuyển màu đỏ rực rỡ vào mùa đông.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hoàng Hoa Thám",
+      "district": "Thành phố Chí Linh",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Đền Bia",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Đại danh y Tuệ Tĩnh - Ông tổ thuốc Nam với câu nói nổi tiếng 'Nam dược trị Nam nhân'.",
+    "place": {
+      "hamlet": "Thôn Văn Thai",
+      "commune": "Xã Cẩm Văn",
+      "district": "Huyện Cẩm Giàng",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Vườn vải Thanh Hà (Cây vải Tổ)",
+    "type_of_place": "natural",
+    "event": "Vùng đất tổ của cây vải thiều Việt Nam, nơi có cây vải tổ Hoàng Nghị gần 200 năm tuổi.",
+    "place": {
+      "hamlet": "Thôn Thúy Lâm",
+      "commune": "Xã Thanh Sơn",
+      "district": "Huyện Thanh Hà",
+      "province": "Hải Dương"
+    }
+  },
+  {
+    "name": "Chùa Giám (Nghiêm Quang Tự)",
+    "type_of_place": "historical",
+    "event": "Lưu giữ tòa Cửu Phẩm Liên Hoa bằng gỗ cổ kính và giá trị bậc nhất Việt Nam (Bảo vật quốc gia).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Cẩm Sơn",
+      "district": "Huyện Cẩm Giàng",
+      "province": "Hải Dương"
+    }
+  }
+]
+}

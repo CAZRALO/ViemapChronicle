@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Đền Đô (Đền Lý Bát Đế)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ 8 vị vua nhà Lý, được mệnh danh là đất phát tích của triều đại nhà Lý.",
+    "place": {
+      "hamlet": "Khu phố Thượng",
+      "commune": "Phường Đình Bảng",
+      "district": "Thành phố Từ Sơn",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Chùa Phật Tích (Vạn Phúc Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ có từ thời Lý, nơi lưu giữ pho tượng Phật A Di Đà bằng đá xanh ngàn năm tuổi (Bảo vật quốc gia).",
+    "place": {
+      "hamlet": "Thôn Phật Tích",
+      "commune": "Xã Phật Tích",
+      "district": "Huyện Tiên Du",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Chùa Dâu (Diên Ứng Tự)",
+    "type_of_place": "historical",
+    "event": "Được coi là ngôi chùa Phật giáo cổ nhất Việt Nam, trung tâm của chốn tổ đình Phật giáo dòng Thiền Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Khương Tự",
+      "commune": "Xã Thanh Khương",
+      "district": "Thị xã Thuận Thành",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Chùa Bút Tháp (Ninh Phúc Tự)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với kiến trúc 'nội công ngoại quốc' và tượng Phật Bà Quan Âm nghìn mắt nghìn tay bằng gỗ lớn nhất Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Bút Tháp",
+      "commune": "Xã Đình Tổ",
+      "district": "Thị xã Thuận Thành",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Đền Bà Chúa Kho",
+    "type_of_place": "historical",
+    "event": "Nơi thờ người phụ nữ có công trông coi kho lương thực thời nhà Lý, nổi tiếng với tập tục 'vay vốn' đầu năm.",
+    "place": {
+      "hamlet": "Khu Cổ Mễ",
+      "commune": "Phường Vũ Ninh",
+      "district": "Thành phố Bắc Ninh",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Làng tranh Đông Hồ",
+    "type_of_place": "historical",
+    "event": "Làng nghề truyền thống nổi tiếng với dòng tranh khắc gỗ dân gian Đông Hồ, di sản văn hóa phi vật thể quốc gia.",
+    "place": {
+      "hamlet": "Thôn Đông Khê",
+      "commune": "Phường Song Hồ",
+      "district": "Thị xã Thuận Thành",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Đình làng Đình Bảng",
+    "type_of_place": "historical",
+    "event": "Một trong những ngôi đình gỗ lớn và đẹp nhất Việt Nam còn tồn tại, nổi tiếng với câu ca: 'Thứ nhất là đình Đông Khang, thứ nhì đình Bảng...'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Đình Bảng",
+      "district": "Thành phố Từ Sơn",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Lăng và Đền thờ Kinh Dương Vương",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Thủy tổ của dân tộc Việt Nam (Kinh Dương Vương), cha của Lạc Long Quân.",
+    "place": {
+      "hamlet": "Thôn Á Lữ",
+      "commune": "Xã Đại Đồng Thành",
+      "district": "Thị xã Thuận Thành",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Làng gốm Phù Lãng",
+    "type_of_place": "historical",
+    "event": "Làng nghề gốm cổ truyền thống từ thời nhà Trần, nổi tiếng với dòng gốm men da lươn.",
+    "place": {
+      "hamlet": "Thôn Phù Lãng",
+      "commune": "Xã Phù Lãng",
+      "district": "Thị xã Quế Võ",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Văn Miếu Bắc Ninh",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Khổng Tử và tôn vinh các bậc hiền tài, khoa bảng của vùng đất Kinh Bắc xưa.",
+    "place": {
+      "hamlet": "Khu 10",
+      "commune": "Phường Đại Phúc",
+      "district": "Thành phố Bắc Ninh",
+      "province": "Bắc Ninh"
+    }
+  },
+  {
+    "name": "Thành cổ Luy Lâu",
+    "type_of_place": "historical",
+    "event": "Từng là trung tâm chính trị, kinh tế, văn hóa và Phật giáo lớn nhất của Giao Chỉ trong thời kỳ Bắc thuộc.",
+    "place": {
+      "hamlet": "Thôn Lũng Khê",
+      "commune": "Xã Thanh Khương",
+      "district": "Thị xã Thuận Thành",
+      "province": "Bắc Ninh"
+    }
+  }
+]
+}

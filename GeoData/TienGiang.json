@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Di tích Chiến thắng Rạch Gầm - Xoài Mút",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu chiến công lẫy lừng của anh hùng áo vải Nguyễn Huệ đánh tan 5 vạn quân Xiêm xâm lược (năm 1785).",
+    "place": {
+      "hamlet": "Ấp Đông",
+      "commune": "Xã Kim Sơn",
+      "district": "Huyện Châu Thành",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Chùa Vĩnh Tràng",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa lớn nhất Tiền Giang, nổi bật với kiến trúc giao thoa độc đáo giữa phương Đông và phương Tây (Pháp, La Mã, Khmer, Hoa, Việt).",
+    "place": {
+      "hamlet": "Ấp Mỹ An",
+      "commune": "Xã Mỹ Phong",
+      "district": "Thành phố Mỹ Tho",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Cù lao Thới Sơn (Cồn Lân)",
+    "type_of_place": "natural",
+    "event": "Điểm du lịch sinh thái miệt vườn nổi tiếng, nơi du khách trải nghiệm đi xuồng ba lá, nghe đờn ca tài tử và thưởng thức trái cây tại vườn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thới Sơn",
+      "district": "Thành phố Mỹ Tho",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Trại rắn Đồng Tâm",
+    "type_of_place": "natural",
+    "event": "Trung tâm nuôi trồng, nghiên cứu, chế biến dược liệu và cấp cứu điều trị rắn cắn lớn nhất Việt Nam, được mệnh danh là 'Vương quốc các loài rắn'.",
+    "place": {
+      "hamlet": "Ấp Tân Thuận B",
+      "commune": "Xã Bình Đức",
+      "district": "Huyện Châu Thành",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Chợ nổi Cái Bè",
+    "type_of_place": "historical",
+    "event": "Một trong những chợ nổi sầm uất và lâu đời nhất miền Tây Nam Bộ, nơi giao thương nông sản trên sông nước (tiếp giáp 3 tỉnh Tiền Giang, Vĩnh Long, Bến Tre).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cái Bè",
+      "district": "Huyện Cái Bè",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Di tích Chiến thắng Ấp Bắc",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra trận đánh lịch sử (02/01/1963) đánh bại chiến thuật 'Trực thăng vận' và 'Thiết xa vận' của Mỹ - Ngụy.",
+    "place": {
+      "hamlet": "Ấp Tân Bình",
+      "commune": "Xã Tân Phú",
+      "district": "Thị xã Cai Lậy",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Biển Tân Thành (Biển Gò Công)",
+    "type_of_place": "natural",
+    "event": "Bãi biển cát đen độc đáo dài 7km, nổi tiếng với nghề nuôi nghêu và các món hải sản (đặc biệt là nghêu Gò Công).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Thành",
+      "district": "Huyện Gò Công Đông",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Chánh Giác",
+    "type_of_place": "historical",
+    "event": "Thiền viện lớn nhất khu vực, nổi tiếng với tòa tháp Đại giác ngộ mô phỏng theo Thánh tích Đại tháp Giác Ngộ ở Ấn Độ.",
+    "place": {
+      "hamlet": "Ấp 1",
+      "commune": "Xã Thạnh Tân",
+      "district": "Huyện Tân Phước",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Lăng Hoàng Gia",
+    "type_of_place": "historical",
+    "event": "Khu lăng mộ và đền thờ dòng họ Phạm Đăng, trong đó có mộ cụ Phạm Đăng Hưng - ông ngoại của Vua Tự Đức (thân sinh Thái hậu Từ Dụ).",
+    "place": {
+      "hamlet": "Lăng Hoàng Gia",
+      "commune": "Xã Long Hưng",
+      "district": "Thành phố Gò Công",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Nhà Đốc Phủ Hải",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà cổ có kiến trúc kết hợp Đông - Tây tinh xảo, từng là bối cảnh của nhiều bộ phim nổi tiếng (như Công tử Bạc Liêu).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1",
+      "district": "Thành phố Gò Công",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Vườn hoa Mãn Đình Hồng",
+    "type_of_place": "natural",
+    "event": "Khu vườn hoa rộng lớn với nhiều chủng loại hoa đa dạng, điểm check-in nổi tiếng của giới trẻ Tiền Giang.",
+    "place": {
+      "hamlet": "Ấp Phước Thuận",
+      "commune": "Xã Phước Thạnh",
+      "district": "Huyện Châu Thành",
+      "province": "Tiền Giang"
+    }
+  },
+  {
+    "name": "Đình Tân Đông (Đình Gò Táo)",
+    "type_of_place": "historical",
+    "event": "Ngôi đình cổ độc đáo được 'ôm trọn' bởi hai cây bồ đề cổ thụ mọc trên mái đình, tạo nên vẻ đẹp kỳ bí và linh thiêng.",
+    "place": {
+      "hamlet": "Ấp Gò Táo",
+      "commune": "Xã Tân Đông",
+      "district": "Huyện Gò Công Đông",
+      "province": "Tiền Giang"
+    }
+  }
+]
+}

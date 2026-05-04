@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Tân Trào",
+    "type_of_place": "historical",
+    "event": "Thủ đô Khu giải phóng, Thủ đô Kháng chiến, nơi diễn ra những sự kiện lịch sử trọng đại quyết định vận mệnh dân tộc trong Cách mạng Tháng Tám.",
+    "place": {
+      "hamlet": "Thôn Tân Lập",
+      "commune": "Xã Tân Trào",
+      "district": "Huyện Sơn Dương",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Cây đa Tân Trào",
+    "type_of_place": "historical",
+    "event": "Nơi Đại tướng Võ Nguyên Giáp đọc Quân lệnh số 1 hạ lệnh xuất quân tiến về Hà Nội (chiều 16/8/1945).",
+    "place": {
+      "hamlet": "Thôn Tân Lập",
+      "commune": "Xã Tân Trào",
+      "district": "Huyện Sơn Dương",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Lán Nà Nưa",
+    "type_of_place": "historical",
+    "event": "Nơi Chủ tịch Hồ Chí Minh đã ở và làm việc từ tháng 5 đến tháng 8 năm 1945 để chỉ đạo Tổng khởi nghĩa.",
+    "place": {
+      "hamlet": "Thôn Tân Lập",
+      "commune": "Xã Tân Trào",
+      "district": "Huyện Sơn Dương",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Đình Tân Trào",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra Quốc dân Đại hội (tiền thân của Quốc hội) ngày 16/8/1945, bầu ra Ủy ban Dân tộc Giải phóng Việt Nam.",
+    "place": {
+      "hamlet": "Thôn Tân Lập",
+      "commune": "Xã Tân Trào",
+      "district": "Huyện Sơn Dương",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Khu du lịch sinh thái Na Hang - Lâm Bình",
+    "type_of_place": "natural",
+    "event": "Được ví như 'Hạ Long trên cạn' giữa đại ngàn, nổi tiếng với hồ thủy điện Tuyên Quang, núi Pác Tạ và cọc Vài Phạ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các xã thuộc huyện Na Hang và Lâm Bình",
+      "district": "Huyện Na Hang, Huyện Lâm Bình",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Suối khoáng Mỹ Lâm",
+    "type_of_place": "natural",
+    "event": "Nguồn nước khoáng thiên nhiên sulfua nổi tiếng, được đánh giá là một trong những mỏ nước khoáng tốt nhất Đông Dương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mỹ Lâm",
+      "district": "Thành phố Tuyên Quang",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Thành nhà Mạc (Tuyên Quang)",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc quân sự thời phong kiến được xây dựng từ năm 1592, chứng nhân cho nhiều cuộc giao tranh lịch sử.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân Quang",
+      "district": "Thành phố Tuyên Quang",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Khu di tích Kim Bình",
+    "type_of_place": "historical",
+    "event": "Nơi diễn ra Đại hội đại biểu toàn quốc lần thứ II của Đảng (tháng 2/1951) - Đại hội đầu tiên được tổ chức ở trong nước.",
+    "place": {
+      "hamlet": "Thôn Bó Củng",
+      "commune": "Xã Kim Bình",
+      "district": "Huyện Chiêm Hóa",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Thác Mơ (Thác Pác Ban)",
+    "type_of_place": "natural",
+    "event": "Danh thắng quốc gia, thác nước hùng vĩ gắn liền với truyền thuyết về nàng Mơ vợ của chàng trai đi bắt rùa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Na Hang",
+      "district": "Huyện Na Hang",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Đền Hạ (Hiệp Thuận Thần Huống Linh Từ)",
+    "type_of_place": "historical",
+    "event": "Ngôi đền thiêng thờ Mẫu Thượng Ngàn (Công chúa Phương Dung), gắn liền với truyền thuyết hai nàng công chúa con vua Hùng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân Quang",
+      "district": "Thành phố Tuyên Quang",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Thác Bản Ba",
+    "type_of_place": "natural",
+    "event": "Thác nước 3 tầng độc đáo nằm giữa cánh rừng nguyên sinh, vẻ đẹp hoang sơ và thơ mộng.",
+    "place": {
+      "hamlet": "Thôn Bản Ba",
+      "commune": "Xã Trung Hà",
+      "district": "Huyện Chiêm Hóa",
+      "province": "Tuyên Quang"
+    }
+  },
+  {
+    "name": "Đình Hồng Thái",
+    "type_of_place": "historical",
+    "event": "Trạm liên lạc và là nơi dừng chân đầu tiên của Bác Hồ khi Người từ Pác Bó về Tân Trào (tháng 5/1945).",
+    "place": {
+      "hamlet": "Làng Cả",
+      "commune": "Xã Tân Trào",
+      "district": "Huyện Sơn Dương",
+      "province": "Tuyên Quang"
+    }
+  }
+]
+}

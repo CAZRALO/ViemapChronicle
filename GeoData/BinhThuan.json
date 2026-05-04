@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Trường Dục Thanh",
+    "type_of_place": "historical",
+    "event": "Nơi thầy giáo Nguyễn Tất Thành (Chủ tịch Hồ Chí Minh) từng dạy học vào năm 1910 trước khi ra đi tìm đường cứu nước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Đức Nghĩa",
+      "district": "Thành phố Phan Thiết",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Tháp Chàm Po Sah Inư (Poshanư)",
+    "type_of_place": "historical",
+    "event": "Quần thể kiến trúc đền tháp Chăm Pa cổ còn sót lại, nơi thờ thần Shiva và công chúa Poshanư.",
+    "place": {
+      "hamlet": "Khu phố 5",
+      "commune": "Phường Phú Hài",
+      "district": "Thành phố Phan Thiết",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Hải đăng Kê Gà",
+    "type_of_place": "historical",
+    "event": "Ngọn hải đăng cổ nhất Việt Nam và Đông Nam Á, được người Pháp thiết kế và xây dựng bằng đá hoa cương từ năm 1897.",
+    "place": {
+      "hamlet": "Thôn Kê Gà",
+      "commune": "Xã Tân Thành",
+      "district": "Huyện Hàm Thuận Nam",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Dinh Thầy Thím",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc nghệ thuật cấp quốc gia, gắn liền với truyền thuyết về lòng nhân ái của vợ chồng đạo sĩ Thầy Thím.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Tiến",
+      "district": "Thị xã La Gi",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Lầu Ông Hoàng",
+    "type_of_place": "historical",
+    "event": "Tàn tích của một biệt thự cổ, gắn liền với giai thoại tình yêu giữa nhà thơ Hàn Mặc Tử và Mộng Cầm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Phú Hài",
+      "district": "Thành phố Phan Thiết",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Chùa Núi Tà Cú (Linh Sơn Trường Thọ)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với tượng Phật Thích Ca nhập niết bàn dài 49m, từng giữ kỷ lục tượng Phật nằm dài nhất Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Thuận Nam",
+      "district": "Huyện Hàm Thuận Nam",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Đồi cát bay Mũi Né (Đồi cát đỏ)",
+    "type_of_place": "natural",
+    "event": "Đồi cát trải dài thay đổi hình dáng liên tục theo hướng gió, biểu tượng du lịch của Bình Thuận.",
+    "place": {
+      "hamlet": "Khu phố 5",
+      "commune": "Phường Mũi Né",
+      "district": "Thành phố Phan Thiết",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Bàu Trắng (Bàu Sen)",
+    "type_of_place": "natural",
+    "event": "Hồ nước ngọt tự nhiên nằm giữa những đồi cát trắng mênh mông, được ví như 'tiểu sa mạc Sahara'.",
+    "place": {
+      "hamlet": "Thôn Hồng Lâm",
+      "commune": "Xã Hòa Thắng",
+      "district": "Huyện Bắc Bình",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Bãi đá Cổ Thạch (Bãi đá 7 màu)",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với bãi đá cuội nhiều màu sắc và những tảng đá phủ đầy rêu xanh vào tháng 3 hàng năm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Bình Thạnh",
+      "district": "Huyện Tuy Phong",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Cù Lao Câu (Hòn Câu)",
+    "type_of_place": "natural",
+    "event": "Khu bảo tồn sinh vật biển với hệ san hô phong phú và bãi biển hoang sơ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phước Thể",
+      "district": "Huyện Tuy Phong",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Đảo Phú Quý",
+    "type_of_place": "natural",
+    "event": "Hòn đảo tiền tiêu với cảnh quan hùng vĩ, vách đá dựng đứng và những ngôi chùa cổ ven biển.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các xã Long Hải, Ngũ Phụng, Tam Thanh",
+      "district": "Huyện Phú Quý",
+      "province": "Bình Thuận"
+    }
+  },
+  {
+    "name": "Suối Tiên",
+    "type_of_place": "natural",
+    "event": "Dòng suối nhỏ chảy len lỏi qua những nhũ cát đỏ rực rỡ tạo nên khung cảnh như chốn bồng lai.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Mũi Né (và Phường Hàm Tiến)",
+      "district": "Thành phố Phan Thiết",
+      "province": "Bình Thuận"
+    }
+  }
+]
+}

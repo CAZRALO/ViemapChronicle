@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Văn miếu Trấn Biên",
+    "type_of_place": "historical",
+    "event": "Văn miếu đầu tiên được xây dựng tại xứ Đàng Trong (năm 1715), biểu tượng cho truyền thống hiếu học và văn hóa của vùng đất Biên Hòa - Đồng Nai.",
+    "place": {
+      "hamlet": "Khu phố 5",
+      "commune": "Phường Bửu Long",
+      "district": "Thành phố Biên Hòa",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Cát Tiên",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới được UNESCO công nhận, nơi bảo tồn loài tê giác một sừng (trước đây) và hệ sinh thái rừng mưa nhiệt đới.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nam Cát Tiên (và các xã lân cận)",
+      "district": "Huyện Tân Phú",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Chiến khu Đ",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa cách mạng lừng danh, 'mật khu' của miền Đông Nam Bộ trong hai cuộc kháng chiến chống Pháp và Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Mã Đà, Xã Hiếu Liêm",
+      "district": "Huyện Vĩnh Cửu",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Khu du lịch Bửu Long",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Vịnh Hạ Long thu nhỏ' của phương Nam với hồ Long Ẩn và các vách đá soi bóng nước.",
+    "place": {
+      "hamlet": "Khu phố 4",
+      "commune": "Phường Bửu Long",
+      "district": "Thành phố Biên Hòa",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Mộ cự thạch Hàng Gòn",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia đặc biệt, ngôi mộ đá cổ (Dolmen) lớn nhất Việt Nam và Đông Nam Á, niên đại khoảng 150 năm TCN.",
+    "place": {
+      "hamlet": "Ấp Hàng Gòn",
+      "commune": "Xã Hàng Gòn",
+      "district": "Thành phố Long Khánh",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Thác Giang Điền",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "Ấp Hòa Bình",
+      "commune": "Xã Giang Điền",
+      "district": "Huyện Trảng Bom",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Núi Chứa Chan (Núi Gia Lào)",
+    "type_of_place": "natural",
+    "event": "Ngọn núi cao thứ hai ở Đông Nam Bộ (sau núi Bà Đen), nổi tiếng với Chùa Bửu Quang và cây đa ba gốc một ngọn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Xuân Trường",
+      "district": "Huyện Xuân Lộc",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Thất Phủ Cổ Miếu (Chùa Ông)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Hoa cổ nhất Nam Bộ (1684), gắn liền với cộng đồng người Hoa và công cuộc khai phá vùng đất Biên Hòa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hiệp Hòa (Cù lao Phố)",
+      "district": "Thành phố Biên Hòa",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Hồ Trị An",
+    "type_of_place": "natural",
+    "event": "Hồ nước nhân tạo khổng lồ phục vụ thủy điện Trị An, địa điểm cắm trại và chèo SUP nổi tiếng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Vĩnh An (và các xã lân cận)",
+      "district": "Huyện Vĩnh Cửu",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Làng bưởi Tân Triều",
+    "type_of_place": "natural",
+    "event": "Làng nghề trồng bưởi truyền thống lâu đời, hình thành từ thế kỷ 19, nổi tiếng với giống bưởi đường lá cam.",
+    "place": {
+      "hamlet": "Ấp Vĩnh Hiệp",
+      "commune": "Xã Tân Bình",
+      "district": "Huyện Vĩnh Cửu",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Di tích khảo cổ học Cát Tiên (Thánh địa Cát Tiên)",
+    "type_of_place": "historical",
+    "event": "Quần thể di tích đền đài quy mô lớn, minh chứng cho sự tồn tại của một nền văn minh cổ (ảnh hưởng Bà La Môn giáo) bên bờ sông Đồng Nai.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Quảng Ngãi",
+      "district": "Huyện Cát Tiên (giáp ranh Tân Phú)",
+      "province": "Đồng Nai"
+    }
+  },
+  {
+    "name": "Thác Mai - Bàu Nước Sôi",
+    "type_of_place": "natural",
+    "event": "Khu du lịch sinh thái rừng nguyên sinh, nổi tiếng với dòng thác đẹp và hồ nước khoáng nóng tự nhiên.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Gia Canh",
+      "district": "Huyện Định Quán",
+      "province": "Đồng Nai"
+    }
+  }
+]
+}

@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Danh thắng Ruộng bậc thang Mù Cang Chải",
+    "type_of_place": "natural",
+    "event": "Di tích Quốc gia đặc biệt, nổi tiếng với những thửa ruộng bậc thang đẹp như vân gỗ, đặc biệt vào mùa nước đổ và mùa lúa chín.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã La Pán Tẩn, Xã Chế Cu Nha, Xã Dế Xu Phình",
+      "district": "Huyện Mù Cang Chải",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Hồ Thác Bà",
+    "type_of_place": "natural",
+    "event": "Một trong ba hồ nước nhân tạo lớn nhất Việt Nam, được ví như 'Hạ Long trên núi' với hơn 1.300 đảo lớn nhỏ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Trải rộng trên nhiều xã",
+      "district": "Huyện Yên Bình, Huyện Lục Yên",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Đèo Khau Phạ",
+    "type_of_place": "natural",
+    "event": "Một trong 'Tứ đại đỉnh đèo' Tây Bắc, nơi diễn ra lễ hội dù lượn 'Bay trên mùa vàng' nổi tiếng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Cao Phạ",
+      "district": "Huyện Mù Cang Chải",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Di tích Khởi nghĩa Yên Bái (Lăng mộ Nguyễn Thái Học)",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của nhà yêu nước Nguyễn Thái Học và các đồng chí trong cuộc Khởi nghĩa Yên Bái (1930) chống thực dân Pháp.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Nguyễn Thái Học",
+      "district": "Thành phố Yên Bái",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Cánh đồng Mường Lò",
+    "type_of_place": "natural",
+    "event": "Cánh đồng lúa lớn thứ hai vùng Tây Bắc ('Nhất Thanh, nhì Lò...'), cái nôi của văn hóa Thái đen với điệu múa Xòe Thái (Di sản văn hóa phi vật thể).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân An, Phường Pú Trạng...",
+      "district": "Thị xã Nghĩa Lộ",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Suối Giàng",
+    "type_of_place": "natural",
+    "event": "Nổi tiếng với rừng chè Shan Tuyết cổ thụ hàng trăm năm tuổi và khí hậu mát mẻ quanh năm như Sapa.",
+    "place": {
+      "hamlet": "Thôn Giàng B",
+      "commune": "Xã Suối Giàng",
+      "district": "Huyện Văn Chấn",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Đền Đông Cuông",
+    "type_of_place": "historical",
+    "event": "Ngôi đền thiêng nằm bên sông Hồng, nơi thờ Mẫu Đệ Nhị Thượng Ngàn, điểm đến tâm linh quan trọng trong tín ngưỡng thờ Mẫu.",
+    "place": {
+      "hamlet": "Thôn Bến Đền",
+      "commune": "Xã Đông Cuông",
+      "district": "Huyện Văn Yên",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Đỉnh Tà Chì Nhù",
+    "type_of_place": "natural",
+    "event": "Nóc nhà của Yên Bái (2.979m), thiên đường săn mây và ngắm hoa Chi Pâu tím biếc vào cuối thu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Xà Hồ",
+      "district": "Huyện Trạm Tấu",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Suối khoáng nóng Trạm Tấu",
+    "type_of_place": "natural",
+    "event": "Khu suối khoáng nóng tự nhiên nằm giữa những thửa ruộng bậc thang, điểm nghỉ dưỡng lý tưởng.",
+    "place": {
+      "hamlet": "Khu 5",
+      "commune": "Thị trấn Trạm Tấu",
+      "district": "Huyện Trạm Tấu",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Chiến khu Vần",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa cách mạng quan trọng trong kháng chiến chống Pháp, nằm ở vùng giáp ranh giữa hai huyện.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Việt Hồng (Trấn Yên) và Xã Đại Lịch (Văn Chấn)",
+      "district": "Huyện Trấn Yên, Huyện Văn Chấn",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Thác Háng Tề Chơ",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'tứ đại tử địa' của dân phượt, ngọn thác hoang sơ và hùng vĩ bậc nhất Tây Bắc.",
+    "place": {
+      "hamlet": "Bản Háng Tề Chơ",
+      "commune": "Xã Làng Nhì",
+      "district": "Huyện Trạm Tấu",
+      "province": "Yên Bái"
+    }
+  },
+  {
+    "name": "Bản Cu Vai",
+    "type_of_place": "natural",
+    "event": "Bản làng người Mông nằm tách biệt trên đỉnh núi cao, quanh năm mây phủ, giữ nguyên vẻ đẹp nguyên sơ.",
+    "place": {
+      "hamlet": "Bản Cu Vai",
+      "commune": "Xã Xà Hồ",
+      "district": "Huyện Trạm Tấu",
+      "province": "Yên Bái"
+    }
+  }
+]
+}

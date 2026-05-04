@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Di tích Căn cứ Bộ Chỉ huy Miền (Căn cứ Tà Thiết)",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Rừng Chính phủ', nơi ở và làm việc của các đồng chí lãnh đạo cao cấp Bộ Chỉ huy Quân giải phóng miền Nam Việt Nam trong kháng chiến chống Mỹ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Lộc Thành",
+      "district": "Huyện Lộc Ninh",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Sóc Bom Bo",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với bài hát 'Tiếng chày trên sóc Bom Bo', ghi dấu tinh thần yêu nước và đóng góp của đồng bào dân tộc S'tiêng trong kháng chiến.",
+    "place": {
+      "hamlet": "Thôn Bom Bo",
+      "commune": "Xã Bình Minh",
+      "district": "Huyện Bù Đăng",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Núi Bà Rá - Hồ Thác Mơ",
+    "type_of_place": "natural",
+    "event": "Ngọn núi cao nhất tỉnh (723m), gắn liền với cuộc kháng chiến oanh liệt của quân dân Phước Long và nhà tù Bà Rá thời Pháp.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Sơn Giang, Phường Thác Mơ",
+      "district": "Thị xã Phước Long",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Bù Gia Mập",
+    "type_of_place": "natural",
+    "event": "Khu rừng nguyên sinh rộng lớn, nơi bảo tồn các nguồn gen quý hiếm của hệ động thực vật vùng Đông Nam Bộ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Bù Gia Mập",
+      "district": "Huyện Bù Gia Mập",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Di tích Phú Riềng Đỏ",
+    "type_of_place": "historical",
+    "event": "Nơi thành lập Chi bộ Đảng Cộng sản đầu tiên ở miền Đông Nam Bộ (28/10/1929), mở đầu cho phong trào đấu tranh của công nhân cao su.",
+    "place": {
+      "hamlet": "Làng 3",
+      "commune": "Xã Thuận Phú",
+      "district": "Huyện Đồng Phú",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Trảng cỏ Bù Lạch",
+    "type_of_place": "natural",
+    "event": "Bãi cỏ tự nhiên rộng lớn bao quanh hồ nước, khung cảnh hoang sơ được ví như thảo nguyên xanh giữa đại ngàn.",
+    "place": {
+      "hamlet": "Thôn 7",
+      "commune": "Xã Đồng Nai",
+      "district": "Huyện Bù Đăng",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Mộ tập thể 3.000 người",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu tội ác chiến tranh và sự hy sinh của hơn 3.000 đồng bào, chiến sĩ trong chiến dịch Nguyễn Huệ (Hè năm 1972) tại An Lộc.",
+    "place": {
+      "hamlet": "Khu phố Phú Thịnh",
+      "commune": "Phường An Lộc",
+      "district": "Thị xã Bình Long",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Chùa Phật Quốc Vạn Thành",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với bức tượng Phật Thích Ca Mâu Ni ngồi cao 73m, được xem là một trong những tượng Phật ngồi cao nhất Đông Nam Á.",
+    "place": {
+      "hamlet": "Khu phố Xa Cam 1",
+      "commune": "Phường Hưng Chiến",
+      "district": "Thị xã Bình Long",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Thác Đứng",
+    "type_of_place": "natural",
+    "event": "Thác nước đẹp và hùng vĩ của dòng suối Đắk Woh, mang vẻ đẹp hoang sơ của núi rừng Bù Đăng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đoàn Kết",
+      "district": "Huyện Bù Đăng",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Cầu gãy Sông Bé",
+    "type_of_place": "historical",
+    "event": "Chứng tích lịch sử bi hùng bị quân Mỹ đánh sập năm 1975 để ngăn chặn đường tiến công của quân giải phóng.",
+    "place": {
+      "hamlet": "Ấp Sông Bé",
+      "commune": "Xã Tân Khai (giáp ranh với Phường Hưng Chiến)",
+      "district": "Huyện Hớn Quản",
+      "province": "Bình Phước"
+    }
+  },
+  {
+    "name": "Thác Voi",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết về đàn voi trắng giúp người dân dập tắt ngọn lửa rừng hung dữ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đồng Nai",
+      "district": "Huyện Bù Đăng",
+      "province": "Bình Phước"
+    }
+  }
+]
+}

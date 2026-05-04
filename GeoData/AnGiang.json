@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Miếu Bà Chúa Xứ Núi Sam",
+    "type_of_place": "historical",
+    "event": "Gắn liền với truyền thuyết về Bà Chúa Xứ linh thiêng và Lễ hội Vía Bà Chúa Xứ (Di sản văn hóa phi vật thể quốc gia).",
+    "place": {
+      "hamlet": "Khóm Vĩnh Tây 1",
+      "commune": "Phường Núi Sam",
+      "district": "Thành phố Châu Đốc",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Rừng tràm Trà Sư",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "Ấp Văn Trà",
+      "commune": "Xã Văn Giáo",
+      "district": "Thị xã Tịnh Biên",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Óc Eo - Ba Thê",
+    "type_of_place": "historical",
+    "event": "Di chỉ khảo cổ học nổi tiếng, minh chứng cho sự tồn tại và hưng thịnh của Vương quốc Phù Nam xưa kia.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Óc Eo",
+      "district": "Huyện Thoại Sơn",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Đồi Tức Dụp",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa cách mạng kiên cường trong kháng chiến chống Mỹ, nổi tiếng với biệt danh 'Ngọn đồi 2 triệu đô la' do lượng bom đạn trút xuống.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Tức",
+      "district": "Huyện Tri Tôn",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Khu lưu niệm Chủ tịch Tôn Đức Thắng",
+    "type_of_place": "historical",
+    "event": "Nơi sinh ra và lớn lên của Chủ tịch Tôn Đức Thắng (Bác Tôn), nhà lãnh đạo kính yêu của dân tộc Việt Nam.",
+    "place": {
+      "hamlet": "Ấp Mỹ An 2",
+      "commune": "Xã Mỹ Hòa Hưng (Cù lao Ông Hổ)",
+      "district": "Thành phố Long Xuyên",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Lăng Thoại Ngọc Hầu (Sơn Lăng)",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ của danh thần Thoại Ngọc Hầu, người có công lớn trong việc khai phá vùng đất Tây Nam Bộ và đào kênh Vĩnh Tế.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Núi Sam",
+      "district": "Thành phố Châu Đốc",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Nhà mồ Ba Chúc",
+    "type_of_place": "historical",
+    "event": "Di tích lịch sử ghi dấu tội ác diệt chủng của chế độ Pol Pot trong chiến tranh biên giới Tây Nam (1978).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Ba Chúc",
+      "district": "Huyện Tri Tôn",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Núi Cấm (Thiên Cấm Sơn)",
+    "type_of_place": "natural",
+    "event": "Ngọn núi cao nhất vùng Thất Sơn (Bảy Núi), gắn liền với nhiều huyền thoại và là trung tâm du lịch tâm linh lớn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Hảo",
+      "district": "Thị xã Tịnh Biên",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Búng Bình Thiên (Hồ Nước Trời)",
+    "type_of_place": "natural",
+    "event": "Hồ nước ngọt tự nhiên lớn nhất miền Tây Nam Bộ, nổi tiếng với vẻ đẹp yên bình và văn hóa người Chăm ven hồ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Nhơn Hội, Xã Quốc Thái",
+      "district": "Huyện An Phú",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Hồ Tà Pạ",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Tuyệt tình cốc' của miền Tây với màu nước xanh ngọc bích đặc trưng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Núi Tô",
+      "district": "Huyện Tri Tôn",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Thánh đường Hồi giáo Jamiul Azhar",
+    "type_of_place": "historical",
+    "event": "Một trong những thánh đường lâu đời và đẹp nhất, biểu tượng văn hóa của cộng đồng người Chăm Islam tại An Giang.",
+    "place": {
+      "hamlet": "Ấp Châu Giang",
+      "commune": "Xã Châu Phong",
+      "district": "Thị xã Tân Châu",
+      "province": "An Giang"
+    }
+  },
+  {
+    "name": "Khu du lịch Núi Sập (Hồ Ông Thoại)",
+    "type_of_place": "historical",
+    "event": "Gắn liền với công cuộc đào kênh Thoại Hà của danh thần Thoại Ngọc Hầu để tưới tiêu và giao thương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Núi Sập",
+      "district": "Huyện Thoại Sơn",
+      "province": "An Giang"
+    }
+  }
+]
+}

@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Chùa Dơi (Chùa Mahatup)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Khmer nổi tiếng với kiến trúc độc đáo và là nơi cư trú của hàng ngàn con dơi ngựa khổng lồ.",
+    "place": {
+      "hamlet": "Khóm 9",
+      "commune": "Phường 3",
+      "district": "Thành phố Sóc Trăng",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Chợ nổi Ngã Năm",
+    "type_of_place": "historical",
+    "event": "Giao điểm của 5 dòng sông tỏa đi 5 ngả (Cà Mau, Vĩnh Quới, Long Mỹ, Thạnh Trị, Phụng Hiệp), nét văn hóa sông nước đặc trưng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1",
+      "district": "Thị xã Ngã Năm",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Chùa Chén Kiểu (Chùa Sà Lôn)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa Khmer có kiến trúc rực rỡ, được ốp bằng hàng triệu mảnh chén, đĩa, sứ vỡ tạo nên hoa văn độc đáo.",
+    "place": {
+      "hamlet": "Ấp Đại Nghĩa Thắng",
+      "commune": "Xã Đại Tâm",
+      "district": "Huyện Mỹ Xuyên",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Chùa Đất Sét (Bửu Sơn Tự)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với hàng ngàn tượng Phật, linh thú làm bằng đất sét và những cặp nến (đèn cầy) khổng lồ cháy hàng chục năm không tắt.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 5",
+      "district": "Thành phố Sóc Trăng",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Vườn cò Tân Long",
+    "type_of_place": "natural",
+    "event": "Khu bảo tồn tư nhân, nơi cư trú của hàng ngàn con cò, vạc, tạo nên khung cảnh thiên nhiên hoang sơ giữa đồng bằng.",
+    "place": {
+      "hamlet": "Ấp Tân Bình",
+      "commune": "Xã Long Bình",
+      "district": "Thị xã Ngã Năm",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Chùa Kh'leang",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ nhất ở Sóc Trăng (xây dựng khoảng năm 1533), gắn liền với truyền thuyết về nguồn gốc địa danh Sóc Trăng.",
+    "place": {
+      "hamlet": "Khóm 5",
+      "commune": "Phường 6",
+      "district": "Thành phố Sóc Trăng",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Cồn Mỹ Phước",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'vương quốc trái cây' giữa sông Hậu, nổi tiếng với các vườn cây ăn trái sum suê (nhãn, chôm chôm, sầu riêng).",
+    "place": {
+      "hamlet": "Ấp Mỹ Phước",
+      "commune": "Xã Nhơn Mỹ",
+      "district": "Huyện Kế Sách",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Căn cứ Tỉnh ủy Sóc Trăng (Rừng tràm Mỹ Phước)",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa cách mạng quan trọng trong hai cuộc kháng chiến, nằm giữa rừng tràm bạt ngàn.",
+    "place": {
+      "hamlet": "Ấp Phước An",
+      "commune": "Xã Mỹ Phước",
+      "district": "Huyện Mỹ Tú",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Chùa Som Rông (Wat Pătum Wôngsa Som Rông)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với tượng Phật Thích Ca nhập niết bàn ngoài trời khổng lồ và ngôi bảo tháp lộng lẫy như cung điện.",
+    "place": {
+      "hamlet": "Khóm 2",
+      "commune": "Phường 5",
+      "district": "Thành phố Sóc Trăng",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Bảo tàng Khmer Sóc Trăng",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ và trưng bày nhiều hiện vật quý giá phản ánh đời sống văn hóa, tinh thần và lịch sử của đồng bào dân tộc Khmer.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 6",
+      "district": "Thành phố Sóc Trăng",
+      "province": "Sóc Trăng"
+    }
+  },
+  {
+    "name": "Biển Hồ Bể",
+    "type_of_place": "natural",
+    "event": "Bãi biển hoang sơ với bãi cát dài mịn màng và hệ sinh thái rừng ngập mặn ven biển.",
+    "place": {
+      "hamlet": "Ấp Huỳnh Kỳ",
+      "commune": "Xã Vĩnh Hải",
+      "district": "Thị xã Vĩnh Châu",
+      "province": "Sóc Trăng"
+    }
+  }
+]
+}

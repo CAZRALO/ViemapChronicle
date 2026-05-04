@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu di tích Quốc gia đặc biệt Mộ và Khu lưu niệm Nguyễn Đình Chiểu",
+    "type_of_place": "historical",
+    "event": "Nơi an nghỉ và thờ cúng Danh nhân văn hóa, nhà thơ yêu nước lớn của dân tộc - Nguyễn Đình Chiểu (cụ Đồ Chiểu).",
+    "place": {
+      "hamlet": "Ấp 3",
+      "commune": "Xã An Đức",
+      "district": "Huyện Ba Tri",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Di tích Quốc gia đặc biệt Đồng Khởi",
+    "type_of_place": "historical",
+    "event": "Cái nôi của phong trào 'Đồng Khởi' (1960), ngọn cờ đầu trong phong trào đấu tranh cách mạng miền Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Định Thủy",
+      "district": "Huyện Mỏ Cày Nam",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Khu du lịch Cồn Phụng (Đạo Dừa)",
+    "type_of_place": "historical",
+    "event": "Gắn liền với di tích kiến trúc độc đáo của ông Đạo Dừa (Nguyễn Thành Nam) từng tồn tại trước năm 1975.",
+    "place": {
+      "hamlet": "Ấp 10",
+      "commune": "Xã Tân Thạch",
+      "district": "Huyện Châu Thành",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Khu lưu niệm Nữ tướng Nguyễn Thị Định",
+    "type_of_place": "historical",
+    "event": "Nơi ghi nhớ cuộc đời và sự nghiệp của nữ Thiếu tướng đầu tiên của Quân đội Nhân dân Việt Nam - Cô Ba Định.",
+    "place": {
+      "hamlet": "Ấp Phong Điền",
+      "commune": "Xã Lương Hòa",
+      "district": "Huyện Giồng Trôm",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Sân chim Vàm Hồ",
+    "type_of_place": "natural",
+    "event": "Vùng đất ngập mặn với hệ sinh thái đa dạng, là nơi cư trú của hàng ngàn con cò, vạc và các loài chim hoang dã.",
+    "place": {
+      "hamlet": "Ấp Tân Quý",
+      "commune": "Xã Tân Mỹ",
+      "district": "Huyện Ba Tri",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Làng hoa kiểng Cái Mơn",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'Vương quốc hoa kiểng' của miền Tây, nổi tiếng với nghề trồng hoa và cây ăn trái lâu đời.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Vĩnh Thành",
+      "district": "Huyện Chợ Lách",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Nhà cổ Huỳnh Phủ (Nhà cổ Hương Liêm)",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà rường cổ mang kiến trúc Huế độc đáo bậc nhất miền Tây, được xây dựng từ cuối thế kỷ 19.",
+    "place": {
+      "hamlet": "Ấp Phú Long",
+      "commune": "Xã Đại Điền",
+      "district": "Huyện Thạnh Phú",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Cồn Quy",
+    "type_of_place": "natural",
+    "event": "Một trong 'tứ linh' (Long, Lân, Quy, Phụng) trên sông Tiền, giữ được vẻ đẹp hoang sơ và văn hóa miệt vườn sông nước.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Thạch, Xã Quới Sơn",
+      "district": "Huyện Châu Thành",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Chùa Tuyên Linh",
+    "type_of_place": "historical",
+    "event": "Gắn liền với Tổ Khánh Hòa và phong trào chấn hưng Phật giáo; nơi cụ Phó bảng Nguyễn Sinh Sắc từng tá túc và hoạt động.",
+    "place": {
+      "hamlet": "Ấp Tân Quới Đông B",
+      "commune": "Xã Minh Đức",
+      "district": "Huyện Mỏ Cày Nam",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Biển Cồn Bửng (Biển Thạnh Phú)",
+    "type_of_place": "natural",
+    "event": "Bãi biển hoang sơ, cũng là nơi xuất phát của những chuyến 'Tàu không số' trên đường Hồ Chí Minh trên biển.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Thạnh Hải",
+      "district": "Huyện Thạnh Phú",
+      "province": "Bến Tre"
+    }
+  },
+  {
+    "name": "Đình Tân Thạch",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc nghệ thuật cấp quốc gia, ngôi đình cổ tiêu biểu cho tín ngưỡng thờ Thành hoàng của cư dân Bến Tre.",
+    "place": {
+      "hamlet": "Ấp 5",
+      "commune": "Xã Tân Thạch",
+      "district": "Huyện Châu Thành",
+      "province": "Bến Tre"
+    }
+  }
+]
+}

@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Chợ nổi Ngã Bảy (Chợ nổi Phụng Hiệp)",
+    "type_of_place": "historical",
+    "event": "Một trong những chợ nổi lâu đời và sầm uất nhất miền Tây, đi vào thơ ca với bài vọng cổ 'Tình anh bán chiếu'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Ngã Bảy",
+      "district": "Thành phố Ngã Bảy",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng",
+    "type_of_place": "natural",
+    "event": "Được mệnh danh là 'lá phổi xanh' của ĐBSCL, nơi bảo tồn đa dạng sinh học của vùng đất ngập nước hoang sơ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Phương Bình",
+      "district": "Huyện Phụng Hiệp",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Di tích Chiến thắng Tầm Vu",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu 4 trận đánh oanh liệt trong những năm đầu chống Pháp, nổi tiếng với việc tịch thu pháo 105 ly (Ông Hổ).",
+    "place": {
+      "hamlet": "Ấp Xẻo Cao",
+      "commune": "Xã Thạnh Xuân",
+      "district": "Huyện Châu Thành A",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Kênh xáng Xà No",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Con đường lúa gạo' của miền Tây, công trình thủy nông lớn nhất Nam Kỳ thời Pháp thuộc (đào năm 1901).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các phường trung tâm (Phường 1, 3, 4, 5...)",
+      "district": "Thành phố Vị Thanh",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Đền thờ Bác Hồ",
+    "type_of_place": "historical",
+    "event": "Được nhân dân địa phương lập nên để thờ phụng Bác ngay trong vùng địch hậu khi nghe tin Bác mất (năm 1969).",
+    "place": {
+      "hamlet": "Ấp 3",
+      "commune": "Xã Lương Tâm",
+      "district": "Huyện Long Mỹ",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Vườn tre Tư Sang (Bamboo Garden)",
+    "type_of_place": "natural",
+    "event": "Khu vườn tre độc đáo với hàng ngàn cây tre đan xen tạo nên khung cảnh làng quê yên bình, đậm chất Nam Bộ.",
+    "place": {
+      "hamlet": "Ấp Phú Xuân",
+      "commune": "Xã Thạnh Hòa",
+      "district": "Huyện Phụng Hiệp",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Cánh đồng khóm Cầu Đúc",
+    "type_of_place": "natural",
+    "event": "Vùng chuyên canh khóm (dứa) nổi tiếng, thương hiệu 'Khóm Cầu Đúc' có từ thời Pháp thuộc.",
+    "place": {
+      "hamlet": "Ấp Thạnh Thắng",
+      "commune": "Xã Hỏa Tiến",
+      "district": "Thành phố Vị Thanh",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Căn cứ Tỉnh ủy Cần Thơ (Căn cứ Bà Bái)",
+    "type_of_place": "historical",
+    "event": "Căn cứ cách mạng kiên cường của Đảng bộ và quân dân Cần Thơ (cũ) trong cuộc kháng chiến chống Mỹ (1972-1975).",
+    "place": {
+      "hamlet": "Ấp Phương Quới",
+      "commune": "Xã Phương Bình",
+      "district": "Huyện Phụng Hiệp",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Thiền viện Trúc Lâm Hậu Giang",
+    "type_of_place": "historical",
+    "event": "Công trình văn hóa tâm linh lớn, điểm nhấn kiến trúc Phật giáo của dòng thiền Trúc Lâm Yên Tử tại Hậu Giang.",
+    "place": {
+      "hamlet": "Khu vực Bình Tân",
+      "commune": "Phường Vĩnh Tường",
+      "district": "Thị xã Long Mỹ",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Khu du lịch sinh thái Tây Đô",
+    "type_of_place": "natural",
+    "event": "Điểm vui chơi giải trí, du lịch sinh thái miệt vườn rộng lớn, thích hợp cho các hoạt động dã ngoại.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Bình",
+      "district": "Huyện Phụng Hiệp",
+      "province": "Hậu Giang"
+    }
+  },
+  {
+    "name": "Di tích Chiến thắng 75 lượt tiểu đoàn địch",
+    "type_of_place": "historical",
+    "event": "Ghi dấu chiến công vang dội của quân dân khu 9 đánh bại 75 lượt tiểu đoàn địch và Sư đoàn 21 của Ngụy quyền (năm 1973).",
+    "place": {
+      "hamlet": "Ấp 1",
+      "commune": "Xã Vĩnh Viễn",
+      "district": "Huyện Long Mỹ",
+      "province": "Hậu Giang"
+    }
+  }
+]
+}

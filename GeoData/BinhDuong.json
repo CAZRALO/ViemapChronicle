@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Khu du lịch Đại Nam (Lạc Cảnh Đại Nam Văn Hiến)",
+    "type_of_place": "historical",
+    "event": "Khu du lịch tâm linh và giải trí lớn hàng đầu Việt Nam, nổi tiếng với Kim Điện dát vàng và trường đua quy mô lớn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hiệp An",
+      "district": "Thành phố Thủ Dầu Một",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Địa đạo Tây Nam Bến Cát (Tam Giác Sắt)",
+    "type_of_place": "historical",
+    "event": "Hệ thống địa đạo kiên cố, giữ vai trò quan trọng trong hai cuộc kháng chiến chống Pháp và Mỹ tại vùng 'Tam giác sắt'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Tây, Xã An Điền, Xã Phú An",
+      "district": "Thành phố Bến Cát",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Chùa Hội Khánh",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ có tượng Phật nhập niết bàn trên mái chùa dài nhất châu Á (tại thời điểm khánh thành).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Phú Cường",
+      "district": "Thành phố Thủ Dầu Một",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Nhà tù Phú Lợi",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Địa ngục trần gian', nơi ghi dấu vụ đầu độc tù nhân chính trị năm 1958 gây chấn động.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Phú Lợi",
+      "district": "Thành phố Thủ Dầu Một",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Miếu Bà Thiên Hậu (Chùa Bà Bình Dương)",
+    "type_of_place": "historical",
+    "event": "Nổi tiếng với Lễ hội rước kiệu Bà vào rằm tháng Giêng, thu hút hàng triệu lượt khách hành hương.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Phú Cường",
+      "district": "Thành phố Thủ Dầu Một",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Vườn cây ăn trái Lái Thiêu",
+    "type_of_place": "natural",
+    "event": "Vùng đất trù phú nổi tiếng từ trăm năm nay với các loại trái cây đặc sản như măng cụt, sầu riêng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hưng Định, Phường An Thạnh",
+      "district": "Thành phố Thuận An",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Hồ Dầu Tiếng",
+    "type_of_place": "natural",
+    "event": "Hồ thủy lợi nhân tạo lớn nhất Đông Nam Á, nơi có cảnh quan thiên nhiên thoáng đãng, thích hợp cắm trại.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Định An, Xã Định Thành, Xã Minh Hòa",
+      "district": "Huyện Dầu Tiếng",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Chiến khu Đ",
+    "type_of_place": "historical",
+    "event": "Căn cứ địa cách mạng lừng danh của miền Đông Nam Bộ trong hai cuộc kháng chiến.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Đất Cuốc",
+      "district": "Huyện Bắc Tân Uyên",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Nhà cổ Trần Văn Hổ (Nhà cổ Đốc Phủ Đẩu)",
+    "type_of_place": "historical",
+    "event": "Di tích kiến trúc nghệ thuật cấp quốc gia, ngôi nhà gỗ đặc trưng của tầng lớp thượng lưu Nam Bộ xưa.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Phú Cường",
+      "district": "Thành phố Thủ Dầu Một",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Núi Cậu - Chùa Thái Sơn",
+    "type_of_place": "natural",
+    "event": "Quần thể danh thắng tâm linh và thiên nhiên nằm ngay cạnh hồ Dầu Tiếng.",
+    "place": {
+      "hamlet": "Ấp Tha La",
+      "commune": "Xã Định Thành",
+      "district": "Huyện Dầu Tiếng",
+      "province": "Bình Dương"
+    }
+  },
+  {
+    "name": "Làng gốm sứ Tân Phước Khánh",
+    "type_of_place": "historical",
+    "event": "Một trong những cái nôi của nghề gốm sứ Bình Dương, tồn tại hơn 300 năm.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân Phước Khánh",
+      "district": "Thành phố Tân Uyên",
+      "province": "Bình Dương"
+    }
+  }
+]
+}

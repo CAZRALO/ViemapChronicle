@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Nhà đày Buôn Ma Thuột",
+    "type_of_place": "historical",
+    "event": "Nơi giam giữ và đày ải các chiến sĩ cộng sản kiên trung trong thời kỳ Pháp thuộc (xây dựng từ năm 1930), được ví như 'địa ngục trần gian'.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tự An",
+      "district": "Thành phố Buôn Ma Thuột",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Hồ Lắk",
+    "type_of_place": "natural",
+    "event": "Hồ nước ngọt tự nhiên lớn nhất Tây Nguyên và lớn thứ hai Việt Nam, gắn liền với các buôn làng người M'nông và Biệt điện nghỉ mát của vua Bảo Đại.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Liên Sơn",
+      "district": "Huyện Lắk",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Thác Dray Nur",
+    "type_of_place": "natural",
+    "event": "Ngọn thác hùng vĩ nhất Tây Nguyên, gắn liền với huyền thoại về tình yêu chia cắt của đôi trai gái (Dray Nur nghĩa là Thác Cái).",
+    "place": {
+      "hamlet": "Buôn Kuốp",
+      "commune": "Xã Dray Sáp",
+      "district": "Huyện Krông Ana",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Buôn Đôn (Bản Đôn)",
+    "type_of_place": "historical",
+    "event": "Vùng đất huyền thoại về nghề săn bắt và thuần dưỡng voi rừng, quê hương của Vua voi Khunjunob và huyền thoại Ama Kong.",
+    "place": {
+      "hamlet": "Buôn Trí",
+      "commune": "Xã Krông Na",
+      "district": "Huyện Buôn Đôn",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Bảo tàng Thế giới Cà phê",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc độc đáo mang hình dáng nhà dài Tây Nguyên, nơi trưng bày hàng nghìn hiện vật về lịch sử văn hóa cà phê toàn cầu.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Tân Lợi",
+      "district": "Thành phố Buôn Ma Thuột",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Đá Voi Mẹ",
+    "type_of_place": "natural",
+    "event": "Tảng đá nguyên khối (đá granite) lớn nhất Việt Nam, mang hình dáng một con voi nằm phục giữa núi rừng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Yang Tao",
+      "district": "Huyện Lắk",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Chùa Sắc Tứ Khải Đoan",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa lớn và lâu đời nhất Đắk Lắk, là ngôi chùa cuối cùng tại Việt Nam được phong sắc tứ của chế độ phong kiến (tên ghép từ vua Khải Định và Đoan Huy Hoàng thái hậu).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Thống Nhất",
+      "district": "Thành phố Buôn Ma Thuột",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Vườn quốc gia Yok Đôn",
+    "type_of_place": "natural",
+    "event": "Vườn quốc gia duy nhất ở Việt Nam bảo tồn hệ sinh thái rừng khộp (rừng thưa lá rộng rụng lá vào mùa khô) đặc trưng.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Krông Na (và các xã lân cận)",
+      "district": "Huyện Buôn Đôn (và Huyện Ea Súp)",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Buôn Ako Dhong (Buôn Cô Thôn)",
+    "type_of_place": "historical",
+    "event": "Được mệnh danh là 'Buôn trong phố', buôn làng giàu đẹp nhất gìn giữ gần như nguyên vẹn nét văn hóa truyền thống của người Ê Đê.",
+    "place": {
+      "hamlet": "Buôn Ako Dhong",
+      "commune": "Phường Tân Lợi",
+      "district": "Thành phố Buôn Ma Thuột",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Mộ Vua săn voi Khunjunob",
+    "type_of_place": "historical",
+    "event": "Khu lăng mộ với kiến trúc M'nông - Lào độc đáo, nơi an nghỉ của huyền thoại săn voi Khunjunob (người săn được hơn 400 con voi).",
+    "place": {
+      "hamlet": "Buôn Trí",
+      "commune": "Xã Krông Na",
+      "district": "Huyện Buôn Đôn",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Thác Thủy Tiên (Thác Ba Tầng)",
+    "type_of_place": "natural",
+    "event": "null",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Ea Puk",
+      "district": "Huyện Krông Năng",
+      "province": "Đắk Lắk"
+    }
+  },
+  {
+    "name": "Cây Kơ nia cổ thụ (Cây Kơ nia Đắk Lắk)",
+    "type_of_place": "natural",
+    "event": "Biểu tượng tâm linh của người đồng bào Tây Nguyên, gắn liền với bài hát nổi tiếng 'Bóng cây Kơ-nia'.",
+    "place": {
+      "hamlet": "Sân sau Nhà văn hóa trung tâm",
+      "commune": "Phường Tân An",
+      "district": "Thành phố Buôn Ma Thuột",
+      "province": "Đắk Lắk"
+    }
+  }
+]
+}

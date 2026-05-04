@@ -1,0 +1,125 @@
+{   
+    "sites": [
+  {
+    "name": "Làng nổi Tân Lập",
+    "type_of_place": "natural",
+    "event": "Khu du lịch sinh thái đặc trưng của vùng Đồng Tháp Mười với rừng tràm ngút ngàn và con đường xuyên rừng độc đáo.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Tân Lập",
+      "district": "Huyện Mộc Hóa",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Nhà Trăm Cột",
+    "type_of_place": "historical",
+    "event": "Ngôi nhà cổ có kiến trúc độc đáo theo kiểu nhà rường Huế, được xây dựng từ 120 cây gỗ quý (thực tế có 120 cột) vào những năm 1901-1903.",
+    "place": {
+      "hamlet": "Ấp Cầu Ngang",
+      "commune": "Xã Long Hựu Đông",
+      "district": "Huyện Cần Đước",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Khu di tích Vàm Nhựt Tảo",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu chiến công oanh liệt của anh hùng Nguyễn Trung Trực đốt cháy tàu L'Espérance (Hy Vọng) của thực dân Pháp năm 1861.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Nhựt Tân",
+      "district": "Huyện Tân Trụ",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Chùa Tôn Thạnh",
+    "type_of_place": "historical",
+    "event": "Nơi nhà thơ Nguyễn Đình Chiểu từng sống, dạy học, bốc thuốc và sáng tác bài 'Văn tế nghĩa sĩ Cần Giuộc' bi tráng.",
+    "place": {
+      "hamlet": "Ấp Thanh Ba",
+      "commune": "Xã Mỹ Lộc",
+      "district": "Huyện Cần Giuộc",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Khu bảo tồn đất ngập nước Láng Sen",
+    "type_of_place": "natural",
+    "event": "Khu Ramsar thứ 7 của Việt Nam, bảo tồn hệ sinh thái tiêu biểu của vùng trũng Đồng Tháp Mười.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Vĩnh Lợi",
+      "district": "Huyện Tân Hưng",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Lăng mộ Nguyễn Huỳnh Đức",
+    "type_of_place": "historical",
+    "event": "Quần thể lăng mộ của 'Hổ tướng' Nguyễn Huỳnh Đức - một trong những khai quốc công thần triều Nguyễn.",
+    "place": {
+      "hamlet": "Ấp Huỳnh Đức",
+      "commune": "Phường Khánh Hậu",
+      "district": "Thành phố Tân An",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Đồn Rạch Cát",
+    "type_of_place": "historical",
+    "event": "Pháo đài quân sự kiên cố bậc nhất Đông Dương do thực dân Pháp xây dựng năm 1903 để kiểm soát cửa biển.",
+    "place": {
+      "hamlet": "Ấp Long Ninh",
+      "commune": "Xã Long Hựu Đông",
+      "district": "Huyện Cần Đước",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Khu du lịch Cánh đồng bất tận (Khu bảo tồn dược liệu Đồng Tháp Mười)",
+    "type_of_place": "natural",
+    "event": "Bối cảnh chính của bộ phim điện ảnh nổi tiếng 'Cánh đồng bất tận', nơi bảo tồn các nguồn gen dược liệu quý.",
+    "place": {
+      "hamlet": "Ấp 3",
+      "commune": "Xã Bình Phong Thạnh",
+      "district": "Huyện Mộc Hóa",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Làng cổ Phước Lộc Thọ",
+    "type_of_place": "historical",
+    "event": "Nơi tập trung nhiều ngôi nhà gỗ cổ mang bản sắc 3 miền Bắc - Trung - Nam được phục dựng và bảo tồn.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hựu Thạnh",
+      "district": "Huyện Đức Hòa",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Công viên tượng đài Long An 'Trung dũng kiên cường, toàn dân đánh giặc'",
+    "type_of_place": "historical",
+    "event": "Công trình văn hóa - lịch sử quy mô, ghi nhận danh hiệu cao quý mà Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam phong tặng cho tỉnh.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 5",
+      "district": "Thành phố Tân An",
+      "province": "Long An"
+    }
+  },
+  {
+    "name": "Di tích khảo cổ học Bình Tả",
+    "type_of_place": "historical",
+    "event": "Cụm di tích thuộc nền văn hóa Óc Eo, minh chứng cho sự phát triển rực rỡ của vương quốc Phù Nam xưa tại vùng đất này.",
+    "place": {
+      "hamlet": "Ấp Bình Tả 1",
+      "commune": "Xã Đức Hòa Hạ",
+      "district": "Huyện Đức Hòa",
+      "province": "Long An"
+    }
+  }
+]
+}

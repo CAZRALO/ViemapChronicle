@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Vịnh Hạ Long",
+    "type_of_place": "natural",
+    "event": "Di sản Thiên nhiên Thế giới UNESCO, một trong 7 Kỳ quan Thiên nhiên Mới của Thế giới, gắn liền với truyền thuyết Rồng Mẹ xuống trần.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Các phường ven biển",
+      "district": "Thành phố Hạ Long (và Thành phố Cẩm Phả, Huyện Vân Đồn)",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Khu di tích danh thắng Yên Tử",
+    "type_of_place": "historical",
+    "event": "Kinh đô tư tưởng của Phật giáo Việt Nam, nơi Phật hoàng Trần Nhân Tông tu hành và sáng lập Thiền phái Trúc Lâm Yên Tử.",
+    "place": {
+      "hamlet": "Thôn Nam Mẫu",
+      "commune": "Xã Thượng Yên Công",
+      "district": "Thành phố Uông Bí",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Bãi cọc Bạch Đằng",
+    "type_of_place": "historical",
+    "event": "Di tích quốc gia đặc biệt, nơi ghi dấu 3 trận thủy chiến lừng lẫy trong lịch sử chống giặc ngoại xâm (năm 938, 981 và 1288).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Yên Giang, Phường Nam Hòa...",
+      "district": "Thị xã Quảng Yên",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Đền Cửa Ông (Đền Cửa Suốt)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Hưng Nhượng Vương Trần Quốc Tảng (con thứ 3 của Trần Hưng Đạo), trấn giữ vùng Đông Bắc.",
+    "place": {
+      "hamlet": "Khu 9A",
+      "commune": "Phường Cửa Ông",
+      "district": "Thành phố Cẩm Phả",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Đảo Cô Tô",
+    "type_of_place": "natural",
+    "event": "Nơi duy nhất Bác Hồ đồng ý cho dựng tượng của mình khi Người còn sống (năm 1961).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Thị trấn Cô Tô (và các xã Đồng Tiến, Thanh Lân)",
+      "district": "Huyện Cô Tô",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Mũi Sa Vĩ (Mũi Gót)",
+    "type_of_place": "natural",
+    "event": "Điểm đầu tiên đặt nét bút vẽ nên bản đồ hình chữ S của Việt Nam (Cực Đông Bắc).",
+    "place": {
+      "hamlet": "Khu Tràng Vĩ",
+      "commune": "Phường Trà Cổ",
+      "district": "Thành phố Móng Cái",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Núi Bài Thơ",
+    "type_of_place": "historical",
+    "event": "Ngọn núi đá vôi lưu giữ bài thơ khắc trên vách đá của Vua Lê Thánh Tông (năm 1468) và Chúa Trịnh Cương (năm 1729).",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Hồng Gai",
+      "district": "Thành phố Hạ Long",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Khu di tích nhà Trần tại Đông Triều",
+    "type_of_place": "historical",
+    "event": "Quê gốc của nhà Trần, nơi đặt lăng mộ của các vị vua Trần và Đền An Sinh thờ 8 vị vua Trần.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã An Sinh, Xã Tràng An, Xã Thủy An...",
+      "district": "Thành phố Đông Triều",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Sống lưng Khủng Long (Bình Liêu)",
+    "type_of_place": "natural",
+    "event": "Cung đường tuần tra biên giới hùng vĩ với bạt ngàn cỏ lau, dẫn đến cột mốc 1305.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Hoành Mô, Xã Đồng Văn",
+      "district": "Huyện Bình Liêu",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Chùa Cái Bầu (Thiền viện Trúc Lâm Giác Tâm)",
+    "type_of_place": "historical",
+    "event": "Được xây dựng trên nền ngôi chùa Phúc Linh Tự có từ thời Trần, sở hữu thế 'tựa sơn hướng hải' tuyệt đẹp.",
+    "place": {
+      "hamlet": "Thôn 1",
+      "commune": "Xã Hạ Long",
+      "district": "Huyện Vân Đồn",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Vịnh Bái Tử Long",
+    "type_of_place": "natural",
+    "event": "Gắn liền với truyền thuyết đàn Rồng con xuống giúp dân đánh giặc, cảnh quan hoang sơ không kém Vịnh Hạ Long.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Vùng biển thuộc Cẩm Phả, Vân Đồn",
+      "district": "Thành phố Cẩm Phả, Huyện Vân Đồn",
+      "province": "Quảng Ninh"
+    }
+  },
+  {
+    "name": "Đình Trà Cổ",
+    "type_of_place": "historical",
+    "event": "Một trong những ngôi đình cổ có quy mô lớn và kiến trúc độc đáo nhất vùng Bắc Bộ, cột mốc văn hóa nơi biên ải ('Đình làng biển').",
+    "place": {
+      "hamlet": "Khu Nam Thọ",
+      "commune": "Phường Trà Cổ",
+      "district": "Thành phố Móng Cái",
+      "province": "Quảng Ninh"
+    }
+  }
+]
+}

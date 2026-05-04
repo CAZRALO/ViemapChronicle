@@ -1,0 +1,136 @@
+{   
+    "sites": [
+  {
+    "name": "Dinh Độc Lập (Hội trường Thống Nhất)",
+    "type_of_place": "historical",
+    "event": "Nơi ghi dấu sự kiện lịch sử ngày 30/4/1975, xe tăng quân Giải phóng húc đổ cổng chính, chấm dứt chiến tranh Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bến Thành",
+      "district": "Quận 1",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Địa đạo Củ Chi",
+    "type_of_place": "historical",
+    "event": "Hệ thống phòng thủ trong lòng đất dài hơn 200km, được mệnh danh là 'Đất thép thành đồng' trong kháng chiến chống Mỹ.",
+    "place": {
+      "hamlet": "Ấp Phú Hiệp (Bến Dược), Ấp Bến Đình",
+      "commune": "Xã Phú Mỹ Hưng, Xã Nhuận Đức",
+      "district": "Huyện Củ Chi",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Nhà thờ Đức Bà Sài Gòn",
+    "type_of_place": "historical",
+    "event": "Kiệt tác kiến trúc Roman pha trộn Gothic do người Pháp xây dựng (hoàn thành năm 1880), biểu tượng của thành phố.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bến Nghé",
+      "district": "Quận 1",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Bến Nhà Rồng (Bảo tàng Hồ Chí Minh)",
+    "type_of_place": "historical",
+    "event": "Nơi người thanh niên Nguyễn Tất Thành (Bác Hồ) ra đi tìm đường cứu nước vào ngày 5/6/1911 trên con tàu Amiral Latouche Tréville.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 12",
+      "district": "Quận 4",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Rừng Sác Cần Giờ",
+    "type_of_place": "natural",
+    "event": "Khu dự trữ sinh quyển thế giới đầu tiên của Việt Nam, từng là căn cứ nổi của đặc công Rừng Sác huyền thoại.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Xã Long Hòa, Thị trấn Cần Thạnh...",
+      "district": "Huyện Cần Giờ",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Chợ Bến Thành",
+    "type_of_place": "historical",
+    "event": "Biểu tượng giao thương lâu đời nhất của Sài Gòn, chứng kiến nhiều thăng trầm lịch sử của thành phố.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bến Thành",
+      "district": "Quận 1",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Bảo tàng Chứng tích Chiến tranh",
+    "type_of_place": "historical",
+    "event": "Nơi lưu giữ và trưng bày những hình ảnh, hiện vật về tội ác và hậu quả của các cuộc chiến tranh xâm lược tại Việt Nam.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Võ Thị Sáu",
+      "district": "Quận 3",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Bưu điện Trung tâm Sài Gòn",
+    "type_of_place": "historical",
+    "event": "Công trình kiến trúc Pháp tiêu biểu (theo đồ án của Gustave Eiffel), hoạt động liên tục từ năm 1891 đến nay.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bến Nghé",
+      "district": "Quận 1",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Khu tưởng niệm Liệt sĩ Ngã Ba Giồng",
+    "type_of_place": "historical",
+    "event": "Nơi thực dân Pháp xử bắn nhiều đồng chí lãnh đạo Đảng như Nguyễn Văn Cừ, Phan Đăng Lưu sau cuộc Khởi nghĩa Nam Kỳ (1940).",
+    "place": {
+      "hamlet": "Ấp 5",
+      "commune": "Xã Xuân Thới Thượng",
+      "district": "Huyện Hóc Môn",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Chùa Ngọc Hoàng (Phước Hải Tự)",
+    "type_of_place": "historical",
+    "event": "Ngôi chùa cổ nổi tiếng linh thiêng cầu con, từng được Tổng thống Mỹ Barack Obama ghé thăm năm 2016.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Đa Kao",
+      "district": "Quận 1",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Thảo Cầm Viên Sài Gòn",
+    "type_of_place": "natural",
+    "event": "Vườn thú lâu đời thứ 8 trên thế giới (xây dựng năm 1864), bảo tàng sinh vật sống giữa lòng thành phố.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường Bến Nghé",
+      "district": "Quận 1",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  },
+  {
+    "name": "Lăng Lê Văn Duyệt (Lăng Ông Bà Chiểu)",
+    "type_of_place": "historical",
+    "event": "Nơi thờ Tả quân Lê Văn Duyệt, vị Tổng trấn Gia Định Thành có công lớn trong việc khai phá và ổn định vùng đất Nam Bộ.",
+    "place": {
+      "hamlet": "null",
+      "commune": "Phường 1",
+      "district": "Quận Bình Thạnh",
+      "province": "Thành phố Hồ Chí Minh"
+    }
+  }
+]
+}
