@@ -139,16 +139,35 @@
             position: sticky; top: 0;
             background: transparent;
             z-index: 10;
-            max-height: calc(100vh - 100px); 
-            overflow-y: auto;
+            height: calc(100vh - 100px); /* Đổi max-height thành height để ép cứng khung */
+            display: flex;
+            flex-direction: column;
             padding-right: 5px; 
         }
 
         /* MAIN CONTENT */
         .merger-main-content {
-            flex: 1; min-width: 0;
+            flex: 1; 
+            min-width: 0;
+            height: calc(100vh - 100px); 
+            overflow-y: auto;         
+            padding-right: 15px;        
+            scroll-behavior: smooth;  
         }
-        
+        .merger-main-content::-webkit-scrollbar {
+            width: 8px; /* Độ rộng của thanh cuộn */
+        }
+        .merger-main-content::-webkit-scrollbar-track {
+            background: #f1f8e9; /* Màu nền rãnh cuộn (đồng bộ với màu nền) */
+            border-radius: 10px;
+        }
+        .merger-main-content::-webkit-scrollbar-thumb {
+            background: #888; /* Màu của nút cuộn */
+            border-radius: 10px;
+        }
+        .merger-main-content::-webkit-scrollbar-thumb:hover {
+            background: var(--primary-color); /* Đổi sang màu xanh khi di chuột vào */
+        }
         /* Controls */
         .search-container { position: relative; margin-bottom: 15px; }
         .search-bar { 
@@ -162,6 +181,8 @@
             display: flex; flex-direction: column; gap: 8px; 
             background: white; padding: 15px; border-radius: 10px; 
             box-shadow: 0 2px 5px rgba(0,0,0,0.05); 
+            flex: 1; /* Tự động chiếm toàn bộ chiều cao còn lại của sidebar */
+            overflow-y: auto; /* Kích hoạt thanh cuộn tại đây */
         }
         .toc-title { width: 100%; font-weight: bold; color: #555; margin-bottom: 10px; font-size: 0.9rem; text-transform: uppercase; border-bottom: 1px solid #eee; padding-bottom: 5px; }
         .toc-item { 
@@ -238,6 +259,44 @@
 
         /* --- LOADING OVERLAY --- */
         .loading-overlay { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,0.8); z-index: 2000; display: none; justify-content: center; align-items: center; font-size: 1.5rem; color: var(--primary-color); flex-direction: column; gap: 15px; backdrop-filter: blur(2px); }
+            /* --- TÙY CHỈNH THANH CUỘN CHO MENU TRÁI (MERGER SIDEBAR) --- */
+        .merger-toc::-webkit-scrollbar {
+            width: 8px;
+        }
+        .merger-toc::-webkit-scrollbar-track {
+            background: #f1f1f1; 
+            border-radius: 10px;
+        }
+        .merger-toc::-webkit-scrollbar-thumb {
+            background: #888; 
+            border-radius: 10px;
+        }
+        .merger-toc::-webkit-scrollbar-thumb:hover {
+            background: var(--primary-color); 
+        }
+
+        /* --- HIỆU ỨNG AI ĐANG SOẠN TIN NHẮN (TYPING INDICATOR) --- */
+        .typing-indicator {
+            display: flex;
+            gap: 5px;
+            align-items: center;
+            padding: 15px 20px !important;
+            width: fit-content;
+        }
+        .typing-indicator .dot {
+            width: 8px;
+            height: 8px;
+            background: var(--secondary-color);
+            border-radius: 50%;
+            animation: bounce 1.4s infinite ease-in-out both;
+        }
+        .typing-indicator .dot:nth-child(1) { animation-delay: -0.32s; }
+        .typing-indicator .dot:nth-child(2) { animation-delay: -0.16s; }
+
+        @keyframes bounce {
+            0%, 80%, 100% { transform: scale(0); }
+            40% { transform: scale(1); }
+        }
     </style>
 </head>
 <body>
@@ -438,7 +497,7 @@
                             <input type="text" id="mergerSearch" class="search-bar" placeholder="Tìm kiếm..." onkeyup="filterMergerData()">
                         </div>
                         <div id="mergerTOC" class="merger-toc">
-                            <div class="toc-title"><i class="fas fa-list-ul"></i> Mục lục (2025):</div>
+                            <div class="toc-title"><i class="fas fa-list-ul"></i> Mục lục (theo lần sáp nhập năm 2025):</div>
                         </div>
                     </div>
                 `;
@@ -897,15 +956,39 @@
             const input = document.getElementById('chatInput');
             const msg = input.value.trim();
             if (!msg) return;
+
             const messagesDiv = document.getElementById('chatMessages');
+            // tin nhắn người dùng
             messagesDiv.innerHTML += `<div class="message user">${msg}</div>`;
             input.value = '';
             messagesDiv.scrollTop = messagesDiv.scrollHeight;
+
+        // Thêm hiệu ứng AI đang gõ
+            const typingHtml = `
+                <div class="message ai typing-indicator" id="typingIndicator">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>`;
+            messagesDiv.innerHTML += typingHtml;
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+
             try {
-                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ message: msg, session_id: sessionId }) });
+                const res = await fetch('/api/chat', { 
+                    method: 'POST', 
+                    headers: {'Content-Type': 'application/json'}, 
+                    body: JSON.stringify({ message: msg, session_id: sessionId }) 
+                });
                 const data = await res.json();
+                //xóa hiệu ứng đang gõ
+                const indicator = document.getElementById('typingIndicator');
+                if (indicator) indicator.remove();
+
+                //Hiển thị kết quả AI trả về
                 messagesDiv.innerHTML += `<div class="message ai">${marked.parse(data.response)}</div>`;
-            } catch (e) { messagesDiv.innerHTML += `<div class="message ai" style="color:red;">Lỗi kết nối.</div>`; }
+            } catch (e) { 
+                const indicator = document.getElementById('typingIndicator');
+                if (indicator) indicator.remove();
+                messagesDiv.innerHTML += `<div class="message ai" style="color:red;">Lỗi kết nối.</div>`; 
+            }
             messagesDiv.scrollTop = messagesDiv.scrollHeight;
         }
 
