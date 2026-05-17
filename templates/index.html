@@ -63,7 +63,7 @@
         }
         .info-box h3 { margin-top: 0; margin-bottom: 10px; color: var(--primary-color); font-size: 1.1rem; border-bottom: 1px solid #eee; padding-bottom: 5px; }
         .info-row { margin-bottom: 8px; font-size: 0.95rem; }
-        .info-label { font-weight: bold; color: #666; width: 60px; display: inline-block; }
+        .info-label { font-weight: bold; color: #666; width: 95px; display: inline-block; }
         .info-value { color: var(--primary-color); font-weight: 600; }
         .btn-history {
             display: block; width: 100%; padding: 8px; margin-top: 10px; background: var(--secondary-color); color: white;
@@ -963,7 +963,7 @@
 
         function getFeatureName(feature) {
             const props = feature && feature.properties ? feature.properties : {};
-            return props.Name || props.NAME_1 || props.name || props.ten_tinh || props.Ten || 'Không rõ tên';
+            return getAdminUnit(props, 'province').name || props.name || props.Ten || 'Không rõ tên';
         }
 
         function escapeHtml(value) {
@@ -975,16 +975,101 @@
                 .replace(/'/g, '&#039;');
         }
 
+        function firstTextValue(props, keys) {
+            for (const key of keys) {
+                const value = props[key];
+                if (value !== undefined && value !== null && String(value).trim() !== '' && String(value).trim() !== 'NA') {
+                    return String(value).trim();
+                }
+            }
+            return '';
+        }
+
+        function findProvinceTypeFromCurrentMap(provinceName) {
+            if (!layers.province || !provinceName) return '';
+            const targetName = normalizeMemoryName(provinceName);
+            let foundType = '';
+
+            layers.province.eachLayer(layer => {
+                if (foundType || !layer.feature || !layer.feature.properties) return;
+                const props = layer.feature.properties;
+                const name = firstTextValue(props, ['ten_tinh', 'Name', 'NAME_1', 'PROV_NAME', 'province']);
+                if (normalizeMemoryName(name) !== targetName) return;
+
+                foundType = firstTextValue(props, ['TYPE_1', 'type_1']) ||
+                    (String(props.cap || '') === '1' ? firstTextValue(props, ['loai']) : '');
+            });
+
+            return foundType;
+        }
+
+        function findDistrictTypeFromCurrentMap(provinceName, districtName) {
+            if (!layers.district || !districtName) return '';
+            const targetProvince = normalizeMemoryName(provinceName);
+            const targetDistrict = normalizeMemoryName(districtName);
+            let foundType = '';
+
+            layers.district.eachLayer(layer => {
+                if (foundType || !layer.feature || !layer.feature.properties) return;
+                const props = layer.feature.properties;
+                const province = firstTextValue(props, ['ten_tinh', 'Name', 'NAME_1', 'PROV_NAME', 'province']);
+                const district = firstTextValue(props, ['ten_huyen', 'NAME_2', 'DIST_NAME', 'district']);
+                const sameProvince = !targetProvince || normalizeMemoryName(province) === targetProvince;
+                const sameDistrict = normalizeMemoryName(district) === targetDistrict;
+
+                if (sameProvince && sameDistrict) {
+                    foundType = firstTextValue(props, ['TYPE_2', 'type_2']);
+                }
+            });
+
+            return foundType;
+        }
+
+        function normalizeAdminType(value, fallback) {
+            const type = String(value || '').trim();
+            return type && type !== 'NA' ? type : fallback;
+        }
+
+        function getAdminUnit(props, level) {
+            const safeProps = props || {};
+
+            if (level === 'province') {
+                const name = firstTextValue(safeProps, ['ten_tinh', 'Name', 'NAME_1', 'PROV_NAME', 'province']);
+                const type = firstTextValue(safeProps, ['TYPE_1', 'type_1']) ||
+                    (String(safeProps.cap || '') === '1' ? firstTextValue(safeProps, ['loai']) : '') ||
+                    findProvinceTypeFromCurrentMap(name);
+                return { label: normalizeAdminType(type, 'Tỉnh'), name };
+            }
+
+            if (level === 'district') {
+                const provinceName = firstTextValue(safeProps, ['ten_tinh', 'Name', 'NAME_1', 'PROV_NAME', 'province']);
+                const name = firstTextValue(safeProps, ['ten_huyen', 'NAME_2', 'DIST_NAME', 'district']);
+                const type = firstTextValue(safeProps, ['TYPE_2', 'type_2']) ||
+                    findDistrictTypeFromCurrentMap(provinceName, name);
+                return { label: normalizeAdminType(type, 'Huyện'), name };
+            }
+
+            const name = firstTextValue(safeProps, ['ten_xa', 'NAME_3', 'WARD_NAME', 'ward']);
+            const type = firstTextValue(safeProps, ['TYPE_3', 'type_3']) ||
+                (String(safeProps.cap || '') === '2' ? firstTextValue(safeProps, ['loai']) : '');
+            return { label: normalizeAdminType(type, 'Xã'), name };
+        }
+
+        function renderAdminRow(unit) {
+            if (!unit || !unit.name) return '';
+            return `<div class="info-row"><span class="info-label">${escapeHtml(unit.label)}:</span> <span class="info-value">${escapeHtml(unit.name)}</span></div>`;
+        }
+
         function getMapTooltipContent(feature, type) {
             const props = feature && feature.properties ? feature.properties : {};
-            const provinceName = props.Name || props.NAME_1 || props.PROV_NAME || props.province;
-            const districtName = props.NAME_2 || props.DIST_NAME || props.district;
-            const wardName = props.NAME_3 || props.WARD_NAME || props.ward;
+            const province = getAdminUnit(props, 'province');
+            const district = getAdminUnit(props, 'district');
+            const ward = getAdminUnit(props, 'ward');
             const rows = [];
 
-            if (provinceName) rows.push(`<strong>Tỉnh/TP:</strong> ${escapeHtml(provinceName)}`);
-            if ((type === 'district' || type === 'ward') && districtName) rows.push(`<strong>Huyện/Quận:</strong> ${escapeHtml(districtName)}`);
-            if (type === 'ward' && wardName) rows.push(`<strong>Xã/Phường:</strong> ${escapeHtml(wardName)}`);
+            if (province.name) rows.push(`<strong>${escapeHtml(province.label)}:</strong> ${escapeHtml(province.name)}`);
+            if ((type === 'district' || type === 'ward') && district.name) rows.push(`<strong>${escapeHtml(district.label)}:</strong> ${escapeHtml(district.name)}`);
+            if (type === 'ward' && ward.name) rows.push(`<strong>${escapeHtml(ward.label)}:</strong> ${escapeHtml(ward.name)}`);
 
             return rows.length ? rows.join('<br>') : escapeHtml(getFeatureName(feature));
         }
@@ -1363,19 +1448,19 @@
 
         function updateInfoBox(props) {
             let html = '';
-            const pName = props.Name || props.NAME_1 || "N/A";
-            const dName = props.NAME_2;
-            const wName = props.NAME_3;
+            const province = getAdminUnit(props, 'province');
+            const district = getAdminUnit(props, 'district');
+            const ward = getAdminUnit(props, 'ward');
             const currentYear = AVAILABLE_YEARS[document.getElementById('timeline').value];
 
-            html += `<div class="info-row"><span class="info-label">Tỉnh:</span> <span class="info-value">${pName}</span></div>`;
+            html += renderAdminRow(province);
             if (currentYear >= 2025) {
-                if (wName) html += `<div class="info-row"><span class="info-label">Xã:</span> <span class="info-value">${wName}</span></div>`;
+                html += renderAdminRow(ward);
             } else {
-                if (dName) html += `<div class="info-row"><span class="info-label">Huyện:</span> <span class="info-value">${dName}</span></div>`;
-                if (wName) html += `<div class="info-row"><span class="info-label">Xã:</span> <span class="info-value">${wName}</span></div>`;
+                html += renderAdminRow(district);
+                html += renderAdminRow(ward);
             }
-            document.getElementById('infoContent').innerHTML = html;
+            document.getElementById('infoContent').innerHTML = html || '<div style="color: #95a5a6; font-style: italic;">Không xác định được tên địa phương.</div>';
         }
 
         function updateUIControls(year) {
@@ -1430,7 +1515,7 @@
             contentDiv.innerHTML = '<div style="text-align:center; margin-top:30px;"><i class="fas fa-spinner fa-spin"></i> Đang tải thông tin chi tiết...</div>';
             
             const props = selectedFeature.feat.properties;
-            const provName = props.NAME_1 || props.Name; 
+            const provName = getAdminUnit(props, 'province').name; 
             
             if (!provName) {
                 contentDiv.innerHTML = "<p>Không xác định được tên tỉnh.</p>";
