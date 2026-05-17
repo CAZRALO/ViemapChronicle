@@ -6,42 +6,33 @@ from google import genai
 import uuid
 from dotenv import load_dotenv
 
-# Tải biến môi trường
 load_dotenv()
 
 app = Flask(__name__)
 
-# --- CẤU HÌNH ĐƯỜNG DẪN ---
 BASE_DIR = os.getcwd()
-MAP_DATA_FOLDER = os.path.join(BASE_DIR, 'Mapdata')
+MAP_DATA_FOLDER = os.path.join(BASE_DIR, 'MapData')
 HISTORY_DATA_FOLDER = os.path.join(BASE_DIR, 'HistoryData')
 GEO_DATA_FOLDER = os.path.join(BASE_DIR, 'GeoData')
 MERGE_DATA_FOLDER = os.path.join(BASE_DIR, 'HistoryData', 'MergeData')
 
-# Đảm bảo các thư mục tồn tại
 for folder in [MAP_DATA_FOLDER, HISTORY_DATA_FOLDER, GEO_DATA_FOLDER, MERGE_DATA_FOLDER]:
     if not os.path.exists(folder):
         os.makedirs(folder, exist_ok=True)
 
-# Cấu hình Gemini AI
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 gemini_client = None
 if GOOGLE_API_KEY:
-    # Khởi tạo client theo chuẩn thư viện google-genai mới
     gemini_client = genai.Client(api_key=GOOGLE_API_KEY)
 else:
     print("⚠️ CẢNH BÁO: Chưa cấu hình GOOGLE_API_KEY")
 
-# Lưu trữ session chat
 chat_sessions = {}
 
-# --- CACHE DỮ LIỆU SÁP NHẬP ĐỂ CUNG CẤP CHO AI ---
 MERGER_CONTEXT_CACHE = ""
-# --- CACHE DỮ LIỆU DICT ĐỂ TÌM KIẾM ---
 MERGE_DICT_CACHE = None
 
 def load_all_commune_merger_data():
-    """Đọc và gộp tất cả file json trong HistoryData/MergeData"""
     combined_data = {}
     if not os.path.exists(MERGE_DATA_FOLDER):
         return combined_data
@@ -64,11 +55,10 @@ def get_merge_dict():
     if MERGE_DICT_CACHE is not None:
         return MERGE_DICT_CACHE
         
-    MERGE_DICT_CACHE = load_all_commune_merger_data() # Gọi lại hàm đọc JSON của bạn
+    MERGE_DICT_CACHE = load_all_commune_merger_data() 
     return MERGE_DICT_CACHE
 
 def clean_prefix(name):
-    """Loại bỏ tiền tố hành chính để lấy tên lõi (Ví dụ: 'Thị xã Hoài Nhơn' -> 'hoài nhơn')"""
     if not name: return ""
     name = str(name).lower().strip()
     prefixes = ["thành phố ", "tỉnh ", "thị xã ", "huyện ", "quận ", "thị trấn ", "phường ", "xã "]
@@ -78,14 +68,11 @@ def clean_prefix(name):
     return name
 
 def is_exact_match(keyword, text):
-    """Tìm kiếm từ khóa nguyên vẹn, chống nhận diện nhầm chuỗi con (VD: 'an' trong 'bàn')"""
     if not keyword: return False
-    # Chuyển dấu câu thành khoảng trắng để so sánh chữ độc lập
     text_clean = re.sub(r'[^\w\s]', ' ', text)
     return f" {keyword} " in f" {text_clean} "
 
 def extract_relevant_context(user_message, session_history_text=""):
-    """Lọc thông tin: Nếu tìm thấy địa danh, gửi TOÀN BỘ dữ liệu của Tỉnh chứa địa danh đó"""
     merge_data = get_merge_dict()
     if not merge_data:
         return ""
@@ -97,33 +84,27 @@ def extract_relevant_context(user_message, session_history_text=""):
         province_core = clean_prefix(province)
         include_whole_province = False
         
-        # 1. Kiểm tra xem tên Tỉnh có nằm trong câu hỏi không
         if is_exact_match(province_core, search_text):
             include_whole_province = True
         
-        # 2. Nếu không thấy tên Tỉnh, quét sâu vào tên các Xã/Huyện bên trong
         if not include_whole_province:
             for change in changes:
-                # Kiểm tra danh sách địa danh cũ (from)
                 if isinstance(change.get('from'), list):
                     for item in change['from']:
                         c_core = clean_prefix(item.get('commune', ''))
                         d_core = clean_prefix(item.get('district', ''))
                         
-                        # Chạm trúng bất kỳ xã/huyện nào là kích hoạt cờ lấy cả Tỉnh
                         if is_exact_match(c_core, search_text) or is_exact_match(d_core, search_text):
                             include_whole_province = True
                             break 
-                
-                # Kiểm tra địa danh mới (to)
+            
                 dst_core = clean_prefix(change.get('to', {}).get('commune', ''))
                 if is_exact_match(dst_core, search_text):
                     include_whole_province = True
                     
                 if include_whole_province:
-                    break # Tìm thấy 1 điểm chung là đủ, thoát vòng lặp changes của Tỉnh này
+                    break 
                     
-        # 3. NẾU CÓ ĐIỂM CHẠM, GỬI TOÀN BỘ THAY ĐỔI CỦA TỈNH NÀY CHO AI
         if include_whole_province:
             prov_context = ""
             for change in changes:
@@ -142,13 +123,12 @@ def extract_relevant_context(user_message, session_history_text=""):
     return relevant_context
 
 def scan_map_files():
-    """Quét thư mục Mapdata để tìm file theo năm."""
     config = {
         'years': set(),
         'files': {
-            'province': [],
-            'district': [],
-            'ward': []
+            'province': {},
+            'district': {},
+            'ward': {}
         }
     }
     
@@ -157,36 +137,32 @@ def scan_map_files():
 
     files = os.listdir(MAP_DATA_FOLDER)
     
-    p_prov = re.compile(r'provinces_(\d+)(?:_.*)?\.geojson', re.IGNORECASE)
-    p_dist = re.compile(r'districts_(\d+)(?:_.*)?\.geojson', re.IGNORECASE)
-    p_ward = re.compile(r'wards_(\d+)(?:_.*)?\.geojson', re.IGNORECASE)
+    patterns = {
+        'province': re.compile(r'provinces_(\d+)(?:_.*)?\.(geojson|topojson)$', re.IGNORECASE),
+        'district': re.compile(r'districts_(\d+)(?:_.*)?\.(geojson|topojson)$', re.IGNORECASE),
+        'ward': re.compile(r'wards_(\d+)(?:_.*)?\.(geojson|topojson)$', re.IGNORECASE),
+    }
 
     for f in files:
-        m_prov = p_prov.match(f)
-        if m_prov:
-            year = int(m_prov.group(1))
-            config['years'].add(year)
-            config['files']['province'].append({'year': year, 'file': f})
-            continue
+        for level, pattern in patterns.items():
+            match = pattern.match(f)
+            if not match:
+                continue
 
-        m_dist = p_dist.match(f)
-        if m_dist:
-            year = int(m_dist.group(1))
-            config['years'].add(year)
-            config['files']['district'].append({'year': year, 'file': f})
-            continue
+            year = int(match.group(1))
+            fmt = match.group(2).lower()
+            current = config['files'][level].get(year)
+            should_replace = current is None or (fmt == 'topojson' and current.get('format') != 'topojson')
 
-        m_ward = p_ward.match(f)
-        if m_ward:
-            year = int(m_ward.group(1))
             config['years'].add(year)
-            config['files']['ward'].append({'year': year, 'file': f})
-            continue
+            if should_replace:
+                config['files'][level][year] = {'year': year, 'file': f, 'format': fmt}
+            break
 
     config['years'] = sorted(list(config['years']))
+    for level in config['files']:
+        config['files'][level] = sorted(config['files'][level].values(), key=lambda item: item['year'])
     return config
-
-# --- ROUTES ---
 
 @app.route('/')
 def index():
@@ -199,8 +175,11 @@ def get_config():
 
 @app.route('/api/map/<filename>')
 def get_map_data(filename):
-    if not filename.endswith('.geojson'): return jsonify({"error": "Invalid type"}), 400
-    return send_from_directory(MAP_DATA_FOLDER, filename)
+    if not filename.lower().endswith(('.geojson', '.topojson')):
+        return jsonify({"error": "Invalid type"}), 400
+    response = send_from_directory(MAP_DATA_FOLDER, filename)
+    response.mimetype = 'application/json'
+    return response
 
 @app.route('/api/history/<filename>')
 def get_history_data(filename):
@@ -214,7 +193,7 @@ def get_geo_data(filename):
 
 @app.route('/api/merger/communes')
 def get_commune_merger_data():
-    data = load_all_commune_merger_data()
+    data = get_merge_dict()
     return jsonify(data)
 
 @app.route('/api/chat', methods=['POST'])
@@ -230,7 +209,6 @@ def chat():
         return jsonify({"response": "Lỗi từ nhà phát triển, vui lòng thử lại vào lần dùng sau."}), 500
 
     try:
-        # 1. KHỞI TẠO SESSION VỚI SYSTEM PROMPT RẤT NGẮN GỌN (Tiết kiệm token đầu vào)
         if reset or session_id not in chat_sessions:
             system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
             QUY TẮC:
@@ -250,15 +228,12 @@ def chat():
 
         if not user_message: return jsonify({"response": "..."})
 
-        # 2. LỌC DỮ LIỆU ĐỘNG DỰA TRÊN CÂU HỎI
         dynamic_context = extract_relevant_context(user_message)
         
-        # 3. GẮN DỮ LIỆU VÀO CÂU HỎI NẾU CÓ TÌM THẤY
         final_message = user_message
         if dynamic_context:
             final_message += f"\n\n[DỮ LIỆU SÁP NHẬP LIÊN QUAN TỪ HỆ THỐNG ĐỂ BẠN THAM KHẢO TRẢ LỜI]:\n{dynamic_context}"
 
-        # Gửi tin nhắn đã được "bơm" thêm context cho AI
         response = chat_sessions[session_id].send_message(final_message)
         return jsonify({"response": response.text})
         

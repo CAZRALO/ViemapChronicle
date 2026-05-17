@@ -666,6 +666,7 @@
 
     <!-- MAIN SCRIPT -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/topojson-client@3/dist/topojson-client.min.js"></script>
     <script>
         // --- GLOBAL VARIABLES ---
         let DATA_SOURCES = { province: [], district: [], ward: [] };
@@ -1087,6 +1088,33 @@
             if (layer.unbindTooltip) layer.unbindTooltip();
         }
 
+        function topoJsonToGeoJson(data, fileName) {
+            if (!window.topojson) {
+                throw new Error('topojson-client chưa được tải.');
+            }
+
+            const objectKeys = Object.keys(data.objects || {});
+            if (objectKeys.length === 0) {
+                throw new Error(`TopoJSON ${fileName} không có object dữ liệu.`);
+            }
+
+            const objectKey = data.objects.map ? 'map' : objectKeys[0];
+            return topojson.feature(data, data.objects[objectKey]);
+        }
+
+        async function loadMapData(fileName) {
+            const res = await fetch(`/api/map/${encodeURIComponent(fileName)}`);
+            if (!res.ok) {
+                throw new Error(`Không tải được dữ liệu bản đồ: ${fileName}`);
+            }
+
+            const data = await res.json();
+            if (data && data.type === 'Topology') {
+                return topoJsonToGeoJson(data, fileName);
+            }
+            return data;
+        }
+
         function getMemoryYear() {
             const select = document.getElementById('memoryYearSelect');
             return Number(select.value || AVAILABLE_YEARS[AVAILABLE_YEARS.length - 1]);
@@ -1151,7 +1179,7 @@
 
             try {
                 if (!memoryDataCache[year]) {
-                    memoryDataCache[year] = await (await fetch(`/api/map/${pEntry.file}`)).json();
+                    memoryDataCache[year] = await loadMapData(pEntry.file);
                 }
                 if (memoryProvinceLayer) memoryMap.removeLayer(memoryProvinceLayer);
                 memoryFeatures = [];
@@ -1371,7 +1399,7 @@
             try {
                 const pEntry = DATA_SOURCES.province.find(x => x.year === year);
                 if (pEntry) {
-                    const data = await (await fetch(`/api/map/${pEntry.file}`)).json();
+                    const data = await loadMapData(pEntry.file);
                     layers.province = L.geoJSON(data, {
                         style: styles.province, pane: 'provincePane',
                         onEachFeature: (f, l) => {
@@ -1385,7 +1413,7 @@
                 if (viewMode === 'district') {
                     const dEntry = DATA_SOURCES.district.find(x => x.year === year);
                     if (dEntry) {
-                        const data = await (await fetch(`/api/map/${dEntry.file}`)).json();
+                        const data = await loadMapData(dEntry.file);
                         layers.district = L.geoJSON(data, {
                             style: styles.district, pane: 'districtPane',
                             onEachFeature: (f, l) => {
@@ -1398,13 +1426,13 @@
                     if (year < 2025) {
                         const dEntry = DATA_SOURCES.district.find(x => x.year === year);
                         if (dEntry) {
-                            const dData = await (await fetch(`/api/map/${dEntry.file}`)).json();
+                            const dData = await loadMapData(dEntry.file);
                             layers.district = L.geoJSON(dData, { style: {...styles.district, interactive:false}, pane: 'districtPane' }).addTo(map);
                         }
                     }
                     const wEntry = DATA_SOURCES.ward.find(x => x.year === year);
                     if (wEntry) {
-                        const data = await (await fetch(`/api/map/${wEntry.file}`)).json();
+                        const data = await loadMapData(wEntry.file);
                         layers.ward = L.geoJSON(data, {
                             style: styles.ward, pane: 'wardPane',
                             onEachFeature: (f, l) => {
