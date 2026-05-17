@@ -473,6 +473,13 @@
             z-index: 1;
             background: #eef5ee;
         }
+        #memoryMap .leaflet-tooltip,
+        #memoryMap .leaflet-tooltip-pane {
+            display: none !important;
+            visibility: hidden !important;
+            opacity: 0 !important;
+            pointer-events: none !important;
+        }
         .memory-map-note {
             position: absolute;
             left: 16px;
@@ -959,6 +966,42 @@
             return props.Name || props.NAME_1 || props.name || props.ten_tinh || props.Ten || 'Không rõ tên';
         }
 
+        function escapeHtml(value) {
+            return String(value || '')
+                .replace(/&/g, '&amp;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#039;');
+        }
+
+        function getMapTooltipContent(feature, type) {
+            const props = feature && feature.properties ? feature.properties : {};
+            const provinceName = props.Name || props.NAME_1 || props.PROV_NAME || props.province;
+            const districtName = props.NAME_2 || props.DIST_NAME || props.district;
+            const wardName = props.NAME_3 || props.WARD_NAME || props.ward;
+            const rows = [];
+
+            if (provinceName) rows.push(`<strong>Tỉnh/TP:</strong> ${escapeHtml(provinceName)}`);
+            if ((type === 'district' || type === 'ward') && districtName) rows.push(`<strong>Huyện/Quận:</strong> ${escapeHtml(districtName)}`);
+            if (type === 'ward' && wardName) rows.push(`<strong>Xã/Phường:</strong> ${escapeHtml(wardName)}`);
+
+            return rows.length ? rows.join('<br>') : escapeHtml(getFeatureName(feature));
+        }
+
+        function bindMapFeatureTooltip(feature, layer, type) {
+            layer.bindTooltip(getMapTooltipContent(feature, type), {
+                sticky: true,
+                direction: 'top',
+                opacity: 0.95
+            });
+        }
+
+        function disableMemoryFeatureTooltip(layer) {
+            if (layer.closeTooltip) layer.closeTooltip();
+            if (layer.unbindTooltip) layer.unbindTooltip();
+        }
+
         function getMemoryYear() {
             const select = document.getElementById('memoryYearSelect');
             return Number(select.value || AVAILABLE_YEARS[AVAILABLE_YEARS.length - 1]);
@@ -989,6 +1032,9 @@
                 attribution: 'Map data &copy; Google',
                 crossOrigin: true
             }).addTo(memoryMap);
+            memoryMap.on('tooltipopen', e => {
+                if (e.tooltip) memoryMap.closeTooltip(e.tooltip);
+            });
         }
 
         function memoryDefaultStyle(feature) {
@@ -1033,8 +1079,8 @@
                         feature.__memoryNorm = normalizeMemoryName(name);
                         feature.__memoryLayer = layer;
                         memoryFeatures.push(feature);
+                        disableMemoryFeatureTooltip(layer);
 
-                        layer.bindTooltip(name, { sticky: true, direction: 'top' });
                         layer.on({
                             mouseover: () => {
                                 if (!memoryGameActive || !memoryAcceptingAnswer) return;
@@ -1243,7 +1289,10 @@
                     const data = await (await fetch(`/api/map/${pEntry.file}`)).json();
                     layers.province = L.geoJSON(data, {
                         style: styles.province, pane: 'provincePane',
-                        onEachFeature: (f, l) => l.on('click', e => onFeatureClick(e, f, l, 'province'))
+                        onEachFeature: (f, l) => {
+                            bindMapFeatureTooltip(f, l, 'province');
+                            l.on('click', e => onFeatureClick(e, f, l, 'province'));
+                        }
                     }).addTo(map);
                     layers.border = L.geoJSON(data, { style: styles.border, pane: 'borderPane' }).addTo(map);
                 }
@@ -1254,7 +1303,10 @@
                         const data = await (await fetch(`/api/map/${dEntry.file}`)).json();
                         layers.district = L.geoJSON(data, {
                             style: styles.district, pane: 'districtPane',
-                            onEachFeature: (f, l) => l.on('click', e => onFeatureClick(e, f, l, 'district'))
+                            onEachFeature: (f, l) => {
+                                bindMapFeatureTooltip(f, l, 'district');
+                                l.on('click', e => onFeatureClick(e, f, l, 'district'));
+                            }
                         }).addTo(map);
                     }
                 } else if (viewMode === 'ward') {
@@ -1270,7 +1322,10 @@
                         const data = await (await fetch(`/api/map/${wEntry.file}`)).json();
                         layers.ward = L.geoJSON(data, {
                             style: styles.ward, pane: 'wardPane',
-                            onEachFeature: (f, l) => l.on('click', e => onFeatureClick(e, f, l, 'ward'))
+                            onEachFeature: (f, l) => {
+                                bindMapFeatureTooltip(f, l, 'ward');
+                                l.on('click', e => onFeatureClick(e, f, l, 'ward'));
+                            }
                         }).addTo(map);
                     }
                 }
