@@ -297,6 +297,205 @@
             0%, 80%, 100% { transform: scale(0); }
             40% { transform: scale(1); }
         }
+
+        /* --- HIỆU ỨNG NỔI LÊN (POP-UP EFFECT) KHI CHỌN VÙNG --- */
+        /* Thêm hiệu ứng chuyển đổi mượt mà khi thay đổi màu/độ mờ */
+        path.leaflet-interactive {
+            transition: fill-opacity 0.2s ease, stroke-width 0.2s ease, stroke 0.2s ease;
+        }
+        
+        .highlight-pop {
+            filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.6));
+        }
+
+        /* --- MAP MEMORY TAB --- */
+        #tabMemory {
+            background: #f6faf4;
+            overflow: hidden;
+        }
+        .memory-layout {
+            height: 100%;
+            display: grid;
+            grid-template-columns: 340px minmax(0, 1fr);
+            background: #f6faf4;
+        }
+        .memory-panel {
+            background: #fff;
+            border-right: 1px solid #dfeadf;
+            padding: 18px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            z-index: 3;
+        }
+        .memory-title {
+            margin: 0;
+            color: var(--primary-color);
+            font-size: 1.35rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .memory-card {
+            border: 1px solid #e2ece2;
+            border-radius: 8px;
+            padding: 14px;
+            background: #fbfdfb;
+        }
+        .memory-label {
+            display: block;
+            color: #5d6d5d;
+            font-size: 0.82rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 6px;
+        }
+        .memory-select {
+            width: 100%;
+            border: 1px solid #ccdccc;
+            border-radius: 6px;
+            padding: 9px 10px;
+            font-size: 0.95rem;
+            background: #fff;
+            color: #263826;
+        }
+        .memory-target {
+            margin-top: 8px;
+            padding: 14px;
+            border-radius: 8px;
+            background: #e8f5e9;
+            color: var(--primary-color);
+            font-size: 1.35rem;
+            font-weight: 800;
+            text-align: center;
+            min-height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .memory-stats {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+        }
+        .memory-stat {
+            background: #fff;
+            border: 1px solid #e4eee4;
+            border-radius: 8px;
+            padding: 10px;
+        }
+        .memory-stat span {
+            display: block;
+            color: #6f806f;
+            font-size: 0.78rem;
+            margin-bottom: 4px;
+        }
+        .memory-stat strong {
+            color: var(--primary-color);
+            font-size: 1.25rem;
+        }
+        .memory-actions {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 8px;
+        }
+        .memory-btn {
+            border: none;
+            border-radius: 6px;
+            padding: 10px 12px;
+            font-weight: 700;
+            cursor: pointer;
+            background: #e9f2e9;
+            color: var(--primary-color);
+            transition: background 0.2s, transform 0.2s;
+        }
+        .memory-btn:hover:not(:disabled) {
+            background: #d9ecd9;
+            transform: translateY(-1px);
+        }
+        .memory-btn.primary {
+            background: var(--secondary-color);
+            color: #fff;
+        }
+        .memory-btn.primary:hover:not(:disabled) {
+            background: var(--primary-color);
+        }
+        .memory-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+        .memory-feedback {
+            min-height: 38px;
+            padding: 10px;
+            border-radius: 8px;
+            background: #f5f5f5;
+            color: #555;
+            line-height: 1.4;
+            font-size: 0.92rem;
+        }
+        .memory-feedback.correct {
+            background: #e8f5e9;
+            color: #1b5e20;
+        }
+        .memory-feedback.wrong {
+            background: #ffebee;
+            color: #b71c1c;
+        }
+        .memory-list {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            max-height: 190px;
+            overflow-y: auto;
+        }
+        .memory-result {
+            display: flex;
+            justify-content: space-between;
+            gap: 8px;
+            border-radius: 6px;
+            padding: 8px 10px;
+            background: #fff;
+            border: 1px solid #e8eee8;
+            font-size: 0.88rem;
+        }
+        .memory-result.ok { border-left: 4px solid #43a047; }
+        .memory-result.miss { border-left: 4px solid #e53935; }
+        .memory-map-wrap {
+            position: relative;
+            min-width: 0;
+            height: 100%;
+        }
+        #memoryMap {
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+            background: #eef5ee;
+        }
+        .memory-map-note {
+            position: absolute;
+            left: 16px;
+            bottom: 16px;
+            z-index: 2;
+            background: rgba(255,255,255,0.94);
+            color: #506050;
+            padding: 8px 12px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+            font-size: 0.9rem;
+        }
+        @media (max-width: 900px) {
+            .memory-layout {
+                grid-template-columns: 1fr;
+                grid-template-rows: auto minmax(320px, 1fr);
+            }
+            .memory-panel {
+                max-height: 45vh;
+                border-right: none;
+                border-bottom: 1px solid #dfeadf;
+            }
+        }
     </style>
 </head>
 <body>
@@ -404,17 +603,54 @@
             </div>
         </div>
 
-        <!-- TAB 4: MINIGAME -->
-         <div id="tabMemory" class="tab-pane">
-            <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%; color: #666; background-color: var(--bg-color);">
-                <i class="fas fa-tools" style="font-size: 4rem; color: var(--secondary-color); margin-bottom: 20px;"></i>
-                <h2 style="color: var(--primary-color);">Tính năng đang được phát triển</h2>
-                <p>Tính năng Ghi nhớ bản đồ sẽ sớm được ra mắt trong bản cập nhật tới!</p>
+        <!-- TAB 4: MAP MEMORY -->
+        <div id="tabMemory" class="tab-pane">
+            <div class="memory-layout">
+                <aside class="memory-panel">
+                    <h2 class="memory-title"><i class="fas fa-puzzle-piece"></i> Ghi nhớ bản đồ</h2>
+                    <div class="memory-card">
+                        <label class="memory-label" for="memoryYearSelect">Bộ bản đồ</label>
+                        <select id="memoryYearSelect" class="memory-select"></select>
+                    </div>
+                    <div class="memory-card">
+                        <span class="memory-label">Hãy tìm địa phương</span>
+                        <div id="memoryTarget" class="memory-target">Bấm bắt đầu</div>
+                    </div>
+                    <div class="memory-stats">
+                        <div class="memory-stat"><span>Điểm</span><strong id="memoryScore">0</strong></div>
+                        <div class="memory-stat"><span>Câu</span><strong id="memoryRound">0/0</strong></div>
+                        <div class="memory-stat"><span>Chuỗi đúng</span><strong id="memoryStreak">0</strong></div>
+                        <div class="memory-stat"><span>Kỷ lục</span><strong id="memoryBest">0</strong></div>
+                    </div>
+                    <div class="memory-actions">
+                        <button class="memory-btn primary" id="memoryStartBtn" onclick="startMemoryGame()">
+                            <i class="fas fa-play"></i> Bắt đầu
+                        </button>
+                        <button class="memory-btn" id="memoryHintBtn" onclick="showMemoryHint()" disabled>
+                            <i class="fas fa-lightbulb"></i> Gợi ý
+                        </button>
+                        <button class="memory-btn" id="memorySkipBtn" onclick="skipMemoryQuestion()" disabled>
+                            <i class="fas fa-forward"></i> Bỏ qua
+                        </button>
+                        <button class="memory-btn" onclick="resetMemoryGame()">
+                            <i class="fas fa-rotate-left"></i> Làm lại
+                        </button>
+                    </div>
+                    <div id="memoryFeedback" class="memory-feedback">Chọn năm dữ liệu rồi bắt đầu luyện nhớ vị trí tỉnh/thành.</div>
+                    <div class="memory-card">
+                        <span class="memory-label">Lịch sử lượt này</span>
+                        <div id="memoryResults" class="memory-list">
+                            <div style="color:#8a988a; font-style:italic;">Chưa có lượt trả lời.</div>
+                        </div>
+                    </div>
+                </aside>
+                <div class="memory-map-wrap">
+                    <div id="memoryMap"></div>
+                    <div class="memory-map-note">Bấm trực tiếp vào tỉnh/thành trên bản đồ để trả lời.</div>
+                </div>
             </div>
         </div>
-
     </div>
-    
     <!-- LOADING SPINNER -->
     <div class="loading-overlay" id="loading">
         <i class="fas fa-spinner fa-spin" style="font-size: 3rem;"></i>
@@ -450,6 +686,7 @@
                 }
                 
                 setupTimeline();
+                setupMemoryTab();
                 updateMap();
                 loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
 
@@ -667,6 +904,19 @@
         let layers = { province: null, district: null, ward: null, border: null };
         let viewMode = 'province';
         let selectedFeature = null;
+        let memoryMap = null;
+        let memoryProvinceLayer = null;
+        let memoryFeatures = [];
+        let memoryQuestions = [];
+        let memoryCurrent = null;
+        let memoryGameActive = false;
+        let memoryAcceptingAnswer = false;
+        let memoryScore = 0;
+        let memoryRound = 0;
+        let memoryStreak = 0;
+        let memoryTotalRounds = 10;
+        let memoryHintUsed = false;
+        const memoryDataCache = {};
 
         const styles = {
             province: f => ({ fillColor: getColor(f.properties.Name || f.properties.NAME_1), weight: 0, fillOpacity: 0.6, color: 'transparent' }),
@@ -691,6 +941,288 @@
                        .replace(/đ/g, "d").replace(/Đ/g, "D")
                        .replace(/[^a-zA-Z0-9]/g, '') 
                        + '.json';
+        }
+
+        function normalizeMemoryName(name) {
+            return String(name || '')
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .replace(/đ/g, 'd').replace(/Đ/g, 'D')
+                .replace(/^(tỉnh|thành phố)\s+/i, '')
+                .replace(/\s+/g, ' ')
+                .trim()
+                .toLowerCase();
+        }
+
+        function getFeatureName(feature) {
+            const props = feature && feature.properties ? feature.properties : {};
+            return props.Name || props.NAME_1 || props.name || props.ten_tinh || props.Ten || 'Không rõ tên';
+        }
+
+        function getMemoryYear() {
+            const select = document.getElementById('memoryYearSelect');
+            return Number(select.value || AVAILABLE_YEARS[AVAILABLE_YEARS.length - 1]);
+        }
+
+        function getMemoryBestKey() {
+            return `memory_best_score_${getMemoryYear()}`;
+        }
+
+        function setupMemoryTab() {
+            const select = document.getElementById('memoryYearSelect');
+            const provinceYears = DATA_SOURCES.province.map(x => x.year).sort((a, b) => a - b);
+            select.innerHTML = provinceYears.map(year => `<option value="${year}">${year}</option>`).join('');
+            if (provinceYears.length > 0) select.value = provinceYears[provinceYears.length - 1];
+            select.addEventListener('change', () => {
+                resetMemoryGame();
+                loadMemoryMap(getMemoryYear());
+            });
+            updateMemoryStats();
+            loadMemoryMap(getMemoryYear());
+        }
+
+        function ensureMemoryMap() {
+            if (memoryMap) return;
+            memoryMap = L.map('memoryMap', { zoomControl: true }).setView([16.047079, 108.206230], 5);
+            L.tileLayer('http://mt0.google.com/vt/lyrs=y&hl=vi&x={x}&y={y}&z={z}', {
+                maxZoom: 21,
+                attribution: 'Map data &copy; Google',
+                crossOrigin: true
+            }).addTo(memoryMap);
+        }
+
+        function memoryDefaultStyle(feature) {
+            return {
+                fillColor: getColor(getFeatureName(feature)),
+                weight: 1,
+                color: '#ffffff',
+                fillOpacity: 0.62,
+                opacity: 0.9
+            };
+        }
+
+        function memoryHoverStyle() {
+            return { weight: 3, color: '#fdd835', fillOpacity: 0.78 };
+        }
+
+        async function loadMemoryMap(year) {
+            ensureMemoryMap();
+            const feedback = document.getElementById('memoryFeedback');
+            const pEntry = DATA_SOURCES.province.find(x => x.year === Number(year));
+            if (!pEntry) {
+                feedback.className = 'memory-feedback wrong';
+                feedback.textContent = 'Không có dữ liệu tỉnh/thành cho năm đã chọn.';
+                return;
+            }
+
+            feedback.className = 'memory-feedback';
+            feedback.textContent = 'Đang tải bản đồ luyện nhớ...';
+
+            try {
+                if (!memoryDataCache[year]) {
+                    memoryDataCache[year] = await (await fetch(`/api/map/${pEntry.file}`)).json();
+                }
+                if (memoryProvinceLayer) memoryMap.removeLayer(memoryProvinceLayer);
+                memoryFeatures = [];
+
+                memoryProvinceLayer = L.geoJSON(memoryDataCache[year], {
+                    style: memoryDefaultStyle,
+                    onEachFeature: (feature, layer) => {
+                        const name = getFeatureName(feature);
+                        feature.__memoryName = name;
+                        feature.__memoryNorm = normalizeMemoryName(name);
+                        feature.__memoryLayer = layer;
+                        memoryFeatures.push(feature);
+
+                        layer.bindTooltip(name, { sticky: true, direction: 'top' });
+                        layer.on({
+                            mouseover: () => {
+                                if (!memoryGameActive || !memoryAcceptingAnswer) return;
+                                layer.setStyle(memoryHoverStyle());
+                            },
+                            mouseout: () => {
+                                if (!memoryGameActive || !memoryCurrent || memoryCurrent.feature !== feature) {
+                                    layer.setStyle(memoryDefaultStyle(feature));
+                                }
+                            },
+                            click: () => handleMemoryGuess(feature, layer)
+                        });
+                    }
+                }).addTo(memoryMap);
+
+                if (memoryProvinceLayer.getBounds().isValid()) {
+                    memoryMap.fitBounds(memoryProvinceLayer.getBounds(), { padding: [20, 20] });
+                }
+                memoryMap.invalidateSize();
+                feedback.textContent = 'Bản đồ đã sẵn sàng. Bấm bắt đầu để luyện nhớ.';
+            } catch (err) {
+                console.error('Memory map error:', err);
+                feedback.className = 'memory-feedback wrong';
+                feedback.textContent = 'Không tải được dữ liệu bản đồ luyện nhớ.';
+            }
+        }
+
+        function updateMemoryStats() {
+            document.getElementById('memoryScore').textContent = memoryScore;
+            document.getElementById('memoryRound').textContent = `${memoryRound}/${memoryTotalRounds}`;
+            document.getElementById('memoryStreak').textContent = memoryStreak;
+            document.getElementById('memoryBest').textContent = localStorage.getItem(getMemoryBestKey()) || '0';
+        }
+
+        function setMemoryControls(active) {
+            document.getElementById('memoryHintBtn').disabled = !active;
+            document.getElementById('memorySkipBtn').disabled = !active;
+            document.getElementById('memoryStartBtn').innerHTML = active ? '<i class="fas fa-hourglass-half"></i> Đang chơi' : '<i class="fas fa-play"></i> Bắt đầu';
+            document.getElementById('memoryStartBtn').disabled = active;
+            document.getElementById('memoryYearSelect').disabled = active;
+        }
+
+        function resetMemoryStyles() {
+            if (!memoryProvinceLayer) return;
+            memoryProvinceLayer.eachLayer(layer => {
+                if (layer.feature) layer.setStyle(memoryDefaultStyle(layer.feature));
+            });
+        }
+
+        function shuffleMemoryFeatures(features) {
+            const list = [...features];
+            for (let i = list.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [list[i], list[j]] = [list[j], list[i]];
+            }
+            return list;
+        }
+
+        async function startMemoryGame() {
+            if (!memoryMap) await loadMemoryMap(getMemoryYear());
+            if (memoryFeatures.length === 0) return;
+
+            memoryTotalRounds = Math.min(10, memoryFeatures.length);
+            memoryQuestions = shuffleMemoryFeatures(memoryFeatures).slice(0, memoryTotalRounds);
+            memoryScore = 0;
+            memoryRound = 0;
+            memoryStreak = 0;
+            memoryGameActive = true;
+            memoryAcceptingAnswer = true;
+            memoryHintUsed = false;
+            document.getElementById('memoryResults').innerHTML = '';
+            document.getElementById('memoryFeedback').className = 'memory-feedback';
+            document.getElementById('memoryFeedback').textContent = 'Hãy bấm vào tỉnh/thành đúng trên bản đồ.';
+            setMemoryControls(true);
+            updateMemoryStats();
+            nextMemoryQuestion();
+        }
+
+        function nextMemoryQuestion() {
+            resetMemoryStyles();
+            if (memoryRound >= memoryTotalRounds) {
+                finishMemoryGame();
+                return;
+            }
+            memoryCurrent = { feature: memoryQuestions[memoryRound], attempts: 0 };
+            memoryHintUsed = false;
+            memoryAcceptingAnswer = true;
+            document.getElementById('memoryHintBtn').disabled = false;
+            document.getElementById('memoryTarget').textContent = getFeatureName(memoryCurrent.feature);
+            updateMemoryStats();
+        }
+
+        function handleMemoryGuess(feature, layer) {
+            if (!memoryGameActive || !memoryAcceptingAnswer || !memoryCurrent) return;
+
+            const expected = memoryCurrent.feature.__memoryNorm;
+            const guessed = feature.__memoryNorm;
+            const feedback = document.getElementById('memoryFeedback');
+            memoryAcceptingAnswer = false;
+
+            if (guessed === expected) {
+                memoryStreak += 1;
+                const bonus = Math.min(memoryStreak - 1, 5);
+                const hintPenalty = memoryHintUsed ? 2 : 0;
+                const gained = Math.max(5, 10 + bonus - hintPenalty);
+                memoryScore += gained;
+                layer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
+                feedback.className = 'memory-feedback correct';
+                feedback.textContent = `Đúng: ${getFeatureName(feature)}. +${gained} điểm.`;
+                addMemoryResult(true, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
+            } else {
+                memoryStreak = 0;
+                layer.setStyle({ weight: 4, color: '#b71c1c', fillOpacity: 0.82 });
+                memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
+                feedback.className = 'memory-feedback wrong';
+                feedback.textContent = `Chưa đúng. Đáp án là ${getFeatureName(memoryCurrent.feature)}.`;
+                addMemoryResult(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
+            }
+
+            memoryRound += 1;
+            updateMemoryStats();
+            setTimeout(nextMemoryQuestion, 1100);
+        }
+
+        function addMemoryResult(ok, guessed, expected) {
+            const list = document.getElementById('memoryResults');
+            const item = document.createElement('div');
+            item.className = `memory-result ${ok ? 'ok' : 'miss'}`;
+            item.innerHTML = `<span>${ok ? 'Đúng' : 'Sai'}</span><strong>${expected}</strong>`;
+            if (!ok) item.title = `Bạn chọn: ${guessed}`;
+            list.prepend(item);
+        }
+
+        function showMemoryHint() {
+            if (!memoryGameActive || !memoryCurrent || memoryHintUsed) return;
+            memoryHintUsed = true;
+            document.getElementById('memoryHintBtn').disabled = true;
+            const layer = memoryCurrent.feature.__memoryLayer;
+            if (layer && layer.getBounds) {
+                memoryMap.fitBounds(layer.getBounds(), { padding: [80, 80], maxZoom: 8 });
+                layer.setStyle({ weight: 4, color: '#fdd835', fillOpacity: 0.8 });
+            }
+            document.getElementById('memoryFeedback').className = 'memory-feedback';
+            document.getElementById('memoryFeedback').textContent = 'Gợi ý đã khoanh vùng đáp án. Trả lời đúng sẽ bị trừ 2 điểm.';
+        }
+
+        function skipMemoryQuestion() {
+            if (!memoryGameActive || !memoryAcceptingAnswer || !memoryCurrent) return;
+            memoryAcceptingAnswer = false;
+            memoryStreak = 0;
+            memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
+            addMemoryResult(false, 'Bỏ qua', getFeatureName(memoryCurrent.feature));
+            document.getElementById('memoryFeedback').className = 'memory-feedback wrong';
+            document.getElementById('memoryFeedback').textContent = `Đã bỏ qua. Đáp án là ${getFeatureName(memoryCurrent.feature)}.`;
+            memoryRound += 1;
+            updateMemoryStats();
+            setTimeout(nextMemoryQuestion, 900);
+        }
+
+        function finishMemoryGame() {
+            memoryGameActive = false;
+            memoryAcceptingAnswer = false;
+            setMemoryControls(false);
+            resetMemoryStyles();
+            document.getElementById('memoryTarget').textContent = 'Hoàn thành';
+            const bestKey = getMemoryBestKey();
+            const best = Number(localStorage.getItem(bestKey) || 0);
+            if (memoryScore > best) localStorage.setItem(bestKey, String(memoryScore));
+            updateMemoryStats();
+            document.getElementById('memoryFeedback').className = 'memory-feedback correct';
+            document.getElementById('memoryFeedback').textContent = `Kết thúc lượt chơi: ${memoryScore} điểm trên ${memoryTotalRounds} câu.`;
+        }
+
+        function resetMemoryGame() {
+            memoryGameActive = false;
+            memoryAcceptingAnswer = false;
+            memoryQuestions = [];
+            memoryCurrent = null;
+            memoryScore = 0;
+            memoryRound = 0;
+            memoryStreak = 0;
+            setMemoryControls(false);
+            resetMemoryStyles();
+            document.getElementById('memoryTarget').textContent = 'Bấm bắt đầu';
+            document.getElementById('memoryFeedback').className = 'memory-feedback';
+            document.getElementById('memoryFeedback').textContent = 'Chọn năm dữ liệu rồi bắt đầu luyện nhớ vị trí tỉnh/thành.';
+            document.getElementById('memoryResults').innerHTML = '<div style="color:#8a988a; font-style:italic;">Chưa có lượt trả lời.</div>';
+            updateMemoryStats();
         }
 
         async function updateMap() {
@@ -754,6 +1286,8 @@
             } else {
                 resetHighlight();
                 layer.setStyle(styles.high);
+                if (layer.bringToFront) layer.bringToFront(); /* Đưa vùng được chọn lên trên cùng để bóng không bị che */
+                if (layer.getElement) L.DomUtil.addClass(layer.getElement(), 'highlight-pop'); /* Thêm class CSS đổ bóng */
                 selectedFeature = { layer: layer, feat: feature, type: type };
                 updateInfoBox(feature.properties);
                 document.getElementById('btnShowHistory').disabled = false;
@@ -763,6 +1297,7 @@
         function resetHighlight() {
             if (selectedFeature) {
                 const { layer, feat, type } = selectedFeature;
+                if (layer.getElement) L.DomUtil.removeClass(layer.getElement(), 'highlight-pop'); /* Xóa class CSS đổ bóng */
                 if (type === 'province') layer.setStyle(styles.province(feat));
                 else layer.setStyle(styles[type]);
             }
@@ -791,8 +1326,13 @@
         function updateUIControls(year) {
             const lblDist = document.getElementById('lblDistrict');
             const inpDist = lblDist.querySelector('input');
+            const lblWard = document.getElementById('lblWard');
+            const inpWard = lblWard.querySelector('input');
             
-            if (year >= 2025) {
+            const hasDistrict = DATA_SOURCES.district.some(x => x.year === year);
+            const hasWard = DATA_SOURCES.ward.some(x => x.year === year);
+            
+            if (year >= 2025 || !hasDistrict) {
                 lblDist.classList.add('disabled');
                 inpDist.disabled = true;
                 if (viewMode === 'district') {
@@ -804,6 +1344,20 @@
                 lblDist.classList.remove('disabled');
                 inpDist.disabled = false;
             }
+
+            if (!hasWard) {
+                lblWard.classList.add('disabled');
+                inpWard.disabled = true;
+                if (viewMode === 'ward') {
+                    viewMode = (!inpDist.disabled) ? 'district' : 'province';
+                    document.querySelector(`input[value="${viewMode}"]`).checked = true;
+                    document.getElementById(viewMode === 'district' ? 'lblDistrict' : 'lblProvince').classList.add('active');
+                }
+            } else {
+                lblWard.classList.remove('disabled');
+                inpWard.disabled = false;
+            }
+
             document.querySelectorAll('.radio-wrapper').forEach(el => el.classList.remove('active'));
             document.querySelector(`input[value="${viewMode}"]`).parentElement.classList.add('active');
         }
@@ -961,7 +1515,11 @@
             if (tabName === 'map') { document.getElementById('tabMap').classList.add('active'); map.invalidateSize(); } 
             else if (tabName === 'merger') { document.getElementById('tabMerger').classList.add('active'); } 
             else if (tabName === 'chat') { document.getElementById('tabChat').classList.add('active'); }
-            else if (tabName === 'memory') { document.getElementById('tabMemory').classList.add('active'); }
+            else if (tabName === 'memory') {
+                document.getElementById('tabMemory').classList.add('active');
+                ensureMemoryMap();
+                setTimeout(() => memoryMap.invalidateSize(), 50);
+            }
             document.querySelector(`.nav-item[onclick="switchMainTab('${tabName}')"]`).classList.add('active');
         }
 
