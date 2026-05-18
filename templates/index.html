@@ -114,6 +114,17 @@
         .event-title { font-weight: bold; color: #333; margin: 5px 0; line-height: 1.4; font-size: 1.05rem; }
         .event-loc { font-size: 0.85rem; color: #e65100; margin: 4px 0; display: flex; align-items: center; gap: 5px; font-weight: 500; }
         .event-desc { font-size: 0.95rem; color: #555; margin-top: 8px; line-height: 1.6; text-align: justify; }
+        .history-filter-bar { display: flex; flex-wrap: wrap; gap: 8px; margin: -5px 0 15px; }
+        .history-filter-btn {
+            border: 1px solid #d7e8d8; background: #fff; color: #456045; cursor: pointer;
+            padding: 7px 10px; border-radius: 18px; font-size: 0.9rem; font-weight: 600;
+            transition: all 0.2s ease; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .history-filter-btn:hover { border-color: var(--secondary-color); color: var(--primary-color); }
+        .history-filter-btn.active { background: var(--secondary-color); border-color: var(--secondary-color); color: white; }
+        .event-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+        .event-tag { font-size: 0.75rem; background: #eef7ee; color: #477447; padding: 2px 7px; border-radius: 10px; }
+        .history-empty { color: #777; font-style: italic; background: #fafafa; border: 1px dashed #ddd; padding: 12px; border-radius: 6px; }
         
         .site-item { background: #fffcf5; padding: 15px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #ff9800; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .site-name { font-weight: bold; color: #e65100; font-size: 1.1rem; margin-bottom: 5px; }
@@ -976,6 +987,69 @@
                 .replace(/'/g, '&#039;');
         }
 
+        const HISTORY_TAG_FILTERS = [
+            { key: 'military', label: '🛡 Quân sự', aliases: ['quân sự', 'chiến tranh', 'kháng chiến', 'trận', 'mặt trận', 'khởi nghĩa', 'cách mạng', 'giành chính quyền', 'tập kết'] },
+            { key: 'administrative', label: '🏛 Hành chính', aliases: ['hành chính', 'thành lập', 'sáp nhập', 'chia tách', 'địa giới', 'tỉnh', 'huyện', 'phủ', 'dinh', 'trấn'] },
+            { key: 'culture', label: '📜 Văn hóa', aliases: ['văn hóa', 'di sản', 'di tích', 'lễ hội', 'tín ngưỡng', 'giáo dục', 'nghệ thuật', 'biểu tượng'] }
+        ];
+
+        function normalizeHistoryTag(value) {
+            return String(value || '')
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .replace(/đ/g, 'd').replace(/Đ/g, 'D')
+                .toLowerCase();
+        }
+
+        function eventMatchesHistoryFilter(eventItem, filterKey) {
+            if (filterKey === 'all') return true;
+            const filter = HISTORY_TAG_FILTERS.find(item => item.key === filterKey);
+            if (!filter) return true;
+
+            const tagsText = Array.isArray(eventItem.tags) ? eventItem.tags.join(' ') : String(eventItem.tags || '');
+            const fallbackText = [eventItem.title, eventItem.description, eventItem.desc, eventItem.content].join(' ');
+            const searchableText = normalizeHistoryTag(tagsText.trim() ? tagsText : fallbackText);
+
+            return filter.aliases.some(alias => searchableText.includes(normalizeHistoryTag(alias)));
+        }
+
+        function renderHistoryEvents(events, sourceProvinces, filterKey = 'all') {
+            const filteredEvents = events.filter(ev => eventMatchesHistoryFilter(ev, filterKey));
+            if (filteredEvents.length === 0) {
+                return '<div class="history-empty">Không có sự kiện nào thuộc nhóm này.</div>';
+            }
+
+            return filteredEvents.map(ev => {
+                const desc = ev.desc || ev.description || ev.content || "";
+                let timeDisplay = ev.date || ev.time || ev.year || "Không rõ thời gian";
+                let locDisplay = "";
+
+                if (ev.location) {
+                    if (typeof ev.location === 'string') locDisplay = ev.location;
+                    else if (typeof ev.location === 'object') {
+                        const parts = [];
+                        if (ev.location.commune) parts.push(ev.location.commune);
+                        if (ev.location.district) parts.push(ev.location.district);
+                        locDisplay = parts.join(", ");
+                    }
+                }
+
+                const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge">${escapeHtml(ev.sourceProv)}</span>` : '';
+                const tagHtml = Array.isArray(ev.tags) && ev.tags.length
+                    ? `<div class="event-tags">${ev.tags.map(tag => `<span class="event-tag">${escapeHtml(tag)}</span>`).join('')}</div>`
+                    : '';
+
+                return `
+                    <div class="event-item">
+                        <div class="event-year">${escapeHtml(timeDisplay)} ${sourceBadge}</div>
+                        <div class="event-title">${escapeHtml(ev.title)}</div>
+                        ${locDisplay ? `<div class="event-loc"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(locDisplay)}</div>` : ''}
+                        ${desc ? `<div class="event-desc">${escapeHtml(desc)}</div>` : ''}
+                        ${tagHtml}
+                    </div>`;
+            }).join('');
+        }
+
         function firstTextValue(props, keys) {
             for (const key of keys) {
                 const value = props[key];
@@ -1566,7 +1640,7 @@
             }
 
             htmlContent += `<div style="font-size: 0.8rem; background: #fff3e0; padding: 8px; border-radius: 4px; color: #e65100; margin-bottom: 15px; border: 1px solid #ffe0b2;">
-                <i class="fas fa-info-circle"></i> <em>Lưu ý: Địa chỉ sự kiện và địa danh dưới đây áp dụng theo địa giới hành chính trước ngày 01/07/2025.</em>
+                <i class="fas fa-info-circle"></i> <em>Lưu ý: Địa chỉ sự kiện và địa danh dưới đây áp dụng theo địa giới hành chính mốc năm 2008.</em>
             </div>`;
 
             let aggregatedEvents = [];
@@ -1609,34 +1683,14 @@
             if (aggregatedEvents.length > 0) {
                 // Sort by year
                 aggregatedEvents.sort((a, b) => (a.year || 0) - (b.year || 0));
+                const filterButtons = [
+                    '<button class="history-filter-btn active" data-history-filter="all">Tất cả</button>',
+                    ...HISTORY_TAG_FILTERS.map(filter => `<button class="history-filter-btn" data-history-filter="${filter.key}">${filter.label}</button>`)
+                ].join('');
                 
                 htmlContent += `<div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div>`;
-                aggregatedEvents.forEach(ev => {
-                    const desc = ev.desc || ev.description || ev.content || "";
-                    let timeDisplay = ev.date || ev.time || ev.year || "Không rõ thời gian";
-                    
-                    let locDisplay = "";
-                    if (ev.location) {
-                        if (typeof ev.location === 'string') locDisplay = ev.location;
-                        else if (typeof ev.location === 'object') {
-                            const parts = [];
-                            if (ev.location.commune) parts.push(ev.location.commune);
-                            if (ev.location.district) parts.push(ev.location.district);
-                            locDisplay = parts.join(", ");
-                        }
-                    }
-
-                    // Source badge if multiple provinces
-                    const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge">${ev.sourceProv}</span>` : '';
-
-                    htmlContent += `
-                    <div class="event-item">
-                        <div class="event-year">${timeDisplay} ${sourceBadge}</div>
-                        <div class="event-title">${ev.title}</div>
-                        ${locDisplay ? `<div class="event-loc"><i class="fas fa-map-marker-alt"></i> ${locDisplay}</div>` : ''}
-                        ${desc ? `<div class="event-desc">${desc}</div>` : ''}
-                    </div>`;
-                });
+                htmlContent += `<div class="history-filter-bar">${filterButtons}</div>`;
+                htmlContent += `<div id="historyEventsList">${renderHistoryEvents(aggregatedEvents, sourceProvinces)}</div>`;
             }
 
             // RENDER SITES
@@ -1666,6 +1720,17 @@
 
             if (!hasData) htmlContent += `<p style="margin-top:20px; font-style:italic; color:#777;">Chưa có dữ liệu chi tiết cho địa phương này.</p>`;
             contentDiv.innerHTML = htmlContent;
+
+            const eventsList = document.getElementById('historyEventsList');
+            if (eventsList) {
+                contentDiv.querySelectorAll('.history-filter-btn').forEach(button => {
+                    button.addEventListener('click', () => {
+                        contentDiv.querySelectorAll('.history-filter-btn').forEach(btn => btn.classList.remove('active'));
+                        button.classList.add('active');
+                        eventsList.innerHTML = renderHistoryEvents(aggregatedEvents, sourceProvinces, button.dataset.historyFilter);
+                    });
+                });
+            }
         });
 
         // Events
