@@ -122,6 +122,55 @@ def extract_relevant_context(user_message, session_history_text=""):
     
     return relevant_context
 
+def format_map_selection_context(map_context):
+    """Chuyển ngữ cảnh vùng đang chọn trên bản đồ thành hướng dẫn cho Gemini."""
+    if not map_context or not isinstance(map_context, dict):
+        return ""
+
+    display = (map_context.get("display_name") or "").strip()
+    if not display:
+        parts = []
+        for key, label_key in (
+            ("ward", "ward_type"),
+            ("district", "district_type"),
+            ("province", "province_type"),
+        ):
+            name = (map_context.get(key) or "").strip()
+            if name:
+                admin_label = (map_context.get(label_key) or "").strip()
+                parts.append(f"{admin_label} {name}".strip() if admin_label else name)
+        display = ", ".join(parts)
+    if not display:
+        return ""
+
+    year = map_context.get("year")
+    level = map_context.get("level") or "province"
+    level_vi = {"province": "tỉnh/thành", "district": "huyện/quận", "ward": "xã/phường"}.get(level, level)
+
+    lines = [
+        "Người dùng đang xem bản đồ Viemap và đã CHỌN một vùng trên bản đồ trước khi hỏi.",
+        f"- Địa điểm đang chọn: {display}",
+        f"- Cấp đơn vị được click: {level_vi}",
+    ]
+    if year is not None:
+        lines.append(f"- Năm dữ liệu bản đồ đang hiển thị: {year}")
+
+    province = (map_context.get("province") or "").strip()
+    district = (map_context.get("district") or "").strip()
+    ward = (map_context.get("ward") or "").strip()
+    if province:
+        lines.append(f"- Tỉnh/Thành: {province}")
+    if district:
+        lines.append(f"- Huyện/Quận: {district}")
+    if ward:
+        lines.append(f"- Xã/Phường: {ward}")
+
+    lines.append(
+        'Khi người dùng dùng từ "đây", "nơi này", "chỗ này", "vùng này" hoặc hỏi không nêu rõ tên địa danh, '
+        f'hãy hiểu họ đang nói về: {display}. Trả lời tập trung vào địa phương đó.'
+    )
+    return "\n".join(lines)
+
 def scan_map_files():
     config = {
         'years': set(),
@@ -202,6 +251,7 @@ def chat():
     user_message = data.get('message', '')
     session_id = data.get('session_id')
     reset = data.get('reset', False)
+    map_context = data.get('map_context')
     
     if not session_id: return jsonify({"error": "Missing session_id"}), 400
 
@@ -213,7 +263,8 @@ def chat():
             system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
             QUY TẮC:
             - Trả lời rõ ràng, chính xác.
-            - Nếu người dùng hỏi về địa danh trước 1/7/2025, hãy trả lời về lịch sử của nó. 
+            - Nếu người dùng hỏi về địa danh trước 1/7/2025, hãy trả lời về lịch sử của nó.
+            - Nếu hệ thống cung cấp [NGỮ CẢNH BẢN ĐỒ], người dùng đã chọn một vùng trên bản đồ; hãy hiểu "đây", "nơi này", "chỗ này" là vùng đó và trả lời tập trung vào địa phương đó.
             - Nếu hệ thống cung cấp [DỮ LIỆU SÁP NHẬP LIÊN QUAN], hãy cập nhật thêm cho người dùng là "Nơi đó hiện nay là [Tên địa danh mới]".
             - Nếu hệ thống không cung cấp thông tin sáp nhập cho địa danh đó, hãy trả lời bình thường và không bịa thêm."""
             
@@ -228,9 +279,18 @@ def chat():
 
         if not user_message: return jsonify({"response": "..."})
 
-        dynamic_context = extract_relevant_context(user_message)
-        
+        context_search = user_message
+        if map_context:
+            for field in ("province", "district", "ward", "display_name"):
+                val = (map_context.get(field) or "").strip()
+                if val:
+                    context_search += f" {val}"
+        dynamic_context = extract_relevant_context(context_search)
+        map_context_text = format_map_selection_context(map_context)
+
         final_message = user_message
+        if map_context_text:
+            final_message += f"\n\n[NGỮ CẢNH BẢN ĐỒ - VÙNG NGƯỜI DÙNG ĐANG CHỌN]:\n{map_context_text}"
         if dynamic_context:
             final_message += f"\n\n[DỮ LIỆU SÁP NHẬP LIÊN QUAN TỪ HỆ THỐNG ĐỂ BẠN THAM KHẢO TRẢ LỜI]:\n{dynamic_context}"
 

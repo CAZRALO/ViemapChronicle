@@ -267,6 +267,22 @@
         .chat-input:focus { border-color: var(--secondary-color); }
         .btn-send { padding: 0 25px; background: var(--primary-color); color: white; border: none; border-radius: 25px; cursor: pointer; font-weight: bold; font-size: 0.95rem; transition: background 0.2s; }
         .btn-new-chat { background: #f5f5f5; color: #333; border: 1px solid #ddd; padding: 6px 12px; border-radius: 15px; cursor: pointer; font-size: 0.85rem; display: flex; align-items: center; gap: 5px; transition: all 0.2s; }
+        .chat-map-context {
+            display: none;
+            align-items: center;
+            gap: 8px;
+            margin: 0 20px;
+            padding: 8px 14px;
+            background: #e8f5e9;
+            border: 1px solid #c8e6c9;
+            border-radius: 8px;
+            font-size: 0.88rem;
+            color: #2e7d32;
+            flex-shrink: 0;
+        }
+        .chat-map-context.visible { display: flex; }
+        .chat-map-context i { color: var(--secondary-color); }
+        .chat-map-context strong { color: var(--primary-color); }
 
         /* --- LOADING OVERLAY --- */
         .loading-overlay { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(255,255,255,0.8); z-index: 2000; display: none; justify-content: center; align-items: center; font-size: 1.5rem; color: var(--primary-color); flex-direction: column; gap: 15px; backdrop-filter: blur(2px); }
@@ -609,6 +625,10 @@
                 <button class="btn-new-chat" onclick="resetChat()">
                     <i class="fas fa-redo"></i> Cuộc trò chuyện mới
                 </button>
+            </div>
+            <div id="chatMapContext" class="chat-map-context" title="Vùng đang chọn trên tab Bản đồ — AI sẽ hiểu &quot;đây&quot;, &quot;nơi này&quot; là địa phương này">
+                <i class="fas fa-map-pin"></i>
+                <span>Đang chọn trên bản đồ: <strong id="chatMapContextName"></strong> <span id="chatMapContextYear"></span></span>
             </div>
             <div class="chat-messages" id="chatMessages">
                 <div class="message ai">
@@ -1521,6 +1541,50 @@
             finally { document.getElementById('loading').style.display = 'none'; }
         }
 
+        function getMapSelectionContext() {
+            if (!selectedFeature) return null;
+            const props = selectedFeature.feat.properties;
+            const province = getAdminUnit(props, 'province');
+            const district = getAdminUnit(props, 'district');
+            const ward = getAdminUnit(props, 'ward');
+            const year = AVAILABLE_YEARS[document.getElementById('timeline').value];
+            const level = selectedFeature.type;
+
+            let displayName = province.name || '';
+            if (level === 'district' && district.name) {
+                displayName = [district.name, province.name].filter(Boolean).join(', ');
+            } else if (level === 'ward' && ward.name) {
+                displayName = [ward.name, district.name, province.name].filter(Boolean).join(', ');
+            }
+
+            if (!displayName) return null;
+
+            return {
+                year,
+                level,
+                display_name: displayName,
+                province: province.name || null,
+                province_type: province.label || null,
+                district: district.name || null,
+                district_type: district.label || null,
+                ward: ward.name || null,
+                ward_type: ward.label || null
+            };
+        }
+
+        function updateChatMapContextUI() {
+            const bar = document.getElementById('chatMapContext');
+            if (!bar) return;
+            const ctx = getMapSelectionContext();
+            if (!ctx) {
+                bar.classList.remove('visible');
+                return;
+            }
+            document.getElementById('chatMapContextName').textContent = ctx.display_name;
+            document.getElementById('chatMapContextYear').textContent = ctx.year ? `(năm ${ctx.year})` : '';
+            bar.classList.add('visible');
+        }
+
         function onFeatureClick(e, feature, layer, type) {
             L.DomEvent.stopPropagation(e);
             if (selectedFeature && selectedFeature.layer === layer) {
@@ -1533,6 +1597,7 @@
                 selectedFeature = { layer: layer, feat: feature, type: type };
                 updateInfoBox(feature.properties);
                 document.getElementById('btnShowHistory').disabled = false;
+                updateChatMapContextUI();
             }
         }
 
@@ -1546,6 +1611,7 @@
             selectedFeature = null;
             document.getElementById('infoContent').innerHTML = '<div style="color: #95a5a6; font-style: italic;">Chọn một điểm trên bản đồ...</div>';
             document.getElementById('btnShowHistory').disabled = true;
+            updateChatMapContextUI();
         }
 
         function updateInfoBox(props) {
@@ -1747,7 +1813,10 @@
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
             if (tabName === 'map') { document.getElementById('tabMap').classList.add('active'); map.invalidateSize(); } 
             else if (tabName === 'merger') { document.getElementById('tabMerger').classList.add('active'); } 
-            else if (tabName === 'chat') { document.getElementById('tabChat').classList.add('active'); }
+            else if (tabName === 'chat') {
+                document.getElementById('tabChat').classList.add('active');
+                updateChatMapContextUI();
+            }
             else if (tabName === 'memory') {
                 document.getElementById('tabMemory').classList.add('active');
                 ensureMemoryMap();
@@ -1776,10 +1845,14 @@
             messagesDiv.scrollTop = messagesDiv.scrollHeight;
 
             try {
+                const payload = { message: msg, session_id: sessionId };
+                const mapContext = getMapSelectionContext();
+                if (mapContext) payload.map_context = mapContext;
+
                 const res = await fetch('/api/chat', { 
                     method: 'POST', 
                     headers: {'Content-Type': 'application/json'}, 
-                    body: JSON.stringify({ message: msg, session_id: sessionId }) 
+                    body: JSON.stringify(payload) 
                 });
                 const data = await res.json();
                 //xóa hiệu ứng đang gõ
