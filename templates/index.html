@@ -626,6 +626,31 @@
             opacity: 0 !important;
             pointer-events: none !important;
         }
+        .memory-map-idle {
+            position: absolute;
+            inset: 0;
+            z-index: 2;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #eef5ee;
+            padding: 24px;
+            text-align: center;
+            pointer-events: none;
+        }
+        .memory-map-idle.hidden {
+            display: none;
+        }
+        .memory-map-idle p {
+            margin: 0;
+            max-width: 420px;
+            color: #3d523d;
+            font-size: 1.05rem;
+            line-height: 1.55;
+        }
+        .memory-map-idle strong {
+            color: var(--primary-color);
+        }
         .memory-map-note {
             position: absolute;
             left: 16px;
@@ -637,6 +662,9 @@
             border-radius: 8px;
             box-shadow: 0 2px 8px rgba(0,0,0,0.12);
             font-size: 0.9rem;
+        }
+        .memory-map-note.hidden {
+            display: none;
         }
         /* --- MAP UI: màn hình nhỏ --- */
         @media (max-width: 768px) {
@@ -829,7 +857,10 @@
                 </aside>
                 <div class="memory-map-wrap">
                     <div id="memoryMap"></div>
-                    <div class="memory-map-note">Bấm trực tiếp vào tỉnh/thành trên bản đồ để trả lời.</div>
+                    <div id="memoryMapIdle" class="memory-map-idle">
+                        <p>Chọn <strong>năm</strong> ở cột bên trái, rồi nhấn <strong>Bắt đầu</strong> để luyện ghi nhớ vị trí tỉnh/thành.</p>
+                    </div>
+                    <div class="memory-map-note hidden" id="memoryMapNote">Bấm trực tiếp vào tỉnh/thành trên bản đồ để trả lời.</div>
                 </div>
             </div>
         </div>
@@ -1373,6 +1404,7 @@
                 loadMemoryMap(getMemoryYear());
             });
             updateMemoryStats();
+            setMemoryMapIdleOverlay(true);
             loadMemoryMap(getMemoryYear());
         }
 
@@ -1467,12 +1499,18 @@
             document.getElementById('memoryBest').textContent = localStorage.getItem(getMemoryBestKey()) || '0';
         }
 
+        function setMemoryMapIdleOverlay(show) {
+            document.getElementById('memoryMapIdle').classList.toggle('hidden', !show);
+            document.getElementById('memoryMapNote').classList.toggle('hidden', show);
+        }
+
         function setMemoryControls(active) {
             document.getElementById('memoryHintBtn').disabled = !active;
             document.getElementById('memorySkipBtn').disabled = !active;
             document.getElementById('memoryStartBtn').innerHTML = active ? '<i class="fas fa-hourglass-half"></i> Đang chơi' : '<i class="fas fa-play"></i> Bắt đầu';
             document.getElementById('memoryStartBtn').disabled = active;
             document.getElementById('memoryYearSelect').disabled = active;
+            setMemoryMapIdleOverlay(!active);
         }
 
         function resetMemoryStyles() {
