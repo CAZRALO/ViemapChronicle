@@ -250,6 +250,9 @@
         .site-type { font-size: 0.75rem; color: #fff; background: #ff9800; display: inline-block; padding: 3px 8px; border-radius: 4px; text-transform: uppercase; margin-bottom: 8px; font-weight: bold; }
         .site-desc { font-size: 0.95rem; color: #444; margin-bottom: 8px; line-height: 1.5; }
         .site-loc { font-size: 0.85rem; color: #2E7D32; font-style: italic; display: flex; align-items: center; gap: 5px; border-top: 1px solid #ffe0b2; padding-top: 8px; margin-top: 8px; }
+        .site-map-link { display: inline-flex; align-items: center; gap: 6px; margin-top: 10px; color: #fff; background: #1a73e8; padding: 8px 12px; border-radius: 8px; text-decoration: none; font-size: 0.9rem; font-weight: 600; transition: background 0.2s ease; }
+        .site-map-link:hover { background: #1558b0; }
+        .site-map-link i { width: 14px; }
 
         .merged-source-badge { font-size: 0.8rem; background: #eee; padding: 2px 6px; border-radius: 4px; color: #666; margin-left: 5px; }
 
@@ -1957,12 +1960,24 @@
 
                     const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge" style="float:right; margin-top: -2px;">${site.sourceProv}</span>` : '';
 
+                    const placeParts = [];
+                    if (site.place) {
+                        if (site.place.commune && site.place.commune !== 'null') placeParts.push(site.place.commune);
+                        if (site.place.district && site.place.district !== 'null') placeParts.push(site.place.district);
+                        if (site.place.province && site.place.province !== 'null') placeParts.push(site.place.province);
+                    }
+                    const googleSearchQuery = encodeURIComponent(`${site.name} ${placeParts.join(' ')}`.trim());
+                    const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${googleSearchQuery}`;
+
                     htmlContent += `
                     <div class="site-item">
                         <div class="site-name">${site.name} ${sourceBadge}</div>
                         <div class="site-type">${typeDisplay}</div>
                         ${descHtml}
-                        <div class="site-loc"><i class="fas fa-map-pin"></i> ${site.place.commune}, ${site.place.district}</div>
+                        <div class="site-loc"><i class="fas fa-map-pin"></i> ${placeParts.join(', ')}</div>
+                        <a class="site-map-link" href="${googleMapsUrl}" target="_blank" rel="noopener noreferrer">
+                            <i class="fas fa-location-dot"></i> Xem trên Google Maps
+                        </a>
                     </div>`;
                 });
             }
