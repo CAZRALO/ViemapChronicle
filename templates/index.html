@@ -21,6 +21,9 @@
             --light-bg: #FFFFFF;
             --text-color: #2c3e50;
             --border-color: #ddd;
+            --map-edge-gap: clamp(10px, 1.6vw, 24px);
+            --navbar-height: clamp(52px, 7vh, 72px);
+            --mini-chat-width: clamp(340px, 34vw, 560px);
         }
 
         body, html { 
@@ -32,37 +35,37 @@
         
         /* --- NAVIGATION BAR --- */
         .navbar {
-            height: clamp(48px, 7vh, 60px);
+            height: var(--navbar-height);
             background: var(--primary-color);
             display: flex;
             align-items: center;
-            padding: 0 clamp(10px, 2.5vw, 20px);
+            padding: 0 clamp(12px, 2vw, 28px);
             color: white;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
             z-index: 2000;
             justify-content: space-between;
-            flex-shrink: 0;
-            gap: 8px;
+            flex: 0 0 auto;
+            gap: clamp(8px, 1.4vw, 18px);
             min-height: 0;
         }
         .navbar-brand {
             display: flex;
             align-items: center;
             gap: clamp(6px, 1.5vw, 10px);
-            font-size: clamp(0.95rem, 2.8vw, 1.4rem);
+            font-size: clamp(1rem, calc(1vw + 0.75rem), 1.55rem);
             font-weight: bold;
             min-width: 0;
             flex-shrink: 1;
         }
         .navbar-brand-text { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-        .nav-tabs { display: flex; gap: clamp(2px, 0.5vw, 5px); height: 100%; flex-shrink: 0; min-width: 0; }
+        .nav-tabs { display: flex; gap: clamp(3px, 0.5vw, 8px); height: 100%; flex-shrink: 0; min-width: 0; }
         .nav-item {
-            padding: 0 clamp(8px, 1.8vw, 20px);
+            padding: 0 clamp(8px, 1.35vw, 22px);
             height: 100%;
             display: flex;
             align-items: center;
             cursor: pointer;
-            font-size: clamp(0.72rem, 1.6vw, 0.95rem);
+            font-size: clamp(0.78rem, calc(0.48vw + 0.68rem), 1rem);
             background: rgba(255,255,255,0.05);
             transition: background 0.2s;
             color: #f0f0f0;
@@ -89,14 +92,16 @@
         /* Info Box (Top Left) */
         .info-box {
             position: absolute;
-            top: clamp(8px, 2vh, 20px);
-            left: clamp(8px, 2vw, 20px);
-            width: min(300px, calc(100vw - 24px));
-            max-width: calc(100% - 16px);
+            top: var(--map-edge-gap);
+            left: var(--map-edge-gap);
+            width: clamp(280px, 24vw, 420px);
+            max-width: calc(100% - var(--map-edge-gap) - var(--map-edge-gap));
+            max-height: min(44vh, calc(100% - var(--map-edge-gap) - var(--map-edge-gap)));
+            overflow-y: auto;
             background: white;
-            padding: clamp(10px, 2vw, 15px);
-            border-radius: clamp(6px, 1.5vw, 8px);
-            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            padding: clamp(10px, 1.4vw, 18px);
+            border-radius: clamp(6px, 0.9vw, 12px);
+            box-shadow: 0 0 15px rgba(0,0,0,0.18);
             z-index: 1000;
             border-left: clamp(3px, 0.8vw, 5px) solid var(--secondary-color);
             box-sizing: border-box;
@@ -105,12 +110,12 @@
             margin-top: 0;
             margin-bottom: clamp(6px, 1.5vw, 10px);
             color: var(--primary-color);
-            font-size: clamp(0.85rem, 2.5vw, 1.1rem);
+            font-size: clamp(0.9rem, calc(0.62vw + 0.75rem), 1.18rem);
             border-bottom: 1px solid #eee;
             padding-bottom: 5px;
         }
-        .info-row { margin-bottom: clamp(4px, 1vw, 8px); font-size: clamp(0.78rem, 2.2vw, 0.95rem); }
-        .info-label { font-weight: bold; color: #666; width: clamp(72px, 22vw, 95px); display: inline-block; }
+        .info-row { margin-bottom: clamp(4px, 0.8vw, 9px); font-size: clamp(0.8rem, calc(0.45vw + 0.68rem), 0.98rem); }
+        .info-label { font-weight: bold; color: #666; width: clamp(78px, 7vw, 110px); display: inline-block; }
         .info-value { color: var(--primary-color); font-weight: 600; }
         .btn-history {
             display: block;
@@ -123,7 +128,7 @@
             border-radius: 4px;
             cursor: pointer;
             font-weight: bold;
-            font-size: clamp(0.75rem, 2vw, 0.9rem);
+            font-size: clamp(0.78rem, calc(0.4vw + 0.68rem), 0.92rem);
             text-align: center;
             transition: background 0.2s;
         }
@@ -133,56 +138,214 @@
         /* Control Panel (Bottom Center) */
         .control-panel {
             position: absolute;
-            bottom: clamp(10px, 2.5vh, 30px);
+            bottom: var(--map-edge-gap);
             left: 50%;
+            right: auto;
             transform: translateX(-50%);
-            width: min(700px, calc(100% - 16px));
-            max-width: calc(100vw - 16px);
+            width: clamp(240px, 42vw, 520px);
+            max-width: calc(100vw - var(--mini-chat-width) - var(--map-edge-gap) * 4);
             background: rgba(255, 255, 255, 0.95);
-            padding: clamp(8px, 2vw, 15px) clamp(12px, 3vw, 25px);
-            border-radius: clamp(10px, 2.5vw, 15px);
-            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+            padding: clamp(6px, 0.9vw, 10px) clamp(10px, 1.6vw, 16px);
+            border-radius: clamp(8px, 1vw, 12px);
+            box-shadow: 0 3px 14px rgba(0,0,0,0.18);
             z-index: 1000;
             display: flex;
             flex-direction: column;
-            gap: clamp(6px, 1.5vw, 10px);
+            gap: clamp(4px, 0.8vw, 6px);
             border: 1px solid var(--accent-color);
             box-sizing: border-box;
         }
-        .header-info { display: flex; justify-content: space-between; align-items: center; gap: 8px; min-width: 0; }
+        .header-info { display: flex; justify-content: space-between; align-items: center; gap: 6px; min-width: 0; }
         .control-panel .header-info h2 {
             margin: 0;
-            font-size: clamp(0.85rem, 2.5vw, 1.2rem);
+            font-size: clamp(0.78rem, calc(0.5vw + 0.65rem), 0.95rem);
             color: var(--primary-color);
             white-space: nowrap;
         }
         .year-display {
-            font-size: clamp(1rem, 3.5vw, 1.5rem);
+            font-size: clamp(0.88rem, calc(0.65vw + 0.62rem), 1.1rem);
             font-weight: bold;
             color: white;
             background: var(--secondary-color);
-            padding: clamp(3px, 1vw, 5px) clamp(8px, 2.5vw, 15px);
-            border-radius: clamp(6px, 1.5vw, 8px);
-            min-width: clamp(56px, 16vw, 80px);
+            padding: clamp(2px, 0.6vw, 4px) clamp(6px, 1.8vw, 10px);
+            border-radius: clamp(4px, 1vw, 6px);
+            min-width: clamp(44px, 12vw, 60px);
             text-align: center;
             flex-shrink: 0;
         }
-        
+
+        /* Mini Chat Widget */
+        .mini-chat-widget {
+            position: absolute;
+            bottom: var(--map-edge-gap);
+            left: var(--map-edge-gap);
+            right: auto;
+            width: var(--mini-chat-width);
+            height: clamp(400px, 56vh, 680px);
+            min-width: min(320px, calc(100vw - 24px));
+            min-height: 320px;
+            max-width: min(760px, calc(100% - var(--map-edge-gap) - var(--map-edge-gap)));
+            max-height: calc(100% - var(--map-edge-gap) - var(--map-edge-gap));
+            z-index: 1100;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
+            border-radius: 16px;
+            overflow: hidden;
+            resize: both;
+            background: #fff;
+            border: 1px solid rgba(76, 175, 80, 0.2);
+            font-size: 0.92rem;
+        }
+        .mini-chat-header {
+            background: var(--secondary-color);
+            color: white;
+            padding: 12px 14px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 8px;
+            cursor: grab;
+        }
+        .mini-chat-header span { display: inline-flex; align-items: center; gap: 8px; font-weight: 700; }
+        .mini-chat-header .mini-chat-actions {
+            display: inline-flex;
+            gap: 8px;
+            align-items: center;
+        }
+        .mini-chat-close {
+            background: rgba(255,255,255,0.18);
+            border: none;
+            color: white;
+            width: 30px;
+            height: 30px;
+            border-radius: 999px;
+            cursor: pointer;
+            font-size: 1rem;
+            line-height: 1;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .mini-chat-close:hover { background: rgba(255,255,255,0.3); }
+        .mini-chat-body {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+            min-height: 0;
+            background: #fafafa;
+        }
+        .mini-chat-messages {
+            flex: 1;
+            min-height: 0;
+            overflow-y: auto;
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            background: #f7faf6;
+        }
+        .mini-chat-input-area {
+            padding: 10px 12px 12px;
+            background: white;
+            display: flex;
+            gap: 8px;
+            border-top: 1px solid #eee;
+            flex-shrink: 0;
+        }
+        .mini-chat-input {
+            flex: 1;
+            min-width: 0;
+            padding: 10px 12px;
+            border: 1px solid #d4e2d4;
+            border-radius: 999px;
+            outline: none;
+            font-size: 0.95rem;
+        }
+        .mini-chat-input-area .btn-send {
+            flex: 0 0 clamp(44px, 10vw, 54px);
+            min-width: clamp(44px, 10vw, 54px);
+            padding: 0;
+        }
+        .mini-chat-toggle {
+            position: absolute;
+            bottom: var(--map-edge-gap);
+            left: var(--map-edge-gap);
+            right: auto;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: var(--secondary-color);
+            color: white;
+            border: none;
+            box-shadow: 0 10px 22px rgba(0, 0, 0, 0.18);
+            cursor: pointer;
+            display: grid;
+            place-items: center;
+            z-index: 1110;
+        }
+        .mini-chat-widget.closed {
+            display: none;
+        }
+        .mini-chat-bubble {
+            display: none;
+        }
+        .mini-chat-widget.open + .mini-chat-toggle { display: none; }
+        .mini-chat-message { padding: 11px 14px; border-radius: 16px; line-height: 1.5; max-width: 100%; white-space: pre-wrap; word-break: break-word; }
+        .mini-chat-message.user { align-self: flex-end; background: #dcf8c6; color: #1d3a1f; }
+        .mini-chat-message.ai { align-self: flex-start; background: #ffffff; color: #2c3e50; border: 1px solid #dfe7de; }
+        .mini-chat-message.typing-indicator { display: inline-flex; align-items: center; gap: 4px; background: #fff; border: 1px solid #dfe7de; }
+        .mini-chat-message .dot { width: 8px; height: 8px; border-radius: 50%; background: #4caf50; animation: mini-chat-dot 1.2s infinite ease-in-out; }
+        .mini-chat-message .dot:nth-child(2) { animation-delay: 0.2s; }
+        .mini-chat-message .dot:nth-child(3) { animation-delay: 0.4s; }
+        @keyframes mini-chat-dot {
+            0%, 80%, 100% { transform: translateY(0); opacity: 0.35; }
+            40% { transform: translateY(-5px); opacity: 1; }
+        }
+        .btn-send {
+            border: none;
+            background: var(--secondary-color);
+            color: white;
+            padding: 0 16px;
+            border-radius: 999px;
+            cursor: pointer;
+            font-weight: 700;
+            min-width: 72px;
+        }
+        .btn-send:hover { background: #338a3e; }
+
+        @media (max-width: 900px) {
+            .navbar { padding: 0 10px; gap: 8px; }
+            .nav-tabs { flex-wrap: wrap; gap: 6px; justify-content: center; }
+            .nav-item { font-size: clamp(0.74rem, 1.9vw, 0.95rem); padding: 0 clamp(8px, 1.8vw, 12px); }
+            .info-box { width: min(420px, calc(100vw - 24px)); left: 12px; top: 12px; }
+            .control-panel { width: calc(100vw - 24px); max-width: calc(100vw - 24px); bottom: 12px; padding: clamp(9px, 1.6vw, 14px) clamp(12px, 2vw, 18px); }
+            .mini-chat-widget { width: calc(100vw - 24px); height: clamp(360px, 58vh, 560px); left: 12px; right: auto; bottom: 12px; }
+            .mini-chat-toggle { left: 12px; right: auto; bottom: 12px; }
+        }
+        @media (max-width: 640px) {
+            .navbar { height: auto; min-height: 56px; padding: 6px 8px; flex-wrap: wrap; }
+            .nav-tabs { height: auto; flex: 1 1 100%; }
+            .nav-item { height: 38px; font-size: 0.78rem; padding: 0 10px; }
+            .info-box { width: calc(100vw - 20px); left: 10px; top: 10px; }
+            .control-panel { width: calc(100vw - 20px); bottom: 10px; }
+        }
+
         /* Timeline Slider */
         .timeline-container { width: 100%; min-width: 0; }
         input[type=range] {
             width: 100%;
             cursor: pointer;
             accent-color: var(--secondary-color);
-            margin: clamp(4px, 1.5vw, 10px) 0;
-            height: clamp(4px, 1.2vw, 6px);
+            margin: clamp(2px, 0.8vw, 5px) 0;
+            height: clamp(3px, 1vw, 5px);
         }
         .timeline-ticks {
             display: flex;
             justify-content: space-between;
-            font-size: clamp(0.62rem, 1.8vw, 0.8rem);
+            font-size: clamp(0.58rem, 1.3vw, 0.78rem);
             color: #666;
-            padding: 0 clamp(2px, 1vw, 5px);
+            padding: 0 clamp(2px, 0.6vw, 4px);
             gap: 2px;
             overflow: hidden;
         }
@@ -192,9 +355,9 @@
         .layer-controls {
             display: flex;
             flex-wrap: wrap;
-            gap: clamp(6px, 1.5vw, 15px);
-            margin-top: clamp(2px, 0.5vw, 5px);
-            padding-top: clamp(6px, 1.5vw, 10px);
+            gap: clamp(4px, 1vw, 8px);
+            margin-top: 0;
+            padding-top: clamp(4px, 0.8vw, 6px);
             border-top: 1px solid #eee;
             justify-content: center;
         }
@@ -203,20 +366,38 @@
             align-items: center;
             cursor: pointer;
             background: #f0f0f0;
-            padding: clamp(5px, 1.2vw, 8px) clamp(8px, 2vw, 15px);
-            border-radius: 20px;
+            padding: clamp(3px, 0.8vw, 5px) clamp(6px, 1.4vw, 10px);
+            border-radius: 16px;
             color: #555;
-            font-size: clamp(0.7rem, 1.8vw, 0.9rem);
+            font-size: clamp(0.64rem, 1.4vw, 0.78rem);
             transition: all 0.2s;
         }
         .radio-wrapper:hover { background: #e0e0e0; }
         .radio-wrapper.active { background: var(--secondary-color); color: white; }
         .radio-wrapper.disabled { opacity: 0.5; cursor: not-allowed; background: #eee; color: #999; }
-        .radio-wrapper input { margin-right: 8px; }
+        .radio-wrapper input { margin-right: 5px; transform: scale(0.9); }
+
+        .mini-chat-map-context {
+            display: none;
+            align-items: flex-start;
+            gap: 6px;
+            margin: 0 10px;
+            padding: 6px 10px;
+            background: #e8f5e9;
+            border: 1px solid #c8e6c9;
+            border-radius: 8px;
+            font-size: 0.78rem;
+            color: #2e7d32;
+            line-height: 1.35;
+            flex-shrink: 0;
+        }
+        .mini-chat-map-context.visible { display: flex; }
+        .mini-chat-map-context i { color: var(--secondary-color); margin-top: 2px; flex-shrink: 0; }
+        .mini-chat-map-context strong { color: var(--primary-color); }
 
         /* Side Panel (Slide in from right) */
         .history-slide-panel {
-            position: absolute; top: 0; right: -450px; width: 420px; height: 100%;
+            position: absolute; top: 0; right: clamp(-560px, -34vw, -340px); width: clamp(340px, 34vw, 560px); height: 100%;
             background: white; box-shadow: -2px 0 10px rgba(0,0,0,0.1); z-index: 1001; transition: right 0.3s ease;
             display: flex; flex-direction: column;
         }
@@ -362,14 +543,14 @@
 
         /* Timeline Card */
         .timeline-card {
-            background: white; border-radius: 8px; padding: 25px; margin-bottom: 25px;
+            background: white; border-radius: 8px; padding: clamp(16px, 2vw, 28px); margin-bottom: clamp(16px, 2vw, 28px);
             box-shadow: 0 2px 8px rgba(0,0,0,0.05); border-left: 6px solid var(--primary-color);
             position: relative; transition: transform 0.2s;
         }
         .timeline-card:hover { transform: translateY(-2px); box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
-        .timeline-year { font-size: 1.5rem; font-weight: bold; color: var(--primary-color); display: inline-block; margin-bottom: 10px; background: #e8f5e9; padding: 2px 10px; border-radius: 4px; }
-        .timeline-title { font-size: 1.2rem; font-weight: 700; margin-bottom: 10px; color: #222; }
-        .timeline-desc { color: #555; line-height: 1.6; font-size: 1rem; text-align: justify; margin-bottom: 10px; }
+        .timeline-year { font-size: clamp(1.15rem, calc(0.8vw + 0.95rem), 1.6rem); font-weight: bold; color: var(--primary-color); display: inline-block; margin-bottom: 10px; background: #e8f5e9; padding: 2px 10px; border-radius: 4px; }
+        .timeline-title { font-size: clamp(1rem, calc(0.55vw + 0.88rem), 1.25rem); font-weight: 700; margin-bottom: 10px; color: #222; }
+        .timeline-desc { color: #555; line-height: 1.6; font-size: clamp(0.92rem, calc(0.35vw + 0.84rem), 1.05rem); text-align: justify; margin-bottom: 10px; }
         
         .change-list { margin: 10px 0 0 0; padding-left: 20px; background: #f9f9f9; padding: 15px; border-radius: 5px; border: 1px dashed #ddd; }
         .change-list li { margin-bottom: 8px; color: #333; line-height: 1.4; }
@@ -698,16 +879,16 @@
         }
         /* --- MAP UI: màn hình nhỏ --- */
         @media (max-width: 768px) {
-            .info-box { width: min(260px, calc(100vw - 20px)); }
-            .control-panel { width: calc(100% - 12px); }
-            .history-slide-panel { width: min(380px, 92vw); right: calc(-1 * min(380px, 92vw)); }
+            .info-box { width: min(380px, calc(100vw - 20px)); }
+            .control-panel { width: calc(100% - 20px); }
+            .history-slide-panel { width: min(420px, 92vw); right: max(-420px, -92vw); }
             .history-slide-panel.active { right: 0; }
         }
         @media (max-width: 560px) {
             .navbar-brand-text { display: none; }
             .nav-item { padding: 0 10px; font-size: 0; }
             .nav-item i { font-size: 1rem !important; margin-right: 0 !important; }
-            .info-box { width: calc(100vw - 16px); max-width: 280px; }
+            .info-box { width: calc(100vw - 16px); max-width: none; }
             .info-label { display: block; width: auto; margin-bottom: 2px; }
             .control-panel { bottom: 8px; padding: 8px 10px; }
             .layer-controls { gap: 6px; }
@@ -776,6 +957,30 @@
                 </button>
             </div>
 
+            <!-- Mini Chat Widget -->
+            <div id="miniChatWidget" class="mini-chat-widget open">
+                <div class="mini-chat-header">
+                    <span><i class="fas fa-robot"></i> Trợ lý AI</span>
+                    <div class="mini-chat-actions">
+                        <button class="mini-chat-close" onclick="toggleMiniChat(false)">&times;</button>
+                    </div>
+                </div>
+                <div class="mini-chat-body">
+                    <div id="miniChatMapContext" class="mini-chat-map-context" title="Vùng đang chỉ/chọn trên bản đồ — AI hiểu &quot;đây&quot;, &quot;nơi này&quot;">
+                        <i class="fas fa-hand-pointer"></i>
+                        <span id="miniChatMapContextText"></span>
+                    </div>
+                    <div id="miniChatMessages" class="mini-chat-messages">
+                        <div class="mini-chat-message ai">Xin chào! Tôi có thể giải đáp thắc mắc về địa lý và lịch sử của địa phương bạn đang chọn.</div>
+                    </div>
+                    <div class="mini-chat-input-area">
+                        <input type="text" id="miniChatInput" class="mini-chat-input" placeholder="Hỏi AI về tỉnh/thành..." onkeypress="if(event.key==='Enter') sendMiniChatMessage()">
+                        <button class="btn-send" onclick="sendMiniChatMessage()"><i class="fas fa-paper-plane"></i></button>
+                    </div>
+                </div>
+            </div>
+            <button id="miniChatToggle" class="mini-chat-toggle" onclick="toggleMiniChat(true)"><i class="fas fa-robot"></i></button>
+
             <!-- Side Panel (History & GeoData) -->
             <div class="history-slide-panel" id="historySlidePanel">
                 <div class="slide-header">
@@ -829,9 +1034,9 @@
                     <i class="fas fa-redo"></i> Cuộc trò chuyện mới
                 </button>
             </div>
-            <div id="chatMapContext" class="chat-map-context" title="Vùng đang chọn trên tab Bản đồ — AI sẽ hiểu &quot;đây&quot;, &quot;nơi này&quot; là địa phương này">
-                <i class="fas fa-map-pin"></i>
-                <span>Đang chọn trên bản đồ: <strong id="chatMapContextName"></strong> <span id="chatMapContextYear"></span></span>
+            <div id="chatMapContext" class="chat-map-context" title="Vùng đang chỉ/chọn trên tab Bản đồ — AI hiểu &quot;đây&quot;, &quot;nơi này&quot;">
+                <i class="fas fa-map-pin" id="chatMapContextIcon"></i>
+                <span><span id="chatMapContextLabel">Đang chọn trên bản đồ:</span> <strong id="chatMapContextName"></strong> <span id="chatMapContextYear"></span></span>
             </div>
             <div class="chat-messages" id="chatMessages">
                 <div class="message ai">
@@ -1145,10 +1350,17 @@
         map.createPane('wardPane'); map.getPane('wardPane').style.zIndex = 450;
         map.createPane('borderPane'); map.getPane('borderPane').style.zIndex = 500;
         map.createPane('highlightPane'); map.getPane('highlightPane').style.zIndex = 600;
+        map.getContainer().addEventListener('mouseleave', () => {
+            if (hoveredFeature) {
+                hoveredFeature = null;
+                updateMapContextUI();
+            }
+        });
 
         let layers = { province: null, district: null, ward: null, border: null };
         let viewMode = 'province';
         let selectedFeature = null;
+        let hoveredFeature = null;
         let memoryMap = null;
         let memoryProvinceLayer = null;
         let memoryFeatures = [];
@@ -1380,6 +1592,23 @@
                 sticky: true,
                 direction: 'top',
                 opacity: 0.95
+            });
+        }
+
+        function bindMapFeatureEvents(feature, layer, type) {
+            bindMapFeatureTooltip(feature, layer, type);
+            layer.on({
+                mouseover: () => {
+                    hoveredFeature = { feat: feature, type, layer };
+                    updateMapContextUI();
+                },
+                mouseout: () => {
+                    if (hoveredFeature && hoveredFeature.layer === layer) {
+                        hoveredFeature = null;
+                        updateMapContextUI();
+                    }
+                },
+                click: (e) => onFeatureClick(e, feature, layer, type)
             });
         }
 
@@ -1709,10 +1938,7 @@
                     const data = await loadMapData(pEntry.file);
                     layers.province = L.geoJSON(data, {
                         style: styles.province, pane: 'provincePane',
-                        onEachFeature: (f, l) => {
-                            bindMapFeatureTooltip(f, l, 'province');
-                            l.on('click', e => onFeatureClick(e, f, l, 'province'));
-                        }
+                        onEachFeature: (f, l) => bindMapFeatureEvents(f, l, 'province')
                     }).addTo(map);
                     layers.border = L.geoJSON(data, { style: styles.border, pane: 'borderPane' }).addTo(map);
                 }
@@ -1723,10 +1949,7 @@
                         const data = await loadMapData(dEntry.file);
                         layers.district = L.geoJSON(data, {
                             style: styles.district, pane: 'districtPane',
-                            onEachFeature: (f, l) => {
-                                bindMapFeatureTooltip(f, l, 'district');
-                                l.on('click', e => onFeatureClick(e, f, l, 'district'));
-                            }
+                            onEachFeature: (f, l) => bindMapFeatureEvents(f, l, 'district')
                         }).addTo(map);
                     }
                 } else if (viewMode === 'ward') {
@@ -1742,31 +1965,28 @@
                         const data = await loadMapData(wEntry.file);
                         layers.ward = L.geoJSON(data, {
                             style: styles.ward, pane: 'wardPane',
-                            onEachFeature: (f, l) => {
-                                bindMapFeatureTooltip(f, l, 'ward');
-                                l.on('click', e => onFeatureClick(e, f, l, 'ward'));
-                            }
+                            onEachFeature: (f, l) => bindMapFeatureEvents(f, l, 'ward')
                         }).addTo(map);
                     }
                 }
                 if (selectedFeature) resetHighlight();
+                hoveredFeature = null;
+                updateMapContextUI();
             } catch (err) { console.warn("Map Update Error:", err); } 
             finally { document.getElementById('loading').style.display = 'none'; }
         }
 
-        function getMapSelectionContext() {
-            if (!selectedFeature) return null;
-            const props = selectedFeature.feat.properties;
+        function buildMapContextFromFeature(feature, type) {
+            const props = feature.properties;
             const province = getAdminUnit(props, 'province');
             const district = getAdminUnit(props, 'district');
             const ward = getAdminUnit(props, 'ward');
             const year = AVAILABLE_YEARS[document.getElementById('timeline').value];
-            const level = selectedFeature.type;
 
             let displayName = province.name || '';
-            if (level === 'district' && district.name) {
+            if (type === 'district' && district.name) {
                 displayName = [district.name, province.name].filter(Boolean).join(', ');
-            } else if (level === 'ward' && ward.name) {
+            } else if (type === 'ward' && ward.name) {
                 displayName = [ward.name, district.name, province.name].filter(Boolean).join(', ');
             }
 
@@ -1774,7 +1994,7 @@
 
             return {
                 year,
-                level,
+                level: type,
                 display_name: displayName,
                 province: province.name || null,
                 province_type: province.label || null,
@@ -1785,17 +2005,200 @@
             };
         }
 
-        function updateChatMapContextUI() {
-            const bar = document.getElementById('chatMapContext');
-            if (!bar) return;
+        function getMapSelectionContext() {
+            const source = hoveredFeature || selectedFeature;
+            if (!source) return null;
+            const ctx = buildMapContextFromFeature(source.feat, source.type);
+            if (!ctx) return null;
+            ctx.interaction = hoveredFeature ? 'hover' : 'click';
+            return ctx;
+        }
+
+        function updateMapContextUI() {
             const ctx = getMapSelectionContext();
-            if (!ctx) {
-                bar.classList.remove('visible');
-                return;
+            const isHover = ctx && ctx.interaction === 'hover';
+
+            const bar = document.getElementById('chatMapContext');
+            if (bar) {
+                if (!ctx) {
+                    bar.classList.remove('visible');
+                } else {
+                    const labelEl = document.getElementById('chatMapContextLabel');
+                    const iconEl = document.getElementById('chatMapContextIcon');
+                    if (labelEl) labelEl.textContent = isHover ? 'Đang chỉ vào trên bản đồ:' : 'Đang chọn trên bản đồ:';
+                    if (iconEl) iconEl.className = isHover ? 'fas fa-hand-pointer' : 'fas fa-map-pin';
+                    document.getElementById('chatMapContextName').textContent = ctx.display_name;
+                    document.getElementById('chatMapContextYear').textContent = ctx.year ? `(năm ${ctx.year})` : '';
+                    bar.classList.add('visible');
+                }
             }
-            document.getElementById('chatMapContextName').textContent = ctx.display_name;
-            document.getElementById('chatMapContextYear').textContent = ctx.year ? `(năm ${ctx.year})` : '';
-            bar.classList.add('visible');
+
+            const miniBar = document.getElementById('miniChatMapContext');
+            const miniText = document.getElementById('miniChatMapContextText');
+            if (miniBar && miniText) {
+                if (!ctx) {
+                    miniBar.classList.remove('visible');
+                } else {
+                    const yearStr = ctx.year ? ` (năm ${ctx.year})` : '';
+                    miniText.innerHTML = `${isHover ? 'Đang chỉ vào' : 'Đang chọn'}: <strong>${escapeHtml(ctx.display_name)}</strong>${yearStr}`;
+                    miniBar.classList.add('visible');
+                }
+            }
+        }
+
+        function appendChatMessage(message, sender, containerId) {
+            const container = document.getElementById(containerId);
+            if (!container) return;
+            let messageHtml;
+            if (containerId === 'chatMessages') {
+                messageHtml = sender === 'user'
+                    ? `<div class="message user">${escapeHtml(message)}</div>`
+                    : `<div class="message ai">${marked.parse(message)}</div>`;
+            } else {
+                messageHtml = sender === 'user'
+                    ? `<div class="mini-chat-message user">${escapeHtml(message)}</div>`
+                    : `<div class="mini-chat-message ai">${marked.parse(message)}</div>`;
+            }
+            container.innerHTML += messageHtml;
+            container.scrollTop = container.scrollHeight;
+        }
+
+        function appendTypingIndicator(containerId) {
+            const container = document.getElementById(containerId);
+            if (!container) return;
+            const isMainChat = containerId === 'chatMessages';
+            container.innerHTML += isMainChat ? `
+                <div class="message ai typing-indicator" id="typingIndicator-${containerId}">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>` : `
+                <div class="mini-chat-message typing-indicator" id="typingIndicator-${containerId}">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>`;
+            container.scrollTop = container.scrollHeight;
+        }
+
+        function removeTypingIndicator(containerId) {
+            const indicator = document.getElementById(`typingIndicator-${containerId}`);
+            if (indicator) indicator.remove();
+        }
+
+        function toggleMiniChat(open) {
+            const widget = document.getElementById('miniChatWidget');
+            const toggleBtn = document.getElementById('miniChatToggle');
+            if (!widget || !toggleBtn) return;
+            if (open) {
+                widget.classList.remove('closed');
+                widget.classList.add('open');
+                toggleBtn.style.display = 'none';
+                const input = document.getElementById('miniChatInput');
+                if (input) input.focus();
+            } else {
+                widget.classList.add('closed');
+                widget.classList.remove('open');
+                toggleBtn.style.display = 'grid';
+            }
+        }
+
+        async function sendMiniChatMessage() {
+            const input = document.getElementById('miniChatInput');
+            if (!input) return;
+            const msg = input.value.trim();
+            if (!msg) return;
+            input.value = '';
+
+            appendChatMessage(msg, 'user', 'miniChatMessages');
+            appendChatMessage(msg, 'user', 'chatMessages');
+            appendTypingIndicator('miniChatMessages');
+            appendTypingIndicator('chatMessages');
+
+            try {
+                const payload = { message: msg, session_id: sessionId };
+                const mapContext = getMapSelectionContext();
+                if (mapContext) payload.map_context = mapContext;
+                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(payload) });
+                const data = await res.json();
+                removeTypingIndicator('miniChatMessages');
+                removeTypingIndicator('chatMessages');
+                appendChatMessage(data.response, 'ai', 'miniChatMessages');
+                appendChatMessage(data.response, 'ai', 'chatMessages');
+            } catch (e) {
+                removeTypingIndicator('miniChatMessages');
+                removeTypingIndicator('chatMessages');
+                appendChatMessage('Lỗi kết nối.', 'ai', 'miniChatMessages');
+                appendChatMessage('Lỗi kết nối.', 'ai', 'chatMessages');
+            }
+        }
+
+        async function onFullChatResponse(message) {
+            appendChatMessage(message, 'ai', 'chatMessages');
+            const miniContainer = document.getElementById('miniChatMessages');
+            if (miniContainer) appendChatMessage(message, 'ai', 'miniChatMessages');
+        }
+
+        function sendMessage() {
+            const input = document.getElementById('chatInput');
+            const msg = input.value.trim();
+            if (!msg) return;
+            input.value = '';
+            const messagesDiv = document.getElementById('chatMessages');
+            messagesDiv.innerHTML += `<div class="message user">${escapeHtml(msg)}</div>`;
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+
+            const miniMessages = document.getElementById('miniChatMessages');
+            if (miniMessages) miniMessages.innerHTML += `<div class="mini-chat-message user">${escapeHtml(msg)}</div>`;
+            if (miniMessages) miniMessages.scrollTop = miniMessages.scrollHeight;
+
+            const typingHtml = `
+                <div class="message ai typing-indicator" id="typingIndicator">
+                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                </div>`;
+            messagesDiv.innerHTML += typingHtml;
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            if (miniMessages) miniMessages.innerHTML += `<div class="mini-chat-message typing-indicator" id="miniTypingIndicator-miniChatMessages"><div class="dot"></div><div class="dot"></div><div class="dot"></div></div>`;
+            if (miniMessages) miniMessages.scrollTop = miniMessages.scrollHeight;
+
+            (async () => {
+                try {
+                    const payload = { message: msg, session_id: sessionId };
+                    const mapContext = getMapSelectionContext();
+                    if (mapContext) payload.map_context = mapContext;
+                    const res = await fetch('/api/chat', {
+                        method: 'POST',
+                        headers: {'Content-Type': 'application/json'},
+                        body: JSON.stringify(payload)
+                    });
+                    const data = await res.json();
+                    const indicator = document.getElementById('typingIndicator');
+                    if (indicator) indicator.remove();
+                    const miniIndicator = document.getElementById('miniTypingIndicator-miniChatMessages');
+                    if (miniIndicator) miniIndicator.remove();
+                    messagesDiv.innerHTML += `<div class="message ai">${marked.parse(data.response)}</div>`;
+                    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+                    if (miniMessages) {
+                        miniMessages.innerHTML += `<div class="mini-chat-message ai">${marked.parse(data.response)}</div>`;
+                        miniMessages.scrollTop = miniMessages.scrollHeight;
+                    }
+                } catch (e) {
+                    const indicator = document.getElementById('typingIndicator');
+                    if (indicator) indicator.remove();
+                    const miniIndicator = document.getElementById('miniTypingIndicator-miniChatMessages');
+                    if (miniIndicator) miniIndicator.remove();
+                    messagesDiv.innerHTML += `<div class="message ai" style="color:red;">Lỗi kết nối.</div>`;
+                    if (miniMessages) miniMessages.innerHTML += `<div class="mini-chat-message ai" style="color:red;">Lỗi kết nối.</div>`;
+                }
+            })();
+        }
+
+        async function resetChat() {
+            if (!confirm("Xóa lịch sử?")) return;
+            try {
+                sessionId = crypto.randomUUID(); localStorage.setItem('chat_session_id', sessionId);
+                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ session_id: sessionId, reset: true }) });
+                const data = await res.json();
+                document.getElementById('chatMessages').innerHTML = `<div class="message ai">${data.response}</div>`;
+                const miniMessages = document.getElementById('miniChatMessages');
+                if (miniMessages) miniMessages.innerHTML = `<div class="mini-chat-message ai">${escapeHtml(data.response)}</div>`;
+            } catch (e) { alert("Lỗi."); }
         }
 
         function onFeatureClick(e, feature, layer, type) {
@@ -1810,7 +2213,7 @@
                 selectedFeature = { layer: layer, feat: feature, type: type };
                 updateInfoBox(feature.properties);
                 document.getElementById('btnShowHistory').disabled = false;
-                updateChatMapContextUI();
+                updateMapContextUI();
             }
         }
 
@@ -1824,7 +2227,7 @@
             selectedFeature = null;
             document.getElementById('infoContent').innerHTML = '<div style="color: #95a5a6; font-style: italic;">Chọn một điểm trên bản đồ...</div>';
             document.getElementById('btnShowHistory').disabled = true;
-            updateChatMapContextUI();
+            updateMapContextUI();
         }
 
         function updateInfoBox(props) {
@@ -2075,7 +2478,7 @@
             else if (tabName === 'merger') { document.getElementById('tabMerger').classList.add('active'); } 
             else if (tabName === 'chat') {
                 document.getElementById('tabChat').classList.add('active');
-                updateChatMapContextUI();
+                updateMapContextUI();
             }
             else if (tabName === 'memory') {
                 document.getElementById('tabMemory').classList.add('active');
@@ -2083,60 +2486,6 @@
                 setTimeout(() => memoryMap.invalidateSize(), 50);
             }
             document.querySelector(`.nav-item[onclick="switchMainTab('${tabName}')"]`).classList.add('active');
-        }
-
-        async function sendMessage() {
-            const input = document.getElementById('chatInput');
-            const msg = input.value.trim();
-            if (!msg) return;
-
-            const messagesDiv = document.getElementById('chatMessages');
-            // tin nhắn người dùng
-            messagesDiv.innerHTML += `<div class="message user">${msg}</div>`;
-            input.value = '';
-            messagesDiv.scrollTop = messagesDiv.scrollHeight;
-
-        // Thêm hiệu ứng AI đang gõ
-            const typingHtml = `
-                <div class="message ai typing-indicator" id="typingIndicator">
-                    <div class="dot"></div><div class="dot"></div><div class="dot"></div>
-                </div>`;
-            messagesDiv.innerHTML += typingHtml;
-            messagesDiv.scrollTop = messagesDiv.scrollHeight;
-
-            try {
-                const payload = { message: msg, session_id: sessionId };
-                const mapContext = getMapSelectionContext();
-                if (mapContext) payload.map_context = mapContext;
-
-                const res = await fetch('/api/chat', { 
-                    method: 'POST', 
-                    headers: {'Content-Type': 'application/json'}, 
-                    body: JSON.stringify(payload) 
-                });
-                const data = await res.json();
-                //xóa hiệu ứng đang gõ
-                const indicator = document.getElementById('typingIndicator');
-                if (indicator) indicator.remove();
-
-                //Hiển thị kết quả AI trả về
-                messagesDiv.innerHTML += `<div class="message ai">${marked.parse(data.response)}</div>`;
-            } catch (e) { 
-                const indicator = document.getElementById('typingIndicator');
-                if (indicator) indicator.remove();
-                messagesDiv.innerHTML += `<div class="message ai" style="color:red;">Lỗi kết nối.</div>`; 
-            }
-            messagesDiv.scrollTop = messagesDiv.scrollHeight;
-        }
-
-        async function resetChat() {
-            if (!confirm("Xóa lịch sử?")) return;
-            try {
-                sessionId = crypto.randomUUID(); localStorage.setItem('chat_session_id', sessionId);
-                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ session_id: sessionId, reset: true }) });
-                const data = await res.json();
-                document.getElementById('chatMessages').innerHTML = `<div class="message ai">${data.response}</div>`;
-            } catch (e) { alert("Lỗi."); }
         }
 
         initApp();
