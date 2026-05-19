@@ -244,7 +244,34 @@
         .event-tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
         .event-tag { font-size: 0.75rem; background: #eef7ee; color: #477447; padding: 2px 7px; border-radius: 10px; }
         .history-empty { color: #777; font-style: italic; background: #fafafa; border: 1px dashed #ddd; padding: 12px; border-radius: 6px; }
-        
+
+        .local-info-tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+        .local-info-tab {
+            flex: 1 1 auto;
+            border: 1px solid #d7e8d8;
+            background: #fff;
+            color: #456045;
+            padding: 10px 14px;
+            border-radius: 10px;
+            cursor: pointer;
+            font-weight: 700;
+            text-align: center;
+            transition: all 0.2s ease;
+        }
+        .local-info-tab.active {
+            background: var(--secondary-color);
+            color: white;
+            border-color: var(--secondary-color);
+        }
+        .local-info-tab:hover { background: #f0f7ef; }
+        .local-info-tab-panel { display: none; }
+        .local-info-tab-panel.active { display: block; }
+
         .site-item { background: #fffcf5; padding: 15px; border-radius: 8px; margin-bottom: 15px; border-left: 4px solid #ff9800; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
         .site-name { font-weight: bold; color: #e65100; font-size: 1.1rem; margin-bottom: 5px; }
         .site-type { font-size: 0.75rem; color: #fff; background: #ff9800; display: inline-block; padding: 3px 8px; border-radius: 4px; text-transform: uppercase; margin-bottom: 8px; font-weight: bold; }
@@ -1895,6 +1922,17 @@
                 <i class="fas fa-info-circle"></i> <em>Lưu ý: Địa chỉ sự kiện và địa danh dưới đây áp dụng theo địa giới hành chính mốc năm 2008.</em>
             </div>`;
 
+            htmlContent += `
+                <div class="local-info-tabs">
+                    <button class="local-info-tab active" data-tab="historyTab">Sự kiện Lịch sử</button>
+                    <button class="local-info-tab" data-tab="sitesTab">Địa danh & Di tích</button>
+                </div>
+                <div id="historyTab" class="local-info-tab-panel active"></div>
+                <div id="sitesTab" class="local-info-tab-panel"></div>
+            `;
+
+            contentDiv.innerHTML = htmlContent;
+
             let aggregatedEvents = [];
             let aggregatedSites = [];
             let hasData = false;
@@ -1940,14 +1978,19 @@
                     ...HISTORY_TAG_FILTERS.map(filter => `<button class="history-filter-btn" data-history-filter="${filter.key}">${filter.label}</button>`)
                 ].join('');
                 
-                htmlContent += `<div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div>`;
-                htmlContent += `<div class="history-filter-bar">${filterButtons}</div>`;
-                htmlContent += `<div id="historyEventsList">${renderHistoryEvents(aggregatedEvents, sourceProvinces)}</div>`;
+                const historyHtml = `
+                    <div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div>
+                    <div class="history-filter-bar">${filterButtons}</div>
+                    <div id="historyEventsList">${renderHistoryEvents(aggregatedEvents, sourceProvinces)}</div>
+                `;
+                document.getElementById('historyTab').innerHTML = historyHtml;
+            } else {
+                document.getElementById('historyTab').innerHTML = `<div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div><p class="history-empty">Chưa có dữ liệu sự kiện lịch sử cho địa phương này.</p>`;
             }
 
             // RENDER SITES
             if (aggregatedSites.length > 0) {
-                htmlContent += `<div class="section-header"><i class="fas fa-landmark"></i> Địa danh & Di tích</div>`;
+                let sitesHtml = `<div class="section-header"><i class="fas fa-landmark"></i> Địa danh & Di tích</div>`;
                 aggregatedSites.forEach(site => {
                     let typeDisplay = site.type_of_place;
                     if(typeDisplay && typeDisplay.toLowerCase() === 'natural') typeDisplay = "Thiên nhiên";
@@ -1969,7 +2012,7 @@
                     const googleSearchQuery = encodeURIComponent(`${site.name} ${placeParts.join(' ')}`.trim());
                     const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${googleSearchQuery}`;
 
-                    htmlContent += `
+                    sitesHtml += `
                     <div class="site-item">
                         <div class="site-name">${site.name} ${sourceBadge}</div>
                         <div class="site-type">${typeDisplay}</div>
@@ -1980,10 +2023,29 @@
                         </a>
                     </div>`;
                 });
+                document.getElementById('sitesTab').innerHTML = sitesHtml;
+            } else {
+                document.getElementById('sitesTab').innerHTML = `<div class="section-header"><i class="fas fa-landmark"></i> Địa danh & Di tích</div><p class="history-empty">Chưa có dữ liệu địa danh và di tích cho địa phương này.</p>`;
             }
 
-            if (!hasData) htmlContent += `<p style="margin-top:20px; font-style:italic; color:#777;">Chưa có dữ liệu chi tiết cho địa phương này.</p>`;
-            contentDiv.innerHTML = htmlContent;
+            if (!hasData) {
+                const notice = document.createElement('p');
+                notice.style.cssText = 'margin-top:20px; font-style:italic; color:#777;';
+                notice.textContent = 'Chưa có dữ liệu chi tiết cho địa phương này.';
+                document.getElementById('sitesTab').insertAdjacentElement('afterend', notice);
+            }
+
+            // Tab switching for local details
+            contentDiv.querySelectorAll('.local-info-tab').forEach(tabButton => {
+                tabButton.addEventListener('click', () => {
+                    contentDiv.querySelectorAll('.local-info-tab').forEach(btn => btn.classList.remove('active'));
+                    contentDiv.querySelectorAll('.local-info-tab-panel').forEach(panel => panel.classList.remove('active'));
+                    tabButton.classList.add('active');
+                    const targetId = tabButton.dataset.tab;
+                    const targetPanel = document.getElementById(targetId);
+                    if (targetPanel) targetPanel.classList.add('active');
+                });
+            });
 
             const eventsList = document.getElementById('historyEventsList');
             if (eventsList) {
