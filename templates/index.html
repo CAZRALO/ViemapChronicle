@@ -377,6 +377,34 @@
         .radio-wrapper.disabled { opacity: 0.5; cursor: not-allowed; background: #eee; color: #999; }
         .radio-wrapper input { margin-right: 5px; transform: scale(0.9); }
 
+        .guest-en-controls {
+            display: none;
+            justify-content: center;
+            padding-top: 4px;
+            border-top: 1px dashed #e0e0e0;
+        }
+        .btn-guest-en-2025 {
+            border: 1px solid #b2dfdb;
+            background: #e0f2f1;
+            color: #00695c;
+            cursor: pointer;
+            padding: 6px 12px;
+            border-radius: 18px;
+            font-size: clamp(0.62rem, 1.3vw, 0.76rem);
+            font-weight: 700;
+            transition: background 0.2s, border-color 0.2s, color 0.2s;
+            max-width: 100%;
+        }
+        .btn-guest-en-2025:hover {
+            background: #b2dfdb;
+            border-color: #00897b;
+        }
+        .btn-guest-en-2025.active {
+            background: #00897b;
+            border-color: #00695c;
+            color: #fff;
+        }
+
         .mini-chat-map-context {
             display: none;
             align-items: flex-start;
@@ -1014,6 +1042,12 @@
                         <input type="radio" name="viewMode" value="ward"> Xem Xã
                     </label>
                 </div>
+                <div class="guest-en-controls" id="guestEnControls2025" style="display: none;">
+                    <button type="button" id="btnGuestEn2025" class="btn-guest-en-2025" aria-pressed="false"
+                        title="Phiên âm gợi ý tiếng Anh (vui) cho tên tỉnh/thành năm 2025 — chỉ đổi cách hiển thị trên giao diện">
+                        Phiên bản khách nước ngoài (tiếng Anh)
+                    </button>
+                </div>
             </div>
         </div>
 
@@ -1245,10 +1279,10 @@
                     } else {
                         provinces.forEach((provName, index) => {
                             const provId = `merger-prov-${index}`;
-                            tocItemsHtml += `<a href="#${provId}" class="toc-item">${provName}</a>`;
+                            tocItemsHtml += `<a href="#${provId}" class="toc-item"><span class="guest-prov-label" data-vn-prov="${escapeHtml(provName)}">${escapeHtml(provName)}</span></a>`;
 
                             mainContentHtml += `<div id="${provId}" class="merger-province-group">`;
-                            mainContentHtml += `<div class="merger-province-header"><i class="fas fa-map-marked-alt"></i> ${provName}</div>`;
+                            mainContentHtml += `<div class="merger-province-header"><i class="fas fa-map-marked-alt"></i> <span class="guest-prov-label" data-vn-prov="${escapeHtml(provName)}">${escapeHtml(provName)}</span></div>`;
                             
                             const changes = communeData[provName];
                             changes.forEach(change => {
@@ -1271,6 +1305,7 @@
                 mainContentHtml += `</div>`; // End Main Content Wrapper
                 container.innerHTML = sidebarHtml + mainContentHtml;
                 document.getElementById('mergerTOC').innerHTML += tocItemsHtml;
+                refreshGuestLabelsInMergerDom();
 
             } catch (e) {
                 console.error("Merger Tab Error:", e);
@@ -1287,9 +1322,16 @@
             for (let i = 0; i < provGroups.length; i++) {
                 const group = provGroups[i];
                 const header = group.getElementsByClassName('merger-province-header')[0];
-                const headerText = header.textContent || header.innerText;
-                
-                if (headerText.toUpperCase().indexOf(filter) > -1) {
+                const headerText = header ? (header.textContent || header.innerText) : '';
+                const vnSpan = header ? header.querySelector('[data-vn-prov]') : null;
+                const vnProv = vnSpan ? vnSpan.getAttribute('data-vn-prov') : '';
+                let headerMatch = headerText.toUpperCase().indexOf(filter) > -1;
+                if (!headerMatch && vnProv) {
+                    const guest = getProvinceGuestDisplayName(vnProv);
+                    if (guest && guest !== vnProv && guest.toUpperCase().indexOf(filter) > -1) headerMatch = true;
+                }
+
+                if (headerMatch) {
                     group.style.display = "";
                     const cards = group.getElementsByClassName('commune-change-card');
                     for (let j = 0; j < cards.length; j++) cards[j].style.display = "";
@@ -1409,6 +1451,152 @@
                 .replace(/\s+/g, ' ')
                 .trim()
                 .toLowerCase();
+        }
+
+        /** Phiên âm tiếng Anh (khách) cho bản đồ tỉnh 2025 — nguồn: phienamtienganh.txt */
+        let foreignGuestProvinceLabels2025 = false;
+        const PROVINCE_GUEST_EN_2025 = {};
+
+        function registerGuestViToEn(variants, english) {
+            variants.forEach(v => {
+                const k = normalizeMemoryName(v);
+                if (k) PROVINCE_GUEST_EN_2025[k] = english;
+            });
+        }
+
+        function initProvinceGuestEn2025Map() {
+            registerGuestViToEn(['Lai Châu'], 'Lie Chow');
+            registerGuestViToEn(['Lào Cai'], 'Loud Kyle');
+            registerGuestViToEn(['Tuyên Quang'], 'Too-ian Kwang');
+            registerGuestViToEn(['Cao Bằng'], 'Cow (Big) Bang');
+            registerGuestViToEn(['Thái Nguyên'], 'Thai(land) Ngoo-ian');
+            registerGuestViToEn(['Lạng Sơn'], '(S)lang (Con)cern');
+            registerGuestViToEn(['Bắc Ninh'], 'Park (Light)ning');
+            registerGuestViToEn(['Quảng Ninh'], 'Kwang (Run)ning');
+            registerGuestViToEn(['Điện Biên'], 'De-ian Bee-ian');
+            registerGuestViToEn(['Sơn La'], '(Con)cern Lar(ge)');
+            registerGuestViToEn(['Phú Thọ'], 'Fool Thor');
+            registerGuestViToEn(['Hà Nội', 'Thành phố Hà Nội'], 'Ha(vard) Noi(sy)');
+            registerGuestViToEn(['Hải Phòng', 'Thành phố Hải Phòng'], 'Hi Fong');
+            registerGuestViToEn(['Hưng Yên'], 'Hmm yian');
+            registerGuestViToEn(['Ninh Bình'], '(Run)ning (Club)bing');
+            registerGuestViToEn(['Thanh Hóa'], 'Thank Who-are');
+            registerGuestViToEn(['Nghệ An'], '(Lo)ng-ear Ant');
+            registerGuestViToEn(['Hà Tĩnh'], 'Ha(vard) (S)ting');
+            registerGuestViToEn(['Quảng Trị'], 'Kwang Tri(llion)');
+            registerGuestViToEn(['Thừa Thiên Huế', 'Thừa Thiên — Huế', 'Huế'], 'Who-ay');
+            registerGuestViToEn(['Đà Nẵng', 'Thành phố Đà Nẵng'], 'Dar(ling): None');
+            registerGuestViToEn(['Quảng Ngãi'], 'Kwang (Lo)ng-eye');
+            registerGuestViToEn(['Gia Lai'], 'Jar Like');
+            registerGuestViToEn(['Đắk Lắk'], 'Dark Luck');
+            registerGuestViToEn(['Khánh Hòa'], 'Kein(stein) Who-are');
+            registerGuestViToEn(['Lâm Đồng'], '(Curricu)lum dawn');
+            registerGuestViToEn(['Đồng Nai'], 'Dong(le) Nike');
+            registerGuestViToEn(['Tây Ninh'], 'Ta(ble) (run)ning');
+            registerGuestViToEn(['Đồng Tháp'], 'Dong(le) Thaep');
+            registerGuestViToEn(['An Giang'], 'Ant Gen(der)');
+            registerGuestViToEn([
+                'TP. Hồ Chí Minh (Sài Gòn)', 'TP Hồ Chí Minh', 'Thành phố Hồ Chí Minh',
+                'Hồ Chí Minh', 'Sài Gòn', 'TP.HCM', 'TP. HCM', 'Thành phố HCM'
+            ], 'Shy Gone = confident');
+            registerGuestViToEn(['Vĩnh Long'], '(Li)ving Long');
+            registerGuestViToEn(['Cần Thơ', 'Thành phố Cần Thơ'], 'Con(trol) Ther(mal)');
+            registerGuestViToEn(['Cà Mau'], 'Car Moun(tain)');
+            registerGuestViToEn(['Đảo Phú Quốc', 'Phú Quốc'], '"Fool Work" Island');
+            registerGuestViToEn(['Côn Đảo'], '"Call Down" Island');
+            registerGuestViToEn(['Quần đảo Hoàng Sa', 'Hoàng Sa'], 'Hwang (mas)sage (of Vietnam)');
+            registerGuestViToEn(['Quần đảo Trường Sa', 'Trường Sa'], '(play) truant (mas)sage (of Vietnam)');
+        }
+        initProvinceGuestEn2025Map();
+
+        function getProvinceGuestDisplayName(vnName) {
+            if (!vnName) return '';
+            const key = normalizeMemoryName(vnName);
+            return PROVINCE_GUEST_EN_2025[key] || vnName;
+        }
+
+        function shouldShowForeignGuestProvinceLabels() {
+            if (AVAILABLE_YEARS.length === 0) return false;
+            const tl = document.getElementById('timeline');
+            if (!tl) return false;
+            const year = AVAILABLE_YEARS[tl.value];
+            return foreignGuestProvinceLabels2025 && year === 2025 && viewMode === 'province';
+        }
+
+        function refreshMapLayerGuestTooltips() {
+            const pairs = [
+                ['province', 'province'],
+                ['district', 'district'],
+                ['ward', 'ward']
+            ];
+            pairs.forEach(([key, typ]) => {
+                const lyr = layers[key];
+                if (!lyr) return;
+                lyr.eachLayer(layer => {
+                    if (!layer.feature) return;
+                    const html = getMapTooltipContent(layer.feature, typ);
+                    const tip = layer.getTooltip();
+                    if (tip) tip.setContent(html);
+                    else bindMapFeatureTooltip(layer.feature, layer, typ);
+                });
+            });
+        }
+
+        function refreshGuestLabelsInMergerDom() {
+            document.querySelectorAll('.guest-prov-label[data-vn-prov]').forEach(span => {
+                const vn = span.getAttribute('data-vn-prov');
+                if (!vn) return;
+                span.textContent = shouldShowForeignGuestProvinceLabels()
+                    ? getProvinceGuestDisplayName(vn)
+                    : vn;
+            });
+        }
+
+        function refreshSidePanelTitleGuest() {
+            const el = document.getElementById('sidePanelProvTitle');
+            if (!el) return;
+            const vn = el.getAttribute('data-vn-prov');
+            if (!vn) return;
+            el.textContent = shouldShowForeignGuestProvinceLabels()
+                ? getProvinceGuestDisplayName(vn)
+                : vn;
+        }
+
+        function refreshAllGuestEnDisplays() {
+            refreshMapLayerGuestTooltips();
+            refreshGuestLabelsInMergerDom();
+            refreshSidePanelTitleGuest();
+            if (selectedFeature && selectedFeature.type === 'province') {
+                updateInfoBox(selectedFeature.feat.properties);
+            }
+            updateMapContextUI();
+        }
+
+        function syncGuestEnButtonVisibility() {
+            const wrap = document.getElementById('guestEnControls2025');
+            const btn = document.getElementById('btnGuestEn2025');
+            if (!wrap || !btn) return;
+            const year = AVAILABLE_YEARS.length
+                ? AVAILABLE_YEARS[document.getElementById('timeline').value]
+                : null;
+            const showBtn = year === 2025 && viewMode === 'province';
+            wrap.style.display = showBtn ? 'flex' : 'none';
+            if (!showBtn && foreignGuestProvinceLabels2025) {
+                foreignGuestProvinceLabels2025 = false;
+                btn.classList.remove('active');
+                btn.setAttribute('aria-pressed', 'false');
+            }
+            refreshAllGuestEnDisplays();
+        }
+
+        function mapContextDisplayForUi(ctx) {
+            if (!ctx) return '';
+            if (!shouldShowForeignGuestProvinceLabels() || !ctx.province) return ctx.display_name || '';
+            const pGuest = getProvinceGuestDisplayName(ctx.province);
+            if (ctx.level === 'province') return pGuest;
+            if (ctx.level === 'district') return [ctx.district, pGuest].filter(Boolean).join(', ');
+            if (ctx.level === 'ward') return [ctx.ward, ctx.district, pGuest].filter(Boolean).join(', ');
+            return ctx.display_name;
         }
 
         function getFeatureName(feature) {
@@ -1575,7 +1763,11 @@
 
         function getMapTooltipContent(feature, type) {
             const props = feature && feature.properties ? feature.properties : {};
-            const province = getAdminUnit(props, 'province');
+            let province = getAdminUnit(props, 'province');
+            if (shouldShowForeignGuestProvinceLabels() && province.name) {
+                const alt = getProvinceGuestDisplayName(province.name);
+                if (alt !== province.name) province = { ...province, name: alt };
+            }
             const district = getAdminUnit(props, 'district');
             const ward = getAdminUnit(props, 'ward');
             const rows = [];
@@ -1973,7 +2165,10 @@
                 hoveredFeature = null;
                 updateMapContextUI();
             } catch (err) { console.warn("Map Update Error:", err); } 
-            finally { document.getElementById('loading').style.display = 'none'; }
+            finally {
+                document.getElementById('loading').style.display = 'none';
+                syncGuestEnButtonVisibility();
+            }
         }
 
         function buildMapContextFromFeature(feature, type) {
@@ -2027,7 +2222,7 @@
                     const iconEl = document.getElementById('chatMapContextIcon');
                     if (labelEl) labelEl.textContent = isHover ? 'Đang chỉ vào trên bản đồ:' : 'Đang chọn trên bản đồ:';
                     if (iconEl) iconEl.className = isHover ? 'fas fa-hand-pointer' : 'fas fa-map-pin';
-                    document.getElementById('chatMapContextName').textContent = ctx.display_name;
+                    document.getElementById('chatMapContextName').textContent = mapContextDisplayForUi(ctx);
                     document.getElementById('chatMapContextYear').textContent = ctx.year ? `(năm ${ctx.year})` : '';
                     bar.classList.add('visible');
                 }
@@ -2040,7 +2235,7 @@
                     miniBar.classList.remove('visible');
                 } else {
                     const yearStr = ctx.year ? ` (năm ${ctx.year})` : '';
-                    miniText.innerHTML = `${isHover ? 'Đang chỉ vào' : 'Đang chọn'}: <strong>${escapeHtml(ctx.display_name)}</strong>${yearStr}`;
+                    miniText.innerHTML = `${isHover ? 'Đang chỉ vào' : 'Đang chọn'}: <strong>${escapeHtml(mapContextDisplayForUi(ctx))}</strong>${yearStr}`;
                     miniBar.classList.add('visible');
                 }
             }
@@ -2232,7 +2427,11 @@
 
         function updateInfoBox(props) {
             let html = '';
-            const province = getAdminUnit(props, 'province');
+            let province = getAdminUnit(props, 'province');
+            if (shouldShowForeignGuestProvinceLabels() && province.name) {
+                const alt = getProvinceGuestDisplayName(province.name);
+                province = { ...province, name: alt };
+            }
             const district = getAdminUnit(props, 'district');
             const ward = getAdminUnit(props, 'ward');
             const currentYear = AVAILABLE_YEARS[document.getElementById('timeline').value];
@@ -2312,7 +2511,7 @@
             // Get constituent provinces if in 2025+
             const sourceProvinces = getConstituentProvinces(provName, currentYear);
             
-            let htmlContent = `<h2 style="color:var(--primary-color); border-bottom:1px solid #eee; padding-bottom:10px;">${provName}</h2>`;
+            let htmlContent = `<h2 style="color:var(--primary-color); border-bottom:1px solid #eee; padding-bottom:10px;"><span id="sidePanelProvTitle" data-vn-prov="${escapeHtml(provName)}">${escapeHtml(provName)}</span></h2>`;
             
             // Show note if it's a merged province
             if (sourceProvinces.length > 1) {
@@ -2335,6 +2534,7 @@
             `;
 
             contentDiv.innerHTML = htmlContent;
+            refreshSidePanelTitleGuest();
 
             let aggregatedEvents = [];
             let aggregatedSites = [];
@@ -2469,6 +2669,13 @@
 
         document.querySelectorAll('input[name="viewMode"]').forEach(radio => {
             radio.addEventListener('change', function() { if (this.checked) { viewMode = this.value; updateMap(); } });
+        });
+
+        document.getElementById('btnGuestEn2025').addEventListener('click', function () {
+            foreignGuestProvinceLabels2025 = !foreignGuestProvinceLabels2025;
+            this.classList.toggle('active', foreignGuestProvinceLabels2025);
+            this.setAttribute('aria-pressed', foreignGuestProvinceLabels2025 ? 'true' : 'false');
+            refreshAllGuestEnDisplays();
         });
 
         function switchMainTab(tabName) {
