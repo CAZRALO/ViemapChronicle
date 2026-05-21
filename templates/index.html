@@ -36,6 +36,10 @@
                 <i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Ghi nhớ bản đồ
             </div>
         </div>
+        <div class="language-switch" aria-label="Language">
+            <button type="button" id="btnLangVi" class="language-btn active">VI</button>
+            <button type="button" id="btnLangEn" class="language-btn">EN</button>
+        </div>
     </div>
 
     <!-- MAIN CONTENT AREA -->
@@ -44,6 +48,43 @@
         <!-- TAB 1: MAP -->
         <div id="tabMap" class="tab-pane active">
             <div id="map"></div>
+            <div id="comparePanel" class="compare-panel">
+                <div class="compare-header">
+                    <span><i class="fas fa-columns"></i> So sánh năm</span>
+                    <select id="compareYearSelect" class="compare-year-select"></select>
+                    <button type="button" class="icon-btn" onclick="toggleSplitView(false)" title="Tắt so sánh">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div id="compareMap"></div>
+            </div>
+
+            <div class="map-quick-toolbar">
+                <div class="smart-search">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="smartSearchInput" placeholder="Tìm tỉnh, địa danh, tên cũ/mới, English/VN..." autocomplete="off">
+                    <button type="button" class="icon-btn" id="btnClearSearch" title="Xóa tìm kiếm">
+                        <i class="fas fa-times"></i>
+                    </button>
+                    <div id="smartSearchResults" class="smart-search-results"></div>
+                </div>
+                <button type="button" class="toolbar-btn" id="btnBackView" title="Quay lại vị trí/năm/chế độ trước đó" disabled>
+                    <i class="fas fa-rotate-left"></i>
+                </button>
+                <button type="button" class="toolbar-btn" id="btnBookmarkPlace" title="Lưu địa phương đang chọn" disabled>
+                    <i class="fas fa-bookmark"></i>
+                </button>
+                <button type="button" class="toolbar-btn" id="btnQuickPlaces" title="Bookmark và lịch sử gần đây">
+                    <i class="fas fa-clock-rotate-left"></i>
+                </button>
+                <button type="button" class="toolbar-btn" id="btnSplitView" title="So sánh 2 mốc năm song song">
+                    <i class="fas fa-table-columns"></i>
+                </button>
+                <button type="button" class="toolbar-btn" id="btnQuickTour" title="Tour nhanh">
+                    <i class="fas fa-route"></i>
+                </button>
+                <div id="quickPlacesPanel" class="quick-places-panel"></div>
+            </div>
             
             <!-- Info Box -->
             <div class="info-box" id="infoBox">
@@ -84,7 +125,12 @@
             <div class="history-slide-panel" id="historySlidePanel">
                 <div class="slide-header">
                     <h3 style="margin:0; color: var(--primary-color);"><i class="fas fa-file-alt"></i> Thông tin Địa phương</h3>
-                    <button onclick="toggleHistorySlide(false)" style="border:none; background:none; cursor:pointer; font-size:1.5rem; color: #666;">&times;</button>
+                    <div class="slide-actions">
+                        <button type="button" class="panel-action-btn" onclick="exportCurrentReport('json')" title="Xuất JSON"><i class="fas fa-code"></i></button>
+                        <button type="button" class="panel-action-btn" onclick="exportCurrentReport('png')" title="Xuất PNG"><i class="fas fa-image"></i></button>
+                        <button type="button" class="panel-action-btn" onclick="exportCurrentReport('pdf')" title="Xuất PDF"><i class="fas fa-file-pdf"></i></button>
+                        <button onclick="toggleHistorySlide(false)" style="border:none; background:none; cursor:pointer; font-size:1.5rem; color: #666;">&times;</button>
+                    </div>
                 </div>
                 <div id="sidePanelContent" class="slide-content">
                     <p style="text-align:center; color:#7f8c8d; margin-top:20px;">Vui lòng chọn một địa điểm trên bản đồ để tải dữ liệu.</p>
@@ -101,6 +147,7 @@
                     <input type="range" id="timeline" min="0" max="1" step="1">
                     <div class="timeline-ticks" id="timelineTicks"></div>
                 </div>
+                <div id="eventTimeline" class="event-timeline"></div>
                 
                 <div class="layer-controls">
                     <label class="radio-wrapper active" id="lblProvince">
@@ -114,9 +161,9 @@
                     </label>
                 </div>
                 <div class="guest-en-controls" id="guestEnControls2025" style="display: none;">
-                    <button type="button" id="btnGuestEn2025" class="btn-guest-en-2025" aria-pressed="false"
-                        title="Phiên âm gợi ý tiếng Anh (vui) cho tên tỉnh/thành năm 2025 — chỉ đổi cách hiển thị trên giao diện">
-                        Phiên bản khách nước ngoài (tiếng Anh)
+                    <button type="button" id="btnGuestEn2025" class="btn-guest-en-2025" data-label-mode="fun" aria-pressed="false"
+                        title="Phiên âm vui cho tên tỉnh/thành năm 2025 — không dùng như bản dịch chính thức">
+                        Hiện phiên âm tên tỉnh
                     </button>
                 </div>
             </div>
@@ -209,6 +256,20 @@
     <div class="loading-overlay" id="loading">
         <i class="fas fa-spinner fa-spin" style="font-size: 3rem;"></i>
         <div>Đang tải dữ liệu bản đồ...</div>
+    </div>
+    <div id="tourOverlay" class="tour-overlay" aria-hidden="true">
+        <div id="tourSpotlight" class="tour-spotlight"></div>
+        <div id="tourCard" class="tour-card">
+            <div class="tour-step-count" id="tourStepCount"></div>
+            <h3 id="tourTitle"></h3>
+
+            <p id="tourText"></p>
+            <div class="tour-actions">
+                <button type="button" class="tour-btn secondary" id="tourSkipBtn">Bỏ qua</button>
+                <button type="button" class="tour-btn" id="tourPrevBtn">Trước</button>
+                <button type="button" class="tour-btn primary" id="tourNextBtn">Tiếp</button>
+            </div>
+        </div>
     </div>
 
     <!-- MAIN SCRIPT -->

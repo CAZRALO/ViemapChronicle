@@ -3,16 +3,156 @@
         let AVAILABLE_YEARS = [];
         let TIMELINE_DATA = null; // Store merger info
         let sessionId = localStorage.getItem('chat_session_id') || crypto.randomUUID();
+        let currentLang = localStorage.getItem('viemap_lang') || 'vi';
         localStorage.setItem('chat_session_id', sessionId);
+
+        const UI_EN = {
+            navMap: 'Map',
+            navMerger: 'Merger info',
+            navChat: 'AI chatbot',
+            navMemory: 'Map memory',
+            compareYear: 'Compare year',
+            closeCompare: 'Turn off compare',
+            searchPlaceholder: 'Search provinces, landmarks, old/new names, English/Vietnamese...',
+            clearSearch: 'Clear search',
+            backView: 'Back to previous position/year/mode',
+            bookmark: 'Save selected place',
+            quickPlaces: 'Bookmarks and recent places',
+            splitView: 'Compare two years side by side',
+            quickTour: 'Quick tour',
+            placeInfo: 'Place information',
+            choosePlace: 'Select a place on the map to view details.',
+            detailsHistory: 'View details and history',
+            aiAssistant: 'AI assistant',
+            miniContextTitle: 'Area hovered/selected on the map',
+            miniGreeting: 'Hello. I can answer questions about the geography and history of the selected place.',
+            miniPlaceholder: 'Ask AI about a province/city...',
+            localInfo: 'Local information',
+            exportJson: 'Export JSON',
+            exportPng: 'Export PNG',
+            exportPdf: 'Export PDF',
+            chooseForData: 'Select a place on the map to load data.',
+            timeline: 'Timeline',
+            viewProvince: 'Province view',
+            viewDistrict: 'District view',
+            viewWard: 'Commune view',
+            showPronunciation: 'Show province pronunciation',
+            hidePronunciation: 'Hide province pronunciation',
+            mergerLoading: 'Loading merger data...',
+            chatTitle: 'Viemacle AI assistant',
+            newChat: 'New conversation',
+            selectedOnMap: 'Selected on map:',
+            hoveringOnMap: 'Hovering on map:',
+            chatGreeting: 'Hello. I am an AI assistant for Vietnamese history and geography. Ask me a question.',
+            chatPlaceholder: 'Enter your question, for example: What is the history of Quang Nam?',
+            send: 'Send',
+            memoryTitle: 'Map memory',
+            mapDataset: 'Map dataset',
+            findPlace: 'Find the place',
+            pressStart: 'Press start',
+            score: 'Score',
+            points: 'points',
+            round: 'Round',
+            streak: 'Streak',
+            best: 'Best',
+            start: 'Start',
+            hint: 'Hint',
+            skip: 'Skip',
+            reset: 'Reset',
+            memoryFeedbackIdle: 'Choose a data year, then start practicing province/city locations.',
+            noAnswers: 'No answers yet.',
+            noItems: 'No items.',
+            noProvinceMapData: 'No province/city data for the selected year.',
+            loadingMemoryMap: 'Loading memory map...',
+            playing: 'Playing',
+            correct: 'Correct',
+            wrong: 'Wrong',
+            notCorrect: 'Not quite. The answer is',
+            hintShown: 'Hint shown. A correct answer will lose 2 points.',
+            skipped: 'Skipped',
+            complete: 'Complete',
+            gameFinished: 'Finished',
+            pointsOver: 'points over',
+            questions: 'questions',
+            memoryMapIdle: 'Choose a year on the left, then press Start to practice province/city locations.',
+            memoryMapNote: 'Click directly on a province/city on the map to answer.',
+            loadingMap: 'Loading map data...',
+            mergerSearch: 'Search...',
+            tocTitle: 'Contents (by 2025 merger):',
+            provinceTimeline: 'Province/city change history',
+            communeMerger2025: 'Commune-level administrative mergers (2025)',
+            mergerError: 'An error occurred while loading merger data.',
+            noProvinceHistory: 'No province history data yet.',
+            noCommuneMerger: 'No commune merger data yet.',
+            mergeFromUnits: 'Merge:',
+            becomes: 'Into',
+            newUnit: 'New unit:',
+            mergedFrom: 'Merged from:',
+            yearBoundaryNote: 'Note: Event and landmark locations below follow the 2008 administrative boundary dataset.',
+            historyEvents: 'Historical events',
+            landmarks: 'Landmarks and relics',
+            all: 'All',
+            allEventTypes: 'All event types',
+            allAdminLevels: 'All administrative levels',
+            provinceCityLevel: 'Province/city level',
+            districtLevel: 'District level',
+            communeWardLevel: 'Commune/ward level',
+            allRegions: 'All regions',
+            northRegion: 'Northern Vietnam',
+            centralRegion: 'Central Vietnam and Central Highlands',
+            southRegion: 'Southern Vietnam',
+            allPeriods: 'All periods',
+            before1800: 'Before 1800',
+            after1975: 'After 1975',
+            noEventGroup: 'No events in this group.',
+            unknownTime: 'Unknown time',
+            noLocalName: 'Could not identify the local name.',
+            loadingDetails: 'Loading details...',
+            noProvinceName: 'Could not identify the province name.',
+            noHistoryForPlace: 'No historical event data for this place.',
+            noSitesForPlace: 'No landmark and relic data for this place.',
+            noDetailsForPlace: 'No detailed data for this place.',
+            mapYear: 'Map year',
+            sourceProvince: 'Source province',
+            createdAt: 'Created at',
+            noReportPlace: 'No selected place to export.',
+            noData: 'No data.',
+            seeOnGoogleMaps: 'View on Google Maps',
+            typeNatural: 'Natural',
+            typeHistorical: 'Historical',
+            provinceLabel: 'Province/City',
+            districtLabel: 'District',
+            wardLabel: 'Commune/Ward',
+            yearPrefix: 'year',
+            currentlyHover: 'Hovering',
+            currentlySelect: 'Selected',
+            connectionError: 'Connection error.',
+            newConversationStarted: 'Started a new conversation.',
+            noName: 'Unknown name'
+        };
+
+        function isEnglish() {
+            return currentLang === 'en';
+        }
+
+        function tr(key, fallback) {
+            return isEnglish() ? (UI_EN[key] || fallback || key) : (fallback || key);
+        }
+
+        function localizedUrl(url) {
+            const sep = url.includes('?') ? '&' : '?';
+            return `${url}${sep}lang=${encodeURIComponent(currentLang)}`;
+        }
 
         // --- INITIALIZATION ---
         async function initApp() {
             document.getElementById('loading').style.display = 'flex';
             try {
+                applyLanguageToStaticDom();
                 // Fetch Config & Timeline Data in parallel
                 const [configRes, timelineRes] = await Promise.all([
-                    fetch('/api/config'),
-                    fetch('/api/history/timeline_index.json')
+                    fetch(localizedUrl('/api/config')),
+                    fetch(localizedUrl('/api/history/timeline_index.json'))
                 ]);
                 
                 const config = await configRes.json();
@@ -24,13 +164,160 @@
                 }
                 
                 setupTimeline();
+                setupEventTimeline();
+                setupCompareYearOptions();
+                setupQuickMapTools();
                 setupMemoryTab();
                 updateMap();
                 loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
 
             } catch (e) {
                 console.error("Init Error:", e);
-                alert("Không thể kết nối đến máy chủ. Vui lòng thử lại sau.");
+                alert(tr('connectionError', "Không thể kết nối đến máy chủ. Vui lòng thử lại sau."));
+            } finally {
+                document.getElementById('loading').style.display = 'none';
+            }
+        }
+
+        function setText(selector, key, fallback) {
+            const el = document.querySelector(selector);
+            if (el) el.textContent = tr(key, fallback);
+        }
+
+        function setHtml(selector, htmlVi, htmlEn) {
+            const el = document.querySelector(selector);
+            if (el) el.innerHTML = isEnglish() ? htmlEn : htmlVi;
+        }
+
+        function setAttr(selector, attr, key, fallback) {
+            const el = document.querySelector(selector);
+            if (el) el.setAttribute(attr, tr(key, fallback));
+        }
+
+        function setRadioLabel(selector, key, fallback) {
+            const el = document.querySelector(selector);
+            const input = el?.querySelector('input');
+            if (!el || !input) return;
+            input.checked = viewMode === input.value;
+            el.textContent = '';
+            el.appendChild(input);
+            el.append(` ${tr(key, fallback)}`);
+        }
+
+        function applyLanguageToStaticDom() {
+            document.documentElement.lang = currentLang;
+            document.body.classList.toggle('lang-en', isEnglish());
+            document.getElementById('btnLangVi')?.classList.toggle('active', !isEnglish());
+            document.getElementById('btnLangEn')?.classList.toggle('active', isEnglish());
+
+            setHtml(".nav-item[onclick=\"switchMainTab('map')\"]", '<i class="fas fa-globe-asia" style="margin-right:8px"></i> Bản đồ', '<i class="fas fa-globe-asia" style="margin-right:8px"></i> Map');
+            setHtml(".nav-item[onclick=\"switchMainTab('merger')\"]", '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Thông tin Sáp nhập', '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Merger info');
+            setHtml(".nav-item[onclick=\"switchMainTab('chat')\"]", '<i class="fas fa-robot" style="margin-right:8px"></i> Chatbot AI', '<i class="fas fa-robot" style="margin-right:8px"></i> AI chatbot');
+            setHtml(".nav-item[onclick=\"switchMainTab('memory')\"]", '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Ghi nhớ bản đồ', '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Map memory');
+
+            setHtml('.compare-header span', '<i class="fas fa-columns"></i> So sánh năm', '<i class="fas fa-columns"></i> Compare year');
+            setAttr('.compare-header .icon-btn', 'title', 'closeCompare', 'Tắt so sánh');
+            setAttr('#smartSearchInput', 'placeholder', 'searchPlaceholder', 'Tìm tỉnh, địa danh, tên cũ/mới, English/VN...');
+            setAttr('#btnClearSearch', 'title', 'clearSearch', 'Xóa tìm kiếm');
+            setAttr('#btnBackView', 'title', 'backView', 'Quay lại vị trí/năm/chế độ trước đó');
+            setAttr('#btnBookmarkPlace', 'title', 'bookmark', 'Lưu địa phương đang chọn');
+            setAttr('#btnQuickPlaces', 'title', 'quickPlaces', 'Bookmark và lịch sử gần đây');
+            setAttr('#btnSplitView', 'title', 'splitView', 'So sánh 2 mốc năm song song');
+            setAttr('#btnQuickTour', 'title', 'quickTour', 'Tour nhanh');
+            setHtml('#infoBox h3', '<i class="fas fa-map-marker-alt"></i> Thông tin địa điểm', '<i class="fas fa-map-marker-alt"></i> Place information');
+            const infoContent = document.getElementById('infoContent');
+            if (infoContent && !selectedFeature) {
+                infoContent.innerHTML = `<div style="color: #95a5a6; font-style: italic;">${tr('choosePlace', 'Chọn một điểm trên bản đồ để xem thông tin chi tiết.')}</div>`;
+            }
+            setHtml('#btnShowHistory', '<i class="fas fa-info-circle"></i> Xem chi tiết & Lịch sử', '<i class="fas fa-info-circle"></i> View details and history');
+            setHtml('.mini-chat-header span', '<i class="fas fa-robot"></i> Trợ lý AI', '<i class="fas fa-robot"></i> AI assistant');
+            setAttr('#miniChatMapContext', 'title', 'miniContextTitle', 'Vùng đang chỉ/chọn trên bản đồ');
+            setAttr('#miniChatInput', 'placeholder', 'miniPlaceholder', 'Hỏi AI về tỉnh/thành...');
+            const miniMessages = document.getElementById('miniChatMessages');
+            if (miniMessages && miniMessages.children.length <= 1) {
+                miniMessages.innerHTML = `<div class="mini-chat-message ai">${tr('miniGreeting', 'Xin chào! Tôi có thể giải đáp thắc mắc về địa lý và lịch sử của địa phương bạn đang chọn.')}</div>`;
+            }
+            setHtml('.slide-header h3', '<i class="fas fa-file-alt"></i> Thông tin Địa phương', '<i class="fas fa-file-alt"></i> Local information');
+            const sidePanelContent = document.getElementById('sidePanelContent');
+            if (sidePanelContent && !currentDetailReport) {
+                sidePanelContent.innerHTML = `<p style="text-align:center; color:#7f8c8d; margin-top:20px;">${tr('chooseForData', 'Vui lòng chọn một địa điểm trên bản đồ để tải dữ liệu.')}</p>`;
+            }
+            setAttr('.slide-actions .panel-action-btn:nth-child(1)', 'title', 'exportJson', 'Xuất JSON');
+            setAttr('.slide-actions .panel-action-btn:nth-child(2)', 'title', 'exportPng', 'Xuất PNG');
+            setAttr('.slide-actions .panel-action-btn:nth-child(3)', 'title', 'exportPdf', 'Xuất PDF');
+            setText('.header-info h2', 'timeline', 'Dòng thời gian');
+            setRadioLabel('#lblProvince', 'viewProvince', 'Xem Tỉnh');
+            setRadioLabel('#lblDistrict', 'viewDistrict', 'Xem Huyện');
+            setRadioLabel('#lblWard', 'viewWard', 'Xem Xã');
+            setHtml('#tabChat .chat-header h2', '<i class="fas fa-brain"></i> Trợ lý AI Viemacle', '<i class="fas fa-brain"></i> Viemacle AI assistant');
+            setHtml('.btn-new-chat', '<i class="fas fa-redo"></i> Cuộc trò chuyện mới', '<i class="fas fa-redo"></i> New conversation');
+            setText('#chatMapContextLabel', 'selectedOnMap', 'Đang chọn trên bản đồ:');
+            const chatMessages = document.getElementById('chatMessages');
+            if (chatMessages && chatMessages.children.length <= 1) {
+                chatMessages.innerHTML = `<div class="message ai">${tr('chatGreeting', 'Xin chào! Tôi là AI hỗ trợ tìm hiểu về Lịch sử và Địa lý Việt Nam. Hãy đặt câu hỏi cho tôi nhé!')}</div>`;
+            }
+            setAttr('#chatInput', 'placeholder', 'chatPlaceholder', 'Nhập câu hỏi của bạn (VD: Lịch sử tỉnh Quảng Nam?)...');
+            setHtml('#tabChat .chat-input-area .btn-send', '<i class="fas fa-paper-plane"></i> Gửi', '<i class="fas fa-paper-plane"></i> Send');
+            setHtml('.memory-title', '<i class="fas fa-puzzle-piece"></i> Ghi nhớ bản đồ', '<i class="fas fa-puzzle-piece"></i> Map memory');
+            setText('label[for="memoryYearSelect"]', 'mapDataset', 'Bộ bản đồ');
+            setText('.memory-card:nth-of-type(2) .memory-label', 'findPlace', 'Hãy tìm địa phương');
+            setText('.memory-stats .memory-stat:nth-child(1) span', 'score', 'Điểm');
+            setText('.memory-stats .memory-stat:nth-child(2) span', 'round', 'Câu');
+            setText('.memory-stats .memory-stat:nth-child(3) span', 'streak', 'Chuỗi đúng');
+            setText('.memory-stats .memory-stat:nth-child(4) span', 'best', 'Kỷ lục');
+            setHtml('.memory-actions #memoryStartBtn', '<i class="fas fa-play"></i> Bắt đầu', '<i class="fas fa-play"></i> Start');
+            setHtml('.memory-actions #memoryHintBtn', '<i class="fas fa-lightbulb"></i> Gợi ý', '<i class="fas fa-lightbulb"></i> Hint');
+            setHtml('.memory-actions #memorySkipBtn', '<i class="fas fa-forward"></i> Bỏ qua', '<i class="fas fa-forward"></i> Skip');
+            setHtml('.memory-actions button:nth-child(4)', '<i class="fas fa-rotate-left"></i> Làm lại', '<i class="fas fa-rotate-left"></i> Reset');
+            const memoryFeedback = document.getElementById('memoryFeedback');
+            if (memoryFeedback && !memoryGameActive) memoryFeedback.textContent = tr('memoryFeedbackIdle', 'Chọn năm dữ liệu rồi bắt đầu luyện nhớ vị trí tỉnh/thành.');
+            const memoryResults = document.getElementById('memoryResults');
+            if (memoryResults && memoryResults.children.length === 1) {
+                memoryResults.innerHTML = `<div style="color:#8a988a; font-style:italic;">${tr('noAnswers', 'Chưa có lượt trả lời.')}</div>`;
+            }
+            const memoryMapIdle = document.querySelector('#memoryMapIdle p');
+            if (memoryMapIdle) memoryMapIdle.textContent = tr('memoryMapIdle', 'Chọn năm ở cột bên trái, rồi nhấn Bắt đầu để luyện ghi nhớ vị trí tỉnh/thành.');
+            setText('#memoryMapNote', 'memoryMapNote', 'Bấm trực tiếp vào tỉnh/thành trên bản đồ để trả lời.');
+            setText('#btnGuestEn2025', provinceLabelMode2025 === 'fun' ? 'hidePronunciation' : 'showPronunciation', provinceLabelMode2025 === 'fun' ? 'Ẩn phiên âm tên tỉnh' : 'Hiện phiên âm tên tỉnh');
+            setAttr('#btnGuestEn2025', 'title', 'showPronunciation', 'Hiện phiên âm vui cho tên tỉnh/thành năm 2025');
+            const loadingText = document.querySelector('#loading div');
+            if (loadingText) loadingText.textContent = tr('loadingMap', 'Đang tải dữ liệu bản đồ...');
+            syncGuestEnButtonVisibility();
+        }
+
+        async function setLanguage(lang) {
+            const nextLang = lang === 'en' ? 'en' : 'vi';
+            if (currentLang === nextLang) return;
+            currentLang = nextLang;
+            localStorage.setItem('viemap_lang', currentLang);
+            sessionId = crypto.randomUUID();
+            localStorage.setItem('chat_session_id', sessionId);
+            provinceLabelMode2025 = 'vn';
+            localStorage.setItem('province_label_mode_2025', provinceLabelMode2025);
+            const chatMessages = document.getElementById('chatMessages');
+            const miniMessages = document.getElementById('miniChatMessages');
+            if (chatMessages) chatMessages.innerHTML = '';
+            if (miniMessages) miniMessages.innerHTML = '';
+            applyLanguageToStaticDom();
+
+            document.getElementById('loading').style.display = 'flex';
+            try {
+                const [configRes, timelineRes] = await Promise.all([
+                    fetch(localizedUrl('/api/config')),
+                    fetch(localizedUrl('/api/history/timeline_index.json'))
+                ]);
+                const config = await configRes.json();
+                AVAILABLE_YEARS = config.years;
+                DATA_SOURCES = config.files;
+                if (timelineRes.ok) TIMELINE_DATA = await timelineRes.json();
+                setupTimeline();
+                setupEventTimeline();
+                setupCompareYearOptions();
+                setupMemoryTab();
+                await updateMap();
+                loadMergerTab();
+                if (selectedFeature) updateInfoBox(selectedFeature.feat.properties);
+                updateMapContextUI();
             } finally {
                 document.getElementById('loading').style.display = 'none';
             }
@@ -71,20 +358,20 @@
                 // Use cached TIMELINE_DATA if available, else fetch
                 let timelineData = TIMELINE_DATA;
                 if (!timelineData) {
-                    const res = await fetch('/api/history/timeline_index.json');
+                    const res = await fetch(localizedUrl('/api/history/timeline_index.json'));
                     timelineData = await res.json();
                 }
-                const communeRes = await fetch('/api/merger/communes');
+                const communeRes = await fetch(localizedUrl('/api/merger/communes'));
 
                 // 1. SIDEBAR
                 let sidebarHtml = `
                     <div class="merger-sidebar">
                         <div class="search-container">
                             <i class="fas fa-search search-icon"></i>
-                            <input type="text" id="mergerSearch" class="search-bar" placeholder="Tìm kiếm..." onkeyup="filterMergerData()">
+                            <input type="text" id="mergerSearch" class="search-bar" placeholder="${tr('mergerSearch', 'Tìm kiếm...')}" onkeyup="filterMergerData()">
                         </div>
                         <div id="mergerTOC" class="merger-toc">
-                            <div class="toc-title"><i class="fas fa-list-ul"></i> Mục lục (theo lần sáp nhập năm 2025):</div>
+                            <div class="toc-title"><i class="fas fa-list-ul"></i> ${tr('tocTitle', 'Mục lục (theo lần sáp nhập năm 2025):')}</div>
                         </div>
                     </div>
                 `;
@@ -94,10 +381,16 @@
                 let tocItemsHtml = '';
                 
                 // --- SECTION: PROVINCIAL TIMELINE ---
-                mainContentHtml += `<div class="main-section-title"><i class="fas fa-history"></i> Lịch sử Thay đổi Tỉnh/Thành phố</div>`;
+                mainContentHtml += `<div class="main-section-title"><i class="fas fa-history"></i> ${tr('provinceTimeline', 'Lịch sử Thay đổi Tỉnh/Thành phố')}</div>`;
                 
                 if (timelineData && Array.isArray(timelineData) && timelineData.length > 0) {
                     timelineData.forEach(item => {
+                        let typeStr = item.type || '';
+                        const tLower = typeStr.toLowerCase();
+                        const isMerge = tLower.includes('merge') || tLower.includes('nhập');
+                        
+                        if (item.year === 1976 && isMerge) return;
+
                         mainContentHtml += `
                         <div class="timeline-card">
                             <div><span class="timeline-year">${item.year}</span></div>
@@ -118,18 +411,18 @@
                         mainContentHtml += `</div>`;
                     });
                 } else {
-                    mainContentHtml += `<p style="text-align:center; color:#666;">Chưa có dữ liệu lịch sử tỉnh.</p>`;
+                    mainContentHtml += `<p style="text-align:center; color:#666;">${tr('noProvinceHistory', 'Chưa có dữ liệu lịch sử tỉnh.')}</p>`;
                 }
 
                 // --- SECTION: COMMUNE MERGER 2025 ---
-                mainContentHtml += `<div class="main-section-title mt-large"><i class="fas fa-random"></i> Sáp nhập Hành chính Cấp Xã (Năm 2025)</div>`;
+                mainContentHtml += `<div class="main-section-title mt-large"><i class="fas fa-random"></i> ${tr('communeMerger2025', 'Sáp nhập Hành chính Cấp Xã (Năm 2025)')}</div>`;
                 
                 if (communeRes.ok) {
                     const communeData = await communeRes.json();
                     const provinces = Object.keys(communeData).sort((a, b) => a.localeCompare(b, 'vi')); 
                     
                     if (provinces.length === 0) {
-                        mainContentHtml += `<p style="text-align:center; color:#666; font-style:italic;">Chưa có dữ liệu sáp nhập xã.</p>`;
+                        mainContentHtml += `<p style="text-align:center; color:#666; font-style:italic;">${tr('noCommuneMerger', 'Chưa có dữ liệu sáp nhập xã.')}</p>`;
                     } else {
                         provinces.forEach((provName, index) => {
                             const provId = `merger-prov-${index}`;
@@ -141,13 +434,13 @@
                             const changes = communeData[provName];
                             changes.forEach(change => {
                                 mainContentHtml += `<div class="commune-change-card"><div class="change-flow">`;
-                                mainContentHtml += `<div class="unit-group"><div class="unit-label">Sáp nhập:</div>`;
+                                mainContentHtml += `<div class="unit-group"><div class="unit-label">${tr('mergeFromUnits', 'Sáp nhập:')}</div>`;
                                 change.from.forEach(f => {
                                     mainContentHtml += `<div class="unit-badge"><i class="far fa-dot-circle"></i> ${f.commune} <small>(${f.district})</small></div>`;
                                 });
                                 mainContentHtml += `</div>`;
-                                mainContentHtml += `<div class="arrow-section"><div class="arrow-icon"><i class="fas fa-long-arrow-alt-right"></i></div><div class="arrow-text">Thành</div></div>`;
-                                mainContentHtml += `<div class="dest-group"><div class="unit-label">Đơn vị mới:</div>`;
+                                mainContentHtml += `<div class="arrow-section"><div class="arrow-icon"><i class="fas fa-long-arrow-alt-right"></i></div><div class="arrow-text">${tr('becomes', 'Thành')}</div></div>`;
+                                mainContentHtml += `<div class="dest-group"><div class="unit-label">${tr('newUnit', 'Đơn vị mới:')}</div>`;
                                 mainContentHtml += `<div class="dest-badge">${change.to.commune}</div>`;
                                 mainContentHtml += `</div></div></div>`;
                             });
@@ -163,7 +456,7 @@
 
             } catch (e) {
                 console.error("Merger Tab Error:", e);
-                container.innerHTML = `<p style="text-align:center; color:red; padding:20px;">Có lỗi xảy ra khi tải dữ liệu sáp nhập.<br>${e.message}</p>`;
+                container.innerHTML = `<p style="text-align:center; color:red; padding:20px;">${tr('mergerError', 'Có lỗi xảy ra khi tải dữ liệu sáp nhập.')}<br>${e.message}</p>`;
             }
         }
 
@@ -222,12 +515,15 @@
 
             tl.min = 0;
             tl.max = AVAILABLE_YEARS.length - 1;
-            tl.value = 0;
+            
+            let defaultIndex = AVAILABLE_YEARS.indexOf(2025);
+            if (defaultIndex === -1) defaultIndex = AVAILABLE_YEARS.length > 0 ? AVAILABLE_YEARS.length - 1 : 0;
+            tl.value = defaultIndex;
             
             let ticksHtml = '';
             AVAILABLE_YEARS.forEach(y => { ticksHtml += `<span>${y}</span>`; });
             ticks.innerHTML = ticksHtml;
-            display.innerText = AVAILABLE_YEARS[0];
+            display.innerText = AVAILABLE_YEARS[defaultIndex];
         }
 
         const map = L.map('map', { zoomControl: false }).setView([16.047079, 108.206230], 6);
@@ -270,6 +566,64 @@
         let memoryTotalRounds = 10;
         let memoryHintUsed = false;
         const memoryDataCache = {};
+        let compareMap = null;
+        let compareLayers = { province: null, district: null, ward: null, border: null };
+        let splitViewEnabled = false;
+        let suppressViewHistory = false;
+        let viewHistoryStack = [];
+        let searchDebounceTimer = null;
+        let timelineHighlightedLayers = [];
+        let activeTimelineIndex = null;
+        let currentDetailReport = null;
+        let currentTourIndex = 0;
+        const BOOKMARKS_KEY = 'viemap_bookmarks';
+        const RECENT_PLACES_KEY = 'viemap_recent_places';
+        const MAX_RECENT_PLACES = 10;
+        const MAX_VIEW_HISTORY = 12;
+        const PROVINCE_STANDARD_EN_2025 = {};
+        const PROVINCE_REGION_MAP = {};
+        const REGION_PROVINCES = {
+            north: [
+                'Hà Nội', 'Hải Phòng', 'Quảng Ninh', 'Bắc Ninh', 'Hưng Yên', 'Ninh Bình',
+                'Lào Cai', 'Lai Châu', 'Điện Biên', 'Sơn La', 'Phú Thọ', 'Tuyên Quang',
+                'Thái Nguyên', 'Cao Bằng', 'Lạng Sơn'
+            ],
+            central: [
+                'Thanh Hóa', 'Nghệ An', 'Hà Tĩnh', 'Quảng Trị', 'Huế', 'Thừa Thiên Huế',
+                'Đà Nẵng', 'Quảng Ngãi', 'Gia Lai', 'Đắk Lắk', 'Khánh Hòa', 'Lâm Đồng'
+            ],
+            south: [
+                'Đồng Nai', 'Tây Ninh', 'Đồng Tháp', 'An Giang', 'TP. Hồ Chí Minh',
+                'Hồ Chí Minh', 'Vĩnh Long', 'Cần Thơ', 'Cà Mau'
+            ]
+        };
+        const TOUR_STEPS = [
+            {
+                selector: '.smart-search',
+                title: 'Tìm kiếm thông minh',
+                text: 'Gõ không dấu, tên cũ/tên mới, tiếng Anh hoặc tên địa danh để nhảy nhanh tới vùng liên quan.'
+            },
+            {
+                selector: '.control-panel',
+                title: 'Dòng thời gian và chế độ xem',
+                text: 'Đổi năm, cấp hành chính và bấm từng mốc sự kiện để tô sáng vùng có thay đổi địa giới.'
+            },
+            {
+                selector: '#btnSplitView',
+                title: 'So sánh song song',
+                text: 'Bật split view để đặt hai mốc năm cạnh nhau và nhìn rõ thay đổi địa giới.'
+            },
+            {
+                selector: '#infoBox',
+                title: 'Chi tiết địa phương',
+                text: 'Chọn một vùng để xem thông tin, lưu bookmark, mở lịch sử/địa danh và xuất báo cáo nhanh.'
+            },
+            {
+                selector: '#miniChatWidget',
+                title: 'AI có ngữ cảnh bản đồ',
+                text: 'Khi bạn hover hoặc click một vùng, chatbot hiểu các câu hỏi như “ở đây có gì nổi bật?” và trả lời kèm nguồn nội bộ.'
+            }
+        ];
 
         const styles = {
             province: f => ({ fillColor: getColor(f.properties.Name || f.properties.NAME_1), weight: 0, fillOpacity: 0.6, color: 'transparent' }),
@@ -309,6 +663,8 @@
 
         /** Phiên âm tiếng Anh (khách) cho bản đồ tỉnh 2025 — nguồn: phienamtienganh.txt */
         let foreignGuestProvinceLabels2025 = false;
+        let provinceLabelMode2025 = localStorage.getItem('province_label_mode_2025') || 'vn';
+        if (!['vn', 'fun'].includes(provinceLabelMode2025)) provinceLabelMode2025 = 'vn';
         const PROVINCE_GUEST_EN_2025 = {};
 
         function registerGuestViToEn(variants, english) {
@@ -363,10 +719,68 @@
         }
         initProvinceGuestEn2025Map();
 
+        function stripVietnameseAccents(value) {
+            return String(value || '')
+                .normalize('NFD')
+                .replace(/[\u0300-\u036f]/g, '')
+                .replace(/đ/g, 'd').replace(/Đ/g, 'D');
+        }
+
+        function registerStandardEn(variants, english) {
+            variants.forEach(v => {
+                const k = normalizeMemoryName(v);
+                if (k) PROVINCE_STANDARD_EN_2025[k] = english;
+            });
+        }
+
+        function initProvinceStandardEn2025Map() {
+            registerStandardEn(['Hà Nội', 'Thành phố Hà Nội'], 'Hanoi');
+            registerStandardEn(['Hồ Chí Minh', 'TP. Hồ Chí Minh', 'TP HCM', 'Sài Gòn'], 'Ho Chi Minh City');
+            registerStandardEn(['Đà Nẵng', 'Thành phố Đà Nẵng'], 'Da Nang');
+            registerStandardEn(['Huế', 'Thừa Thiên Huế'], 'Hue');
+            registerStandardEn(['Hải Phòng', 'Thành phố Hải Phòng'], 'Hai Phong');
+            registerStandardEn(['Cần Thơ', 'Thành phố Cần Thơ'], 'Can Tho');
+            registerStandardEn(['Bà Rịa - Vũng Tàu', 'Bà Rịa Vũng Tàu'], 'Ba Ria - Vung Tau');
+            registerStandardEn(['Đắk Lắk'], 'Dak Lak');
+            registerStandardEn(['Đắk Nông'], 'Dak Nong');
+            Object.values(REGION_PROVINCES).flat().forEach(name => {
+                const key = normalizeMemoryName(name);
+                if (key && !PROVINCE_STANDARD_EN_2025[key]) {
+                    PROVINCE_STANDARD_EN_2025[key] = stripVietnameseAccents(name);
+                }
+            });
+        }
+        initProvinceStandardEn2025Map();
+
+        function initProvinceRegionMap() {
+            Object.entries(REGION_PROVINCES).forEach(([region, provinces]) => {
+                provinces.forEach(name => {
+                    const key = normalizeMemoryName(name);
+                    if (key) PROVINCE_REGION_MAP[key] = region;
+                });
+            });
+        }
+        initProvinceRegionMap();
+
         function getProvinceGuestDisplayName(vnName) {
             if (!vnName) return '';
             const key = normalizeMemoryName(vnName);
             return PROVINCE_GUEST_EN_2025[key] || vnName;
+        }
+
+        function getProvinceStandardDisplayName(vnName) {
+            if (!vnName) return '';
+            const key = normalizeMemoryName(vnName);
+            return PROVINCE_STANDARD_EN_2025[key] || stripVietnameseAccents(vnName);
+        }
+
+        function getProvinceDisplayName(vnName) {
+            if (!vnName) return '';
+            if (shouldShowForeignGuestProvinceLabels()) {
+                const guest = getProvinceGuestDisplayName(vnName);
+                return guest && guest !== vnName ? `${vnName} (${guest})` : vnName;
+            }
+            return vnName;
         }
 
         function shouldShowForeignGuestProvinceLabels() {
@@ -374,7 +788,11 @@
             const tl = document.getElementById('timeline');
             if (!tl) return false;
             const year = AVAILABLE_YEARS[tl.value];
-            return foreignGuestProvinceLabels2025 && year === 2025 && viewMode === 'province';
+            return isEnglish() && provinceLabelMode2025 === 'fun' && year === 2025 && viewMode === 'province';
+        }
+
+        function shouldShowStandardEnglishProvinceLabels() {
+            return false;
         }
 
         function refreshMapLayerGuestTooltips() {
@@ -400,9 +818,7 @@
             document.querySelectorAll('.guest-prov-label[data-vn-prov]').forEach(span => {
                 const vn = span.getAttribute('data-vn-prov');
                 if (!vn) return;
-                span.textContent = shouldShowForeignGuestProvinceLabels()
-                    ? getProvinceGuestDisplayName(vn)
-                    : vn;
+                span.textContent = getProvinceDisplayName(vn);
             });
         }
 
@@ -411,9 +827,7 @@
             if (!el) return;
             const vn = el.getAttribute('data-vn-prov');
             if (!vn) return;
-            el.textContent = shouldShowForeignGuestProvinceLabels()
-                ? getProvinceGuestDisplayName(vn)
-                : vn;
+            el.textContent = getProvinceDisplayName(vn);
         }
 
         function refreshAllGuestEnDisplays() {
@@ -433,23 +847,26 @@
             const year = AVAILABLE_YEARS.length
                 ? AVAILABLE_YEARS[document.getElementById('timeline').value]
                 : null;
-            const showBtn = year === 2025 && viewMode === 'province';
+            const showBtn = isEnglish() && year === 2025 && viewMode === 'province';
             wrap.style.display = showBtn ? 'flex' : 'none';
-            if (!showBtn && foreignGuestProvinceLabels2025) {
-                foreignGuestProvinceLabels2025 = false;
-                btn.classList.remove('active');
-                btn.setAttribute('aria-pressed', 'false');
+            if (!showBtn && provinceLabelMode2025 !== 'vn') {
+                provinceLabelMode2025 = 'vn';
+                localStorage.setItem('province_label_mode_2025', provinceLabelMode2025);
             }
+            foreignGuestProvinceLabels2025 = provinceLabelMode2025 === 'fun';
+            btn.classList.toggle('active', provinceLabelMode2025 === 'fun');
+            btn.setAttribute('aria-pressed', provinceLabelMode2025 === 'fun' ? 'true' : 'false');
+            btn.textContent = tr(provinceLabelMode2025 === 'fun' ? 'hidePronunciation' : 'showPronunciation', provinceLabelMode2025 === 'fun' ? 'Ẩn phiên âm tên tỉnh' : 'Hiện phiên âm tên tỉnh');
             refreshAllGuestEnDisplays();
         }
 
         function mapContextDisplayForUi(ctx) {
             if (!ctx) return '';
             if (!shouldShowForeignGuestProvinceLabels() || !ctx.province) return ctx.display_name || '';
-            const pGuest = getProvinceGuestDisplayName(ctx.province);
-            if (ctx.level === 'province') return pGuest;
-            if (ctx.level === 'district') return [ctx.district, pGuest].filter(Boolean).join(', ');
-            if (ctx.level === 'ward') return [ctx.ward, ctx.district, pGuest].filter(Boolean).join(', ');
+            const pName = getProvinceDisplayName(ctx.province);
+            if (ctx.level === 'province') return pName;
+            if (ctx.level === 'district') return [ctx.district, pName].filter(Boolean).join(', ');
+            if (ctx.level === 'ward') return [ctx.ward, ctx.district, pName].filter(Boolean).join(', ');
             return ctx.display_name;
         }
 
@@ -467,6 +884,642 @@
                 .replace(/'/g, '&#039;');
         }
 
+        function normalizeSmartText(value) {
+            return stripVietnameseAccents(value)
+                .toLowerCase()
+                .replace(/[^a-z0-9\s]/g, ' ')
+                .replace(/\b(tinh|thanh pho|tp|quan|huyen|thi xa|thi tran|phuong|xa)\b/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim();
+        }
+
+        function smartTextIncludes(text, query) {
+            const haystack = normalizeSmartText(text);
+            const needle = normalizeSmartText(query);
+            if (!needle) return false;
+            return haystack.includes(needle) || needle.split(' ').every(part => part && haystack.includes(part));
+        }
+
+        function getCurrentYear() {
+            if (!AVAILABLE_YEARS.length) return null;
+            const tl = document.getElementById('timeline');
+            return AVAILABLE_YEARS[Number(tl.value || 0)];
+        }
+
+        function getRegionForProvince(provinceName) {
+            return PROVINCE_REGION_MAP[normalizeMemoryName(provinceName)] || '';
+        }
+
+        function getSourceMeta(source, fallbackLabel) {
+            if (!source || typeof source !== 'object') {
+                return {
+                    label: fallbackLabel || 'Dữ liệu nội bộ',
+                    url: '#',
+                    confidence: 'Nội bộ - cần đối chiếu',
+                    updated_at: null
+                };
+            }
+            return {
+                label: source.label || fallbackLabel || 'Dữ liệu nội bộ',
+                url: source.url || '#',
+                confidence: source.confidence || 'Nội bộ - cần đối chiếu',
+                updated_at: source.updated_at || null
+            };
+        }
+
+        function renderSourcePills(meta) {
+            const source = getSourceMeta(meta);
+            const updated = source.updated_at || 'chưa rõ';
+            const href = source.url || '#';
+            return `
+                <span class="source-pill"><i class="fas fa-shield-halved"></i> ${escapeHtml(source.confidence)}</span>
+                <a class="source-pill" href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer"><i class="fas fa-link"></i> ${escapeHtml(source.label)}</a>
+                <span class="source-pill"><i class="fas fa-calendar-check"></i> ${escapeHtml(updated)}</span>
+            `;
+        }
+
+        function getStoredList(key) {
+            try {
+                const value = JSON.parse(localStorage.getItem(key) || '[]');
+                return Array.isArray(value) ? value : [];
+            } catch (e) {
+                return [];
+            }
+        }
+
+        function setStoredList(key, value) {
+            localStorage.setItem(key, JSON.stringify(value));
+        }
+
+        function placeKey(place) {
+            return [
+                normalizeMemoryName(place.display_name || place.name),
+                place.year,
+                place.level,
+                normalizeMemoryName(place.province || ''),
+                normalizeMemoryName(place.district || ''),
+                normalizeMemoryName(place.ward || '')
+            ].join('|');
+        }
+
+        function placeFromContext(ctx) {
+            if (!ctx) return null;
+            return {
+                display_name: ctx.display_name,
+                province: ctx.province,
+                district: ctx.district,
+                ward: ctx.ward,
+                level: ctx.level,
+                year: ctx.year,
+                saved_at: new Date().toISOString()
+            };
+        }
+
+        function addRecentPlace(ctx) {
+            const place = placeFromContext(ctx);
+            if (!place) return;
+            const key = placeKey(place);
+            const list = getStoredList(RECENT_PLACES_KEY).filter(item => placeKey(item) !== key);
+            list.unshift(place);
+            setStoredList(RECENT_PLACES_KEY, list.slice(0, MAX_RECENT_PLACES));
+            renderQuickPlacesPanel();
+        }
+
+        function saveCurrentBookmark() {
+            const ctx = getMapSelectionContext();
+            if (!ctx) return;
+            const place = placeFromContext(ctx);
+            const key = placeKey(place);
+            const list = getStoredList(BOOKMARKS_KEY).filter(item => placeKey(item) !== key);
+            list.unshift(place);
+            setStoredList(BOOKMARKS_KEY, list);
+            renderQuickPlacesPanel(true);
+        }
+
+        function removeBookmark(key) {
+            setStoredList(BOOKMARKS_KEY, getStoredList(BOOKMARKS_KEY).filter(item => placeKey(item) !== key));
+            renderQuickPlacesPanel(true);
+        }
+
+        function renderPlaceRows(items, removable = false) {
+            if (!items.length) return `<div class="history-empty">${tr('noItems', 'Chưa có mục nào.')}</div>`;
+            return items.map(item => {
+                const name = escapeHtml(item.display_name || item.name || 'Không rõ tên');
+                const meta = `${item.year || ''} · ${item.level || 'province'}`;
+                const key = escapeHtml(placeKey(item));
+                return `
+                    <div class="quick-place-row">
+                        <div class="quick-place-main" data-place-key="${key}">
+                            <div class="quick-place-name">${name}</div>
+                            <div class="quick-place-meta">${escapeHtml(meta)}</div>
+                        </div>
+                        ${removable ? `<button type="button" class="quick-place-remove" data-remove-key="${key}" title="Xóa bookmark"><i class="fas fa-times"></i></button>` : ''}
+                    </div>`;
+            }).join('');
+        }
+
+        function renderQuickPlacesPanel(forceOpen = false) {
+            const panel = document.getElementById('quickPlacesPanel');
+            if (!panel) return;
+            const bookmarks = getStoredList(BOOKMARKS_KEY);
+            const recent = getStoredList(RECENT_PLACES_KEY);
+            panel.innerHTML = `
+                <div class="quick-section-title"><i class="fas fa-bookmark"></i> Địa phương yêu thích</div>
+                ${renderPlaceRows(bookmarks, true)}
+                <div class="quick-section-title"><i class="fas fa-clock-rotate-left"></i> Truy cập gần đây</div>
+                ${renderPlaceRows(recent, false)}
+            `;
+            panel.querySelectorAll('.quick-place-main').forEach(row => {
+                row.addEventListener('click', () => {
+                    const allPlaces = [...bookmarks, ...recent];
+                    const target = allPlaces.find(item => placeKey(item) === row.dataset.placeKey);
+                    if (target) restorePlace(target);
+                });
+            });
+            panel.querySelectorAll('[data-remove-key]').forEach(btn => {
+                btn.addEventListener('click', e => {
+                    e.stopPropagation();
+                    removeBookmark(btn.dataset.removeKey);
+                });
+            });
+            if (forceOpen) panel.classList.add('visible');
+        }
+
+        function toggleQuickPlacesPanel() {
+            const panel = document.getElementById('quickPlacesPanel');
+            if (!panel) return;
+            renderQuickPlacesPanel();
+            panel.classList.toggle('visible');
+        }
+
+        function captureViewState() {
+            const tl = document.getElementById('timeline');
+            const ctx = selectedFeature ? buildMapContextFromFeature(selectedFeature.feat, selectedFeature.type) : null;
+            return {
+                center: map.getCenter(),
+                zoom: map.getZoom(),
+                yearIndex: Number(tl ? tl.value : 0),
+                viewMode,
+                selectedContext: ctx
+            };
+        }
+
+        function pushViewState() {
+            if (suppressViewHistory || !AVAILABLE_YEARS.length) return;
+            viewHistoryStack.push(captureViewState());
+            if (viewHistoryStack.length > MAX_VIEW_HISTORY) viewHistoryStack.shift();
+            updateBackButtonState();
+        }
+
+        function updateBackButtonState() {
+            const btn = document.getElementById('btnBackView');
+            if (btn) btn.disabled = viewHistoryStack.length === 0;
+        }
+
+        async function restorePreviousView() {
+            const state = viewHistoryStack.pop();
+            if (!state) return;
+            suppressViewHistory = true;
+            try {
+                const tl = document.getElementById('timeline');
+                if (tl) {
+                    tl.value = state.yearIndex;
+                    document.getElementById('yearValue').innerText = AVAILABLE_YEARS[state.yearIndex] || '';
+                }
+                viewMode = state.viewMode || 'province';
+                const input = document.querySelector(`input[value="${viewMode}"]`);
+                if (input) input.checked = true;
+                await updateMap();
+                map.setView(state.center, state.zoom);
+                if (state.selectedContext) {
+                    await focusContextOnMap(state.selectedContext, { openPanel: false, addRecent: false });
+                }
+            } finally {
+                suppressViewHistory = false;
+                updateBackButtonState();
+            }
+        }
+
+        function setupQuickMapTools() {
+            const searchInput = document.getElementById('smartSearchInput');
+            const clearBtn = document.getElementById('btnClearSearch');
+            if (searchInput) {
+                searchInput.addEventListener('input', () => {
+                    clearTimeout(searchDebounceTimer);
+                    searchDebounceTimer = setTimeout(() => runSmartSearch(searchInput.value), 180);
+                });
+                searchInput.addEventListener('focus', () => {
+                    if (searchInput.value.trim()) runSmartSearch(searchInput.value);
+                });
+            }
+            if (clearBtn) {
+                clearBtn.addEventListener('click', () => {
+                    searchInput.value = '';
+                    renderSmartSearchResults([]);
+                });
+            }
+            document.getElementById('btnBackView')?.addEventListener('click', restorePreviousView);
+            document.getElementById('btnBookmarkPlace')?.addEventListener('click', saveCurrentBookmark);
+            document.getElementById('btnQuickPlaces')?.addEventListener('click', toggleQuickPlacesPanel);
+            document.getElementById('btnSplitView')?.addEventListener('click', () => toggleSplitView());
+            document.getElementById('btnQuickTour')?.addEventListener('click', startQuickTour);
+            document.addEventListener('click', e => {
+                const toolbar = document.querySelector('.map-quick-toolbar');
+                if (!toolbar || toolbar.contains(e.target)) return;
+                document.getElementById('smartSearchResults')?.classList.remove('visible');
+                document.getElementById('quickPlacesPanel')?.classList.remove('visible');
+            });
+            renderQuickPlacesPanel();
+            updateBackButtonState();
+        }
+
+        function getFeatureSearchBlob(feature, type) {
+            const props = feature.properties || {};
+            const province = getAdminUnit(props, 'province');
+            const district = getAdminUnit(props, 'district');
+            const ward = getAdminUnit(props, 'ward');
+            const pieces = [
+                province.name,
+                district.name,
+                ward.name,
+                province.label,
+                district.label,
+                ward.label,
+                getProvinceStandardDisplayName(province.name),
+                getProvinceGuestDisplayName(province.name)
+            ];
+            if (type === 'province') pieces.push(getConstituentProvinces(province.name, getCurrentYear()).join(' '));
+            return pieces.filter(Boolean).join(' ');
+        }
+
+        function collectLayerSearchResults(query) {
+            const layerOrder = ['province', 'district', 'ward'];
+            const results = [];
+            layerOrder.forEach(type => {
+                const layerGroup = layers[type];
+                if (!layerGroup) return;
+                layerGroup.eachLayer(layer => {
+                    if (!layer.feature || !smartTextIncludes(getFeatureSearchBlob(layer.feature, type), query)) return;
+                    const ctx = buildMapContextFromFeature(layer.feature, type);
+                    if (!ctx) return;
+                    results.push({
+                        title: mapContextDisplayForUi(ctx) || ctx.display_name,
+                        kind: 'map_feature',
+                        kind_label: type === 'province' ? 'Bản đồ tỉnh/thành' : type === 'district' ? 'Bản đồ huyện/quận' : 'Bản đồ xã/phường',
+                        province: ctx.province,
+                        district: ctx.district,
+                        commune: ctx.ward,
+                        year: ctx.year,
+                        context: ctx,
+                        score: 100
+                    });
+                });
+            });
+            return results.slice(0, 8);
+        }
+
+        async function runSmartSearch(query) {
+            const q = query.trim();
+            if (!q) {
+                renderSmartSearchResults([]);
+                return;
+            }
+            const localResults = collectLayerSearchResults(q);
+            let remoteResults = [];
+            try {
+                const res = await fetch(`/api/search?q=${encodeURIComponent(q)}&limit=8&lang=${encodeURIComponent(currentLang)}`);
+                if (res.ok) {
+                    const data = await res.json();
+                    remoteResults = Array.isArray(data.results) ? data.results : [];
+                }
+            } catch (e) {
+                console.warn('Search API error', e);
+            }
+            const seen = new Set();
+            const merged = [...localResults, ...remoteResults].filter(item => {
+                const key = [item.kind, item.title, item.province, item.district, item.commune, item.year].map(normalizeSmartText).join('|');
+                if (seen.has(key)) return false;
+                seen.add(key);
+                return true;
+            }).slice(0, 12);
+            renderSmartSearchResults(merged);
+        }
+
+        function renderSmartSearchResults(results) {
+            const box = document.getElementById('smartSearchResults');
+            if (!box) return;
+            if (!results.length) {
+                box.innerHTML = '';
+                box.classList.remove('visible');
+                return;
+            }
+            box.innerHTML = results.map((item, idx) => {
+                const metaParts = [item.kind_label, item.year ? `${tr('yearPrefix', 'năm')} ${item.year}` : '', item.province].filter(Boolean);
+                const icon = item.kind === 'geo_site' ? 'fa-landmark' : item.kind === 'history_event' ? 'fa-scroll' : item.kind === 'province_admin_change' ? 'fa-timeline' : 'fa-map-location-dot';
+                return `
+                    <button type="button" class="search-result-item" data-search-index="${idx}">
+                        <div class="search-result-title"><span><i class="fas ${icon}"></i> ${escapeHtml(item.title || tr('noName', 'Không rõ tên'))}</span><small>${Math.round(item.score || 0)}</small></div>
+                        <div class="search-result-meta">${escapeHtml(metaParts.join(' · '))}</div>
+                    </button>`;
+            }).join('');
+            box.querySelectorAll('[data-search-index]').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    const item = results[Number(btn.dataset.searchIndex)];
+                    selectSearchResult(item);
+                });
+            });
+            box.classList.add('visible');
+        }
+
+        async function selectSearchResult(item) {
+            document.getElementById('smartSearchResults')?.classList.remove('visible');
+            const input = document.getElementById('smartSearchInput');
+            if (input) input.value = item.title || '';
+            if (item.context) {
+                await focusContextOnMap(item.context, { openPanel: false, addRecent: true });
+                return;
+            }
+            const ctx = {
+                year: item.year || getCurrentYear(),
+                level: item.commune ? 'ward' : item.district ? 'district' : 'province',
+                display_name: [item.commune, item.district, item.province].filter(Boolean).join(', ') || item.title,
+                province: item.province || item.title,
+                district: item.district || null,
+                ward: item.commune || null
+            };
+            await focusContextOnMap(ctx, { openPanel: false, addRecent: true });
+        }
+
+        async function restorePlace(place) {
+            await focusContextOnMap(place, { openPanel: false, addRecent: true });
+            document.getElementById('quickPlacesPanel')?.classList.remove('visible');
+        }
+
+        function setViewMode(mode) {
+            viewMode = mode || 'province';
+            const input = document.querySelector(`input[value="${viewMode}"]`);
+            if (input) input.checked = true;
+        }
+
+        async function focusContextOnMap(ctx, options = {}) {
+            if (!ctx) return false;
+            const year = Number(ctx.year || getCurrentYear());
+            const yearIndex = AVAILABLE_YEARS.indexOf(year);
+            const targetMode = ctx.level || (ctx.ward ? 'ward' : ctx.district ? 'district' : 'province');
+            const tl = document.getElementById('timeline');
+            const needsMapUpdate = (yearIndex >= 0 && Number(tl.value) !== yearIndex) || viewMode !== targetMode;
+            if (needsMapUpdate) {
+                if (!options.skipHistory) pushViewState();
+                if (yearIndex >= 0) {
+                    tl.value = yearIndex;
+                    document.getElementById('yearValue').innerText = AVAILABLE_YEARS[yearIndex];
+                }
+                setViewMode(targetMode);
+                await updateMap();
+            }
+            const matched = findLayerByContext(ctx, targetMode) || findLayerByContext(ctx, 'province');
+            if (!matched) return false;
+            resetHighlight();
+            matched.layer.setStyle(styles.high);
+            if (matched.layer.bringToFront) matched.layer.bringToFront();
+            selectedFeature = { layer: matched.layer, feat: matched.layer.feature, type: matched.type };
+            updateInfoBox(matched.layer.feature.properties);
+            document.getElementById('btnShowHistory').disabled = false;
+            document.getElementById('btnBookmarkPlace').disabled = false;
+            updateMapContextUI();
+            if (matched.layer.getBounds && matched.layer.getBounds().isValid()) {
+                map.fitBounds(matched.layer.getBounds(), { padding: [40, 40], maxZoom: matched.type === 'province' ? 8 : 11 });
+            }
+            const selectedCtx = buildMapContextFromFeature(matched.layer.feature, matched.type);
+            if (options.addRecent !== false) addRecentPlace(selectedCtx);
+            if (options.openPanel) document.getElementById('btnShowHistory').click();
+            return true;
+        }
+
+        function findLayerByContext(ctx, preferredType) {
+            const order = preferredType ? [preferredType, 'ward', 'district', 'province'] : ['ward', 'district', 'province'];
+            const uniqueOrder = [...new Set(order)];
+            for (const type of uniqueOrder) {
+                const group = layers[type];
+                if (!group) continue;
+                let match = null;
+                group.eachLayer(layer => {
+                    if (match || !layer.feature) return;
+                    if (featureMatchesContext(layer.feature, type, ctx)) match = { layer, type };
+                });
+                if (match) return match;
+            }
+            return null;
+        }
+
+        function featureMatchesContext(feature, type, ctx) {
+            const props = feature.properties || {};
+            const province = getAdminUnit(props, 'province').name;
+            const district = getAdminUnit(props, 'district').name;
+            const ward = getAdminUnit(props, 'ward').name;
+            const provinceOk = !ctx.province || normalizeMemoryName(province) === normalizeMemoryName(ctx.province) || smartTextIncludes(province, ctx.province);
+            const districtOk = !ctx.district || normalizeMemoryName(district) === normalizeMemoryName(ctx.district) || smartTextIncludes(district, ctx.district);
+            const wardOk = !ctx.ward || normalizeMemoryName(ward) === normalizeMemoryName(ctx.ward) || smartTextIncludes(ward, ctx.ward);
+            if (type === 'province') return provinceOk;
+            if (type === 'district') return provinceOk && districtOk;
+            return provinceOk && districtOk && wardOk;
+        }
+
+        function setupCompareYearOptions() {
+            const select = document.getElementById('compareYearSelect');
+            if (!select) return;
+            select.innerHTML = AVAILABLE_YEARS.map(year => `<option value="${year}">${year}</option>`).join('');
+            if (AVAILABLE_YEARS.length > 1) select.value = AVAILABLE_YEARS[AVAILABLE_YEARS.length - 1];
+            select.addEventListener('change', updateCompareMap);
+        }
+
+        function ensureCompareMap() {
+            if (compareMap) return;
+            compareMap = L.map('compareMap', { zoomControl: false }).setView(map.getCenter(), map.getZoom());
+            L.tileLayer('http://mt0.google.com/vt/lyrs=y&hl=vi&x={x}&y={y}&z={z}', {
+                maxZoom: 21,
+                attribution: 'Map data &copy; Google',
+                crossOrigin: true
+            }).addTo(compareMap);
+            L.control.scale({metric: true, imperial: false, position: 'bottomright'}).addTo(compareMap);
+            compareMap.createPane('compareProvincePane'); compareMap.getPane('compareProvincePane').style.zIndex = 350;
+            compareMap.createPane('compareDistrictPane'); compareMap.getPane('compareDistrictPane').style.zIndex = 400;
+            compareMap.createPane('compareWardPane'); compareMap.getPane('compareWardPane').style.zIndex = 450;
+            compareMap.createPane('compareBorderPane'); compareMap.getPane('compareBorderPane').style.zIndex = 500;
+            let syncing = false;
+            map.on('moveend zoomend', () => {
+                if (!splitViewEnabled || syncing) return;
+                syncing = true;
+                compareMap.setView(map.getCenter(), map.getZoom(), { animate: false });
+                syncing = false;
+            });
+            compareMap.on('moveend zoomend', () => {
+                if (!splitViewEnabled || syncing) return;
+                syncing = true;
+                map.setView(compareMap.getCenter(), compareMap.getZoom(), { animate: false });
+                syncing = false;
+            });
+        }
+
+        async function toggleSplitView(force) {
+            splitViewEnabled = typeof force === 'boolean' ? force : !splitViewEnabled;
+            const tab = document.getElementById('tabMap');
+            const panel = document.getElementById('comparePanel');
+            const btn = document.getElementById('btnSplitView');
+            tab.classList.toggle('split-mode', splitViewEnabled);
+            panel.classList.toggle('active', splitViewEnabled);
+            btn.classList.toggle('active', splitViewEnabled);
+            map.invalidateSize();
+            if (splitViewEnabled) {
+                ensureCompareMap();
+                setTimeout(() => {
+                    compareMap.invalidateSize();
+                    compareMap.setView(map.getCenter(), map.getZoom(), { animate: false });
+                }, 80);
+                await updateCompareMap();
+            }
+        }
+
+        function clearCompareLayers() {
+            Object.keys(compareLayers).forEach(key => {
+                if (compareLayers[key]) compareMap.removeLayer(compareLayers[key]);
+                compareLayers[key] = null;
+            });
+        }
+
+        async function updateCompareMap() {
+            if (!splitViewEnabled || !compareMap) return;
+            const year = Number(document.getElementById('compareYearSelect').value || getCurrentYear());
+            clearCompareLayers();
+            const pEntry = DATA_SOURCES.province.find(x => x.year === year);
+            if (pEntry) {
+                const data = await loadMapData(pEntry.file);
+                compareLayers.province = L.geoJSON(data, {
+                    style: styles.province,
+                    pane: 'compareProvincePane',
+                    onEachFeature: (f, l) => bindMapFeatureTooltip(f, l, 'province')
+                }).addTo(compareMap);
+                compareLayers.border = L.geoJSON(data, { style: styles.border, pane: 'compareBorderPane' }).addTo(compareMap);
+            }
+            if (viewMode === 'district') {
+                const dEntry = DATA_SOURCES.district.find(x => x.year === year);
+                if (dEntry) {
+                    const data = await loadMapData(dEntry.file);
+                    compareLayers.district = L.geoJSON(data, { style: styles.district, pane: 'compareDistrictPane' }).addTo(compareMap);
+                }
+            } else if (viewMode === 'ward') {
+                const wEntry = DATA_SOURCES.ward.find(x => x.year === year);
+                if (wEntry) {
+                    const data = await loadMapData(wEntry.file);
+                    compareLayers.ward = L.geoJSON(data, { style: styles.ward, pane: 'compareWardPane' }).addTo(compareMap);
+                }
+            }
+            compareMap.setView(map.getCenter(), map.getZoom(), { animate: false });
+        }
+
+        function setupEventTimeline() {
+            const container = document.getElementById('eventTimeline');
+            if (!container || !Array.isArray(TIMELINE_DATA)) return;
+            
+            let html = '';
+            TIMELINE_DATA.forEach((item, idx) => {
+                let typeStr = item.type || '';
+                const tLower = typeStr.toLowerCase();
+                const isMerge = tLower.includes('merge') || tLower.includes('nhập');
+                const isSplit = tLower.includes('split') || tLower.includes('tách');
+
+                if (item.year === 1976 && isMerge) return;
+
+                if (isEnglish()) {
+                    if (isMerge) typeStr = 'merge';
+                    else if (isSplit) typeStr = 'split';
+                } else {
+                    if (isMerge) typeStr = 'nhập';
+                    else if (isSplit) typeStr = 'tách';
+                }
+
+                html += `
+                <button type="button" class="event-timeline-btn" data-timeline-index="${idx}" title="${escapeHtml(item.title || '')}">
+                    ${escapeHtml(item.year || '')} ${escapeHtml(typeStr)}
+                </button>
+                `;
+            });
+            container.innerHTML = html;
+            
+            container.querySelectorAll('[data-timeline-index]').forEach(btn => {
+                btn.addEventListener('click', () => focusTimelineEvent(Number(btn.dataset.timelineIndex)));
+            });
+        }
+
+        function nearestAvailableYearIndex(year) {
+            if (!AVAILABLE_YEARS.length) return 0;
+            let bestIdx = 0;
+            let bestDistance = Infinity;
+            AVAILABLE_YEARS.forEach((candidate, idx) => {
+                const distance = Math.abs(Number(candidate) - Number(year));
+                if (distance < bestDistance) {
+                    bestDistance = distance;
+                    bestIdx = idx;
+                }
+            });
+            return bestIdx;
+        }
+
+        async function focusTimelineEvent(index) {
+            if (!Array.isArray(TIMELINE_DATA) || !TIMELINE_DATA[index]) return;
+            const event = TIMELINE_DATA[index];
+            activeTimelineIndex = index;
+            document.querySelectorAll('.event-timeline-btn').forEach(btn => {
+                btn.classList.toggle('active', Number(btn.dataset.timelineIndex) === index);
+            });
+            pushViewState();
+            const tl = document.getElementById('timeline');
+            tl.value = nearestAvailableYearIndex(event.year);
+            document.getElementById('yearValue').innerText = AVAILABLE_YEARS[tl.value];
+            viewMode = 'province';
+            document.querySelector('input[value="province"]').checked = true;
+            await updateMap();
+            highlightTimelineRegions(event);
+        }
+
+        function clearTimelineHighlights() {
+            timelineHighlightedLayers.forEach(({ layer, feature, type }) => {
+                if (!layer || !feature) return;
+                if (layer.getElement) L.DomUtil.removeClass(layer.getElement(), 'timeline-highlighted');
+                if (type === 'province') layer.setStyle(styles.province(feature));
+                else layer.setStyle(styles[type]);
+            });
+            timelineHighlightedLayers = [];
+        }
+
+        function highlightTimelineRegions(event) {
+            clearTimelineHighlights();
+            if (!layers.province || !event || !Array.isArray(event.changes)) return;
+            const names = new Set();
+            event.changes.forEach(change => {
+                if (!change || typeof change !== 'object') return;
+                [...(change.from || []), ...(change.to || [])].forEach(name => {
+                    if (name) names.add(normalizeMemoryName(name));
+                });
+            });
+            const bounds = [];
+            layers.province.eachLayer(layer => {
+                if (!layer.feature) return;
+                const name = getAdminUnit(layer.feature.properties, 'province').name;
+                const normName = normalizeMemoryName(name);
+                const matched = [...names].some(target => normName === target || normName.includes(target) || target.includes(normName));
+                if (!matched) return;
+                layer.setStyle({ weight: 4, color: '#ffc107', fillOpacity: 0.72, opacity: 1 });
+                if (layer.getElement) L.DomUtil.addClass(layer.getElement(), 'timeline-highlighted');
+                timelineHighlightedLayers.push({ layer, feature: layer.feature, type: 'province' });
+                if (layer.getBounds && layer.getBounds().isValid()) bounds.push(layer.getBounds());
+            });
+            if (bounds.length) {
+                const combined = bounds.reduce((acc, b) => acc ? acc.extend(b) : b, null);
+                map.fitBounds(combined, { padding: [40, 40], maxZoom: 7 });
+            }
+        }
+
         const HISTORY_TAG_FILTERS = [
             { key: 'military', label: '🛡 Quân sự', aliases: ['quân sự', 'chiến tranh', 'kháng chiến', 'trận', 'mặt trận', 'khởi nghĩa', 'cách mạng', 'giành chính quyền', 'tập kết'] },
             { key: 'administrative', label: '🏛 Hành chính', aliases: ['hành chính', 'thành lập', 'sáp nhập', 'chia tách', 'địa giới', 'tỉnh', 'huyện', 'phủ', 'dinh', 'trấn'] },
@@ -481,6 +1534,36 @@
                 .toLowerCase();
         }
 
+        function getHistoryFiltersFromPanel() {
+            return {
+                type: document.getElementById('historyTypeFilter')?.value || 'all',
+                admin: document.getElementById('historyAdminFilter')?.value || 'all',
+                region: document.getElementById('historyRegionFilter')?.value || 'all',
+                period: document.getElementById('historyPeriodFilter')?.value || 'all'
+            };
+        }
+
+        function eventPeriodKey(year) {
+            const y = Number(year);
+            if (!Number.isFinite(y)) return 'unknown';
+            if (y < 1800) return 'pre1800';
+            if (y < 1945) return '1800_1945';
+            if (y < 1976) return '1945_1975';
+            return 'post1975';
+        }
+
+        function eventAdminLevel(eventItem) {
+            const loc = eventItem.location || {};
+            if (loc.commune && loc.commune !== 'null') return 'ward';
+            if (loc.district && loc.district !== 'null') return 'district';
+            return 'province';
+        }
+
+        function eventRegionKey(eventItem) {
+            const province = eventItem.location && eventItem.location.province ? eventItem.location.province : eventItem.sourceProv;
+            return getRegionForProvince(province);
+        }
+
         function eventMatchesHistoryFilter(eventItem, filterKey) {
             if (filterKey === 'all') return true;
             const filter = HISTORY_TAG_FILTERS.find(item => item.key === filterKey);
@@ -493,15 +1576,24 @@
             return filter.aliases.some(alias => searchableText.includes(normalizeHistoryTag(alias)));
         }
 
-        function renderHistoryEvents(events, sourceProvinces, filterKey = 'all') {
-            const filteredEvents = events.filter(ev => eventMatchesHistoryFilter(ev, filterKey));
+        function eventMatchesAdvancedFilters(eventItem, filters) {
+            const active = typeof filters === 'object' ? filters : { type: filters || 'all' };
+            if (!eventMatchesHistoryFilter(eventItem, active.type || 'all')) return false;
+            if (active.admin && active.admin !== 'all' && eventAdminLevel(eventItem) !== active.admin) return false;
+            if (active.region && active.region !== 'all' && eventRegionKey(eventItem) !== active.region) return false;
+            if (active.period && active.period !== 'all' && eventPeriodKey(eventItem.year) !== active.period) return false;
+            return true;
+        }
+
+        function renderHistoryEvents(events, sourceProvinces, filters = { type: 'all', admin: 'all', region: 'all', period: 'all' }) {
+            const filteredEvents = events.filter(ev => eventMatchesAdvancedFilters(ev, filters));
             if (filteredEvents.length === 0) {
-                return '<div class="history-empty">Không có sự kiện nào thuộc nhóm này.</div>';
+                return `<div class="history-empty">${tr('noEventGroup', 'Không có sự kiện nào thuộc nhóm này.')}</div>`;
             }
 
             return filteredEvents.map(ev => {
                 const desc = ev.desc || ev.description || ev.content || "";
-                let timeDisplay = ev.date || ev.time || ev.year || "Không rõ thời gian";
+                let timeDisplay = ev.date || ev.time || ev.year || tr('unknownTime', "Không rõ thời gian");
                 let locDisplay = "";
 
                 if (ev.location) {
@@ -518,7 +1610,6 @@
                 const tagHtml = Array.isArray(ev.tags) && ev.tags.length
                     ? `<div class="event-tags">${ev.tags.map(tag => `<span class="event-tag">${escapeHtml(tag)}</span>`).join('')}</div>`
                     : '';
-
                 return `
                     <div class="event-item">
                         <div class="event-year">${escapeHtml(timeDisplay)} ${sourceBadge}</div>
@@ -612,23 +1703,33 @@
 
         function renderAdminRow(unit) {
             if (!unit || !unit.name) return '';
-            return `<div class="info-row"><span class="info-label">${escapeHtml(unit.label)}:</span> <span class="info-value">${escapeHtml(unit.name)}</span></div>`;
+            const label = translateAdminLabel(unit.label);
+            return `<div class="info-row"><span class="info-label">${escapeHtml(label)}:</span> <span class="info-value">${escapeHtml(unit.name)}</span></div>`;
+        }
+
+        function translateAdminLabel(label) {
+            if (!isEnglish()) return label;
+            const norm = normalizeMemoryName(label);
+            if (norm.includes('tinh') || norm.includes('thanh pho')) return UI_EN.provinceLabel;
+            if (norm.includes('huyen') || norm.includes('quan') || norm.includes('thi xa')) return UI_EN.districtLabel;
+            if (norm.includes('xa') || norm.includes('phuong') || norm.includes('thi tran')) return UI_EN.wardLabel;
+            return label;
         }
 
         function getMapTooltipContent(feature, type) {
             const props = feature && feature.properties ? feature.properties : {};
             let province = getAdminUnit(props, 'province');
             if (shouldShowForeignGuestProvinceLabels() && province.name) {
-                const alt = getProvinceGuestDisplayName(province.name);
+                const alt = getProvinceDisplayName(province.name);
                 if (alt !== province.name) province = { ...province, name: alt };
             }
             const district = getAdminUnit(props, 'district');
             const ward = getAdminUnit(props, 'ward');
             const rows = [];
 
-            if (province.name) rows.push(`<strong>${escapeHtml(province.label)}:</strong> ${escapeHtml(province.name)}`);
-            if ((type === 'district' || type === 'ward') && district.name) rows.push(`<strong>${escapeHtml(district.label)}:</strong> ${escapeHtml(district.name)}`);
-            if (type === 'ward' && ward.name) rows.push(`<strong>${escapeHtml(ward.label)}:</strong> ${escapeHtml(ward.name)}`);
+            if (province.name) rows.push(`<strong>${escapeHtml(translateAdminLabel(province.label))}:</strong> ${escapeHtml(province.name)}`);
+            if ((type === 'district' || type === 'ward') && district.name) rows.push(`<strong>${escapeHtml(translateAdminLabel(district.label))}:</strong> ${escapeHtml(district.name)}`);
+            if (type === 'ward' && ward.name) rows.push(`<strong>${escapeHtml(translateAdminLabel(ward.label))}:</strong> ${escapeHtml(ward.name)}`);
 
             return rows.length ? rows.join('<br>') : escapeHtml(getFeatureName(feature));
         }
@@ -746,12 +1847,12 @@
             const pEntry = DATA_SOURCES.province.find(x => x.year === Number(year));
             if (!pEntry) {
                 feedback.className = 'memory-feedback wrong';
-                feedback.textContent = 'Không có dữ liệu tỉnh/thành cho năm đã chọn.';
+                feedback.textContent = tr('noProvinceMapData', 'Không có dữ liệu tỉnh/thành cho năm đã chọn.');
                 return;
             }
 
             feedback.className = 'memory-feedback';
-            feedback.textContent = 'Đang tải bản đồ luyện nhớ...';
+            feedback.textContent = tr('loadingMemoryMap', 'Đang tải bản đồ luyện nhớ...');
 
             try {
                 if (!memoryDataCache[year]) {
@@ -812,7 +1913,7 @@
         function setMemoryControls(active) {
             document.getElementById('memoryHintBtn').disabled = !active;
             document.getElementById('memorySkipBtn').disabled = !active;
-            document.getElementById('memoryStartBtn').innerHTML = active ? '<i class="fas fa-hourglass-half"></i> Đang chơi' : '<i class="fas fa-play"></i> Bắt đầu';
+            document.getElementById('memoryStartBtn').innerHTML = active ? `<i class="fas fa-hourglass-half"></i> ${tr('playing', 'Đang chơi')}` : `<i class="fas fa-play"></i> ${tr('start', 'Bắt đầu')}`;
             document.getElementById('memoryStartBtn').disabled = active;
             document.getElementById('memoryYearSelect').disabled = active;
             setMemoryMapIdleOverlay(!active);
@@ -884,14 +1985,14 @@
                 memoryScore += gained;
                 layer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
                 feedback.className = 'memory-feedback correct';
-                feedback.textContent = `Đúng: ${getFeatureName(feature)}. +${gained} điểm.`;
+                feedback.textContent = `${tr('correct', 'Đúng')}: ${getFeatureName(feature)}. +${gained} ${tr('points', 'điểm')}.`;
                 addMemoryResult(true, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
             } else {
                 memoryStreak = 0;
                 layer.setStyle({ weight: 4, color: '#b71c1c', fillOpacity: 0.82 });
                 memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
                 feedback.className = 'memory-feedback wrong';
-                feedback.textContent = `Chưa đúng. Đáp án là ${getFeatureName(memoryCurrent.feature)}.`;
+                feedback.textContent = `${tr('notCorrect', 'Chưa đúng. Đáp án là')} ${getFeatureName(memoryCurrent.feature)}.`;
                 addMemoryResult(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
             }
 
@@ -904,7 +2005,7 @@
             const list = document.getElementById('memoryResults');
             const item = document.createElement('div');
             item.className = `memory-result ${ok ? 'ok' : 'miss'}`;
-            item.innerHTML = `<span>${ok ? 'Đúng' : 'Sai'}</span><strong>${expected}</strong>`;
+            item.innerHTML = `<span>${ok ? tr('correct', 'Đúng') : tr('wrong', 'Sai')}</span><strong>${expected}</strong>`;
             if (!ok) item.title = `Bạn chọn: ${guessed}`;
             list.prepend(item);
         }
@@ -919,7 +2020,7 @@
                 layer.setStyle({ weight: 4, color: '#fdd835', fillOpacity: 0.8 });
             }
             document.getElementById('memoryFeedback').className = 'memory-feedback';
-            document.getElementById('memoryFeedback').textContent = 'Gợi ý đã khoanh vùng đáp án. Trả lời đúng sẽ bị trừ 2 điểm.';
+            document.getElementById('memoryFeedback').textContent = tr('hintShown', 'Gợi ý đã khoanh vùng đáp án. Trả lời đúng sẽ bị trừ 2 điểm.');
         }
 
         function skipMemoryQuestion() {
@@ -927,7 +2028,7 @@
             memoryAcceptingAnswer = false;
             memoryStreak = 0;
             memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
-            addMemoryResult(false, 'Bỏ qua', getFeatureName(memoryCurrent.feature));
+            addMemoryResult(false, tr('skipped', 'Bỏ qua'), getFeatureName(memoryCurrent.feature));
             document.getElementById('memoryFeedback').className = 'memory-feedback wrong';
             document.getElementById('memoryFeedback').textContent = `Đã bỏ qua. Đáp án là ${getFeatureName(memoryCurrent.feature)}.`;
             memoryRound += 1;
@@ -940,13 +2041,13 @@
             memoryAcceptingAnswer = false;
             setMemoryControls(false);
             resetMemoryStyles();
-            document.getElementById('memoryTarget').textContent = 'Hoàn thành';
+            document.getElementById('memoryTarget').textContent = tr('complete', 'Hoàn thành');
             const bestKey = getMemoryBestKey();
             const best = Number(localStorage.getItem(bestKey) || 0);
             if (memoryScore > best) localStorage.setItem(bestKey, String(memoryScore));
             updateMemoryStats();
             document.getElementById('memoryFeedback').className = 'memory-feedback correct';
-            document.getElementById('memoryFeedback').textContent = `Kết thúc lượt chơi: ${memoryScore} điểm trên ${memoryTotalRounds} câu.`;
+            document.getElementById('memoryFeedback').textContent = `${tr('gameFinished', 'Kết thúc lượt chơi')}: ${memoryScore} ${tr('pointsOver', 'điểm trên')} ${memoryTotalRounds} ${tr('questions', 'câu')}.`;
         }
 
         function resetMemoryGame() {
@@ -961,8 +2062,8 @@
             resetMemoryStyles();
             document.getElementById('memoryTarget').textContent = 'Bấm bắt đầu';
             document.getElementById('memoryFeedback').className = 'memory-feedback';
-            document.getElementById('memoryFeedback').textContent = 'Chọn năm dữ liệu rồi bắt đầu luyện nhớ vị trí tỉnh/thành.';
-            document.getElementById('memoryResults').innerHTML = '<div style="color:#8a988a; font-style:italic;">Chưa có lượt trả lời.</div>';
+            document.getElementById('memoryFeedback').textContent = tr('memoryFeedbackIdle', 'Chọn năm dữ liệu rồi bắt đầu luyện nhớ vị trí tỉnh/thành.');
+            document.getElementById('memoryResults').innerHTML = `<div style="color:#8a988a; font-style:italic;">${tr('noAnswers', 'Chưa có lượt trả lời.')}</div>`;
             updateMemoryStats();
         }
 
@@ -972,6 +2073,7 @@
             document.getElementById('yearValue').innerText = year;
             updateUIControls(year);
             document.getElementById('loading').style.display = 'flex';
+            clearTimelineHighlights();
 
             if (layers.province) map.removeLayer(layers.province);
             if (layers.border) map.removeLayer(layers.border);
@@ -1022,6 +2124,7 @@
             finally {
                 document.getElementById('loading').style.display = 'none';
                 syncGuestEnButtonVisibility();
+                if (splitViewEnabled) updateCompareMap();
             }
         }
 
@@ -1074,10 +2177,10 @@
                 } else {
                     const labelEl = document.getElementById('chatMapContextLabel');
                     const iconEl = document.getElementById('chatMapContextIcon');
-                    if (labelEl) labelEl.textContent = isHover ? 'Đang chỉ vào trên bản đồ:' : 'Đang chọn trên bản đồ:';
+                    if (labelEl) labelEl.textContent = isHover ? tr('hoveringOnMap', 'Đang chỉ vào trên bản đồ:') : tr('selectedOnMap', 'Đang chọn trên bản đồ:');
                     if (iconEl) iconEl.className = isHover ? 'fas fa-hand-pointer' : 'fas fa-map-pin';
                     document.getElementById('chatMapContextName').textContent = mapContextDisplayForUi(ctx);
-                    document.getElementById('chatMapContextYear').textContent = ctx.year ? `(năm ${ctx.year})` : '';
+                    document.getElementById('chatMapContextYear').textContent = ctx.year ? `(${tr('yearPrefix', 'năm')} ${ctx.year})` : '';
                     bar.classList.add('visible');
                 }
             }
@@ -1088,8 +2191,8 @@
                 if (!ctx) {
                     miniBar.classList.remove('visible');
                 } else {
-                    const yearStr = ctx.year ? ` (năm ${ctx.year})` : '';
-                    miniText.innerHTML = `${isHover ? 'Đang chỉ vào' : 'Đang chọn'}: <strong>${escapeHtml(mapContextDisplayForUi(ctx))}</strong>${yearStr}`;
+                    const yearStr = ctx.year ? ` (${tr('yearPrefix', 'năm')} ${ctx.year})` : '';
+                    miniText.innerHTML = `${isHover ? tr('currentlyHover', 'Đang chỉ vào') : tr('currentlySelect', 'Đang chọn')}: <strong>${escapeHtml(mapContextDisplayForUi(ctx))}</strong>${yearStr}`;
                     miniBar.classList.add('visible');
                 }
             }
@@ -1161,7 +2264,7 @@
             appendTypingIndicator('chatMessages');
 
             try {
-                const payload = { message: msg, session_id: sessionId };
+                const payload = { message: msg, session_id: sessionId, lang: currentLang };
                 const mapContext = getMapSelectionContext();
                 if (mapContext) payload.map_context = mapContext;
                 const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(payload) });
@@ -1173,8 +2276,8 @@
             } catch (e) {
                 removeTypingIndicator('miniChatMessages');
                 removeTypingIndicator('chatMessages');
-                appendChatMessage('Lỗi kết nối.', 'ai', 'miniChatMessages');
-                appendChatMessage('Lỗi kết nối.', 'ai', 'chatMessages');
+                appendChatMessage(tr('connectionError', 'Lỗi kết nối.'), 'ai', 'miniChatMessages');
+                appendChatMessage(tr('connectionError', 'Lỗi kết nối.'), 'ai', 'chatMessages');
             }
         }
 
@@ -1208,7 +2311,7 @@
 
             (async () => {
                 try {
-                    const payload = { message: msg, session_id: sessionId };
+                    const payload = { message: msg, session_id: sessionId, lang: currentLang };
                     const mapContext = getMapSelectionContext();
                     if (mapContext) payload.map_context = mapContext;
                     const res = await fetch('/api/chat', {
@@ -1232,8 +2335,8 @@
                     if (indicator) indicator.remove();
                     const miniIndicator = document.getElementById('miniTypingIndicator-miniChatMessages');
                     if (miniIndicator) miniIndicator.remove();
-                    messagesDiv.innerHTML += `<div class="message ai" style="color:red;">Lỗi kết nối.</div>`;
-                    if (miniMessages) miniMessages.innerHTML += `<div class="mini-chat-message ai" style="color:red;">Lỗi kết nối.</div>`;
+                    messagesDiv.innerHTML += `<div class="message ai" style="color:red;">${tr('connectionError', 'Lỗi kết nối.')}</div>`;
+                    if (miniMessages) miniMessages.innerHTML += `<div class="mini-chat-message ai" style="color:red;">${tr('connectionError', 'Lỗi kết nối.')}</div>`;
                 }
             })();
         }
@@ -1242,11 +2345,12 @@
             if (!confirm("Xóa lịch sử?")) return;
             try {
                 sessionId = crypto.randomUUID(); localStorage.setItem('chat_session_id', sessionId);
-                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ session_id: sessionId, reset: true }) });
+                const res = await fetch('/api/chat', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({ session_id: sessionId, reset: true, lang: currentLang }) });
                 const data = await res.json();
-                document.getElementById('chatMessages').innerHTML = `<div class="message ai">${data.response}</div>`;
+                const resetText = isEnglish() ? tr('newConversationStarted', 'Started a new conversation.') : data.response;
+                document.getElementById('chatMessages').innerHTML = `<div class="message ai">${resetText}</div>`;
                 const miniMessages = document.getElementById('miniChatMessages');
-                if (miniMessages) miniMessages.innerHTML = `<div class="mini-chat-message ai">${escapeHtml(data.response)}</div>`;
+                if (miniMessages) miniMessages.innerHTML = `<div class="mini-chat-message ai">${escapeHtml(resetText)}</div>`;
             } catch (e) { alert("Lỗi."); }
         }
 
@@ -1262,6 +2366,8 @@
                 selectedFeature = { layer: layer, feat: feature, type: type };
                 updateInfoBox(feature.properties);
                 document.getElementById('btnShowHistory').disabled = false;
+                document.getElementById('btnBookmarkPlace').disabled = false;
+                addRecentPlace(buildMapContextFromFeature(feature, type));
                 updateMapContextUI();
             }
         }
@@ -1274,8 +2380,9 @@
                 else layer.setStyle(styles[type]);
             }
             selectedFeature = null;
-            document.getElementById('infoContent').innerHTML = '<div style="color: #95a5a6; font-style: italic;">Chọn một điểm trên bản đồ...</div>';
+            document.getElementById('infoContent').innerHTML = `<div style="color: #95a5a6; font-style: italic;">${tr('choosePlace', 'Chọn một điểm trên bản đồ...')}</div>`;
             document.getElementById('btnShowHistory').disabled = true;
+            document.getElementById('btnBookmarkPlace').disabled = true;
             updateMapContextUI();
         }
 
@@ -1283,7 +2390,7 @@
             let html = '';
             let province = getAdminUnit(props, 'province');
             if (shouldShowForeignGuestProvinceLabels() && province.name) {
-                const alt = getProvinceGuestDisplayName(province.name);
+                const alt = getProvinceDisplayName(province.name);
                 province = { ...province, name: alt };
             }
             const district = getAdminUnit(props, 'district');
@@ -1297,7 +2404,7 @@
                 html += renderAdminRow(district);
                 html += renderAdminRow(ward);
             }
-            document.getElementById('infoContent').innerHTML = html || '<div style="color: #95a5a6; font-style: italic;">Không xác định được tên địa phương.</div>';
+            document.getElementById('infoContent').innerHTML = html || `<div style="color: #95a5a6; font-style: italic;">${tr('noLocalName', 'Không xác định được tên địa phương.')}</div>`;
         }
 
         function updateUIControls(year) {
@@ -1339,6 +2446,156 @@
             document.querySelector(`input[value="${viewMode}"]`).parentElement.classList.add('active');
         }
 
+        function reportFileBase() {
+            const name = currentDetailReport?.province || 'viemap-report';
+            return `viemap-${normalizeSmartText(name).replace(/\s+/g, '-') || 'report'}-${Date.now()}`;
+        }
+
+        function downloadBlob(filename, mimeType, content) {
+            const blob = content instanceof Blob ? content : new Blob([content], { type: mimeType });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            link.remove();
+            URL.revokeObjectURL(url);
+        }
+
+        function buildReportPlainText(report) {
+            const lines = [
+                `Viemap report: ${report.display_province || report.province}`,
+                `${tr('mapYear', 'Năm bản đồ')}: ${report.map_year || ''}`,
+                `${tr('sourceProvince', 'Tỉnh nguồn')}: ${(report.source_provinces || []).join(', ')}`,
+                `${tr('createdAt', 'Tạo lúc')}: ${report.generated_at}`,
+                '',
+                `${tr('historyEvents', 'Sự kiện')} (${report.events?.length || 0})`
+            ];
+            (report.events || []).slice(0, 18).forEach(ev => {
+                lines.push(`- ${ev.year || ''}: ${ev.title || ''}`);
+            });
+            lines.push('', `${tr('landmarks', 'Địa danh')} (${report.sites?.length || 0})`);
+            (report.sites || []).slice(0, 18).forEach(site => {
+                lines.push(`- ${site.name || ''}: ${site.type_of_place || ''}`);
+            });
+            return lines.join('\n');
+        }
+
+        function exportCurrentReport(format) {
+            if (!currentDetailReport) {
+                alert(tr('noReportPlace', 'Chưa có địa phương để xuất báo cáo.'));
+                return;
+            }
+            const base = reportFileBase();
+            if (format === 'json') {
+                downloadBlob(`${base}.json`, 'application/json;charset=utf-8', JSON.stringify(currentDetailReport, null, 2));
+                return;
+            }
+            if (format === 'png') {
+                const text = buildReportPlainText(currentDetailReport);
+                const lines = text.split('\n');
+                const canvas = document.createElement('canvas');
+                const width = 1200;
+                const lineHeight = 28;
+                canvas.width = width;
+                canvas.height = Math.max(640, 80 + lines.length * lineHeight);
+                const ctx = canvas.getContext('2d');
+                ctx.fillStyle = '#ffffff';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+                ctx.fillStyle = '#2E7D32';
+                ctx.font = 'bold 28px Segoe UI, Arial';
+                ctx.fillText(`Viemap Chronicle`, 40, 44);
+                ctx.fillStyle = '#243824';
+                ctx.font = '18px Segoe UI, Arial';
+                lines.forEach((line, idx) => ctx.fillText(line.slice(0, 140), 40, 86 + idx * lineHeight));
+                canvas.toBlob(blob => {
+                    if (blob) downloadBlob(`${base}.png`, 'image/png', blob);
+                });
+                return;
+            }
+            if (format === 'pdf') {
+                const report = currentDetailReport;
+                const win = window.open('', '_blank');
+                if (!win) return;
+                const eventRows = (report.events || []).map(ev => `<li><strong>${escapeHtml(ev.year || '')}</strong> ${escapeHtml(ev.title || '')}</li>`).join('');
+                const siteRows = (report.sites || []).map(site => `<li><strong>${escapeHtml(site.name || '')}</strong> ${escapeHtml(site.type_of_place || '')}</li>`).join('');
+                win.document.write(`
+                    <html><head><title>${escapeHtml(report.province)} - Viemap</title>
+                    <style>body{font-family:Segoe UI,Arial,sans-serif;line-height:1.5;color:#243824;padding:28px}h1{color:#2E7D32}li{margin:6px 0}</style>
+                    </head><body>
+                    <h1>${escapeHtml(report.display_province || report.province)}</h1>
+                    <p><strong>${tr('mapYear', 'Năm bản đồ')}:</strong> ${escapeHtml(report.map_year || '')}</p>
+                    <p><strong>${tr('sourceProvince', 'Tỉnh nguồn')}:</strong> ${escapeHtml((report.source_provinces || []).join(', '))}</p>
+                    <p><strong>Tạo lúc:</strong> ${escapeHtml(report.generated_at)}</p>
+                    <h2>${tr('historyEvents', 'Sự kiện lịch sử')}</h2><ul>${eventRows || `<li>${tr('noData', 'Không có dữ liệu.')}</li>`}</ul>
+                    <h2>${tr('landmarks', 'Địa danh & di tích')}</h2><ul>${siteRows || `<li>${tr('noData', 'Không có dữ liệu.')}</li>`}</ul>
+                    </body></html>
+                `);
+                win.document.close();
+                win.focus();
+                setTimeout(() => win.print(), 200);
+            }
+        }
+
+        function startQuickTour() {
+            currentTourIndex = 0;
+            const overlay = document.getElementById('tourOverlay');
+            overlay.classList.add('visible');
+            overlay.setAttribute('aria-hidden', 'false');
+            renderTourStep();
+        }
+
+        function closeQuickTour() {
+            const overlay = document.getElementById('tourOverlay');
+            overlay.classList.remove('visible');
+            overlay.setAttribute('aria-hidden', 'true');
+        }
+
+        function renderTourStep() {
+            const step = TOUR_STEPS[currentTourIndex];
+            if (!step) {
+                closeQuickTour();
+                return;
+            }
+            const spotlight = document.getElementById('tourSpotlight');
+            const card = document.getElementById('tourCard');
+            const target = document.querySelector(step.selector);
+            const margin = 8;
+            let rect = target ? target.getBoundingClientRect() : { left: window.innerWidth / 2 - 80, top: window.innerHeight / 2 - 40, width: 160, height: 80 };
+            spotlight.style.left = `${Math.max(8, rect.left - margin)}px`;
+            spotlight.style.top = `${Math.max(8, rect.top - margin)}px`;
+            spotlight.style.width = `${Math.min(window.innerWidth - 16, rect.width + margin * 2)}px`;
+            spotlight.style.height = `${Math.min(window.innerHeight - 16, rect.height + margin * 2)}px`;
+            document.getElementById('tourStepCount').textContent = `${currentTourIndex + 1}/${TOUR_STEPS.length}`;
+            document.getElementById('tourTitle').textContent = step.title;
+            document.getElementById('tourText').textContent = step.text;
+            const cardWidth = Math.min(360, window.innerWidth - 28);
+            let left = rect.left;
+            let top = rect.bottom + 16;
+            if (top + 220 > window.innerHeight) top = rect.top - 236;
+            if (top < 12) top = 12;
+            if (left + cardWidth > window.innerWidth - 14) left = window.innerWidth - cardWidth - 14;
+            if (left < 14) left = 14;
+            card.style.left = `${left}px`;
+            card.style.top = `${top}px`;
+            document.getElementById('tourPrevBtn').disabled = currentTourIndex === 0;
+            document.getElementById('tourNextBtn').textContent = currentTourIndex === TOUR_STEPS.length - 1 ? 'Xong' : 'Tiếp';
+        }
+
+        document.getElementById('tourSkipBtn')?.addEventListener('click', closeQuickTour);
+        document.getElementById('tourPrevBtn')?.addEventListener('click', () => {
+            currentTourIndex = Math.max(0, currentTourIndex - 1);
+            renderTourStep();
+        });
+        document.getElementById('tourNextBtn')?.addEventListener('click', () => {
+            currentTourIndex += 1;
+            renderTourStep();
+        });
+        window.addEventListener('resize', () => {
+            if (document.getElementById('tourOverlay')?.classList.contains('visible')) renderTourStep();
+        });
+
         function toggleHistorySlide(show) {
             const panel = document.getElementById('historySlidePanel');
             show ? panel.classList.add('active') : panel.classList.remove('active');
@@ -1349,13 +2606,13 @@
             if (!selectedFeature) return;
             toggleHistorySlide(true);
             const contentDiv = document.getElementById('sidePanelContent');
-            contentDiv.innerHTML = '<div style="text-align:center; margin-top:30px;"><i class="fas fa-spinner fa-spin"></i> Đang tải thông tin chi tiết...</div>';
+            contentDiv.innerHTML = `<div style="text-align:center; margin-top:30px;"><i class="fas fa-spinner fa-spin"></i> ${tr('loadingDetails', 'Đang tải thông tin chi tiết...')}</div>`;
             
             const props = selectedFeature.feat.properties;
             const provName = getAdminUnit(props, 'province').name; 
             
             if (!provName) {
-                contentDiv.innerHTML = "<p>Không xác định được tên tỉnh.</p>";
+                contentDiv.innerHTML = `<p>${tr('noProvinceName', 'Không xác định được tên tỉnh.')}</p>`;
                 return;
             }
 
@@ -1370,18 +2627,18 @@
             // Show note if it's a merged province
             if (sourceProvinces.length > 1) {
                 htmlContent += `<div style="font-size: 0.9rem; color: #555; margin-bottom: 10px;">
-                    <i class="fas fa-layer-group"></i> <strong>Sáp nhập từ:</strong> ${sourceProvinces.join(', ')}
+                    <i class="fas fa-layer-group"></i> <strong>${tr('mergedFrom', 'Sáp nhập từ:')}</strong> ${sourceProvinces.join(', ')}
                 </div>`;
             }
 
             htmlContent += `<div style="font-size: 0.8rem; background: #fff3e0; padding: 8px; border-radius: 4px; color: #e65100; margin-bottom: 15px; border: 1px solid #ffe0b2;">
-                <i class="fas fa-info-circle"></i> <em>Lưu ý: Địa chỉ sự kiện và địa danh dưới đây áp dụng theo địa giới hành chính mốc năm 2008.</em>
+                <i class="fas fa-info-circle"></i> <em>${tr('yearBoundaryNote', 'Lưu ý: Địa chỉ sự kiện và địa danh dưới đây áp dụng theo địa giới hành chính mốc năm 2008.')}</em>
             </div>`;
 
             htmlContent += `
                 <div class="local-info-tabs">
-                    <button class="local-info-tab active" data-tab="historyTab">Sự kiện Lịch sử</button>
-                    <button class="local-info-tab" data-tab="sitesTab">Địa danh & Di tích</button>
+                    <button class="local-info-tab active" data-tab="historyTab">${tr('historyEvents', 'Sự kiện Lịch sử')}</button>
+                    <button class="local-info-tab" data-tab="sitesTab">${tr('landmarks', 'Địa danh & Di tích')}</button>
                 </div>
                 <div id="historyTab" class="local-info-tab-panel active"></div>
                 <div id="sitesTab" class="local-info-tab-panel"></div>
@@ -1400,23 +2657,39 @@
                 
                 try {
                     // Fetch History
-                    const historyRes = await fetch(`/api/history/${fileName}`);
+                    const historyRes = await fetch(localizedUrl(`/api/history/${fileName}`));
                     if (historyRes.ok) {
                         const hData = await historyRes.json();
                         if (hData.events && hData.events.length > 0) {
                             // Add source info if merged
-                            const events = hData.events.map(ev => ({...ev, sourceProv: sourceProv}));
+                            const historySource = getSourceMeta(hData.source, `HistoryData/${fileName}`);
+                            const events = hData.events.map((ev, idx) => ({
+                                ...ev,
+                                sourceProv: sourceProv,
+                                sourceMeta: {
+                                    ...historySource,
+                                    url: `${historySource.url || `/api/history/${fileName}`}#${ev.id || idx}`
+                                }
+                            }));
                             aggregatedEvents = aggregatedEvents.concat(events);
                             hasData = true;
                         }
                     }
 
                     // Fetch Geo
-                    const geoRes = await fetch(`/api/geodata/${fileName}`);
+                    const geoRes = await fetch(localizedUrl(`/api/geodata/${fileName}`));
                     if (geoRes.ok) {
                         const gData = await geoRes.json();
                         if (gData.sites && gData.sites.length > 0) {
-                            const sites = gData.sites.map(s => ({...s, sourceProv: sourceProv}));
+                            const geoSource = getSourceMeta(gData.source, `GeoData/${fileName}`);
+                            const sites = gData.sites.map((s, idx) => ({
+                                ...s,
+                                sourceProv: sourceProv,
+                                sourceMeta: {
+                                    ...geoSource,
+                                    url: `${geoSource.url || `/api/geodata/${fileName}`}#site-${idx}`
+                                }
+                            }));
                             aggregatedSites = aggregatedSites.concat(sites);
                             hasData = true;
                         }
@@ -1431,27 +2704,55 @@
                 // Sort by year
                 aggregatedEvents.sort((a, b) => (a.year || 0) - (b.year || 0));
                 const filterButtons = [
-                    '<button class="history-filter-btn active" data-history-filter="all">Tất cả</button>',
+                    `<button class="history-filter-btn active" data-history-filter="all">${tr('all', 'Tất cả')}</button>`,
                     ...HISTORY_TAG_FILTERS.map(filter => `<button class="history-filter-btn" data-history-filter="${filter.key}">${filter.label}</button>`)
                 ].join('');
                 
+                const advancedFiltersHtml = `
+                    <div class="advanced-filter-grid">
+                        <select id="historyTypeFilter" aria-label="Loại sự kiện">
+                            <option value="all">${tr('allEventTypes', 'Mọi loại sự kiện')}</option>
+                            ${HISTORY_TAG_FILTERS.map(filter => `<option value="${filter.key}">${filter.label}</option>`).join('')}
+                        </select>
+                        <select id="historyAdminFilter" aria-label="Cấp hành chính">
+                            <option value="all">${tr('allAdminLevels', 'Mọi cấp hành chính')}</option>
+                            <option value="province">${tr('provinceCityLevel', 'Cấp tỉnh/thành')}</option>
+                            <option value="district">${tr('districtLevel', 'Cấp huyện/quận')}</option>
+                            <option value="ward">${tr('communeWardLevel', 'Cấp xã/phường')}</option>
+                        </select>
+                        <select id="historyRegionFilter" aria-label="Vùng miền">
+                            <option value="all">${tr('allRegions', 'Mọi vùng miền')}</option>
+                            <option value="north">${tr('northRegion', 'Miền Bắc')}</option>
+                            <option value="central">${tr('centralRegion', 'Miền Trung - Tây Nguyên')}</option>
+                            <option value="south">${tr('southRegion', 'Miền Nam')}</option>
+                        </select>
+                        <select id="historyPeriodFilter" aria-label="Giai đoạn">
+                            <option value="all">${tr('allPeriods', 'Mọi giai đoạn')}</option>
+                            <option value="pre1800">${tr('before1800', 'Trước 1800')}</option>
+                            <option value="1800_1945">1800-1945</option>
+                            <option value="1945_1975">1945-1975</option>
+                            <option value="post1975">${tr('after1975', 'Sau 1975')}</option>
+                        </select>
+                    </div>`;
+
                 const historyHtml = `
-                    <div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div>
+                    <div class="section-header"><i class="fas fa-history"></i> ${tr('historyEvents', 'Sự kiện Lịch sử')}</div>
                     <div class="history-filter-bar">${filterButtons}</div>
+                    ${advancedFiltersHtml}
                     <div id="historyEventsList">${renderHistoryEvents(aggregatedEvents, sourceProvinces)}</div>
                 `;
                 document.getElementById('historyTab').innerHTML = historyHtml;
             } else {
-                document.getElementById('historyTab').innerHTML = `<div class="section-header"><i class="fas fa-history"></i> Sự kiện Lịch sử</div><p class="history-empty">Chưa có dữ liệu sự kiện lịch sử cho địa phương này.</p>`;
+                document.getElementById('historyTab').innerHTML = `<div class="section-header"><i class="fas fa-history"></i> ${tr('historyEvents', 'Sự kiện Lịch sử')}</div><p class="history-empty">${tr('noHistoryForPlace', 'Chưa có dữ liệu sự kiện lịch sử cho địa phương này.')}</p>`;
             }
 
             // RENDER SITES
             if (aggregatedSites.length > 0) {
-                let sitesHtml = `<div class="section-header"><i class="fas fa-landmark"></i> Địa danh & Di tích</div>`;
+                let sitesHtml = `<div class="section-header"><i class="fas fa-landmark"></i> ${tr('landmarks', 'Địa danh & Di tích')}</div>`;
                 aggregatedSites.forEach(site => {
                     let typeDisplay = site.type_of_place;
-                    if(typeDisplay && typeDisplay.toLowerCase() === 'natural') typeDisplay = "Thiên nhiên";
-                    else if(typeDisplay && typeDisplay.toLowerCase() === 'historical') typeDisplay = "Lịch sử";
+                    if(typeDisplay && typeDisplay.toLowerCase() === 'natural') typeDisplay = tr('typeNatural', "Thiên nhiên");
+                    else if(typeDisplay && typeDisplay.toLowerCase() === 'historical') typeDisplay = tr('typeHistorical', "Lịch sử");
 
                     let descHtml = '';
                     if (site.event && site.event !== 'null') {
@@ -1468,7 +2769,6 @@
                     }
                     const googleSearchQuery = encodeURIComponent(`${site.name} ${placeParts.join(' ')}`.trim());
                     const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${googleSearchQuery}`;
-
                     sitesHtml += `
                     <div class="site-item">
                         <div class="site-name">${site.name} ${sourceBadge}</div>
@@ -1476,21 +2776,31 @@
                         ${descHtml}
                         <div class="site-loc"><i class="fas fa-map-pin"></i> ${placeParts.join(', ')}</div>
                         <a class="site-map-link" href="${googleMapsUrl}" target="_blank" rel="noopener noreferrer">
-                            <i class="fas fa-location-dot"></i> Xem trên Google Maps
+                            <i class="fas fa-location-dot"></i> ${tr('seeOnGoogleMaps', 'Xem trên Google Maps')}
                         </a>
                     </div>`;
                 });
                 document.getElementById('sitesTab').innerHTML = sitesHtml;
             } else {
-                document.getElementById('sitesTab').innerHTML = `<div class="section-header"><i class="fas fa-landmark"></i> Địa danh & Di tích</div><p class="history-empty">Chưa có dữ liệu địa danh và di tích cho địa phương này.</p>`;
+                document.getElementById('sitesTab').innerHTML = `<div class="section-header"><i class="fas fa-landmark"></i> ${tr('landmarks', 'Địa danh & Di tích')}</div><p class="history-empty">${tr('noSitesForPlace', 'Chưa có dữ liệu địa danh và di tích cho địa phương này.')}</p>`;
             }
 
             if (!hasData) {
                 const notice = document.createElement('p');
                 notice.style.cssText = 'margin-top:20px; font-style:italic; color:#777;';
-                notice.textContent = 'Chưa có dữ liệu chi tiết cho địa phương này.';
+                notice.textContent = tr('noDetailsForPlace', 'Chưa có dữ liệu chi tiết cho địa phương này.');
                 document.getElementById('sitesTab').insertAdjacentElement('afterend', notice);
             }
+
+            currentDetailReport = {
+                province: provName,
+                display_province: getProvinceDisplayName(provName),
+                map_year: currentYear,
+                source_provinces: sourceProvinces,
+                generated_at: new Date().toISOString(),
+                events: aggregatedEvents,
+                sites: aggregatedSites
+            };
 
             // Tab switching for local details
             contentDiv.querySelectorAll('.local-info-tab').forEach(tabButton => {
@@ -1510,7 +2820,19 @@
                     button.addEventListener('click', () => {
                         contentDiv.querySelectorAll('.history-filter-btn').forEach(btn => btn.classList.remove('active'));
                         button.classList.add('active');
-                        eventsList.innerHTML = renderHistoryEvents(aggregatedEvents, sourceProvinces, button.dataset.historyFilter);
+                        const typeFilter = document.getElementById('historyTypeFilter');
+                        if (typeFilter) typeFilter.value = button.dataset.historyFilter;
+                        eventsList.innerHTML = renderHistoryEvents(aggregatedEvents, sourceProvinces, getHistoryFiltersFromPanel());
+                    });
+                });
+                contentDiv.querySelectorAll('#historyTypeFilter, #historyAdminFilter, #historyRegionFilter, #historyPeriodFilter').forEach(select => {
+                    select.addEventListener('change', () => {
+                        if (select.id === 'historyTypeFilter') {
+                            contentDiv.querySelectorAll('.history-filter-btn').forEach(btn => {
+                                btn.classList.toggle('active', btn.dataset.historyFilter === select.value);
+                            });
+                        }
+                        eventsList.innerHTML = renderHistoryEvents(aggregatedEvents, sourceProvinces, getHistoryFiltersFromPanel());
                     });
                 });
             }
@@ -1519,16 +2841,29 @@
         // Events
         const tlInput = document.getElementById('timeline');
         tlInput.addEventListener('input', function() { document.getElementById('yearValue').innerText = AVAILABLE_YEARS[this.value]; });
-        tlInput.addEventListener('change', updateMap);
-
-        document.querySelectorAll('input[name="viewMode"]').forEach(radio => {
-            radio.addEventListener('change', function() { if (this.checked) { viewMode = this.value; updateMap(); } });
+        tlInput.addEventListener('change', function() {
+            pushViewState();
+            updateMap();
         });
 
+        document.querySelectorAll('input[name="viewMode"]').forEach(radio => {
+            radio.addEventListener('change', function() {
+                if (this.checked) {
+                    pushViewState();
+                    viewMode = this.value;
+                    updateMap();
+                }
+            });
+        });
+
+        document.getElementById('btnLangVi')?.addEventListener('click', () => setLanguage('vi'));
+        document.getElementById('btnLangEn')?.addEventListener('click', () => setLanguage('en'));
+
         document.getElementById('btnGuestEn2025').addEventListener('click', function () {
-            foreignGuestProvinceLabels2025 = !foreignGuestProvinceLabels2025;
-            this.classList.toggle('active', foreignGuestProvinceLabels2025);
-            this.setAttribute('aria-pressed', foreignGuestProvinceLabels2025 ? 'true' : 'false');
+            provinceLabelMode2025 = provinceLabelMode2025 === 'fun' ? 'vn' : 'fun';
+            foreignGuestProvinceLabels2025 = provinceLabelMode2025 === 'fun';
+            localStorage.setItem('province_label_mode_2025', provinceLabelMode2025);
+            syncGuestEnButtonVisibility();
             refreshAllGuestEnDisplays();
         });
 

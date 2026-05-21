@@ -3,6 +3,7 @@ import os
 import re
 import json
 import unicodedata
+from datetime import datetime
 from google import genai
 import uuid
 from dotenv import load_dotenv
@@ -31,8 +32,8 @@ else:
 chat_sessions = {}
 
 MERGER_CONTEXT_CACHE = ""
-MERGE_DICT_CACHE = None
-RAG_DOCS_CACHE = None
+MERGE_DICT_CACHE = {}
+RAG_DOCS_CACHE = {}
 CHAT_RAG_MEMORY = {}
 
 STOPWORDS = {
@@ -89,31 +90,58 @@ CONTEXT_REFERENCE_KEYWORDS = (
     "tinh nay", "huyen nay", "xa nay", "phuong nay", "no", "do"
 )
 
-def load_all_commune_merger_data():
+def choose_localized_file(candidates, lang=None):
+    if not candidates:
+        return None
+
+    lang = (lang or 'vi').lower()
+
+    def suffix_of(filename):
+        stem = os.path.splitext(filename)[0].lower()
+        match = re.search(r'[_-](vi|en)$', stem)
+        return match.group(1) if match else ''
+
+    for suffix in (lang, 'vi', ''):
+        for filename in candidates:
+            if suffix_of(filename) == suffix:
+                return filename
+    return candidates[0]
+
+def load_all_commune_merger_data(lang='vi'):
     combined_data = {}
     if not os.path.exists(MERGE_DATA_FOLDER):
         return combined_data
 
+    groups = {}
     for filename in os.listdir(MERGE_DATA_FOLDER):
-        if filename.endswith('.json'):
-            file_path = os.path.join(MERGE_DATA_FOLDER, filename)
-            try:
-                with open(file_path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if isinstance(data, dict):
-                        combined_data.update(data)
-            except Exception as e:
-                print(f"Lỗi đọc file merger {filename}: {e}")
+        if not filename.endswith('.json'):
+            continue
+        stem = os.path.splitext(filename)[0]
+        stem_no_lang = re.sub(r'(_|-)(vi|en)$', '', stem, flags=re.IGNORECASE)
+        key = re.sub(r'[^A-Za-z0-9]', '', stem_no_lang).lower()
+        groups.setdefault(key, []).append(filename)
+
+    for candidates in groups.values():
+        filename = choose_localized_file(candidates, lang=lang)
+        file_path = os.path.join(MERGE_DATA_FOLDER, filename)
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                if isinstance(data, dict):
+                    combined_data.update(data)
+        except Exception as e:
+            print(f"Lỗi đọc file merger {filename}: {e}")
     return combined_data
 
-def get_merge_dict():
+def get_merge_dict(lang='vi'):
     """Tải và cache dữ liệu sáp nhập dưới dạng Dictionary để dễ tìm kiếm"""
     global MERGE_DICT_CACHE
-    if MERGE_DICT_CACHE is not None:
-        return MERGE_DICT_CACHE
-        
-    MERGE_DICT_CACHE = load_all_commune_merger_data() 
-    return MERGE_DICT_CACHE
+    lang = (lang or 'vi').lower()
+    if lang in MERGE_DICT_CACHE:
+        return MERGE_DICT_CACHE[lang]
+
+    MERGE_DICT_CACHE[lang] = load_all_commune_merger_data(lang=lang)
+    return MERGE_DICT_CACHE[lang]
 
 def strip_accents(text):
     text = str(text or "").replace("Đ", "D").replace("đ", "d")
@@ -155,6 +183,63 @@ def compact_text(text, max_len=900):
     clipped = text[:max_len].rsplit(" ", 1)[0].rstrip()
     return f"{clipped}..."
 
+def data_file_updated_date(path):
+    try:
+        return datetime.fromtimestamp(os.path.getmtime(path)).strftime("%Y-%m-%d")
+    except OSError:
+        return None
+
+def make_source_meta(label, url, path=None, confidence="Nội bộ - cần đối chiếu khi dùng chính thức"):
+    return {
+        "label": label,
+        "url": url,
+        "confidence": confidence,
+        "updated_at": data_file_updated_date(path) if path else None,
+    }
+
+def normalize_file_stem(value):
+    text = strip_accents(value)
+    text = re.sub(r"^(tinh|thanh pho|tp\.?|quan|huyen|thi xa|phuong|xa)\s+", "", text, flags=re.IGNORECASE)
+    return re.sub(r"[^A-Za-z0-9]", "", text).lower()
+
+def resolve_json_file(folder, province_name, lang=None):
+    """Resolve a JSON filename under `folder` for a given province/base name.
+    If `lang` provided ('vi' or 'en'), prefer files with that suffix (e.g., AnGiang_en.json).
+    Falls back to any matching variant when preferred language is not present.
+    """
+    target = normalize_file_stem(province_name)
+    if not target or not os.path.exists(folder):
+        return None
+
+    candidates = []
+    for filename in os.listdir(folder):
+        if not filename.endswith('.json'):
+            continue
+        stem = os.path.splitext(filename)[0]
+        # remove trailing language suffix like _vi or _en or -vi/-en
+        stem_no_lang = re.sub(r'(_|-)(vi|en)$', '', stem, flags=re.IGNORECASE)
+        norm = re.sub(r'[^A-Za-z0-9]', '', stem_no_lang).lower()
+        if norm == target:
+            candidates.append(filename)
+
+    if not candidates:
+        return None
+
+    # prefer requested language
+    if lang:
+        lang = str(lang).lower()
+        for f in candidates:
+            if re.search(r'(_|-)'+re.escape(lang)+r'$', os.path.splitext(f)[0], re.IGNORECASE):
+                return f
+
+    # prefer Vietnamese when no lang specified
+    for f in candidates:
+        if re.search(r'(_|-)(vi)$', os.path.splitext(f)[0], re.IGNORECASE):
+            return f
+
+    # otherwise return the first candidate
+    return candidates[0]
+
 def flatten_values(values):
     flattened = []
     for value in values:
@@ -193,7 +278,7 @@ def format_location(location):
     ])
 
 def make_rag_doc(kind, title, content, source, aliases=None, province=None, district=None,
-                 commune=None, year=None, extra_text=None):
+                 commune=None, year=None, extra_text=None, source_meta=None):
     aliases = normalize_alias_list([
         title, province, district, commune, aliases or []
     ])
@@ -211,6 +296,7 @@ def make_rag_doc(kind, title, content, source, aliases=None, province=None, dist
         "title": str(title or "").strip(),
         "content": compact_text(content),
         "source": source,
+        "source_meta": source_meta or make_source_meta(source, source),
         "province": province,
         "district": district,
         "commune": commune,
@@ -230,18 +316,46 @@ def load_json_safely(path):
         print(f"JSON read error {path}: {exc}")
         return None
 
-def build_history_rag_docs():
+def build_history_rag_docs(lang=None):
     docs = []
     if not os.path.exists(HISTORY_DATA_FOLDER):
         return docs
 
     excluded = {"timeline_index.json", "meta_provinces.json"}
-    for filename in os.listdir(HISTORY_DATA_FOLDER):
-        if not filename.endswith(".json") or filename in excluded:
-            continue
+    # group files by base normalized stem (strip _vi/_en)
+    files = [f for f in os.listdir(HISTORY_DATA_FOLDER) if f.endswith('.json') and f not in excluded]
+    groups = {}
+    for filename in files:
+        stem = os.path.splitext(filename)[0]
+        stem_no_lang = re.sub(r'(_|-)(vi|en)$', '', stem, flags=re.IGNORECASE)
+        key = re.sub(r'[^A-Za-z0-9]', '', stem_no_lang).lower()
+        groups.setdefault(key, []).append(filename)
+
+    chosen_files = []
+    for key, flist in groups.items():
+        sel = None
+        if lang:
+            for f in flist:
+                if f.lower().endswith(f'_{lang}.json'):
+                    sel = f; break
+        if not sel:
+            for f in flist:
+                if f.lower().endswith('_vi.json'):
+                    sel = f; break
+        if not sel:
+            sel = flist[0]
+        chosen_files.append(sel)
+
+    for filename in chosen_files:
         file_path = os.path.join(HISTORY_DATA_FOLDER, filename)
         if not os.path.isfile(file_path):
             continue
+        file_source_meta = make_source_meta(
+            f"HistoryData/{filename}",
+            f"/api/history/{filename}",
+            file_path,
+            "Dữ liệu lịch sử nội bộ"
+        )
         data = load_json_safely(file_path)
         events = data.get("events") if isinstance(data, dict) else None
         if not isinstance(events, list):
@@ -277,56 +391,97 @@ def build_history_rag_docs():
                 district=location.get("district"),
                 commune=location.get("commune"),
                 year=year,
+                source_meta={
+                    **file_source_meta,
+                    "url": f"/api/history/{filename}#{event.get('id') or normalize_file_stem(title)}",
+                    "label": f"HistoryData/{filename}#{event.get('id') or title}",
+                },
             ))
     return docs
 
-def build_geo_rag_docs():
-    docs = []
-    if not os.path.exists(GEO_DATA_FOLDER):
-        return docs
-
-    type_labels = {
-        "historical": "lịch sử/văn hóa",
-        "natural": "tự nhiên/danh thắng",
-    }
-    for filename in os.listdir(GEO_DATA_FOLDER):
-        if not filename.endswith(".json"):
-            continue
-        file_path = os.path.join(GEO_DATA_FOLDER, filename)
-        if not os.path.isfile(file_path):
-            continue
-        data = load_json_safely(file_path)
-        sites = data.get("sites") if isinstance(data, dict) else None
-        if not isinstance(sites, list):
-            continue
-
-        for site in sites:
-            if not isinstance(site, dict):
+def build_geo_rag_docs(lang=None):
+    def _build_for_files(file_list):
+        docs_local = []
+        type_labels = {
+            "historical": "lịch sử/văn hóa",
+            "natural": "tự nhiên/danh thắng",
+        }
+        for filename in file_list:
+            file_path = os.path.join(GEO_DATA_FOLDER, filename)
+            if not os.path.isfile(file_path):
                 continue
-            place = site.get("place") if isinstance(site.get("place"), dict) else {}
-            name = site.get("name") or "Địa danh"
-            place_type = site.get("type_of_place") or ""
-            type_label = type_labels.get(place_type, place_type or "địa danh")
-            location_text = format_location(place)
-
-            lines = [f"{name} ({type_label})"]
-            if location_text:
-                lines.append(f"Địa điểm: {location_text}")
-            if site.get("event"):
-                lines.append(f"Thông tin: {site.get('event')}")
-
-            docs.append(make_rag_doc(
-                "geo_site",
-                name,
-                "\n".join(lines),
+            file_source_meta = make_source_meta(
                 f"GeoData/{filename}",
-                aliases=[type_label, place_type],
-                province=place.get("province"),
-                district=place.get("district"),
-                commune=place.get("commune"),
-                extra_text=site.get("event"),
-            ))
-    return docs
+                f"/api/geodata/{filename}",
+                file_path,
+                "Dữ liệu địa danh nội bộ"
+            )
+            data = load_json_safely(file_path)
+            sites = data.get("sites") if isinstance(data, dict) else None
+            if not isinstance(sites, list):
+                continue
+
+            for idx, site in enumerate(sites):
+                if not isinstance(site, dict):
+                    continue
+                place = site.get("place") if isinstance(site.get("place"), dict) else {}
+                name = site.get("name") or "Địa danh"
+                place_type = site.get("type_of_place") or ""
+                type_label = type_labels.get(place_type, place_type or "địa danh")
+                location_text = format_location(place)
+
+                lines = [f"{name} ({type_label})"]
+                if location_text:
+                    lines.append(f"Địa điểm: {location_text}")
+                if site.get("event"):
+                    lines.append(f"Thông tin: {site.get('event')}")
+
+                docs_local.append(make_rag_doc(
+                    "geo_site",
+                    name,
+                    "\n".join(lines),
+                    f"GeoData/{filename}",
+                    aliases=[type_label, place_type],
+                    province=place.get("province"),
+                    district=place.get("district"),
+                    commune=place.get("commune"),
+                    extra_text=site.get("event"),
+                    source_meta={
+                        **file_source_meta,
+                        "url": f"/api/geodata/{filename}#site-{idx}",
+                        "label": f"GeoData/{filename}#site-{idx}",
+                    },
+                ))
+        return docs_local
+
+    # choose best file per base name similar to history behavior
+    if not os.path.exists(GEO_DATA_FOLDER):
+        return []
+    files = [f for f in os.listdir(GEO_DATA_FOLDER) if f.endswith('.json')]
+    groups = {}
+    for filename in files:
+        stem = os.path.splitext(filename)[0]
+        stem_no_lang = re.sub(r'(_|-)(vi|en)$', '', stem, flags=re.IGNORECASE)
+        key = re.sub(r'[^A-Za-z0-9]', '', stem_no_lang).lower()
+        groups.setdefault(key, []).append(filename)
+
+    # For geo data we will prefer the same lang selection logic used for history
+    chosen_files = []
+    for key, flist in groups.items():
+        sel = None
+        if lang:
+            for f in flist:
+                if f.lower().endswith(f'_{lang}.json'):
+                    sel = f; break
+        if not sel:
+            for f in flist:
+                if f.lower().endswith('_vi.json'):
+                    sel = f; break
+        if not sel:
+            sel = flist[0]
+        chosen_files.append(sel)
+
+    return _build_for_files(chosen_files)
 
 def format_change_list(changes):
     if not isinstance(changes, list):
@@ -347,8 +502,14 @@ def build_timeline_rag_docs():
     data = load_json_safely(timeline_path)
     if not isinstance(data, list):
         return docs
+    file_source_meta = make_source_meta(
+        "HistoryData/timeline_index.json",
+        "/api/history/timeline_index.json",
+        timeline_path,
+        "Dữ liệu biến động hành chính nội bộ"
+    )
 
-    for event in data:
+    for idx, event in enumerate(data):
         if not isinstance(event, dict):
             continue
         year = event.get("year")
@@ -369,12 +530,17 @@ def build_timeline_rag_docs():
             aliases=aliases,
             year=year,
             extra_text=changes_text,
+            source_meta={
+                **file_source_meta,
+                "url": f"/api/history/timeline_index.json#timeline-{year or idx}",
+                "label": f"HistoryData/timeline_index.json#timeline-{year or idx}",
+            },
         ))
     return docs
 
-def build_commune_merge_rag_docs():
+def build_commune_merge_rag_docs(lang='vi'):
     docs = []
-    merge_data = get_merge_dict()
+    merge_data = get_merge_dict(lang=lang)
     if not isinstance(merge_data, dict):
         return docs
 
@@ -416,22 +582,29 @@ def build_commune_merge_rag_docs():
                 commune=", ".join(flatten_values([item.get("commune") for item in from_items if isinstance(item, dict)])),
                 year=2025,
                 extra_text=to_text,
+                source_meta=make_source_meta(
+                    f"HistoryData/MergeData#{province}#{idx}",
+                    f"/api/merger/communes#{normalize_file_stem(province)}-{idx}",
+                    None,
+                    "Dữ liệu sáp nhập cấp xã nội bộ"
+                ),
             ))
     return docs
 
-def get_rag_documents():
+def get_rag_documents(lang='vi'):
     global RAG_DOCS_CACHE
-    if RAG_DOCS_CACHE is not None:
-        return RAG_DOCS_CACHE
+    lang = (lang or 'vi').lower()
+    if lang in RAG_DOCS_CACHE:
+        return RAG_DOCS_CACHE[lang]
 
     docs = []
-    docs.extend(build_history_rag_docs())
-    docs.extend(build_geo_rag_docs())
+    docs.extend(build_history_rag_docs(lang=lang))
+    docs.extend(build_geo_rag_docs(lang=lang))
     docs.extend(build_timeline_rag_docs())
-    docs.extend(build_commune_merge_rag_docs())
-    RAG_DOCS_CACHE = docs
-    print(f"Loaded {len(RAG_DOCS_CACHE)} internal RAG documents")
-    return RAG_DOCS_CACHE
+    docs.extend(build_commune_merge_rag_docs(lang=lang))
+    RAG_DOCS_CACHE[lang] = docs
+    print(f"Loaded {len(RAG_DOCS_CACHE[lang])} internal RAG documents for lang={lang}")
+    return RAG_DOCS_CACHE[lang]
 
 def infer_query_intents(user_message):
     norm = normalize_search_text(user_message)
@@ -634,10 +807,10 @@ def kind_limits_for_query(user_message, map_context, intents):
         limits["history_event"] = 2
     return limits
 
-def retrieve_rag_context(user_message, map_context=None, session_history_text=""):
+def retrieve_rag_context(user_message, map_context=None, session_history_text="", include_sources=False, lang='vi'):
     norm_message = normalize_search_text(user_message)
     if not norm_message or norm_message in CHITCHAT_NORMALIZED:
-        return ""
+        return ("", []) if include_sources else ""
 
     intents = infer_query_intents(user_message)
     query_parts = [user_message, map_context_to_search_text(map_context)]
@@ -646,12 +819,12 @@ def retrieve_rag_context(user_message, map_context=None, session_history_text=""
     query_text = " ".join(flatten_values(query_parts))
 
     scored = []
-    for doc in get_rag_documents():
+    for doc in get_rag_documents(lang=lang):
         score = score_rag_doc(doc, query_text, user_message, map_context, intents)
         if score >= 7.0:
             scored.append((score, doc))
     if not scored:
-        return ""
+        return ("", []) if include_sources else ""
 
     scored.sort(key=lambda item: item[0], reverse=True)
     if isinstance(map_context, dict) and is_map_reference_query(user_message):
@@ -682,7 +855,7 @@ def retrieve_rag_context(user_message, map_context=None, session_history_text=""
         kind_counts[kind] = kind_counts.get(kind, 0) + 1
 
     if not selected:
-        return ""
+        return ("", []) if include_sources else ""
 
     intent_labels = {
         "history": "lịch sử",
@@ -698,14 +871,35 @@ def retrieve_rag_context(user_message, map_context=None, session_history_text=""
     total_len = sum(len(line) for line in lines)
     for idx, (score, doc) in enumerate(selected, start=1):
         item = (
-            f"\n[{idx}] Loại: {RAG_KIND_LABELS.get(doc['kind'], doc['kind'])}; "
-            f"Nguồn: {doc['source']}; Độ khớp: {score:.1f}\n{doc['content']}"
+            f"\nLoại: {RAG_KIND_LABELS.get(doc['kind'], doc['kind'])}; "
+            f"Độ khớp: {score:.1f}\n{doc['content']}"
         )
         if total_len + len(item) > 12000:
             break
         lines.append(item)
         total_len += len(item)
-    return "\n".join(lines)
+    if not include_sources:
+        return "\n".join(lines)
+
+    sources = []
+    seen_urls = set()
+    for idx, (score, doc) in enumerate(selected, start=1):
+        source_meta = doc.get("source_meta") or {}
+        url = source_meta.get("url") or doc.get("source")
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
+        sources.append({
+            "id": f"S{idx}",
+            "title": doc.get("title"),
+            "kind": doc.get("kind"),
+            "label": source_meta.get("label") or doc.get("source"),
+            "url": url,
+            "confidence": source_meta.get("confidence") or "Nội bộ",
+            "updated_at": source_meta.get("updated_at"),
+            "score": round(score, 1),
+        })
+    return "\n".join(lines), sources
 
 def clean_prefix(name):
     if not name: return ""
@@ -830,7 +1024,20 @@ def format_map_selection_context(map_context):
     )
     return "\n".join(lines)
 
-def scan_map_files():
+def map_file_lang_score(filename, requested_lang):
+    stem = os.path.splitext(filename)[0].lower()
+    match = re.search(r'[_-](vi|en)$', stem)
+    suffix = match.group(1) if match else ''
+    if suffix == requested_lang:
+        return 3
+    if suffix == 'vi':
+        return 2
+    if suffix == '':
+        return 1
+    return 0
+
+def scan_map_files(lang='vi'):
+    lang = (lang or 'vi').lower()
     config = {
         'years': set(),
         'files': {
@@ -860,16 +1067,33 @@ def scan_map_files():
             year = int(match.group(1))
             fmt = match.group(2).lower()
             current = config['files'][level].get(year)
-            should_replace = current is None or (fmt == 'topojson' and current.get('format') != 'topojson')
+            candidate = {
+                'year': year,
+                'file': f,
+                'format': fmt,
+                '_lang_score': map_file_lang_score(f, lang)
+            }
+            should_replace = (
+                current is None
+                or candidate['_lang_score'] > current.get('_lang_score', 0)
+                or (
+                    candidate['_lang_score'] == current.get('_lang_score', 0)
+                    and fmt == 'topojson'
+                    and current.get('format') != 'topojson'
+                )
+            )
 
             config['years'].add(year)
             if should_replace:
-                config['files'][level][year] = {'year': year, 'file': f, 'format': fmt}
+                config['files'][level][year] = candidate
             break
 
     config['years'] = sorted(list(config['years']))
     for level in config['files']:
-        config['files'][level] = sorted(config['files'][level].values(), key=lambda item: item['year'])
+        items = sorted(config['files'][level].values(), key=lambda item: item['year'])
+        for item in items:
+            item.pop('_lang_score', None)
+        config['files'][level] = items
     return config
 
 @app.route('/')
@@ -883,7 +1107,7 @@ def favicon():
 
 @app.route('/api/config')
 def get_config():
-    config = scan_map_files()
+    config = scan_map_files(lang=request.args.get('lang', 'vi'))
     return jsonify(config)
 
 @app.route('/api/map/<filename>')
@@ -896,18 +1120,212 @@ def get_map_data(filename):
 
 @app.route('/api/history/<filename>')
 def get_history_data(filename):
+    lang = request.args.get('lang')
     if not filename.endswith('.json'): return jsonify({"error": "Invalid type"}), 400
-    return send_from_directory(HISTORY_DATA_FOLDER, filename)
+    if os.path.basename(filename) != filename: return jsonify({"error": "Invalid path"}), 400
+    path = os.path.join(HISTORY_DATA_FOLDER, filename)
+    if lang and not re.search(r'(_|-)(vi|en)\.json$', filename, re.IGNORECASE):
+        candidate = resolve_json_file(HISTORY_DATA_FOLDER, os.path.splitext(filename)[0], lang=lang)
+        if candidate:
+            path = os.path.join(HISTORY_DATA_FOLDER, candidate)
+    if not os.path.exists(path):
+        # try to resolve by base name using language preference
+        base = os.path.splitext(filename)[0]
+        candidate = resolve_json_file(HISTORY_DATA_FOLDER, base, lang=lang)
+        if candidate:
+            path = os.path.join(HISTORY_DATA_FOLDER, candidate)
+        else:
+            return jsonify({"error": "Not found"}), 404
+    data = load_json_safely(path)
+    if data is None:
+        return jsonify({"error": "Not found"}), 404
+    if isinstance(data, dict):
+        data = {
+            **data,
+            "source": make_source_meta(
+                f"HistoryData/{filename}",
+                f"/api/history/{os.path.basename(path)}",
+                path,
+                "Dữ liệu lịch sử nội bộ"
+            )
+        }
+        return jsonify(data)
+    return jsonify(data)
 
 @app.route('/api/geodata/<filename>')
 def get_geo_data(filename):
+    lang = request.args.get('lang')
     if not filename.endswith('.json'): return jsonify({"error": "Invalid type"}), 400
-    return send_from_directory(GEO_DATA_FOLDER, filename)
+    if os.path.basename(filename) != filename: return jsonify({"error": "Invalid path"}), 400
+    path = os.path.join(GEO_DATA_FOLDER, filename)
+    if lang and not re.search(r'(_|-)(vi|en)\.json$', filename, re.IGNORECASE):
+        candidate = resolve_json_file(GEO_DATA_FOLDER, os.path.splitext(filename)[0], lang=lang)
+        if candidate:
+            path = os.path.join(GEO_DATA_FOLDER, candidate)
+    if not os.path.exists(path):
+        base = os.path.splitext(filename)[0]
+        candidate = resolve_json_file(GEO_DATA_FOLDER, base, lang=lang)
+        if candidate:
+            path = os.path.join(GEO_DATA_FOLDER, candidate)
+        else:
+            return jsonify({"error": "Not found"}), 404
+    data = load_json_safely(path)
+    if data is None:
+        return jsonify({"error": "Not found"}), 404
+    if isinstance(data, dict):
+        data = {
+            **data,
+            "source": make_source_meta(
+                f"GeoData/{os.path.basename(path)}",
+                f"/api/geodata/{os.path.basename(path)}",
+                path,
+                "Dữ liệu địa danh nội bộ"
+            )
+        }
+    return jsonify(data)
 
 @app.route('/api/merger/communes')
 def get_commune_merger_data():
-    data = get_merge_dict()
+    data = get_merge_dict(lang=request.args.get('lang', 'vi'))
     return jsonify(data)
+
+@app.route('/api/search')
+def search_internal_data():
+    query = request.args.get("q", "").strip()
+    lang = request.args.get("lang", "vi")
+    try:
+        limit = min(int(request.args.get("limit", 12) or 12), 30)
+    except ValueError:
+        limit = 12
+    if not query:
+        return jsonify({"query": query, "results": []})
+
+    intents = infer_query_intents(query)
+    scored = []
+    for doc in get_rag_documents(lang=lang):
+        score = score_rag_doc(doc, query, query, None, intents)
+        if score >= 6.5:
+            scored.append((score, doc))
+    scored.sort(key=lambda item: item[0], reverse=True)
+
+    results = []
+    seen = set()
+    for score, doc in scored:
+        source_meta = doc.get("source_meta") or {}
+        key = (doc.get("kind"), doc.get("title"), source_meta.get("url"))
+        if key in seen:
+            continue
+        seen.add(key)
+        results.append({
+            "title": doc.get("title"),
+            "kind": doc.get("kind"),
+            "kind_label": RAG_KIND_LABELS.get(doc.get("kind"), doc.get("kind")),
+            "province": doc.get("province"),
+            "district": doc.get("district"),
+            "commune": doc.get("commune"),
+            "year": doc.get("year"),
+            "url": source_meta.get("url"),
+            "source": source_meta,
+            "score": round(score, 1),
+            "excerpt": compact_text(doc.get("content"), 180),
+        })
+        if len(results) >= limit:
+            break
+    return jsonify({"query": query, "results": results})
+
+@app.route('/api/report/province')
+def get_province_report():
+    province_name = request.args.get("name", "").strip()
+    lang = request.args.get('lang', 'vi')
+    if not province_name:
+        return jsonify({"error": "Missing province name"}), 400
+
+    history_filename = resolve_json_file(HISTORY_DATA_FOLDER, province_name, lang=lang)
+    geo_filename = resolve_json_file(GEO_DATA_FOLDER, province_name, lang=lang)
+    report = {
+        "province": province_name,
+        "generated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "events": [],
+        "sites": [],
+        "admin_changes": [],
+        "sources": [],
+    }
+
+    if history_filename:
+        path = os.path.join(HISTORY_DATA_FOLDER, history_filename)
+        source = make_source_meta(
+            f"HistoryData/{history_filename}",
+            f"/api/history/{history_filename}",
+            path,
+            "Dữ liệu lịch sử nội bộ"
+        )
+        data = load_json_safely(path)
+        if isinstance(data, dict) and isinstance(data.get("events"), list):
+            for event in data["events"]:
+                if not isinstance(event, dict):
+                    continue
+                report["events"].append({
+                    **event,
+                    "source": {
+                        **source,
+                        "url": f"/api/history/{history_filename}#{event.get('id') or normalize_file_stem(event.get('title'))}",
+                    }
+                })
+            report["sources"].append(source)
+
+    if geo_filename:
+        path = os.path.join(GEO_DATA_FOLDER, geo_filename)
+        source = make_source_meta(
+            f"GeoData/{geo_filename}",
+            f"/api/geodata/{geo_filename}",
+            path,
+            "Dữ liệu địa danh nội bộ"
+        )
+        data = load_json_safely(path)
+        if isinstance(data, dict) and isinstance(data.get("sites"), list):
+            for idx, site in enumerate(data["sites"]):
+                if not isinstance(site, dict):
+                    continue
+                report["sites"].append({
+                    **site,
+                    "source": {
+                        **source,
+                        "url": f"/api/geodata/{geo_filename}#site-{idx}",
+                    }
+                })
+            report["sources"].append(source)
+
+    timeline_path = os.path.join(HISTORY_DATA_FOLDER, "timeline_index.json")
+    timeline_data = load_json_safely(timeline_path)
+    province_norm = normalize_search_text(province_name)
+    if isinstance(timeline_data, list):
+        source = make_source_meta(
+            "HistoryData/timeline_index.json",
+            "/api/history/timeline_index.json",
+            timeline_path,
+            "Dữ liệu biến động hành chính nội bộ"
+        )
+        for idx, item in enumerate(timeline_data):
+            if not isinstance(item, dict):
+                continue
+            changes_text = format_change_list(item.get("changes"))
+            searchable = normalize_search_text(" ".join(flatten_values([
+                item.get("title"), item.get("description"), changes_text
+            ])))
+            if province_norm and province_norm in searchable:
+                report["admin_changes"].append({
+                    **item,
+                    "source": {
+                        **source,
+                        "url": f"/api/history/timeline_index.json#timeline-{item.get('year') or idx}",
+                    }
+                })
+        if report["admin_changes"]:
+            report["sources"].append(source)
+
+    if not report["events"] and not report["sites"] and not report["admin_changes"]:
+        return jsonify({"error": "No report data found", "report": report}), 404
+    return jsonify(report)
 
 @app.route('/api/chat', methods=['POST'])
 def chat():
@@ -916,6 +1334,7 @@ def chat():
     session_id = data.get('session_id')
     reset = data.get('reset', False)
     map_context = data.get('map_context')
+    lang = data.get('lang', 'vi')
     
     if not session_id: return jsonify({"error": "Missing session_id"}), 400
 
@@ -935,31 +1354,55 @@ def chat():
             - Nếu ngữ cảnh RAG có nhiều mục, hãy tổng hợp những mục khớp nhất với câu hỏi; bỏ qua mục có vẻ không liên quan.
             - Nếu người dùng hỏi sáp nhập/địa giới hiện nay mà RAG có dữ liệu tương ứng, hãy nói rõ đơn vị cũ hiện nay thuộc/tạo thành đơn vị nào.
             - Nếu dữ liệu nội bộ không đủ để khẳng định một chi tiết, hãy nói rõ "trong dữ liệu hệ thống hiện chưa có thông tin này" thay vì bịa thêm."""
+            if str(lang).lower() == 'en':
+                system_prompt = """You are Viemacle, an expert on Vietnamese history and geography.
+            RULES:
+            - Answer clearly and accurately in English.
+            - If the user asks about a place before July 1, 2025, answer based on that historical context.
+            - If [MAP CONTEXT] is provided, the user selected an area on the map; understand "here", "this place", and similar references as that selected area.
+            - If [INTERNAL RAG CONTEXT] is provided, use it as the priority reference and answer only with relevant details.
+            - If internal data is not enough to confirm a detail, say that the system data does not currently contain that information instead of inventing it."""
             
+            if str(lang).lower() == 'en':
+                system_prompt += "\n- When using RAG items, answer naturally and do not add source lists or citation codes."
+            else:
+                system_prompt += "\n- Khi dùng mục RAG, hãy trả lời tự nhiên, không tự thêm danh sách nguồn hoặc mã trích dẫn."
+
             history = [
                 {"role": "user", "parts": [{"text": system_prompt}]},
-                {"role": "model", "parts": [{"text": "Tôi đã hiểu quy tắc. Tôi đã sẵn sàng."}]}
+                {"role": "model", "parts": [{"text": "I understand the rules and am ready." if str(lang).lower() == 'en' else "Tôi đã hiểu quy tắc. Tôi đã sẵn sàng."}]}
             ]
 
             chat_sessions[session_id] = gemini_client.chats.create(model='gemini-2.5-flash', history=history)
             
-            if reset: return jsonify({"response": "Đã bắt đầu cuộc trò chuyện mới."})
+            if reset:
+                reset_text = "Started a new conversation." if str(lang).lower() == 'en' else "Đã bắt đầu cuộc trò chuyện mới."
+                return jsonify({"response": reset_text})
 
         if not user_message: return jsonify({"response": "..."})
 
         session_history_text = get_recent_rag_memory_text(session_id)
-        dynamic_context = retrieve_rag_context(user_message, map_context, session_history_text)
+        dynamic_context, rag_sources = retrieve_rag_context(
+            user_message,
+            map_context,
+            session_history_text,
+            include_sources=True,
+            lang=lang
+        )
         map_context_text = format_map_selection_context(map_context)
 
         final_message = user_message
         if map_context_text:
-            final_message += f"\n\n[NGỮ CẢNH BẢN ĐỒ - VÙNG NGƯỜI DÙNG ĐANG CHỌN]:\n{map_context_text}"
+            map_header = "[MAP CONTEXT - USER SELECTED AREA]" if str(lang).lower() == 'en' else "[NGỮ CẢNH BẢN ĐỒ - VÙNG NGƯỜI DÙNG ĐANG CHỌN]"
+            final_message += f"\n\n{map_header}:\n{map_context_text}"
         if dynamic_context:
-            final_message += f"\n\n[NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ ĐỂ THAM KHẢO TRẢ LỜI]:\n{dynamic_context}"
+            rag_header = "[INTERNAL RAG CONTEXT FOR ANSWERING]" if str(lang).lower() == 'en' else "[NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ ĐỂ THAM KHẢO TRẢ LỜI]"
+            final_message += f"\n\n{rag_header}:\n{dynamic_context}"
 
         response = chat_sessions[session_id].send_message(final_message)
         remember_rag_turn(session_id, user_message, map_context)
-        return jsonify({"response": response.text})
+        response_text = response.text
+        return jsonify({"response": response_text, "sources": []})
         
     except Exception as e:
         print(f"Chat Error: {e}")
