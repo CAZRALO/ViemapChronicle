@@ -117,6 +117,8 @@
             createdAt: 'Created at',
             noReportPlace: 'No selected place to export.',
             noData: 'No data.',
+            relatedVideos: 'Suggested videos',
+            watchOnYoutube: 'Open on YouTube',
             seeOnGoogleMaps: 'View on Google Maps',
             typeNatural: 'Natural',
             typeHistorical: 'Historical',
@@ -128,7 +130,11 @@
             currentlySelect: 'Selected',
             connectionError: 'Connection error.',
             newConversationStarted: 'Started a new conversation.',
-            noName: 'Unknown name'
+            noName: 'Unknown name',
+            tourSkip: 'Skip',
+            tourPrev: 'Back',
+            tourNext: 'Next',
+            tourDone: 'Done'
         };
 
         function isEnglish() {
@@ -599,29 +605,141 @@
         };
         const TOUR_STEPS = [
             {
+                selector: '.nav-tabs',
+                title: { vi: 'Điều hướng chính', en: 'Main navigation' },
+                text: {
+                    vi: 'Bốn tab chính chia website thành bản đồ tương tác, thông tin sáp nhập, chatbot AI và trò luyện ghi nhớ bản đồ.',
+                    en: 'The four main tabs split the site into the interactive map, merger information, AI chatbot, and map memory practice.'
+                }
+            },
+            {
+                tab: 'map',
                 selector: '.smart-search',
-                title: 'Tìm kiếm thông minh',
-                text: 'Gõ không dấu, tên cũ/tên mới, tiếng Anh hoặc tên địa danh để nhảy nhanh tới vùng liên quan.'
+                title: { vi: 'Tìm kiếm thông minh', en: 'Smart search' },
+                text: {
+                    vi: 'Gõ tên tỉnh, địa danh, tên cũ/tên mới hoặc cách viết tiếng Anh để nhảy nhanh tới vùng liên quan.',
+                    en: 'Search by province, landmark, old/new name, or English/Vietnamese spelling to jump to matching places.'
+                }
             },
             {
+                tab: 'map',
+                selector: '.map-quick-toolbar',
+                title: { vi: 'Công cụ nhanh trên bản đồ', en: 'Quick map tools' },
+                text: {
+                    vi: 'Dùng các nút này để quay lại góc nhìn trước, lưu địa phương, mở bookmark/gần đây, so sánh hai năm hoặc chạy lại tour.',
+                    en: 'Use these buttons to restore the previous view, save a place, open bookmarks/recent places, compare two years, or rerun this tour.'
+                }
+            },
+            {
+                tab: 'map',
                 selector: '.control-panel',
-                title: 'Dòng thời gian và chế độ xem',
-                text: 'Đổi năm, cấp hành chính và bấm từng mốc sự kiện để tô sáng vùng có thay đổi địa giới.'
+                position: 'top',
+                title: { vi: 'Dòng thời gian và lớp bản đồ', en: 'Timeline and map layers' },
+                text: {
+                    vi: 'Kéo mốc năm, chọn cấp tỉnh/huyện/xã và bấm các mốc sự kiện để xem thay đổi hành chính theo thời gian.',
+                    en: 'Move through years, switch province/district/commune layers, and select event chips to inspect administrative changes over time.'
+                }
             },
             {
-                selector: '#btnSplitView',
-                title: 'So sánh song song',
-                text: 'Bật split view để đặt hai mốc năm cạnh nhau và nhìn rõ thay đổi địa giới.'
-            },
-            {
+                tab: 'map',
                 selector: '#infoBox',
-                title: 'Chi tiết địa phương',
-                text: 'Chọn một vùng để xem thông tin, lưu bookmark, mở lịch sử/địa danh và xuất báo cáo nhanh.'
+                title: { vi: 'Thông tin địa phương', en: 'Place details' },
+                text: {
+                    vi: 'Khi chọn một vùng trên bản đồ, khung này hiển thị thông tin nhanh và mở phần lịch sử, địa danh, nguồn và xuất báo cáo.',
+                    en: 'After you select a map area, this panel shows quick facts and opens history, landmarks, sources, and export tools.'
+                }
             },
             {
+                tab: 'map',
                 selector: '#miniChatWidget',
-                title: 'AI có ngữ cảnh bản đồ',
-                text: 'Khi bạn hover hoặc click một vùng, chatbot hiểu các câu hỏi như “ở đây có gì nổi bật?” và trả lời kèm nguồn nội bộ.'
+                openMiniChat: true,
+                title: { vi: 'Trợ lý AI có ngữ cảnh bản đồ', en: 'Map-aware AI assistant' },
+                text: {
+                    vi: 'Mini chat hiểu vùng bạn đang chỉ hoặc đã chọn, nên có thể hỏi nhanh kiểu "ở đây có gì nổi bật?".',
+                    en: 'The mini chat understands the area you are hovering or selected, so quick questions like "what stands out here?" have map context.'
+                }
+            },
+            {
+                tab: 'merger',
+                navTabName: 'merger',
+                title: { vi: 'Thông tin sáp nhập', en: 'Merger information' },
+                text: {
+                    vi: 'Tab này tổng hợp lịch sử thay đổi tỉnh/thành và dữ liệu sáp nhập đơn vị hành chính.',
+                    en: 'This tab summarizes province/city boundary history and administrative merger data.'
+                }
+            },
+            {
+                tab: 'merger',
+                selector: '#tabMerger .merger-sidebar',
+                title: { vi: 'Tìm và nhảy tới tỉnh', en: 'Search and jump by province' },
+                text: {
+                    vi: 'Ô tìm kiếm và mục lục giúp lọc nhanh tỉnh/thành trong danh sách sáp nhập.',
+                    en: 'The search field and table of contents help filter and jump through the merger list quickly.'
+                }
+            },
+            {
+                tab: 'merger',
+                selector: '#tabMerger .merger-main-content',
+                title: { vi: 'Dữ liệu thay đổi hành chính', en: 'Administrative change data' },
+                text: {
+                    vi: 'Khu vực nội dung hiển thị dòng thời gian cấp tỉnh và các cụm thay đổi cấp xã theo từng tỉnh.',
+                    en: 'The main content shows province-level timelines and commune-level change groups by province.'
+                }
+            },
+            {
+                tab: 'chat',
+                navTabName: 'chat',
+                title: { vi: 'Chatbot AI', en: 'AI chatbot' },
+                text: {
+                    vi: 'Mở không gian chat đầy đủ khi bạn muốn hỏi dài hơn về lịch sử, địa lý hoặc địa phương đang chọn trên bản đồ.',
+                    en: 'Open the full chat workspace for longer questions about history, geography, or the place selected on the map.'
+                }
+            },
+            {
+                tab: 'chat',
+                selector: '#tabChat .chat-messages',
+                title: { vi: 'Luồng hội thoại', en: 'Conversation thread' },
+                text: {
+                    vi: 'Câu trả lời của AI được giữ trong luồng này; nút cuộc trò chuyện mới sẽ đặt lại phiên hỏi đáp.',
+                    en: 'AI responses appear in this thread; the new conversation button resets the chat session.'
+                }
+            },
+            {
+                tab: 'chat',
+                selector: '#tabChat .chat-input-area',
+                position: 'top',
+                title: { vi: 'Nhập câu hỏi', en: 'Ask a question' },
+                text: {
+                    vi: 'Nhập câu hỏi rồi nhấn Enter hoặc nút gửi. Nếu đã chọn vùng trên bản đồ, chatbot sẽ nhận kèm ngữ cảnh đó.',
+                    en: 'Type a question and press Enter or Send. If a map area is selected, the chatbot receives that context too.'
+                }
+            },
+            {
+                tab: 'memory',
+                navTabName: 'memory',
+                title: { vi: 'Ghi nhớ bản đồ', en: 'Map memory' },
+                text: {
+                    vi: 'Tab này biến dữ liệu bản đồ thành trò luyện nhận diện vị trí tỉnh/thành theo từng bộ năm.',
+                    en: 'This tab turns the map data into a practice game for recognizing province/city locations by dataset year.'
+                }
+            },
+            {
+                tab: 'memory',
+                selector: '.memory-panel',
+                title: { vi: 'Thiết lập lượt chơi', en: 'Game setup' },
+                text: {
+                    vi: 'Chọn năm dữ liệu, bắt đầu lượt chơi, dùng gợi ý hoặc bỏ qua khi cần; điểm và chuỗi đúng được cập nhật tại đây.',
+                    en: 'Choose a data year, start a round, use hints or skip when needed; score and streak stats update here.'
+                }
+            },
+            {
+                tab: 'memory',
+                selector: '#memoryMap',
+                title: { vi: 'Bản đồ luyện nhớ', en: 'Practice map' },
+                text: {
+                    vi: 'Khi lượt chơi bắt đầu, bấm trực tiếp vào tỉnh/thành bạn cho là đáp án để kiểm tra trí nhớ vị trí.',
+                    en: 'When a round starts, click the province/city you think is the answer to test your location memory.'
+                }
             }
         ];
 
@@ -938,6 +1056,29 @@
             `;
         }
 
+        function getVideoItems(item) {
+            const videos = item && Array.isArray(item.videos) ? item.videos : [];
+            return videos.filter(video => video && video.url);
+        }
+
+        function renderVideoLinks(item) {
+            const videos = getVideoItems(item);
+            if (!videos.length) return '';
+            const links = videos.slice(0, 2).map(video => {
+                const title = video.title || tr('watchOnYoutube', 'Xem trên YouTube');
+                return `
+                    <a class="video-link" href="${escapeHtml(video.url)}" target="_blank" rel="noopener noreferrer" title="${escapeHtml(title)}">
+                        <i class="fab fa-youtube"></i>
+                        <span>${escapeHtml(tr('watchOnYoutube', 'Xem trên YouTube'))}</span>
+                    </a>`;
+            }).join('');
+            return `
+                <div class="video-links">
+                    <span class="video-label"><i class="fas fa-play-circle"></i> ${escapeHtml(tr('relatedVideos', 'Video liên quan'))}</span>
+                    ${links}
+                </div>`;
+        }
+
         function getStoredList(key) {
             try {
                 const value = JSON.parse(localStorage.getItem(key) || '[]');
@@ -1122,7 +1263,7 @@
             document.getElementById('btnBookmarkPlace')?.addEventListener('click', saveCurrentBookmark);
             document.getElementById('btnQuickPlaces')?.addEventListener('click', toggleQuickPlacesPanel);
             document.getElementById('btnSplitView')?.addEventListener('click', () => toggleSplitView());
-            document.getElementById('btnQuickTour')?.addEventListener('click', startQuickTour);
+            document.getElementById('btnQuickTour')?.addEventListener('click', () => startQuickTour());
             document.addEventListener('click', e => {
                 const toolbar = document.querySelector('.map-quick-toolbar');
                 if (!toolbar || toolbar.contains(e.target)) return;
@@ -1610,6 +1751,7 @@
                 const tagHtml = Array.isArray(ev.tags) && ev.tags.length
                     ? `<div class="event-tags">${ev.tags.map(tag => `<span class="event-tag">${escapeHtml(tag)}</span>`).join('')}</div>`
                     : '';
+                const videoHtml = renderVideoLinks(ev);
                 return `
                     <div class="event-item">
                         <div class="event-year">${escapeHtml(timeDisplay)} ${sourceBadge}</div>
@@ -1617,6 +1759,7 @@
                         ${locDisplay ? `<div class="event-loc"><i class="fas fa-map-marker-alt"></i> ${escapeHtml(locDisplay)}</div>` : ''}
                         ${desc ? `<div class="event-desc">${escapeHtml(desc)}</div>` : ''}
                         ${tagHtml}
+                        ${videoHtml}
                     </div>`;
             }).join('');
         }
@@ -2538,11 +2681,20 @@
             }
         }
 
-        function startQuickTour() {
-            currentTourIndex = 0;
+        function getTourCopy(value) {
+            if (!value || typeof value === 'string') return value || '';
+            return isEnglish() ? (value.en || value.vi || '') : (value.vi || value.en || '');
+        }
+
+        function startQuickTour(startIndex = 0) {
+            const requestedIndex = Number.isInteger(startIndex) ? startIndex : 0;
+            currentTourIndex = Math.max(0, Math.min(requestedIndex, TOUR_STEPS.length - 1));
             const overlay = document.getElementById('tourOverlay');
             overlay.classList.add('visible');
             overlay.setAttribute('aria-hidden', 'false');
+            overlay.setAttribute('role', 'dialog');
+            overlay.setAttribute('aria-modal', 'true');
+            document.body.classList.add('tour-running');
             renderTourStep();
         }
 
@@ -2550,6 +2702,100 @@
             const overlay = document.getElementById('tourOverlay');
             overlay.classList.remove('visible');
             overlay.setAttribute('aria-hidden', 'true');
+            document.body.classList.remove('tour-running');
+        }
+
+        function getNavTabElement(tabName) {
+            const navItems = document.querySelectorAll('.nav-item');
+            for (const item of navItems) {
+                const onclick = item.getAttribute('onclick') || '';
+                if (onclick.includes(`switchMainTab('${tabName}')`) || onclick.includes(`switchMainTab("${tabName}")`)) {
+                    return item;
+                }
+            }
+            return null;
+        }
+
+        function prepareTourStep(step) {
+            if (step.tab) {
+                switchMainTab(step.tab);
+                if (step.tab === 'memory') {
+                    ensureMemoryMap();
+                    setTimeout(() => memoryMap?.invalidateSize(), 60);
+                }
+                if (step.tab === 'map') {
+                    setTimeout(() => map?.invalidateSize(), 60);
+                }
+            }
+            if (step.openMiniChat) toggleMiniChat(true);
+            document.getElementById('smartSearchResults')?.classList.remove('visible');
+            document.getElementById('quickPlacesPanel')?.classList.remove('visible');
+        }
+
+        function getTourTarget(step) {
+            if (step.navTabName) return getNavTabElement(step.navTabName);
+            if (step.selector) return document.querySelector(step.selector);
+            return null;
+        }
+
+        function getFallbackTourRect() {
+            return {
+                left: window.innerWidth / 2 - 100,
+                right: window.innerWidth / 2 + 100,
+                top: window.innerHeight / 2 - 50,
+                bottom: window.innerHeight / 2 + 50,
+                width: 200,
+                height: 100
+            };
+        }
+
+        function isUsableTourRect(rect) {
+            return rect && rect.width > 0 && rect.height > 0 && rect.bottom > 0 && rect.right > 0 && rect.top < window.innerHeight && rect.left < window.innerWidth;
+        }
+
+        function positionTourElements(step) {
+            const spotlight = document.getElementById('tourSpotlight');
+            const card = document.getElementById('tourCard');
+            const target = getTourTarget(step);
+            if (target && !step.navTabName && target.scrollIntoView) {
+                target.scrollIntoView({ block: 'center', inline: 'nearest', behavior: 'auto' });
+            }
+
+            let rect = target ? target.getBoundingClientRect() : null;
+            if (!isUsableTourRect(rect)) rect = getFallbackTourRect();
+
+            document.getElementById('tourStepCount').textContent = `${currentTourIndex + 1}/${TOUR_STEPS.length}`;
+            document.getElementById('tourTitle').textContent = getTourCopy(step.title);
+            document.getElementById('tourText').textContent = getTourCopy(step.text);
+
+            const prevBtn = document.getElementById('tourPrevBtn');
+            const nextBtn = document.getElementById('tourNextBtn');
+            const skipBtn = document.getElementById('tourSkipBtn');
+            prevBtn.textContent = tr('tourPrev', 'Trước');
+            prevBtn.disabled = currentTourIndex === 0;
+            nextBtn.textContent = currentTourIndex === TOUR_STEPS.length - 1 ? tr('tourDone', 'Xong') : tr('tourNext', 'Tiếp');
+            skipBtn.textContent = tr('tourSkip', 'Bỏ qua');
+
+            const margin = 8;
+            const spotLeft = Math.max(8, Math.min(rect.left - margin, window.innerWidth - 36));
+            const spotTop = Math.max(8, Math.min(rect.top - margin, window.innerHeight - 36));
+            const spotRight = Math.min(window.innerWidth - 8, Math.max(spotLeft + 28, rect.right + margin));
+            const spotBottom = Math.min(window.innerHeight - 8, Math.max(spotTop + 28, rect.bottom + margin));
+            spotlight.style.left = `${spotLeft}px`;
+            spotlight.style.top = `${spotTop}px`;
+            spotlight.style.width = `${spotRight - spotLeft}px`;
+            spotlight.style.height = `${spotBottom - spotTop}px`;
+
+            const cardWidth = Math.min(380, window.innerWidth - 28);
+            card.style.width = `${cardWidth}px`;
+            const cardHeight = Math.min(card.offsetHeight || 220, window.innerHeight - 24);
+            let left = Math.min(Math.max(rect.left, 14), window.innerWidth - cardWidth - 14);
+            let top = rect.bottom + 16;
+            if (step.position === 'top' || top + cardHeight > window.innerHeight - 12) top = rect.top - cardHeight - 16;
+            if (top < 12) top = Math.min(window.innerHeight - cardHeight - 12, 12);
+            if (top < 12) top = 12;
+            card.style.left = `${left}px`;
+            card.style.top = `${top}px`;
         }
 
         function renderTourStep() {
@@ -2558,29 +2804,13 @@
                 closeQuickTour();
                 return;
             }
-            const spotlight = document.getElementById('tourSpotlight');
-            const card = document.getElementById('tourCard');
-            const target = document.querySelector(step.selector);
-            const margin = 8;
-            let rect = target ? target.getBoundingClientRect() : { left: window.innerWidth / 2 - 80, top: window.innerHeight / 2 - 40, width: 160, height: 80 };
-            spotlight.style.left = `${Math.max(8, rect.left - margin)}px`;
-            spotlight.style.top = `${Math.max(8, rect.top - margin)}px`;
-            spotlight.style.width = `${Math.min(window.innerWidth - 16, rect.width + margin * 2)}px`;
-            spotlight.style.height = `${Math.min(window.innerHeight - 16, rect.height + margin * 2)}px`;
-            document.getElementById('tourStepCount').textContent = `${currentTourIndex + 1}/${TOUR_STEPS.length}`;
-            document.getElementById('tourTitle').textContent = step.title;
-            document.getElementById('tourText').textContent = step.text;
-            const cardWidth = Math.min(360, window.innerWidth - 28);
-            let left = rect.left;
-            let top = rect.bottom + 16;
-            if (top + 220 > window.innerHeight) top = rect.top - 236;
-            if (top < 12) top = 12;
-            if (left + cardWidth > window.innerWidth - 14) left = window.innerWidth - cardWidth - 14;
-            if (left < 14) left = 14;
-            card.style.left = `${left}px`;
-            card.style.top = `${top}px`;
-            document.getElementById('tourPrevBtn').disabled = currentTourIndex === 0;
-            document.getElementById('tourNextBtn').textContent = currentTourIndex === TOUR_STEPS.length - 1 ? 'Xong' : 'Tiếp';
+            prepareTourStep(step);
+            const renderIndex = currentTourIndex;
+            requestAnimationFrame(() => {
+                if (renderIndex === currentTourIndex && document.getElementById('tourOverlay')?.classList.contains('visible')) {
+                    positionTourElements(step);
+                }
+            });
         }
 
         document.getElementById('tourSkipBtn')?.addEventListener('click', closeQuickTour);
@@ -2591,6 +2821,20 @@
         document.getElementById('tourNextBtn')?.addEventListener('click', () => {
             currentTourIndex += 1;
             renderTourStep();
+        });
+        document.addEventListener('keydown', e => {
+            if (!document.getElementById('tourOverlay')?.classList.contains('visible')) return;
+            if (!['Escape', 'ArrowLeft', 'ArrowRight'].includes(e.key)) return;
+            e.preventDefault();
+            if (e.key === 'Escape') closeQuickTour();
+            if (e.key === 'ArrowLeft') {
+                currentTourIndex = Math.max(0, currentTourIndex - 1);
+                renderTourStep();
+            }
+            if (e.key === 'ArrowRight') {
+                currentTourIndex += 1;
+                renderTourStep();
+            }
         });
         window.addEventListener('resize', () => {
             if (document.getElementById('tourOverlay')?.classList.contains('visible')) renderTourStep();
@@ -2756,10 +3000,10 @@
 
                     let descHtml = '';
                     if (site.event && site.event !== 'null') {
-                        descHtml = `<div class="site-desc">${site.event}</div>`;
+                        descHtml = `<div class="site-desc">${escapeHtml(site.event)}</div>`;
                     }
 
-                    const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge" style="float:right; margin-top: -2px;">${site.sourceProv}</span>` : '';
+                    const sourceBadge = sourceProvinces.length > 1 ? `<span class="merged-source-badge" style="float:right; margin-top: -2px;">${escapeHtml(site.sourceProv)}</span>` : '';
 
                     const placeParts = [];
                     if (site.place) {
@@ -2769,12 +3013,14 @@
                     }
                     const googleSearchQuery = encodeURIComponent(`${site.name} ${placeParts.join(' ')}`.trim());
                     const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${googleSearchQuery}`;
+                    const videoHtml = renderVideoLinks(site);
                     sitesHtml += `
                     <div class="site-item">
-                        <div class="site-name">${site.name} ${sourceBadge}</div>
-                        <div class="site-type">${typeDisplay}</div>
+                        <div class="site-name">${escapeHtml(site.name)} ${sourceBadge}</div>
+                        <div class="site-type">${escapeHtml(typeDisplay || '')}</div>
                         ${descHtml}
-                        <div class="site-loc"><i class="fas fa-map-pin"></i> ${placeParts.join(', ')}</div>
+                        <div class="site-loc"><i class="fas fa-map-pin"></i> ${escapeHtml(placeParts.join(', '))}</div>
+                        ${videoHtml}
                         <a class="site-map-link" href="${googleMapsUrl}" target="_blank" rel="noopener noreferrer">
                             <i class="fas fa-location-dot"></i> ${tr('seeOnGoogleMaps', 'Xem trên Google Maps')}
                         </a>

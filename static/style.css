@@ -1169,6 +1169,36 @@
             text-decoration: none;
         }
         .source-pill:hover { border-color: var(--secondary-color); color: var(--primary-color); }
+        .video-links {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 8px;
+            margin-top: 10px;
+        }
+        .video-label {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            color: #7a5030;
+            font-size: 0.82rem;
+            font-weight: 700;
+        }
+        .video-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: #fff;
+            background: #c4302b;
+            border: 1px solid #b52a25;
+            padding: 7px 10px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 0.84rem;
+            font-weight: 700;
+            line-height: 1;
+        }
+        .video-link:hover { background: #a82420; color: #fff; }
         .advanced-filter-grid {
             display: grid;
             grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1198,7 +1228,7 @@
             content: "";
             position: absolute;
             inset: 0;
-            background: rgba(8, 22, 12, 0.48);
+            display: none;
         }
         .tour-spotlight {
             position: absolute;
@@ -1217,6 +1247,7 @@
             padding: 16px;
             box-shadow: 0 18px 40px rgba(0,0,0,0.28);
             color: #243824;
+            box-sizing: border-box;
         }
         .tour-card h3 { margin: 4px 0 8px; color: var(--primary-color); font-size: 1.05rem; }
         .tour-card p { margin: 0; line-height: 1.5; color: #4d604d; font-size: 0.92rem; }
@@ -1238,6 +1269,13 @@
         }
         .tour-btn.primary { background: var(--secondary-color); color: #fff; border-color: var(--secondary-color); }
         .tour-btn.secondary { color: #657565; }
+        .tour-btn:disabled {
+            opacity: 0.45;
+            cursor: not-allowed;
+        }
+        body.tour-running .tour-card {
+            pointer-events: auto;
+        }
 
         /* --- MAP UI: màn hình nhỏ --- */
         @media (max-width: 768px) {
@@ -1265,6 +1303,13 @@
                 border-top: 2px solid rgba(46,125,50,0.35);
             }
             .advanced-filter-grid { grid-template-columns: 1fr; }
+            .tour-card {
+                max-height: min(58vh, 420px);
+                overflow-y: auto;
+            }
+            .tour-actions {
+                flex-wrap: wrap;
+            }
         }
         @media (max-width: 560px) {
             .navbar-brand-text { display: none; }
