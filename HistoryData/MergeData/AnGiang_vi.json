@@ -2,814 +2,2316 @@
   "An Giang": [
     {
       "from": [
-        { "commune": "thị trấn An Phú", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Hội Đông", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "một phần xã Phú Hội", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Phước Hưng", "district": "huyện An Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn An Phú",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Hội Đông",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "một phần xã Phú Hội",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phước Hưng",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã An Phú", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã An Phú",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đa Phước", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Trường", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Hậu", "district": "huyện An Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Đa Phước",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Trường",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Hậu",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Hậu", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh Hậu",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quốc Thái", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Nhơn Hội", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "một phần xã Phước Hưng", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "phần còn lại xã Phú Hội", "district": "huyện An Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Quốc Thái",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Nhơn Hội",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "một phần xã Phước Hưng",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phần còn lại xã Phú Hội",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Nhơn Hội", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Nhơn Hội",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Long Bình", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Khánh An", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Khánh Bình", "district": "huyện An Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Long Bình",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Khánh An",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Khánh Bình",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Khánh Bình", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Khánh Bình",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Hữu", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Lộc", "district": "huyện An Phú", "province": "tỉnh An Giang" },
-        { "commune": "phần còn lại xã Phước Hưng", "district": "huyện An Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Phú Hữu",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Lộc",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phần còn lại xã Phước Hưng",
+          "district": "huyện An Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Phú Hữu", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Phú Hữu",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân An", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "xã Tân Thạnh", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "xã Long An", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Tân An",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tân Thạnh",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Long An",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Tân An", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Tân An",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Vĩnh", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "xã Lê Chánh", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "xã Châu Phong", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Phú Vĩnh",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Lê Chánh",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Châu Phong",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Châu Phong", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Châu Phong",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Hòa", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Lộc", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Xương", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Vĩnh Hòa",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Lộc",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Xương",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Xương", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh Xương",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phú Mỹ", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Tân Hòa", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Tân Trung", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Hưng", "district": "huyện Phú Tân", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Phú Mỹ",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tân Hòa",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tân Trung",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Hưng",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Phú Tân", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Phú Tân",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Thọ", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Xuân", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú An", "district": "huyện Phú Tân", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Phú Thọ",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Xuân",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú An",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Phú An", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Phú An",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hiệp Xương", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Bình", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Thạnh Đông", "district": "huyện Phú Tân", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Hiệp Xương",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Bình",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Thạnh Đông",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Bình Thạnh Đông", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Bình Thạnh Đông",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chợ Vàm", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Thạnh", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Thành", "district": "huyện Phú Tân", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Chợ Vàm",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Thạnh",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Thành",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Chợ Vàm", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Chợ Vàm",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Hiệp", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Hòa Lạc", "district": "huyện Phú Tân", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Phú Hiệp",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Hòa Lạc",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Hòa Lạc", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Hòa Lạc",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Hòa", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Long", "district": "huyện Phú Tân", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Lâm", "district": "huyện Phú Tân", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Long Hòa",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Long",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Lâm",
+          "district": "huyện Phú Tân",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Phú Lâm", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Phú Lâm",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Cái Dầu", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Long", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Phú", "district": "huyện Châu Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Cái Dầu",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Long",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Phú",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Châu Phú", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Châu Phú",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Khánh Hòa", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ Đức", "district": "huyện Châu Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Khánh Hòa",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ Đức",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Mỹ Đức", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Mỹ Đức",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vĩnh Thạnh Trung", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ Phú", "district": "huyện Châu Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Vĩnh Thạnh Trung",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ Phú",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Thạnh Trung", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh Thạnh Trung",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Thủy", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Chánh", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Mỹ", "district": "huyện Châu Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Bình Thủy",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Chánh",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Mỹ",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Bình Mỹ", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Bình Mỹ",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đào Hữu Cảnh", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Ô Long Vĩ", "district": "huyện Châu Phú", "province": "tỉnh An Giang" },
-        { "commune": "xã Thạnh Mỹ Tây", "district": "huyện Châu Phú", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Đào Hữu Cảnh",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Ô Long Vĩ",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Thạnh Mỹ Tây",
+          "district": "huyện Châu Phú",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Thạnh Mỹ Tây", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Thạnh Mỹ Tây",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Văn Giáo", "district": "huyện Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Trung", "district": "huyện Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "xã An Cư", "district": "huyện Tịnh Biên", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Văn Giáo",
+          "district": "huyện Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Trung",
+          "district": "huyện Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã An Cư",
+          "district": "huyện Tịnh Biên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã An Cư", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã An Cư",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Lập", "district": "huyện Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "xã An Hảo", "district": "huyện Tịnh Biên", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã An Hảo",
+          "district": "huyện Tịnh Biên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Núi Cấm", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Núi Cấm",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Ba Chúc", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Lạc Quới", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Lê Trì", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Ba Chúc",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Lạc Quới",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Lê Trì",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Ba Chúc", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Ba Chúc",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tri Tôn", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Núi Tô", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Châu Lăng", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Tri Tôn",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Núi Tô",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Châu Lăng",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Tri Tôn", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Tri Tôn",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Tức", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Lương Phi", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Ô Lâm", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã An Tức",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Lương Phi",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Ô Lâm",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Ô Lâm", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Ô Lâm",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Cô Tô", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Tà Đảnh", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Tân Tuyến", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Cô Tô",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tà Đảnh",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tân Tuyến",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Cô Tô", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Cô Tô",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Phước", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Lương An Trà", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Gia", "district": "huyện Tri Tôn", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Vĩnh Phước",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Lương An Trà",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Gia",
+          "district": "huyện Tri Tôn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Gia", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh Gia",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn An Châu", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Hòa Bình Thạnh", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Thành", "district": "huyện Châu Thành", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn An Châu",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Hòa Bình Thạnh",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Thành",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã An Châu", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã An Châu",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Thạnh", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã An Hòa", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Hòa", "district": "huyện Châu Thành", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Bình Thạnh",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã An Hòa",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Hòa",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Bình Hòa", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Bình Hòa",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Lợi", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Cần Đăng", "district": "huyện Châu Thành", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Vĩnh Lợi",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Cần Đăng",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Cần Đăng", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Cần Đăng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Nhuận", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Hanh", "district": "huyện Châu Thành", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Vĩnh Nhuận",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Hanh",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Hanh", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh Hanh",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vĩnh Bình", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Tân Phú", "district": "huyện Châu Thành", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh An", "district": "huyện Châu Thành", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Vĩnh Bình",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tân Phú",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh An",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh An", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh An",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chợ Mới", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Kiến An", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Kiến Thành", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Chợ Mới",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Kiến An",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Kiến Thành",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Chợ Mới", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Chợ Mới",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tấn Mỹ", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ Hiệp", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Phước Xuân", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Tấn Mỹ",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ Hiệp",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Phước Xuân",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Cù Lao Giêng", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Cù Lao Giêng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hội An", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Hòa An", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Hòa Bình", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Hội An",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Hòa An",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Hòa Bình",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Hội An", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Hội An",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Mỹ Luông", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Long Điền A", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Long Điền B", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Mỹ Luông",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Long Điền A",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Long Điền B",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Long Điền", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Long Điền",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Mỹ Hội Đông", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Long Giang", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Nhơn Mỹ", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Mỹ Hội Đông",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Long Giang",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Nhơn Mỹ",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Nhơn Mỹ", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Nhơn Mỹ",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Thạnh Trung", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ An", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" },
-        { "commune": "xã Long Kiến", "district": "huyện Chợ Mới", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã An Thạnh Trung",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ An",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Long Kiến",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Long Kiến", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Long Kiến",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Núi Sập", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Thoại Giang", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Bình Thành", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Núi Sập",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Thoại Giang",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Bình Thành",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Thoại Sơn", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Thoại Sơn",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Óc Eo", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Vọng Thê", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Vọng Đông", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Óc Eo",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vọng Thê",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vọng Đông",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Óc Eo", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Óc Eo",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Phú", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Định Thành", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Định Mỹ", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Vĩnh Phú",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Định Thành",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Định Mỹ",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Định Mỹ", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Định Mỹ",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phú Hòa", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Phú Thuận", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Chánh", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" }
+        {
+          "commune": "thị trấn Phú Hòa",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phú Thuận",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Chánh",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Phú Hòa", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Phú Hòa",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Khánh", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Trạch", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Vĩnh Khánh",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Trạch",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Trạch", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Vĩnh Trạch",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Bình", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ Phú Đông", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" },
-        { "commune": "xã Tây Phú", "district": "huyện Thoại Sơn", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã An Bình",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ Phú Đông",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tây Phú",
+          "district": "huyện Thoại Sơn",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Tây Phú", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Tây Phú",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Mỹ Bình", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Mỹ Long", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Mỹ Xuyên", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Mỹ Phước", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Mỹ Quý", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Mỹ Hòa", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Mỹ Bình",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Mỹ Long",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Mỹ Xuyên",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Mỹ Phước",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Mỹ Quý",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Mỹ Hòa",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Long Xuyên", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Long Xuyên",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Bình Khánh", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Bình Đức", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ Khánh", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Bình Khánh",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Bình Đức",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ Khánh",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Bình Đức", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Bình Đức",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Mỹ Thạnh", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" },
-        { "commune": "phường Mỹ Thới", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Mỹ Thạnh",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Mỹ Thới",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Mỹ Thới", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Mỹ Thới",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Vĩnh Nguơn", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "phường Châu Phú A", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "phường Châu Phú B", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "phường Vĩnh Mỹ", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "một phần xã Vĩnh Châu", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Vĩnh Nguơn",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Châu Phú A",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Châu Phú B",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Vĩnh Mỹ",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "một phần xã Vĩnh Châu",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Châu Đốc", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Châu Đốc",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Núi Sam", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "xã Vĩnh Tế", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "phần còn lại xã Vĩnh Châu", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Núi Sam",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Vĩnh Tế",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phần còn lại xã Vĩnh Châu",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Vĩnh Tế", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Vĩnh Tế",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Long Thạnh", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "phường Long Sơn", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Long Thạnh",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Long Sơn",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Tân Châu", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Tân Châu",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Long Hưng", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "phường Long Châu", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" },
-        { "commune": "phường Long Phú", "district": "thị xã Tân Châu", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Long Hưng",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Long Châu",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Long Phú",
+          "district": "thị xã Tân Châu",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Long Phú", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Long Phú",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường An Phú", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "phường Tịnh Biên", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "xã An Nông", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường An Phú",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Tịnh Biên",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã An Nông",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Tịnh Biên", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Tịnh Biên",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nhơn Hưng", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "phường Nhà Bàng", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "phường Thới Sơn", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Nhơn Hưng",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Nhà Bàng",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Thới Sơn",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Thới Sơn", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Thới Sơn",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Núi Voi", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "phường Chi Lăng", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" },
-        { "commune": "xã Tân Lợi", "district": "thị xã Tịnh Biên", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Núi Voi",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "phường Chi Lăng",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Tân Lợi",
+          "district": "thị xã Tịnh Biên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Chi Lăng", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Chi Lăng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Vĩnh Thông", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "xã Phi Thông", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" },
-        { "commune": "xã Mỹ Lâm", "district": "thành phố Châu Đốc", "province": "tỉnh An Giang" }
+        {
+          "commune": "phường Vĩnh Thông",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Phi Thông",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        },
+        {
+          "commune": "xã Mỹ Lâm",
+          "district": "thành phố Châu Đốc",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "phường Vĩnh Thông", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "phường Vĩnh Thông",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Mỹ Hòa Hưng", "district": "thành phố Long Xuyên", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Mỹ Hòa Hưng",
+          "district": "thành phố Long Xuyên",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Mỹ Hòa Hưng", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Mỹ Hòa Hưng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Giang", "district": "huyện Châu Thành", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Bình Giang",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Bình Giang", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Bình Giang",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Sơn", "district": "huyện Hòn Đất", "province": "tỉnh An Giang" }
+        {
+          "commune": "xã Bình Sơn",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh An Giang"
+        }
       ],
-      "to": { "commune": "xã Bình Sơn", "province": "tỉnh An Giang" }
+      "to": {
+        "commune": "xã Bình Sơn",
+        "province": "tỉnh An Giang"
+      }
     }
   ],
   "Kiên Giang": [
     {
       "from": [
-        { "commune": "xã Vĩnh Bình Bắc", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Bình Nam", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Bình Minh", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vĩnh Bình Bắc",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Bình Nam",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Bình Minh",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Bình", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Bình",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Thuận", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Thuận", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tân Thuận",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Thuận",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Thuận", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Thuận",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vĩnh Thuận", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Phong Đông", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Phong", "district": "huyện Vĩnh Thuận", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Vĩnh Thuận",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Phong Đông",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Phong",
+          "district": "huyện Vĩnh Thuận",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Phong", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Phong",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Hòa", "district": "huyện U Minh Thượng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Yên A", "district": "huyện U Minh Thượng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hòa Chánh", "district": "huyện U Minh Thượng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Yên", "district": "huyện U Minh Thượng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vĩnh Hòa",
+          "district": "huyện U Minh Thượng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Yên A",
+          "district": "huyện U Minh Thượng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hòa Chánh",
+          "district": "huyện U Minh Thượng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Yên",
+          "district": "huyện U Minh Thượng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Hòa", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Hòa",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Minh Bắc", "district": "huyện U Minh Thượng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Minh Thuận", "district": "huyện U Minh Thượng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã An Minh Bắc",
+          "district": "huyện U Minh Thượng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Minh Thuận",
+          "district": "huyện U Minh Thượng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã U Minh Thượng", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã U Minh Thượng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đông Thạnh", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Đông Hòa", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Đông Thạnh",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Đông Hòa",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Đông Hòa", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Đông Hòa",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Thạnh", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thuận Hòa", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tân Thạnh",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thuận Hòa",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Tân Thạnh", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Tân Thạnh",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vân Khánh Đông", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Đông Hưng A", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vân Khánh Đông",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Đông Hưng A",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Đông Hưng", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Đông Hưng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thứ Mười Một", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Đông Hưng", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Đông Hưng B", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Thứ Mười Một",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Đông Hưng",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Đông Hưng B",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã An Minh", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã An Minh",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vân Khánh Tây", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vân Khánh", "district": "huyện An Minh", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vân Khánh Tây",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vân Khánh",
+          "district": "huyện An Minh",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vân Khánh", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vân Khánh",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tây Yên A", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Nam Yên", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Tây Yên", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tây Yên A",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Nam Yên",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Tây Yên",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Tây Yên", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Tây Yên",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nam Thái", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Nam Thái A", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Đông Thái", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Nam Thái",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Nam Thái A",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Đông Thái",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Đông Thái", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Đông Thái",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thứ Ba", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Đông Yên", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hưng Yên", "district": "huyện An Biên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Thứ Ba",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Đông Yên",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hưng Yên",
+          "district": "huyện An Biên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã An Biên", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã An Biên",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thới Quản", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thủy Liễu", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Định Hòa", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Thới Quản",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thủy Liễu",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Định Hòa",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Định Hòa", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Định Hòa",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Gò Quao", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Phước B", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Định An", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Gò Quao",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Phước B",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Định An",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Gò Quao", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Gò Quao",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Hòa Hưng Bắc", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Hòa Hưng Nam", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vĩnh Hòa Hưng Bắc",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Hòa Hưng Nam",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Hòa Hưng", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Hòa Hưng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Thắng", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Phước A", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Tuy", "district": "huyện Gò Quao", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vĩnh Thắng",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Phước A",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Tuy",
+          "district": "huyện Gò Quao",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Tuy", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Tuy",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Giồng Riềng", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Bàn Tân Định", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Hòa", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Bàn Thạch", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Bình", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Giồng Riềng",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Bàn Tân Định",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Hòa",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Bàn Thạch",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Bình",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Giồng Riềng", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Giồng Riềng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thạnh Lộc", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Phước", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Hưng", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Thạnh Lộc",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Phước",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Hưng",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Thạnh Hưng", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Thạnh Hưng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Phú", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Thạnh", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Long Thạnh", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vĩnh Phú",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Thạnh",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Long Thạnh",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Long Thạnh", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Long Thạnh",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa An", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hòa Lợi", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hòa Hưng", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Hòa An",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hòa Lợi",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hòa Hưng",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Hòa Hưng", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Hòa Hưng",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọc Thuận", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Ngọc Thành", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Ngọc Chúc", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Ngọc Thuận",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Ngọc Thành",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Ngọc Chúc",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Ngọc Chúc", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Ngọc Chúc",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọc Hòa", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hòa Thuận", "district": "huyện Giồng Riềng", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Ngọc Hòa",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hòa Thuận",
+          "district": "huyện Giồng Riềng",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Hòa Thuận", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Hòa Thuận",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Hòa", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Tân An", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Tân Thành", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Tân Hội", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tân Hòa",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Tân An",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Tân Thành",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Tân Hội",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Tân Hội", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Tân Hội",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tân Hiệp", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Tân Hiệp B", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Đông B", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Đông", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Tân Hiệp",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Tân Hiệp B",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Đông B",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Đông",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Tân Hiệp", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Tân Hiệp",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Hiệp A", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Trị", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thạnh Đông A", "district": "huyện Tân Hiệp", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tân Hiệp A",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Trị",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thạnh Đông A",
+          "district": "huyện Tân Hiệp",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Thạnh Đông", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Thạnh Đông",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thạnh Lộc", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mong Thọ", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mong Thọ A", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mong Thọ B", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Thạnh Lộc",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mong Thọ",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mong Thọ A",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mong Thọ B",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Thạnh Lộc", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Thạnh Lộc",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Minh Lương", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Minh Hòa", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Giục Tượng", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Minh Lương",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Minh Hòa",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Giục Tượng",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Châu Thành", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Châu Thành",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình An", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Hòa Hiệp", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Hòa Phú", "district": "huyện Châu Thành", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Bình An",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Hòa Hiệp",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Hòa Phú",
+          "district": "huyện Châu Thành",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Bình An", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Bình An",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hòn Đất", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Lình Huỳnh", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thổ Sơn", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Nam Thái Sơn", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Hòn Đất",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Lình Huỳnh",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thổ Sơn",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Nam Thái Sơn",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Hòn Đất", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Hòn Đất",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Bình", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mỹ Thái", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Sơn Kiên", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Sơn Bình",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mỹ Thái",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Sơn Kiên",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Sơn Kiên", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Sơn Kiên",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Sóc Sơn", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mỹ Hiệp Sơn", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mỹ Phước", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Mỹ Thuận", "district": "huyện Hòn Đất", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Sóc Sơn",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mỹ Hiệp Sơn",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mỹ Phước",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Mỹ Thuận",
+          "district": "huyện Hòn Đất",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Mỹ Thuận", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Mỹ Thuận",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Kiên Bình", "district": "huyện Kiên Lương", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hòa Điền", "district": "huyện Kiên Lương", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Kiên Bình",
+          "district": "huyện Kiên Lương",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hòa Điền",
+          "district": "huyện Kiên Lương",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Hòa Điền", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Hòa Điền",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Kiên Lương", "district": "huyện Kiên Lương", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Bình An", "district": "huyện Kiên Lương", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Bình Trị", "district": "huyện Kiên Lương", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "thị trấn Kiên Lương",
+          "district": "huyện Kiên Lương",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Bình An",
+          "district": "huyện Kiên Lương",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Bình Trị",
+          "district": "huyện Kiên Lương",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Kiên Lương", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Kiên Lương",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Khánh Hòa", "district": "huyện Giang Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Phú Lợi", "district": "huyện Giang Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Phú Mỹ", "district": "huyện Giang Thành", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tân Khánh Hòa",
+          "district": "huyện Giang Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Phú Lợi",
+          "district": "huyện Giang Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Phú Mỹ",
+          "district": "huyện Giang Thành",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Giang Thành", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Giang Thành",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Phú", "district": "huyện Giang Thành", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Vĩnh Điều", "district": "huyện Giang Thành", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Vĩnh Phú",
+          "district": "huyện Giang Thành",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Vĩnh Điều",
+          "district": "huyện Giang Thành",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Điều", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Vĩnh Điều",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Vĩnh Quang", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Vĩnh Thanh", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Vĩnh Thanh Vân", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Vĩnh Lạc", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường An Hòa", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Vĩnh Hiệp", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường An Bình", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Rạch Sỏi", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Vĩnh Lợi", "district": "thành phố Rạch Giá", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "phường Vĩnh Quang",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Vĩnh Thanh",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Vĩnh Thanh Vân",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Vĩnh Lạc",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường An Hòa",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Vĩnh Hiệp",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường An Bình",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Rạch Sỏi",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Vĩnh Lợi",
+          "district": "thành phố Rạch Giá",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "phường Rạch Giá", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "phường Rạch Giá",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Pháo Đài", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Bình San", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Mỹ Đức", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường Đông Hồ", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "phường Pháo Đài",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Bình San",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Mỹ Đức",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường Đông Hồ",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "phường Hà Tiên", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "phường Hà Tiên",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tô Châu", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Thuận Yên", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Dương Hòa", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "phường Tô Châu",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Thuận Yên",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Dương Hòa",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "phường Tô Châu", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "phường Tô Châu",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "huyện Kiên Hải", "district": "tỉnh Kiên Giang", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "huyện Kiên Hải",
+          "district": "tỉnh Kiên Giang",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "đặc khu Kiên Hải", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "đặc khu Kiên Hải",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "phường Dương Đông", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "phường An Thới", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Dương Tơ", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Hàm Ninh", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Cửa Dương", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Bãi Thơm", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Gành Dầu", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" },
-        { "commune": "xã Cửa Cạn", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "phường Dương Đông",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "phường An Thới",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Dương Tơ",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Hàm Ninh",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Cửa Dương",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Bãi Thơm",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Gành Dầu",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        },
+        {
+          "commune": "xã Cửa Cạn",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "đặc khu Phú Quốc", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "đặc khu Phú Quốc",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thổ Châu", "district": "thành phố Phú Quốc", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Thổ Châu",
+          "district": "thành phố Phú Quốc",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "đặc khu Thổ Châu", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "đặc khu Thổ Châu",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòn Nghệ", "district": "huyện Kiên Lương", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Hòn Nghệ",
+          "district": "huyện Kiên Lương",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Hòn Nghệ", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Hòn Nghệ",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Hải", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Sơn Hải",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Sơn Hải", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Sơn Hải",
+        "province": "tỉnh An Giang"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tiên Hải", "district": "thành phố Hà Tiên", "province": "tỉnh Kiên Giang" }
+        {
+          "commune": "xã Tiên Hải",
+          "district": "thành phố Hà Tiên",
+          "province": "tỉnh Kiên Giang"
+        }
       ],
-      "to": { "commune": "xã Tiên Hải", "province": "tỉnh Kiên Giang" }
+      "to": {
+        "commune": "xã Tiên Hải",
+        "province": "tỉnh An Giang"
+      }
     }
   ]
 }

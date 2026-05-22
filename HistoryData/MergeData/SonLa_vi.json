@@ -2,578 +2,1603 @@
   "Sơn La": [
     {
       "from": [
-        { "commune": "xã Chiềng Chung", "district": "thị xã Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Đoàn Kết", "district": "thị xã Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Đoàn Kết", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Khừa", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Lóng Sập", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Lóng Sập", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Xuân", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Sơn", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Sơn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Lóng Luông", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Yên", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Men", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Vân Hồ", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Vân Hồ", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Tè", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Liên Hòa", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Quang Minh", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Song Khủa", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Song Khủa", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Khoa", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Suối Bàng", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tô Múa", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tô Múa", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tân Xuân", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" },
-        { "commune": "xã Xuân Nha", "district": "huyện Vân Hồ", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Xuân Nha", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Mường Giàng", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Bằng", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Khoang", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Ơn", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Quỳnh Nhai", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Khay", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Cà Nàng", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Chiên", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Chiên", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Pá Ma Pha Khinh", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Giôn", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Giôn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nặm Ét", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Sại", "district": "huyện Quỳnh Nhai", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Sại", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Thuận Châu", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Phổng Ly", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Thôm Mòn", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tông Lạnh", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Pấc", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Thuận Châu", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Ngàm", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nong Lay", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tông Cọ", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng La", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng La", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Bôm", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Púng Tra", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nậm Lầu", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Nậm Lầu", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bản Lầm", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Bon Phặng", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Muổi Nọi", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Muổi Nọi", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Liệp Tè", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Bó Mười", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Khiêng", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Khiêng", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Co Tòng", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Pá Lông", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Co Mạ", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Co Mạ", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phổng Lái", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Pha", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Bình Thuận", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phổng Lập", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường É", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường É", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã É Tòng", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Long Hẹ", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Long Hẹ", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ít Ong", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nặm Păm", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng San", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Muôn", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Trai", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Pi Toong", "district": "huyện Mường La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường La", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nậm Giôn", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Hua Trai", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Lao", "district": "huyện Mường La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Lao", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Chùm", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tạ Bú", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Bú", "district": "huyện Mường La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Bú", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Ân", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Công", "district": "huyện Mường La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Hoa", "district": "huyện Mường La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Hoa", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Bắc Yên", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Phiêng Ban", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Hồng Ngài", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Song Pe", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Bắc Yên", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Làng Chếu", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Háng Đồng", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tà Xùa", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tà Xùa", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Khoa", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Hua Nhàn", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tạ Khoa", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tạ Khoa", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hang Chú", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Xím Vàng", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Xím Vàng", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chim Vàn", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Pắc Ngà", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Pắc Ngà", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phiêng Côn", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Sại", "district": "huyện Bắc Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Sại", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Quang Huy", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Huy Hạ", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Huy Tường", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Huy Tân", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Huy Thượng", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Phù Yên", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tường Phù", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Suối Bau", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Sập Xa", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Gia Phù", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Gia Phù", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tường Thượng", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tường Phong", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tường Tiến", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tường Hạ", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tường Hạ", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Thải", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tân Lang", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Cơi", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Cơi", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Do", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Lang", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Bang", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Bang", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bắc Phong", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nam Phong", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tân Phong", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tân Phong", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đá Đỏ", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" },
-        { "commune": "xã Kim Bon", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Kim Bon", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Yên Châu", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Đông", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Sàng", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Pằn", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Khoi", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Sặp Vạt", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Yên Châu", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tú Nang", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Lựm", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Hặc", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Hặc", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Tương", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Lóng Phiêng", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Lóng Phiêng", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng On", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Yên Sơn", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Yên Sơn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Ban", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Kheo", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Dong", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Ve", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Mai", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Mai", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Hát Lót", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Hát Lót", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Cò Nòi", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mai Sơn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nà Ớt", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Lương", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Phiêng Pằn", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Phiêng Pằn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Bằng", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Bon", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Mung", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Mung", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Nơi", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Phiêng Cằm", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Phiêng Cằm", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Chung", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Chanh", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Chanh", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nà Bó", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Tà Hộc", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tà Hộc", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Chăn", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Sung", "district": "huyện Mai Sơn", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Sung", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Pú Bẩu", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng En", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Bó Sinh", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Bó Sinh", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Sai", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Khương", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Khương", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Cang", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Hung", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Hung", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Cai", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Khoong", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Khoong", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đứa Mòn", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Mường Lầm", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Lầm", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chiềng Phung", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nậm Ty", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Nậm Ty", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Sông Mã", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nà Nghịu", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Sông Mã", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nậm Mằn", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Huổi Một", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Huổi Một", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Yên Hưng", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Sơ", "district": "huyện Sông Mã", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Chiềng Sơ", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Và", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" },
-        { "commune": "xã Nậm Lạnh", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" },
-        { "commune": "xã Sốp Cộp", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Sốp Cộp", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Dồm Cang", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" },
-        { "commune": "xã Sam Kha", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" },
-        { "commune": "xã Púng Bánh", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Púng Bánh", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Quyết Thắng", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "phường Quyết Tâm", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "phường Chiềng Lề", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "phường Tô Hiệu", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Tô Hiệu", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Chiềng An", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Xôm", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Đen", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Chiềng An", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Chiềng Cơi", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Hua La", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Cọ", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Chiềng Cơi", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Chiềng Sinh", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Ngần", "district": "thành phố Sơn La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Chiềng Sinh", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Mộc Lỵ", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "phường Mường Sang", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "xã Chiềng Hắc", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Mộc Châu", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Đông Sang", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "phường Mộc Sơn", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Mộc Sơn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Bình Minh", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "phường Vân Sơn", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Vân Sơn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "phường Cờ Đỏ", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" },
-        { "commune": "phường Thảo Nguyên", "district": "huyện Mộc Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "phường Thảo Nguyên", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Lạn", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Lạn", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phiêng Khoài", "district": "huyện Yên Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Phiêng Khoài", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Suối Tọ", "district": "huyện Phù Yên", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Suối Tọ", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ngọc Chiến", "district": "huyện Mường La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Ngọc Chiến", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tân Yên", "district": "tỉnh Sơn La", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Tân Yên", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Bám", "district": "huyện Thuận Châu", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Bám", "province": "tỉnh Sơn La" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Lèo", "district": "huyện Sốp Cộp", "province": "tỉnh Sơn La" }
-      ],
-      "to": { "commune": "xã Mường Lèo", "province": "tỉnh Sơn La" }
+        {
+          "commune": "xã Chiềng Chung",
+          "district": "thị xã Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Đoàn Kết",
+          "district": "thị xã Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Đoàn Kết",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Khừa",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Lóng Sập",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Lóng Sập",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Xuân",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Sơn",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Sơn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Lóng Luông",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Yên",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Men",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Vân Hồ",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Vân Hồ",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Tè",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Liên Hòa",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Quang Minh",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Song Khủa",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Song Khủa",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Khoa",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Suối Bàng",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tô Múa",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tô Múa",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tân Xuân",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Xuân Nha",
+          "district": "huyện Vân Hồ",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Xuân Nha",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Mường Giàng",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Bằng",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Khoang",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Ơn",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Nhai",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Khay",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Cà Nàng",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Chiên",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Chiên",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Pá Ma Pha Khinh",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Giôn",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Giôn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nặm Ét",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Sại",
+          "district": "huyện Quỳnh Nhai",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Sại",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Thuận Châu",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Phổng Ly",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Thôm Mòn",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tông Lạnh",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Pấc",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Thuận Châu",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Ngàm",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nong Lay",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tông Cọ",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng La",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng La",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Bôm",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Púng Tra",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nậm Lầu",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Nậm Lầu",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bản Lầm",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Bon Phặng",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Muổi Nọi",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Muổi Nọi",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Liệp Tè",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Bó Mười",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Khiêng",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Khiêng",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Co Tòng",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Pá Lông",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Co Mạ",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Co Mạ",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phổng Lái",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Pha",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Thuận",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phổng Lập",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường É",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường É",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã É Tòng",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Long Hẹ",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Long Hẹ",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ít Ong",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nặm Păm",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng San",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Muôn",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Trai",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Pi Toong",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường La",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nậm Giôn",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Hua Trai",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Lao",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Lao",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Chùm",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tạ Bú",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Bú",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Bú",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Ân",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Công",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Hoa",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Hoa",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Bắc Yên",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Phiêng Ban",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Hồng Ngài",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Song Pe",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Bắc Yên",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Làng Chếu",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Háng Đồng",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tà Xùa",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tà Xùa",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Khoa",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Hua Nhàn",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tạ Khoa",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tạ Khoa",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hang Chú",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Xím Vàng",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Xím Vàng",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chim Vàn",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Pắc Ngà",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Pắc Ngà",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phiêng Côn",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Sại",
+          "district": "huyện Bắc Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Sại",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Quang Huy",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Huy Hạ",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Huy Tường",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Huy Tân",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Huy Thượng",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Yên",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tường Phù",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Suối Bau",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Sập Xa",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Gia Phù",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Gia Phù",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tường Thượng",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tường Phong",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tường Tiến",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tường Hạ",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tường Hạ",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Thải",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tân Lang",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Cơi",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Cơi",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Do",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Lang",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Bang",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Bang",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bắc Phong",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nam Phong",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tân Phong",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Phong",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đá Đỏ",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Kim Bon",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Kim Bon",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Yên Châu",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Đông",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Sàng",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Pằn",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Khoi",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Sặp Vạt",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Châu",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tú Nang",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Lựm",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Hặc",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Hặc",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Tương",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Lóng Phiêng",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Lóng Phiêng",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng On",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Yên Sơn",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Sơn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Ban",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Kheo",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Dong",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Ve",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Mai",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Mai",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Hát Lót",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Hát Lót",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Cò Nòi",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mai Sơn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nà Ớt",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Lương",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Phiêng Pằn",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Phiêng Pằn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Bằng",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Bon",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Mung",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Mung",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Nơi",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Phiêng Cằm",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Phiêng Cằm",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Chung",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Chanh",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Chanh",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nà Bó",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Tà Hộc",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tà Hộc",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Chăn",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Sung",
+          "district": "huyện Mai Sơn",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Sung",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Pú Bẩu",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng En",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Bó Sinh",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Bó Sinh",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Sai",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Khương",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Khương",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Cang",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Hung",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Hung",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Cai",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Khoong",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Khoong",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đứa Mòn",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Mường Lầm",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Lầm",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chiềng Phung",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nậm Ty",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Nậm Ty",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Sông Mã",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nà Nghịu",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Sông Mã",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nậm Mằn",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Huổi Một",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Huổi Một",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Yên Hưng",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Sơ",
+          "district": "huyện Sông Mã",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiềng Sơ",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Và",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Nậm Lạnh",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Sốp Cộp",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Sốp Cộp",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Dồm Cang",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Sam Kha",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Púng Bánh",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Púng Bánh",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Quyết Thắng",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Quyết Tâm",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Chiềng Lề",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Tô Hiệu",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Tô Hiệu",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Chiềng An",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Xôm",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Đen",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Chiềng An",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Chiềng Cơi",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Hua La",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Cọ",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Chiềng Cơi",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Chiềng Sinh",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Ngần",
+          "district": "thành phố Sơn La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Chiềng Sinh",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Mộc Lỵ",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Mường Sang",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "xã Chiềng Hắc",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Mộc Châu",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Đông Sang",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Mộc Sơn",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Mộc Sơn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Bình Minh",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Vân Sơn",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Vân Sơn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Cờ Đỏ",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        },
+        {
+          "commune": "phường Thảo Nguyên",
+          "district": "huyện Mộc Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "phường Thảo Nguyên",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Lạn",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Lạn",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phiêng Khoài",
+          "district": "huyện Yên Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Phiêng Khoài",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Suối Tọ",
+          "district": "huyện Phù Yên",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Suối Tọ",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ngọc Chiến",
+          "district": "huyện Mường La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Ngọc Chiến",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tân Yên",
+          "district": "tỉnh Sơn La",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Yên",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Bám",
+          "district": "huyện Thuận Châu",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Bám",
+        "province": "tỉnh Sơn La"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Lèo",
+          "district": "huyện Sốp Cộp",
+          "province": "tỉnh Sơn La"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Lèo",
+        "province": "tỉnh Sơn La"
+      }
     }
   ]
 }

@@ -2,535 +2,1550 @@
   "Khánh Hòa": [
     {
       "from": [
-        { "commune": "xã Cam Lập", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Bình", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Thịnh Đông", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Thịnh Tây", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Cam Lập",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Bình",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Thịnh Đông",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Thịnh Tây",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Nam Cam Ranh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Nam Cam Ranh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ninh An", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Sơn", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Thọ", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Ninh An",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Sơn",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Thọ",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Bắc Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Bắc Ninh Hòa",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ninh Xuân", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Quang", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Bình", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Ninh Xuân",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Quang",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Bình",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Tân Định", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Tân Định",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ninh Lộc", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Ích", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Hưng", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Tân", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Ninh Lộc",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Ích",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Hưng",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Tân",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Nam Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Nam Ninh Hòa",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ninh Tây", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Sim", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Ninh Tây",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Sim",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Tây Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Tây Ninh Hòa",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ninh Thượng", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Trung", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Thân", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Ninh Thượng",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Trung",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Thân",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Hòa Trí", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Hòa Trí",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vạn Thạnh", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Thọ", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Đại Lãnh", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Vạn Thạnh",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Thọ",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Đại Lãnh",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Đại Lãnh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Đại Lãnh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vạn Khánh", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Long", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Phước", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Vạn Khánh",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Long",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Phước",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Tu Bông", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Tu Bông",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vạn Bình", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Thắng", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Vạn Bình",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Thắng",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Vạn Thắng", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Vạn Thắng",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vạn Giã", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Phú", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Lương", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "thị trấn Vạn Giã",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Phú",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Lương",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Vạn Ninh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Vạn Ninh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Sơn", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vạn Hưng", "district": "huyện Vạn Ninh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Xuân Sơn",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vạn Hưng",
+          "district": "huyện Vạn Ninh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Vạn Hưng", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Vạn Hưng",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Diên Khánh", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên An", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Toàn", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "thị trấn Diên Khánh",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên An",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Toàn",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Diên Khánh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Diên Khánh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Diên Thạnh", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Lạc", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Hòa", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Diên Thạnh",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Lạc",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Hòa",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Diên Lạc", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Diên Lạc",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Diên Sơn", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Phú", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Điền", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Diên Sơn",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Phú",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Điền",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Diên Điền", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Diên Điền",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Đồng", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Lâm", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Xuân Đồng",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Lâm",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Diên Lâm", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Diên Lâm",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Diên Tân", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Phước", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Diên Thọ", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Diên Tân",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Phước",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Diên Thọ",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Diên Thọ", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Diên Thọ",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Suối Tiên", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Bình Lộc", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Suối Hiệp", "district": "huyện Diên Khánh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Suối Tiên",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Bình Lộc",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Suối Hiệp",
+          "district": "huyện Diên Khánh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Suối Hiệp", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Suối Hiệp",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Cam Đức", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Hải Đông", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Hải Tây", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Thành Bắc", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam Hiệp Bắc", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam Hiệp Nam", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam Hòa", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam An Bắc", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam An Nam", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Suối Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "thị trấn Cam Đức",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Hải Đông",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Hải Tây",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Thành Bắc",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam Hiệp Bắc",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam Hiệp Nam",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam Hòa",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam An Bắc",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam An Nam",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Suối Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Cam Lâm", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Cam Lâm",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Suối Cát", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam Hòa", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Cam Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "một phần xã Suối Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Suối Cát",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam Hòa",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Cam Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "một phần xã Suối Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Suối Dầu", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Suối Dầu",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Cam Hiệp Bắc", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Cam Hiệp Nam", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Cam Hòa", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Cam Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Suối Tân", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Sơn Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Cam Hiệp Bắc",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Cam Hiệp Nam",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Cam Hòa",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Cam Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Suối Tân",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Cam Hiệp", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Cam Hiệp",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cam Phước Tây", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Cam An Bắc", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phần còn lại xã Cam An Nam", "district": "huyện Cam Lâm", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Cam Phước Tây",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Cam An Bắc",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phần còn lại xã Cam An Nam",
+          "district": "huyện Cam Lâm",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Cam An", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Cam An",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Khánh Bình", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Khánh Đông", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Khánh Bình",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Khánh Đông",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Bắc Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Bắc Khánh Vĩnh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Khánh Trung", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Khánh Hiệp", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Khánh Trung",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Khánh Hiệp",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Trung Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Trung Khánh Vĩnh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Giang Ly", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Khánh Thượng", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Khánh Nam", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Giang Ly",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Khánh Thượng",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Khánh Nam",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Tây Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Tây Khánh Vĩnh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cầu Bà", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Khánh Thành", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Liên Sang", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Sơn Thái", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Cầu Bà",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Khánh Thành",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Liên Sang",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Sơn Thái",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Nam Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Nam Khánh Vĩnh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Khánh Vĩnh", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Sông Cầu", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Khánh Phú", "district": "huyện Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "thị trấn Khánh Vĩnh",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Sông Cầu",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Khánh Phú",
+          "district": "huyện Khánh Vĩnh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Khánh Vĩnh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Khánh Vĩnh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tô Hạp", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Sơn Hiệp", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Sơn Bình", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "thị trấn Tô Hạp",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Sơn Hiệp",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Sơn Bình",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Khánh Sơn", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Khánh Sơn",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Lâm", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Thành Sơn", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Sơn Lâm",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Thành Sơn",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Tây Khánh Sơn", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Tây Khánh Sơn",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Trung", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ba Cụm Bắc", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ba Cụm Nam", "district": "huyện Khánh Sơn", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "xã Sơn Trung",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ba Cụm Bắc",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ba Cụm Nam",
+          "district": "huyện Khánh Sơn",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "xã Đông Khánh Sơn", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "xã Đông Khánh Sơn",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Vạn Thạnh", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Lộc Thọ", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Vĩnh Nguyên", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Tân Tiến", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Phước Hòa", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Vạn Thạnh",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Lộc Thọ",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Vĩnh Nguyên",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Tân Tiến",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Phước Hòa",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Nha Trang", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Nha Trang",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Vĩnh Hòa", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Vĩnh Hải", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Vĩnh Phước", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Vĩnh Thọ", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Lương", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Phương", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Vĩnh Hòa",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Vĩnh Hải",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Vĩnh Phước",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Vĩnh Thọ",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Lương",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Phương",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Bắc Nha Trang", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Bắc Nha Trang",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ngọc Hiệp", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Phương Sài", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Ngọc", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Thạnh", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Hiệp", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Trung", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Ngọc Hiệp",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Phương Sài",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Ngọc",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Thạnh",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Hiệp",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Trung",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Tây Nha Trang", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Tây Nha Trang",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phước Hải", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Phước Long", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Vĩnh Trường", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Vĩnh Thái", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Phước Đồng", "district": "thành phố Nha Trang", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Phước Hải",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Phước Long",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Vĩnh Trường",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Vĩnh Thái",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Phước Đồng",
+          "district": "thành phố Nha Trang",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Nam Nha Trang", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Nam Nha Trang",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Cam Nghĩa", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Cam Phúc Bắc", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Thành Nam", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Cam Nghĩa",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Cam Phúc Bắc",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Thành Nam",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Bắc Cam Ranh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Bắc Cam Ranh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Cam Phú", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Cam Lộc", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Cam Phúc Nam", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Cam Phú",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Cam Lộc",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Cam Phúc Nam",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Cam Ranh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Cam Ranh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Cam Thuận", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Cam Lợi", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Cam Linh", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Cam Thuận",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Cam Lợi",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Cam Linh",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Cam Linh", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Cam Linh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ba Ngòi", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Cam Phước Đông", "district": "thành phố Cam Ranh", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Ba Ngòi",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Cam Phước Đông",
+          "district": "thành phố Cam Ranh",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Ba Ngòi", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Ba Ngòi",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ninh Hiệp", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Ninh Đa", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Đông", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Phụng", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Ninh Hiệp",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Ninh Đa",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Đông",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Phụng",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Ninh Hòa",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ninh Diêm", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Hải", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Thủy", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Phước", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Ninh Diêm",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Hải",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Thủy",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Phước",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Đông Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Đông Ninh Hòa",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ninh Giang", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "phường Ninh Hà", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Ninh Phú", "district": "thị xã Ninh Hòa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "phường Ninh Giang",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "phường Ninh Hà",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Ninh Phú",
+          "district": "thị xã Ninh Hòa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "phường Hòa Thắng", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "phường Hòa Thắng",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trường Sa", "district": "huyện Trường Sa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Song Tử Tây", "district": "huyện Trường Sa", "province": "tỉnh Khánh Hòa" },
-        { "commune": "xã Sinh Tồn", "district": "huyện Trường Sa", "province": "tỉnh Khánh Hòa" }
+        {
+          "commune": "thị trấn Trường Sa",
+          "district": "huyện Trường Sa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Song Tử Tây",
+          "district": "huyện Trường Sa",
+          "province": "tỉnh Khánh Hòa"
+        },
+        {
+          "commune": "xã Sinh Tồn",
+          "district": "huyện Trường Sa",
+          "province": "tỉnh Khánh Hòa"
+        }
       ],
-      "to": { "commune": "đặc khu Trường Sa", "province": "tỉnh Khánh Hòa" }
+      "to": {
+        "commune": "đặc khu Trường Sa",
+        "province": "tỉnh Khánh Hòa"
+      }
     }
   ],
   "Ninh Thuận": [
     {
       "from": [
-        { "commune": "thị trấn Phước Dân", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Thuận", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Hải", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "thị trấn Phước Dân",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Thuận",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Hải",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Ninh Phước", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Ninh Phước",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Thái", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Hữu", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Thái",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Hữu",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Phước Hữu", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Phước Hữu",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Vinh", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Sơn", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Hậu", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Vinh",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Sơn",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Hậu",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Phước Hậu", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Phước Hậu",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Nam", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Ninh", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Minh", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Nam",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Ninh",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Minh",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Thuận Nam", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Thuận Nam",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Diêm", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Cà Ná", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Diêm",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Cà Ná",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Cà Ná", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Cà Ná",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nhị Hà", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Hà", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Nhị Hà",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Hà",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Phước Hà", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Phước Hà",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Hải", "district": "huyện Ninh Phước", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Dinh", "district": "huyện Thuận Nam", "province": "tỉnh Ninh Thuận" },
-        { "commune": "một phần phường Đông Hải", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã An Hải",
+          "district": "huyện Ninh Phước",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Dinh",
+          "district": "huyện Thuận Nam",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "một phần phường Đông Hải",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Phước Dinh", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Phước Dinh",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phương Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Tri Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Bắc Sơn", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phương Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Tri Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Bắc Sơn",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Ninh Hải", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Ninh Hải",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hộ Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Tân Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Xuân Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Hộ Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Tân Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Xuân Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Xuân Hải", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Xuân Hải",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nhơn Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Thanh Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Vĩnh Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Nhơn Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Thanh Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Vĩnh Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Hải", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Vĩnh Hải",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bắc Phong", "district": "huyện Thuận Bắc", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Kháng", "district": "huyện Thuận Bắc", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Lợi Hải", "district": "huyện Thuận Bắc", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Bắc Phong",
+          "district": "huyện Thuận Bắc",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Kháng",
+          "district": "huyện Thuận Bắc",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Lợi Hải",
+          "district": "huyện Thuận Bắc",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Thuận Bắc", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Thuận Bắc",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Chiến", "district": "huyện Thuận Bắc", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Công Hải", "district": "huyện Thuận Bắc", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Chiến",
+          "district": "huyện Thuận Bắc",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Công Hải",
+          "district": "huyện Thuận Bắc",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Công Hải", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Công Hải",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tân Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Quảng Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "thị trấn Tân Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Quảng Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Ninh Sơn", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Ninh Sơn",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lương Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Lâm Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Lương Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Lâm Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Lâm Sơn", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Lâm Sơn",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ma Nới", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Hòa Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Ma Nới",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Hòa Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Anh Dũng", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Anh Dũng",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Trung", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Mỹ Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Trung",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Mỹ Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Mỹ Sơn", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Mỹ Sơn",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Đại", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Thành", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Đại",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Thành",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Bác Ái Đông", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Bác Ái Đông",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Tiến", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Thắng", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Chính", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Tiến",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Thắng",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Chính",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Bác Ái", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Bác Ái",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Hòa", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Tân", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Phước Bình", "district": "huyện Bác Ái", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "xã Phước Hòa",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Tân",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Phước Bình",
+          "district": "huyện Bác Ái",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "xã Bác Ái Tây", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "xã Bác Ái Tây",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Kinh Dinh", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phường Phủ Hà", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phường Đài Sơn", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phường Đạo Long", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "phường Kinh Dinh",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phường Phủ Hà",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phường Đài Sơn",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phường Đạo Long",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "phường Phan Rang", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "phường Phan Rang",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Mỹ Bình", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phường Mỹ Đông", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phường Mỹ Hải", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phần còn lại phường Đông Hải", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "phường Mỹ Bình",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phường Mỹ Đông",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phường Mỹ Hải",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phần còn lại phường Đông Hải",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "phường Đông Hải", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "phường Đông Hải",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Văn Hải", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "thị trấn Khánh Hải", "district": "huyện Ninh Hải", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "phường Văn Hải",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "thị trấn Khánh Hải",
+          "district": "huyện Ninh Hải",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "phường Ninh Chử", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "phường Ninh Chử",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phước Mỹ", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "phường Bảo An", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Thành Hải", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "phường Phước Mỹ",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "phường Bảo An",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Thành Hải",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "phường Bảo An", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "phường Bảo An",
+        "province": "tỉnh Khánh Hòa"
+      }
     },
     {
       "from": [
-        { "commune": "phường Đô Vinh", "district": "thành phố Phan Rang - Tháp Chàm", "province": "tỉnh Ninh Thuận" },
-        { "commune": "xã Nhơn Sơn", "district": "huyện Ninh Sơn", "province": "tỉnh Ninh Thuận" }
+        {
+          "commune": "phường Đô Vinh",
+          "district": "thành phố Phan Rang - Tháp Chàm",
+          "province": "tỉnh Ninh Thuận"
+        },
+        {
+          "commune": "xã Nhơn Sơn",
+          "district": "huyện Ninh Sơn",
+          "province": "tỉnh Ninh Thuận"
+        }
       ],
-      "to": { "commune": "phường Đô Vinh", "province": "tỉnh Ninh Thuận" }
+      "to": {
+        "commune": "phường Đô Vinh",
+        "province": "tỉnh Khánh Hòa"
+      }
     }
   ]
 }

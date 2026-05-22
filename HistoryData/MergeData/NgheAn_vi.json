@@ -2,1065 +2,3103 @@
   "Nghệ An": [
     {
       "from": [
-        { "commune": "thị trấn Kim Nhan", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đức Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phúc Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Anh Sơn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cao Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Khai Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Lĩnh Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Long Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Yên Xuân", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cẩm Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hùng Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tam Đỉnh", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nhân Hòa", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Lạng Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tào Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Vĩnh Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Anh Sơn Đông", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hoa Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hội Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tường Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Vĩnh Tường", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bình Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thành Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thọ Sơn", "district": "huyện Anh Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Thành Bình Thọ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Trà Lân", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Chi Khê", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Yên Khê", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Con Cuông", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Lục Dạ", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Môn Sơn", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Môn Sơn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mậu Đức", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thạch Ngàn", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mậu Thạch", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cam Lâm", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đôn Phục", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Cam Phục", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Lạng Khê", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Khê", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Châu Khê", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Diễn Thành", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Hoa", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Phúc", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Ngọc Bích", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Diễn Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn Hồng", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Kỷ", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Phong", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Vạn", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đức Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn Đồng", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Liên", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Thái", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Tháp", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quảng Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn Hoàng", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Kim", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Mỹ", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hùng Hải", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hải Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn Lộc", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Lợi", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Phú", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Thọ", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tân Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn An", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Tân", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Thịnh", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Trung", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã An Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn Cát", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Nguyên", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hạnh Quảng", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Minh Châu", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Minh Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Diễn Đoài", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Lâm", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Trường", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diễn Yên", "district": "huyện Diễn Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hùng Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bắc Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đà Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đặng Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Lưu Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thịnh Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Văn Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Yên Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "thị trấn Đô Lương", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đô Lương", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bồi Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Giang Sơn Đông", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Giang Sơn Tây", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Bạch Ngọc", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Bạch Ngọc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tân Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hòa Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quang Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thái Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thượng Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Văn Hiến", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đại Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hiến Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Mỹ Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Trù Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Bạch Hà", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Minh Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Lạc Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nhân Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thuận Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Trung Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Thuần Trung", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bài Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đông Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hồng Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tràng Sơn", "district": "huyện Đô Lương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Lương Sơn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Hưng Nguyên", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Đạo", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Tây", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thịnh Mỹ", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hưng Nguyên", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hưng Yên Bắc", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Yên Nam", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Trung", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Yên Trung", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hưng Lĩnh", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Long Xá", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thông Tân", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Lam", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hưng Nguyên Nam", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Châu Nhân", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Nghĩa", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Thành", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phúc Lợi", "district": "huyện Hưng Nguyên", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Lam Thành", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bảo Thắng", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Chiêu Lưu", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Chiêu Lưu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bảo Nam", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hữu Lập", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hữu Kiệm", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hữu Kiệm", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Ải", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Mường Típ", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mường Típ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Mường Xén", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tà Cạ", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tây Sơn", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mường Xén", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đoọc Mạy", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Na Loi", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Na Loi", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nậm Càn", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Na Ngoi", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Na Ngoi", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phà Đánh", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nậm Cắn", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nậm Cắn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hùng Tiến", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Cát", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Giang", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Hồng", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Kim Liên", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Kim Liên", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Nam Đàn", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thượng Tân Lộc", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Hòa", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Vạn An", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Thái", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Hưng", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Thanh", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nam Đàn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nam Anh", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Lĩnh", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Xuân", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đại Huệ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Khánh Sơn", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Kim", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Trung Phúc Cường", "district": "huyện Nam Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Thiên Nhẫn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Nghĩa Đàn", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Bình", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Trung", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Hội", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Lợi", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Thọ", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Thọ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Lạc", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Sơn", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Yên", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Lâm", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Lâm", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Hồng", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Minh", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Mai", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Mai", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Thành", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Hưng", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Hưng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa An", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Đức", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Khánh", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Khánh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Long", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Lộc", "district": "huyện Nghĩa Đàn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Quán Hành", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diên Hoa", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Trung", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Vạn", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghi Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghi Công Bắc", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Công Nam", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Lâm", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Mỹ", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Phúc Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Khánh Hợp", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Thạch", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thịnh Trường", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đông Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghi Long", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Quang", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Thuận", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Xá", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Trung Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghi Đồng", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Hưng", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Phương", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Thần Lĩnh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghi Thiết", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Tiến", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Yên", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hải Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghi Kiều", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Văn", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Văn Kiều", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cắm Muộn", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Thôn", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quang Phong", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mường Quàng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Kim Sơn", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Kim", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Mường Nọc", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nậm Giải", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quế Phong", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đồng Văn", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thông Thụ", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Thông Thụ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hạnh Dịch", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tiền Phong", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tiền Phong", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nậm Nhoóng", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tri Lễ", "district": "huyện Quế Phong", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tri Lễ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Tân Lạc", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Hạnh", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Hội", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Nga", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳ Châu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Châu Tiến", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Bính", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Thắng", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Thuận", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Châu Tiến", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Châu Hoàn", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Phong", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Diên Lãm", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hùng Chân", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Quỳ Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Đình", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Quang", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thọ Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳ Hợp", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tam Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đồng Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Xuân", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Yên Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tam Hợp", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Liên Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Lộc", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Châu Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Châu Tiến", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Thành", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Hồng", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Châu Hồng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Châu Cường", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Thái", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mường Ham", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bắc Sơn", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Sơn", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Châu Lý", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mường Chọng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hạ Sơn", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Văn Lợi", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Minh Hợp", "district": "huyện Quỳ Hợp", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Minh Hợp", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Cầu Giát", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Bình Sơn", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Diễn", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Giang", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Hậu", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Quỳnh Tân", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Thạch", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Văn", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Văn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Minh Lương", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Bảng", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Đôi", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Thanh", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Yên", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Anh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tân Sơn", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Châu", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Tam", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Tam", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã An Hòa", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phú Nghĩa", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thuận Long", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Văn Hải", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Phú", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ngọc Sơn", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Lâm", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Sơn", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Sơn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tân Thắng", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Thắng", "district": "huyện Quỳnh Lưu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quỳnh Thắng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Tân Kỳ", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Dũng", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Kỳ Tân", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Kỳ Sơn", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tân Kỳ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Thái", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hoàn Long", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tân Xuân", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tân Phú", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tân Phú", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hương Sơn", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Phúc", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tân An", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tân An", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bình Hợp", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Đồng", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Đồng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tân Hợp", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Giai Xuân", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Giai Xuân", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phú Sơn", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tân Hương", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Hành", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nghĩa Hành", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đồng Văn", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tiên Kỳ", "district": "huyện Tân Kỳ", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tiên Đồng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nghĩa Mỹ", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Thuận", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đông Hiếu", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đông Hiếu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mai Giang", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Lâm", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Tùng", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Xuân", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Bích Hào", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Minh Sơn", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Cát Văn", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phong Thịnh", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Cát Ngạn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Dùng", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đồng Văn", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Ngọc", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Phong", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đại Đồng", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đại Đồng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Thanh Đức", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hạnh Lâm", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hạnh Lâm", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Thanh An", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Hương", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Quả", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Thịnh", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hoa Quân", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Thanh Hà", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Thủy", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Kim Bảng", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Kim Bảng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ngọc Lâm", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Sơn", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Sơn Lâm", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Thanh Liên", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Mỹ", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thanh Tiên", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tam Đồng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ngọc Sơn", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Minh Tiến", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Dương", "district": "huyện Thanh Chương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Xuân Lâm", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Xiêng My", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nga My", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nga My", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mai Sơn", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nhôn Mai", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Nhôn Mai", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tam Đình", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tam Quang", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tam Quang", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tam Hợp", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tam Thái", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tam Thái", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Thạch Giám", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Lưu Kiền", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xá Lượng", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Tương Dương", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Yên Thắng", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Yên Hòa", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Yên Hòa", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Yên Tĩnh", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Yên Na", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Yên Na", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Hoa Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Đông Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tăng Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Văn Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Yên Thành", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bắc Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nam Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Trung Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Xuân Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quan Thành", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bảo Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Long Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Sơn Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Viên Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Vĩnh Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hợp Minh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Liên Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Mỹ Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Vân Tụ", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Vân Tụ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Minh Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tây Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thịnh Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Vân Du", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đồng Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Kim Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quang Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Quang Đồng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hậu Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Lăng Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phúc Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Giai Lạc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đức Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Mã Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tân Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tiến Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Bình Minh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đô Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phú Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Thọ Thành", "district": "huyện Yên Thành", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Đông Thành", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Quỳnh Thiện", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Trang", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Vinh", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Hoàng Mai", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Mai Hùng", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Quỳnh Phương", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Quỳnh Xuân", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Liên", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Quỳnh Mai", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Quỳnh Dị", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Lập", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Quỳnh Lộc", "district": "thị xã Hoàng Mai", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Tân Mai", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hòa Hiếu", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Long Sơn", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Quang Phong", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Thái Hòa", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Quang Tiến", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghĩa Tiến", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Tây Hiếu", "district": "thị xã Thái Hòa", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Tây Hiếu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Bến Thủy", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Hưng Dũng", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Hưng Phúc", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Trung Đô", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Trường Thi", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Vinh Tân", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Hòa", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Trường Vinh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Cửa Nam", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Đông Vĩnh", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Hưng Bình", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Lê Lợi", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Quang Trung", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Hưng Chính", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Thành Vinh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hưng Đông", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Quán Bàu", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Kim", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Liên", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Vinh Hưng", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hà Huy Tập", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Đức", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Phú", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Ân", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Vinh Phú", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hưng Lộc", "district": "thành phố Vinh", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Phong", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Thái", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Nghi Xuân", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" },
-        { "commune": "xã Phúc Thọ", "district": "huyện Nghi Lộc", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Vinh Lộc", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "phường Nghi Hải", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Hòa", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Hương", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Tân", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Thu", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Nghi Thủy", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" },
-        { "commune": "phường Thu Thủy", "district": "thị xã Cửa Lò", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "phường Cửa Lò", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Keng Đu", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Keng Đu", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mỹ Lý", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mỹ Lý", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bắc Lý", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Bắc Lý", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Huồi Tụ", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Huồi Tụ", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mường Lống", "district": "huyện Kỳ Sơn", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Mường Lống", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bình Chuẩn", "district": "huyện Con Cuông", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Bình Chuẩn", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hữu Khuông", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Hữu Khuông", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Lượng Minh", "district": "huyện Tương Dương", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Lượng Minh", "province": "tỉnh Nghệ An" }
-    },
-    {
-      "from": [
-        { "commune": "xã Châu Bình", "district": "huyện Quỳ Châu", "province": "tỉnh Nghệ An" }
-      ],
-      "to": { "commune": "xã Châu Bình", "province": "tỉnh Nghệ An" }
+        {
+          "commune": "thị trấn Kim Nhan",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đức Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phúc Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Anh Sơn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cao Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Khai Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Lĩnh Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Long Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Xuân",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cẩm Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hùng Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tam Đỉnh",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nhân Hòa",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Lạng Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tào Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Vĩnh Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Anh Sơn Đông",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hoa Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hội Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tường Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Vĩnh Tường",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bình Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thành Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thọ Sơn",
+          "district": "huyện Anh Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Thành Bình Thọ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Trà Lân",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Chi Khê",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Yên Khê",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Con Cuông",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Lục Dạ",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Môn Sơn",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Môn Sơn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mậu Đức",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thạch Ngàn",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mậu Thạch",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cam Lâm",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đôn Phục",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Cam Phục",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Lạng Khê",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Khê",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Châu Khê",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Diễn Thành",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Hoa",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Phúc",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Ngọc Bích",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Diễn Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn Hồng",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Kỷ",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Phong",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Vạn",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đức Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn Đồng",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Liên",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Thái",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Tháp",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quảng Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn Hoàng",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Kim",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Mỹ",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hùng Hải",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hải Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn Lộc",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Lợi",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Phú",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Thọ",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn An",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Tân",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Thịnh",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Trung",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã An Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn Cát",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Nguyên",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hạnh Quảng",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Minh Châu",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Minh Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Diễn Đoài",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Lâm",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Trường",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diễn Yên",
+          "district": "huyện Diễn Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hùng Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bắc Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đà Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đặng Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Lưu Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thịnh Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Văn Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Yên Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "thị trấn Đô Lương",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đô Lương",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bồi Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Giang Sơn Đông",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Giang Sơn Tây",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Bạch Ngọc",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Bạch Ngọc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tân Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hòa Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quang Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thái Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thượng Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Văn Hiến",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đại Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hiến Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Mỹ Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Trù Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Bạch Hà",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Minh Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Lạc Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nhân Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thuận Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Trung Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Thuần Trung",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bài Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đông Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hồng Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tràng Sơn",
+          "district": "huyện Đô Lương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Lương Sơn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Hưng Nguyên",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Đạo",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Tây",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thịnh Mỹ",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hưng Nguyên",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hưng Yên Bắc",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Yên Nam",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Trung",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Trung",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hưng Lĩnh",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Long Xá",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thông Tân",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Lam",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hưng Nguyên Nam",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Châu Nhân",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Nghĩa",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Thành",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phúc Lợi",
+          "district": "huyện Hưng Nguyên",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Lam Thành",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bảo Thắng",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Chiêu Lưu",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Chiêu Lưu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bảo Nam",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hữu Lập",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hữu Kiệm",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hữu Kiệm",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Ải",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Mường Típ",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Típ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Mường Xén",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tà Cạ",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tây Sơn",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Xén",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đoọc Mạy",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Na Loi",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Na Loi",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nậm Càn",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Na Ngoi",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Na Ngoi",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phà Đánh",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nậm Cắn",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nậm Cắn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hùng Tiến",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Cát",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Giang",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Hồng",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Kim Liên",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Kim Liên",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Nam Đàn",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thượng Tân Lộc",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Hòa",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Vạn An",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Thái",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Hưng",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Thanh",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nam Đàn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nam Anh",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Lĩnh",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Xuân",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đại Huệ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Khánh Sơn",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Kim",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Trung Phúc Cường",
+          "district": "huyện Nam Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Thiên Nhẫn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Nghĩa Đàn",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Bình",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Trung",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Đàn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Hội",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Lợi",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Thọ",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Thọ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Lạc",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Sơn",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Yên",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Lâm",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Lâm",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Hồng",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Minh",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Mai",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Mai",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Thành",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Hưng",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Hưng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa An",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Đức",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Khánh",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Khánh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Long",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Lộc",
+          "district": "huyện Nghĩa Đàn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Quán Hành",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diên Hoa",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Trung",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Vạn",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghi Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghi Công Bắc",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Công Nam",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Lâm",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Mỹ",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Phúc Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Khánh Hợp",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Thạch",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thịnh Trường",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đông Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghi Long",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Quang",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Thuận",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Xá",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Trung Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghi Đồng",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Hưng",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Phương",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Thần Lĩnh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghi Thiết",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Tiến",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Yên",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hải Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghi Kiều",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Văn",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Văn Kiều",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cắm Muộn",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Thôn",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quang Phong",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Quàng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Kim Sơn",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Kim",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Mường Nọc",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nậm Giải",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quế Phong",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đồng Văn",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thông Thụ",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Thông Thụ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hạnh Dịch",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tiền Phong",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tiền Phong",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nậm Nhoóng",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tri Lễ",
+          "district": "huyện Quế Phong",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tri Lễ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Tân Lạc",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Hạnh",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Hội",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Nga",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳ Châu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Châu Tiến",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Bính",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Thắng",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Thuận",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Châu Tiến",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Châu Hoàn",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Phong",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Diên Lãm",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hùng Chân",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Quỳ Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Đình",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Quang",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thọ Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳ Hợp",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tam Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đồng Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Xuân",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Yên Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tam Hợp",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Liên Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Lộc",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Châu Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Châu Tiến",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Thành",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Hồng",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Châu Hồng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Châu Cường",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Thái",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Ham",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bắc Sơn",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Sơn",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Châu Lý",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Chọng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hạ Sơn",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Văn Lợi",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Minh Hợp",
+          "district": "huyện Quỳ Hợp",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Minh Hợp",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Cầu Giát",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Bình Sơn",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Diễn",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Giang",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Hậu",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Lưu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Quỳnh Tân",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Thạch",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Văn",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Văn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Minh Lương",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Bảng",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Đôi",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Thanh",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Yên",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Anh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tân Sơn",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Châu",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Tam",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Tam",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã An Hòa",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phú Nghĩa",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thuận Long",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Văn Hải",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Phú",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ngọc Sơn",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Lâm",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Sơn",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Sơn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tân Thắng",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Thắng",
+          "district": "huyện Quỳnh Lưu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quỳnh Thắng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Tân Kỳ",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Dũng",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Kỳ Tân",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Kỳ Sơn",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Kỳ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Thái",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hoàn Long",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tân Xuân",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tân Phú",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Phú",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hương Sơn",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Phúc",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tân An",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân An",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bình Hợp",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Đồng",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Đồng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tân Hợp",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Giai Xuân",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Giai Xuân",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phú Sơn",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tân Hương",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Hành",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nghĩa Hành",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đồng Văn",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tiên Kỳ",
+          "district": "huyện Tân Kỳ",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tiên Đồng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nghĩa Mỹ",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Thuận",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đông Hiếu",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đông Hiếu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mai Giang",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Lâm",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Tùng",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Xuân",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Bích Hào",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Minh Sơn",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Cát Văn",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phong Thịnh",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Cát Ngạn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Dùng",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đồng Văn",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Ngọc",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Phong",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đại Đồng",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đại Đồng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Thanh Đức",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hạnh Lâm",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hạnh Lâm",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Thanh An",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Hương",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Quả",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Thịnh",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hoa Quân",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Thanh Hà",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Thủy",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Kim Bảng",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Kim Bảng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ngọc Lâm",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Sơn",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Sơn Lâm",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Thanh Liên",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Mỹ",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thanh Tiên",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tam Đồng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ngọc Sơn",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Minh Tiến",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Dương",
+          "district": "huyện Thanh Chương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Xuân Lâm",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Xiêng My",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nga My",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nga My",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mai Sơn",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nhôn Mai",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Nhôn Mai",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tam Đình",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tam Quang",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tam Quang",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tam Hợp",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tam Thái",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tam Thái",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Thạch Giám",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Lưu Kiền",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xá Lượng",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Tương Dương",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Yên Thắng",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Yên Hòa",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Hòa",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Yên Tĩnh",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Yên Na",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Na",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Hoa Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Đông Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tăng Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Văn Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Yên Thành",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bắc Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nam Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Trung Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Xuân Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quan Thành",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bảo Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Long Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Sơn Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Viên Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Vĩnh Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hợp Minh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Liên Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Mỹ Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Vân Tụ",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Vân Tụ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Minh Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tây Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thịnh Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Vân Du",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đồng Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Kim Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quang Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Quang Đồng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hậu Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Lăng Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phúc Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Giai Lạc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đức Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Mã Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tân Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tiến Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Minh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đô Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phú Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Thọ Thành",
+          "district": "huyện Yên Thành",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Đông Thành",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Quỳnh Thiện",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Trang",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Vinh",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Hoàng Mai",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Mai Hùng",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Quỳnh Phương",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Quỳnh Xuân",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Liên",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Quỳnh Mai",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Quỳnh Dị",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Lập",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Quỳnh Lộc",
+          "district": "thị xã Hoàng Mai",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Tân Mai",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hòa Hiếu",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Long Sơn",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Quang Phong",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Thái Hòa",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Quang Tiến",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghĩa Tiến",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Tây Hiếu",
+          "district": "thị xã Thái Hòa",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Tây Hiếu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Bến Thủy",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Hưng Dũng",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Hưng Phúc",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Trung Đô",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Trường Thi",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Vinh Tân",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Hòa",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Trường Vinh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Cửa Nam",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Đông Vĩnh",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Hưng Bình",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Lê Lợi",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Quang Trung",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Hưng Chính",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Thành Vinh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hưng Đông",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Quán Bàu",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Kim",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Liên",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Vinh Hưng",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hà Huy Tập",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Đức",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Phú",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Ân",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Vinh Phú",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hưng Lộc",
+          "district": "thành phố Vinh",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Phong",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Thái",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Nghi Xuân",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "xã Phúc Thọ",
+          "district": "huyện Nghi Lộc",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Vinh Lộc",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Nghi Hải",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Hòa",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Hương",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Tân",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Thu",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Nghi Thủy",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        },
+        {
+          "commune": "phường Thu Thủy",
+          "district": "thị xã Cửa Lò",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "phường Cửa Lò",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Keng Đu",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Keng Đu",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mỹ Lý",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mỹ Lý",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bắc Lý",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Bắc Lý",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Huồi Tụ",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Huồi Tụ",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mường Lống",
+          "district": "huyện Kỳ Sơn",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Mường Lống",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bình Chuẩn",
+          "district": "huyện Con Cuông",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Chuẩn",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hữu Khuông",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Hữu Khuông",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Lượng Minh",
+          "district": "huyện Tương Dương",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Lượng Minh",
+        "province": "tỉnh Nghệ An"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Châu Bình",
+          "district": "huyện Quỳ Châu",
+          "province": "tỉnh Nghệ An"
+        }
+      ],
+      "to": {
+        "commune": "xã Châu Bình",
+        "province": "tỉnh Nghệ An"
+      }
     }
   ]
 }

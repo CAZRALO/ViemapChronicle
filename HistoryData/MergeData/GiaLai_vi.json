@@ -1,1057 +1,2966 @@
 {
-  "Bình Định": [
-    {
-      "from": [
-        { "commune": "xã Nhơn Lộc", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Tân", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã An Nhơn Tây", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ngô Mây", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Trinh", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Tân", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Phù Cát", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cát Nhơn", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Tường", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Xuân An", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cát Hưng", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Thắng", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Chánh", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Ngô Mây", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Cát Tiến", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Thành", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Hải", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Cát Tiến", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Cát Khánh", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Minh", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Tài", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Đề Gi", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cát Hanh", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Hiệp", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Hòa Hội", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cát Lâm", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" },
-        { "commune": "xã Cát Sơn", "district": "huyện Phù Cát", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Hội Sơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Phù Mỹ", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Quang", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Chánh Tây", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Phù Mỹ", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mỹ Chánh", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Thành", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Cát", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã An Lương", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Bình Dương", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Lợi", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Phong", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Bình Dương", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mỹ An", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Thọ", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Thắng", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Phù Mỹ Đông", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mỹ Trinh", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Hòa", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Phù Mỹ Tây", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mỹ Tài", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Hiệp", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Phù Mỹ Nam", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Mỹ Đức", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Châu", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" },
-        { "commune": "xã Mỹ Lộc", "district": "huyện Phù Mỹ", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Phù Mỹ Bắc", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Tuy Phước", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "thị trấn Diêu Trì", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Thuận", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Nghĩa", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Lộc", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Tuy Phước", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phước Sơn", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Hòa", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Thắng", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Tuy Phước Đông", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phước An", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Thành", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Tuy Phước Tây", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phước Hiệp", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Hưng", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Quang", "district": "huyện Tuy Phước", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Tuy Phước Bắc", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Phú Phong", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Tây Xuân", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Bình Nghi", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Tây Sơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tây Giang", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Tây Thuận", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Bình Khê", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Vĩnh An", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Bình Tường", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Tây Phú", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Bình Phú", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bình Thuận", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Bình Tân", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Tây An", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Bình Hiệp", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tây Vinh", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Tây Bình", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Bình Hòa", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Bình Thành", "district": "huyện Tây Sơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Bình An", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Tăng Bạt Hổ", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Phong", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Đức", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Tường Đông", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Hoài Ân", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ân Tường Tây", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Hữu", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Đak Mang", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Ân Tường", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ân Nghĩa", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Bok Tới", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Kim Sơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ân Sơn", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Tín", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Thạnh", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Vạn Đức", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ân Hảo Tây", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Hảo Đông", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" },
-        { "commune": "xã Ân Mỹ", "district": "huyện Hoài Ân", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Ân Hảo", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Vân Canh", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Canh Thuận", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Canh Hòa", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" },
-        { "commune": "một phần xã Canh Hiệp", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Vân Canh", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Canh Vinh", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Canh Hiển", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" },
-        { "commune": "một phần xã Canh Liên", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" },
-        { "commune": "phần còn lại xã Canh Hiệp", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Canh Vinh", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phần còn lại xã Canh Liên", "district": "huyện Vân Canh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Canh Liên", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Vĩnh Thạnh", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Vĩnh Hảo", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Vĩnh Thạnh", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Vĩnh Hiệp", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Vĩnh Thịnh", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Vĩnh Thịnh", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Vĩnh Thuận", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Vĩnh Hòa", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Vĩnh Quang", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Vĩnh Quang", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Vĩnh Kim", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" },
-        { "commune": "xã Vĩnh Sơn", "district": "huyện Vĩnh Thạnh", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Vĩnh Sơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã An Hòa", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "xã An Quang", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "một phần xã An Nghĩa", "district": "huyện An Lão", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã An Hòa", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn An Lão", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "xã An Tân", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "xã An Hưng", "district": "huyện An Lão", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã An Lão", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã An Trung", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "xã An Dũng", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "xã An Vinh", "district": "huyện An Lão", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã An Vinh", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã An Toàn", "district": "huyện An Lão", "province": "tỉnh Bình Định" },
-        { "commune": "phần còn lại xã An Nghĩa", "district": "huyện An Lão", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã An Toàn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Đống Đa", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Hải Cảng", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Thị Nại", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Trần Phú", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Quy Nhơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Nhơn Bình", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Hội", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Lý", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Hải", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Quy Nhơn Đông", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Bùi Thị Xuân", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Phước Mỹ", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Quy Nhơn Tây", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Ngô Mây", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Nguyễn Văn Cừ", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Quang Trung", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Ghềnh Ráng", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Quy Nhơn Nam", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Trần Quang Diệu", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Nhơn Phú", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Quy Nhơn Bắc", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Bình Định", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Khánh", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Phúc", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Bình Định", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Đập Đá", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Mỹ", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Hậu", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường An Nhơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Nhơn Hưng", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn An", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường An Nhơn Đông", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Nhơn Hòa", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Thọ", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường An Nhơn Nam", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Nhơn Thành", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Phong", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Nhơn Hạnh", "district": "thị xã An Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường An Nhơn Bắc", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hoài Đức", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Bồng Sơn", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Bồng Sơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hoài Thanh", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Tam Quan Nam", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Hoài Thanh Tây", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Hoài Nhơn", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Tam Quan", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Hoài Châu", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Tam Quan", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hoài Hương", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Hoài Hải", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Hoài Mỹ", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Hoài Nhơn Đông", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hoài Hảo", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Hoài Phú", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Hoài Nhơn Tây", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Hoài Tân", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "phường Hoài Xuân", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Hoài Nhơn Nam", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "phường Tam Quan Bắc", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Hoài Sơn", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" },
-        { "commune": "xã Hoài Châu Bắc", "district": "thị xã Hoài Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "phường Hoài Nhơn Bắc", "province": "tỉnh Bình Định" }
-    },
-    {
-      "from": [
-        { "commune": "xã Nhơn Châu", "district": "thành phố Quy Nhơn", "province": "tỉnh Bình Định" }
-      ],
-      "to": { "commune": "xã Nhơn Châu", "province": "tỉnh Bình Định" }
-    }
-  ],
   "Gia Lai": [
     {
       "from": [
-        { "commune": "xã Nghĩa Hưng", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Đang Ya", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hà Bầu", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Biển Hồ", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Biển Hồ", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Kênh", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Gào", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Pếch", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Gào", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ia Ly", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Mơ Nông", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Kreng", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Ly", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Phú Hòa", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Nghĩa Hòa", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hòa Phú", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chư Păh", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đăk Tơ Ver", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hà Tây", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Khươl", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Khươl", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Ka", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Nhin", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Phí", "district": "huyện Chư Păh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Phí", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Chư Prông", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Phìn", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Kly", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Drang", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chư Prông", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Thăng Hưng", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Bình Giáo", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Bàu Cạn", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Bàu Cạn", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia O", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Me", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Boòng", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Boòng", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Piơr", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Lâu", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Lâu", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Ga", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Vê", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Pia", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Pia", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Băng", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Bang", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Tôr", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Tôr", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Chư Sê", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Dun", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Blang", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Pal", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Glai", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chư Sê", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Bar Măih", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Tiêm", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Pơng", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Bờ Ngoong", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Bờ Ngoong", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Hlốp", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Hla", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Ko", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Ko", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ayun", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kông Htok", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Al Bá", "district": "huyện Chư Sê", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Al Bá", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Nhơn Hòa", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Don", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Phang", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chư Pưh", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Blứ", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Le", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Le", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Dreng", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Rong", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã HBông", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Hrú", "district": "huyện Chư Pưh", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Hrú", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Tú An", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Xuân An", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Song An", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Cửu An", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Cửu An", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Đak Pơ", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hà Tam", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã An Thành", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Yang Bắc", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Đak Pơ", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Phú An", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ya Hội", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ya Hội", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Kbang", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Lơ Ku", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đak Smar", "district": "huyện Kbang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Kbang", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đông", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Nghĩa An", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kông Bơ La", "district": "huyện Kbang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Kông Bơ La", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Kông Lơng Khơng", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Tơ Tung", "district": "huyện Kbang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Tơ Tung", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Sơ Pai", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Sơn Lang", "district": "huyện Kbang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Sơn Lang", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Kon Pne", "district": "huyện Kbang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đak Rong", "district": "huyện Kbang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Đak Rong", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Kông Chro", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Yang Trung", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Yang Nam", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Kông Chro", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đăk Tơ Pang", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kông Yang", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ya Ma", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ya Ma", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã An Trung", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Krey", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chư Krey", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đăk Kơ Ning", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã SRó", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã SRó", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đăk Pling", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đăk Song", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Đăk Song", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đăk Pơ Pho", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chơ GLong", "district": "huyện Kông Chro", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chơ Long", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chư Băh", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Rbol", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Rbol", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Sao", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Rtô", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Sao", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Phú Thiện", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Sol", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Piar", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Yeng", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Phú Thiện", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ayun Hạ", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Ake", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư A Thai", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Chư A Thai", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chrôh Pơnan", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Peng", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Hiao", "district": "huyện Phú Thiện", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Hiao", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chư Răng", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Pờ Tó", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Pờ Tó", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Mrơn", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kim Tân", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Trôk", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Pa", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chư Mố", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Broăi", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Kdăm", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Tul", "district": "huyện Ia Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Tul", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Phú Túc", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Phú Cần", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Ngọc", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Mlah", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đất Bằng", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Phú Túc", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Rmok", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Krông Năng", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Dreh", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Dreh", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Chư RCăm", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Gu", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Rsai", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Rsai", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Rsươm", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Drăng", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Uar", "district": "huyện Krông Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Uar", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Đak Đoa", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Tân Bình", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Glar", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Đak Đoa", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đak Krong", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hneng", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Nam Yang", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kon Gang", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Kon Gang", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Băng", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Adơk", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Pết", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Băng", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hnol", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Trang", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã KDang", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã KDang", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hà Đông", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đak Sơmei", "district": "huyện Đak Đoa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Đak Sơmei", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Kon Dơng", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đăk Yă", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Đak Djrăng", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hải Yang", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Mang Yang", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đê Ar", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kon Thụp", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Lơ Pang", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Lơ Pang", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đak Trôi", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Kon Chiêng", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Kon Chiêng", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đak Ta Ley", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Hra", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Hra", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đak Jơ Ta", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ayun", "district": "huyện Mang Yang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ayun", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ia Kha", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Bă", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Grăng", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Grai", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Tô", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Khai", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Krái", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Krái", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Sao", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Yok", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Dêr", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Hrung", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Hrung", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Chư Ty", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Kriêng", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Đức Cơ", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Kla", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Dơk", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Dơk", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Lang", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Din", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Ia Krêl", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Krêl", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Tây Sơn", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Hội Thương", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Hoa Lư", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Phù Đổng", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Trà Đa", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường Pleiku", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Trà Bá", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Chi Lăng", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Hội Phú", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường Hội Phú", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Đống Đa", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Yên Thế", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Thống Nhất", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường Thống Nhất", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Yên Đỗ", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Ia Kring", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Diên Hồng", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Diên Phú", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường Diên Hồng", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Thắng Lợi", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Chư Á", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" },
-        { "commune": "xã An Phú", "district": "thành phố Pleiku", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường An Phú", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Ngô Mây", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Tây Sơn", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "phường An Phú", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "phường An Phước", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "phường An Tân", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Thành An", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường An Khê", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường An Bình", "district": "thị xã An Khê", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Tân An", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" },
-        { "commune": "xã Cư An", "district": "huyện Đak Pơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường An Bình", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "phường Đoàn Kết", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Sông Bờ", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Cheo Reo", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" },
-        { "commune": "phường Hòa Bình", "district": "thị xã Ayun Pa", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "phường Ayun Pa", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia O", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia O", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Púch", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Púch", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Mơ", "district": "huyện Chư Prông", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Mơ", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Pnôn", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Pnôn", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Nan", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Nan", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Dom", "district": "huyện Đức Cơ", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Dom", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Chia", "district": "huyện Ia Grai", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Ia Chia", "province": "tỉnh Gia Lai" }
-    },
-    {
-      "from": [
-        { "commune": "xã Krong", "district": "huyện Kbang", "province": "tỉnh Gia Lai" }
-      ],
-      "to": { "commune": "xã Krong", "province": "tỉnh Gia Lai" }
+        {
+          "commune": "xã Nghĩa Hưng",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Đang Ya",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hà Bầu",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Biển Hồ",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Biển Hồ",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Kênh",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Gào",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Pếch",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Gào",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ia Ly",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Mơ Nông",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Kreng",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Ly",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Phú Hòa",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Nghĩa Hòa",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hòa Phú",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chư Păh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đăk Tơ Ver",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hà Tây",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Khươl",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Khươl",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Ka",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Nhin",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Phí",
+          "district": "huyện Chư Păh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Phí",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Chư Prông",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Phìn",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Kly",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Drang",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chư Prông",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Thăng Hưng",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Bình Giáo",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Bàu Cạn",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Bàu Cạn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia O",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Me",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Boòng",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Boòng",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Piơr",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Lâu",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Lâu",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Ga",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Vê",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Pia",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Pia",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Băng",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Bang",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Tôr",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Tôr",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Chư Sê",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Dun",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Blang",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Pal",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Glai",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chư Sê",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bar Măih",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Tiêm",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Pơng",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Bờ Ngoong",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Bờ Ngoong",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Hlốp",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Hla",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Ko",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Ko",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ayun",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kông Htok",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Al Bá",
+          "district": "huyện Chư Sê",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Al Bá",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Nhơn Hòa",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Don",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Phang",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chư Pưh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Blứ",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Le",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Le",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Dreng",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Rong",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã HBông",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Hrú",
+          "district": "huyện Chư Pưh",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Hrú",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tú An",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Xuân An",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Song An",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Cửu An",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Cửu An",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Đak Pơ",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hà Tam",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã An Thành",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Yang Bắc",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Đak Pơ",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phú An",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ya Hội",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ya Hội",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Kbang",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Lơ Ku",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đak Smar",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Kbang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đông",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Nghĩa An",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kông Bơ La",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Kông Bơ La",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Kông Lơng Khơng",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Tơ Tung",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Tơ Tung",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Sơ Pai",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Sơn Lang",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Sơn Lang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Kon Pne",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đak Rong",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Đak Rong",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Kông Chro",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Yang Trung",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Yang Nam",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Kông Chro",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đăk Tơ Pang",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kông Yang",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ya Ma",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ya Ma",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã An Trung",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Krey",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chư Krey",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đăk Kơ Ning",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã SRó",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã SRó",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đăk Pling",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đăk Song",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Đăk Song",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đăk Pơ Pho",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chơ GLong",
+          "district": "huyện Kông Chro",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chơ Long",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chư Băh",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Rbol",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Rbol",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Sao",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Rtô",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Sao",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Phú Thiện",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Sol",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Piar",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Yeng",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Phú Thiện",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ayun Hạ",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Ake",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư A Thai",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Chư A Thai",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chrôh Pơnan",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Peng",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Hiao",
+          "district": "huyện Phú Thiện",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Hiao",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chư Răng",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Pờ Tó",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Pờ Tó",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Mrơn",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kim Tân",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Trôk",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Pa",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chư Mố",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Broăi",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Kdăm",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Tul",
+          "district": "huyện Ia Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Tul",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Phú Túc",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Phú Cần",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Ngọc",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Mlah",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đất Bằng",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Phú Túc",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Rmok",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Krông Năng",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Dreh",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Dreh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Chư RCăm",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Gu",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Rsai",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Rsai",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Rsươm",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Drăng",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Uar",
+          "district": "huyện Krông Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Uar",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Đak Đoa",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Tân Bình",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Glar",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Đak Đoa",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đak Krong",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hneng",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Nam Yang",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kon Gang",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Kon Gang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Băng",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Adơk",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Pết",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Băng",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hnol",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Trang",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã KDang",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã KDang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hà Đông",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đak Sơmei",
+          "district": "huyện Đak Đoa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Đak Sơmei",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Kon Dơng",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đăk Yă",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Đak Djrăng",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hải Yang",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Mang Yang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đê Ar",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kon Thụp",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Lơ Pang",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Lơ Pang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đak Trôi",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Kon Chiêng",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Kon Chiêng",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đak Ta Ley",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Hra",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Hra",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đak Jơ Ta",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ayun",
+          "district": "huyện Mang Yang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ayun",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ia Kha",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Bă",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Grăng",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Grai",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Tô",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Khai",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Krái",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Krái",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Sao",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Yok",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Dêr",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Hrung",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Hrung",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Chư Ty",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Kriêng",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Đức Cơ",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Kla",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Dơk",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Dơk",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Lang",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Din",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Ia Krêl",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Krêl",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Tây Sơn",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Hội Thương",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Hoa Lư",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Phù Đổng",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Trà Đa",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường Pleiku",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Trà Bá",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Chi Lăng",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Hội Phú",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường Hội Phú",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Đống Đa",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Yên Thế",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Thống Nhất",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường Thống Nhất",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Yên Đỗ",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Ia Kring",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Diên Hồng",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Diên Phú",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường Diên Hồng",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Thắng Lợi",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Chư Á",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã An Phú",
+          "district": "thành phố Pleiku",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường An Phú",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Ngô Mây",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Tây Sơn",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường An Phú",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường An Phước",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường An Tân",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Thành An",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường An Khê",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường An Bình",
+          "district": "thị xã An Khê",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Tân An",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "xã Cư An",
+          "district": "huyện Đak Pơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường An Bình",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Đoàn Kết",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Sông Bờ",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Cheo Reo",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        },
+        {
+          "commune": "phường Hòa Bình",
+          "district": "thị xã Ayun Pa",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "phường Ayun Pa",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia O",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia O",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Púch",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Púch",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Mơ",
+          "district": "huyện Chư Prông",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Mơ",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Pnôn",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Pnôn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Nan",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Nan",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Dom",
+          "district": "huyện Đức Cơ",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Dom",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Chia",
+          "district": "huyện Ia Grai",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Chia",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Krong",
+          "district": "huyện Kbang",
+          "province": "tỉnh Gia Lai"
+        }
+      ],
+      "to": {
+        "commune": "xã Krong",
+        "province": "tỉnh Gia Lai"
+      }
+    }
+  ],
+  "Bình Định": [
+    {
+      "from": [
+        {
+          "commune": "xã Nhơn Lộc",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Tân",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã An Nhơn Tây",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ngô Mây",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Trinh",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Tân",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Cát",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cát Nhơn",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Tường",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Xuân An",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cát Hưng",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Thắng",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Chánh",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Ngô Mây",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Cát Tiến",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Thành",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Hải",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Cát Tiến",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Cát Khánh",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Minh",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Tài",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Đề Gi",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cát Hanh",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Hiệp",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Hòa Hội",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cát Lâm",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Cát Sơn",
+          "district": "huyện Phù Cát",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Hội Sơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Phù Mỹ",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Quang",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Chánh Tây",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Mỹ",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mỹ Chánh",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Thành",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Cát",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã An Lương",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Bình Dương",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Lợi",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Phong",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Dương",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mỹ An",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Thọ",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Thắng",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Mỹ Đông",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mỹ Trinh",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Hòa",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Mỹ Tây",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mỹ Tài",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Hiệp",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Mỹ Nam",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Mỹ Đức",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Châu",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Mỹ Lộc",
+          "district": "huyện Phù Mỹ",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Phù Mỹ Bắc",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Tuy Phước",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "thị trấn Diêu Trì",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Thuận",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Nghĩa",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Lộc",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Tuy Phước",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phước Sơn",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Hòa",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Thắng",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Tuy Phước Đông",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phước An",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Thành",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Tuy Phước Tây",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Phước Hiệp",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Hưng",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Quang",
+          "district": "huyện Tuy Phước",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Tuy Phước Bắc",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Phú Phong",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Tây Xuân",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Bình Nghi",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Tây Sơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tây Giang",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Tây Thuận",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Khê",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Vĩnh An",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Bình Tường",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Tây Phú",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Phú",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Bình Thuận",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Bình Tân",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Tây An",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Hiệp",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Tây Vinh",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Tây Bình",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Bình Hòa",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Bình Thành",
+          "district": "huyện Tây Sơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình An",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Tăng Bạt Hổ",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Phong",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Đức",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Tường Đông",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Hoài Ân",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ân Tường Tây",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Hữu",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Đak Mang",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Ân Tường",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ân Nghĩa",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Bok Tới",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Kim Sơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ân Sơn",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Tín",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Thạnh",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Vạn Đức",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ân Hảo Tây",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Hảo Đông",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Ân Mỹ",
+          "district": "huyện Hoài Ân",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Ân Hảo",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Vân Canh",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Canh Thuận",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Canh Hòa",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "một phần xã Canh Hiệp",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Vân Canh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Canh Vinh",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Canh Hiển",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "một phần xã Canh Liên",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phần còn lại xã Canh Hiệp",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Canh Vinh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phần còn lại xã Canh Liên",
+          "district": "huyện Vân Canh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Canh Liên",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Vĩnh Thạnh",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Vĩnh Hảo",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Vĩnh Thạnh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Vĩnh Hiệp",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Vĩnh Thịnh",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Vĩnh Thịnh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Vĩnh Thuận",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Vĩnh Hòa",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Vĩnh Quang",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Vĩnh Quang",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Vĩnh Kim",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Vĩnh Sơn",
+          "district": "huyện Vĩnh Thạnh",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Vĩnh Sơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã An Hòa",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã An Quang",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "một phần xã An Nghĩa",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã An Hòa",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn An Lão",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã An Tân",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã An Hưng",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã An Lão",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã An Trung",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã An Dũng",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã An Vinh",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã An Vinh",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã An Toàn",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phần còn lại xã An Nghĩa",
+          "district": "huyện An Lão",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã An Toàn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Đống Đa",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Hải Cảng",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Thị Nại",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Trần Phú",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Quy Nhơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Nhơn Bình",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Hội",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Lý",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Hải",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Quy Nhơn Đông",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Bùi Thị Xuân",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Phước Mỹ",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Quy Nhơn Tây",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Ngô Mây",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Nguyễn Văn Cừ",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Quang Trung",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Ghềnh Ráng",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Quy Nhơn Nam",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Trần Quang Diệu",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Nhơn Phú",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Quy Nhơn Bắc",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Bình Định",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Khánh",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Phúc",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Bình Định",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Đập Đá",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Mỹ",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Hậu",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường An Nhơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Nhơn Hưng",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn An",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường An Nhơn Đông",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Nhơn Hòa",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Thọ",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường An Nhơn Nam",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Nhơn Thành",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Phong",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Nhơn Hạnh",
+          "district": "thị xã An Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường An Nhơn Bắc",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hoài Đức",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Bồng Sơn",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Bồng Sơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hoài Thanh",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Tam Quan Nam",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Hoài Thanh Tây",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Hoài Nhơn",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Tam Quan",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Hoài Châu",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Tam Quan",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hoài Hương",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Hoài Hải",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Hoài Mỹ",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Hoài Nhơn Đông",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hoài Hảo",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Hoài Phú",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Hoài Nhơn Tây",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Hoài Tân",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "phường Hoài Xuân",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Hoài Nhơn Nam",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Tam Quan Bắc",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Hoài Sơn",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        },
+        {
+          "commune": "xã Hoài Châu Bắc",
+          "district": "thị xã Hoài Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "phường Hoài Nhơn Bắc",
+        "province": "tỉnh Gia Lai"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Nhơn Châu",
+          "district": "thành phố Quy Nhơn",
+          "province": "tỉnh Bình Định"
+        }
+      ],
+      "to": {
+        "commune": "xã Nhơn Châu",
+        "province": "tỉnh Gia Lai"
+      }
     }
   ]
 }

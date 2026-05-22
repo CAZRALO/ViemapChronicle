@@ -2,751 +2,2120 @@
   "Đồng Nai": [
     {
       "from": [
-        { "commune": "xã Phú Hữu", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Đông", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phước Khánh", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Đại Phước", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phú Hữu",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Đông",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phước Khánh",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Đại Phước",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Đại Phước", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Đại Phước",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hiệp Phước", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Long Tân", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Thạnh", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Hội", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phước Thiền", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Hiệp Phước",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Long Tân",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Thạnh",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Hội",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phước Thiền",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Nhơn Trạch", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Nhơn Trạch",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước An", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Vĩnh Thanh", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Long Thọ", "district": "huyện Nhơn Trạch", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phước An",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Vĩnh Thanh",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Long Thọ",
+          "district": "huyện Nhơn Trạch",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Phước An", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Phước An",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Hiệp", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phước Bình", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phước Thái", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Tân Hiệp",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phước Bình",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phước Thái",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Phước Thái", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Phước Thái",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bàu Cạn", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Long Phước", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Bàu Cạn",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Long Phước",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Long Phước", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Long Phước",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Long Thành", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Lộc An", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bình Sơn", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Long An", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Long Thành",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Lộc An",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bình Sơn",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Long An",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Long Thành", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Long Thành",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Đức", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bình An", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Long Đức",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bình An",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Bình An", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Bình An",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tam An", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã An Phước", "district": "huyện Long Thành", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Tam An",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã An Phước",
+          "district": "huyện Long Thành",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã An Phước", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã An Phước",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đồi 61", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã An Viễn", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Đồi 61",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã An Viễn",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã An Viễn", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã An Viễn",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Minh", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bắc Sơn", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Bình Minh",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bắc Sơn",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Bình Minh", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Bình Minh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trảng Bom", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Quảng Tiến", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Sông Trầu", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Giang Điền", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Trảng Bom",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Quảng Tiến",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Sông Trầu",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Giang Điền",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Trảng Bom", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Trảng Bom",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thanh Bình", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Cây Gáo", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Sông Thao", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bàu Hàm", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Thanh Bình",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Cây Gáo",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Sông Thao",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bàu Hàm",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Bàu Hàm", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Bàu Hàm",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đông Hòa", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Tây Hòa", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Trung Hòa", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Hưng Thịnh", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Đông Hòa",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Tây Hòa",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Trung Hòa",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Hưng Thịnh",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Hưng Thịnh", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Hưng Thịnh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Dầu Giây", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Hưng Lộc", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bàu Hàm 2", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Lộ 25", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Dầu Giây",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Hưng Lộc",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bàu Hàm 2",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Lộ 25",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Dầu Giây", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Dầu Giây",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Trung", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Gia Tân 3", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Gia Kiệm", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Quang Trung",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Gia Tân 3",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Gia Kiệm",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Gia Kiệm", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Gia Kiệm",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Gia Tân 1", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Gia Tân 2", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Cường", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Túc", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Gia Tân 1",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Gia Tân 2",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Cường",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Túc",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Thống Nhất", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Thống Nhất",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sông Nhạn", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Quế", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Sông Nhạn",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Quế",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Quế", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Quế",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cẩm Đường", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Thừa Đức", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Đường", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Cẩm Đường",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Thừa Đức",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Đường",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Đường", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Đường",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Long Giao", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Nhân Nghĩa", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Mỹ", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bảo Bình", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Long Giao",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Nhân Nghĩa",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Mỹ",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bảo Bình",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Cẩm Mỹ", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Cẩm Mỹ",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lâm San", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Sông Ray", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Lâm San",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Sông Ray",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Sông Ray", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Sông Ray",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Tây", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Đông", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "một phần xã Xuân Tâm", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Xuân Tây",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Đông",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "một phần xã Xuân Tâm",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Đông", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Đông",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Bảo", "district": "huyện Cẩm Mỹ", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bảo Hòa", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Định", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Xuân Bảo",
+          "district": "huyện Cẩm Mỹ",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bảo Hòa",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Định",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Định", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Định",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lang Minh", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Phú", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Lang Minh",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Phú",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Phú", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Phú",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Gia Ray", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Thọ", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Trường", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Suối Cát", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Hiệp", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Gia Ray",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Thọ",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Trường",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Suối Cát",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Hiệp",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Lộc", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Lộc",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Hưng", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Hòa", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "phần còn lại xã Xuân Tâm", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Xuân Hưng",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Hòa",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phần còn lại xã Xuân Tâm",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Hòa", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Hòa",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Suối Cao", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Thành", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Suối Cao",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Thành",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Thành", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Thành",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Suối Nho", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Bắc", "district": "huyện Xuân Lộc", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Suối Nho",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Bắc",
+          "district": "huyện Xuân Lộc",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Xuân Bắc", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Xuân Bắc",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Túc Trưng", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã La Ngà", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Túc Trưng",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã La Ngà",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã La Ngà", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã La Ngà",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Định Quán", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Ngọc", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Gia Canh", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Ngọc Định", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Định Quán",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Ngọc",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Gia Canh",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Ngọc Định",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Định Quán", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Định Quán",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Tân", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Vinh", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phú Tân",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Vinh",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Phú Vinh", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Phú Vinh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Điền", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Lợi", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Hòa", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phú Điền",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Lợi",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Hòa",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Phú Hòa", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Phú Hòa",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Thịnh", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Lập", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Tà Lài", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phú Thịnh",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Lập",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Tà Lài",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Tà Lài", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Tà Lài",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú An", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Nam Cát Tiên", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phú An",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Nam Cát Tiên",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Nam Cát Tiên", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Nam Cát Tiên",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tân Phú", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Lộc", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Trà Cổ", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Thanh", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Xuân", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Tân Phú",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Lộc",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Trà Cổ",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Thanh",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Xuân",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Tân Phú", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Tân Phú",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thanh Sơn", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Sơn", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Bình", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Phú Lâm", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Thanh Sơn",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Sơn",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Bình",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Phú Lâm",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Phú Lâm", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Phú Lâm",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vĩnh An", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Mã Đà", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Trị An", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "thị trấn Vĩnh An",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Mã Đà",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Trị An",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Trị An", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Trị An",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Tân", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Tân An", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Vĩnh Tân",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Tân An",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Tân An", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Tân An",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Hạnh", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Hóa An", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Bửu Hòa", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Tân Vạn", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Tân Hạnh",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Hóa An",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Bửu Hòa",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Tân Vạn",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Biên Hòa", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Biên Hòa",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Bửu Long", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Quang Vinh", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Trung Dũng", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Thống Nhất", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Hiệp Hòa", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường An Bình", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Bửu Long",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Quang Vinh",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Trung Dũng",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Thống Nhất",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Hiệp Hòa",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường An Bình",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Trấn Biên", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Trấn Biên",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Hiệp", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Tân Mai", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Bình Đa", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Tam Hiệp", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Tân Hiệp",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Tân Mai",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Bình Đa",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Tam Hiệp",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Tam Hiệp", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Tam Hiệp",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hố Nai", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Tân Biên", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Long Bình", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Hố Nai",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Tân Biên",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Long Bình",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Long Bình", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Long Bình",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trảng Dài", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Thiện Tân", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Trảng Dài",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Thiện Tân",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Trảng Dài", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Trảng Dài",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Hòa", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Hố Nai 3", "district": "huyện Trảng Bom", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Tân Hòa",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Hố Nai 3",
+          "district": "huyện Trảng Bom",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Hố Nai", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Hố Nai",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Long Bình Tân", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường An Hòa", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Long Hưng", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Long Bình Tân",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường An Hòa",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Long Hưng",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Long Hưng", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Long Hưng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Suối Tre", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Xuân Thiện", "district": "huyện Thống Nhất", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bình Lộc", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Suối Tre",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Xuân Thiện",
+          "district": "huyện Thống Nhất",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bình Lộc",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Bình Lộc", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Bình Lộc",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Bảo Vinh", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bảo Quang", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Bảo Vinh",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bảo Quang",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Bảo Vinh", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Bảo Vinh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Bàu Sen", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Xuân Lập", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Bàu Sen",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Xuân Lập",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Xuân Lập", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Xuân Lập",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Xuân An", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Xuân Bình", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Xuân Hòa", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "phường Phú Bình", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bàu Trâm", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Xuân An",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Xuân Bình",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Xuân Hòa",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "phường Phú Bình",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bàu Trâm",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Long Khánh", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Long Khánh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Xuân Tân", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Hàng Gòn", "district": "thành phố Long Khánh", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Xuân Tân",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Hàng Gòn",
+          "district": "thành phố Long Khánh",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Hàng Gòn", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Hàng Gòn",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Phong", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Tân Bình", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Bình Lợi", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" },
-        { "commune": "xã Thạnh Phú", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Tân Phong",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Tân Bình",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Bình Lợi",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        },
+        {
+          "commune": "xã Thạnh Phú",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Tân Triều", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Tân Triều",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phước Tân", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Phước Tân",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Phước Tân", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Phước Tân",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tam Phước", "district": "thành phố Biên Hòa", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "phường Tam Phước",
+          "district": "thành phố Biên Hòa",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "phường Tam Phước", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "phường Tam Phước",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thanh Sơn", "district": "huyện Định Quán", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Thanh Sơn",
+          "district": "huyện Định Quán",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Thanh Sơn", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Thanh Sơn",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đak Lua", "district": "huyện Tân Phú", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Đak Lua",
+          "district": "huyện Tân Phú",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Đak Lua", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Đak Lua",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Lý", "district": "huyện Vĩnh Cửu", "province": "tỉnh Đồng Nai" }
+        {
+          "commune": "xã Phú Lý",
+          "district": "huyện Vĩnh Cửu",
+          "province": "tỉnh Đồng Nai"
+        }
       ],
-      "to": { "commune": "xã Phú Lý", "province": "tỉnh Đồng Nai" }
+      "to": {
+        "commune": "xã Phú Lý",
+        "province": "tỉnh Đồng Nai"
+      }
     }
   ],
   "Bình Phước": [
     {
       "from": [
-        { "commune": "xã Minh Thắng", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Minh Lập", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Nha Bích", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Minh Thắng",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Minh Lập",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Nha Bích",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Nha Bích", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Nha Bích",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước An", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Lợi", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Quang Minh", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Quan", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Phước An",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Lợi",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Quang Minh",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Quan",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Tân Quan", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Tân Quan",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Hưng", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã An Khương", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thanh An", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Tân Hưng",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã An Khương",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thanh An",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Tân Hưng", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Tân Hưng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tân Khai", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Hiệp", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đồng Nơ", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "thị trấn Tân Khai",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Hiệp",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đồng Nơ",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Tân Khai", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Tân Khai",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Phú", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Minh Tâm", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Minh Đức", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã An Phú",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Minh Tâm",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Minh Đức",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Minh Đức", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Minh Đức",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lộc Thịnh", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Thành", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Lộc Thịnh",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Thành",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Lộc Thành", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Lộc Thành",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Lộc Ninh", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Thái", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Thuận", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "thị trấn Lộc Ninh",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Thái",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Thuận",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Lộc Ninh", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Lộc Ninh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lộc Khánh", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Điền", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Hưng", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Lộc Khánh",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Điền",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Hưng",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Lộc Hưng", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Lộc Hưng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lộc Thiện", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Tấn", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Lộc Thiện",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Tấn",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Lộc Tấn", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Lộc Tấn",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lộc Hòa", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Thạnh", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Lộc Hòa",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Thạnh",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Lộc Thạnh", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Lộc Thạnh",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lộc Phú", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Hiệp", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc Quang", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Lộc Phú",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Hiệp",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc Quang",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Lộc Quang", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Lộc Quang",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Thành", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Tiến", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Lộc An", "district": "huyện Lộc Ninh", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Tân Thành",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Tiến",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Lộc An",
+          "district": "huyện Lộc Ninh",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Tân Tiến", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Tân Tiến",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thanh Bình", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thanh Hòa", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thiện Hưng", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "thị trấn Thanh Bình",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thanh Hòa",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thiện Hưng",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Thiện Hưng", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Thiện Hưng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Thiện", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Hưng Phước", "district": "huyện Bù Đốp", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Phước Thiện",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Hưng Phước",
+          "district": "huyện Bù Đốp",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Hưng Phước", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Hưng Phước",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Văn", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đức Hạnh", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Phú Nghĩa", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Phú Văn",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đức Hạnh",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Phú Nghĩa",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Phú Nghĩa", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Phú Nghĩa",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Minh", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Bình Thắng", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đa Kia", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Phước Minh",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Bình Thắng",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đa Kia",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Đa Kia", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Đa Kia",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Hưng", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Long Bình", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Bình Tân", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Long Hưng",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Long Bình",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Bình Tân",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Bình Tân", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Bình Tân",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Tân", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Long Hà", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Long Tân",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Long Hà",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Long Hà", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Long Hà",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bù Nho", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Phú Riềng", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Bù Nho",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Phú Riềng",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Phú Riềng", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Phú Riềng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phước Tân", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Phú Trung", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Phước Tân",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Phú Trung",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Phú Trung", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Phú Trung",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thuận Phú", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thuận Lợi", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Thuận Phú",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thuận Lợi",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Thuận Lợi", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Thuận Lợi",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đồng Tiến", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Phước", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đồng Tâm", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Đồng Tiến",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Phước",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đồng Tâm",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Đồng Tâm", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Đồng Tâm",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Hưng", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Lợi", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Hòa", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Tân Hưng",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Lợi",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Hòa",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Tân Lợi", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Tân Lợi",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tân Phú", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Tiến", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Lập", "district": "huyện Đồng Phú", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "thị trấn Tân Phú",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Tiến",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Đồng Phú",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Đồng Phú", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Đồng Phú",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăng Hà", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thống Nhất", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Phước Sơn", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Đăng Hà",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thống Nhất",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Phước Sơn",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Phước Sơn", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Phước Sơn",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Liễu", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Nghĩa Bình", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Nghĩa Trung", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Đức Liễu",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Nghĩa Bình",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Nghĩa Trung",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Trung", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Nghĩa Trung",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đức Phong", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đoàn Kết", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Minh Hưng", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "thị trấn Đức Phong",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đoàn Kết",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Minh Hưng",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Bù Đăng", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Bù Đăng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Sơn", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đồng Nai", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thọ Sơn", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Phú Sơn",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đồng Nai",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thọ Sơn",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Thọ Sơn", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Thọ Sơn",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đường 10", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Đak Nhau", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Đường 10",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Đak Nhau",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Đak Nhau", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Đak Nhau",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Minh", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Bom Bo", "district": "huyện Bù Đăng", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Bình Minh",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Bom Bo",
+          "district": "huyện Bù Đăng",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Bom Bo", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Bom Bo",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Minh Long", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Minh Hưng", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Minh Long",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Minh Hưng",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Minh Hưng", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Minh Hưng",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hưng Long", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Thành Tâm", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Minh Thành", "district": "thị xã Chơn Thành", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Hưng Long",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Thành Tâm",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Minh Thành",
+          "district": "thị xã Chơn Thành",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Chơn Thành", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Chơn Thành",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường An Lộc", "district": "thị xã Bình Long", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Hưng Chiến", "district": "thị xã Bình Long", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Phú Đức", "district": "thị xã Bình Long", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thanh Bình", "district": "huyện Hớn Quản", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường An Lộc",
+          "district": "thị xã Bình Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Hưng Chiến",
+          "district": "thị xã Bình Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Phú Đức",
+          "district": "thị xã Bình Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thanh Bình",
+          "district": "huyện Hớn Quản",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Bình Long", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Bình Long",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phú Thịnh", "district": "thị xã Bình Long", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thanh Phú", "district": "thị xã Bình Long", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Thanh Lương", "district": "thị xã Bình Long", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Phú Thịnh",
+          "district": "thị xã Bình Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thanh Phú",
+          "district": "thị xã Bình Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Thanh Lương",
+          "district": "thị xã Bình Long",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường An Lộc", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường An Lộc",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Long Phước", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Phước Bình", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Bình Sơn", "district": "huyện Phú Riềng", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Long Giang", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Long Phước",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Phước Bình",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Bình Sơn",
+          "district": "huyện Phú Riềng",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Long Giang",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Phước Bình", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Phước Bình",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Long Thủy", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Thác Mơ", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Sơn Giang", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Phước Tín", "district": "thị xã Phước Long", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Long Thủy",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Thác Mơ",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Sơn Giang",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Phước Tín",
+          "district": "thị xã Phước Long",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Phước Long", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Phước Long",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tiến Thành", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tân Thành", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Tiến Thành",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tân Thành",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Đồng Xoài", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Đồng Xoài",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Phú", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Tân Đồng", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Tân Thiện", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Tân Bình", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" },
-        { "commune": "phường Tân Xuân", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" },
-        { "commune": "xã Tiến Hưng", "district": "thành phố Đồng Xoài", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "phường Tân Phú",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Tân Đồng",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Tân Thiện",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Tân Bình",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "phường Tân Xuân",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        },
+        {
+          "commune": "xã Tiến Hưng",
+          "district": "thành phố Đồng Xoài",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "phường Bình Phước", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "phường Bình Phước",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bù Gia Mập", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Bù Gia Mập",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Bù Gia Mập", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Bù Gia Mập",
+        "province": "tỉnh Đồng Nai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Ơ", "district": "huyện Bù Gia Mập", "province": "tỉnh Bình Phước" }
+        {
+          "commune": "xã Đăk Ơ",
+          "district": "huyện Bù Gia Mập",
+          "province": "tỉnh Bình Phước"
+        }
       ],
-      "to": { "commune": "xã Đăk Ơ", "province": "tỉnh Bình Phước" }
+      "to": {
+        "commune": "xã Đăk Ơ",
+        "province": "tỉnh Đồng Nai"
+      }
     }
   ]
 }

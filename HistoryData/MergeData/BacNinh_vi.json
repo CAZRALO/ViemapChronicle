@@ -2,814 +2,2367 @@
   "Bắc Ninh": [
     {
       "from": [
-        { "commune": "xã Yên Giả", "district": "huyện Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Chi Lăng", "district": "huyện Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Yên Giả",
+          "district": "huyện Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Chi Lăng",
+          "district": "huyện Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Chi Lăng", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Chi Lăng",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Châu Phong", "district": "huyện Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đức Long", "district": "huyện Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Phù Lãng", "district": "huyện Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Châu Phong",
+          "district": "huyện Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đức Long",
+          "district": "huyện Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Phù Lãng",
+          "district": "huyện Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Phù Lãng", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Phù Lãng",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chờ", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Trung Nghĩa", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Long Châu", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đông Tiến", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "thị trấn Chờ",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Trung Nghĩa",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Long Châu",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đông Tiến",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Yên Phong", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Yên Phong",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yên Phụ", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đông Thọ", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Văn Môn", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Yên Phụ",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đông Thọ",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Văn Môn",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Văn Môn", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Văn Môn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Tiến", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Tam Giang", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Hòa Tiến",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Tam Giang",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Tam Giang", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Tam Giang",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Dũng Liệt", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Yên Trung", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Dũng Liệt",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Yên Trung",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Yên Trung", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Yên Trung",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thụy Hòa", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đông Phong", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Tam Đa", "district": "huyện Yên Phong", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Thụy Hòa",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đông Phong",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Tam Đa",
+          "district": "huyện Yên Phong",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Tam Đa", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Tam Đa",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Lim", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Nội Duệ", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Phú Lâm", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "thị trấn Lim",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Nội Duệ",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Phú Lâm",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Tiên Du", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Tiên Du",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hiên Vân", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Việt Đoàn", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Liên Bão", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Hiên Vân",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Việt Đoàn",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Liên Bão",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Liên Bão", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Liên Bão",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lạc Vệ", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Tân Chi", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Lạc Vệ",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Tân Chi",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Tân Chi", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Tân Chi",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tri Phương", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Hoàn Sơn", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đại Đồng", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Tri Phương",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Hoàn Sơn",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đại Đồng",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Đại Đồng", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Đại Đồng",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Minh Đạo", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Cảnh Hưng", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Phật Tích", "district": "huyện Tiên Du", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Minh Đạo",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Cảnh Hưng",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Phật Tích",
+          "district": "huyện Tiên Du",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Phật Tích", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Phật Tích",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Gia Bình", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Xuân Lai", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Quỳnh Phú", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đại Bái", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "thị trấn Gia Bình",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Xuân Lai",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Quỳnh Phú",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đại Bái",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Gia Bình", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Gia Bình",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nhân Thắng", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Thái Bảo", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Bình Dương", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "thị trấn Nhân Thắng",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Thái Bảo",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Bình Dương",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Nhân Thắng", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Nhân Thắng",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Song Giang", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đại Lai", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Song Giang",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đại Lai",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Đại Lai", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Đại Lai",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vạn Ninh", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Cao Đức", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Vạn Ninh",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Cao Đức",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Cao Đức", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Cao Đức",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Giang Sơn", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Lãng Ngâm", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đông Cứu", "district": "huyện Gia Bình", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Giang Sơn",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Lãng Ngâm",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đông Cứu",
+          "district": "huyện Gia Bình",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Đông Cứu", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Đông Cứu",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thứa", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Phú Hòa", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Tân Lãng", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "thị trấn Thứa",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Phú Hòa",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Tân Lãng",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Lương Tài", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Lương Tài",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Định", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Quảng Phú", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Lâm Thao", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Bình Định",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Quảng Phú",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Lâm Thao",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Lâm Thao", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Lâm Thao",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Lương", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Quang Minh", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Trung Chính", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Phú Lương",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Quang Minh",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Trung Chính",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Trung Chính", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Trung Chính",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Thịnh", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã An Tập", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Trung Kênh", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã An Thịnh",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã An Tập",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Trung Kênh",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Trung Kênh", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Trung Kênh",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Giáo Liêm", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Phúc Sơn", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đại Sơn", "district": "huyện Lương Tài", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "xã Giáo Liêm",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Phúc Sơn",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đại Sơn",
+          "district": "huyện Lương Tài",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "xã Đại Sơn", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "xã Đại Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Suối Hoa", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Tiền Ninh Vệ", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Vạn An", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Hòa Long", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Khúc Xuyên", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Kinh Bắc", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Suối Hoa",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Tiền Ninh Vệ",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Vạn An",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Hòa Long",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Khúc Xuyên",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Kinh Bắc",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Kinh Bắc", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Kinh Bắc",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Đại Phúc", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Phong Khê", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Võ Cường", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Đại Phúc",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Phong Khê",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Võ Cường",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Võ Cường", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Võ Cường",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Kim Chân", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Đáp Cầu", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Thị Cầu", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Vũ Ninh", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Kim Chân",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Đáp Cầu",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Thị Cầu",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Vũ Ninh",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Vũ Ninh", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Vũ Ninh",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Khắc Niệm", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Hạp Lĩnh", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Khắc Niệm",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Hạp Lĩnh",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Hạp Lĩnh", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Hạp Lĩnh",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Vân Dương", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Nam Sơn", "district": "thành phố Bắc Ninh", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Vân Dương",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Nam Sơn",
+          "district": "thành phố Bắc Ninh",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Nam Sơn", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Nam Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Đông Ngàn", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Tân Hồng", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Phù Chẩn", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Đình Bảng", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Đông Ngàn",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Tân Hồng",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Phù Chẩn",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Đình Bảng",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Từ Sơn", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Từ Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tương Giang", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Tam Sơn", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Tương Giang",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Tam Sơn",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Tam Sơn", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Tam Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trang Hạ", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Đồng Kỵ", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Đồng Nguyên", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Trang Hạ",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Đồng Kỵ",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Đồng Nguyên",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Đồng Nguyên", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Đồng Nguyên",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Châu Khê", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Hương Mạc", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Phù Khê", "district": "thành phố Từ Sơn", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Châu Khê",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Hương Mạc",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Phù Khê",
+          "district": "thành phố Từ Sơn",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Phù Khê", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Phù Khê",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hồ", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Song Hồ", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Gia Đông", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đại Đồng Thành", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Hồ",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Song Hồ",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Gia Đông",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đại Đồng Thành",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Thuận Thành", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Thuận Thành",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường An Bình", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Hoài Thượng", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Mão Điền", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường An Bình",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Hoài Thượng",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Mão Điền",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Mão Điền", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Mão Điền",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trạm Lộ", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Nghĩa Đạo", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Trạm Lộ",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Nghĩa Đạo",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Trạm Lộ", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Trạm Lộ",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Thanh Khương", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Trí Quả", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đình Tổ", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Thanh Khương",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Trí Quả",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đình Tổ",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Trí Quả", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Trí Quả",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Xuân Lâm", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Hà Mãn", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Ngũ Thái", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Song Liễu", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Xuân Lâm",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Hà Mãn",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Ngũ Thái",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Song Liễu",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Song Liễu", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Song Liễu",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ninh Xá", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Nguyệt Đức", "district": "thị xã Thuận Thành", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Ninh Xá",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Nguyệt Đức",
+          "district": "thị xã Thuận Thành",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Ninh Xá", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Ninh Xá",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phố Mới", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Bằng An", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Việt Hùng", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Quế Tân", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Phố Mới",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Bằng An",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Việt Hùng",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Quế Tân",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Quế Võ", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Quế Võ",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phượng Mao", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Phương Liễu", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Phượng Mao",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Phương Liễu",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Phương Liễu", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Phương Liễu",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Đại Xuân", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Nhân Hòa", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Việt Thống", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Đại Xuân",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Nhân Hòa",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Việt Thống",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Nhân Hòa", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Nhân Hòa",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phù Lương", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Ngọc Xá", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Đào Viên", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Phù Lương",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Ngọc Xá",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Đào Viên",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Đào Viên", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Đào Viên",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Cách Bi", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "phường Bồng Lai", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" },
-        { "commune": "xã Mộ Đạo", "district": "thị xã Quế Võ", "province": "tỉnh Bắc Ninh" }
+        {
+          "commune": "phường Cách Bi",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "phường Bồng Lai",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        },
+        {
+          "commune": "xã Mộ Đạo",
+          "district": "thị xã Quế Võ",
+          "province": "tỉnh Bắc Ninh"
+        }
       ],
-      "to": { "commune": "phường Bồng Lai", "province": "tỉnh Bắc Ninh" }
+      "to": {
+        "commune": "phường Bồng Lai",
+        "province": "tỉnh Bắc Ninh"
+      }
     }
   ],
   "Bắc Giang": [
     {
       "from": [
-        { "commune": "thị trấn An Châu", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã An Bá", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Vĩnh An", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn An Châu",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã An Bá",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Vĩnh An",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Sơn Động", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Sơn Động",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tây Yên Tử", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Thanh Luận", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Tây Yên Tử",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Thanh Luận",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tây Yên Tử", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tây Yên Tử",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Sơn", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Dương Hưu", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Long Sơn",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Dương Hưu",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Dương Hưu", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Dương Hưu",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cẩm Đàn", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Yên Định", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Cẩm Đàn",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Yên Định",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Yên Định", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Yên Định",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lệ Viễn", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã An Lạc", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Lệ Viễn",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã An Lạc",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã An Lạc", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã An Lạc",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hữu Sản", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Vân Sơn", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Hữu Sản",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Vân Sơn",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Vân Sơn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Vân Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Biển Động", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Kim Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Phú Nhuận", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Biển Động",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Kim Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Phú Nhuận",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Biển Động", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Biển Động",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phì Điền", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Giáp Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Cốc", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Hoa", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Quang", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Phì Điền",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Giáp Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Cốc",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Hoa",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Quang",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Lục Ngạn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Lục Ngạn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Lập", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đèo Gia", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đèo Gia",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Đèo Gia", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Đèo Gia",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hộ Đáp", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Sơn Hải", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Hộ Đáp",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Sơn Hải",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Sơn Hải", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Sơn Hải",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cấm Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Cấm Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tân Sơn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tân Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phong Vân", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Biên Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "Trường bắn TB1", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Phong Vân",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Biên Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "Trường bắn TB1",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Biên Sơn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Biên Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phong Minh", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Sa Lý", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Phong Minh",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Sa Lý",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Sa Lý", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Sa Lý",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Mộc", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Nam Dương", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Tân Mộc",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Nam Dương",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Nam Dương", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Nam Dương",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Kiên Thành", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Kiên Lao", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Kiên Thành",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Kiên Lao",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Kiên Lao", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Kiên Lao",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Lục Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Bình Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Lục Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Lục Sơn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Lục Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vô Tranh", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Trường Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Vô Tranh",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Trường Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Trường Sơn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Trường Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đan Hội", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Cẩm Lý", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đan Hội",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Cẩm Lý",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Cẩm Lý", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Cẩm Lý",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đông Hưng", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đông Phú", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đông Hưng",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đông Phú",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Đông Phú", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Đông Phú",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trường Giang", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Huyền Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Nghĩa Phương", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Trường Giang",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Huyền Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Nghĩa Phương",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Phương", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Nghĩa Phương",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phương Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "thị trấn Đồi Ngô", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Cương Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tiên Nha", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Chu Điện", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Phương Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "thị trấn Đồi Ngô",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Cương Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tiên Nha",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Chu Điện",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Lục Nam", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Lục Nam",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yên Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Lan Mẫu", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Khám Lạng", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Bắc Lũng", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Yên Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Lan Mẫu",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Khám Lạng",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Bắc Lũng",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Bắc Lũng", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Bắc Lũng",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bảo Sơn", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Thanh Lâm", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tam Dị", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Bảo Đài", "district": "huyện Lục Nam", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Bảo Sơn",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Thanh Lâm",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tam Dị",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Bảo Đài",
+          "district": "huyện Lục Nam",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Bảo Đài", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Bảo Đài",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vôi", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Xương Lâm", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hương Lạc", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Hưng", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Vôi",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Xương Lâm",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hương Lạc",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Hưng",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Lạng Giang", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Lạng Giang",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Hương", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Dương Đức", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Thanh", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Mỹ Thái", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Xuân Hương",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Dương Đức",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Thanh",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Mỹ Thái",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Mỹ Thái", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Mỹ Thái",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Kép", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Quang Thịnh", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hương Sơn", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Kép",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Quang Thịnh",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hương Sơn",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Kép", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Kép",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Dĩnh", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Thái Đào", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đại Lâm", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Tân Dĩnh",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Thái Đào",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đại Lâm",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tân Dĩnh", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tân Dĩnh",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đào Mỹ", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Nghĩa Hòa", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã An Hà", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Nghĩa Hưng", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tiên Lục", "district": "huyện Lạng Giang", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đào Mỹ",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Nghĩa Hòa",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã An Hà",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Nghĩa Hưng",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tiên Lục",
+          "district": "huyện Lạng Giang",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tiên Lục", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tiên Lục",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phồn Xương", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Lạc", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Tâm", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Hiệp", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Sỏi", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Phồn Xương",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Lạc",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Tâm",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Hiệp",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Sỏi",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Yên Thế", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Yên Thế",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Bố Hạ", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đông Sơn", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hương Vĩ", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Bố Hạ",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đông Sơn",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hương Vĩ",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Bố Hạ", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Bố Hạ",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đồng Hưu", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Vương", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Kỳ", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đồng Hưu",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Vương",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Kỳ",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Đồng Kỳ", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Đồng Kỳ",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đồng Tiến", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Canh Nậu", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Xuân Lương", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đồng Tiến",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Canh Nậu",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Xuân Lương",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Xuân Lương", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Xuân Lương",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tiến Thắng", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã An Thượng", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tam Tiến", "district": "huyện Yên Thế", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Tiến Thắng",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã An Thượng",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tam Tiến",
+          "district": "huyện Yên Thế",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tam Tiến", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tam Tiến",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Cao Thượng", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Cao Xá", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Việt Lập", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Ngọc Lý", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Cao Thượng",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Cao Xá",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Việt Lập",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Ngọc Lý",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tân Yên", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tân Yên",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Song Vân", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Ngọc Châu", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Ngọc Vân", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Việt Ngọc", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Ngọc Thiện", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Song Vân",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Ngọc Châu",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Ngọc Vân",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Việt Ngọc",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Ngọc Thiện",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Ngọc Thiện", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Ngọc Thiện",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nhã Nam", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tân Trung", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Liên Sơn", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã An Dương", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Nhã Nam",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tân Trung",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Liên Sơn",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã An Dương",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Nhã Nam", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Nhã Nam",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hợp Đức", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Liên Chung", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Phúc Hòa", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Hợp Đức",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Liên Chung",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Phúc Hòa",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Phúc Hoà", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Phúc Hoà",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lam Sơn", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Quang Trung", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Lam Sơn",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Quang Trung",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Quang Trung", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Quang Trung",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thường Thắng", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Mai Trung", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hùng Thái", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Sơn Thịnh", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hợp Thịnh", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Thường Thắng",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Mai Trung",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hùng Thái",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Sơn Thịnh",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hợp Thịnh",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Hợp Thịnh", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Hợp Thịnh",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thắng", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đông Lỗ", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đoan Bái", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Danh Thắng", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Lương Phong", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Thắng",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đông Lỗ",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đoan Bái",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Danh Thắng",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Lương Phong",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Hiệp Hòa", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Hiệp Hòa",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đồng Tiến", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Toàn Thắng", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Ngọc Sơn", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hoàng Vân", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đồng Tiến",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Toàn Thắng",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Ngọc Sơn",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hoàng Vân",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Hoàng Vân", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Hoàng Vân",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Giang", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Phúc", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Đồng Việt", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Đức Giang",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Phúc",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Đồng Việt",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Đồng Việt", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Đồng Việt",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Bắc Lý", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hương Lâm", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Mai Đình", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Châu Minh", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Xuân Cẩm", "district": "huyện Hiệp Hòa", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "thị trấn Bắc Lý",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hương Lâm",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Mai Đình",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Châu Minh",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Xuân Cẩm",
+          "district": "huyện Hiệp Hòa",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Xuân Cẩm", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Xuân Cẩm",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Thanh Hải", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Hồng Giang", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Trù Hựu", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Chũ", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Thanh Hải",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Hồng Giang",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Trù Hựu",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Chũ",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Chũ", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Chũ",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phượng Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Quý Sơn", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Mỹ An", "district": "huyện Lục Ngạn", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Phượng Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Quý Sơn",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Mỹ An",
+          "district": "huyện Lục Ngạn",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Phượng Sơn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Phượng Sơn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tự Lạn", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Việt Tiến", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Thượng Lan", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Hương Mai", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Tự Lạn",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Việt Tiến",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Thượng Lan",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Hương Mai",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Tự Lạn", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Tự Lạn",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Bích Động", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Hồng Thái", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Minh Đức", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Nghĩa Trung", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Bích Động",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Hồng Thái",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Minh Đức",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Nghĩa Trung",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Việt Yên", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Việt Yên",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Quang Châu", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Vân Trung", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Tăng Tiến", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Nếnh", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Quang Châu",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Vân Trung",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Tăng Tiến",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Nếnh",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Nếnh", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Nếnh",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ninh Sơn", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Quảng Minh", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tiên Sơn", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Trung Sơn", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Vân Hà", "district": "huyện Việt Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Ninh Sơn",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Quảng Minh",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tiên Sơn",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Trung Sơn",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Vân Hà",
+          "district": "huyện Việt Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Vân Hà", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Vân Hà",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Thọ Xương", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Ngô Quyền", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Xương Giang", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Hoàng Văn Thụ", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Trần Phú", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Dĩnh Kế", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Dĩnh Trì", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Thọ Xương",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Ngô Quyền",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Xương Giang",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Hoàng Văn Thụ",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Trần Phú",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Dĩnh Kế",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Dĩnh Trì",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Bắc Giang", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Bắc Giang",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Mỹ", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Mỹ Độ", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Song Mai", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Đa Mai", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Quế Nham", "district": "huyện Tân Yên", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Tân Mỹ",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Mỹ Độ",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Song Mai",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Đa Mai",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Quế Nham",
+          "district": "huyện Tân Yên",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Đa Mai", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Đa Mai",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nội Hoàng", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Song Khê", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Đồng Sơn", "district": "thành phố Bắc Giang", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Tiền Phong", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Nội Hoàng",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Song Khê",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Đồng Sơn",
+          "district": "thành phố Bắc Giang",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Tiền Phong",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Tiền Phong", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Tiền Phong",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân An", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Quỳnh Sơn", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Trí Yên", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Lãng Sơn", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Tân An",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Quỳnh Sơn",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Trí Yên",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Lãng Sơn",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Tân An", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Tân An",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Liễu", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Nham Biền", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Yên Lư", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Tân Liễu",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Nham Biền",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Yên Lư",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Yên Dũng", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Yên Dũng",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hương Gián", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "phường Tân Tiến", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Xuân Phú", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Hương Gián",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "phường Tân Tiến",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Xuân Phú",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Tân Tiến", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Tân Tiến",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "phường Cảnh Thụy", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tiến Dũng", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" },
-        { "commune": "xã Tư Mại", "district": "huyện Yên Dũng", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "phường Cảnh Thụy",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tiến Dũng",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        },
+        {
+          "commune": "xã Tư Mại",
+          "district": "huyện Yên Dũng",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "phường Cảnh Thụy", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "phường Cảnh Thụy",
+        "province": "tỉnh Bắc Ninh"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tuấn Đạo", "district": "huyện Sơn Động", "province": "tỉnh Bắc Giang" }
+        {
+          "commune": "xã Tuấn Đạo",
+          "district": "huyện Sơn Động",
+          "province": "tỉnh Bắc Giang"
+        }
       ],
-      "to": { "commune": "xã Tuấn Đạo", "province": "tỉnh Bắc Giang" }
+      "to": {
+        "commune": "xã Tuấn Đạo",
+        "province": "tỉnh Bắc Ninh"
+      }
     }
   ]
 }

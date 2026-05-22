@@ -2,819 +2,2392 @@
   "Lào Cai": [
     {
       "from": [
-        { "commune": "xã Đồng Tuyển", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tòng Sành", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cốc San", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Đồng Tuyển",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tòng Sành",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cốc San",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Cốc San", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Cốc San",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tả Phời", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Hợp Thành", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Tả Phời",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Hợp Thành",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Hợp Thành", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Hợp Thành",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nông trường Phong Hải", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Cầm", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Nông trường Phong Hải",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Cầm",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Phong Hải", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Phong Hải",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phong Niên", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Trì Quang", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Xuân Quang", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Phong Niên",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Trì Quang",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Xuân Quang",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Xuân Quang", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Xuân Quang",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phố Lu", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Sơn Hà", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Sơn Hải", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Thái Niên", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Phố Lu",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Sơn Hà",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Sơn Hải",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Thái Niên",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bảo Thắng", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bảo Thắng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tằng Loỏng", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Phú Nhuận", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Tằng Loỏng",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Phú Nhuận",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Tằng Loỏng", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Tằng Loỏng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Giao", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Thống Nhất", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Gia Phú", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Xuân Giao",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Thống Nhất",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Gia Phú",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Gia Phú", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Gia Phú",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Pung", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Trung Lèng Hồ", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Mường Hum", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Pung",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Trung Lèng Hồ",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Mường Hum",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Mường Hum", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Mường Hum",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Dền Thàng", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Sàng Ma Sáo", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Dền Sáng", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Dền Thàng",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Sàng Ma Sáo",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Dền Sáng",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Dền Sáng", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Dền Sáng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã A Lù", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Y Tý", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã A Lù",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Y Tý",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Y Tý", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Y Tý",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Chạc", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã A Mú Sung", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Chạc",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã A Mú Sung",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã A Mú Sung", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã A Mú Sung",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cốc Mỳ", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Trịnh Tường", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Cốc Mỳ",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Trịnh Tường",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Trịnh Tường", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Trịnh Tường",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Pa Cheo", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Mường Vi", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Xèo", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Pa Cheo",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Mường Vi",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Xèo",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bản Xèo", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bản Xèo",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Bát Xát", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Vược", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Qua", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Phìn Ngan", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Quang Kim", "district": "huyện Bát Xát", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Bát Xát",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Vược",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Qua",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Phìn Ngan",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Quang Kim",
+          "district": "huyện Bát Xát",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bát Xát", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bát Xát",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Mả", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nậm Dạng", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Võ Lao", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Mả",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nậm Dạng",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Võ Lao",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Võ Lao", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Võ Lao",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Khánh Yên Trung", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Liêm Phú", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Khánh Yên Hạ", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Khánh Yên Trung",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Liêm Phú",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Khánh Yên Hạ",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Khánh Yên", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Khánh Yên",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Khánh Yên", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Khánh Yên Thượng", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Sơn Thuỷ", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Làng Giàng", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Hòa Mạc", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Khánh Yên",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Khánh Yên Thượng",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Sơn Thuỷ",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Làng Giàng",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Hòa Mạc",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Văn Bàn", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Văn Bàn",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thẳm Dương", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Dương Quỳ", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Thẳm Dương",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Dương Quỳ",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Dương Quỳ", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Dương Quỳ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Tha", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Chiềng Ken", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Tha",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Chiềng Ken",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Chiềng Ken", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Chiềng Ken",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Xây", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Minh Lương", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Xây",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Minh Lương",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Minh Lương", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Minh Lương",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Dần Thàng", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nậm Chày", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Dần Thàng",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nậm Chày",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Nậm Chày", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Nậm Chày",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phố Ràng", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Yên Sơn", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Lương Sơn", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Xuân Thượng", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Phố Ràng",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Yên Sơn",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Lương Sơn",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Xuân Thượng",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bảo Yên", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bảo Yên",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Tiến", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Vĩnh Yên", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nghĩa Đô", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Tân Tiến",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Vĩnh Yên",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nghĩa Đô",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Đô", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Nghĩa Đô",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Điện Quan", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Minh Tân", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Thượng Hà", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Điện Quan",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Minh Tân",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Thượng Hà",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Thượng Hà", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Thượng Hà",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Dương", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Xuân Hòa", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Tân Dương",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Xuân Hòa",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Xuân Hòa", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Xuân Hòa",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Việt Tiến", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Phúc Khánh", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Việt Tiến",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Phúc Khánh",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Phúc Khánh", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Phúc Khánh",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Kim Sơn", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cam Cọn", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tân An", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tân Thượng", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bảo Hà", "district": "huyện Bảo Yên", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Kim Sơn",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cam Cọn",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tân An",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tân Thượng",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bảo Hà",
+          "district": "huyện Bảo Yên",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bảo Hà", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bảo Hà",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Liên Minh", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Mường Bo", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Liên Minh",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Mường Bo",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Mường Bo", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Mường Bo",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thanh Bình", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Hồ", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Thanh Bình",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Hồ",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bản Hồ", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bản Hồ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hoàng Liên", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Mường Hoa", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tả Van", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Hoàng Liên",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Mường Hoa",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tả Van",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Tả Van", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Tả Van",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trung Chải", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tả Phìn", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Trung Chải",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tả Phìn",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Tả Phìn", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Tả Phìn",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Lúc", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Cái", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cốc Lầu", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Lúc",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Cái",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cốc Lầu",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Cốc Lầu", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Cốc Lầu",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Đét", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cốc Ly", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bảo Nhai", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Đét",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cốc Ly",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bảo Nhai",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bảo Nhai", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bảo Nhai",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Khánh", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Liền", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Khánh",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Liền",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bản Liền", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bản Liền",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Bắc Hà", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Na Hối", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Thải Giàng Phố", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Phố", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Hoàng Thu Phố", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nậm Mòn", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Bắc Hà",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Na Hối",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Thải Giàng Phố",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Phố",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Hoàng Thu Phố",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nậm Mòn",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bắc Hà", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bắc Hà",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lùng Cải", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tả Củ Tỷ", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Lùng Cải",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tả Củ Tỷ",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Tả Củ Tỷ", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Tả Củ Tỷ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tả Van Chư", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Lùng Phình", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Lùng Thẩn", "district": "huyện Bắc Hà", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Tả Van Chư",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Lùng Phình",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Lùng Thẩn",
+          "district": "huyện Bắc Hà",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Lùng Phình", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Lùng Phình",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tả Ngài Chồ", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Dìn Chin", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tả Gia Khâu", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Pha Long", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Tả Ngài Chồ",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Dìn Chin",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tả Gia Khâu",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Pha Long",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Pha Long", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Pha Long",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Mường Khương", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Thanh Bình", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nậm Chảy", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tung Chung Phố", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nấm Lư", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Mường Khương",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Thanh Bình",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nậm Chảy",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tung Chung Phố",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nấm Lư",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Mường Khương", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Mường Khương",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bản Sen", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Lùng Vai", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Lầu", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Bản Sen",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Lùng Vai",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Lầu",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Bản Lầu", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Bản Lầu",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lùng Khấu Nhin", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Tả Thàng", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã La Pan Tẩn", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cao Sơn", "district": "huyện Mường Khương", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Lùng Khấu Nhin",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Tả Thàng",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã La Pan Tẩn",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cao Sơn",
+          "district": "huyện Mường Khương",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Cao Sơn", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Cao Sơn",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Si Ma Cai", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Sán Chải", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nàn Sán", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cán Cấu", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Quan Hồ Thẩn", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "thị trấn Si Ma Cai",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Sán Chải",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nàn Sán",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cán Cấu",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Quan Hồ Thẩn",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Si Ma Cai", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Si Ma Cai",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bản Mế", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Thào Chư Phìn", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Nàn Sín", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Sín Chéng", "district": "huyện Si Ma Cai", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Bản Mế",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Thào Chư Phìn",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Nàn Sín",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Sín Chéng",
+          "district": "huyện Si Ma Cai",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Sín Chéng", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Sín Chéng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nam Cường", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Xuân Tăng", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Pom Hán", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Bắc Cường", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Bắc Lệnh", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Bình Minh", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Cam Đường", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "phường Nam Cường",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Xuân Tăng",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Pom Hán",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Bắc Cường",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Bắc Lệnh",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Bình Minh",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Cam Đường",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "phường Cam Đường", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "phường Cam Đường",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Duyên Hải", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Cốc Lếu", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Kim Tân", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Lào Cai", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Vạn Hòa", "district": "thành phố Lào Cai", "province": "tỉnh Lào Cai" },
-        { "commune": "xã Bản Phiệt", "district": "huyện Bảo Thắng", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "phường Duyên Hải",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Cốc Lếu",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Kim Tân",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Lào Cai",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Vạn Hòa",
+          "district": "thành phố Lào Cai",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "xã Bản Phiệt",
+          "district": "huyện Bảo Thắng",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "phường Lào Cai", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "phường Lào Cai",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hàm Rồng", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Ô Quý Hồ", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Sa Pả", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Cầu Mây", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Phan Si Păng", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" },
-        { "commune": "phường Sa Pa", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "phường Hàm Rồng",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Ô Quý Hồ",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Sa Pả",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Cầu Mây",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Phan Si Păng",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        },
+        {
+          "commune": "phường Sa Pa",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "phường Sa Pa", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "phường Sa Pa",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Xé", "district": "huyện Văn Bàn", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Nậm Xé",
+          "district": "huyện Văn Bàn",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Nậm Xé", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Nậm Xé",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngũ Chỉ Sơn", "district": "thị xã Sa Pa", "province": "tỉnh Lào Cai" }
+        {
+          "commune": "xã Ngũ Chỉ Sơn",
+          "district": "thị xã Sa Pa",
+          "province": "tỉnh Lào Cai"
+        }
       ],
-      "to": { "commune": "xã Ngũ Chỉ Sơn", "province": "tỉnh Lào Cai" }
+      "to": {
+        "commune": "xã Ngũ Chỉ Sơn",
+        "province": "tỉnh Lào Cai"
+      }
     }
   ],
   "Yên Bái": [
     {
       "from": [
-        { "commune": "xã Hồ Bốn", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Khao Mang", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Hồ Bốn",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Khao Mang",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Khao Mang", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Khao Mang",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Mù Cang Chải", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Kim Nọi", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Mồ Dề", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Chế Cu Nha", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Mù Cang Chải",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Kim Nọi",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Mồ Dề",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Chế Cu Nha",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Mù Cang Chải", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Mù Cang Chải",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Khắt", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã La Pán Tẩn", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Dế Xu Phình", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Púng Luông", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Nậm Khắt",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã La Pán Tẩn",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Dế Xu Phình",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Púng Luông",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Púng Luông", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Púng Luông",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cao Phạ", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tú Lệ", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Cao Phạ",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tú Lệ",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Tú Lệ", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Tú Lệ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Pá Lau", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Pá Hu", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Túc Đán", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Trạm Tấu", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Pá Lau",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Pá Hu",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Túc Đán",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Trạm Tấu",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Trạm Tấu", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Trạm Tấu",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trạm Tấu", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Bản Công", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Hát Lừu", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Xà Hồ", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Trạm Tấu",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Bản Công",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Hát Lừu",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Xà Hồ",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Hạnh Phúc", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Hạnh Phúc",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Làng Nhì", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Bản Mù", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phình Hồ", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Làng Nhì",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Bản Mù",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phình Hồ",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Phình Hồ", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Phình Hồ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nông trường Liên Sơn", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Sơn A", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nghĩa Phúc", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Nông trường Liên Sơn",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Sơn A",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nghĩa Phúc",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Liên Sơn", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Liên Sơn",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Búng", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nậm Lành", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Gia Hội", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Nậm Búng",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nậm Lành",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Gia Hội",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Gia Hội", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Gia Hội",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Mười", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Sùng Đô", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Suối Quyền", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Sơn Lương", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Nậm Mười",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Sùng Đô",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Suối Quyền",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Sơn Lương",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Sơn Lương", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Sơn Lương",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Sơn Thịnh", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Đồng Khê", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Suối Bu", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Suối Giàng", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Sơn Thịnh",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Đồng Khê",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Suối Bu",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Suối Giàng",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Văn Chấn", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Văn Chấn",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nông trường Trần Phú", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Thượng Bằng La", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Nông trường Trần Phú",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Thượng Bằng La",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Thượng Bằng La", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Thượng Bằng La",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Thịnh", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Đại Lịch", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Chấn Thịnh", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Tân Thịnh",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Đại Lịch",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Chấn Thịnh",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Chấn Thịnh", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Chấn Thịnh",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Thuận", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Minh An", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nghĩa Tâm", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Bình Thuận",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Minh An",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nghĩa Tâm",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Tâm", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Nghĩa Tâm",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Tầm", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phong Dụ Hạ", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Xuân Tầm",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phong Dụ Hạ",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Phong Dụ Hạ", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Phong Dụ Hạ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Châu Quế Thượng", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Châu Quế Hạ", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Châu Quế Thượng",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Châu Quế Hạ",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Châu Quế", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Châu Quế",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lang Thíp", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Lâm Giang", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Lang Thíp",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Lâm Giang",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Lâm Giang", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Lâm Giang",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Minh", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã An Bình", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Đông An", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Đông Cuông", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Quang Minh",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã An Bình",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Đông An",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Đông Cuông",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Đông Cuông", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Đông Cuông",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đại Sơn", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nà Hẩu", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Hợp", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Đại Sơn",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nà Hẩu",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Hợp",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Tân Hợp", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Tân Hợp",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Mậu A", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Yên Thái", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã An Thịnh", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Mậu Đông", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Ngòi A", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Mậu A",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Yên Thái",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã An Thịnh",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Mậu Đông",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Ngòi A",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Mậu A", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Mậu A",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đại Phác", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Yên Phú", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Yên Hợp", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Viễn Sơn", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Xuân Ái", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Đại Phác",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Yên Phú",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Yên Hợp",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Viễn Sơn",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Xuân Ái",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Xuân Ái", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Xuân Ái",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Lương", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Mỏ Vàng", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã An Lương",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Mỏ Vàng",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Mỏ Vàng", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Mỏ Vàng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Mai Sơn", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Khánh Thiện", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Phượng", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Lâm Thượng", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Mai Sơn",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Khánh Thiện",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Phượng",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Lâm Thượng",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Lâm Thượng", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Lâm Thượng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Yên Thế", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Minh Xuân", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Yên Thắng", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Liễu Đô", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Yên Thế",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Minh Xuân",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Yên Thắng",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Liễu Đô",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Lục Yên", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Lục Yên",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Minh Chuẩn", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Lập", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phan Thanh", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Khai Trung", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Lĩnh", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Minh Chuẩn",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phan Thanh",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Khai Trung",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Lĩnh",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Tân Lĩnh", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Tân Lĩnh",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tô Mậu", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã An Lạc", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Động Quan", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Khánh Hòa", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Tô Mậu",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã An Lạc",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Động Quan",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Khánh Hòa",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Khánh Hòa", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Khánh Hòa",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trúc Lâu", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Trung Tâm", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phúc Lợi", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Trúc Lâu",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Trung Tâm",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phúc Lợi",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Phúc Lợi", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Phúc Lợi",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Phú", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Vĩnh Lạc", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Minh Tiến", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Mường Lai", "district": "huyện Lục Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã An Phú",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Vĩnh Lạc",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Minh Tiến",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Mường Lai",
+          "district": "huyện Lục Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Mường Lai", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Mường Lai",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Long", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Ngọc Chấn", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Cảm Nhân", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Xuân Long",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Ngọc Chấn",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Cảm Nhân",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Cảm Nhân", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Cảm Nhân",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phúc Ninh", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Mỹ Gia", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Xuân Lai", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phúc An", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Yên Thành", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Phúc Ninh",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Mỹ Gia",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Xuân Lai",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phúc An",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Yên Thành",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Yên Thành", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Yên Thành",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thác Bà", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Vũ Linh", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Bạch Hà", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Hán Đà", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Vĩnh Kiên", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Đại Minh", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Thác Bà",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Vũ Linh",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Bạch Hà",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Hán Đà",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Vĩnh Kiên",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Đại Minh",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Thác Bà", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Thác Bà",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Yên Bình", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Hương", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Thịnh Hưng", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Đại Đồng", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Yên Bình",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Hương",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Thịnh Hưng",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Đại Đồng",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Yên Bình", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Yên Bình",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cảm Ân", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Mông Sơn", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Nguyên", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Bảo Ái", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Cảm Ân",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Mông Sơn",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Nguyên",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Bảo Ái",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Bảo Ái", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Bảo Ái",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Cổ Phúc", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Báo Đáp", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Đồng", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Thành Thịnh", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Hòa Cuông", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Minh Quán", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "thị trấn Cổ Phúc",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Báo Đáp",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Đồng",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Thành Thịnh",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Hòa Cuông",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Minh Quán",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Trấn Yên", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Trấn Yên",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hồng Ca", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Hưng Khánh", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Hồng Ca",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Hưng Khánh",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Hưng Khánh", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Hưng Khánh",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hưng Thịnh", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Lương Thịnh", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Hưng Thịnh",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Lương Thịnh",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Lương Thịnh", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Lương Thịnh",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Việt Cường", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Vân Hội", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Việt Hồng", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Việt Cường",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Vân Hội",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Việt Hồng",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Việt Hồng", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Việt Hồng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Kiên Thành", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Y Can", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Quy Mông", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Kiên Thành",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Y Can",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Quy Mông",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Quy Mông", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Quy Mông",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân An", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" },
-        { "commune": "phường Pú Trạng", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nghĩa An", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nghĩa Sơn", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Tân An",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "phường Pú Trạng",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nghĩa An",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nghĩa Sơn",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Nghĩa Lộ", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Nghĩa Lộ",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trung Tâm", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phù Nham", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nghĩa Lợi", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Nghĩa Lộ", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Trung Tâm",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phù Nham",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nghĩa Lợi",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Nghĩa Lộ",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Trung Tâm", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Trung Tâm",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Cầu Thia", "district": "thị xã Nghĩa Lộ", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Thanh Lương", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Thạch Lương", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phúc Sơn", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Hạnh Sơn", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Cầu Thia",
+          "district": "thị xã Nghĩa Lộ",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Thanh Lương",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Thạch Lương",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phúc Sơn",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Hạnh Sơn",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Cầu Thia", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Cầu Thia",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Yên Thịnh", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tân Thịnh", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Văn Phú", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Phú Thịnh", "district": "huyện Yên Bình", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Yên Thịnh",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tân Thịnh",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Văn Phú",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Phú Thịnh",
+          "district": "huyện Yên Bình",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Văn Phú", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Văn Phú",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Đồng Tâm", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "phường Yên Ninh", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "phường Minh Tân", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "phường Nguyễn Thái Học", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "phường Hồng Hà", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Đồng Tâm",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "phường Yên Ninh",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "phường Minh Tân",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "phường Nguyễn Thái Học",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "phường Hồng Hà",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Yên Bái", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Yên Bái",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nam Cường", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Minh Bảo", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Tuy Lộc", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Cường Thịnh", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Nam Cường",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Minh Bảo",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Tuy Lộc",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Cường Thịnh",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Nam Cường", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Nam Cường",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hợp Minh", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Giới Phiên", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Minh Quân", "district": "huyện Trấn Yên", "province": "tỉnh Yên Bái" },
-        { "commune": "xã Âu Lâu", "district": "thành phố Yên Bái", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "phường Hợp Minh",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Giới Phiên",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Minh Quân",
+          "district": "huyện Trấn Yên",
+          "province": "tỉnh Yên Bái"
+        },
+        {
+          "commune": "xã Âu Lâu",
+          "district": "thành phố Yên Bái",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "phường Âu Lâu", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "phường Âu Lâu",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Chế Tạo", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Chế Tạo",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Chế Tạo", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Chế Tạo",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lao Chải", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Lao Chải",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Lao Chải", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Lao Chải",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nậm Có", "district": "huyện Mù Cang Chải", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Nậm Có",
+          "district": "huyện Mù Cang Chải",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Nậm Có", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Nậm Có",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tà Xi Láng", "district": "huyện Trạm Tấu", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Tà Xi Láng",
+          "district": "huyện Trạm Tấu",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Tà Xi Láng", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Tà Xi Láng",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cát Thịnh", "district": "huyện Văn Chấn", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Cát Thịnh",
+          "district": "huyện Văn Chấn",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Cát Thịnh", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Cát Thịnh",
+        "province": "tỉnh Lào Cai"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phong Dụ Thượng", "district": "huyện Văn Yên", "province": "tỉnh Yên Bái" }
+        {
+          "commune": "xã Phong Dụ Thượng",
+          "district": "huyện Văn Yên",
+          "province": "tỉnh Yên Bái"
+        }
       ],
-      "to": { "commune": "xã Phong Dụ Thượng", "province": "tỉnh Yên Bái" }
+      "to": {
+        "commune": "xã Phong Dụ Thượng",
+        "province": "tỉnh Lào Cai"
+      }
     }
   ]
 }

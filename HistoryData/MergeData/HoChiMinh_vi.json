@@ -2,1310 +2,3751 @@
   "Thành phố Hồ Chí Minh": [
     {
       "from": [
-        { "commune": "Phường Bến Nghé", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Đa Kao", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Nguyễn Thái Bình", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Sài Gòn", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Định", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Đa Kao", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Định", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bến Thành", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Phạm Ngũ Lão", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Cầu Ông Lãnh", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Nguyễn Thái Bình", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bến Thành", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Nguyễn Cư Trinh", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Cầu Kho", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Cô Giang", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Cầu Ông Lãnh", "district": "Quận 1", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Cầu Ông Lãnh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 2", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 3", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 5", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 4", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bàn Cờ", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Võ Thị Sáu", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 4", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Xuân Hòa", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 9", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 11", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 12", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận 3", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Nhiêu Lộc", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 13", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 16", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 18", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 15", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Xóm Chiếu", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 8", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 9", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 2", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 4", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 15", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Khánh Hội", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 3", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 2", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 4", "district": "Quận 4", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Vĩnh Hội", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 2", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 4", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Chợ Quán", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 5", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 7", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 9", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 11", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 12", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 13", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận 5", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Chợ Lớn", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 2", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 9", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Tây", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 7", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 8", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Tiên", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 10", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 11", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 16", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Phú", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 12", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 13", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận 6", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Lâm", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Thuận", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Thuận Đông", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Thuận Tây", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Thuận", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Phú Thuận", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Phú Mỹ", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Thuận", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Phú", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Phú Mỹ", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Mỹ", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Phong", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Quy", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Kiểng", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Hưng", "district": "Quận 7", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Hưng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 4", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Rạch Ông", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Hưng Phú", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 5", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Chánh Hưng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 14", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 15", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Xóm Củi", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 16", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Định", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 6", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 7", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã An Phú Tây", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 5", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 6", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 8", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 14", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Diên Hồng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 2", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 4", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 9", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 10", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Vườn Lài", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 12", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 13", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 15", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 14", "district": "Quận 10", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Hòa Hưng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 7", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 16", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Minh Phụng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 3", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 10", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 8", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Thới", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 5", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Hòa Bình", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 11", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 15", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 8", "district": "Quận 11", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Thọ", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Thới Nhất", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Hưng Thuận", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Đông Hưng Thuận", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Đông Hưng Thuận", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Chánh Hiệp", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Trung Mỹ Tây", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Trung Mỹ Tây", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Hiệp Thành", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Thới Hiệp", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Thới Hiệp", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Thạnh Xuân", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Thới An", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Thới An", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Thạnh Lộc", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường An Phú Đông", "district": "Quận 12", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Phú Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Trị Đông B", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường An Lạc A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường An Lạc", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Lạc", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Hưng Hòa B", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Bình Trị Đông A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Tạo", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Tân", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Một phần Phường Tân Tạo A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tân Tạo", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân Kiên", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Tạo", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Trị Đông", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Bình Hưng Hòa A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Bình Trị Đông A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Trị Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Hưng Hòa", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Sơn Kỳ", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Bình Hưng Hòa A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Hưng Hòa", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 2", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 7", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 17", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Gia Định", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 12", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 26", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Thạnh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 5", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 11", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 13", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Lợi Trung", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 19", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 22", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 25", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Thạnh Mỹ Tây", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 27", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 28", "district": "Quận Bình Thạnh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Quới", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 3", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Hạnh Thông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 5", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 6", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Nhơn", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 10", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 17", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 15", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 16", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Hội Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 8", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 11", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Thông Tây Hội", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 12", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận Gò Vấp", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Hội Tây", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 4", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 5", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 9", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Đức Nhuận", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 2", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 7", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 15", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Cầu Kiệu", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 8", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 10", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 11", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 13", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 15", "district": "Quận Phú Nhuận", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Nhuận", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 1", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 2", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 3", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Sơn Hòa", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 4", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 5", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 7", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Sơn Nhất", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 6", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 8", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 9", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Hòa", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 10", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 11", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 12", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bảy Hiền", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường 13", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường 14", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường 15", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phần còn lại Phường 15", "district": "Quận Tân Bình", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Sơn", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tây Thạnh", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Sơn Kỳ", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tây Thạnh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Sơn Nhì", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Sơn Kỳ", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Tân Quý", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Tân Thành", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Sơn Nhì", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Phú Thọ Hòa", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Tân Thành", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Tân Quý", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Thọ Hòa", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Phú Trung", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Hòa Thạnh", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Tân Thới Hòa", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Tân Thành", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tân Phú", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Hiệp Tân", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Phú Thạnh", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Tân Thới Hòa", "district": "Quận Tân Phú", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phú Thạnh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Hiệp Bình Chánh", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Hiệp Bình Phước", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Linh Đông", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Hiệp Bình", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Thọ", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Linh Chiểu", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Trường Thọ", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Linh Tây", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Linh Đông", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Chiểu", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tam Phú", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tam Bình", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tam Bình", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Linh Trung", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Linh Xuân", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Linh Tây", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Linh Xuân", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tân Phú", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Hiệp Phú", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tăng Nhơn Phú A", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Tăng Nhơn Phú B", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường Long Thạnh Mỹ", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Tăng Nhơn Phú", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Long Bình", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Long Thạnh Mỹ", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Long Bình", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Trường Thạnh", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Long Phước", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Long Phước", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Phú Hữu", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Long Trường", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Long Trường", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Thạnh Mỹ Lợi", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Cát Lái", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Cát Lái", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Bình Trưng Đông", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Bình Trưng Tây", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Phường An Phú", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Bình Trưng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Phước Bình", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Phước Long A", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Phước Long B", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường Phước Long", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Thủ Thiêm", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường An Lợi Đông", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường Thảo Điền", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phường An Khánh", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường An Phú", "district": "Thành phố Thủ Đức", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "Phường An Khánh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Vĩnh Lộc A", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Xã Phạm Văn Hai", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Vĩnh Lộc", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Vĩnh Lộc B", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Xã Phạm Văn Hai", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Tân Tạo", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Tân Vĩnh Lộc", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Lê Minh Xuân", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Bình Lợi", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Bình Lợi", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Tân Túc", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân Nhựt", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường Tân Tạo A", "district": "Quận Bình Tân", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân Kiên", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 16", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Tân Nhựt", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Quý Tây", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Bình Chánh", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Xã An Phú Tây", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Bình Chánh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Đa Phước", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Qui Đức", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Hưng Long", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Hưng Long", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Phong Phú", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Bình Hưng", "district": "Huyện Bình Chánh", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Phường 7", "district": "Quận 8", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Bình Hưng", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tam Thôn Hiệp", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Bình Khánh", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Một phần Xã An Thới Đông", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Bình Khánh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Lý Nhơn", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Phần còn lại Xã An Thới Đông", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã An Thới Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Long Hòa", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Thị trấn Cần Thạnh", "district": "Huyện Cần Giờ", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Cần Giờ", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Phú Trung", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân Thông Hội", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phước Vĩnh An", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Củ Chi", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phước Hiệp", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân An Hội", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Tân An Hội", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Trung Lập Thượng", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phước Thạnh", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Thái Mỹ", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Thái Mỹ", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Phú Mỹ Hưng", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã An Phú", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã An Nhơn Tây", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã An Nhơn Tây", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Phạm Văn Cội", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Trung Lập Hạ", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Nhuận Đức", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Nhuận Đức", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Thạnh Tây", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân Thạnh Đông", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phú Hòa Đông", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Phú Hòa Đông", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Bình Mỹ", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Hòa Phú", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Trung An", "district": "Huyện Củ Chi", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Bình Mỹ", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Thới Tam Thôn", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Nhị Bình", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Đông Thạnh", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Đông Thạnh", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Hiệp", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Tân Xuân", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Thị trấn Hóc Môn", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Hóc Môn", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Thới Nhì", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Xuân Thới Đông", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Xuân Thới Sơn", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Xuân Thới Sơn", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Xuân Thới Thượng", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Trung Chánh", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Bà Điểm", "district": "Huyện Hóc Môn", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Bà Điểm", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Nhà Bè", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phú Xuân", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phước Kiển", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Phước Lộc", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Nhà Bè", "province": "Thành phố Hồ Chí Minh" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Nhơn Đức", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Long Thới", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" },
-        { "commune": "Xã Hiệp Phước", "district": "Huyện Nhà Bè", "province": "Thành phố Hồ Chí Minh" }
-      ],
-      "to": { "commune": "xã Hiệp Phước", "province": "Thành phố Hồ Chí Minh" }
+        {
+          "commune": "Phường Bến Nghé",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Đa Kao",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Nguyễn Thái Bình",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Sài Gòn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Định",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Đa Kao",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Định",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bến Thành",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Phạm Ngũ Lão",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Cầu Ông Lãnh",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Nguyễn Thái Bình",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bến Thành",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Nguyễn Cư Trinh",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Cầu Kho",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Cô Giang",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Cầu Ông Lãnh",
+          "district": "Quận 1",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Cầu Ông Lãnh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 3",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 5",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 4",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bàn Cờ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Võ Thị Sáu",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 4",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Xuân Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 9",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 11",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 12",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận 3",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Nhiêu Lộc",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 13",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 16",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 18",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 15",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Xóm Chiếu",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 8",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 2",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 4",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 15",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Khánh Hội",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 3",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 2",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 4",
+          "district": "Quận 4",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Vĩnh Hội",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 4",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Chợ Quán",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 5",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 11",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 12",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 13",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận 5",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Chợ Lớn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 2",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Tây",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 8",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Tiên",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 10",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 11",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 16",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Phú",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 12",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 13",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận 6",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Lâm",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Thuận",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Thuận Đông",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Thuận Tây",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Thuận",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Phú Thuận",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Phú Mỹ",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Thuận",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Phú",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Phú Mỹ",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Mỹ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Phong",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Quy",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Kiểng",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Hưng",
+          "district": "Quận 7",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Hưng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 4",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Rạch Ông",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Hưng Phú",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 5",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Chánh Hưng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 14",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 15",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Xóm Củi",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 16",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Định",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 6",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 7",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã An Phú Tây",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 5",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 6",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 8",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 14",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Diên Hồng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 4",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 10",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Vườn Lài",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 12",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 13",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 15",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 14",
+          "district": "Quận 10",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Hòa Hưng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 16",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Minh Phụng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 3",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 10",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 8",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Thới",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 5",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Hòa Bình",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 11",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 15",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 8",
+          "district": "Quận 11",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Thọ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Thới Nhất",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Hưng Thuận",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Đông Hưng Thuận",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Đông Hưng Thuận",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Chánh Hiệp",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Trung Mỹ Tây",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Trung Mỹ Tây",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Hiệp Thành",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Thới Hiệp",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Thới Hiệp",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Thạnh Xuân",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Thới An",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Thới An",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Thạnh Lộc",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường An Phú Đông",
+          "district": "Quận 12",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Phú Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Trị Đông B",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường An Lạc A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường An Lạc",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Lạc",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Hưng Hòa B",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Bình Trị Đông A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Tạo",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Tân",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Một phần Phường Tân Tạo A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tân Tạo",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân Kiên",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Tạo",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Trị Đông",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Bình Hưng Hòa A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Bình Trị Đông A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Trị Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Hưng Hòa",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Sơn Kỳ",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Bình Hưng Hòa A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Hưng Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 17",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Gia Định",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 12",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 26",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Thạnh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 5",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 11",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 13",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Lợi Trung",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 19",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 22",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 25",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Thạnh Mỹ Tây",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 27",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 28",
+          "district": "Quận Bình Thạnh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Quới",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 3",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Hạnh Thông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 5",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 6",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Nhơn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 10",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 17",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Gò Vấp",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 15",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 16",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Hội Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 8",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 11",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Thông Tây Hội",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 12",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận Gò Vấp",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Hội Tây",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 4",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 5",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Đức Nhuận",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 15",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Cầu Kiệu",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 8",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 10",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 11",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 13",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 15",
+          "district": "Quận Phú Nhuận",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Nhuận",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 1",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 3",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Sơn Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 4",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 5",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Sơn Nhất",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 6",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 8",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 10",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 11",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 12",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bảy Hiền",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường 13",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường 14",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường 15",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Bình",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phần còn lại Phường 15",
+          "district": "Quận Tân Bình",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Sơn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tây Thạnh",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Sơn Kỳ",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tây Thạnh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Sơn Nhì",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Sơn Kỳ",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Tân Quý",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Tân Thành",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Sơn Nhì",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Phú Thọ Hòa",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Tân Thành",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Tân Quý",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Thọ Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Phú Trung",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Hòa Thạnh",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Tân Thới Hòa",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Tân Thành",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tân Phú",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Hiệp Tân",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Phú Thạnh",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Tân Thới Hòa",
+          "district": "Quận Tân Phú",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phú Thạnh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Hiệp Bình Chánh",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Hiệp Bình Phước",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Linh Đông",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Hiệp Bình",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Thọ",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Linh Chiểu",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Trường Thọ",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Linh Tây",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Linh Đông",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Thủ Đức",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Chiểu",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tam Phú",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tam Bình",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tam Bình",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Linh Trung",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Linh Xuân",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Linh Tây",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Linh Xuân",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tân Phú",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Hiệp Phú",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tăng Nhơn Phú A",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Tăng Nhơn Phú B",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường Long Thạnh Mỹ",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tăng Nhơn Phú",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Long Bình",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Long Thạnh Mỹ",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Long Bình",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Trường Thạnh",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Long Phước",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Long Phước",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Phú Hữu",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Long Trường",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Long Trường",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Thạnh Mỹ Lợi",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Cát Lái",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Cát Lái",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Bình Trưng Đông",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Bình Trưng Tây",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Phường An Phú",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Bình Trưng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Phước Bình",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Phước Long A",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Phước Long B",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường Phước Long",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Thủ Thiêm",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường An Lợi Đông",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường Thảo Điền",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phường An Khánh",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường An Phú",
+          "district": "Thành phố Thủ Đức",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "Phường An Khánh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Vĩnh Lộc A",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Xã Phạm Văn Hai",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Vĩnh Lộc",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Vĩnh Lộc B",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Xã Phạm Văn Hai",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Tân Tạo",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Vĩnh Lộc",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Lê Minh Xuân",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Bình Lợi",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Lợi",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Tân Túc",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân Nhựt",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường Tân Tạo A",
+          "district": "Quận Bình Tân",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân Kiên",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 16",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Nhựt",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Quý Tây",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Bình Chánh",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Xã An Phú Tây",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Chánh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Đa Phước",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Qui Đức",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Hưng Long",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Hưng Long",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Phong Phú",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Bình Hưng",
+          "district": "Huyện Bình Chánh",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Phường 7",
+          "district": "Quận 8",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Hưng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tam Thôn Hiệp",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Bình Khánh",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Một phần Xã An Thới Đông",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Khánh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Lý Nhơn",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Phần còn lại Xã An Thới Đông",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã An Thới Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Long Hòa",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Thị trấn Cần Thạnh",
+          "district": "Huyện Cần Giờ",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Cần Giờ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Phú Trung",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân Thông Hội",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phước Vĩnh An",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Củ Chi",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Củ Chi",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phước Hiệp",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân An Hội",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân An Hội",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Trung Lập Thượng",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phước Thạnh",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Thái Mỹ",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Thái Mỹ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Phú Mỹ Hưng",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã An Phú",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã An Nhơn Tây",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã An Nhơn Tây",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Phạm Văn Cội",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Trung Lập Hạ",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Nhuận Đức",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Nhuận Đức",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Thạnh Tây",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân Thạnh Đông",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phú Hòa Đông",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Phú Hòa Đông",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Bình Mỹ",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Hòa Phú",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Trung An",
+          "district": "Huyện Củ Chi",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Bình Mỹ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Thới Tam Thôn",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Nhị Bình",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Đông Thạnh",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Đông Thạnh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Hiệp",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Tân Xuân",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Thị trấn Hóc Môn",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Hóc Môn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Thới Nhì",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Xuân Thới Đông",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Xuân Thới Sơn",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Xuân Thới Sơn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Xuân Thới Thượng",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Trung Chánh",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Bà Điểm",
+          "district": "Huyện Hóc Môn",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Bà Điểm",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Nhà Bè",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phú Xuân",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phước Kiển",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Phước Lộc",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Nhà Bè",
+        "province": "Thành phố Hồ Chí Minh"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Nhơn Đức",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Long Thới",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "commune": "Xã Hiệp Phước",
+          "district": "Huyện Nhà Bè",
+          "province": "Thành phố Hồ Chí Minh"
+        }
+      ],
+      "to": {
+        "commune": "xã Hiệp Phước",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     }
   ],
   "Bình Dương": [
     {
       "from": [
-        { "commune": "Phường Bình An", "district": "Thành phố Dĩ An", "province": "Bình Dương" },
-        { "commune": "Phường Bình Thắng", "district": "Thành phố Dĩ An", "province": "Bình Dương" },
-        { "commune": "Phường Đông Hòa", "district": "Thành phố Dĩ An", "province": "Bình Dương" }
+        {
+          "commune": "Phường Bình An",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Bình Thắng",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Đông Hòa",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Đông Hòa", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Đông Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường An Bình", "district": "Thành phố Dĩ An", "province": "Bình Dương" },
-        { "commune": "Phường Dĩ An", "district": "Thành phố Dĩ An", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Tân Đông Hiệp", "district": "Thành phố Dĩ An", "province": "Bình Dương" }
+        {
+          "commune": "Phường An Bình",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Dĩ An",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Tân Đông Hiệp",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Dĩ An", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Dĩ An",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Tân Bình", "district": "Thành phố Dĩ An", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Thái Hòa", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Tân Đông Hiệp", "district": "Thành phố Dĩ An", "province": "Bình Dương" }
+        {
+          "commune": "Phường Tân Bình",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Thái Hòa",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Tân Đông Hiệp",
+          "district": "Thành phố Dĩ An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Tân Đông Hiệp", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Tân Đông Hiệp",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường An Phú", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Bình Chuẩn", "district": "Thành phố Thuận An", "province": "Bình Dương" }
+        {
+          "commune": "Phường An Phú",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Bình Chuẩn",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường An Phú", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường An Phú",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Bình Hòa", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Vĩnh Phú", "district": "Thành phố Thuận An", "province": "Bình Dương" }
+        {
+          "commune": "Phường Bình Hòa",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Vĩnh Phú",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Bình Hòa", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Bình Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Bình Nhâm", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Phường Lái Thiêu", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Vĩnh Phú", "district": "Thành phố Thuận An", "province": "Bình Dương" }
+        {
+          "commune": "Phường Bình Nhâm",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Lái Thiêu",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Vĩnh Phú",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Lái Thiêu", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Lái Thiêu",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Hưng Định", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Phường An Thạnh", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Xã An Sơn", "district": "Thành phố Thuận An", "province": "Bình Dương" }
+        {
+          "commune": "Phường Hưng Định",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường An Thạnh",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã An Sơn",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Thuận An", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Thuận An",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Thuận Giao", "district": "Thành phố Thuận An", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Bình Chuẩn", "district": "Thành phố Thuận An", "province": "Bình Dương" }
+        {
+          "commune": "Phường Thuận Giao",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Bình Chuẩn",
+          "district": "Thành phố Thuận An",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Thuận Giao", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Thuận Giao",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Phú Cường", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Phú Thọ", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Chánh Nghĩa", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Hiệp Thành", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Chánh Mỹ", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" }
+        {
+          "commune": "Phường Phú Cường",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Phú Thọ",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Chánh Nghĩa",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Hiệp Thành",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Chánh Mỹ",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Thủ Dầu Một", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Thủ Dầu Một",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Phú Hòa", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Phú Lợi", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Hiệp Thành", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" }
+        {
+          "commune": "Phường Phú Hòa",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Phú Lợi",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Hiệp Thành",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Phú Lợi", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Phú Lợi",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Định Hòa", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Tương Bình Hiệp", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Hiệp An", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Chánh Mỹ", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" }
+        {
+          "commune": "Phường Định Hòa",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Tương Bình Hiệp",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Hiệp An",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Chánh Mỹ",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Chánh Hiệp", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Chánh Hiệp",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Phú Mỹ", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Hòa Phú", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Phú Tân", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Phường Phú Chánh", "district": "Thành phố Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Phường Phú Mỹ",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Hòa Phú",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Phú Tân",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Phú Chánh",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Bình Dương", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Bình Dương",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Tân Định", "district": "Thành phố Bến Cát", "province": "Bình Dương" },
-        { "commune": "Phường Hòa Lợi", "district": "Thành phố Bến Cát", "province": "Bình Dương" }
+        {
+          "commune": "Phường Tân Định",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Hòa Lợi",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Hòa Lợi", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Hòa Lợi",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Tân An", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" },
-        { "commune": "Xã Phú An", "district": "Thành phố Bến Cát", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Hiệp An", "district": "Thành phố Thủ Dầu Một", "province": "Bình Dương" }
+        {
+          "commune": "Phường Tân An",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Phú An",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Hiệp An",
+          "district": "Thành phố Thủ Dầu Một",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Phú An", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Phú An",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường An Tây", "district": "Thành phố Bến Cát", "province": "Bình Dương" },
-        { "commune": "Một phần Xã Thanh Tuyền", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã An Lập", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" }
+        {
+          "commune": "Phường An Tây",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Xã Thanh Tuyền",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã An Lập",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Tây Nam", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Tây Nam",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường An Điền", "district": "Thành phố Bến Cát", "province": "Bình Dương" },
-        { "commune": "Xã Long Nguyên", "district": "Huyện Bàu Bàng", "province": "Bình Dương" },
-        { "commune": "Một phần Phường Mỹ Phước", "district": "Thành phố Bến Cát", "province": "Bình Dương" }
+        {
+          "commune": "Phường An Điền",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Long Nguyên",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Phường Mỹ Phước",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Long Nguyên", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Long Nguyên",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Hưng", "district": "Huyện Bàu Bàng", "province": "Bình Dương" },
-        { "commune": "Xã Lai Hưng", "district": "Huyện Bàu Bàng", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Mỹ Phước", "district": "Thành phố Bến Cát", "province": "Bình Dương" }
+        {
+          "commune": "Xã Tân Hưng",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Lai Hưng",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Mỹ Phước",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Bến Cát", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Bến Cát",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Chánh Phú Hòa", "district": "Thành phố Bến Cát", "province": "Bình Dương" },
-        { "commune": "Xã Hưng Hòa", "district": "Huyện Bàu Bàng", "province": "Bình Dương" }
+        {
+          "commune": "Phường Chánh Phú Hòa",
+          "district": "Thành phố Bến Cát",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Hưng Hòa",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Chánh Phú Hòa", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Chánh Phú Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Vĩnh Tân", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Thị trấn Tân Bình", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Phường Vĩnh Tân",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Thị trấn Tân Bình",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Vĩnh Tân", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Vĩnh Tân",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bình Mỹ", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phường Hội Nghĩa", "district": "Thành phố Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Xã Bình Mỹ",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Hội Nghĩa",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Bình Cơ", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Bình Cơ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Uyên Hưng", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Bạch Đằng", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Tân Lập", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Một phần Xã Tân Mỹ", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Phường Uyên Hưng",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Bạch Đằng",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Tân Lập",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Xã Tân Mỹ",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Tân Uyên", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Tân Uyên",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Khánh Bình", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phường Tân Hiệp", "district": "Thành phố Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Phường Khánh Bình",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Tân Hiệp",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Tân Hiệp", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Tân Hiệp",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Thạnh Phước", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phường Tân Phước Khánh", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phường Tân Vĩnh Hiệp", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Thạnh Hội", "district": "Thành phố Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Phường Thái Hòa", "district": "Thành phố Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Phường Thạnh Phước",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Tân Phước Khánh",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phường Tân Vĩnh Hiệp",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Thạnh Hội",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Phường Thái Hòa",
+          "district": "Thành phố Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "Phường Tân Khánh", "province": "Bình Dương" }
+      "to": {
+        "commune": "Phường Tân Khánh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Lạc An", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Hiếu Liêm", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Thường Tân", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Xã Tân Mỹ", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Xã Lạc An",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Hiếu Liêm",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Thường Tân",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Xã Tân Mỹ",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Thường Tân", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Thường Tân",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Tân Thành", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Đất Cuốc", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" },
-        { "commune": "Xã Tân Định", "district": "Huyện Bắc Tân Uyên", "province": "Bình Dương" }
+        {
+          "commune": "Thị trấn Tân Thành",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Đất Cuốc",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Tân Định",
+          "district": "Huyện Bắc Tân Uyên",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Bắc Tân Uyên", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Bắc Tân Uyên",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Phước Vĩnh", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Xã An Bình", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Một phần Xã Tam Lập", "district": "Huyện Phú Giáo", "province": "Bình Dương" }
+        {
+          "commune": "Thị trấn Phước Vĩnh",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã An Bình",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Xã Tam Lập",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Phú Giáo", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Phú Giáo",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Vĩnh Hòa", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Xã Phước Hòa", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Xã Tam Lập", "district": "Huyện Phú Giáo", "province": "Bình Dương" }
+        {
+          "commune": "Xã Vĩnh Hòa",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Phước Hòa",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Xã Tam Lập",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Phước Hòa", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Phước Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Hiệp", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Xã An Thái", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Xã Phước Sang", "district": "Huyện Phú Giáo", "province": "Bình Dương" }
+        {
+          "commune": "Xã Tân Hiệp",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã An Thái",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Phước Sang",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Phước Thành", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Phước Thành",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã An Linh", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Xã Tân Long", "district": "Huyện Phú Giáo", "province": "Bình Dương" },
-        { "commune": "Xã An Long", "district": "Huyện Phú Giáo", "province": "Bình Dương" }
+        {
+          "commune": "Xã An Linh",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Tân Long",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã An Long",
+          "district": "Huyện Phú Giáo",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã An Long", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã An Long",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Trừ Văn Thố", "district": "Huyện Bàu Bàng", "province": "Bình Dương" },
-        { "commune": "Xã Cây Trường II", "district": "Huyện Bàu Bàng", "province": "Bình Dương" },
-        { "commune": "Một phần Thị trấn Lai Uyên", "district": "Huyện Bàu Bàng", "province": "Bình Dương" }
+        {
+          "commune": "Xã Trừ Văn Thố",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Cây Trường II",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Thị trấn Lai Uyên",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Trừ Văn Thố", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Trừ Văn Thố",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phần còn lại Thị trấn Lai Uyên", "district": "Huyện Bàu Bàng", "province": "Bình Dương" }
+        {
+          "commune": "Phần còn lại Thị trấn Lai Uyên",
+          "district": "Huyện Bàu Bàng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Bàu Bàng", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Bàu Bàng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Long Tân", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã Long Hòa", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Một phần Xã Minh Tân", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã Minh Thạnh", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" }
+        {
+          "commune": "Xã Long Tân",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Long Hòa",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Xã Minh Tân",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Minh Thạnh",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Long Hòa", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Long Hòa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thanh An", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Một phần Xã Định Hiệp", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Xã Thanh Tuyền", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã An Lập", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" }
+        {
+          "commune": "Xã Thanh An",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Một phần Xã Định Hiệp",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Xã Thanh Tuyền",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã An Lập",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Thanh An", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Thanh An",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Dầu Tiếng", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã Định An", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã Định Thành", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Xã Định Hiệp", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" }
+        {
+          "commune": "Thị trấn Dầu Tiếng",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Định An",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Định Thành",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Xã Định Hiệp",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Dầu Tiếng", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Dầu Tiếng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Minh Hòa", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Phần còn lại Xã Minh Tân", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" },
-        { "commune": "Xã Minh Thạnh", "district": "Huyện Dầu Tiếng", "province": "Bình Dương" }
+        {
+          "commune": "Xã Minh Hòa",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Phần còn lại Xã Minh Tân",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        },
+        {
+          "commune": "Xã Minh Thạnh",
+          "district": "Huyện Dầu Tiếng",
+          "province": "Bình Dương"
+        }
       ],
-      "to": { "commune": "xã Minh Thạnh", "province": "Bình Dương" }
+      "to": {
+        "commune": "xã Minh Thạnh",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     }
   ],
   "Bà Rịa - Vũng Tàu": [
     {
       "from": [
-        { "commune": "Phường 1", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 2", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 3", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 4", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 5", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Thắng Nhì", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Thắng Tam", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường 1",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 3",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 4",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 5",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Thắng Nhì",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Thắng Tam",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Vũng Tàu",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường 7", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 8", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 9", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Nguyễn An Ninh", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường 7",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 8",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 9",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Nguyễn An Ninh",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Tam Thắng", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Tam Thắng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường 10", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Thắng Nhất", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Rạch Dừa", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường 10",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Thắng Nhất",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Rạch Dừa",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Rạch Dừa", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Rạch Dừa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường 11", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường 12", "district": "Thành phố Vũng Tàu", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường 11",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường 12",
+          "district": "Thành phố Vũng Tàu",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Phước Thắng", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Phước Thắng",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Hưng", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Kim Dinh", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Long Hương", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Tân Hưng",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Kim Dinh",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Long Hương",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Long Hương", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Long Hương",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Phước Trung", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Phước Nguyên", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Long Toàn", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Phước Hưng", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường Phước Trung",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Phước Nguyên",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Long Toàn",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Phước Hưng",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Bà Rịa", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Bà Rịa",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Long Tâm", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Hòa Long", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Long Phước", "district": "Thành phố Bà Rịa", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường Long Tâm",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Hòa Long",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Long Phước",
+          "district": "Thành phố Bà Rịa",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Tam Long", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Tam Long",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Tân Hòa", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Tân Hải", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường Tân Hòa",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Tân Hải",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Tân Hải", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Tân Hải",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Phước Hòa", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Tân Phước", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường Phước Hòa",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Tân Phước",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Tân Phước", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Tân Phước",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Phú Mỹ", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Phường Mỹ Xuân", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường Phú Mỹ",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Phường Mỹ Xuân",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Phú Mỹ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Hắc Dịch", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Sông Xoài", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Phường Hắc Dịch",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Sông Xoài",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "Phường Tân Thành", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "Phường Tân Thành",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tóc Tiên", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Châu Pha", "district": "Thị xã Phú Mỹ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Tóc Tiên",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Châu Pha",
+          "district": "Thị xã Phú Mỹ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Châu Pha", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Châu Pha",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Long Hải", "district": "Huyện Long Điền", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Phước Tỉnh", "district": "Huyện Long Điền", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Phước Hưng", "district": "Huyện Long Điền", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Long Hải",
+          "district": "Huyện Long Điền",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Phước Tỉnh",
+          "district": "Huyện Long Điền",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Phước Hưng",
+          "district": "Huyện Long Điền",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Long Hải", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Long Hải",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Long Điền", "district": "Huyện Long Điền", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Tam An", "district": "Huyện Long Điền", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Long Điền",
+          "district": "Huyện Long Điền",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Tam An",
+          "district": "Huyện Long Điền",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Long Điền", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Long Điền",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Phước Hải", "district": "Huyện Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Phước Hội", "district": "Huyện Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Phước Hải",
+          "district": "Huyện Đất Đỏ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Phước Hội",
+          "district": "Huyện Đất Đỏ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Phước Hải", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Phước Hải",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Đất Đỏ", "district": "Huyện Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Long Tân", "district": "Huyện Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Láng Dài", "district": "Huyện Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Phước Long Thọ", "district": "Huyện Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Đất Đỏ",
+          "district": "Huyện Đất Đỏ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Long Tân",
+          "district": "Huyện Đất Đỏ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Láng Dài",
+          "district": "Huyện Đất Đỏ",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Phước Long Thọ",
+          "district": "Huyện Đất Đỏ",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Đất Đỏ", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Đất Đỏ",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đá Bạc", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Nghĩa Thành", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Đá Bạc",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Nghĩa Thành",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Thành", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Nghĩa Thành",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Ngãi Giao", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Bình Ba", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Suối Nghệ", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Ngãi Giao",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Bình Ba",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Suối Nghệ",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Ngãi Giao", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Ngãi Giao",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Kim Long", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Bàu Chinh", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Láng Lớn", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Kim Long",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Bàu Chinh",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Láng Lớn",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Kim Long", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Kim Long",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Cù Bị", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Xà Bang", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Cù Bị",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Xà Bang",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Châu Đức",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bình Trung", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Quảng Thành", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Bình Giã", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Bình Trung",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Quảng Thành",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Bình Giã",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Bình Giã", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Bình Giã",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Suối Rao", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Sơn Bình", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Xuân Sơn", "district": "Huyện Châu Đức", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Suối Rao",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Sơn Bình",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Xuân Sơn",
+          "district": "Huyện Châu Đức",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Xuân Sơn", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Xuân Sơn",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Phước Bửu", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Phước Tân", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Phước Thuận", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Thị trấn Phước Bửu",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Phước Tân",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Phước Thuận",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Hồ Tràm", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Hồ Tràm",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bông Trang", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Bưng Riềng", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Xuyên Mộc", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Bông Trang",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Bưng Riềng",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Xuyên Mộc",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Xuyên Mộc",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Hòa Hưng", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Hòa Bình", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Hòa Hội", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Hòa Hưng",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Hòa Bình",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Hòa Hội",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Hòa Hội", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Hòa Hội",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Lâm", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" },
-        { "commune": "Xã Bàu Lâm", "district": "Huyện Xuyên Mộc", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Xã Tân Lâm",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        },
+        {
+          "commune": "Xã Bàu Lâm",
+          "district": "Huyện Xuyên Mộc",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "xã Bàu Lâm", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "xã Bàu Lâm",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     },
     {
       "from": [
-        { "commune": "Huyện Côn Đảo", "district": "Huyện Côn Đảo", "province": "Bà Rịa - Vũng Tàu" }
+        {
+          "commune": "Huyện Côn Đảo",
+          "district": "Huyện Côn Đảo",
+          "province": "Bà Rịa - Vũng Tàu"
+        }
       ],
-      "to": { "commune": "đặc khu Côn Đảo", "province": "Bà Rịa - Vũng Tàu" }
+      "to": {
+        "commune": "đặc khu Côn Đảo",
+        "province": "Thành phố Hồ Chí Minh"
+      }
     }
   ]
 }

@@ -2,748 +2,2156 @@
   "Thái Nguyên": [
     {
       "from": [
-        { "commune": "xã Thịnh Đức", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bình Sơn", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Cương", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Thịnh Đức",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bình Sơn",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Cương",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Tân Cương", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Tân Cương",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hùng Sơn", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Xuân", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Trìu", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Thái", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Tân", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Hùng Sơn",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Xuân",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Trìu",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Thái",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Tân",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Đại Phúc", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Đại Phúc",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vạn Phái", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Thành Công", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Vạn Phái",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Thành Công",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Thành Công", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Thành Công",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chợ Chu", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Chu", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bảo Linh", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Đồng Thịnh", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Chợ Chu",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Chu",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bảo Linh",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Đồng Thịnh",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Định Hóa", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Định Hóa",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trung Lương", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Định Biên", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Thanh Định", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bình Yên", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Trung Lương",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Định Biên",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Thanh Định",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bình Yên",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Bình Yên", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Bình Yên",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phú Tiến", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bộc Nhiêu", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Trung Hội", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Phú Tiến",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bộc Nhiêu",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Trung Hội",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Trung Hội", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Trung Hội",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Dương", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Thịnh", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phượng Tiến", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Tân Dương",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Thịnh",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phượng Tiến",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phượng Tiến", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phượng Tiến",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Điềm Mặc", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Đình", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Điềm Mặc",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Đình",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phú Đình", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phú Đình",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Phú", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bình Thành", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Sơn Phú",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bình Thành",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Bình Thành", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Bình Thành",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quy Kỳ", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Kim Phượng", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Quy Kỳ",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Kim Phượng",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Kim Phượng", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Kim Phượng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Linh Thông", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Lam Vỹ", "district": "huyện Định Hóa", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Linh Thông",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Lam Vỹ",
+          "district": "huyện Định Hóa",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Lam Vỹ", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Lam Vỹ",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đình Cả", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Thượng", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Lâu Thượng", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Đình Cả",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Thượng",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Lâu Thượng",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Võ Nhai", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Võ Nhai",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Long", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phương Giao", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Dân Tiến", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Bình Long",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phương Giao",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Dân Tiến",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Dân Tiến", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Dân Tiến",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vũ Chấn", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Nghinh Tường", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Vũ Chấn",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Nghinh Tường",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Nghinh Tường", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Nghinh Tường",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thượng Nung", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Thần Xa", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Thượng Nung",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Thần Xa",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Thần Sa", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Thần Sa",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cúc Đường", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã La Hiên", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Cúc Đường",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã La Hiên",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã La Hiên", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã La Hiên",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Liên Minh", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tràng Xá", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Liên Minh",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tràng Xá",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Tràng Xá", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Tràng Xá",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đu", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "thị trấn Giang Tiên", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Yên Lạc", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Động Đạt", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Đu",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "thị trấn Giang Tiên",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Yên Lạc",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Động Đạt",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phú Lương", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phú Lương",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tức Tranh", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Cổ Lũng", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Đô", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Vô Tranh", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Tức Tranh",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Cổ Lũng",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Đô",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Vô Tranh",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Vô Tranh", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Vô Tranh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yên Ninh", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Yên Đổ", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Yên Trạch", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Yên Ninh",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Yên Đổ",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Yên Trạch",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Yên Trạch", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Yên Trạch",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ôn Lương", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phủ Lý", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Hợp Thành", "district": "huyện Phú Lương", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Ôn Lương",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phủ Lý",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Hợp Thành",
+          "district": "huyện Phú Lương",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Hợp Thành", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Hợp Thành",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hóa Thượng", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "thị trấn Sông Cầu", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Minh Lập", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Hóa Trung", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Hóa Thượng",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "thị trấn Sông Cầu",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Minh Lập",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Hóa Trung",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Đồng Hỷ",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Long", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Quang Sơn", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Tân Long",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Quang Sơn",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Quang Sơn", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Quang Sơn",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trại Cau", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Hợp Tiến", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Trại Cau",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Hợp Tiến",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Trại Cau", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Trại Cau",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cây Thị", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Nam Hòa", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Cây Thị",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Nam Hòa",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Nam Hòa", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Nam Hòa",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Khe Mo", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Văn Hán", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Khe Mo",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Văn Hán",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Văn Hán", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Văn Hán",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Bình", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Văn Lăng", "district": "huyện Đồng Hỷ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Hòa Bình",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Văn Lăng",
+          "district": "huyện Đồng Hỷ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Văn Lăng", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Văn Lăng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Thuận", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Khôi Kỳ", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Mỹ Yên", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Lục Ba", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Bình Thuận",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Khôi Kỳ",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Mỹ Yên",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Lục Ba",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Đại Từ", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Đại Từ",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Minh Tiến", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Lương", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Đức Lương", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Minh Tiến",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Lương",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Đức Lương",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Đức Lương", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Đức Lương",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bản Ngoại", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Cường", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Thịnh", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Bản Ngoại",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Cường",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Thịnh",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phú Thịnh", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phú Thịnh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hoàng Nông", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tiên Hội", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã La Bằng", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Hoàng Nông",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tiên Hội",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã La Bằng",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã La Bằng", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã La Bằng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phục Linh", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Linh", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Lạc", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Phục Linh",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Linh",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Lạc",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phú Lạc", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phú Lạc",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cù Vân", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Hà Thượng", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã An Khánh", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Cù Vân",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Hà Thượng",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã An Khánh",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã An Khánh", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã An Khánh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Quân Chu", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Cát Nê", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Quân Chu",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Cát Nê",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Quân Chu", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Quân Chu",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Văn Yên", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Vạn Phú", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Văn Yên",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Vạn Phú",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Vạn Phú", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Vạn Phú",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yên Lãng", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phú Xuyên", "district": "huyện Đại Từ", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Yên Lãng",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phú Xuyên",
+          "district": "huyện Đại Từ",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phú Xuyên", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phú Xuyên",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hương Sơn", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Xuân Phương", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Úc Kỳ", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Nhã Lộng", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bảo Lý", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "một phần xã Thượng Đình", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "thị trấn Hương Sơn",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Xuân Phương",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Úc Kỳ",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Nhã Lộng",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bảo Lý",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "một phần xã Thượng Đình",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Phú Bình", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Phú Bình",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Hòa", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Kim", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Thành", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Tân Hòa",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Kim",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Thành",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Tân Thành", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Tân Thành",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hà Châu", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Nga My", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Điềm Thụy", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phần còn lại xã Thượng Đình", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Hà Châu",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Nga My",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Điềm Thụy",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phần còn lại xã Thượng Đình",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Điềm Thụy", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Điềm Thụy",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lương Phú", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Đức", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Thanh Ninh", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Dương Thành", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Kha Sơn", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Lương Phú",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Đức",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Thanh Ninh",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Dương Thành",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Kha Sơn",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Kha Sơn", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Kha Sơn",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bàn Đạt", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Đào Xá", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Khánh", "district": "huyện Phú Bình", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Bàn Đạt",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Đào Xá",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Khánh",
+          "district": "huyện Phú Bình",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Tân Khánh", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Tân Khánh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trưng Vương", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Túc Duyên", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Đồng Quang", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Quang Trung", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Hoàng Văn Thụ", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tân Thịnh", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Phan Đình Phùng", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "một phần phường Gia Sàng", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Trưng Vương",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Túc Duyên",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Đồng Quang",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Quang Trung",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Hoàng Văn Thụ",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tân Thịnh",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Phan Đình Phùng",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "một phần phường Gia Sàng",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Phan Đình Phùng", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Phan Đình Phùng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Chùa Hang", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Đồng Bẩm", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Cao Ngạn", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Huống Thượng", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Linh Sơn", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Chùa Hang",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Đồng Bẩm",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Cao Ngạn",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Huống Thượng",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Linh Sơn",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Linh Sơn", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Linh Sơn",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trung Thành", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Phú Xá", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tân Thành", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tân Lập", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tích Lương", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "một phần phường Cam Giá", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Trung Thành",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Phú Xá",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tân Thành",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tân Lập",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tích Lương",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "một phần phường Cam Giá",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Tích Lương", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Tích Lương",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hương Sơn", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Đồng Liên", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phần còn lại phường Gia Sàng", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phần còn lại phường Cam Giá", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Hương Sơn",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Đồng Liên",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phần còn lại phường Gia Sàng",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phần còn lại phường Cam Giá",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Gia Sàng", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Gia Sàng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Thịnh Đán", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Hà", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Quyết Thắng", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Thịnh Đán",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Hà",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Quyết Thắng",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Quyết Thắng", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Quyết Thắng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Long", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Quang Vinh", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Quan Triều", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Sơn Cẩm", "district": "thành phố Thái Nguyên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Tân Long",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Quang Vinh",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Quan Triều",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Sơn Cẩm",
+          "district": "thành phố Thái Nguyên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Quan Triều", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Quan Triều",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Thắng Lợi", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Phố Cò", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Cải Đan", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Thắng Lợi",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Phố Cò",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Cải Đan",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Sông Công", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Sông Công",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Mỏ Chè", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Châu Sơn", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Bá Xuyên", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Mỏ Chè",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Châu Sơn",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Bá Xuyên",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Bá Xuyên", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Bá Xuyên",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Lương Sơn", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Bách Quang", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Tân Quang", "district": "thành phố Sông Công", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Lương Sơn",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Bách Quang",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Tân Quang",
+          "district": "thành phố Sông Công",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Bách Quang", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Bách Quang",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ba Hàng", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Hồng Tiến", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Bãi Bông", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Đắc Sơn", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Ba Hàng",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Hồng Tiến",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Bãi Bông",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Đắc Sơn",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Phổ Yên", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Phổ Yên",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nam Tiến", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Đồng Tiến", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tân Hương", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tiên Phong", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Nam Tiến",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Đồng Tiến",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tân Hương",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tiên Phong",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Vạn Xuân", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Vạn Xuân",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trung Thành", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Đông Cao", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Tân Phú", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "phường Thuận Thành", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Trung Thành",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Đông Cao",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Tân Phú",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "phường Thuận Thành",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Trung Thành", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Trung Thành",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Bắc Sơn", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Minh Đức", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" },
-        { "commune": "xã Phúc Thuận", "district": "thành phố Phổ Yên", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "phường Bắc Sơn",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Minh Đức",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        },
+        {
+          "commune": "xã Phúc Thuận",
+          "district": "thành phố Phổ Yên",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "phường Phúc Thuận", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "phường Phúc Thuận",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sảng Mộc", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Sảng Mộc",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Sảng Mộc", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Sảng Mộc",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thượng Quan", "district": "huyện Võ Nhai", "province": "tỉnh Thái Nguyên" }
+        {
+          "commune": "xã Thượng Quan",
+          "district": "huyện Võ Nhai",
+          "province": "tỉnh Thái Nguyên"
+        }
       ],
-      "to": { "commune": "xã Thượng Quan", "province": "tỉnh Thái Nguyên" }
+      "to": {
+        "commune": "xã Thượng Quan",
+        "province": "tỉnh Thái Nguyên"
+      }
     }
   ],
   "Bắc Kạn": [
     {
       "from": [
-        { "commune": "xã Bộc Bố", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nhạn Môn", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Giáo Hiệu", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Bằng Thành", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Bộc Bố",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nhạn Môn",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Giáo Hiệu",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Bằng Thành",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Bằng Thành", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Bằng Thành",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân La", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã An Thắng", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nghiên Loan", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Xuân La",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã An Thắng",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nghiên Loan",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Nghiên Loan", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Nghiên Loan",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Công Bằng", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cổ Linh", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cao Tân", "district": "huyện Pác Nặm", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Công Bằng",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cổ Linh",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cao Tân",
+          "district": "huyện Pác Nặm",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Cao Minh", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Cao Minh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cao Thượng", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nam Mẫu", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Khang Ninh", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Cao Thượng",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nam Mẫu",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Khang Ninh",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Ba Bể", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Ba Bể",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chợ Rã", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Thượng Giáo", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Địa Linh", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Chợ Rã",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Thượng Giáo",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Địa Linh",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Chợ Rã", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Chợ Rã",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bành Trạch", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Hà Hiệu", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Phúc Lộc", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Bành Trạch",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Hà Hiệu",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Phúc Lộc",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Phúc Lộc", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Phúc Lộc",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yến Dương", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Chu Hương", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Mỹ Phương", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Yến Dương",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Chu Hương",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Mỹ Phương",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Thượng Minh", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Thượng Minh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quảng Khê", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Hoàng Trĩ", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Bằng Phúc", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Đồng Phúc", "district": "huyện Ba Bể", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Quảng Khê",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Hoàng Trĩ",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Bằng Phúc",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Đồng Phúc",
+          "district": "huyện Ba Bể",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Đồng Phúc", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Đồng Phúc",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thượng Ân", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Bằng Vân", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Thượng Ân",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Bằng Vân",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Bằng Vân", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Bằng Vân",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Vân Tùng", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cốc Đán", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Đức Vân", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Vân Tùng",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cốc Đán",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Đức Vân",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Ngân Sơn", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Ngân Sơn",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nà Phặc", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Trung Hòa", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Nà Phặc",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Trung Hòa",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Nà Phặc", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Nà Phặc",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thuần Mang", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Hiệp Lực", "district": "huyện Ngân Sơn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Thuần Mang",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Hiệp Lực",
+          "district": "huyện Ngân Sơn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Hiệp Lực", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Hiệp Lực",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Lạc", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Đồng Lạc", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nam Cường", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Xuân Lạc",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Đồng Lạc",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nam Cường",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Nam Cường", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Nam Cường",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Lập", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Quảng Bạch", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Quảng Bạch",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Quảng Bạch", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Quảng Bạch",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bản Thi", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Yên Thượng", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Yên Thịnh", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Bản Thi",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Yên Thượng",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Yên Thịnh",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Yên Thịnh", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Yên Thịnh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Bằng Lũng", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Ngọc Phái", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Phương Viên", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Bằng Lãng", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Bằng Lũng",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Ngọc Phái",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Phương Viên",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Bằng Lãng",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Chợ Đồn",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đại Sảo", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Yên Mỹ", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Yên Phong", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Đại Sảo",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Yên Mỹ",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Yên Phong",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Yên Phong", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Yên Phong",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Lương Bằng", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Bình Trung", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nghĩa Tá", "district": "huyện Chợ Đồn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Lương Bằng",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Bình Trung",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nghĩa Tá",
+          "district": "huyện Chợ Đồn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Tá", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Nghĩa Tá",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phủ Thông", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Vi Hương", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Tân Tú", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Lục Bình", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Phủ Thông",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Vi Hương",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Tân Tú",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Lục Bình",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Phủ Thông", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Phủ Thông",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quân Hà", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nguyên Phúc", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Mỹ Thanh", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cẩm Giàng", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Quân Hà",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nguyên Phúc",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Mỹ Thanh",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cẩm Giàng",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Cẩm Giàng", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Cẩm Giàng",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sỹ Bình", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Vũ Muộn", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cao Sơn", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Sỹ Bình",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Vũ Muộn",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cao Sơn",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Vĩnh Thông", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Vĩnh Thông",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đồng Thắng", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Dương Phong", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Quang Thuận", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Đồng Thắng",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Dương Phong",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Quang Thuận",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Bạch Thông", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Bạch Thông",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Dương Quang", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Đôn Phong", "district": "huyện Bạch Thông", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Dương Quang",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Đôn Phong",
+          "district": "huyện Bạch Thông",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Phong Quang", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Phong Quang",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Kim Hỷ", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Lương Thượng", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Văn Lang", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Kim Hỷ",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Lương Thượng",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Văn Lang",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Văn Lang", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Văn Lang",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Văn Vũ", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cường Lợi", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Văn Vũ",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cường Lợi",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Cường Lợi", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Cường Lợi",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Yến Lạc", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Sơn Thành", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Kim Lư", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Yến Lạc",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Sơn Thành",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Kim Lư",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Na Rì", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Na Rì",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Văn Minh", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cư Lễ", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Trần Phú", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Văn Minh",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cư Lễ",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Trần Phú",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Trần Phú", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Trần Phú",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Phong", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Dương Sơn", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Côn Minh", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Quang Phong",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Dương Sơn",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Côn Minh",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Côn Minh", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Côn Minh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đổng Xá", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Liêm Thủy", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Xuân Dương", "district": "huyện Na Rì", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Đổng Xá",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Liêm Thủy",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Xuân Dương",
+          "district": "huyện Na Rì",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Xuân Dương", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Xuân Dương",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tân Sơn", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Cao Kỳ", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Hòa Mục", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Tân Sơn",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Cao Kỳ",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Hòa Mục",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Tân Kỳ", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Tân Kỳ",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thanh Vận", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Mai Lạp", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Thanh Mai", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Thanh Vận",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Mai Lạp",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Thanh Mai",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Thanh Mai", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Thanh Mai",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nông Hạ", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Thanh Thịnh", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Nông Hạ",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Thanh Thịnh",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Thanh Thịnh", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Thanh Thịnh",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đồng Tâm", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Quảng Chu", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Như Cố", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "thị trấn Đồng Tâm",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Quảng Chu",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Như Cố",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Chợ Mới", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Chợ Mới",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yên Cư", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Bình Văn", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Yên Hân", "district": "huyện Chợ Mới", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "xã Yên Cư",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Bình Văn",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Yên Hân",
+          "district": "huyện Chợ Mới",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "xã Yên Bình", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "xã Yên Bình",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nguyễn Thị Minh Khai", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "phường Huyền Tụng", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "phường Đức Xuân", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "phường Nguyễn Thị Minh Khai",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "phường Huyền Tụng",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "phường Đức Xuân",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "phường Đức Xuân", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "phường Đức Xuân",
+        "province": "tỉnh Thái Nguyên"
+      }
     },
     {
       "from": [
-        { "commune": "phường Sông Cầu", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "phường Phùng Chí Kiên", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "phường Xuất Hóa", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" },
-        { "commune": "xã Nông Thượng", "district": "thành phố Bắc Kạn", "province": "tỉnh Bắc Kạn" }
+        {
+          "commune": "phường Sông Cầu",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "phường Phùng Chí Kiên",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "phường Xuất Hóa",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        },
+        {
+          "commune": "xã Nông Thượng",
+          "district": "thành phố Bắc Kạn",
+          "province": "tỉnh Bắc Kạn"
+        }
       ],
-      "to": { "commune": "phường Bắc Kạn", "province": "tỉnh Bắc Kạn" }
+      "to": {
+        "commune": "phường Bắc Kạn",
+        "province": "tỉnh Thái Nguyên"
+      }
     }
   ]
 }

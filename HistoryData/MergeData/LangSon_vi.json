@@ -2,524 +2,1503 @@
   "Lạng Sơn": [
     {
       "from": [
-        { "commune": "Xã Chi Lăng", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Chí Minh", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Thị trấn Thất Khê", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thất Khê", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Khánh Long", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Cao Minh", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đoàn Kết", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Đoàn Kết", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Yên", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Kim Đồng", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Tiến", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tân Tiến", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Đề Thám", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hùng Sơn", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hùng Việt", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tràng Định", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tri Phương", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đội Cấn", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Quốc Khánh", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Quốc Khánh", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Trung Thành", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Minh", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Kháng Chiến", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Kháng Chiến", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Đào Viên", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Quốc Việt", "district": "Huyện Tràng Định", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Quốc Việt", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hoàng Văn Thụ", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Mông Ân", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Thị trấn Bình Gia", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Bình Gia", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hồng Thái", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bình La", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Văn", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tân Văn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hồng Phong", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Minh Khai", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hồng Phong", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hưng Đạo", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hoa Thám", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hoa Thám", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Vĩnh Yên", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Quý Hòa", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Quý Hòa", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Yên Lỗ", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thiện Hòa", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thiện Hòa", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Quang Trung", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thiện Thuật", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thiện Thuật", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hòa Bình", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Hòa", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thiện Long", "district": "Huyện Bình Gia", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thiện Long", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Bắc Sơn", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Long Đống", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bắc Quỳnh", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Trấn Yên", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hưng Vũ", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hưng Vũ", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Lập", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Hương", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Chiêu Vũ", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vũ Lăng", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Vũ Lăng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Thành", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Nhất Tiến", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Nhất Hòa", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Nhất Hòa", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Chiến Thắng", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vũ Sơn", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vũ Lễ", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Vũ Lễ", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Đồng Ý", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vạn Thủy", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Tri", "district": "Huyện Bắc Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tân Tri", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hòa Bình", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tú Xuyên", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Thị trấn Văn Quan", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Văn Quan", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Trấn Ninh", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Liên Hội", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Điềm He", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Điềm He", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã An Sơn", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bình Phúc", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Yên Phúc", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Yên Phúc", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Lương Năng", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hữu Lễ", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tri Lễ", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tri Lễ", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Thành", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tràng Phái", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Đoàn", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tân Đoàn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Xuân Long", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bình Trung", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Khánh Khê", "district": "Huyện Văn Quan", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Khánh Khê", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Na Sầm", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hoàng Việt", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bắc Hùng", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Na Sầm", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hồng Thái", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hoàng Văn Thụ", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Mỹ", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Nhạc Kỳ", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Thanh", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hoàng Văn Thụ", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Thụy Hùng", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thanh Long", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Trùng Khánh", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thụy Hùng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Bắc Việt", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bắc La", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Tác", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thành Hòa", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Văn Lãng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Gia Miễn", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hội Hoan", "district": "Huyện Văn Lãng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hội Hoan", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Lộc Bình", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Khánh Xuân", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đồng Bục", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hữu Khánh", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Mẫu Sơn", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Yên Khoái", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tú Mịch", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Mẫu Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Na Dương", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đông Quan", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tú Đoạn", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Na Dương", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Sàn Viên", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Lợi Bác", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Lợi Bác", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Minh Hiệp", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hữu Lân", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thống Nhất", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thống Nhất", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Nam Quan", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Ái Quốc", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Xuân Dương", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Xuân Dương", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tam Gia", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Khuất Xá", "district": "Huyện Lộc Bình", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Khuất Xá", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Đình Lập", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đình Lập", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Một phần Xã Bính Xá", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Đình Lập", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Nông Trường Thái Bình", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Lâm Ca", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thái Bình", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thái Bình", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Bắc Lãng", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đồng Thắng", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Cường Lợi", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Châu Sơn", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Một phần Xã Kiên Mộc", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Châu Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Bắc Xa", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Phần còn lại Xã Bính Xá", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Phần còn lại Xã Kiên Mộc", "district": "Huyện Đình Lập", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Kiên Mộc", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Hữu Lũng", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đồng Tân", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hồ Sơn", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Minh Sơn", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Minh Hòa", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hòa Thắng", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tuấn Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Tân Thành", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hòa Lạc", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hòa Sơn", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Tân Thành", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Minh Tiến", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Nhật Tiến", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vân Nham", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Vân Nham", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Thanh Sơn", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Đồng Tiến", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thiện Tân", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Thiện Tân", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hòa Bình", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Quyết Thắng", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Yên Bình", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Yên Bình", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Yên Thịnh", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hữu Liên", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Hữu Liên", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Yên Vượng", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Yên Sơn", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Cai Kinh", "district": "Huyện Hữu Lũng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Cai Kinh", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Chi Lăng", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Thị trấn Chi Lăng", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Thị trấn Đồng Mỏ", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hữu Kiên", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Quan Sơn", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Quan Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Chiến Thắng", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vân An", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Liên Sơn", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vân Thủy", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Chiến Thắng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Mai Sao", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bắc Thủy", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Lâm Sơn", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Nhân Lý", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Nhân Lý", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Gia Lộc", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bằng Hữu", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thượng Cường", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bằng Mạc", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Bằng Mạc", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hòa Bình", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Y Tịch", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Vạn Linh", "district": "Huyện Chi Lăng", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Vạn Linh", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Thị trấn Đồng Đăng", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thụy Hùng", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Phú Xá", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hồng Phong", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Bảo Lâm", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Đồng Đăng", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Lộc Yên", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thanh Lòa", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Thạch Đạn", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Cao Lộc", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Hòa Cư", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hải Yến", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Công Sơn", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Công Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Xã Mẫu Sơn", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Cao Lâu", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Xuất Lễ", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Xã Ba Sơn", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Tam Thanh", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hoàng Đồng", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Phường Tam Thanh", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Chi Lăng", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Quảng Lạc", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Phường Lương Văn Tri", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Hoàng Văn Thụ", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Thị trấn Cao Lộc", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Hợp Thành", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Tân Liên", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Gia Cát", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Phường Kỳ Lừa", "province": "Tỉnh Lạng Sơn" }
-    },
-    {
-      "from": [
-        { "commune": "Phường Vĩnh Trại", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Phường Đông Kinh", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Yên Trạch", "district": "Huyện Cao Lộc", "province": "Tỉnh Lạng Sơn" },
-        { "commune": "Xã Mai Pha", "district": "Thành phố Lạng Sơn", "province": "Tỉnh Lạng Sơn" }
-      ],
-      "to": { "commune": "Phường Đông Kinh", "province": "Tỉnh Lạng Sơn" }
+        {
+          "commune": "Xã Chi Lăng",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Chí Minh",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Thị trấn Thất Khê",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thất Khê",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Khánh Long",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Cao Minh",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đoàn Kết",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Đoàn Kết",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Yên",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Kim Đồng",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Tiến",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tân Tiến",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Đề Thám",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hùng Sơn",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hùng Việt",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tràng Định",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tri Phương",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đội Cấn",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Quốc Khánh",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Quốc Khánh",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Trung Thành",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Minh",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Kháng Chiến",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Kháng Chiến",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Đào Viên",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Quốc Việt",
+          "district": "Huyện Tràng Định",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Quốc Việt",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hoàng Văn Thụ",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Mông Ân",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Thị trấn Bình Gia",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Bình Gia",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hồng Thái",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bình La",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Văn",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tân Văn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hồng Phong",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Minh Khai",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hồng Phong",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hưng Đạo",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hoa Thám",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hoa Thám",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Vĩnh Yên",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Quý Hòa",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Quý Hòa",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Yên Lỗ",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thiện Hòa",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thiện Hòa",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Quang Trung",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thiện Thuật",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thiện Thuật",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hòa Bình",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Hòa",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thiện Long",
+          "district": "Huyện Bình Gia",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thiện Long",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Bắc Sơn",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Long Đống",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bắc Quỳnh",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Bắc Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Trấn Yên",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hưng Vũ",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hưng Vũ",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Lập",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Hương",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Chiêu Vũ",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vũ Lăng",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Vũ Lăng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Thành",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Nhất Tiến",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Nhất Hòa",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Nhất Hòa",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Chiến Thắng",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vũ Sơn",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vũ Lễ",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Vũ Lễ",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Đồng Ý",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vạn Thủy",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Tri",
+          "district": "Huyện Bắc Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tân Tri",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hòa Bình",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tú Xuyên",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Thị trấn Văn Quan",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Văn Quan",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Trấn Ninh",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Liên Hội",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Điềm He",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Điềm He",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã An Sơn",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bình Phúc",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Yên Phúc",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Yên Phúc",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Lương Năng",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hữu Lễ",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tri Lễ",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tri Lễ",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Thành",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tràng Phái",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Đoàn",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tân Đoàn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Xuân Long",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bình Trung",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Khánh Khê",
+          "district": "Huyện Văn Quan",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Khánh Khê",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Na Sầm",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hoàng Việt",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bắc Hùng",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Na Sầm",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hồng Thái",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hoàng Văn Thụ",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Mỹ",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Nhạc Kỳ",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Thanh",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hoàng Văn Thụ",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Thụy Hùng",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thanh Long",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Trùng Khánh",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thụy Hùng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Bắc Việt",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bắc La",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Tác",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thành Hòa",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Văn Lãng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Gia Miễn",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hội Hoan",
+          "district": "Huyện Văn Lãng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hội Hoan",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Lộc Bình",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Khánh Xuân",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đồng Bục",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hữu Khánh",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Lộc Bình",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Mẫu Sơn",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Yên Khoái",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tú Mịch",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Mẫu Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Na Dương",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đông Quan",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tú Đoạn",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Na Dương",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Sàn Viên",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Lợi Bác",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Lợi Bác",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Minh Hiệp",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hữu Lân",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thống Nhất",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thống Nhất",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Nam Quan",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Ái Quốc",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Xuân Dương",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Xuân Dương",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tam Gia",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Khuất Xá",
+          "district": "Huyện Lộc Bình",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Khuất Xá",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Đình Lập",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đình Lập",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Một phần Xã Bính Xá",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Đình Lập",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Nông Trường Thái Bình",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Lâm Ca",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thái Bình",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thái Bình",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Bắc Lãng",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đồng Thắng",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Cường Lợi",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Châu Sơn",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Một phần Xã Kiên Mộc",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Châu Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Bắc Xa",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Phần còn lại Xã Bính Xá",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Phần còn lại Xã Kiên Mộc",
+          "district": "Huyện Đình Lập",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Kiên Mộc",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Hữu Lũng",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đồng Tân",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hồ Sơn",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hữu Lũng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Minh Sơn",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Minh Hòa",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hòa Thắng",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tuấn Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Tân Thành",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hòa Lạc",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hòa Sơn",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Tân Thành",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Minh Tiến",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Nhật Tiến",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vân Nham",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Vân Nham",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Thanh Sơn",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Đồng Tiến",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thiện Tân",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Thiện Tân",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hòa Bình",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Quyết Thắng",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Yên Bình",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Yên Bình",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Yên Thịnh",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hữu Liên",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Hữu Liên",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Yên Vượng",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Yên Sơn",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Cai Kinh",
+          "district": "Huyện Hữu Lũng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Cai Kinh",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Chi Lăng",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Thị trấn Chi Lăng",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Thị trấn Đồng Mỏ",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Chi Lăng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hữu Kiên",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Quan Sơn",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Quan Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Chiến Thắng",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vân An",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Liên Sơn",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vân Thủy",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Chiến Thắng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Mai Sao",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bắc Thủy",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Lâm Sơn",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Nhân Lý",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Nhân Lý",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Gia Lộc",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bằng Hữu",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thượng Cường",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bằng Mạc",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Bằng Mạc",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hòa Bình",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Y Tịch",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Vạn Linh",
+          "district": "Huyện Chi Lăng",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Vạn Linh",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Thị trấn Đồng Đăng",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thụy Hùng",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Phú Xá",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hồng Phong",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Bảo Lâm",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Đồng Đăng",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Lộc Yên",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thanh Lòa",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Thạch Đạn",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Cao Lộc",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Hòa Cư",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hải Yến",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Công Sơn",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Công Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Xã Mẫu Sơn",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Cao Lâu",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Xuất Lễ",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Xã Ba Sơn",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Tam Thanh",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hoàng Đồng",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Phường Tam Thanh",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Chi Lăng",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Quảng Lạc",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Phường Lương Văn Tri",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Hoàng Văn Thụ",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Thị trấn Cao Lộc",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Hợp Thành",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Tân Liên",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Gia Cát",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Phường Kỳ Lừa",
+        "province": "Tỉnh Lạng Sơn"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "Phường Vĩnh Trại",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Phường Đông Kinh",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Yên Trạch",
+          "district": "Huyện Cao Lộc",
+          "province": "Tỉnh Lạng Sơn"
+        },
+        {
+          "commune": "Xã Mai Pha",
+          "district": "Thành phố Lạng Sơn",
+          "province": "Tỉnh Lạng Sơn"
+        }
+      ],
+      "to": {
+        "commune": "Phường Đông Kinh",
+        "province": "Tỉnh Lạng Sơn"
+      }
     }
   ]
 }

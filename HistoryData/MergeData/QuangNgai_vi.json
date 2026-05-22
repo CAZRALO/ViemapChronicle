@@ -2,759 +2,2143 @@
   "Quảng Ngãi": [
     {
       "from": [
-        { "commune": "xã Tịnh Kỳ", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Châu", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Long", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Thiện", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Khê", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Tịnh Kỳ",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Châu",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Long",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Thiện",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Khê",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Tịnh Khê", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Tịnh Khê",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nghĩa Hà", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Dõng", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Dũng", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã An Phú", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Nghĩa Hà",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Dõng",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Dũng",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã An Phú",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã An Phú", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã An Phú",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phổ Nhơn", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Phổ Phong", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Phổ Nhơn",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Phổ Phong",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Nguyễn Nghiêm", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Nguyễn Nghiêm",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phổ Khánh", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Phổ Cường", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Phổ Khánh",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Phổ Cường",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Khánh Cường", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Khánh Cường",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Khương", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình An", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Minh", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Bình Khương",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình An",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Minh",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Bình Minh", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Bình Minh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Mỹ", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Chương", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Bình Mỹ",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Chương",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Bình Chương", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Bình Chương",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Châu Ổ", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Thạnh", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Chánh", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Dương", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Nguyên", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Trung", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Long", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Châu Ổ",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Thạnh",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Chánh",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Dương",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Nguyên",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Trung",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Long",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Bình Sơn", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Bình Sơn",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Thuận", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Đông", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Trị", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Hải", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Hòa", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Phước", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Bình Thuận",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Đông",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Trị",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Hải",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Hòa",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Phước",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Vạn Tường", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Vạn Tường",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Bình Hiệp", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Thanh", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Tân Phú", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Bình Châu", "district": "huyện Bình Sơn", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Hòa", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Bình Hiệp",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Thanh",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Tân Phú",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Bình Châu",
+          "district": "huyện Bình Sơn",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Hòa",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Đông Sơn", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Đông Sơn",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tịnh Giang", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Đông", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Minh", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Tịnh Giang",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Đông",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Minh",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Trường Giang", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Trường Giang",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tịnh Bắc", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Hiệp", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Trà", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Tịnh Bắc",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Hiệp",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Trà",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Gia", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Gia",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tịnh Hà", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Bình", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Sơn", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Tịnh Hà",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Bình",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Sơn",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Tịnh", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Tịnh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tịnh Phong", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Thọ", "district": "huyện Sơn Tịnh", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Tịnh Phong",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Thọ",
+          "district": "huyện Sơn Tịnh",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Thọ Phong", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Thọ Phong",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn La Hà", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Trung", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Thương", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Hòa", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn La Hà",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Trung",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Thương",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Hòa",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Tư Nghĩa", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Tư Nghĩa",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Sông Vệ", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Hiệp", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Phương", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Sông Vệ",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Hiệp",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Phương",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Vệ Giang", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Vệ Giang",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nghĩa Thuận", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Kỳ", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Điền", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Nghĩa Thuận",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Kỳ",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Điền",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Giang", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Nghĩa Giang",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nghĩa Sơn", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Lâm", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Nghĩa Thắng", "district": "huyện Tư Nghĩa", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Nghĩa Sơn",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Lâm",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Nghĩa Thắng",
+          "district": "huyện Tư Nghĩa",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Trà Giang", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Trà Giang",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chợ Chùa", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Thuận", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Trung", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Chợ Chùa",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Thuận",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Trung",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Nghĩa Hành", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Nghĩa Hành",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hành Đức", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Phước", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Thịnh", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Hành Đức",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Phước",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Thịnh",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Đình Cương", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Đình Cương",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hành Thiện", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Tín Tây", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Tín Đông", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Hành Thiện",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Tín Tây",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Tín Đông",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Thiện Tín", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Thiện Tín",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hành Dũng", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Nhân", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Hành Minh", "district": "huyện Nghĩa Hành", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Hành Dũng",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Nhân",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Hành Minh",
+          "district": "huyện Nghĩa Hành",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Phước Giang", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Phước Giang",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thắng Lợi", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Nhuận", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Hiệp", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Thắng Lợi",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Nhuận",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Hiệp",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Long Phụng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Long Phụng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Chánh", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Thạnh", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Minh", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Đức Chánh",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Thạnh",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Minh",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Mỏ Cày", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Mỏ Cày",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Mộ Đức", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Hòa", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Phú", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Tân", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Mộ Đức",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Hòa",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Phú",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Tân",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Mộ Đức", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Mộ Đức",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Phong", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Đức Lân", "district": "huyện Mộ Đức", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Đức Phong",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Đức Lân",
+          "district": "huyện Mộ Đức",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Lân Phong", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Lân Phong",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trà Xuân", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Sơn", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Thủy", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Trà Xuân",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Sơn",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Thủy",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Trà Bồng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trà Bình", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Phú", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Giang", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Trà Bình",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Phú",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Giang",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Đông Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Đông Trà Bồng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Trà", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Phong", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Xinh", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Trà",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Phong",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Xinh",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Tây Trà", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Tây Trà",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trà Lâm", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Hiệp", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Thanh", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Trà Lâm",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Hiệp",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Thanh",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Thanh Bồng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Thanh Bồng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trà Tân", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "một phần xã Trà Bùi", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Trà Tân",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "một phần xã Trà Bùi",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Cà Đam", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Cà Đam",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hương Trà", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Trà Tây", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phần còn lại xã Trà Bùi", "district": "huyện Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Hương Trà",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Trà Tây",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phần còn lại xã Trà Bùi",
+          "district": "huyện Trà Bồng",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Tây Trà Bồng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Tây Trà Bồng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Thành", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Nham", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Hạ", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Thành",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Nham",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Hạ",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Hạ", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Hạ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Giang", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Cao", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Linh", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Giang",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Cao",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Linh",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Linh", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Linh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Di Lăng", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Bao", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Thượng", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Di Lăng",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Bao",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Thượng",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Hà", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Hà",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Trung", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Hải", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Thủy", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Trung",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Hải",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Thủy",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Thủy", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Thủy",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Ba", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Kỳ", "district": "huyện Sơn Hà", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Ba",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Kỳ",
+          "district": "huyện Sơn Hà",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Kỳ", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Kỳ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Long", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Tân", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Dung", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Long",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Tân",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Dung",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Tây", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Tây",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Mùa", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Liên", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Bua", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Mùa",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Liên",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Bua",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Tây Thượng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Tây Thượng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Tinh", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Lập", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Sơn Màu", "district": "huyện Sơn Tây", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Sơn Tinh",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Lập",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Sơn Màu",
+          "district": "huyện Sơn Tây",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Tây Hạ", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Tây Hạ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Hiệp", "district": "huyện Minh Long", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Thanh An", "district": "huyện Minh Long", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Long Môn", "district": "huyện Minh Long", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Long Hiệp",
+          "district": "huyện Minh Long",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Thanh An",
+          "district": "huyện Minh Long",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Long Môn",
+          "district": "huyện Minh Long",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Minh Long", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Minh Long",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Long Mai", "district": "huyện Minh Long", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Long Sơn", "district": "huyện Minh Long", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Long Mai",
+          "district": "huyện Minh Long",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Long Sơn",
+          "district": "huyện Minh Long",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Sơn Mai", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Sơn Mai",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Tiêu", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Ngạc", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Vì", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Tiêu",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Ngạc",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Vì",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Vì", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Vì",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Lế", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Nam", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Tô", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Lế",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Nam",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Tô",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Tô", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Tô",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Giang", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Dinh", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Giang",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Dinh",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Dinh", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Dinh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Ba Tơ", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Cung", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Bích", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "thị trấn Ba Tơ",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Cung",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Bích",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Tơ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Điền", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Vinh", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Điền",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Vinh",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Vinh", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Vinh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Liên", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Thành", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Động", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Liên",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Thành",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Động",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Động", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Động",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Trang", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Ba Khâm", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Trang",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Ba Khâm",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Đặng Thùy Trâm", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Đặng Thùy Trâm",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trương Quang Trọng", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Ấn Tây", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh Ấn Đông", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Tịnh An", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "phường Trương Quang Trọng",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Ấn Tây",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh Ấn Đông",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Tịnh An",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "phường Trương Quang Trọng", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "phường Trương Quang Trọng",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nguyễn Nghiêm", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Trần Hưng Đạo", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Nghĩa Chánh", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Chánh Lộ", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "phường Nguyễn Nghiêm",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Trần Hưng Đạo",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Nghĩa Chánh",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Chánh Lộ",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "phường Cẩm Thành", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "phường Cẩm Thành",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Lê Hồng Phong", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Trần Phú", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Quảng Phú", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Nghĩa Lộ", "district": "thành phố Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "phường Lê Hồng Phong",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Trần Phú",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Quảng Phú",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Nghĩa Lộ",
+          "district": "thành phố Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "phường Nghĩa Lộ", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "phường Nghĩa Lộ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phổ Văn", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Phổ Quang", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Phổ An", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Phổ Thuận", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "phường Phổ Văn",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Phổ Quang",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Phổ An",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Phổ Thuận",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "phường Trà Câu", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "phường Trà Câu",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Nguyễn Nghiêm", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Phổ Hòa", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Phổ Minh", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Phổ Vinh", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "phường Phổ Ninh", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "phường Nguyễn Nghiêm",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Phổ Hòa",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Phổ Minh",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Phổ Vinh",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "phường Phổ Ninh",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "phường Đức Phổ", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "phường Đức Phổ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phổ Thạnh", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" },
-        { "commune": "xã Phổ Châu", "district": "thị xã Đức Phổ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "phường Phổ Thạnh",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        },
+        {
+          "commune": "xã Phổ Châu",
+          "district": "thị xã Đức Phổ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "phường Sa Huỳnh", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "phường Sa Huỳnh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "huyện Lý Sơn", "district": "tỉnh Quảng Ngãi", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "huyện Lý Sơn",
+          "district": "tỉnh Quảng Ngãi",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "đặc khu Lý Sơn", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "đặc khu Lý Sơn",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ba Xa", "district": "huyện Ba Tơ", "province": "tỉnh Quảng Ngãi" }
+        {
+          "commune": "xã Ba Xa",
+          "district": "huyện Ba Tơ",
+          "province": "tỉnh Quảng Ngãi"
+        }
       ],
-      "to": { "commune": "xã Ba Xa", "province": "tỉnh Quảng Ngãi" }
+      "to": {
+        "commune": "xã Ba Xa",
+        "province": "tỉnh Quảng Ngãi"
+      }
     }
   ],
   "Kon Tum": [
     {
       "from": [
-        { "commune": "xã Kroong", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Vinh Quang", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ngọk Bay", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Kroong",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Vinh Quang",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ngọk Bay",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ngọk Bay", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ngọk Bay",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đoàn Kết", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Năng", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ia Chim", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đoàn Kết",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Năng",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ia Chim",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ia Chim", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ia Chim",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Bình", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Chư Hreng", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Blà", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Rơ Wa", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Hòa Bình",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Chư Hreng",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Blà",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Rơ Wa",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Rơ Wa", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Rơ Wa",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Long", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Pxi", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Long",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Pxi",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Pxi", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Pxi",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Hring", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Mar", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Hring",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Mar",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Mar", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Mar",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Ngọk", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Ui", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Ngọk",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Ui",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Ui", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Ui",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọk Wang", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ngọk Réo", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Ngọk Wang",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ngọk Réo",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ngọk Réo", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ngọk Réo",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đăk Hà", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Hà Mòn", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk La", "district": "huyện Đăk Hà", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Đăk Hà",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Hà Mòn",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk La",
+          "district": "huyện Đăk Hà",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Hà", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Hà",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Rơ Nga", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ngọk Tụ", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Rơ Nga",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ngọk Tụ",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ngọk Tụ", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ngọk Tụ",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đăk Tô", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Tân Cảnh", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Pô Kô", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Diên Bình", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Đăk Tô",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Tân Cảnh",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Pô Kô",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Diên Bình",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Tô", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Tô",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Văn Lem", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Trăm", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Kon Đào", "district": "huyện Đăk Tô", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Văn Lem",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Trăm",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Kon Đào",
+          "district": "huyện Đăk Tô",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Kon Đào", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Kon Đào",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Na", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Sao", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Na",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Sao",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Sao", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Sao",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Rơ Ông", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Tờ Kan", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Rơ Ông",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Tờ Kan",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Tờ Kan", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Tờ Kan",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Hà", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Tu Mơ Rông", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Hà",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Tu Mơ Rông",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Tu Mơ Rông", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Tu Mơ Rông",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọk Yêu", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Văn Xuôi", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Tê Xăng", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ngọk Lây", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Măng Ri", "district": "huyện Tu Mơ Rông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Ngọk Yêu",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Văn Xuôi",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Tê Xăng",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ngọk Lây",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Măng Ri",
+          "district": "huyện Tu Mơ Rông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Măng Ri", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Măng Ri",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Plei Kần", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Xú", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Pờ Y", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Plei Kần",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Xú",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Pờ Y",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Bờ Y", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Bờ Y",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Kan", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Sa Loong", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Kan",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Sa Loong",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Sa Loong", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Sa Loong",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Ang", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Dục", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Nông", "district": "huyện Ngọc Hồi", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Ang",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Dục",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Nông",
+          "district": "huyện Ngọc Hồi",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Dục Nông", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Dục Nông",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Choong", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Xốp", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Choong",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Xốp",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Xốp", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Xốp",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Mường Hoong", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ngọc Linh", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Mường Hoong",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ngọc Linh",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ngọc Linh", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ngọc Linh",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Nhoong", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Man", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Plô", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Nhoong",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Man",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Plô",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Plô", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Plô",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đăk Glei", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Pék", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Đăk Glei",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Pék",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Pék", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Pék",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Kroong", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Môn", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Kroong",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Môn",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Môn", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Môn",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Sa Thầy", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Sa Sơn", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Sa Nhơn", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Sa Thầy",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Sa Sơn",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Sa Nhơn",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Sa Thầy", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Sa Thầy",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sa Nghĩa", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Hơ Moong", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Sa Bình", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Sa Nghĩa",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Hơ Moong",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Sa Bình",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Sa Bình", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Sa Bình",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ya Xiêr", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ya Tăng", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ya Ly", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Ya Xiêr",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ya Tăng",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ya Ly",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ya Ly", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ya Ly",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ia Dom", "district": "huyện Ia H'Drai", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Ia Tơi", "district": "huyện Ia H'Drai", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Ia Dom",
+          "district": "huyện Ia H'Drai",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Ia Tơi",
+          "district": "huyện Ia H'Drai",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ia Tơi", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ia Tơi",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Tơ Lung", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Kôi", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Tơ Lung",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Kôi",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Kôi", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Kôi",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Tờ Re", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Ruồng", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Tân Lập", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Tờ Re",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Ruồng",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Kon Braih", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Kon Braih",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đăk Rve", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Pne", "district": "huyện Kon Rẫy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Đăk Rve",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Pne",
+          "district": "huyện Kon Rẫy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Rve", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Rve",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Măng Đen", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Măng Cành", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Tăng", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "thị trấn Măng Đen",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Măng Cành",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Tăng",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Măng Đen", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Măng Đen",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Nên", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Ring", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Măng Bút", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Nên",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Ring",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Măng Bút",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Măng Bút", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Măng Bút",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọk Tem", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Hiếu", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Pờ Ê", "district": "huyện Kon Plông", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Ngọk Tem",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Hiếu",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Pờ Ê",
+          "district": "huyện Kon Plông",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Kon Plông", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Kon Plông",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Quang Trung", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Quyết Thắng", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Thắng Lợi", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Trường Chinh", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Thống Nhất", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "phường Quang Trung",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Quyết Thắng",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Thắng Lợi",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Trường Chinh",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Thống Nhất",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "phường Kon Tum", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "phường Kon Tum",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ngô Mây", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Duy Tân", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "xã Đăk Cấm", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "phường Ngô Mây",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Duy Tân",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "xã Đăk Cấm",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "phường Đăk Cấm", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "phường Đăk Cấm",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "phường Trần Hưng Đạo", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Lê Lợi", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" },
-        { "commune": "phường Nguyễn Trãi", "district": "thành phố Kon Tum", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "phường Trần Hưng Đạo",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Lê Lợi",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        },
+        {
+          "commune": "phường Nguyễn Trãi",
+          "district": "thành phố Kon Tum",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "phường Đăk Bla", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "phường Đăk Bla",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đăk Long", "district": "huyện Đăk Glei", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Đăk Long",
+          "district": "huyện Đăk Glei",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Đăk Long", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Đăk Long",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Rờ Kơi", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Rờ Kơi",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Rờ Kơi", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Rờ Kơi",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Mô Rai", "district": "huyện Sa Thầy", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Mô Rai",
+          "district": "huyện Sa Thầy",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Mô Rai", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Mô Rai",
+        "province": "tỉnh Quảng Ngãi"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ia Đal", "district": "huyện Ia H'Drai", "province": "tỉnh Kon Tum" }
+        {
+          "commune": "xã Ia Đal",
+          "district": "huyện Ia H'Drai",
+          "province": "tỉnh Kon Tum"
+        }
       ],
-      "to": { "commune": "xã Ia Đal", "province": "tỉnh Kon Tum" }
+      "to": {
+        "commune": "xã Ia Đal",
+        "province": "tỉnh Quảng Ngãi"
+      }
     }
   ]
 }

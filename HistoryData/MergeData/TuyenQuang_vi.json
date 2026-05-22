@@ -2,972 +2,2684 @@
   "Tuyên Quang": [
     {
       "from": [
-        { "commune": "Xã Khuôn Hà", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" },
-        { "commune": "Xã Thượng Lâm", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Khuôn Hà",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thượng Lâm",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Thượng Lâm", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Thượng Lâm",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Lăng Can", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" },
-        { "commune": "Xã Phúc Yên", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" },
-        { "commune": "Xã Xuân Lập", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" }
+        {
+          "commune": "Thị trấn Lăng Can",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Phúc Yên",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Xuân Lập",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Lâm Bình", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Lâm Bình",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Phúc Sơn", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" },
-        { "commune": "Xã Hồng Quang", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" },
-        { "commune": "Xã Minh Quang", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Phúc Sơn",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hồng Quang",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Minh Quang",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Minh Quang", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Minh Quang",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thổ Bình", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" },
-        { "commune": "Xã Bình An", "district": "Huyện Lâm Bình", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Thổ Bình",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Bình An",
+          "district": "Huyện Lâm Bình",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Bình An", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Bình An",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Sinh Long", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Côn Lôn", "district": "Huyện Na Hang", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Sinh Long",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Côn Lôn",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Côn Lôn", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Côn Lôn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Khâu Tinh", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Yên Hoa", "district": "Huyện Na Hang", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Khâu Tinh",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Yên Hoa",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Yên Hoa", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Yên Hoa",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thượng Giáp", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Thượng Nông", "district": "Huyện Na Hang", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Thượng Giáp",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thượng Nông",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Thượng Nông", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Thượng Nông",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đà Vị", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Sơn Phú", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Hồng Thái", "district": "Huyện Na Hang", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Đà Vị",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Sơn Phú",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hồng Thái",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Hồng Thái", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Hồng Thái",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Na Hang", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Năng Khả", "district": "Huyện Na Hang", "province": "Tuyên Quang" },
-        { "commune": "Xã Thanh Tương", "district": "Huyện Na Hang", "province": "Tuyên Quang" }
+        {
+          "commune": "Thị trấn Na Hang",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Năng Khả",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thanh Tương",
+          "district": "Huyện Na Hang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Nà Hang", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Nà Hang",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Hùng Mỹ", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Tân Mỹ", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Hùng Mỹ",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tân Mỹ",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Tân Mỹ", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Tân Mỹ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bình Phú", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Yên Lập", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Bình Phú",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Yên Lập",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Yên Lập", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Yên Lập",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Hà Lang", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Tân An", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Hà Lang",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tân An",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Tân An", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Tân An",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Vĩnh Lộc", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Xuân Quang", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Phúc Thịnh", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Ngọc Hội", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Trung Hòa", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Thị trấn Vĩnh Lộc",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Xuân Quang",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Phúc Thịnh",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Ngọc Hội",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Trung Hòa",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Chiêm Hóa", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Chiêm Hóa",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Thịnh", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Nhân Lý", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Hòa An", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Tân Thịnh",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Nhân Lý",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hòa An",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Hòa An", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Hòa An",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Phú Bình", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Kiên Đài", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Phú Bình",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Kiên Đài",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Kiên Đài", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Kiên Đài",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Linh Phú", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Tri Phú", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Linh Phú",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tri Phú",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Tri Phú", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Tri Phú",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Vinh Quang", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Bình Nhân", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Kim Bình", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Vinh Quang",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Bình Nhân",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Kim Bình",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Kim Bình", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Kim Bình",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Hòa Phú", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" },
-        { "commune": "Xã Yên Nguyên", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Hòa Phú",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Yên Nguyên",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Yên Nguyên", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Yên Nguyên",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Yên Lâm", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Yên Phú", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Yên Lâm",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Yên Phú",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Yên Phú", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Yên Phú",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Yên Thuận", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Minh Khương", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Bạch Xa", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Yên Thuận",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Minh Khương",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Bạch Xa",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Bạch Xa", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Bạch Xa",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Minh Dân", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Phù Lưu", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Minh Dân",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Phù Lưu",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Phù Lưu", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Phù Lưu",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Tân Yên", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Tân Thành", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Bằng Cốc", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Nhân Mục", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Thị trấn Tân Yên",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tân Thành",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Bằng Cốc",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Nhân Mục",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Hàm Yên", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Hàm Yên",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Minh Hương", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Bình Xa", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Minh Hương",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Bình Xa",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Bình Xa", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Bình Xa",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thành Long", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Thái Sơn", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Thành Long",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thái Sơn",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Thái Sơn", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Thái Sơn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đức Ninh", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" },
-        { "commune": "Xã Thái Hòa", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Đức Ninh",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thái Hòa",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Thái Hòa", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Thái Hòa",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Trung Minh", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Hùng Lợi", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Trung Minh",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hùng Lợi",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Hùng Lợi", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Hùng Lợi",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đạo Viện", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Công Đa", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Trung Sơn", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Đạo Viện",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Công Đa",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Trung Sơn",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Trung Sơn", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Trung Sơn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Phú Thịnh", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Tiến Bộ", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Một phần Xã Thái Bình", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Phú Thịnh",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tiến Bộ",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Một phần Xã Thái Bình",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Thái Bình", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Thái Bình",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Tiến", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Tân Long", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Tân Tiến",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tân Long",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Tân Long", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Tân Long",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Trung Trực", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Phúc Ninh", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Xuân Vân", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Trung Trực",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Phúc Ninh",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Xuân Vân",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Xuân Vân", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Xuân Vân",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Quý Quân", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Chiêu Yên", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Lực Hành", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Quý Quân",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Chiêu Yên",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Lực Hành",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Lực Hành", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Lực Hành",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Yên Sơn", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Tứ Quận", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Lang Quán", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Chân Sơn", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Thị trấn Yên Sơn",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tứ Quận",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Lang Quán",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Chân Sơn",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Yên Sơn", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Yên Sơn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Nhữ Hán", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Đội Bình", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" },
-        { "commune": "Xã Nhữ Khê", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Nhữ Hán",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Đội Bình",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Nhữ Khê",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Nhữ Khê", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Nhữ Khê",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Kim Quan", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Trung Yên", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Tân Trào", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Kim Quan",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Trung Yên",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tân Trào",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Tân Trào", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Tân Trào",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bình Yên", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Lương Thiện", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Minh Thanh", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Bình Yên",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Lương Thiện",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Minh Thanh",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Minh Thanh", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Minh Thanh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Sơn Dương", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Hợp Thành", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Phúc Ứng", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Tú Thịnh", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Thị trấn Sơn Dương",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hợp Thành",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Phúc Ứng",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tú Thịnh",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Sơn Dương", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Sơn Dương",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thượng Ấm", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Cấp Tiến", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Vĩnh Lợi", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Thượng Ấm",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Cấp Tiến",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Vĩnh Lợi",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Bình Ca", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Bình Ca",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Kháng Nhật", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Hợp Hòa", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Tân Thanh", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Kháng Nhật",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hợp Hòa",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tân Thanh",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Tân Thanh", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Tân Thanh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Ninh Lai", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Thiện Kế", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Sơn Nam", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Ninh Lai",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thiện Kế",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Sơn Nam",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Sơn Thủy", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Sơn Thủy",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đại Phú", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Tam Đa", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Phú Lương", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Đại Phú",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tam Đa",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Phú Lương",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Phú Lương", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Phú Lương",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Hào Phú", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Đông Lợi", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Trường Sinh", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Hào Phú",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Đông Lợi",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Trường Sinh",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Trường Sinh", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Trường Sinh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Chi Thiết", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Văn Phú", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Hồng Sơn", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Chi Thiết",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Văn Phú",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hồng Sơn",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Hồng Sơn", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Hồng Sơn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đồng Quý", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Quyết Thắng", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" },
-        { "commune": "Xã Đông Thọ", "district": "Huyện Sơn Dương", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Đồng Quý",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Quyết Thắng",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Đông Thọ",
+          "district": "Huyện Sơn Dương",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Đông Thọ", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Xã Đông Thọ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Mỹ Lâm", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã Mỹ Bằng", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Một phần Xã Kim Phú", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" }
+        {
+          "commune": "Phường Mỹ Lâm",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Mỹ Bằng",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Một phần Xã Kim Phú",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Phường Mỹ Lâm", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Phường Mỹ Lâm",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Ỷ La", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phường Tân Hà", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phường Phan Thiết", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phường Minh Xuân", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phường Tân Quang", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã Trung Môn", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phần còn lại Xã Kim Phú", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" }
+        {
+          "commune": "Phường Ỷ La",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phường Tân Hà",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phường Phan Thiết",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phường Minh Xuân",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phường Tân Quang",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Trung Môn",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phần còn lại Xã Kim Phú",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Phường Minh Xuân", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Phường Minh Xuân",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Nông Tiến", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã Tràng Đà", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phần còn lại Xã Thái Bình", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Phường Nông Tiến",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Tràng Đà",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phần còn lại Xã Thái Bình",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Phường Nông Tiến", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Phường Nông Tiến",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Hưng Thành", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Phường An Tường", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã Lưỡng Vượng", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã An Khang", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã Hoàng Khai", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" }
+        {
+          "commune": "Phường Hưng Thành",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Phường An Tường",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Lưỡng Vượng",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã An Khang",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Hoàng Khai",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Phường An Tường", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Phường An Tường",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Đội Cấn", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" },
-        { "commune": "Xã Thái Long", "district": "Thành phố Tuyên Quang", "province": "Tuyên Quang" }
+        {
+          "commune": "Phường Đội Cấn",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        },
+        {
+          "commune": "Xã Thái Long",
+          "district": "Thành phố Tuyên Quang",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Phường Bình Thuận", "province": "Tuyên Quang" }
+      "to": {
+        "commune": "Phường Bình Thuận",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Trung Hà", "district": "Huyện Chiêm Hóa", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Trung Hà",
+          "district": "Huyện Chiêm Hóa",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Trung Hà", "province": "Tuyên Quang" },
+      "to": {
+        "commune": "Xã Trung Hà",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Kiến Thiết", "district": "Huyện Yên Sơn", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Kiến Thiết",
+          "district": "Huyện Yên Sơn",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Kiến Thiết", "province": "Tuyên Quang" },
+      "to": {
+        "commune": "Xã Kiến Thiết",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Hùng Đức", "district": "Huyện Hàm Yên", "province": "Tuyên Quang" }
+        {
+          "commune": "Xã Hùng Đức",
+          "district": "Huyện Hàm Yên",
+          "province": "Tuyên Quang"
+        }
       ],
-      "to": { "commune": "Xã Hùng Đức", "province": "Tuyên Quang" },
+      "to": {
+        "commune": "Xã Hùng Đức",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     }
   ],
   "Hà Giang": [
     {
       "from": [
-        { "commune": "Xã Má Lé", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Lũng Táo", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Lũng Cú", "district": "Huyện Đồng Văn", "province": "Hà Giang" }
+        {
+          "commune": "Xã Má Lé",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lũng Táo",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lũng Cú",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Lũng Cú", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Lũng Cú",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Đồng Văn", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Tả Lủng", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Tả Phìn", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Thài Phìn Tủng", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Pải Lủng", "district": "Huyện Đồng Văn", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Đồng Văn",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tả Lủng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tả Phìn",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thài Phìn Tủng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Pải Lủng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Đồng Văn", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Đồng Văn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Sủng Là", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Sính Lủng", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Sảng Tủng", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Sà Phìn", "district": "Huyện Đồng Văn", "province": "Hà Giang" }
+        {
+          "commune": "Xã Sủng Là",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sính Lủng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sảng Tủng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sà Phìn",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Sà Phìn", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Sà Phìn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Phố Bảng", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Phố Là", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Phố Cáo", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Lũng Thầu", "district": "Huyện Đồng Văn", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Phố Bảng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phố Là",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phố Cáo",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lũng Thầu",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Phố Bảng", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Phố Bảng",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Sủng Trái", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Hố Quáng Phìn", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Lũng Phìn", "district": "Huyện Đồng Văn", "province": "Hà Giang" }
+        {
+          "commune": "Xã Sủng Trái",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Hố Quáng Phìn",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lũng Phìn",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Lũng Phìn", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Lũng Phìn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Lũng Chinh", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Sủng Trà", "district": "Huyện Đồng Văn", "province": "Hà Giang" },
-        { "commune": "Xã Sủng Máng", "district": "Huyện Đồng Văn", "province": "Hà Giang" }
+        {
+          "commune": "Xã Lũng Chinh",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sủng Trà",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sủng Máng",
+          "district": "Huyện Đồng Văn",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Sủng Máng", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Sủng Máng",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thượng Phùng", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Xín Cái", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Sơn Vĩ", "district": "Huyện Mèo Vạc", "province": "Hà Giang" }
+        {
+          "commune": "Xã Thượng Phùng",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Xín Cái",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sơn Vĩ",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Sơn Vĩ", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Sơn Vĩ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Mèo Vạc", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Tả Lủng", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Giàng Chu Phìn", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Pả Vi", "district": "Huyện Mèo Vạc", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Mèo Vạc",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tả Lủng",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Giàng Chu Phìn",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Pả Vi",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Mèo Vạc", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Mèo Vạc",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Cán Chu Phìn", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Lũng Pù", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Khâu Vai", "district": "Huyện Mèo Vạc", "province": "Hà Giang" }
+        {
+          "commune": "Xã Cán Chu Phìn",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lũng Pù",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Khâu Vai",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Khâu Vai", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Khâu Vai",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Niêm Tòng", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Niêm Sơn", "district": "Huyện Mèo Vạc", "province": "Hà Giang" }
+        {
+          "commune": "Xã Niêm Tòng",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Niêm Sơn",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Niêm Sơn", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Niêm Sơn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Nậm Ban", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Tát Ngà", "district": "Huyện Mèo Vạc", "province": "Hà Giang" }
+        {
+          "commune": "Xã Nậm Ban",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tát Ngà",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tát Ngà", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Tát Ngà",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Sủng Cháng", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Sủng Thài", "district": "Huyện Mèo Vạc", "province": "Hà Giang" },
-        { "commune": "Xã Thắng Mố", "district": "Huyện Mèo Vạc", "province": "Hà Giang" }
+        {
+          "commune": "Xã Sủng Cháng",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Sủng Thài",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thắng Mố",
+          "district": "Huyện Mèo Vạc",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Thắng Mố", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Thắng Mố",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Phú Lũng", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Na Khê", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Bạch Đích", "district": "Huyện Yên Minh", "province": "Hà Giang" }
+        {
+          "commune": "Xã Phú Lũng",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Na Khê",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bạch Đích",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bạch Đích", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bạch Đích",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Yên Minh", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Lao Và Chải", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Hữu Vinh", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Đông Minh", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Vần Chải", "district": "Huyện Yên Minh", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Yên Minh",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lao Và Chải",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Hữu Vinh",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đông Minh",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Vần Chải",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Yên Minh", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Yên Minh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Ngam La", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Mậu Long", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Mậu Duệ", "district": "Huyện Yên Minh", "province": "Hà Giang" }
+        {
+          "commune": "Xã Ngam La",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Mậu Long",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Mậu Duệ",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Mậu Duệ", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Mậu Duệ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Du Tiến", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Du Già", "district": "Huyện Yên Minh", "province": "Hà Giang" }
+        {
+          "commune": "Xã Du Tiến",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Du Già",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Du Già", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Du Già",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Lũng Hồ", "district": "Huyện Yên Minh", "province": "Hà Giang" },
-        { "commune": "Xã Đường Thượng", "district": "Huyện Yên Minh", "province": "Hà Giang" }
+        {
+          "commune": "Xã Lũng Hồ",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đường Thượng",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Đường Thượng", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Đường Thượng",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thái An", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Đông Hà", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Lùng Tám", "district": "Huyện Quản Bạ", "province": "Hà Giang" }
+        {
+          "commune": "Xã Thái An",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đông Hà",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lùng Tám",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Lùng Tám", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Lùng Tám",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bát Đại Sơn", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Cán Tỷ", "district": "Huyện Quản Bạ", "province": "Hà Giang" }
+        {
+          "commune": "Xã Bát Đại Sơn",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Cán Tỷ",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Cán Tỷ", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Cán Tỷ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thanh Vân", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Nghĩa Thuận", "district": "Huyện Quản Bạ", "province": "Hà Giang" }
+        {
+          "commune": "Xã Thanh Vân",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nghĩa Thuận",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Nghĩa Thuận", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Nghĩa Thuận",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Tam Sơn", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Quyết Tiến", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Quản Bạ", "district": "Huyện Quản Bạ", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Tam Sơn",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Quyết Tiến",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Quản Bạ",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Quản Bạ", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Quản Bạ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Cao Mã Pờ", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Tả Ván", "district": "Huyện Quản Bạ", "province": "Hà Giang" },
-        { "commune": "Xã Tùng Vài", "district": "Huyện Quản Bạ", "province": "Hà Giang" }
+        {
+          "commune": "Xã Cao Mã Pờ",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tả Ván",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tùng Vài",
+          "district": "Huyện Quản Bạ",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tùng Vài", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Tùng Vài",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Phiêng Luông", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Xã Yên Cường", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Xã Phiêng Luông",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Yên Cường",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Yên Cường", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Yên Cường",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đường Âm", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Xã Phú Nam", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Xã Đường Hồng", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Xã Đường Âm",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phú Nam",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đường Hồng",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Đường Hồng", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Đường Hồng",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Yên Phú", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Xã Yên Phong", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Xã Lạc Nông", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Yên Phú",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Yên Phong",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lạc Nông",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bắc Mê", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bắc Mê",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Minh Ngọc", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Xã Thượng Tân", "district": "Huyện Bắc Mê", "province": "Hà Giang" },
-        { "commune": "Một phần Xã Yên Định", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Xã Minh Ngọc",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thượng Tân",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Một phần Xã Yên Định",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Minh Ngọc", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Minh Ngọc",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Ngọc Đường", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Phần còn lại Xã Yên Định", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Xã Ngọc Đường",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Phần còn lại Xã Yên Định",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Ngọc Đường", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Ngọc Đường",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Xín Chải", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Thanh Đức", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Lao Chải", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Xín Chải",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thanh Đức",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Lao Chải",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Lao Chải", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Lao Chải",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Phương Tiến", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Thanh Thủy", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Phương Tiến",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thanh Thủy",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Thanh Thủy", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Thanh Thủy",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Kim Thạch", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Kim Linh", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Phú Linh", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Kim Thạch",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Kim Linh",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phú Linh",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Phú Linh", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Phú Linh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Ngọc Linh", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Trung Thành", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Linh Hồ", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Ngọc Linh",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Trung Thành",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Linh Hồ",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Linh Hồ", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Linh Hồ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Ngọc Minh", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Bạch Ngọc", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Ngọc Minh",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bạch Ngọc",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bạch Ngọc", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bạch Ngọc",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Vị Xuyên", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Thị trấn Nông trường Việt Lâm", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Xã Đạo Đức", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Một phần Xã Việt Lâm", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Vị Xuyên",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Thị trấn Nông trường Việt Lâm",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đạo Đức",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Một phần Xã Việt Lâm",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Vị Xuyên", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Vị Xuyên",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Quảng Ngần", "district": "Huyện Vị Xuyên", "province": "Hà Giang" },
-        { "commune": "Phần còn lại Xã Việt Lâm", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Quảng Ngần",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Phần còn lại Xã Việt Lâm",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Việt Lâm", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Việt Lâm",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Thành", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Tân Lập", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Tân Quang", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Xã Tân Thành",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tân Lập",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tân Quang",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tân Quang", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Tân Quang",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Đồng Tiến", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Thượng Bình", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Đồng Tâm", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Xã Đồng Tiến",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thượng Bình",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đồng Tâm",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Đồng Tâm", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Đồng Tâm",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Hữu Sản", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Đức Xuân", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Liên Hiệp", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Xã Hữu Sản",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đức Xuân",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Liên Hiệp",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Liên Hiệp", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Liên Hiệp",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Kim Ngọc", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Vô Điếm", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Bằng Hành", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Xã Kim Ngọc",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Vô Điếm",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bằng Hành",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bằng Hành", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bằng Hành",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Việt Quang", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Quang Minh", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Việt Vinh", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Việt Quang",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Quang Minh",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Việt Vinh",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bắc Quang", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bắc Quang",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Việt Hồng", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Tiên Kiều", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Hùng An", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Xã Việt Hồng",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tiên Kiều",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Hùng An",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Hùng An", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Hùng An",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Vĩnh Tuy", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Vĩnh Hảo", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Đông Thành", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Vĩnh Tuy",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Vĩnh Hảo",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đông Thành",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Vĩnh Tuy", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Vĩnh Tuy",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Vĩnh Phúc", "district": "Huyện Bắc Quang", "province": "Hà Giang" },
-        { "commune": "Xã Đồng Yên", "district": "Huyện Bắc Quang", "province": "Hà Giang" }
+        {
+          "commune": "Xã Vĩnh Phúc",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đồng Yên",
+          "district": "Huyện Bắc Quang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Đồng Yên", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Đồng Yên",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Vĩ Thượng", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Hương Sơn", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Tiên Yên", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Xã Vĩ Thượng",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Hương Sơn",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tiên Yên",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tiên Yên", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Tiên Yên",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Nà Khương", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Xuân Giang", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Xã Nà Khương",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Xuân Giang",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Xuân Giang", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Xuân Giang",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Yên Hà", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Bằng Lang", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Xã Yên Hà",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bằng Lang",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bằng Lang", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bằng Lang",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bản Rịa", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Yên Thành", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Xã Bản Rịa",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Yên Thành",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Yên Thành", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Yên Thành",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Yên Bình", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Tân Nam", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Yên Bình",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tân Nam",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Quang Bình", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Quang Bình",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Bắc", "district": "Huyện Quang Bình", "province": "Hà Giang" },
-        { "commune": "Xã Tân Trịnh", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Xã Tân Bắc",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tân Trịnh",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tân Trịnh", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Tân Trịnh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Xuân Minh", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Thông Nguyên", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Xuân Minh",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thông Nguyên",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Thông Nguyên", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Thông Nguyên",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Nậm Khòa", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Nam Sơn", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Hồ Thầu", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Nậm Khòa",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nam Sơn",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Hồ Thầu",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Hồ Thầu", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Hồ Thầu",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Nậm Ty", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Tả Sử Choóng", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Nậm Dịch", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Nậm Ty",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tả Sử Choóng",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nậm Dịch",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Nậm Dịch", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Nậm Dịch",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Tân Tiến", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Bản Nhùng", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Túng Sán", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Tân Tiến",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bản Nhùng",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Túng Sán",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tân Tiến", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Tân Tiến",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Vinh Quang", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Bản Luốc", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Ngàm Đăng Vài", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Tụ Nhân", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Đản Ván", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Vinh Quang",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bản Luốc",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Ngàm Đăng Vài",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tụ Nhân",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Đản Ván",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Hoàng Su Phì", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Hoàng Su Phì",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Pố Lồ", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Thèn Chu Phìn", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Thàng Tín", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Pố Lồ",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thèn Chu Phìn",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thàng Tín",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Thàng Tín", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Thàng Tín",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Bản Phùng", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Chiến Phố", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Bản Máy", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Bản Phùng",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Chiến Phố",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bản Máy",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Bản Máy", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Bản Máy",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Sán Sả Hồ", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Nàng Đôn", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" },
-        { "commune": "Xã Pờ Ly Ngài", "district": "Huyện Hoàng Su Phì", "province": "Hà Giang" }
+        {
+          "commune": "Xã Sán Sả Hồ",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nàng Đôn",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Pờ Ly Ngài",
+          "district": "Huyện Hoàng Su Phì",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Pờ Ly Ngài", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Pờ Ly Ngài",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Thèn Phàng", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Nàn Xỉn", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Bản Díu", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Chí Cà", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Xín Mần", "district": "Huyện Xín Mần", "province": "Hà Giang" }
+        {
+          "commune": "Xã Thèn Phàng",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nàn Xỉn",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bản Díu",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Chí Cà",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Xín Mần",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Xín Mần", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Xín Mần",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Thị trấn Cốc Pài", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Nàn Ma", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Bản Ngò", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Pà Vầy Sủ", "district": "Huyện Xín Mần", "province": "Hà Giang" }
+        {
+          "commune": "Thị trấn Cốc Pài",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nàn Ma",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Bản Ngò",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Pà Vầy Sủ",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Pà Vầy Sủ", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Pà Vầy Sủ",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Chế Là", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Tả Nhìu", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Nấm Dẩn", "district": "Huyện Xín Mần", "province": "Hà Giang" }
+        {
+          "commune": "Xã Chế Là",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Tả Nhìu",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Nấm Dẩn",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Nấm Dẩn", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Nấm Dẩn",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Cốc Rế", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Thu Tà", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Trung Thịnh", "district": "Huyện Xín Mần", "province": "Hà Giang" }
+        {
+          "commune": "Xã Cốc Rế",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Thu Tà",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Trung Thịnh",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Trung Thịnh", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Trung Thịnh",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Nà Chì", "district": "Huyện Xín Mần", "province": "Hà Giang" },
-        { "commune": "Xã Khuôn Lùng", "district": "Huyện Xín Mần", "province": "Hà Giang" }
+        {
+          "commune": "Xã Nà Chì",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Khuôn Lùng",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Khuôn Lùng", "province": "Hà Giang" }
+      "to": {
+        "commune": "Xã Khuôn Lùng",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Nguyễn Trãi", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Xã Phương Thiện", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Xã Phương Độ", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Một phần Phường Quang Trung", "district": "Thành phố Hà Giang", "province": "Hà Giang" }
+        {
+          "commune": "Phường Nguyễn Trãi",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phương Thiện",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phương Độ",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Một phần Phường Quang Trung",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Phường Hà Giang 1", "province": "Hà Giang" }
+      "to": {
+        "commune": "Phường Hà Giang 1",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Phường Ngọc Hà", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Phường Trần Phú", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Phường Minh Khai", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Phần còn lại Phường Quang Trung", "district": "Thành phố Hà Giang", "province": "Hà Giang" },
-        { "commune": "Xã Phong Quang", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Phường Ngọc Hà",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Phường Trần Phú",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Phường Minh Khai",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Phần còn lại Phường Quang Trung",
+          "district": "Thành phố Hà Giang",
+          "province": "Hà Giang"
+        },
+        {
+          "commune": "Xã Phong Quang",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Phường Hà Giang 2", "province": "Hà Giang" }
+      "to": {
+        "commune": "Phường Hà Giang 2",
+        "province": "Tuyên Quang"
+      }
     },
     {
       "from": [
-        { "commune": "Xã Minh Sơn", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Xã Minh Sơn",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Minh Sơn", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Minh Sơn",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Minh Tân", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Minh Tân",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Minh Tân", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Minh Tân",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Thuận Hòa", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Thuận Hòa",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Thuận Hòa", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Thuận Hòa",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Tùng Bá", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Tùng Bá",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tùng Bá", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Tùng Bá",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Thượng Sơn", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Thượng Sơn",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Thượng Sơn", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Thượng Sơn",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Cao Bồ", "district": "Huyện Vị Xuyên", "province": "Hà Giang" }
+        {
+          "commune": "Xã Cao Bồ",
+          "district": "Huyện Vị Xuyên",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Cao Bồ", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Cao Bồ",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Ngọc Long", "district": "Huyện Yên Minh", "province": "Hà Giang" }
+        {
+          "commune": "Xã Ngọc Long",
+          "district": "Huyện Yên Minh",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Ngọc Long", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Ngọc Long",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Giáp Trung", "district": "Huyện Bắc Mê", "province": "Hà Giang" }
+        {
+          "commune": "Xã Giáp Trung",
+          "district": "Huyện Bắc Mê",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Giáp Trung", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Giáp Trung",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Tiên Nguyên", "district": "Huyện Quang Bình", "province": "Hà Giang" }
+        {
+          "commune": "Xã Tiên Nguyên",
+          "district": "Huyện Quang Bình",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Tiên Nguyên", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Tiên Nguyên",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     },
     {
       "from": [
-        { "commune": "Xã Quảng Nguyên", "district": "Huyện Xín Mần", "province": "Hà Giang" }
+        {
+          "commune": "Xã Quảng Nguyên",
+          "district": "Huyện Xín Mần",
+          "province": "Hà Giang"
+        }
       ],
-      "to": { "commune": "Xã Quảng Nguyên", "province": "Hà Giang" },
+      "to": {
+        "commune": "Xã Quảng Nguyên",
+        "province": "Tuyên Quang"
+      },
       "note": "Xã không thực hiện sắp xếp"
     }
   ]

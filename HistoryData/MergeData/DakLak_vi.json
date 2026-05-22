@@ -2,809 +2,2291 @@
   "Đắk Lắk": [
     {
       "from": [
-        { "commune": "xã Hòa Phú", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Xuân", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Khánh", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Hòa Phú", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Siên", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Drông", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Drông", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ea Súp", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư M’Lan", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Lê", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Súp", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Jlơi", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Kbang", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Rốk", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Rốk", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ya Tờ Mốt", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Bung", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Bung", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Huar", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Tân Hòa", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Wer", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Wer", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Bar", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cuôr Knia", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Nuôl", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Nuôl", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Kuêh", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Kiết", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Kiết", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Quảng Hiệp", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea M’nang", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea M’Droh", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea M’Droh", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Quảng Phú", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "thị trấn Ea Pốk", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Suê", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Quảng Tiến", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Quảng Phú", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Drơng", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cuôr Đăng", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cuôr Đăng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea H’đing", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Kpam", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư M’gar", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cư M’gar", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Tar", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Dliê Mnông", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Tul", "district": "huyện Cư M'gar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Tul", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Pơng Drang", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Ngai", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Tân Lập", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Pơng Drang", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Né", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Chứ Kbô", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Búk", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Sin", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Pơng", "district": "huyện Krông Búk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cư Pơng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Nam", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Tir", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Khăl", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Khăl", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ea Drăng", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Ral", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Dliê Yang", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Drăng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư A Mung", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Mốt", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Wy", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Wy", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Sol", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Hiao", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Hiao", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Krông Năng", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Phú Lộc", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Hồ", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Năng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Tóh", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Tân", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Dliê Ya", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Dliê Ya", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Tam", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Klông", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Tam Giang", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Tam Giang", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Púk", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Dăh", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Phú Xuân", "district": "huyện Krông Năng", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Phú Xuân", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Phước An", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa An", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Yông", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Tiến", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Pắc", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hòa Đông", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Kênh", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Knuếc", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Knuếc", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Yiêng", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Uy", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Tân Tiến", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Tân Tiến", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Kuăng", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Hiu", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Phê", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Phê", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Krông Búk", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Kly", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Kly", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ea Kar", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Huê", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Đar", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Kmút", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Ni", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Xuân Phú", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Kar", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Elang", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Ô", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Ô", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Ea Knốp", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Tih", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Sô", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Sar", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Knốp", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Bông", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Yang", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cư Yang", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Prông", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Păl", "district": "huyện Ea Kar", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Păl", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn M’Drắk", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Krông Jing", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Lai", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã M’Drắk", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea H’Mlay", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea M’Doal", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Riêng", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Riêng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Króa", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư M’ta", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cư M’ta", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư San", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Krông Á", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Á", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Pil", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Prao", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cư Prao", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Yang Reh", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Trul", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Sơn", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Hòa Sơn", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hòa Thành", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Kty", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Dang Kang", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Dang Kang", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Krông Kmar", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Lễ", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Khuê Ngọc Điền", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Bông", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Drăm", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Yang Mao", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Yang Mao", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hòa Phong", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Pui", "district": "huyện Krông Bông", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Cư Pui", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Liên Sơn", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Yang Tao", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Bông Krang", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Liên Sơn Lắk", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Buôn Tría", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Buôn Triết", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Đắk Liêng", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Đắk Liêng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Rbin", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Nam Ka", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Nam Ka", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Đắk Nuê", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Đắk Phơi", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Đắk Phơi", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Cư Êwi", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Hu", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Ning", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Ning", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Hòa Hiệp", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Dray Bhăng", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" },
-        { "commune": "một phần xã Ea Bhốk", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Dray Bhăng", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Tiêu", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Ktur", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phần còn lại xã Ea Bhốk", "district": "huyện Cư Kuin", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Ktur", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "thị trấn Buôn Trấp", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Bình Hòa", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Quảng Điền", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Ana", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Băng A Drênh", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Dur Kmăl", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Dur Kmăl", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Bông", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Dray Sáp", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Na", "district": "huyện Krông Ana", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Na", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Thành Công", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Tân Tiến", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Tân Thành", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Tự An", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Tân Lợi", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Êbur", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Tân An", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Tu", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Thuận", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Tân An", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Tân Hòa", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Tân Lập", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Hòa Thắng", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Tân Lập", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Khánh Xuân", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Thành Nhất", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Thành Nhất", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Ea Tam", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Ea Kao", "district": "thành phố Buôn Ma Thuột", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Ea Kao", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Đạt Hiếu", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường An Bình", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường An Lạc", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Thiện An", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Thống Nhất", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "phường Đoàn Kết", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Buôn Hồ", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "phường Bình Tân", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Bình Thuận", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" },
-        { "commune": "xã Cư Bao", "district": "thị xã Buôn Hồ", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "phường Cư Bao", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Krông Na", "district": "huyện Buôn Đôn", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Buôn Đôn", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea H’Leo", "district": "huyện Ea H’Leo", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea H’Leo", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ea Trang", "district": "huyện M'Đrắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ea Trang", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Lốp", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ia Lốp", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Ia Rvê", "district": "huyện Ea Súp", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Ia Rvê", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Krông Nô", "district": "huyện Lắk", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Krông Nô", "province": "tỉnh Đắk Lắk" }
-    },
-    {
-      "from": [
-        { "commune": "xã Vụ Bổn", "district": "huyện Krông Pắc", "province": "tỉnh Đắk Lắk" }
-      ],
-      "to": { "commune": "xã Vụ Bổn", "province": "tỉnh Đắk Lắk" }
+        {
+          "commune": "xã Hòa Phú",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Xuân",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Khánh",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Hòa Phú",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Siên",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Drông",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Drông",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ea Súp",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư M’Lan",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Lê",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Súp",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Jlơi",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Kbang",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Rốk",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Rốk",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ya Tờ Mốt",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Bung",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Bung",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Huar",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Tân Hòa",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Wer",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Wer",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Bar",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cuôr Knia",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Nuôl",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Nuôl",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Kuêh",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Kiết",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Kiết",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Quảng Hiệp",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea M’nang",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea M’Droh",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea M’Droh",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Quảng Phú",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "thị trấn Ea Pốk",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Suê",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Quảng Tiến",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Quảng Phú",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Drơng",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cuôr Đăng",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cuôr Đăng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea H’đing",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Kpam",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư M’gar",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cư M’gar",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Tar",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Dliê Mnông",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Tul",
+          "district": "huyện Cư M'gar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Tul",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Pơng Drang",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Ngai",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Tân Lập",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Pơng Drang",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Né",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Chứ Kbô",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Búk",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Sin",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Pơng",
+          "district": "huyện Krông Búk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cư Pơng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Nam",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Tir",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Khăl",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Khăl",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ea Drăng",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Ral",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Dliê Yang",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Drăng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư A Mung",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Mốt",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Wy",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Wy",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Sol",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Hiao",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Hiao",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Krông Năng",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Phú Lộc",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Hồ",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Năng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Tóh",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Tân",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Dliê Ya",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Dliê Ya",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Tam",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Klông",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Tam Giang",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Tam Giang",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Púk",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Dăh",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Phú Xuân",
+          "district": "huyện Krông Năng",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Phú Xuân",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Phước An",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa An",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Yông",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Tiến",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Pắc",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hòa Đông",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Kênh",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Knuếc",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Knuếc",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Yiêng",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Uy",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Tân Tiến",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Tân Tiến",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Kuăng",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Hiu",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Phê",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Phê",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Krông Búk",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Kly",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Kly",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ea Kar",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Huê",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Đar",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Kmút",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Ni",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Xuân Phú",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Kar",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Elang",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Ô",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Ô",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Ea Knốp",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Tih",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Sô",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Sar",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Knốp",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Bông",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Yang",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cư Yang",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Prông",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Păl",
+          "district": "huyện Ea Kar",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Păl",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn M’Drắk",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Krông Jing",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Lai",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã M’Drắk",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea H’Mlay",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea M’Doal",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Riêng",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Riêng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Króa",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư M’ta",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cư M’ta",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư San",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Krông Á",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Á",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Pil",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Prao",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cư Prao",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Yang Reh",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Trul",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Sơn",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Hòa Sơn",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hòa Thành",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Kty",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Dang Kang",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Dang Kang",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Krông Kmar",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Lễ",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Khuê Ngọc Điền",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Bông",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Drăm",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Yang Mao",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Yang Mao",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hòa Phong",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Pui",
+          "district": "huyện Krông Bông",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Cư Pui",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Liên Sơn",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Yang Tao",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Bông Krang",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Liên Sơn Lắk",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Buôn Tría",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Buôn Triết",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Đắk Liêng",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Đắk Liêng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Rbin",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Nam Ka",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Nam Ka",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Đắk Nuê",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Đắk Phơi",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Đắk Phơi",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Cư Êwi",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Hu",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Ning",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Ning",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Hòa Hiệp",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Dray Bhăng",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "một phần xã Ea Bhốk",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Dray Bhăng",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Tiêu",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Ktur",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phần còn lại xã Ea Bhốk",
+          "district": "huyện Cư Kuin",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Ktur",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "thị trấn Buôn Trấp",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Bình Hòa",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Quảng Điền",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Ana",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Băng A Drênh",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Dur Kmăl",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Dur Kmăl",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Bông",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Dray Sáp",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Na",
+          "district": "huyện Krông Ana",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Na",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Thành Công",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Tân Tiến",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Tân Thành",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Tự An",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Tân Lợi",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Êbur",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Buôn Ma Thuột",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Tân An",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Tu",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Thuận",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Tân An",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Tân Hòa",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Tân Lập",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Hòa Thắng",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Tân Lập",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Khánh Xuân",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Thành Nhất",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Thành Nhất",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Ea Tam",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Ea Kao",
+          "district": "thành phố Buôn Ma Thuột",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Ea Kao",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Đạt Hiếu",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường An Bình",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường An Lạc",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Thiện An",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Thống Nhất",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "phường Đoàn Kết",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Buôn Hồ",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "phường Bình Tân",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Bình Thuận",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        },
+        {
+          "commune": "xã Cư Bao",
+          "district": "thị xã Buôn Hồ",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "phường Cư Bao",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Krông Na",
+          "district": "huyện Buôn Đôn",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Buôn Đôn",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea H’Leo",
+          "district": "huyện Ea H’Leo",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea H’Leo",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ea Trang",
+          "district": "huyện M'Đrắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ea Trang",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Lốp",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Lốp",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Ia Rvê",
+          "district": "huyện Ea Súp",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Ia Rvê",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Krông Nô",
+          "district": "huyện Lắk",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Krông Nô",
+        "province": "tỉnh Đắk Lắk"
+      }
+    },
+    {
+      "from": [
+        {
+          "commune": "xã Vụ Bổn",
+          "district": "huyện Krông Pắc",
+          "province": "tỉnh Đắk Lắk"
+        }
+      ],
+      "to": {
+        "commune": "xã Vụ Bổn",
+        "province": "tỉnh Đắk Lắk"
+      }
     }
   ],
   "Phú Yên": [
     {
       "from": [
-        { "commune": "xã Xuân Lâm", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Thọ 1", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Thọ 2", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Xuân Lâm",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Thọ 1",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Thọ 2",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Xuân Thọ", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Xuân Thọ",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Bình", "district": "huyện Sông Cầu", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Cảnh", "district": "huyện Sông Cầu", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Xuân Bình",
+          "district": "huyện Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Cảnh",
+          "district": "huyện Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Xuân Cảnh", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Xuân Cảnh",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Hải", "district": "huyện Sông Cầu", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Lộc", "district": "huyện Sông Cầu", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Xuân Hải",
+          "district": "huyện Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Lộc",
+          "district": "huyện Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Xuân Lộc", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Xuân Lộc",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Tâm", "district": "huyện Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Xuân Đông", "district": "huyện Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Xuân Nam", "district": "huyện Đông Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Hòa Tâm",
+          "district": "huyện Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Xuân Đông",
+          "district": "huyện Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Xuân Nam",
+          "district": "huyện Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Hòa Xuân", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Hòa Xuân",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Chí Thạnh", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Dân", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Định", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "thị trấn Chí Thạnh",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Dân",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Định",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Tuy An Bắc", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Tuy An Bắc",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Ninh Đông", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Ninh Tây", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Thạch", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã An Ninh Đông",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Ninh Tây",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Thạch",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Tuy An Đông", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Tuy An Đông",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Hiệp", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Hòa Hải", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Cư", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã An Hiệp",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Hòa Hải",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Cư",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Ô Loan", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Ô Loan",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Thọ", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Mỹ", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Chấn", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã An Thọ",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Mỹ",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Chấn",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Tuy An Nam", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Tuy An Nam",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Nghiệp", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Xuân", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" },
-        { "commune": "xã An Lĩnh", "district": "huyện Tuy An", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã An Nghiệp",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Xuân",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã An Lĩnh",
+          "district": "huyện Tuy An",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Tuy An Tây", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Tuy An Tây",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phú Hòa", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Thắng", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Định Đông", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Định Tây", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Hội", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần xã Hòa An", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "thị trấn Phú Hòa",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Thắng",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Định Đông",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Định Tây",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Hội",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần xã Hòa An",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Phú Hòa 1", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Phú Hòa 1",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Quang Nam", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Quang Bắc", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần xã Hòa Trị", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Hòa Quang Nam",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Quang Bắc",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần xã Hòa Trị",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Phú Hòa 2", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Phú Hòa 2",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Phú Thứ", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Phong", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Tân Tây", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần xã Hòa Bình 1", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "thị trấn Phú Thứ",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Phong",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Tân Tây",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần xã Hòa Bình 1",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Tây Hòa", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Tây Hòa",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Đồng", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Thịnh", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Hòa Đồng",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Thịnh",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Hòa Thịnh", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Hòa Thịnh",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Mỹ Đông", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Mỹ Tây", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Hòa Mỹ Đông",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Mỹ Tây",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Hòa Mỹ", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Hòa Mỹ",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hòa Phú", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Thành Đông", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Thành Tây", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Hòa Phú",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Thành Đông",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Thành Tây",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Sơn Thành", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Sơn Thành",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Củng Sơn", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Suối Bạc", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Hà", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Nguyên", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Phước", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "thị trấn Củng Sơn",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Suối Bạc",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Hà",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Nguyên",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Phước",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Sơn Hòa", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Sơn Hòa",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Long", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Xuân", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sơn Định", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Sơn Long",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Xuân",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sơn Định",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Vân Hòa", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Vân Hòa",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Hội", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Cà Lúi", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Phước Tân", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Sơn Hội",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Cà Lúi",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Phước Tân",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Tây Sơn", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Tây Sơn",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ea Chà Rang", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Krông Pa", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Suối Trai", "district": "huyện Sơn Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Ea Chà Rang",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Krông Pa",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Suối Trai",
+          "district": "huyện Sơn Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Suối Trai", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Suối Trai",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ea Lâm", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Ea Ly", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần xã Ea Bar", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Ea Lâm",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Ea Ly",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần xã Ea Bar",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Ea Ly", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Ea Ly",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ea Bá", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại xã Ea Bar", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Ea Bá",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại xã Ea Bar",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Ea Bá", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Ea Bá",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Giang", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Đức Bình Đông", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Đức Bình Tây", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần xã Ea Bia", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Sơn Giang",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Đức Bình Đông",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Đức Bình Tây",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần xã Ea Bia",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Đức Bình", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Đức Bình",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Hai Riêng", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Ea Trol", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Sông Hinh", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại xã Ea Bia", "district": "huyện Sông Hinh", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "thị trấn Hai Riêng",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Ea Trol",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Sông Hinh",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại xã Ea Bia",
+          "district": "huyện Sông Hinh",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Sông Hinh", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Sông Hinh",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đa Lộc", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Lãnh", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Đa Lộc",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Lãnh",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Xuân Lãnh", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Xuân Lãnh",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Quang 1", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Phú Mỡ", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Xuân Quang 1",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Phú Mỡ",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Phú Mỡ", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Phú Mỡ",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã Xuân Quang 3", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Phước", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã Xuân Quang 3",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Phước",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Xuân Phước", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Xuân Phước",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn La Hai", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Sơn Nam", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Sơn Bắc", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Long", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Quang 2", "district": "huyện Đồng Xuân", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "thị trấn La Hai",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Sơn Nam",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Sơn Bắc",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Long",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Quang 2",
+          "district": "huyện Đồng Xuân",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "xã Đồng Xuân", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "xã Đồng Xuân",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "phường Phú Đông", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phường Phú Lâm", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phường Phú Thạnh", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Thành", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần phường Hòa Hiệp Bắc", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại xã Hòa Bình 1", "district": "huyện Tây Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "phường Phú Đông",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phường Phú Lâm",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phường Phú Thạnh",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Thành",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần phường Hòa Hiệp Bắc",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại xã Hòa Bình 1",
+          "district": "huyện Tây Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Phú Yên", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Phú Yên",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "Phường 1", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "Phường 2", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "Phường 4", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "Phường 5", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "Phường 7", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "một phần Phường 9", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại xã Hòa An", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại xã Hòa Trị", "district": "huyện Phú Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "Phường 1",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "Phường 2",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "Phường 4",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "Phường 5",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "Phường 7",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "một phần Phường 9",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại xã Hòa An",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại xã Hòa Trị",
+          "district": "huyện Phú Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Tuy Hòa", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Tuy Hòa",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "xã An Phú", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Kiến", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Bình Kiến", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại Phường 9", "district": "thành phố Tuy Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "xã An Phú",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Kiến",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Bình Kiến",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại Phường 9",
+          "district": "thành phố Tuy Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Bình Kiến", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Bình Kiến",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "phường Xuân Thành", "district": "thị xã Sông Cầu", "province": "tỉnh Phú Yên" },
-        { "commune": "phường Xuân Đài", "district": "thị xã Sông Cầu", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "phường Xuân Thành",
+          "district": "thị xã Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phường Xuân Đài",
+          "district": "thị xã Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Xuân Đài", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Xuân Đài",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "phường Xuân Yên", "district": "thị xã Sông Cầu", "province": "tỉnh Phú Yên" },
-        { "commune": "phường Xuân Phú", "district": "thị xã Sông Cầu", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Phương", "district": "thị xã Sông Cầu", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Xuân Thịnh", "district": "thị xã Sông Cầu", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "phường Xuân Yên",
+          "district": "thị xã Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phường Xuân Phú",
+          "district": "thị xã Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Phương",
+          "district": "thị xã Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Xuân Thịnh",
+          "district": "thị xã Sông Cầu",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Sông Cầu", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Sông Cầu",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hòa Vinh", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phường Hòa Xuân Tây", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "xã Hòa Tân Đông", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "phường Hòa Vinh",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phường Hòa Xuân Tây",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "xã Hòa Tân Đông",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Đông Hòa", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Đông Hòa",
+        "province": "tỉnh Đắk Lắk"
+      }
     },
     {
       "from": [
-        { "commune": "phường Hòa Hiệp Trung", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phường Hòa Hiệp Nam", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" },
-        { "commune": "phần còn lại phường Hòa Hiệp Bắc", "district": "thị xã Đông Hòa", "province": "tỉnh Phú Yên" }
+        {
+          "commune": "phường Hòa Hiệp Trung",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phường Hòa Hiệp Nam",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        },
+        {
+          "commune": "phần còn lại phường Hòa Hiệp Bắc",
+          "district": "thị xã Đông Hòa",
+          "province": "tỉnh Phú Yên"
+        }
       ],
-      "to": { "commune": "phường Hòa Hiệp", "province": "tỉnh Phú Yên" }
+      "to": {
+        "commune": "phường Hòa Hiệp",
+        "province": "tỉnh Đắk Lắk"
+      }
     }
   ]
 }

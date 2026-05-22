@@ -2,444 +2,1256 @@
   "Cao Bằng": [
     {
       "from": [
-        { "commune": "xã Thạch Lâm", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Quảng Lâm", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Thạch Lâm",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Quảng Lâm",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Quảng Lâm", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Quảng Lâm",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nam Cao", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Nam Quang", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Nam Cao",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Nam Quang",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Nam Quang", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Nam Quang",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Vĩnh Quang", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lý Bôn", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Vĩnh Quang",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lý Bôn",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Lý Bôn", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Lý Bôn",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Pác Miầu", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Mông Ân", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Vĩnh Phong", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Pác Miầu",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Mông Ân",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Vĩnh Phong",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Bảo Lâm", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Bảo Lâm",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thái Học", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thái Sơn", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Yên Thổ", "district": "huyện Bảo Lâm", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Thái Học",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thái Sơn",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Yên Thổ",
+          "district": "huyện Bảo Lâm",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Yên Thổ", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Yên Thổ",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Sơn Lập", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Sơn Lộ", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Sơn Lập",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Sơn Lộ",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Sơn Lộ", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Sơn Lộ",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hưng Thịnh", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Kim Cúc", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hưng Đạo", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Hưng Thịnh",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Kim Cúc",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hưng Đạo",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Hưng Đạo", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Hưng Đạo",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Bảo Lạc", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Bảo Toàn", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hồng Trị", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Bảo Lạc",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Bảo Toàn",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hồng Trị",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Bảo Lạc", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Bảo Lạc",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Hạnh", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cốc Pàng", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Đức Hạnh",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cốc Pàng",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Cốc Pàng", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Cốc Pàng",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thượng Hà", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cô Ba", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Thượng Hà",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cô Ba",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Cô Ba", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Cô Ba",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phan Thanh", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Khánh Xuân", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Phan Thanh",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Khánh Xuân",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Khánh Xuân", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Khánh Xuân",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hồng An", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Xuân Trường", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Hồng An",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Xuân Trường",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Xuân Trường", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Xuân Trường",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đình Phùng", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Huy Giáp", "district": "huyện Bảo Lạc", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Đình Phùng",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Huy Giáp",
+          "district": "huyện Bảo Lạc",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Huy Giáp", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Huy Giáp",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Yên Lạc", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Ca Thành", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Yên Lạc",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Ca Thành",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Ca Thành", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Ca Thành",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Phan Thanh", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Mai Long", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Phan Thanh",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Mai Long",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Phan Thanh", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Phan Thanh",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Thành", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thành Công", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Quang Thành",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thành Công",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Thành Công", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Thành Công",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hưng Đạo", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hoa Thám", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Tam Kim", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Hưng Đạo",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hoa Thám",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Tam Kim",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Tam Kim", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Tam Kim",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nguyên Bình", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thể Dục", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Vũ Minh", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Nguyên Bình",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thể Dục",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Vũ Minh",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Nguyên Bình", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Nguyên Bình",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tĩnh Túc", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Triệu Nguyên", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Vũ Nông", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Tĩnh Túc",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Triệu Nguyên",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Vũ Nông",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Tĩnh Túc", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Tĩnh Túc",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trương Lương", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Minh Tâm", "district": "huyện Nguyên Bình", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Trương Lương",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Minh Tâm",
+          "district": "huyện Nguyên Bình",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Minh Tâm", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Minh Tâm",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọc Động", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Yên Sơn", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thanh Long", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Ngọc Động",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Yên Sơn",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thanh Long",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Thanh Long", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Thanh Long",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cần Nông", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lương Thông", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cần Yên", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Cần Nông",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lương Thông",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cần Yên",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Cần Yên", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Cần Yên",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thông Nông", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đa Thông", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lương Can", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Thông Nông",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đa Thông",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lương Can",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Thông Nông", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Thông Nông",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Xuân Hòa", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Quý Quân", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Sóc Hà", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Trường Hà", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Xuân Hòa",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Quý Quân",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Sóc Hà",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Trường Hà",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Trường Hà", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Trường Hà",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hồng Sỹ", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Ngọc Đào", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Mã Ba", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Hồng Sỹ",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Ngọc Đào",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Mã Ba",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Hà Quảng", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Hà Quảng",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thượng Thôn", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lũng Nặm", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Thượng Thôn",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lũng Nặm",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Lũng Nặm", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Lũng Nặm",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Nội Thôn", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cải Viên", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Tổng Cọt", "district": "huyện Hà Quảng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Nội Thôn",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cải Viên",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Tổng Cọt",
+          "district": "huyện Hà Quảng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Tổng Cọt", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Tổng Cọt",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Long", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Dân Chủ", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Nam Tuấn", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Đức Long",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Dân Chủ",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Nam Tuấn",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Nam Tuấn", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Nam Tuấn",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Nước Hai", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đại Tiến", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hồng Việt", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Nước Hai",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đại Tiến",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hồng Việt",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Hòa An", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Hòa An",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Thịnh Vượng", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Bình Dương", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Bạch Đằng", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Thịnh Vượng",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Bình Dương",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Bạch Đằng",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Bạch Đằng", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Bạch Đằng",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Trung", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Ngũ Lão", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Nguyễn Huệ", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Quang Trung",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Ngũ Lão",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Nguyễn Huệ",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Nguyễn Huệ", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Nguyễn Huệ",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Trọng", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Minh Khai", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Quang Trọng",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Minh Khai",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Minh Khai", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Minh Khai",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Thông", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Canh Tân", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Đức Thông",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Canh Tân",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Canh Tân", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Canh Tân",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hồng Nam", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thái Cường", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Kim Đồng", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Hồng Nam",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thái Cường",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Kim Đồng",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Kim Đồng", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Kim Đồng",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Tiên Thành", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Vân Trình", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lê Lai", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Tiên Thành",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Vân Trình",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lê Lai",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Thạch An", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Thạch An",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Đông Khê", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đức Xuân", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Trọng Con", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Đông Khê",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đức Xuân",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Trọng Con",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Đông Khê", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Đông Khê",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Long", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thụy Hùng", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lê Lợi", "district": "huyện Thạch An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Đức Long",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thụy Hùng",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lê Lợi",
+          "district": "huyện Thạch An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Đức Long", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Đức Long",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Tà Lùng", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "thị trấn Hòa Thuận", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Mỹ Hưng", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đại Sơn", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Tà Lùng",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "thị trấn Hòa Thuận",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Mỹ Hưng",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đại Sơn",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Phục Hòa", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Phục Hòa",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Hồng Quang", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cách Linh", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Bế Văn Đàn", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Hồng Quang",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cách Linh",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Bế Văn Đàn",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Bế Văn Đàn", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Bế Văn Đàn",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quảng Hưng", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cai Bộ", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Độc Lập", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Quảng Hưng",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cai Bộ",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Độc Lập",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Độc Lập", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Độc Lập",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Quảng Uyên", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Phi Hải", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Phúc Sen", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Chí Thảo", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Quảng Uyên",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Phi Hải",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Phúc Sen",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Chí Thảo",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Quảng Uyên", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Quảng Uyên",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọc Động", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Tự Do", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hạnh Phúc", "district": "huyện Quảng Hòa", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Ngọc Động",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Tự Do",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hạnh Phúc",
+          "district": "huyện Quảng Hòa",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Hạnh Phúc", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Hạnh Phúc",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Vinh", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Quang Hán", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Quang Vinh",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Quang Hán",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Quang Hán", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Quang Hán",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trà Lĩnh", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cao Chương", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Quốc Toản", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Trà Lĩnh",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cao Chương",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Quốc Toản",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Trà Lĩnh", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Trà Lĩnh",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Quang Trung", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Tri Phương", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Xuân Nội", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Quang Trung",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Tri Phương",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Xuân Nội",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Quang Trung", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Quang Trung",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Trung Phúc", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Cao Thăng", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đoài Dương", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Trung Phúc",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Cao Thăng",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đoài Dương",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Đoài Dương", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Đoài Dương",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Trùng Khánh", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đức Hồng", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lăng Hiếu", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Khâm Thành", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Trùng Khánh",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đức Hồng",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lăng Hiếu",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Khâm Thành",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Trùng Khánh", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Trùng Khánh",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Chí Viễn", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Phong Châu", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đàm Thủy", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Chí Viễn",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Phong Châu",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đàm Thủy",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Đàm Thủy", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Đàm Thủy",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Ngọc Côn", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Ngọc Khê", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Phong Nặm", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đình Phong", "district": "huyện Trùng Khánh", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Ngọc Côn",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Ngọc Khê",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Phong Nặm",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đình Phong",
+          "district": "huyện Trùng Khánh",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Đình Phong", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Đình Phong",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "thị trấn Thanh Nhật", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thống Nhất", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thị Hoa", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "thị trấn Thanh Nhật",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thống Nhất",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thị Hoa",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Hạ Lang", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Hạ Lang",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Minh Long", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Đồng Loan", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lý Quốc", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Minh Long",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Đồng Loan",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lý Quốc",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Lý Quốc", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Lý Quốc",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Cô Ngân", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã An Lạc", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Kim Loan", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Vinh Quý", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Cô Ngân",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã An Lạc",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Kim Loan",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Vinh Quý",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Vinh Quý", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Vinh Quý",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "xã Đức Quang", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Thắng Lợi", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Quang Long", "district": "huyện Hạ Lang", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "xã Đức Quang",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Thắng Lợi",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Quang Long",
+          "district": "huyện Hạ Lang",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "xã Quang Long", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "xã Quang Long",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "phường Sông Hiến", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "phường Đề Thám", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "phường Hợp Giang", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hưng Đạo", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Hoàng Tung", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "phường Sông Hiến",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "phường Đề Thám",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "phường Hợp Giang",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hưng Đạo",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Hoàng Tung",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "phường Thục Phán", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "phường Thục Phán",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "phường Ngọc Xuân", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "phường Sông Bằng", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Vĩnh Quang", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "phường Ngọc Xuân",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "phường Sông Bằng",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Vĩnh Quang",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "phường Nùng Trí Cao", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "phường Nùng Trí Cao",
+        "province": "tỉnh Cao Bằng"
+      }
     },
     {
       "from": [
-        { "commune": "phường Tân Giang", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "phường Duyệt Trung", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "phường Hòa Chung", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Chu Trinh", "district": "thành phố Cao Bằng", "province": "tỉnh Cao Bằng" },
-        { "commune": "xã Lê Chung", "district": "huyện Hòa An", "province": "tỉnh Cao Bằng" }
+        {
+          "commune": "phường Tân Giang",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "phường Duyệt Trung",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "phường Hòa Chung",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Chu Trinh",
+          "district": "thành phố Cao Bằng",
+          "province": "tỉnh Cao Bằng"
+        },
+        {
+          "commune": "xã Lê Chung",
+          "district": "huyện Hòa An",
+          "province": "tỉnh Cao Bằng"
+        }
       ],
-      "to": { "commune": "phường Tân Giang", "province": "tỉnh Cao Bằng" }
+      "to": {
+        "commune": "phường Tân Giang",
+        "province": "tỉnh Cao Bằng"
+      }
     }
   ]
 }
