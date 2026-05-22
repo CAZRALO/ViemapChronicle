@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "AnGiang_NGUYEN_01",
+      "year": 1819,
+      "date": "1819-12-00",
+      "title": "Commencement of Vinh Te Canal Construction",
+      "description": "Thoai Ngoc Hau (Nguyen Van Thoai) commanded civil militiamen to start excavating the Vinh Te Canal along the Vietnam-Cambodia border (from Chau Doc to Ha Tien). This was the most monumental irrigation and defense project of the Nguyen Dynasty in the Southern region, completed in 1824.",
+      "location": {
+        "commune": "Vinh Nguon",
+        "district": "Chau Doc City",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Thoai Ngoc Hau",
+        "Chau Thi Vinh Te"
+      ],
+      "tags": [
+        "Nguyen Dynasty",
+        "Irrigation"
+      ]
+    },
+    {
+      "id": "AnGiang_REV_01",
+      "year": 1927,
+      "date": null,
+      "title": "Establishment of the First Vietnam Revolutionary Youth League Branch",
+      "description": "In Long Xuyen, the first branch of the Vietnam Revolutionary Youth League of An Giang province was established, led by Chau Van Liem as Secretary. This was the predecessor organization that laid the foundation for the later birth of the An Giang Party Committee.",
+      "location": {
+        "commune": "My Long",
+        "district": "Long Xuyen City",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Chau Van Liem"
+      ],
+      "tags": [
+        "Revolution",
+        "Precursor Organization"
+      ]
+    },
+    {
+      "id": "AnGiang_REV_02",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Establishment of the First Communist Party Branch in Cho Moi",
+      "description": "In Long Dien commune (Cho Moi), the first Communist Party branch of An Giang province was established with 3 members, led by Luu Kim Phong as Secretary. Cho Moi became the revolutionary cradle of the province in the early days of the Party's founding.",
+      "location": {
+        "commune": "Long Dien A",
+        "district": "Cho Moi",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Luu Kim Phong",
+        "Ung Van Khiem"
+      ],
+      "tags": [
+        "Party Founding",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "AnGiang_RELIGION_01",
+      "year": 1939,
+      "date": "1939-07-04",
+      "title": "Founding of Hoa Hao Buddhism",
+      "description": "In Hoa Hao village (formerly Tan Chau district), Duc Huynh Giao Chu (Huynh Phu So) held the ceremony to found Hoa Hao Buddhism. This is an indigenous religion with deep and widespread influence on the cultural, social, and political life in An Giang and the Southwestern region.",
+      "location": {
+        "commune": "Hao Hao",
+        "district": "Phu Tan",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Huynh Phu So"
+      ],
+      "tags": [
+        "Religion",
+        "Culture"
+      ]
+    },
+    {
+      "id": "AnGiang_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Long Xuyen",
+      "description": "Thousands of citizens from Cho Moi, Lap Vo, and Chau Thanh districts marched to Long Xuyen town. Faced with the overwhelming force of the masses, Provincial Governor Le Van Sanh was forced to surrender. The Provisional Revolutionary People's Committee of Long Xuyen province was established.",
+      "location": {
+        "commune": null,
+        "district": "Long Xuyen City",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Ung Van Khiem"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "AnGiang_US_WAR_01",
+      "year": 1968,
+      "date": "1968-11-17",
+      "title": "Victory at Tuc Dup Hill (The Two-Million-Dollar Hill)",
+      "description": "US and South Vietnamese forces mobilized massive forces along with B-52 bombers to flatten Tuc Dup Hill (part of the That Son range) - the base of the An Giang Party Committee. Our soldiers and people clung to the caves, fighting resiliently for 128 days and nights, forcing the enemy to retreat after spending about 2 million dollars worth of ammunition.",
+      "location": {
+        "commune": "An Tuc",
+        "district": "Tri Ton",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance Against US",
+        "Legend"
+      ]
+    },
+    {
+      "id": "AnGiang_US_WAR_02",
+      "year": 1975,
+      "date": "1975-05-02",
+      "title": "Liberation of An Giang Province",
+      "description": "An Giang was one of the last provinces to be liberated in the Western region (after April 30). Due to unique local religious and armed characteristics, our forces combined military offensive with public persuasion. By May 2, Long Xuyen and Chau Doc towns were completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Long Xuyen, Chau Doc",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "AnGiang_BORDER_WAR_01",
+      "year": 1978,
+      "date": "1978-04-18",
+      "title": "Ba Chuc Massacre (Southwest Border War)",
+      "description": "The Khmer Rouge forces crossed the border and brutally massacred 3,157 innocent civilians in Ba Chuc commune (Tri Ton), mostly elderly people, women, and children seeking refuge in local temples. This remains one of the most tragic and horrific events in the history of the border war.",
+      "location": {
+        "commune": "Ba Chuc",
+        "district": "Tri Ton",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Border War",
+        "Tragic Event"
+      ]
+    },
+    {
+      "id": "AnGiang_ADMIN_01",
+      "year": 1999,
+      "date": "1999-03-01",
+      "title": "Establishment of Long Xuyen City",
+      "description": "Long Xuyen town was upgraded to a city under the direct management of An Giang province. It serves as the most bustling political, economic, cultural, and educational center of the Long Xuyen Quadrangle region.",
+      "location": {
+        "commune": null,
+        "district": "Long Xuyen City",
+        "province": "An Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Urbanization"
+      ]
+    },
+    {
+      "id": "AnGiang_CULTURE_01",
+      "year": 2012,
+      "date": "2012-09-27",
+      "title": "Oc Eo Culture Site Recognized as Special National Monument",
+      "description": "The Prime Minister decided to classify the Oc Eo - Ba The archaeological and architectural art site as a Special National Monument. This is proof of the existence of the once-powerful Funan Kingdom that flourished in this land from the beginning of the Common Era.",
+      "location": {
+        "commune": "Oc Eo Town",
+        "district": "Thoai Son",
+        "province": "An Giang"
+      },
+      "related_figures": [
+        "Louis Malleret"
+      ],
+      "tags": [
+        "Oc Eo Culture",
+        "Heritage"
+      ]
+    }
+  ]
+}
