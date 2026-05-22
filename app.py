@@ -4,6 +4,7 @@ import re
 import json
 import unicodedata
 from datetime import datetime
+from urllib.parse import quote_plus
 from google import genai
 import uuid
 from dotenv import load_dotenv
@@ -48,7 +49,8 @@ STOPWORDS = {
 RAG_INTENT_KEYWORDS = {
     "history": (
         "lich su", "su kien", "dien bien", "khoi nghia", "chien tranh", "tran danh",
-        "nhan vat", "trieu dai", "xua", "truoc day", "timeline", "moc thoi gian"
+        "nhan vat", "trieu dai", "xua", "truoc day", "timeline", "moc thoi gian",
+        "video", "youtube", "clip", "phim tu lieu"
     ),
     "geo_site": (
         "dia diem", "di tich", "danh lam", "thang canh", "du lich", "tham quan",
@@ -277,6 +279,106 @@ def format_location(location):
         location.get("province"),
     ])
 
+def normalize_video_items(raw_videos):
+    if is_blank_value(raw_videos):
+        return []
+    if not isinstance(raw_videos, list):
+        raw_videos = [raw_videos]
+
+    videos = []
+    for item in raw_videos:
+        if is_blank_value(item):
+            continue
+        if isinstance(item, dict):
+            url = item.get("url") or item.get("link")
+            if is_blank_value(url):
+                continue
+            videos.append({
+                "title": item.get("title") or item.get("name") or "Video YouTube",
+                "url": str(url).strip(),
+                "provider": item.get("provider") or "youtube",
+                "is_search": bool(item.get("is_search", False)),
+            })
+        else:
+            url = str(item).strip()
+            if url.startswith(("http://", "https://")):
+                videos.append({
+                    "title": "Video YouTube",
+                    "url": url,
+                    "provider": "youtube",
+                    "is_search": False,
+                })
+    return videos
+
+def build_youtube_search_video(search_terms, title=None, lang="vi"):
+    query = " ".join(flatten_values(search_terms))
+    if not query:
+        return None
+    if str(lang).lower() == "en":
+        query = f"{query} Vietnam history documentary"
+        label = f"Suggested YouTube videos for {title or search_terms[0]}"
+    else:
+        query = f"{query} lịch sử Việt Nam tư liệu"
+        label = f"Video giới thiệu về {title or search_terms[0]}"
+    return {
+        "title": label,
+        "url": f"https://www.youtube.com/results?search_query={quote_plus(query)}",
+        "provider": "youtube",
+        "is_search": True,
+        "query": query,
+    }
+
+def videos_for_history_event(event, lang="vi"):
+    if not isinstance(event, dict):
+        return []
+    videos = normalize_video_items(event.get("videos") or event.get("video"))
+    if videos:
+        return videos
+    location = event.get("location") if isinstance(event.get("location"), dict) else {}
+    search_terms = [
+        event.get("title"),
+        event.get("year"),
+        format_location(location),
+        event.get("related_figures"),
+        event.get("tags"),
+    ]
+    fallback = build_youtube_search_video(search_terms, event.get("title"), lang=lang)
+    return [fallback] if fallback else []
+
+def videos_for_geo_site(site, lang="vi"):
+    if not isinstance(site, dict):
+        return []
+    videos = normalize_video_items(site.get("videos") or site.get("video"))
+    if videos:
+        return videos
+    place = site.get("place") if isinstance(site.get("place"), dict) else {}
+    search_terms = [site.get("name"), format_location(place), site.get("event")]
+    fallback = build_youtube_search_video(search_terms, site.get("name"), lang=lang)
+    return [fallback] if fallback else []
+
+def with_history_event_videos(event, lang="vi"):
+    if not isinstance(event, dict):
+        return event
+    return {**event, "videos": videos_for_history_event(event, lang=lang)}
+
+def with_geo_site_videos(site, lang="vi"):
+    if not isinstance(site, dict):
+        return site
+    return {**site, "videos": videos_for_geo_site(site, lang=lang)}
+
+def add_video_line(lines, videos, lang="vi"):
+    if not videos:
+        return
+    label = "Suggested YouTube video" if str(lang).lower() == "en" else "Video YouTube gợi ý"
+    parts = []
+    for video in videos[:2]:
+        title = video.get("title") or "YouTube"
+        url = video.get("url")
+        if url:
+            parts.append(f"{title}: {url}")
+    if parts:
+        lines.append(f"{label}: {' | '.join(parts)}")
+
 def make_rag_doc(kind, title, content, source, aliases=None, province=None, district=None,
                  commune=None, year=None, extra_text=None, source_meta=None):
     aliases = normalize_alias_list([
@@ -294,7 +396,7 @@ def make_rag_doc(kind, title, content, source, aliases=None, province=None, dist
     return {
         "kind": kind,
         "title": str(title or "").strip(),
-        "content": compact_text(content),
+        "content": compact_text(content, 1200),
         "source": source,
         "source_meta": source_meta or make_source_meta(source, source),
         "province": province,
@@ -364,12 +466,14 @@ def build_history_rag_docs(lang=None):
         for event in events:
             if not isinstance(event, dict):
                 continue
+            event = with_history_event_videos(event, lang=lang or "vi")
             location = event.get("location") if isinstance(event.get("location"), dict) else {}
             year = event.get("year")
             title = event.get("title") or event.get("id") or "Sự kiện lịch sử"
             location_text = format_location(location)
             figures = event.get("related_figures") if isinstance(event.get("related_figures"), list) else []
             tags = event.get("tags") if isinstance(event.get("tags"), list) else []
+            videos = event.get("videos") if isinstance(event.get("videos"), list) else []
 
             lines = [f"{year}: {title}" if year else title]
             if location_text:
@@ -380,6 +484,8 @@ def build_history_rag_docs(lang=None):
                 lines.append(f"Nhân vật liên quan: {', '.join(flatten_values(figures))}")
             if tags:
                 lines.append(f"Chủ đề: {', '.join(flatten_values(tags))}")
+
+            add_video_line(lines, videos, lang=lang or "vi")
 
             docs.append(make_rag_doc(
                 "history_event",
@@ -424,17 +530,21 @@ def build_geo_rag_docs(lang=None):
             for idx, site in enumerate(sites):
                 if not isinstance(site, dict):
                     continue
+                site = with_geo_site_videos(site, lang=lang or "vi")
                 place = site.get("place") if isinstance(site.get("place"), dict) else {}
                 name = site.get("name") or "Địa danh"
                 place_type = site.get("type_of_place") or ""
                 type_label = type_labels.get(place_type, place_type or "địa danh")
                 location_text = format_location(place)
+                videos = site.get("videos") if isinstance(site.get("videos"), list) else []
 
                 lines = [f"{name} ({type_label})"]
                 if location_text:
                     lines.append(f"Địa điểm: {location_text}")
                 if site.get("event"):
                     lines.append(f"Thông tin: {site.get('event')}")
+
+                add_video_line(lines, videos, lang=lang or "vi")
 
                 docs_local.append(make_rag_doc(
                     "geo_site",
@@ -1140,6 +1250,15 @@ def get_history_data(filename):
     if data is None:
         return jsonify({"error": "Not found"}), 404
     if isinstance(data, dict):
+        if isinstance(data.get("events"), list):
+            data = {
+                **data,
+                "events": [
+                    with_history_event_videos(event, lang=lang or "vi")
+                    if isinstance(event, dict) else event
+                    for event in data["events"]
+                ],
+            }
         data = {
             **data,
             "source": make_source_meta(
@@ -1173,6 +1292,15 @@ def get_geo_data(filename):
     if data is None:
         return jsonify({"error": "Not found"}), 404
     if isinstance(data, dict):
+        if isinstance(data.get("sites"), list):
+            data = {
+                **data,
+                "sites": [
+                    with_geo_site_videos(site, lang=lang or "vi")
+                    if isinstance(site, dict) else site
+                    for site in data["sites"]
+                ],
+            }
         data = {
             **data,
             "source": make_source_meta(
@@ -1264,6 +1392,7 @@ def get_province_report():
             for event in data["events"]:
                 if not isinstance(event, dict):
                     continue
+                event = with_history_event_videos(event, lang=lang or "vi")
                 report["events"].append({
                     **event,
                     "source": {
@@ -1286,6 +1415,7 @@ def get_province_report():
             for idx, site in enumerate(data["sites"]):
                 if not isinstance(site, dict):
                     continue
+                site = with_geo_site_videos(site, lang=lang or "vi")
                 report["sites"].append({
                     **site,
                     "source": {
@@ -1365,8 +1495,12 @@ def chat():
             
             if str(lang).lower() == 'en':
                 system_prompt += "\n- When using RAG items, answer naturally and do not add source lists or citation codes."
+                system_prompt += "\n- If a relevant RAG item includes a suggested YouTube video and the user asks about a battle or historical event, include a short 'Suggested video' line with that YouTube link. If the item is a YouTube search link, present it as a search suggestion, not as a verified exact video."
             else:
                 system_prompt += "\n- Khi dùng mục RAG, hãy trả lời tự nhiên, không tự thêm danh sách nguồn hoặc mã trích dẫn."
+
+            if str(lang).lower() != 'en':
+                system_prompt += "\n- N\u1ebfu m\u1ee5c RAG li\u00ean quan c\u00f3 Video YouTube g\u1ee3i \u00fd v\u00e0 ng\u01b0\u1eddi d\u00f9ng h\u1ecfi v\u1ec1 tr\u1eadn \u0111\u00e1nh ho\u1eb7c s\u1ef1 ki\u1ec7n l\u1ecbch s\u1eed, h\u00e3y th\u00eam m\u1ed9t d\u00f2ng 'Video g\u1ee3i \u00fd' k\u00e8m link YouTube \u0111\u00f3. N\u1ebfu link l\u00e0 trang t\u00ecm ki\u1ebfm YouTube, h\u00e3y n\u00f3i l\u00e0 g\u1ee3i \u00fd t\u00ecm ki\u1ebfm, kh\u00f4ng kh\u1eb3ng \u0111\u1ecbnh \u0111\u00f3 l\u00e0 video ch\u00ednh x\u00e1c."
 
             history = [
                 {"role": "user", "parts": [{"text": system_prompt}]},
