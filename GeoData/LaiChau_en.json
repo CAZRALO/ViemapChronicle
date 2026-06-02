@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Pu Ta Leng Peak",
+      "type_of_place": "natural",
+      "event": "The second highest mountain peak in Vietnam (3,049m), it is one of the most challenging and attractive trekking routes in the country, famous for its primeval rhododendron forest.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ta Leng Commune",
+        "district": "Lai Chau City",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "O Quy Ho Pass",
+      "type_of_place": "natural",
+      "event": "One of the 'Four Great Passes' of Vietnam, where the boundary marker of the three provinces of Lai Chau, Lao Cai, and Yen Bai is located, featuring majestic landscapes and misty clouds.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Son Binh Commune (bordering Lao Cai)",
+        "district": "Tam Duong District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Sin Ho Plateau",
+      "type_of_place": "natural",
+      "event": "A limestone plateau with a cool climate, home to many ethnic minorities such as the Mong, Dao, Lu, and Giay, preserving unique cultural features and periodic markets.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Sin Ho Town (and neighboring communes)",
+        "district": "Sin Ho District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Tac Tinh Waterfall",
+      "type_of_place": "natural",
+      "event": "A majestic waterfall associated with the legend of a sad love story of a Thai ethnic couple, bringing wild beauty amidst the mountains and forests.",
+      "place": {
+        "hamlet": "Hon Village",
+        "commune": "Ban Hon Commune",
+        "district": "Tam Duong District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Pu Sam Cap Cave Complex",
+      "type_of_place": "natural",
+      "event": "A large limestone cave system located inside Pu Sam Cap Mountain, including Thien Mon, Thien Duong, and Thuy Tinh caves with stalactites of various shapes.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nam Loong Commune, San Thang Commune",
+        "district": "Lai Chau City",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Northwest Regional Party Committee Historical Relic Site",
+      "type_of_place": "historical",
+      "event": "The base of the Regional Party Committee, the workplace and revolutionary leadership headquarters of senior leaders of the Northwest region during the resistance war against the French.",
+      "place": {
+        "hamlet": "Xo La Village",
+        "commune": "Muong So Commune",
+        "district": "Phong Tho District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Muong Than Field",
+      "type_of_place": "natural",
+      "event": "The third largest rice field in the Northwest region ('First Thanh, second Lo, third Than, fourth Tac'), creating a beautiful agricultural landscape.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Muong Than Commune (and neighboring communes)",
+        "district": "Than Uyen District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Ma Lu Thang International Border Gate",
+      "type_of_place": "historical",
+      "event": "An important border gate for economic trade between Vietnam and China, located on the border of Lai Chau Province.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ma Ly Pho Commune",
+        "district": "Phong Tho District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Lai Chau Provincial Party Committee Historical Relic",
+      "type_of_place": "historical",
+      "event": "The base for secret activities and leading the people in the resistance war against the French (1950-1954).",
+      "place": {
+        "hamlet": "Mo Village",
+        "commune": "Sin Ho Commune",
+        "district": "Sin Ho District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Hon Village (Thai Ethnic Village)",
+      "type_of_place": "historical",
+      "event": "An ancient village of the Thai ethnic group, which still preserves traditional stilt house architecture and unique folk festivals.",
+      "place": {
+        "hamlet": "Hon Village",
+        "commune": "Ban Hon Commune",
+        "district": "Tam Duong District",
+        "province": "Lai Chau"
+      }
+    },
+    {
+      "name": "Bach Moc Luong Tu Peak",
+      "type_of_place": "natural",
+      "event": "The fourth highest mountain peak in Vietnam (3,046m), famous for its majestic 'sea of clouds' in the early morning.",
+      "place": {
+        "hamlet": "Den Sung Village",
+        "commune": "Sin Suoi Ho Commune",
+        "district": "Phong Tho District",
+        "province": "Lai Chau"
+      }
+    }
+  ]
+}

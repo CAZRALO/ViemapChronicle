@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "The House of Cong Tu Bac Lieu",
+      "type_of_place": "historical",
+      "event": "Associated with the anecdotes of Ba Huy (the Bac Lieu Dandy) - a wealthy and notoriously flamboyant figure in the former Six Provinces of Southern Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 3",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Memorial Site for Southern Vietnamese Don Ca Tai Tu Art and Composer Cao Van Lau",
+      "type_of_place": "historical",
+      "event": "The resting place of the late composer Cao Van Lau, author of the immortal song 'Da co hoai lang', the predecessor of today's vong co.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Bac Lieu Wind Farm",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "Bien Dong A Hamlet",
+        "commune": "Vinh Trach Dong Commune",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Bac Lieu Bird Sanctuary",
+      "type_of_place": "natural",
+      "event": "A nature reserve with a mangrove forest ecosystem and home to thousands of wild birds.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hiep Thanh Commune",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Tac Say Church (Father Diep)",
+      "type_of_place": "historical",
+      "event": "Associated with the touching story of Father Truong Buu Diep's life, it is the largest Catholic pilgrimage site in the Mekong Delta.",
+      "place": {
+        "hamlet": "Hamlet 2",
+        "commune": "Tan Phong Commune",
+        "district": "Gia Rai Town",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Xiem Can Pagoda",
+      "type_of_place": "historical",
+      "event": "One of the largest and most splendid Khmer pagodas in Southern Vietnam, representing the architecture and spiritual culture of the Khmer people.",
+      "place": {
+        "hamlet": "Bien Dong B Hamlet",
+        "commune": "Vinh Trach Dong Commune",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Quan Am Phat Dai Area (Mother Nam Hai)",
+      "type_of_place": "historical",
+      "event": "A famous spiritual and cultural site featuring an 11-meter-tall statue of Lady Buddha Nam Hai facing the East Sea.",
+      "place": {
+        "hamlet": "Bo Tay Quarter",
+        "commune": "Nha Mat Ward",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Vinh Hung Ancient Tower",
+      "type_of_place": "historical",
+      "event": "A special national artistic and architectural relic, the only remaining trace of Oc Eo culture in Southwestern Vietnam.",
+      "place": {
+        "hamlet": "Trung Hung 1B Hamlet",
+        "commune": "Vinh Hung A Commune",
+        "district": "Vinh Loi District",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Bac Lieu Ancient Longan Garden",
+      "type_of_place": "natural",
+      "event": "A century-old longan garden associated with the history of migration and land reclamation by the people of the Giong Nhan area.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hiep Thanh Commune, Vinh Trach Dong Commune",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Bac Lieu Salt Fields",
+      "type_of_place": "natural",
+      "event": "The production site of the famous 'Bac Lieu Salt' brand; salt-making here has been recognized as a National Intangible Cultural Heritage.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Coastal communes (Vinh Thinh, Vinh Hau,...)",
+        "district": "Hoa Binh District, Dong Hai District",
+        "province": "Bac Lieu"
+      }
+    },
+    {
+      "name": "Temple of President Ho Chi Minh",
+      "type_of_place": "historical",
+      "event": "Secretly built and protected by the people of Chau Thoi Commune right in the heart of enemy territory throughout the fierce war years.",
+      "place": {
+        "hamlet": "Ba Chang A Hamlet",
+        "commune": "Chau Thoi Commune",
+        "district": "Vinh Loi District",
+        "province": "Bac Lieu"
+      }
+    }
+  ]
+}

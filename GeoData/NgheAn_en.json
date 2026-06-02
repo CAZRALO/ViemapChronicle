@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Kim Lien Relic Site (Sen Village - Uncle Ho's paternal hometown)",
+      "type_of_place": "historical",
+      "event": "The place preserving artifacts, documents, and the childhood living space of President Ho Chi Minh and his family.",
+      "place": {
+        "hamlet": "Sen Village",
+        "commune": "Kim Lien Commune",
+        "district": "Nam Dan District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Hoang Tru Village (Uncle Ho's maternal hometown)",
+      "type_of_place": "historical",
+      "event": "The place where President Ho Chi Minh was born and spent his early years (1890-1895).",
+      "place": {
+        "hamlet": "Hoang Tru Village",
+        "commune": "Kim Lien Commune",
+        "district": "Nam Dan District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Cua Lo Beach",
+      "type_of_place": "natural",
+      "event": "One of the most beautiful and bustling beaches in the North Central region, famous for its long sandy shores, clear water, and abundant seafood.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Wards: Thu Thuy, Nghi Huong, Nghi Thu...",
+        "district": "Cua Lo Town",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Truong Bon Historical Relic Site",
+      "type_of_place": "historical",
+      "event": "The place marking the heroic sacrifice of 13 youth volunteers of the Steel Squad (Company 317) during the anti-American resistance war.",
+      "place": {
+        "hamlet": "null",
+        "commune": "My Son Commune",
+        "district": "Do Luong District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Pu Mat National Park",
+      "type_of_place": "natural",
+      "event": "A world biosphere reserve, conserving the Saola and boasting majestic natural landscapes such as Khe Kem Waterfall and Giang River.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Chi Khe Commune (Headquarters)",
+        "district": "Con Cuong District (extending to Anh Son, Tuong Duong)",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Cuong Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for Thuc Phan An Duong Vuong, associated with the legend of the magic crossbow and the fall of the Au Lac state.",
+      "place": {
+        "hamlet": "Mo Da Mountain",
+        "commune": "Dien An Commune",
+        "district": "Dien Chau District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Thanh Chuong Tea Island",
+      "type_of_place": "natural",
+      "event": "Lush green tea hills situated in the middle of a clear blue lake, dubbed the 'Ha Long Bay on land' of the Nghe region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh An Commune",
+        "district": "Thanh Chuong District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Vinh Ancient Citadel",
+      "type_of_place": "historical",
+      "event": "A military citadel relic built during the Nguyen Dynasty (1804), witnessing many historical events of the Nghe An region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cua Nam Ward",
+        "district": "Vinh City",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Ong Hoang Muoi Temple",
+      "type_of_place": "historical",
+      "event": "A famous spiritual tourism destination worshipping Ong Hoang Muoi (Quan Hoang Muoi) - the deity who bestows wealth, fortune, and fame.",
+      "place": {
+        "hamlet": "Xuan Am Village",
+        "commune": "Hung Thinh Commune",
+        "district": "Hung Nguyen District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Tomb of Madam Hoang Thi Loan",
+      "type_of_place": "historical",
+      "event": "The resting place of President Ho Chi Minh's mother, located on Dong Tranh Mountain with the stylized shape of a weaving loom.",
+      "place": {
+        "hamlet": "Dong Tranh Mountain",
+        "commune": "Nam Giang Commune",
+        "district": "Nam Dan District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Sunflower field",
+      "type_of_place": "natural",
+      "event": "The largest sunflower field in Vietnam, a famous check-in spot every year-end.",
+      "place": {
+        "hamlet": "19/5 Farm",
+        "commune": "Nghia Son Commune",
+        "district": "Nghia Dan District",
+        "province": "Nghe An"
+      }
+    },
+    {
+      "name": "Bai Lu",
+      "type_of_place": "natural",
+      "event": "Likened to 'Da Lat on the sea' with cool green pine forests running along the pristine coast.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nghi Yen Commune",
+        "district": "Nghi Loc District",
+        "province": "Nghe An"
+      }
+    }
+  ]
+}

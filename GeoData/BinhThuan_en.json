@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Duc Thanh School",
+      "type_of_place": "historical",
+      "event": "The place where teacher Nguyen Tat Thanh (President Ho Chi Minh) taught in 1910 before leaving to find a way to save the country.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Duc Nghia Ward",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Po Sah Inu Cham Towers (Poshanu)",
+      "type_of_place": "historical",
+      "event": "The remaining architectural complex of ancient Cham Pa towers, dedicated to the worship of Shiva and Princess Poshanu.",
+      "place": {
+        "hamlet": "Quarter 5",
+        "commune": "Phu Hai Ward",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Ke Ga Lighthouse",
+      "type_of_place": "historical",
+      "event": "The oldest lighthouse in Vietnam and Southeast Asia, designed and built by the French using granite since 1897.",
+      "place": {
+        "hamlet": "Ke Ga Hamlet",
+        "commune": "Tan Thanh Commune",
+        "district": "Ham Thuan Nam District",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Thay Thim Palace",
+      "type_of_place": "historical",
+      "event": "A national artistic and architectural relic, associated with the legend of the benevolence of the Taoist couple Thay Thim.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Tien Commune",
+        "district": "La Gi Town",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Lau Ong Hoang",
+      "type_of_place": "historical",
+      "event": "The ruins of an ancient villa, associated with the love story between poet Han Mac Tu and Mong Cam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Hai Ward",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Ta Cu Mountain Pagoda (Linh Son Truong Tho)",
+      "type_of_place": "historical",
+      "event": "Famous for its 49m-long statue of Shakyamuni Buddha entering Nirvana, which once held the record for the longest reclining Buddha statue in Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thuan Nam Town",
+        "district": "Ham Thuan Nam District",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Mui Ne Flying Sand Dunes (Red Sand Dunes)",
+      "type_of_place": "natural",
+      "event": "The stretching sand dunes that constantly change shape with the wind direction, a tourism symbol of Binh Thuan.",
+      "place": {
+        "hamlet": "Quarter 5",
+        "commune": "Mui Ne Ward",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Bau Trang (Bau Sen)",
+      "type_of_place": "natural",
+      "event": "A natural freshwater lake located amidst vast white sand dunes, likened to a 'mini Sahara desert'.",
+      "place": {
+        "hamlet": "Hong Lam Hamlet",
+        "commune": "Hoa Thang Commune",
+        "district": "Bac Binh District",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Co Thach Stone Beach (Seven-Color Stone Beach)",
+      "type_of_place": "natural",
+      "event": "Famous for its multi-colored pebble beach and rocks covered in green moss every March.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Binh Thanh Commune",
+        "district": "Tuy Phong District",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Cu Lao Cau (Hon Cau)",
+      "type_of_place": "natural",
+      "event": "A marine life conservation area with a rich coral system and pristine beaches.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuoc The Commune",
+        "district": "Tuy Phong District",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Phu Quy Island",
+      "type_of_place": "natural",
+      "event": "An outpost island with majestic landscapes, sheer cliffs, and ancient coastal pagodas.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Long Hai, Ngu Phung, and Tam Thanh Communes",
+        "district": "Phu Quy District",
+        "province": "Binh Thuan"
+      }
+    },
+    {
+      "name": "Fairy Stream",
+      "type_of_place": "natural",
+      "event": "A small stream winding through brilliant red sand formations, creating a fairyland-like landscape.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Mui Ne Ward (and Ham Tien Ward)",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      }
+    }
+  ]
+}

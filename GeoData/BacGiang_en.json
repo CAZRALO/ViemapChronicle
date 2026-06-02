@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Xuong Giang Victory Relic Site",
+      "type_of_place": "historical",
+      "event": "Commemorating the Chi Lang - Xuong Giang victory (1427) of the Lam Son army, ending 20 years of Ming dynasty rule.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Xuong Giang Ward",
+        "district": "Bac Giang City",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Vinh Nghiem Pagoda (La Pagoda)",
+      "type_of_place": "historical",
+      "event": "The ancestral birthplace of the Truc Lam Yen Tu Zen Sect, preserving a collection of Buddhist woodblocks recognized by UNESCO as a World Documentary Heritage.",
+      "place": {
+        "hamlet": "Duc La Hamlet",
+        "commune": "Tri Yen Commune",
+        "district": "Yen Dung District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Bo Da Pagoda (Bo Pagoda)",
+      "type_of_place": "historical",
+      "event": "Famous for the largest stupa garden in Vietnam, unique rammed-earth wall architecture, and a collection of Buddhist woodblocks carved on thi wood.",
+      "place": {
+        "hamlet": "Thuong Lat Hamlet",
+        "commune": "Tien Son Commune",
+        "district": "Viet Yen Town",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Yen The Uprising Relic Site",
+      "type_of_place": "historical",
+      "event": "Associated with the name of the peasant hero Hoang Hoa Tham (De Tham) and the 30-year peasant uprising (1884-1913).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phon Xuong Town",
+        "district": "Yen The District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Thousand-year-old Da Huong Tree",
+      "type_of_place": "natural",
+      "event": "A rare ancient tree, bestowed the title 'Quoc chua do moc' by King Le Canh Hung, estimated to be over 1,000 years old.",
+      "place": {
+        "hamlet": "Giua Hamlet",
+        "commune": "Tien Luc Commune",
+        "district": "Lang Giang District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Suoi Mo Eco-tourism Area",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of Princess Que Mi Nuong (Thuong Ngan Thanh Mau) opening the stream and clearing the land, featuring a system of beautiful temples and waterfalls.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nghia Phuong Commune",
+        "district": "Luc Nam District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Dong Cao Plateau",
+      "type_of_place": "natural",
+      "event": "Likened to 'Mau Son' or 'Sapa' of Bac Giang with lush green grass, ancient rock fields, and a cool climate, making it a popular camping spot.",
+      "place": {
+        "hamlet": "Ga Village",
+        "commune": "Thach Son Commune",
+        "district": "Son Dong District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Cam Son Lake",
+      "type_of_place": "natural",
+      "event": "A vast artificial lake with picturesque mountain and water landscapes, serving as the inspiration for the famous song 'Ho tren nui'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Son Hai Commune, Ho Dap Commune, Tan Son Commune, Cam Son Commune",
+        "district": "Luc Ngan District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Dinh Huong Mausoleum",
+      "type_of_place": "historical",
+      "event": "A unique stone sculpture architectural complex from the Later Le dynasty, the resting place of Duke La Quy Hau.",
+      "place": {
+        "hamlet": "Dinh Huong Hamlet",
+        "commune": "Duc Thang Commune",
+        "district": "Hiep Hòa District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Tay Yen Tu Spiritual - Eco-tourism Area",
+      "type_of_place": "historical",
+      "event": "Recreating the path of propagating Buddhism of King-Monk Tran Nhan Tong, connecting with the Yen Tu relic site (Quang Ninh).",
+      "place": {
+        "hamlet": "Dong Thong Hamlet",
+        "commune": "Tay Yen Tu Town",
+        "district": "Son Dong District",
+        "province": "Bac Giang"
+      }
+    },
+    {
+      "name": "Khe Ro Primeval Forest",
+      "type_of_place": "natural",
+      "event": "A typical primeval forest of Northeast Vietnam with rich flora and fauna.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Lac Commune",
+        "district": "Son Dong District",
+        "province": "Bac Giang"
+      }
+    }
+  ]
+}

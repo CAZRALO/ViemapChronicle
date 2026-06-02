@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Phu Quoc Prison Relic",
+      "type_of_place": "historical",
+      "event": "Known as 'Hell on Earth', where more than 40,000 prisoners of war were held during the resistance war against the US.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Thoi Ward",
+        "district": "Phu Quoc City",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Mac Cuu Tombs Relic Area",
+      "type_of_place": "historical",
+      "event": "The place of worship and resting place of Governor Mac Cuu and the Mac family - those who contributed to reclaiming and defending the land of Ha Tien.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Binh San Ward",
+        "district": "Ha Tien City",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Nguyen Trung Truc Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for National Hero Nguyen Trung Truc, famous for his saying: 'Only when the Westerners pull up all the grass of the South will the Southern people stop fighting them'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Thanh Ward",
+        "district": "Rach Gia City",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "U Minh Thuong National Park",
+      "type_of_place": "natural",
+      "event": "A world biosphere reserve, which used to be a revolutionary base (Zone 9 Party Committee) during the two resistance wars.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Minh Bac Commune, Minh Thuan Commune",
+        "district": "U Minh Thuong District",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Thach Dong (Thach Dong Thon Van)",
+      "type_of_place": "natural",
+      "event": "A limestone cave associated with the legend of Thach Sanh slaying the ogre to rescue the princess.",
+      "place": {
+        "hamlet": "null",
+        "commune": "My Duc Ward",
+        "district": "Ha Tien City",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Nam Du Archipelago",
+      "type_of_place": "natural",
+      "event": "A pristine and beautiful archipelago of 21 large and small islands, likened to a miniature 'Ha Long Bay' in the West Sea.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Son Commune, Nam Du Commune",
+        "district": "Kien Hai District",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Hon Dat Historical Relic Area (Ba Hon)",
+      "type_of_place": "historical",
+      "event": "The site of a fierce battle in 1962 and the place of sacrifice of the Hero of the People's Armed Forces Phan Thi Rang (the prototype of Sister Su in the novel 'Hon Dat').",
+      "place": {
+        "hamlet": "Hon Soc Hamlet",
+        "commune": "Tho Son Commune",
+        "district": "Hon Dat District",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Hon Phu Tu - Chua Hang Scenic Landscape",
+      "type_of_place": "natural",
+      "event": "A landscape symbol of Kien Giang associated with the legend of a father and son slaying a sea monster; Chua Hang (Hai Son Pagoda) is located inside a limestone mountain.",
+      "place": {
+        "hamlet": "Ba Trai Hamlet",
+        "commune": "Binh An Commune",
+        "district": "Kien Luong District",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Rach Gia Tam Quan Gate",
+      "type_of_place": "historical",
+      "event": "An iconic architectural work, a 'greeting' from the coastal city of Rach Gia, built during the French colonial period.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Thanh Van Ward",
+        "district": "Rach Gia City",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Sao Beach",
+      "type_of_place": "natural",
+      "event": "One of the most beautiful beaches in Phu Quoc with creamy white sand and turquoise water.",
+      "place": {
+        "hamlet": "Bai Sao Hamlet",
+        "commune": "An Thoi Ward",
+        "district": "Phu Quoc City",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Ba Lua Archipelago",
+      "type_of_place": "natural",
+      "event": "An island cluster of more than 40 large and small islands, famous for its shallow waters where you can walk from one island to another.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Son Hai Commune",
+        "district": "Kien Luong District",
+        "province": "Kien Giang"
+      }
+    },
+    {
+      "name": "Hung King Temple",
+      "type_of_place": "historical",
+      "event": "The oldest and largest place of worship for the Hung Kings in the Western region, showing the gratitude to the roots of the pioneers.",
+      "place": {
+        "hamlet": "Dong Binh Hamlet",
+        "commune": "Thanh Dong A Commune",
+        "district": "Tan Hiep District",
+        "province": "Kien Giang"
+      }
+    }
+  ]
+}

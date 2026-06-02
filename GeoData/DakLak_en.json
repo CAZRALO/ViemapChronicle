@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Buon Ma Thuot Prison",
+      "type_of_place": "historical",
+      "event": "A place of detention and exile for loyal communist soldiers during the French colonial period (built in 1930), likened to 'hell on earth'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tu An Ward",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Lak Lake",
+      "type_of_place": "natural",
+      "event": "The largest natural freshwater lake in the Central Highlands and the second largest in Vietnam, associated with the villages of the M'nong people and the summer villa of King Bao Dai.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Lien Son Town",
+        "district": "Lak District",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Dray Nur Waterfall",
+      "type_of_place": "natural",
+      "event": "The most majestic waterfall in the Central Highlands, associated with the legend of a separated love between a young couple (Dray Nur means Female Waterfall).",
+      "place": {
+        "hamlet": "Buon Kuop",
+        "commune": "Dray Sap Commune",
+        "district": "Krong Ana District",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Buon Don (Ban Don)",
+      "type_of_place": "historical",
+      "event": "The legendary land of wild elephant hunting and taming, the homeland of Elephant King Khunjunob and the legend of Ama Kong.",
+      "place": {
+        "hamlet": "Buon Tri",
+        "commune": "Krong Na Commune",
+        "district": "Buon Don District",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "The World Coffee Museum",
+      "type_of_place": "historical",
+      "event": "A unique architectural work in the shape of a Central Highlands longhouse, displaying thousands of artifacts on the history and culture of global coffee.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Loi Ward",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Mother Elephant Rock",
+      "type_of_place": "natural",
+      "event": "The largest monolith (granite) in Vietnam, shaped like a prostrate elephant in the middle of the mountains and forests.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Yang Tao Commune",
+        "district": "Lak District",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Sac Tu Khai Doan Pagoda",
+      "type_of_place": "historical",
+      "event": "The largest and oldest pagoda in Dak Lak, and the last pagoda in Vietnam to be granted royal patronage by the feudal regime (named after King Khai Dinh and Queen Mother Doan Huy).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thong Nhat Ward",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Yok Don National Park",
+      "type_of_place": "natural",
+      "event": "The only national park in Vietnam that conserves the characteristic dipterocarp forest ecosystem (open deciduous broadleaf forest in the dry season).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Krong Na Commune (and neighboring communes)",
+        "district": "Buon Don District (and Ea Sup District)",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Buon Ako Dhong (Buon Co Thon)",
+      "type_of_place": "historical",
+      "event": "Known as the 'Village in the City', the most beautiful and wealthy village that preserves almost intact the traditional culture of the Ede people.",
+      "place": {
+        "hamlet": "Buon Ako Dhong",
+        "commune": "Tan Loi Ward",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Tomb of Elephant King Khunjunob",
+      "type_of_place": "historical",
+      "event": "A tomb complex with unique M'nong - Lao architecture, the resting place of the legendary elephant hunter Khunjunob (who hunted more than 400 elephants).",
+      "place": {
+        "hamlet": "Buon Tri",
+        "commune": "Krong Na Commune",
+        "district": "Buon Don District",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Thuy Tien Waterfall (Three-Tier Waterfall)",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ea Puk Commune",
+        "district": "Krong Nang District",
+        "province": "Dak Lak"
+      }
+    },
+    {
+      "name": "Ancient Ko Nia Tree (Dak Lak Ko Nia Tree)",
+      "type_of_place": "natural",
+      "event": "A spiritual symbol of the Central Highlands ethnic people, associated with the famous song 'The Shadow of the Ko-nia Tree'.",
+      "place": {
+        "hamlet": "Backyard of the Central Cultural Center",
+        "commune": "Tan An Ward",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      }
+    }
+  ]
+}

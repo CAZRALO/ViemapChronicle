@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Tran Bien Temple of Literature",
+      "type_of_place": "historical",
+      "event": "The first Temple of Literature built in Dang Trong (in 1715), symbolizing the tradition of studiousness and culture of the Bien Hoa - Dong Nai region.",
+      "place": {
+        "hamlet": "Quarter 5",
+        "commune": "Buu Long Ward",
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Cat Tien National Park",
+      "type_of_place": "natural",
+      "event": "A UNESCO-recognized World Biosphere Reserve, which preserved the one-horned rhinoceros (formerly) and a tropical rainforest ecosystem.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nam Cat Tien Commune (and neighboring communes)",
+        "district": "Tan Phu District",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "War Zone D",
+      "type_of_place": "historical",
+      "event": "A famous revolutionary base, the 'secret zone' of the Southeast region during the two resistance wars against the French and the Americans.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ma Da Commune, Hieu Liem Commune",
+        "district": "Vinh Cuu District",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Buu Long Tourist Area",
+      "type_of_place": "natural",
+      "event": "Known as the 'miniature Ha Long Bay' of the South, featuring Long An Lake and cliffs reflecting on the water.",
+      "place": {
+        "hamlet": "Quarter 4",
+        "commune": "Buu Long Ward",
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Hang Gon Megalithic Tomb",
+      "type_of_place": "historical",
+      "event": "A special national relic, the largest ancient stone tomb (Dolmen) in Vietnam and Southeast Asia, dating back to around 150 BC.",
+      "place": {
+        "hamlet": "Hang Gon Hamlet",
+        "commune": "Hang Gon Commune",
+        "district": "Long Khanh City",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Giang Dien Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "Hoa Binh Hamlet",
+        "commune": "Giang Dien Commune",
+        "district": "Trang Bom District",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Chua Chan Mountain (Gia Lao Mountain)",
+      "type_of_place": "natural",
+      "event": "The second highest mountain in the Southeast region (after Ba Den Mountain), famous for Buu Quang Pagoda and the three-root, single-canopy banyan tree.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Xuan Truong Commune",
+        "district": "Xuan Loc District",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "That Phu Ancient Temple (Ong Pagoda)",
+      "type_of_place": "historical",
+      "event": "The oldest Chinese pagoda in the Southern region (1684), associated with the Chinese community and the reclamation of the Bien Hoa region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hiep Hoa Ward (Pho Island)",
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Tri An Lake",
+      "type_of_place": "natural",
+      "event": "A giant artificial lake serving the Tri An Hydropower Plant, a popular spot for camping and SUP paddling.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh An Town (and neighboring communes)",
+        "district": "Vinh Cuu District",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Tan Trieu Pomelo Village",
+      "type_of_place": "natural",
+      "event": "A long-standing traditional pomelo-growing craft village, established in the 19th century, famous for the 'duong la cam' pomelo variety.",
+      "place": {
+        "hamlet": "Vinh Hiep Hamlet",
+        "commune": "Tan Binh Commune",
+        "district": "Vinh Cuu District",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Cat Tien Archaeological Site (Cat Tien Sanctuary)",
+      "type_of_place": "historical",
+      "event": "A large-scale complex of temple ruins, proving the existence of an ancient civilization (influenced by Brahmanism) on the banks of the Dong Nai River.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quang Ngai Commune",
+        "district": "Cat Tien District (bordering Tan Phu)",
+        "province": "Dong Nai"
+      }
+    },
+    {
+      "name": "Mai Waterfall - Bau Nuoc Soi Hot Spring",
+      "type_of_place": "natural",
+      "event": "A primeval forest eco-tourism area, famous for its beautiful waterfall and natural hot mineral spring.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Gia Canh Commune",
+        "district": "Dinh Quan District",
+        "province": "Dong Nai"
+      }
+    }
+  ]
+}

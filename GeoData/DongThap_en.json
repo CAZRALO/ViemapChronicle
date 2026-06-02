@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Nguyen Sinh Sac Relic Site",
+      "type_of_place": "historical",
+      "event": "The resting place of Junior Doctor Nguyen Sinh Sac (father of President Ho Chi Minh), a key spiritual and cultural architectural complex of the province.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 4",
+        "district": "Cao Lanh City",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Tram Chim National Park",
+      "type_of_place": "natural",
+      "event": "The world's 2,000th Ramsar site, conserving red-crowned cranes (a rare bird species listed in the Red Data Book) and a wetland ecosystem.",
+      "place": {
+        "hamlet": "Quarter 4 (Headquarters)",
+        "commune": "Tram Chim Town (and 5 communes: Phu Duc, Phu Hiep, Phu Thanh B, Phu Tho, Tan Cong Sinh)",
+        "district": "Tam Nong District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Xeo Quyt Relic Site",
+      "type_of_place": "historical",
+      "event": "The revolutionary base of the Kien Phong Province Party Committee during the anti-American resistance war, famous for its system of secret bunkers and trenches under the canopy of the primary cajuput forest.",
+      "place": {
+        "hamlet": "Hamlet 4",
+        "commune": "My Hiep Commune, My Long Commune",
+        "district": "Cao Lanh District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Sa Dec Flower Village (Tan Quy Dong Flower Village)",
+      "type_of_place": "natural",
+      "event": "The ornamental flower capital of the Southwestern region with a history of over 100 years, supplying flowers to the entire country every Tet holiday.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Quy Dong Ward",
+        "district": "Sa Dec City",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Go Thap Special National Relic Site",
+      "type_of_place": "historical",
+      "event": "The center of the ancient Oc Eo culture and a revolutionary base during the two resistance wars (home to the Temple of Thien Ho Vo Duy Duong and Doc Binh Nguyen Tan Kieu).",
+      "place": {
+        "hamlet": "Hamlet 1",
+        "commune": "Tan Kieu Commune, My Hoa Commune",
+        "district": "Thap Muoi District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Huynh Thuy Le Ancient House",
+      "type_of_place": "historical",
+      "event": "An ancient house with a blend of East-West architecture, associated with the borderless love story between Mr. Huynh Thuy Le and the French writer Marguerite Duras (author of the novel 'The Lover').",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Sa Dec City",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Gao Giong Eco-tourism Area",
+      "type_of_place": "natural",
+      "event": "Known as 'miniature Dong Thap Muoi' with a vast cajuput forest system, bird sanctuary, and unique pioneer cuisine.",
+      "place": {
+        "hamlet": "Hamlet 6",
+        "commune": "Gao Giong Commune",
+        "district": "Cao Lanh District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Phuoc Kien Pagoda (Lotus Leaf Pagoda)",
+      "type_of_place": "historical",
+      "event": "Famous for its giant water lily (king lotus) with massive leaves that an adult can stand on without sinking.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoa Tan Commune",
+        "district": "Chau Thanh District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Thap Muoi Lotus Field",
+      "type_of_place": "natural",
+      "event": "A vast lotus-growing region where visitors can experience the atmosphere of 'Thap Muoi is most beautiful with its lotus flowers'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "My Hoa Commune",
+        "district": "Thap Muoi District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Dinh Yen (Dinh Yen Sedge Mat Village)",
+      "type_of_place": "historical",
+      "event": "A famous traditional hand-woven sedge mat craft village, which once featured a unique 'ghost market' (a night market), recognized as a National Intangible Cultural Heritage.",
+      "place": {
+        "hamlet": "An Khuong Hamlet, An Loi A Hamlet",
+        "commune": "Dinh Yen Commune",
+        "district": "Lap Vo District",
+        "province": "Dong Thap"
+      }
+    },
+    {
+      "name": "Kien An Cung (Ong Quach Pagoda)",
+      "type_of_place": "historical",
+      "event": "A unique architectural work of the Chinese (Fujian) community built in 1924, recognized as a National Historical and Cultural Relic.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Sa Dec City",
+        "province": "Dong Thap"
+      }
+    }
+  ]
+}

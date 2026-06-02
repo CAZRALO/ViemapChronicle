@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Son La Prison Special National Relic",
+      "type_of_place": "historical",
+      "event": "The place where the French colonialists imprisoned and exiled loyal communists (such as To Hieu, Le Duan...), famous for the To Hieu peach tree.",
+      "place": {
+        "hamlet": "Khau Ca Hill",
+        "commune": "To Hieu Ward",
+        "district": "Son La City",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Son La Hydropower Plant",
+      "type_of_place": "historical",
+      "event": "The largest hydropower plant in Southeast Asia (at the time of inauguration), a key national project on the Da River.",
+      "place": {
+        "hamlet": "null",
+        "commune": "It Ong Commune",
+        "district": "Muong La District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Ta Xua Peak (Dinosaur Backbone)",
+      "type_of_place": "natural",
+      "event": "A famous cloud-hunting paradise in the North, featuring a mountain range shaped like a dinosaur's backbone stretching out into a floating sea of clouds.",
+      "place": {
+        "hamlet": "Chong Tra Village",
+        "commune": "Ta Xua Commune",
+        "district": "Bac Yen District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Dai Yem Waterfall (Nang Waterfall)",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of a girl's silk sash used to save a young man from floodwaters.",
+      "place": {
+        "hamlet": "Vat Village",
+        "commune": "Muong Sang Commune",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Ban Ang Pine Forest",
+      "type_of_place": "natural",
+      "event": "Likened to a 'miniature Da Lat' of the Northwest with a natural lake and vast green pine forests.",
+      "place": {
+        "hamlet": "Ban Ang Village",
+        "commune": "Dong Sang Commune",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Pha Luong Peak",
+      "type_of_place": "natural",
+      "event": "The roof of Moc Chau plateau, a landmark featured in the poem 'Tay Tien' by Quang Dung ('Whose house in Pha Luong, rain in the far distance').",
+      "place": {
+        "hamlet": "Pha Luong Village",
+        "commune": "Chieng Son Commune",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Que Lam Ngu Che Stele",
+      "type_of_place": "historical",
+      "event": "The place where King Le Thai Tong's poem was carved into the cliff in 1440 after his inspection tour of the Northwest region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Chieng Le Ward",
+        "district": "Son La City",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Heart-shaped Tea Hill",
+      "type_of_place": "natural",
+      "event": "A symbol of Moc Chau tourism, where tea rows are skillfully planted to form a heart shape.",
+      "place": {
+        "hamlet": "Mia Duong Sub-zone",
+        "commune": "Moc Chau Farm Town",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Bat Cave (Son Moc Huong Cave)",
+      "type_of_place": "natural",
+      "event": "Known as the 'First Cave of the West', the most beautiful limestone cave in the Moc Chau plateau region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Moc Chau Town",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Pa Uon Bridge",
+      "type_of_place": "historical",
+      "event": "The bridge with the tallest piers in Vietnam (at the time of construction) spanning the reservoir of the Son La Hydropower Plant.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Chieng On Commune",
+        "district": "Quynh Nhai District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Na Ka Plum Valley",
+      "type_of_place": "natural",
+      "event": "The largest hau plum valley in Moc Chau, brilliantly beautiful during the white blossom season or the fruit harvesting season.",
+      "place": {
+        "hamlet": "Na Ka Village",
+        "commune": "Moc Chau Farm Town",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    },
+    {
+      "name": "Moc Ly Fort Historical Relic",
+      "type_of_place": "historical",
+      "event": "The site of the battle that destroyed Moc Ly Fort (1952), an important victory that opened the Northwest liberation campaign.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Moc Chau Town",
+        "district": "Moc Chau District",
+        "province": "Son La"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Regional Command Headquarters Base Relic (Ta Thiet Base)",
+      "type_of_place": "historical",
+      "event": "Known as the 'Government Forest', the residence and workplace of senior leaders of the Command of the People's Liberation Armed Forces of South Vietnam during the resistance war against the US.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Loc Thanh Commune",
+        "district": "Loc Ninh District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Soc Bom Bo",
+      "type_of_place": "historical",
+      "event": "Famous for the song 'Tiếng chày trên sóc Bom Bo', marking the patriotism and contributions of the S'tieng ethnic people during the resistance war.",
+      "place": {
+        "hamlet": "Bom Bo Hamlet",
+        "commune": "Binh Minh Commune",
+        "district": "Bu Dang District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Ba Ra Mountain - Thac Mo Lake",
+      "type_of_place": "natural",
+      "event": "The highest mountain in the province (723m), associated with the heroic resistance of the Phuoc Long army and people and the Ba Ra prison during the French colonial period.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Son Giang Ward, Thac Mo Ward",
+        "district": "Phuoc Long Town",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Bu Gia Map National Park",
+      "type_of_place": "natural",
+      "event": "A vast primeval forest, conserving rare gene sources of flora and fauna in the Southeast region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bu Gia Map Commune",
+        "district": "Bu Gia Map District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Phu Rieng Do Relic",
+      "type_of_place": "historical",
+      "event": "The founding place of the first Communist Party cell in the Southeast region (October 28, 1929), initiating the struggle movement of rubber workers.",
+      "place": {
+        "hamlet": "Village 3",
+        "commune": "Thuan Phu Commune",
+        "district": "Dong Phu District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Bu Lach Grassland",
+      "type_of_place": "natural",
+      "event": "A vast natural grassland surrounding a lake, with a pristine landscape compared to a green steppe in the middle of the vast forest.",
+      "place": {
+        "hamlet": "Hamlet 7",
+        "commune": "Dong Nai Commune",
+        "district": "Bu Dang District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Mass Grave of 3,000 People",
+      "type_of_place": "historical",
+      "event": "The place marking war crimes and the sacrifice of more than 3,000 compatriots and soldiers during the Nguyen Hue campaign (Summer 1972) in An Loc.",
+      "place": {
+        "hamlet": "Phu Thinh Quarter",
+        "commune": "An Loc Ward",
+        "district": "Binh Long Town",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Phat Quoc Van Thanh Pagoda",
+      "type_of_place": "historical",
+      "event": "Famous for the 73m-high sitting Shakyamuni Buddha statue, considered one of the tallest sitting Buddha statues in Southeast Asia.",
+      "place": {
+        "hamlet": "Xa Cam 1 Quarter",
+        "commune": "Hung Chien Ward",
+        "district": "Binh Long Town",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Thac Dung",
+      "type_of_place": "natural",
+      "event": "A beautiful and majestic waterfall of Dak Woh stream, bearing the pristine beauty of the Bu Dang mountains and forests.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Doan Ket Commune",
+        "district": "Bu Dang District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Song Be Broken Bridge",
+      "type_of_place": "historical",
+      "event": "A tragic and heroic historical relic destroyed by the US military in 1975 to block the advance of the liberation army.",
+      "place": {
+        "hamlet": "Song Be Hamlet",
+        "commune": "Tan Khai Commune (bordering Hung Chien Ward)",
+        "district": "Hon Quan District",
+        "province": "Binh Phuoc"
+      }
+    },
+    {
+      "name": "Voi Waterfall",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of a herd of white elephants helping people extinguish a fierce forest fire.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Nai Commune",
+        "district": "Bu Dang District",
+        "province": "Binh Phuoc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Bach Dang Giang Relic Site",
+      "type_of_place": "historical",
+      "event": "A relic complex marking 3 heroic naval battles on the Bach Dang River associated with the heroes: Ngo Quyen (938), Le Dai Hanh (981), and Tran Hung Dao (1288).",
+      "place": {
+        "hamlet": "Trang Kenh Hamlet",
+        "commune": "Minh Duc Town",
+        "district": "Thuy Nguyen District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Cat Ba Archipelago (Cat Ba National Park)",
+      "type_of_place": "natural",
+      "event": "A UNESCO-recognized world biosphere reserve, conserving the rare Cat Ba langur and a diverse ecosystem.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cat Ba Town (and neighboring communes)",
+        "district": "Cat Hai District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Lan Ha Bay",
+      "type_of_place": "natural",
+      "event": "One of the most beautiful bays in the world, adjacent to Ha Long Bay with hundreds of limestone islands and pristine beaches.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cat Ba Town",
+        "district": "Cat Hai District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "K15 Pier (The Numberless Pier)",
+      "type_of_place": "historical",
+      "event": "The starting point of the legendary 'Numberless Ships', opening the Ho Chi Minh Trail at sea to provide support for the Southern battlefield.",
+      "place": {
+        "hamlet": "Area 3",
+        "commune": "Van Huong Ward",
+        "district": "Do Son District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Hai Phong Opera House",
+      "type_of_place": "historical",
+      "event": "One of the three largest opera houses in Vietnam built during the French colonial period (1904-1912), an architectural and cultural symbol of the Port City.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoang Van Thu Ward",
+        "district": "Hong Bang District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Hon Dau Island",
+      "type_of_place": "historical",
+      "event": "Home to the oldest lighthouse in Vietnam (built in 1892) and the temple of Nam Hai Than Vuong.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Van Huong Ward",
+        "district": "Do Son District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Voi Mountain",
+      "type_of_place": "historical",
+      "event": "An important base of our country during the Mac Dynasty and the two resistance wars against the French and Americans; home to caves with traces of prehistoric humans.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Tien Commune, Truong Thanh Commune",
+        "district": "An Lao District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Tuong Long Tower",
+      "type_of_place": "historical",
+      "event": "The Tuong Long Tower was built during the reign of King Ly Thanh Tong (1058), once a major Buddhist center in the coastal region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ngoc Xuyen Ward",
+        "district": "Do Son District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Du Hang Pagoda (Phuc Lam Temple)",
+      "type_of_place": "historical",
+      "event": "A famous ancient pagoda, rumored to date back to the Early Le Dynasty, preserving many precious relics and exquisite carved architecture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ho Nam Ward",
+        "district": "Le Chan District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Mac Dynasty Memorial Site",
+      "type_of_place": "historical",
+      "event": "A place of worship for the kings and famous generals of the Mac Dynasty, located on the birthplace of the Mac Dynasty (Co Trai).",
+      "place": {
+        "hamlet": "Co Trai Hamlet",
+        "commune": "Ngu Doan Commune",
+        "district": "Kien Thuy District",
+        "province": "Hai Phong City"
+      }
+    },
+    {
+      "name": "Tuyet Tinh Coc (Blue Lake)",
+      "type_of_place": "natural",
+      "event": "An artificial lake (due to stone quarrying) with a unique turquoise color, which is a famous check-in spot.",
+      "place": {
+        "hamlet": "Trai Son Hamlet",
+        "commune": "An Son Commune",
+        "district": "Thuy Nguyen District",
+        "province": "Hai Phong City"
+      }
+    }
+  ]
+}

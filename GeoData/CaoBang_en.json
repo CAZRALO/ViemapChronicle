@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Ban Gioc Waterfall",
+      "type_of_place": "natural",
+      "event": "One of the most beautiful and largest transboundary waterfalls in the world, located on the Quay Son River (Vietnam - China border).",
+      "place": {
+        "hamlet": "Gun Village",
+        "commune": "Dam Thuy Commune",
+        "district": "Trung Khanh District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Pac Bo Special National Historical Site",
+      "type_of_place": "historical",
+      "event": "The place where President Ho Chi Minh first set foot back in his homeland (28/01/1941) after 30 years of traveling abroad to find a way to save the country and directly lead the revolution.",
+      "place": {
+        "hamlet": "Pac Bo Village",
+        "commune": "Truong Ha Commune",
+        "district": "Ha Quang District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Tran Hung Dao Forest Special National Historical Site",
+      "type_of_place": "historical",
+      "event": "The founding place of the Vietnam Armed Propaganda Unit for National Liberation (the predecessor of the Vietnam People's Army) on 22/12/1944.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Kim Commune, Hoa Tham Commune",
+        "district": "Nguyen Binh District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Nguom Ngao Cave",
+      "type_of_place": "natural",
+      "event": "A stunning limestone cave with a magical system of stalactites, whose name in the Tay language means 'Tiger Cave'.",
+      "place": {
+        "hamlet": "Gun Village",
+        "commune": "Dam Thuy Commune",
+        "district": "Trung Khanh District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Thang Hen Lake",
+      "type_of_place": "natural",
+      "event": "The most beautiful mountain freshwater lake in the Thang Hen system of 36 lakes, associated with the legend of young man Sung.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quoc Toan Commune",
+        "district": "Quang Hoa District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Mat Than Mountain (Thung Mountain)",
+      "type_of_place": "natural",
+      "event": "A unique mountain with a hole through its center about 50m in diameter, dubbed the 'Tuyet Tinh Coc' of Cao Bang.",
+      "place": {
+        "hamlet": "Danh Village",
+        "commune": "Cao Chuong Commune",
+        "district": "Trung Khanh District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Dong Khe Victory Historical Site",
+      "type_of_place": "historical",
+      "event": "The site of the key opening battle of the 1950 Autumn-Winter Border Campaign, marking a major milestone in the growth of our army.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Khe Town",
+        "district": "Thach An District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Tomb of Heroic Martyr Kim Dong",
+      "type_of_place": "historical",
+      "event": "The resting place of Nong Van Den (Kim Dong) - the first leader of the Ho Chi Minh Young Pioneer Organization.",
+      "place": {
+        "hamlet": "Na Ma Hamlet",
+        "commune": "Truong Ha Commune",
+        "district": "Ha Quang District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Phat Tich Truc Lam Ban Gioc Pagoda",
+      "type_of_place": "historical",
+      "event": "The first pagoda built on the northern border of the country, carrying spiritual significance and guarding the frontier.",
+      "place": {
+        "hamlet": "Phia Nham",
+        "commune": "Dam Thuy Commune",
+        "district": "Trung Khanh District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Ma Phuc Pass",
+      "type_of_place": "natural",
+      "event": "The famous 7-tier pass, recognized by UNESCO as a unique geological heritage site within the Non Nuoc Cao Bang Geopark.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Boundary of Quoc Toan Commune (Quang Hoa) and Nguyen Hue Commune (Hoa An)",
+        "district": "Quang Hoa District, Hoa An District",
+        "province": "Cao Bang"
+      }
+    },
+    {
+      "name": "Phuc Sen Blacksmith Village",
+      "type_of_place": "historical",
+      "event": "The famous traditional blacksmith craft village of the Nung An people, with a history of hundreds of years.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuc Sen Commune",
+        "district": "Quang Hoa District",
+        "province": "Cao Bang"
+      }
+    }
+  ]
+}

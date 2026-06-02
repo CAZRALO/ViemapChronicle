@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Tam Chuc National Tourism Area",
+      "type_of_place": "historical",
+      "event": "Known as 'Ha Long Bay on land', home to the world's largest pagoda and host of the United Nations Day of Vesak.",
+      "place": {
+        "hamlet": "Duc Hamlet",
+        "commune": "Ba Sao Town",
+        "district": "Kim Bang District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Ba Danh Pagoda",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda famous for the idiom 'As deserted as Ba Danh Pagoda', located by the poetic Day River.",
+      "place": {
+        "hamlet": "Danh Hamlet",
+        "commune": "Ngoc Son Commune",
+        "district": "Kim Bang District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Tran Thuong Temple",
+      "type_of_place": "historical",
+      "event": "A Special National Relic, reputedly an important food storage site of Hung Dao Dai Vuong Tran Quoc Tuan during the resistance war against the Mongol invaders.",
+      "place": {
+        "hamlet": "Tran Thuong Hamlet",
+        "commune": "Tran Hung Dao Commune",
+        "district": "Ly Nhan District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Ba Kien's House (Vu Dai Village)",
+      "type_of_place": "historical",
+      "event": "A house over 100 years old, the prototype in the classic literary work 'Chi Pheo' by writer Nam Cao.",
+      "place": {
+        "hamlet": "Hamlet 4 (Vu Dai Village)",
+        "commune": "Hoa Hau Commune",
+        "district": "Ly Nhan District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Long Doi Son Pagoda (Doi Pagoda)",
+      "type_of_place": "historical",
+      "event": "A Special National Relic, home to the Sung Thien Dien Linh Stele (a National Treasure) from the Ly Dynasty and the venue for the annual Doi Son Tich Dien (Ploughing) Festival.",
+      "place": {
+        "hamlet": "Doi Tam Hamlet",
+        "commune": "Tien Son Commune",
+        "district": "Duy Tien Town",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Dia Tang Phi Lai Tu (Dung Pagoda)",
+      "type_of_place": "historical",
+      "event": "A pagoda with beautiful, peaceful architecture leaning against the mountain, which has recently become a famous spiritual and 'Instagrammable' destination.",
+      "place": {
+        "hamlet": "Ninh Trung Hamlet",
+        "commune": "Liem Son Commune",
+        "district": "Thanh Liem District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Kem Trong",
+      "type_of_place": "natural",
+      "event": "A national scenic spot dubbed the 'Third finest cave of the Southern sky', which was once featured in the poetry of female poet Ho Xuan Huong.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Hai Commune",
+        "district": "Thanh Liem District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Lanh Giang Temple",
+      "type_of_place": "historical",
+      "event": "A place of worship for the Three Famous Deities of the Tran Dynasty, closely associated with Mother Goddess worship and the legends of the Red River.",
+      "place": {
+        "hamlet": "Yen Lac Hamlet",
+        "commune": "Moc Nam Commune",
+        "district": "Duy Tien Town",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Bat Canh Son",
+      "type_of_place": "natural",
+      "event": "A scenic complex with 8 beautiful pagodas and caves, once a place where Lord Trinh Sam came to sightsee and compared to a carefree paradise.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tuong Linh Commune",
+        "district": "Kim Bang District",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Doi Tam Drum Making Village",
+      "type_of_place": "historical",
+      "event": "A famous traditional drum-making village over 1,000 years old, where the largest thunder drum in Vietnam was made.",
+      "place": {
+        "hamlet": "Doi Tam Hamlet",
+        "commune": "Tien Son Commune",
+        "district": "Duy Tien Town",
+        "province": "Ha Nam"
+      }
+    },
+    {
+      "name": "Ao Dong - Luon Cave",
+      "type_of_place": "natural",
+      "event": "An eco-tourism area with picturesque landscapes of mountains and water, suitable for boating and cave exploration activities.",
+      "place": {
+        "hamlet": "But Phong Hamlet",
+        "commune": "Lien Son Commune",
+        "district": "Kim Bang District",
+        "province": "Ha Nam"
+      }
+    }
+  ]
+}

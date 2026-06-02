@@ -1,0 +1,235 @@
+{
+  "sites": [
+    {
+      "name": "Bien Ho (T'Nung Lake)",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bien Ho Commune",
+        "district": "Pleiku City",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Chu Dang Ya Volcano",
+      "type_of_place": "natural",
+      "event": "An extinct volcano for millions of years, famous for its annual Wild Sunflower Festival.",
+      "place": {
+        "hamlet": "Ia Gri Village",
+        "commune": "Chu Dang Ya Commune",
+        "district": "Chu Pah District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Dai Doan Ket Square",
+      "type_of_place": "historical",
+      "event": "The political and cultural center, home to the Monument of Uncle Ho with the Ethnic Minorities of the Central Highlands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tay Son Ward",
+        "district": "Pleiku City",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Tay Son Thuong Dao Historical and Cultural Relic Site",
+      "type_of_place": "historical",
+      "event": "The first base of the Tay Son Uprising (1771-1773) before advancing down to the Binh Dinh plains (Tay Son Ha Dao).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Communes/wards in An Khe area and surrounding areas",
+        "district": "An Khe Town, Dak Po District, Kong Chro District, Kbang District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Phu Cuong Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dun Commune",
+        "district": "Chu Se District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Stor Resistance Village",
+      "type_of_place": "historical",
+      "event": "The hometown of Hero Nup, a symbol of the Central Highlands' indomitable spirit during the resistance war against the French.",
+      "place": {
+        "hamlet": "Stor Village",
+        "commune": "To Tung Commune",
+        "district": "Kbang District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Pleiku Prison",
+      "type_of_place": "historical",
+      "event": "The place where communist soldiers and patriots were imprisoned during the two resistance wars against the French and the Americans.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dien Hong Ward",
+        "district": "Pleiku City",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "K50 Waterfall (Hang En Waterfall)",
+      "type_of_place": "natural",
+      "event": "Located in the Kon Chu Rang Nature Reserve, known as the 'muse' of the great forest.",
+      "place": {
+        "hamlet": "Hamlet 1 (bordering area)",
+        "commune": "Son Lang Commune",
+        "district": "Kbang District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Roc Tung - Go Da Archaeological Site",
+      "type_of_place": "historical",
+      "event": "A Paleolithic relic site, proving the very early presence of humans in this land (about 800,000 years ago).",
+      "place": {
+        "hamlet": "Roc Tung Hamlet",
+        "commune": "Xuan An Commune, An Binh Ward",
+        "district": "An Khe Town",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Kon Ka Kinh National Park",
+      "type_of_place": "natural",
+      "event": "An ASEAN Heritage Park, conserving the unique biodiversity of the high mountains of the Central Highlands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Many communes in 3 districts",
+        "district": "Dak Doa District, Mang Yang District, Kbang District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Minh Thanh Pagoda",
+      "type_of_place": "historical",
+      "event": "A unique Buddhist architectural work with strong Asian identity, which is a famous spiritual tourism destination.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoi Phu Ward",
+        "district": "Pleiku City",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "The hundred-year-old pine avenue (The Road of Love)",
+      "type_of_place": "natural",
+      "event": "Planted during the French colonial period (early 20th century) by tea plantation workers.",
+      "place": {
+        "hamlet": "Hamlet 1",
+        "commune": "Nghia Hung Commune",
+        "district": "Chu Pah District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Chin Tang Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ia Sao Commune",
+        "district": "Ia Grai District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Dak Po Victory Monument",
+      "type_of_place": "historical",
+      "event": "Marking the largest mobile ambush battle during the resistance war against the French in Interzone 5 (1954).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dak Po Town",
+        "district": "Dak Po District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Ham Rong Mountain (Chu Hdrung)",
+      "type_of_place": "natural",
+      "event": "Considered the roof of Pleiku, it is an extinct positive volcanic crater from millions of years ago.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Chu Hdrung Commune",
+        "district": "Pleiku City",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Bau Can Tea Hill",
+      "type_of_place": "natural",
+      "event": "Associated with the history of the French Catecka tea plantation exploitation since the early 20th century.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bau Can Commune",
+        "district": "Chu Prong District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Xung Khoeng Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ia Me Commune",
+        "district": "Chu Prong District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Zone 10 Revolutionary Base",
+      "type_of_place": "historical",
+      "event": "An important base of Gia Lai Province during the resistance war against the US for national salvation.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Krong Commune",
+        "district": "Kbang District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Dong Xanh Cultural Park",
+      "type_of_place": "historical",
+      "event": "A place that recreates the cultural space of the Central Highlands ethnic groups and preserves many historical and cultural artifacts.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Phu Commune",
+        "district": "Pleiku City",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Ialy Hydropower",
+      "type_of_place": "natural",
+      "event": "The largest underground hydropower project in the Central Highlands, associated with the cause of industrialization and conquering nature.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ialy Commune",
+        "district": "Chu Pah District",
+        "province": "Gia Lai"
+      }
+    },
+    {
+      "name": "Tan Son Dam",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nghia Hung Commune",
+        "district": "Chu Pah District",
+        "province": "Gia Lai"
+      }
+    }
+  ]
+}

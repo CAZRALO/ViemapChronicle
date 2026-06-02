@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Ca Mau Cape (Dat Mui)",
+      "type_of_place": "natural",
+      "event": "The southernmost point on the mainland of the Fatherland, the only place in Vietnam where you can watch the sun rise over the East Sea and set in the West Sea.",
+      "place": {
+        "hamlet": "Mui Hamlet",
+        "commune": "Dat Mui Commune",
+        "district": "Ngoc Hien District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Hon Da Bac",
+      "type_of_place": "historical",
+      "event": "Marks the glorious victory of Campaign CM12 (against commando spies) and is home to Lang Ong Nam Hai (Nam Hai Whale Temple), which worships a giant whale skeleton.",
+      "place": {
+        "hamlet": "Kinh Hon Hamlet",
+        "commune": "Khanh Binh Tay Commune",
+        "district": "Tran Van Thoi District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "U Minh Ha National Park",
+      "type_of_place": "natural",
+      "event": "A world biosphere reserve, famous for its characteristic flooded melaleuca forest ecosystem and the craft of bee-raftering.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Khanh Lam Commune, Khanh An Commune",
+        "district": "U Minh District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Thi Tuong Lagoon",
+      "type_of_place": "natural",
+      "event": "The largest natural lagoon in the Mekong Delta, dubbed the 'Sea Lake in the middle of the delta'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bordering communes of 3 districts",
+        "district": "Tran Van Thoi District, Phu Tan District, Cai Nuoc District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "President Ho Chi Minh Memorial Area",
+      "type_of_place": "historical",
+      "event": "A place where the people of Dat Mui show their respect to Uncle Ho, featuring a replica of Uncle Ho's Stilt House in Hanoi.",
+      "place": {
+        "hamlet": "Quarter 1",
+        "commune": "Ward 1",
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Vam Lung Wharf Relic",
+      "type_of_place": "historical",
+      "event": "An important port of the Ho Chi Minh Trail at Sea, which received weapons from the North to support the Southern battlefield.",
+      "place": {
+        "hamlet": "Dinh Han Hamlet",
+        "commune": "Tan An Commune",
+        "district": "Ngoc Hien District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Monivongsa Bopharam Pagoda",
+      "type_of_place": "historical",
+      "event": "The largest and most beautiful Khmer pagoda in Ca Mau, deeply imbued with Theravada Buddhist architecture and Khmer culture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1",
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Khai Long Beach",
+      "type_of_place": "natural",
+      "event": "A rare fine-sand beach amidst the mangrove forest ecosystem, where natural land reclamation by the sea occurs annually.",
+      "place": {
+        "hamlet": "Khai Long Hamlet",
+        "commune": "Dat Mui Commune",
+        "district": "Ngoc Hien District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Ngoc Hien Bird Sanctuary (Cha La Bird Sanctuary)",
+      "type_of_place": "natural",
+      "event": "One of the largest natural bird sanctuaries in the country, home to tens of thousands of storks, night herons, and rare bird species.",
+      "place": {
+        "hamlet": "Cha La Hamlet",
+        "commune": "Tran Phan Commune",
+        "district": "Dam Doi District",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "Ca Mau Telegraph House",
+      "type_of_place": "historical",
+      "event": "A telecommunications architectural relic built by the French colonists in 1910, closely associated with the province's history of revolutionary struggle.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      }
+    },
+    {
+      "name": "19/5 Forest Park (Ca Mau Bird Garden)",
+      "type_of_place": "natural",
+      "event": "A natural bird garden located right in the heart of the city, where visitors can observe the lives of wild birds.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1",
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      }
+    }
+  ]
+}

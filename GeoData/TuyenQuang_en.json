@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Tan Trao Special National Historical Relic Site",
+      "type_of_place": "historical",
+      "event": "The Capital of the Liberated Zone, the Capital of the Resistance, where major historical events took place that decided the nation's destiny during the August Revolution.",
+      "place": {
+        "hamlet": "Tan Lap Hamlet",
+        "commune": "Tan Trao Commune",
+        "district": "Son Duong District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Tan Trao Banyan Tree",
+      "type_of_place": "historical",
+      "event": "The place where General Vo Nguyen Giap read Military Order No. 1, ordering the troops to march towards Hanoi (afternoon of August 16, 1945).",
+      "place": {
+        "hamlet": "Tan Lap Hamlet",
+        "commune": "Tan Trao Commune",
+        "district": "Son Duong District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Na Nua Shack",
+      "type_of_place": "historical",
+      "event": "The place where President Ho Chi Minh lived and worked from May to August 1945 to direct the General Uprising.",
+      "place": {
+        "hamlet": "Tan Lap Hamlet",
+        "commune": "Tan Trao Commune",
+        "district": "Son Duong District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Tan Trao Communal House",
+      "type_of_place": "historical",
+      "event": "The venue of the National Congress (predecessor of the National Assembly) on August 16, 1945, which elected the National Liberation Committee of Vietnam.",
+      "place": {
+        "hamlet": "Tan Lap Hamlet",
+        "commune": "Tan Trao Commune",
+        "district": "Son Duong District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Na Hang - Lam Binh Eco-tourism Area",
+      "type_of_place": "natural",
+      "event": "Likened to 'Ha Long on land' in the middle of the vast forest, famous for Tuyen Quang hydroelectric reservoir, Pac Ta Mountain, and Vai Pha pillar.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Communes in Na Hang and Lam Binh districts",
+        "district": "Na Hang District, Lam Binh District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "My Lam Mineral Spring",
+      "type_of_place": "natural",
+      "event": "A famous natural sulfur mineral water source, rated as one of the best mineral water sources in Indochina.",
+      "place": {
+        "hamlet": "null",
+        "commune": "My Lam Ward",
+        "district": "Tuyen Quang City",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Mac Dynasty Citadel (Tuyen Quang)",
+      "type_of_place": "historical",
+      "event": "A feudal military architectural relic built in 1592, witnessing many historical battles.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Quang Ward",
+        "district": "Tuyen Quang City",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Kim Binh Relic Site",
+      "type_of_place": "historical",
+      "event": "The venue of the 2nd National Congress of the Party (February 1951) - the first Congress to be held domestically.",
+      "place": {
+        "hamlet": "Bo Cung Hamlet",
+        "commune": "Kim Binh Commune",
+        "district": "Chiem Hoa District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Mo Waterfall (Pac Ban Waterfall)",
+      "type_of_place": "natural",
+      "event": "A national scenic spot, a majestic waterfall associated with the legend of Mo, the wife of a young man who went to catch turtles.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Na Hang Town",
+        "district": "Na Hang District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Ha Temple (Hiep Thuan Than Huong Linh Tu)",
+      "type_of_place": "historical",
+      "event": "A sacred temple dedicated to Mau Thuong Ngan (Princess Phuong Dung), associated with the legend of the two princesses, daughters of the Hung King.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Quang Ward",
+        "district": "Tuyen Quang City",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Ban Ba Waterfall",
+      "type_of_place": "natural",
+      "event": "A unique 3-tiered waterfall located in the middle of a primeval forest, featuring wild and poetic beauty.",
+      "place": {
+        "hamlet": "Ban Ba Hamlet",
+        "commune": "Trung Hà Commune",
+        "district": "Chiem Hoa District",
+        "province": "Tuyen Quang"
+      }
+    },
+    {
+      "name": "Hong Thai Communal House",
+      "type_of_place": "historical",
+      "event": "The communication station and the first stop of Uncle Ho when he returned from Pac Bo to Tan Trao (May 1945).",
+      "place": {
+        "hamlet": "Ca Village",
+        "commune": "Tan Trao Commune",
+        "district": "Son Duong District",
+        "province": "Tuyen Quang"
+      }
+    }
+  ]
+}

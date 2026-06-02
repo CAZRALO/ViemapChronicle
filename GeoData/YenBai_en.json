@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Mu Cang Chai Terraced Fields Scenic Landscape",
+      "type_of_place": "natural",
+      "event": "A Special National Monument, famous for its terraced fields as beautiful as wood grain, especially during the watering season and the ripe rice season.",
+      "place": {
+        "hamlet": "null",
+        "commune": "La Pan Tan Commune, Che Cu Nha Commune, De Xu Phinh Commune",
+        "district": "Mu Cang Chai District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Thac Ba Lake",
+      "type_of_place": "natural",
+      "event": "One of the three largest artificial lakes in Vietnam, likened to 'Ha Long on the mountain' with more than 1,300 large and small islands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Spanning across many communes",
+        "district": "Yen Binh District, Luc Yen District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Khau Pha Pass",
+      "type_of_place": "natural",
+      "event": "One of the 'Four Great Passes' of the Northwest, home to the famous 'Flying over the Golden Season' paragliding festival.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cao Pha Commune",
+        "district": "Mu Cang Chai District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Yen Bai Uprising Monument (Nguyen Thai Hoc Tomb)",
+      "type_of_place": "historical",
+      "event": "The resting place of patriot Nguyen Thai Hoc and his comrades in the Yen Bai Uprising (1930) against French colonialists.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nguyen Thai Hoc Ward",
+        "district": "Yen Bai City",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Muong Lo Field",
+      "type_of_place": "natural",
+      "event": "The second largest rice field in the Northwest region ('First Thanh, second Lo...'), the cradle of Black Thai culture with the Xoe Thai dance (an Intangible Cultural Heritage).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan An Ward, Pu Trang Ward...",
+        "district": "Nghia Lo Town",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Suoi Giang",
+      "type_of_place": "natural",
+      "event": "Famous for its centuries-old ancient Shan Tuyet tea forest and a year-round cool climate like Sapa.",
+      "place": {
+        "hamlet": "Giang B Hamlet",
+        "commune": "Suoi Giang Commune",
+        "district": "Van Chan District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Dong Cuong Temple",
+      "type_of_place": "historical",
+      "event": "A sacred temple located by the Red River, dedicated to Mother Goddess De Nhi Thuong Ngan, an important spiritual destination in Mother Goddess worship.",
+      "place": {
+        "hamlet": "Ben Den Hamlet",
+        "commune": "Dong Cuong Commune",
+        "district": "Van Yen District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Ta Chi Nhu Peak",
+      "type_of_place": "natural",
+      "event": "The roof of Yen Bai (2,979m), a paradise for cloud hunting and admiring purple Chi Pau flowers in late autumn.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Xa Ho Commune",
+        "district": "Tram Tau District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Tram Tau Hot Springs",
+      "type_of_place": "natural",
+      "event": "A natural hot spring area nestled among terraced fields, an ideal resort destination.",
+      "place": {
+        "hamlet": "Quarter 5",
+        "commune": "Tram Tau Town",
+        "district": "Tram Tau District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Van War Zone",
+      "type_of_place": "historical",
+      "event": "An important revolutionary base during the resistance war against the French, located in the border area between two districts.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Viet Hong Commune (Tran Yen) and Dai Lich Commune (Van Chan)",
+        "district": "Tran Yen District, Van Chan District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Hang Te Cho Waterfall",
+      "type_of_place": "natural",
+      "event": "Known as one of the 'four great death zones' for backpackers, this is one of the most pristine and majestic waterfalls in the Northwest.",
+      "place": {
+        "hamlet": "Hang Te Cho Village",
+        "commune": "Lang Nhi Commune",
+        "district": "Tram Tau District",
+        "province": "Yen Bai"
+      }
+    },
+    {
+      "name": "Cu Vai Village",
+      "type_of_place": "natural",
+      "event": "A Mong ethnic village isolated on a high mountain peak, covered in clouds year-round, preserving its pristine beauty.",
+      "place": {
+        "hamlet": "Cu Vai Village",
+        "commune": "Xa Ho Commune",
+        "district": "Tram Tau District",
+        "province": "Yen Bai"
+      }
+    }
+  ]
+}

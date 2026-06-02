@@ -1,0 +1,235 @@
+{
+  "sites": [
+    {
+      "name": "Quang Trung Museum and Tay Son Tam Kiet Shrine",
+      "type_of_place": "historical",
+      "event": "A place preserving artifacts of the Tay Son uprising and the three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu; built on the very foundation of their old house, associated with a laterite water well and a giant tamarind tree over 300 years old.",
+      "place": {
+        "hamlet": "Block 1",
+        "commune": "Phu Phong Town",
+        "district": "Tay Son District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Thap Doi Special National Relic",
+      "type_of_place": "historical",
+      "event": "A cluster of two ancient Cham towers built around the late 12th to early 13th century, featuring the unique architectural and artistic style of the Champa Kingdom with intricately carved reliefs.",
+      "place": {
+        "hamlet": "Quarter 5",
+        "commune": "Dong Da Ward",
+        "district": "Quy Nhon City",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Eo Gio Tourist Area",
+      "type_of_place": "natural",
+      "event": "A pristine natural landscape with a strait embraced by rocky mountains, famous as one of the most beautiful spots to watch the sunrise in Vietnam.",
+      "place": {
+        "hamlet": "Ly Luong Hamlet",
+        "commune": "Nhon Ly Commune",
+        "district": "Quy Nhon City",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Ky Co Beach",
+      "type_of_place": "natural",
+      "event": "A pristine beach with a white sand strip hugging the coastline and clear water with two distinct shades of blue, often referred to as the 'Maldives of Vietnam'.",
+      "place": {
+        "hamlet": "Ly Luong Hamlet",
+        "commune": "Nhon Ly Commune",
+        "district": "Quy Nhon City",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Duong Long Towers Special National Relic",
+      "type_of_place": "historical",
+      "event": "The tallest surviving cluster of three brick Cham towers in Southeast Asia, symbolizing the pinnacle of Cham brick and stone architectural sculpture.",
+      "place": {
+        "hamlet": "Van Tuong Hamlet",
+        "commune": "Binh Hoa Commune",
+        "district": "Tay Son District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Heaven and Earth Altar Relic Area (Kinh Thien Dai)",
+      "type_of_place": "historical",
+      "event": "The place where the three Tay Son brothers set up an altar to worship Heaven and Earth, received the seal and sword, and prayed before raising troops to establish the Tay Son Dynasty.",
+      "place": {
+        "hamlet": "Hoa Son Hamlet",
+        "commune": "Binh Tuong Commune",
+        "district": "Tay Son District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Ham Ho Eco-tourism Area",
+      "type_of_place": "natural",
+      "event": "A scenic natural landscape featuring a majestic river stretch and granite rocks on the riverbed; it was once a strategic military base for the Tay Son insurgent army and Mai Xuan Thuong's insurgent army.",
+      "place": {
+        "hamlet": "Phu Lâm Hamlet",
+        "commune": "Tay Phu Commune",
+        "district": "Tay Son District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Banh It Towers (Silver Tower)",
+      "type_of_place": "historical",
+      "event": "A cluster of four Cham towers located on a hill, which is one of the largest ancient tower complexes and bears a strong architectural transition from the My Son A1 style to the Binh Dinh style.",
+      "place": {
+        "hamlet": "Dai Loc Hamlet",
+        "commune": "Phuoc Hiep Commune",
+        "district": "Tuy Phuoc District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Tomb of Poet Han Mac Tu and Ghenh Rang - Tien Sa",
+      "type_of_place": "historical",
+      "event": "The resting place of the talented but ill-fated poet Han Mac Tu, located within the Ghenh Rang scenic complex featuring the unique Queen's Beach.",
+      "place": {
+        "hamlet": "Quarter 1",
+        "commune": "Ghenh Rang Ward",
+        "district": "Quy Nhon City",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Thi Nai Lagoon",
+      "type_of_place": "natural",
+      "event": "The largest saltwater lagoon in Binh Dinh Province, featuring a diverse mangrove ecosystem; it was once a fierce naval battlefield in history between the Tay Son and Nguyen Anh forces.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuoc Thuan Commune, Phuoc Son Commune",
+        "district": "Tuy Phuoc District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Thap Thap Di Da Pagoda",
+      "type_of_place": "historical",
+      "event": "The oldest ancestral pagoda of the Lam Te Zen sect in Central Vietnam, built on the ruins of 10 collapsed Cham towers in the late 17th century.",
+      "place": {
+        "hamlet": "Van Thuan Quarter",
+        "commune": "Nhon Thanh Ward",
+        "district": "An Nhon Town",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Emperor Citadel Historical Relic (Do Ban Citadel)",
+      "type_of_place": "historical",
+      "event": "The last capital of the Champa Kingdom (Do Ban Citadel), which was later rebuilt by Nguyen Nhac as the headquarters and capital of the Tay Son Dynasty.",
+      "place": {
+        "hamlet": "Nam Tan Hamlet",
+        "commune": "Nhon Hau Commune",
+        "district": "An Nhon Town",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Canh Tien Tower",
+      "type_of_place": "historical",
+      "event": "A solitary Cham tower located right in the center of the Emperor Citadel, featuring elegant architecture with curved roof corners resembling flying fairy wings.",
+      "place": {
+        "hamlet": "Nam Tan Hamlet",
+        "commune": "Nhon Hau Commune",
+        "district": "An Nhon Town",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Binh Lam Tower",
+      "type_of_place": "historical",
+      "event": "A unique Cham tower built right in the plains rather than on hills or mountains, featuring an architectural style transitioning from the 10th to the 11th century.",
+      "place": {
+        "hamlet": "Binh Lam Hamlet",
+        "commune": "Phuoc Hoa Commune",
+        "district": "Tuy Phuoc District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Lo Dieu Numberless Pier Relic",
+      "type_of_place": "historical",
+      "event": "The site marking the event of the first numberless ship docking in the waters of Binh Dinh, transporting weapons and supplies to the soldiers and people of Zone V during the resistance war against the US.",
+      "place": {
+        "hamlet": "Lo Dieu Hamlet",
+        "commune": "Hoai My Commune",
+        "district": "Hoai Nhon Town",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Nui Ba Historical Relic Area",
+      "type_of_place": "historical",
+      "event": "A solid revolutionary base of the soldiers and people of Binh Dinh during the two resistance wars; a mountain complex featuring the largest sitting Buddha statue in Southeast Asia at Linh Phong Pagoda (Ong Nui Pagoda).",
+      "place": {
+        "hamlet": "Phuong Phi Hamlet",
+        "commune": "Cat Tien Commune",
+        "district": "Phu Cat District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Cu Lao Xanh Island (Nhon Chau Island)",
+      "type_of_place": "natural",
+      "event": "An outpost island with pristine, fresh beauty and an ancient lighthouse built during the French colonial period.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nhon Chau Commune",
+        "district": "Quy Nhon City",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Lang Song Church (Lang Song Minor Seminary)",
+      "type_of_place": "historical",
+      "event": "One of the first cradles of printing and disseminating the Vietnamese Romanized script (Chu Quoc Ngu) through mass publications in Vietnam; featuring ancient European-style Gothic architecture.",
+      "place": {
+        "hamlet": "Quang Van Hamlet",
+        "commune": "Phuoc Thuan Commune",
+        "district": "Tuy Phuoc District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Phuong Mai Sand Dunes",
+      "type_of_place": "natural",
+      "event": "One of the tallest and most beautiful sand dunes in Central Vietnam, famous for its vast, pristine sandy slopes that change shape with the direction of the wind.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nhon Ly Commune",
+        "district": "Quy Nhon City",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Temple of Cultural Celebrity Dao Tan",
+      "type_of_place": "historical",
+      "event": "A place to honor and worship Dao Tan - the patron saint of Vietnamese Tuong (classical drama) art, and a great cultural figure of the Nguyen Dynasty.",
+      "place": {
+        "hamlet": "Vinh Thanh Hamlet",
+        "commune": "Phuoc Loc Commune",
+        "district": "Tuy Phuoc District",
+        "province": "Binh Dinh"
+      }
+    },
+    {
+      "name": "Nguyen Sinh Sac Memorial Site at Binh Khe District Office",
+      "type_of_place": "historical",
+      "event": "The site marking the time when Uncle Ho's father served as the district magistrate of Binh Khe, and the location of the historic farewell between the father and son before Nguyen Tat Thanh went south to find a way to save the country.",
+      "place": {
+        "hamlet": "Thuong Giang Hamlet",
+        "commune": "Tay Giang Commune",
+        "district": "Tay Son District",
+        "province": "Binh Dinh"
+      }
+    }
+  ]
+}

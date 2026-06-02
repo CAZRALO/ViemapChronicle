@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Citadel of the Ho Dynasty (Tay Do Citadel)",
+      "type_of_place": "historical",
+      "event": "A UNESCO World Cultural Heritage site, the capital of Dai Ngu under the Ho Dynasty, and one of the most unique and solid stone architectural works in Southeast Asia.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Long Commune, Vinh Tien Commune",
+        "district": "Vinh Loc District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Lam Kinh Historical Relic Area",
+      "type_of_place": "historical",
+      "event": "The base of the Lam Son Uprising and the resting and worship place of the kings and queen mothers of the Later Le Dynasty; home to the Vinh Lang Stele composed by Nguyen Trai.",
+      "place": {
+        "hamlet": "Hao Luong Hamlet",
+        "commune": "Lam Son Town",
+        "district": "Tho Xuan District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Sam Son Beach",
+      "type_of_place": "natural",
+      "event": "A famous beach resort developed by the French since 1906, associated with the legend of Hon Trong Mai and Doc Cuoc Temple.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Wards: Bac Son, Trung Son, Truong Son, Quang Cu...",
+        "district": "Sam Son City",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Cam Luong Sacred Fish Stream",
+      "type_of_place": "natural",
+      "event": "A mysterious stream with thousands of large and small 'gioc' fish crowding together that locals never eat, associated with the legend of the Snake God.",
+      "place": {
+        "hamlet": "Ngoc Village",
+        "commune": "Cam Luong Commune",
+        "district": "Cam Thuy District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Ham Rong Bridge",
+      "type_of_place": "historical",
+      "event": "Known as the 'sacred Ham Rong', a symbol of resilient will during the anti-American resistance war (a fiery coordinate protecting the vital route).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ham Rong Ward",
+        "district": "Thanh Hoa City",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Pu Luong Nature Reserve",
+      "type_of_place": "natural",
+      "event": "Famous for its beautiful terraced rice fields, limestone karst ecosystem, and the indigenous culture of the Thai and Muong ethnic groups.",
+      "place": {
+        "hamlet": "Don Village, Hieu Village...",
+        "commune": "Thanh Lam Commune, Co Lung Commune (and neighboring communes)",
+        "district": "Ba Thuoc District (and Quan Hoa District)",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Ba Trieu Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the national heroine Trieu Thi Trinh (Lady Trieu), who rode an elephant to drive away the Eastern Wu invaders (in 248).",
+      "place": {
+        "hamlet": "Phu Dien Hamlet",
+        "commune": "Trieu Loc Commune",
+        "district": "Hau Loc District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Ben En National Park",
+      "type_of_place": "natural",
+      "event": "Likened to the 'Ha Long Bay on land' of the Thanh region with the vast Song Muc Lake and rich flora and fauna.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hai Van Commune, Xuan Thai Commune, Binh Luong Commune...",
+        "district": "Nhu Thanh District, Nhu Xuan District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Le Hoan Temple",
+      "type_of_place": "historical",
+      "event": "A special national relic site, the place of worship for King Le Dai Hanh, outstanding for its unique 'Cong' character-shaped architecture and exquisite wood carving art.",
+      "place": {
+        "hamlet": "Trung Lap Village",
+        "commune": "Xuan Lap Commune",
+        "district": "Tho Xuan District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Hai Tien Beach",
+      "type_of_place": "natural",
+      "event": "An emerging beach with pristine beauty, a long sandy shore, and lush green casuarina groves.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoang Tien Commune, Hoang Hai Commune, Hoang Thanh Commune...",
+        "district": "Hoang Hoa District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Voi Waterfall",
+      "type_of_place": "natural",
+      "event": "A beautiful, pristine waterfall, legend has it that King Quang Trung's war elephants stopped here to drink water on their way north (for the Ngoc Hoi - Dong Da battle).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Van Commune",
+        "district": "Thach Thanh District",
+        "province": "Thanh Hoa"
+      }
+    },
+    {
+      "name": "Hon Trong Mai",
+      "type_of_place": "natural",
+      "event": "A scenic spot located on Truong Le Mountain, consisting of three stacked boulders resembling a pair of male and female birds, symbolizing faithful love.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Truong Son Ward",
+        "district": "Sam Son City",
+        "province": "Thanh Hoa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Hoi An Ancient Town",
+      "type_of_place": "historical",
+      "event": "UNESCO World Cultural Heritage, the busiest international trading port in Southeast Asia in the 16th-17th centuries.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Minh An Ward (and neighboring wards)",
+        "district": "Hoi An City",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "My Son Sanctuary",
+      "type_of_place": "historical",
+      "event": "UNESCO World Cultural Heritage, an ancient complex of Champa temples and towers, once the religious center of the Champa Kingdom.",
+      "place": {
+        "hamlet": "My Son Hamlet",
+        "commune": "Duy Phu Commune",
+        "district": "Duy Xuyen District",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Cu Lao Cham",
+      "type_of_place": "natural",
+      "event": "World Biosphere Reserve, famous for its diverse coral reef system and Sa Huynh and Champa cultural relics.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Hiep Commune",
+        "district": "Hoi An City",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Monument of Mother Thu (Monument of Heroic Vietnamese Mother)",
+      "type_of_place": "historical",
+      "event": "The country's largest Heroic Vietnamese Mother Monument, modeled after Mother Nguyen Thi Thu (who had 9 sons, 1 son-in-law, and 1 grandson sacrifice their lives).",
+      "place": {
+        "hamlet": "Phu Thanh Hamlet",
+        "commune": "Tam Phu Commune",
+        "district": "Tam Ky City",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Tra Que Vegetable Village",
+      "type_of_place": "historical",
+      "event": "A traditional vegetable-growing village over 300 years old, famous for its unique aromatic herbs.",
+      "place": {
+        "hamlet": "Tra Que Hamlet",
+        "commune": "Cam Ha Commune",
+        "district": "Hoi An City",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Phu Ninh Lake",
+      "type_of_place": "natural",
+      "event": "A major irrigation project, likened to the 'Green Pearl' of the Central region with a rich ecosystem and hot mineral water.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Dai Commune, Tam Lanh Commune...",
+        "district": "Phu Ninh District",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Thanh Ha Pottery Village",
+      "type_of_place": "historical",
+      "event": "A pottery village established in the 16th century, which once supplied bricks and tiles for the construction of the Hue Imperial Citadel.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Ha Ward",
+        "district": "Hoi An City",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Ky Anh Tunnels",
+      "type_of_place": "historical",
+      "event": "One of the three largest tunnels in the South, a legend in the underground of Quang Nam during the anti-American resistance war.",
+      "place": {
+        "hamlet": "Thach Tan Hamlet",
+        "commune": "Tam Thang Commune",
+        "district": "Tam Ky City",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Bang Than Reef",
+      "type_of_place": "natural",
+      "event": "A masterpiece of stacked black slate created by nature, likened to the 'Ganh Da Dia' of Quang Nam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Hai Commune",
+        "district": "Nui Thanh District",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Dong Duong Buddhist Monastery",
+      "type_of_place": "historical",
+      "event": "An important archaeological site, once the capital Indrapura and the largest Buddhist center of the Champa Kingdom (9th century).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Binh Dinh Bac Commune",
+        "district": "Thang Binh District",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Grang Waterfall",
+      "type_of_place": "natural",
+      "event": "A pristine 3-tier waterfall cluster located in the middle of the Truong Son forest, also known as 'Grang Triple Waterfall'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ta Bhing Commune",
+        "district": "Nam Giang District",
+        "province": "Quang Nam"
+      }
+    },
+    {
+      "name": "Tam Thanh Mural Village",
+      "type_of_place": "historical",
+      "event": "The first mural village in Vietnam, a Korea-Vietnam community art exchange project.",
+      "place": {
+        "hamlet": "Trung Thanh Hamlet",
+        "commune": "Tam Thanh Commune",
+        "district": "Tam Ky City",
+        "province": "Quang Nam"
+      }
+    }
+  ]
+}

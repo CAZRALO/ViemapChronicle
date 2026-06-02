@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Nga Bay Floating Market (Phung Hiep Floating Market)",
+      "type_of_place": "historical",
+      "event": "One of the oldest and busiest floating markets in the Mekong Delta, immortalized in poetry with the Vong Co song 'Tinh anh ban chieu'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nga Bay Ward",
+        "district": "Nga Bay City",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Lung Ngoc Hoang Nature Reserve",
+      "type_of_place": "natural",
+      "event": "Known as the 'green lung' of the Mekong Delta, a place that preserves the biodiversity of the pristine wetlands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuong Binh Commune",
+        "district": "Phung Hiep District",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Tam Vu Victory Historical Site",
+      "type_of_place": "historical",
+      "event": "Marking 4 glorious battles in the early years of the resistance against the French, famous for the capture of the 105mm cannon (Ong Ho).",
+      "place": {
+        "hamlet": "Xeo Cao Hamlet",
+        "commune": "Thanh Xuan Commune",
+        "district": "Chau Thanh A District",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Xa No Canal",
+      "type_of_place": "historical",
+      "event": "Known as the 'Rice Road' of the Mekong Delta, the largest irrigation project in Cochinchina during the French colonial period (dug in 1901).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Central wards (Ward 1, 3, 4, 5...)",
+        "district": "Vi Thanh City",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Uncle Ho's Temple",
+      "type_of_place": "historical",
+      "event": "Built by local people to worship Uncle Ho right in the enemy's rear area upon hearing of his passing (in 1969).",
+      "place": {
+        "hamlet": "Hamlet 3",
+        "commune": "Luong Tam Commune",
+        "district": "Long My District",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Tu Sang Bamboo Garden (Bamboo Garden)",
+      "type_of_place": "natural",
+      "event": "A unique bamboo garden with thousands of intertwined bamboo trees, creating a peaceful countryside scene rich in Southern identity.",
+      "place": {
+        "hamlet": "Phu Xuan Hamlet",
+        "commune": "Thanh Hoa Commune",
+        "district": "Phung Hiep District",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Cau Duc Pineapple Field",
+      "type_of_place": "natural",
+      "event": "A famous specialized pineapple cultivation area, the 'Cau Duc Pineapple' brand dates back to the French colonial period.",
+      "place": {
+        "hamlet": "Thanh Thang Hamlet",
+        "commune": "Hoa Tien Commune",
+        "district": "Vi Thanh City",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Can Tho Provincial Party Committee Base (Ba Bai Base)",
+      "type_of_place": "historical",
+      "event": "A resilient revolutionary base of the Party Committee, soldiers, and people of Can Tho (former) during the resistance war against the US (1972-1975).",
+      "place": {
+        "hamlet": "Phuong Quoi Hamlet",
+        "commune": "Phuong Binh Commune",
+        "district": "Phung Hiep District",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Truc Lam Hau Giang Zen Monastery",
+      "type_of_place": "historical",
+      "event": "A major spiritual and cultural work, a Buddhist architectural highlight of the Truc Lam Yen Tu Zen sect in Hau Giang.",
+      "place": {
+        "hamlet": "Binh Tan Area",
+        "commune": "Vinh Tuong Ward",
+        "district": "Long My Town",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Tay Do Eco-tourism Area",
+      "type_of_place": "natural",
+      "event": "A large amusement, entertainment, and orchard eco-tourism destination, suitable for picnic activities.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Binh Commune",
+        "district": "Phung Hiep District",
+        "province": "Hau Giang"
+      }
+    },
+    {
+      "name": "Historical Site of the Victory over 75 Enemy Battalions",
+      "type_of_place": "historical",
+      "event": "Marking the resounding victory of the military and people of Military Zone 9 in defeating 75 enemy battalions and the 21st Division of the puppet regime (in 1973).",
+      "place": {
+        "hamlet": "Hamlet 1",
+        "commune": "Vinh Vien Commune",
+        "district": "Long My District",
+        "province": "Hau Giang"
+      }
+    }
+  ]
+}

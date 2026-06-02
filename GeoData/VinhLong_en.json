@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "An Binh Islet",
+      "type_of_place": "natural",
+      "event": "Likened to a giant 'food storehouse' and 'orchard' of the Mekong Delta, it is a famous riverine orchard eco-tourism destination.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Binh Commune, Binh Hoa Phuoc Commune, Hoa Ninh Commune, Dong Phu Commune",
+        "district": "Long Ho District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Vinh Long Temple of Literature",
+      "type_of_place": "historical",
+      "event": "One of the first three Temples of Literature in the Southern region, dedicated to Confucius, symbolizing the studious tradition of Vinh Long land.",
+      "place": {
+        "hamlet": "Quarter 3",
+        "commune": "Ward 4",
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Mang Thit Brick Kilns (Red Kingdom)",
+      "type_of_place": "historical",
+      "event": "A unique contemporary heritage with thousands of red-hot ceramic brick kilns along Thay Cai Canal, likened to the 'Pyramids' of the Mekong Delta.",
+      "place": {
+        "hamlet": "null",
+        "commune": "My An Commune, My Phuoc Commune, Nhon Phu Commune, Hoa Tinh Commune",
+        "district": "Mang Thit District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Prime Minister Vo Van Kiet Memorial Site",
+      "type_of_place": "historical",
+      "event": "A cultural work commemorating the late Prime Minister Vo Van Kiet (Uncle Sau Dan) - the architect of the Doi Moi (Renovation) process, an outstanding son of Vinh Long.",
+      "place": {
+        "hamlet": "Quarter 2",
+        "commune": "Vung Liem Town",
+        "district": "Vung Liem District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Tien Chau Pagoda (Di Da Pagoda)",
+      "type_of_place": "historical",
+      "event": "The oldest pagoda in Vinh Long (mid-18th century) located on Tien beach by the Co Chien River, recognized as a National Historical and Cultural Relic.",
+      "place": {
+        "hamlet": "Binh Luong Hamlet",
+        "commune": "An Binh Commune",
+        "district": "Long Ho District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Chairman of the Council of Ministers Pham Hung Memorial Site",
+      "type_of_place": "historical",
+      "event": "The memorial site of Comrade Pham Hung, a loyal communist soldier and a talented leader of the Party and State.",
+      "place": {
+        "hamlet": "Long Thuan A Hamlet",
+        "commune": "Long Phuoc Commune",
+        "district": "Long Ho District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Long Thanh Communal House",
+      "type_of_place": "historical",
+      "event": "A typical artistic architectural relic along the Long Ho River, dedicated to the Tutelary Deity and preserving many royal certificates of the Nguyen Dynasty.",
+      "place": {
+        "hamlet": "Quarter 4",
+        "commune": "Ward 5",
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Tra On Floating Market",
+      "type_of_place": "historical",
+      "event": "An ancient floating market located at the intersection of the Hau and Mang Thit rivers, deeply imbued with the riverine trading culture of the Mekong Delta people, gathering according to the tides.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tra On Town",
+        "district": "Tra On District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Vinh Sang Tourist Area",
+      "type_of_place": "natural",
+      "event": "A famous eco-tourism area with experiential activities such as ostrich riding, crocodile fishing, and ditch-draining to catch fish in the middle of the orchard.",
+      "place": {
+        "hamlet": "Group 14, An Thuan Hamlet",
+        "commune": "An Binh Commune",
+        "district": "Long Ho District",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Phat Ngoc Xa Loi Pagoda",
+      "type_of_place": "historical",
+      "event": "One of the largest and most majestic pagodas in the Mekong Delta, outstanding with a 45m-high sarira stupa and an outdoor statue of Avalokitesvara Bodhisattva.",
+      "place": {
+        "hamlet": "Vinh Hoa Hamlet",
+        "commune": "Tan Ngai Commune",
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      }
+    },
+    {
+      "name": "Cai Cuong Ancient House",
+      "type_of_place": "historical",
+      "event": "A unique ancient house built in 1885, harmoniously combining Western architecture and Eastern interior.",
+      "place": {
+        "hamlet": "Binh Hoa 1 Hamlet",
+        "commune": "Binh Hoa Phuoc Commune",
+        "district": "Long Ho District",
+        "province": "Vinh Long"
+      }
+    }
+  ]
+}

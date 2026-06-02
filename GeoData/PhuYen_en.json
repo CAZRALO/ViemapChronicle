@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Ganh Da Dia (Ghenh Da Dia)",
+      "type_of_place": "natural",
+      "event": "A special national relic, famous for its prismatic basalt columns stacked together like a giant beehive (top 5 most beautiful stone plate cliffs in the world).",
+      "place": {
+        "hamlet": "Phu Hanh Hamlet",
+        "commune": "An Ninh Dong Commune",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Mui Dien (Mui Dai Lanh)",
+      "type_of_place": "natural",
+      "event": "Home to a lighthouse built by the French in 1890, one of the first places to welcome the dawn on mainland Vietnam.",
+      "place": {
+        "hamlet": "Phuoc Tan Hamlet",
+        "commune": "Hoa Tam Commune",
+        "district": "Dong Hoa Town",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Nhan Tower",
+      "type_of_place": "historical",
+      "event": "An ancient Champa tower built around the 12th century, a symbol of Tuy Hoa City, dedicated to the worship of Thien Y A Na.",
+      "place": {
+        "hamlet": "Nhan Mountain",
+        "commune": "Ward 1",
+        "district": "Tuy Hoa City",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Vung Ro Bay",
+      "type_of_place": "historical",
+      "event": "A historical relic of the Ho Chi Minh Trail at Sea, where 'numberless ships' carrying weapon reinforcements for the Southern battlefield were received.",
+      "place": {
+        "hamlet": "Vung Ro Hamlet",
+        "commune": "Hoa Xuan Nam Commune",
+        "district": "Dong Hoa Town",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Mang Lang Church",
+      "type_of_place": "historical",
+      "event": "One of the oldest churches in Vietnam, home to the first book printed in the national Romanized script (Quoc ngu) by Priest Alexandre de Rhodes ('Phep giang tam ngay').",
+      "place": {
+        "hamlet": "Hoi Tin Hamlet",
+        "commune": "An Thach Commune",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "O Loan Lagoon",
+      "type_of_place": "natural",
+      "event": "A national scenic spot, famous for the renowned O Loan blood cockle specialty.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Cu Commune (and An Hoa Hai, An Hiep, An Ninh Dong Communes)",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Bai Xep",
+      "type_of_place": "natural",
+      "event": "The filming location of the famous movie 'Toi thay hoa vang tren co xanh' with a cactus field and pristine coastline.",
+      "place": {
+        "hamlet": "My Quang Nam Hamlet",
+        "commune": "An Chan Commune",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Da Bia Mountain (Thach Bi Son)",
+      "type_of_place": "historical",
+      "event": "Associated with the legend of King Le Thanh Tong carving characters into the stone to mark the border of Dai Viet in 1471 (Da Bia).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoa Xuan Nam Commune",
+        "district": "Dong Hoa Town",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Van Hoa Plateau",
+      "type_of_place": "natural",
+      "event": "Dubbed the 'Da Lat of Phu Yen' with a cool climate, red fruit gardens (dau da dat), and historical resistance relics.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Son Long Commune, Son Dinh Commune, Son Xuan Commune",
+        "district": "Son Hoa District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Ganh Den (Ganh Den Lighthouse)",
+      "type_of_place": "natural",
+      "event": "Featuring an ancient lighthouse and stacked red rocks, located near Ganh Da Dia.",
+      "place": {
+        "hamlet": "Phu Hanh Hamlet",
+        "commune": "An Ninh Dong Commune",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Da Trang Pagoda (Bach Thach Tu)",
+      "type_of_place": "historical",
+      "event": "A sacred ancient pagoda built in 1797, associated with the 'Da Trang mango' specialty once used as a royal tribute.",
+      "place": {
+        "hamlet": "Can Luong Hamlet",
+        "commune": "An Dan Commune",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    },
+    {
+      "name": "Ong Cop Bridge (Binh Thanh Bridge)",
+      "type_of_place": "historical",
+      "event": "The longest wooden bridge in Vietnam (about 800m), a rustic and unique check-in spot.",
+      "place": {
+        "hamlet": "Binh Thanh Hamlet",
+        "commune": "An Ninh Tay Commune",
+        "district": "Tuy An District",
+        "province": "Phu Yen"
+      }
+    }
+  ]
+}

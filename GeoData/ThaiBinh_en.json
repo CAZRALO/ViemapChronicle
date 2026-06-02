@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Keo Pagoda (Than Quang Tu)",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda with the most unique wooden architecture in Vietnam (especially the bell tower), a Special National Relic, and the place of worship for Zen Master Duong Khong Lo.",
+      "place": {
+        "hamlet": "Dung Nhue Hamlet",
+        "commune": "Duy Nhat Commune",
+        "district": "Vu Thu District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Tran Temple Relic Site (Thai Binh)",
+      "type_of_place": "historical",
+      "event": "The birthplace of the Tran Dynasty, housing the tombs of the early Tran kings and Grand Tutor Tran Thu Do.",
+      "place": {
+        "hamlet": "Tam Duong Hamlet",
+        "commune": "Tien Duc Commune",
+        "district": "Hung Ha District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Con Vanh Beach",
+      "type_of_place": "natural",
+      "event": "Located within the UNESCO-recognized Red River Delta Biosphere Reserve, famous for its mangrove ecosystem and pristine beach.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nam Phu Commune",
+        "district": "Tien Hai District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Con Den Eco-tourism Area",
+      "type_of_place": "natural",
+      "event": "Known as the 'Most beautiful coastal dune in the North' with lush green pine forests and the longest bamboo bridge system through a mangrove forest in Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thai Do Commune",
+        "district": "Thai Thuy District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Tien La Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for General Bat Nan Vu Thi Thuc (a female general under the Hai Ba Trung sisters) who made great contributions to driving out the Eastern Han invaders.",
+      "place": {
+        "hamlet": "Tien La Hamlet",
+        "commune": "Doan Hung Commune",
+        "district": "Hung Ha District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Dong Bang Temple (Duc Vua Cha Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for King Father Bat Hai Dong Dinh, one of the largest centers of the Four Palaces (Dao Mau) belief in the Northern region.",
+      "place": {
+        "hamlet": "Dong Bang Hamlet",
+        "commune": "An Le Commune",
+        "district": "Quynh Phu District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Bach Thuan Garden Village",
+      "type_of_place": "natural",
+      "event": "A typical ancient garden village of the Northern Delta with a system of ancient houses, ornamental gardens, and sericulture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bach Thuan Commune",
+        "district": "Vu Thu District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Dong Chau Beach",
+      "type_of_place": "natural",
+      "event": "Famous for its vast clam farming fields stretching as far as the eye can see, creating a unique 'infinity sea' landscape at dawn.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Minh Commune",
+        "district": "Tien Hai District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Dong Xam Silver Carving Craft Village",
+      "type_of_place": "historical",
+      "event": "A famous traditional craft village over 400 years old, home to Dong Xam Temple which worships the craft's founder Nguyen Kim Lau.",
+      "place": {
+        "hamlet": "Thuong Gia Hamlet",
+        "commune": "Hong Thai Commune",
+        "district": "Kien Xuong District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Le Quy Don Scholar Memorial Area",
+      "type_of_place": "historical",
+      "event": "The place of worship and preservation of memorabilia and works of Le Quy Don - a great scholar of Vietnam during the feudal period.",
+      "place": {
+        "hamlet": "Dong Phu Hamlet",
+        "commune": "Doc Lap Commune",
+        "district": "Hung Ha District",
+        "province": "Thai Binh"
+      }
+    },
+    {
+      "name": "Thai Binh Cathedral",
+      "type_of_place": "historical",
+      "event": "One of the most beautiful and magnificent cathedrals in Vietnam, inaugurated in 2007, serving as the center of the Thai Binh Diocese.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Le Hong Phong Ward",
+        "district": "Thai Binh City",
+        "province": "Thai Binh"
+      }
+    }
+  ]
+}

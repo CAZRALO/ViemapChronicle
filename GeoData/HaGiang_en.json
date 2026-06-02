@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Lung Cu Flag Tower",
+      "type_of_place": "historical",
+      "event": "A sacred symbol of national sovereignty at the northernmost point of the Fatherland, associated with the legend of King Quang Trung placing bronze drums.",
+      "place": {
+        "hamlet": "Then Pa Hamlet",
+        "commune": "Lung Cu Commune",
+        "district": "Dong Van District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Vuong Family Mansion (Meo King's Palace)",
+      "type_of_place": "historical",
+      "event": "The grand mansion of 'Meo King' Vuong Chinh Duc, a unique architectural work combining H'Mong, Chinese, and French cultures.",
+      "place": {
+        "hamlet": "Sa Phin Valley",
+        "commune": "Sa Phin Commune",
+        "district": "Dong Van District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Ma Pi Leng Pass",
+      "type_of_place": "natural",
+      "event": "One of Vietnam's 'Four Great Passes', located on the legendary 'Happiness Road' built by tens of thousands of youth volunteers.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Pa Vi Commune, Pai Lung Commune",
+        "district": "Meo Vac District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Dong Van Karst Plateau",
+      "type_of_place": "natural",
+      "event": "A UNESCO Global Geopark, preserving traces of the Earth's crust development history and unique local culture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Communes in 4 highland districts",
+        "district": "Quan Ba District, Yen Minh District, Dong Van District, Meo Vac District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Hoang Su Phi Terraced Fields",
+      "type_of_place": "natural",
+      "event": "A National Scenic Monument, a masterpiece of wet rice cultivation on steep terrain by the Dao, Nung, and La Chi people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ban Phung, Ban Luoc, San Sa Ho, Ho Thau Communes...",
+        "district": "Hoang Su Phi District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Nho Que River (Tu San Canyon)",
+      "type_of_place": "natural",
+      "event": "Home to Tu San Canyon - the deepest canyon in Southeast Asia, located at the foot of Ma Pi Leng Pass.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Giang Chu Phin Commune, Pa Vi Commune",
+        "district": "Meo Vac District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Dong Van Old Quarter",
+      "type_of_place": "historical",
+      "event": "A century-old ancient town with earthen-walled architecture and yin-yang tiled roofs, a place of trade and residence for the Tay, H'Mong, and Hoa ethnic groups.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Van Town",
+        "district": "Dong Van District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Quan Ba Twin Mountains (Fairy Mountain)",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of the fairy Hoa Dao leaving her breast milk to raise her child, creating two uniquely shaped mountains.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Son Town",
+        "district": "Quan Ba District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Bac Me Prison Relic",
+      "type_of_place": "historical",
+      "event": "A prison built by French colonialists (1938-1942) to detain revolutionary soldiers.",
+      "place": {
+        "hamlet": "Dragon Hill",
+        "commune": "Yen Cuong Commune",
+        "district": "Bac Me District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Tham Ma Slope",
+      "type_of_place": "natural",
+      "event": "A famous winding pass road, legend has it that in the past, people tested horses here (pack horses that reached the top still strong were kept).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Van Chai Commune",
+        "district": "Dong Van District",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Milestone No. 0 (Km0)",
+      "type_of_place": "historical",
+      "event": "The starting point of the 'Happiness Road', marking the journey to conquer the karst plateau.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nguyen Trai Ward",
+        "district": "Ha Giang City",
+        "province": "Ha Giang"
+      }
+    },
+    {
+      "name": "Khau Vai Love Market",
+      "type_of_place": "historical",
+      "event": "A unique market held once a year (on the 27th day of the 3rd lunar month), where lovers who could not be together return to meet.",
+      "place": {
+        "hamlet": "Khau Vai Village",
+        "commune": "Khau Vai Commune",
+        "district": "Meo Vac District",
+        "province": "Ha Giang"
+      }
+    }
+  ]
+}

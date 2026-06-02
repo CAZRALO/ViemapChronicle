@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Dien Hai Citadel",
+      "type_of_place": "historical",
+      "event": "A special national relic, an important military fortress that contributed to defeating the French - Spanish forces in the first invasion battle (1858 - 1860).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thach Thang Ward",
+        "district": "Hai Chau District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Ngu Hanh Son (Non Nuoc) Scenic Landscape",
+      "type_of_place": "natural",
+      "event": "A special national relic, a complex of 5 limestone mountains containing many caves and pagodas, which once served as a revolutionary base.",
+      "place": {
+        "hamlet": "Hon Thuy Area (and vicinity)",
+        "commune": "Hoa Hai Ward",
+        "district": "Ngu Hanh Son District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Da Nang Museum of Cham Sculpture",
+      "type_of_place": "historical",
+      "event": "The place that preserves and displays the world's largest collection of Cham sculpture art, built by the French in 1915.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Binh Hien Ward",
+        "district": "Hai Chau District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Son Tra Peninsula (Tien Sa Mountain)",
+      "type_of_place": "natural",
+      "event": "Known as the 'green lung' of Da Nang, it has an important military strategic location and a diverse ecosystem (red-shanked douc langur).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tho Quang Ward",
+        "district": "Son Tra District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Hai Van Pass (Hai Van Gate)",
+      "type_of_place": "natural",
+      "event": "Named 'the most grandiose gateway in the world' by King Le Thanh Tong, it is a natural and historical boundary between Thua Thien Hue and Da Nang.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoa Hiep Bac Ward",
+        "district": "Lien Chieu District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "K20 Revolutionary Base",
+      "type_of_place": "historical",
+      "event": "A resistance secret zone located right in the heart of enemy territory, famous for its secret tunnel system used to shelter officers and commando soldiers.",
+      "place": {
+        "hamlet": "Da Man Residential Area",
+        "commune": "Khue My Ward",
+        "district": "Ngu Hanh Son District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Ba Na Hills (Chua Mountain)",
+      "type_of_place": "natural",
+      "event": "Once a French resort from the early 20th century, it is now a famous tourist destination featuring the Golden Bridge.",
+      "place": {
+        "hamlet": "An Son Hamlet",
+        "commune": "Hoa Ninh Commune",
+        "district": "Hoa Vang District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Phuoc Ninh Cemetery of Righteous Soldiers",
+      "type_of_place": "historical",
+      "event": "The gathering place for the remains of righteous soldiers and compatriots who sacrificed their lives in the resistance war against the French (1858-1860).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nam Duong Ward",
+        "district": "Hai Chau District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Nam O Reef",
+      "type_of_place": "natural",
+      "event": "A famous green moss-covered rocky beach located next to the ancient Nam O fishing village (home to a long-standing traditional fish sauce craft).",
+      "place": {
+        "hamlet": "Nam O Area",
+        "commune": "Hoa Hiep Nam Ward",
+        "district": "Lien Chieu District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Linh Ung Bai But Pagoda",
+      "type_of_place": "historical",
+      "event": "Famous for its 67m-tall Lady Buddha statue facing the East Sea, serving as a spiritual anchor for fishermen.",
+      "place": {
+        "hamlet": "Bai But",
+        "commune": "Tho Quang Ward",
+        "district": "Son Tra District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Hai Chau Communal House",
+      "type_of_place": "historical",
+      "event": "The oldest communal house in Da Nang, preserving royal decrees and evidence of the Vietnamese southward expansion process.",
+      "place": {
+        "hamlet": "Group 6",
+        "commune": "Hai Chau I Ward",
+        "district": "Hai Chau District",
+        "province": "Da Nang"
+      }
+    },
+    {
+      "name": "Gieng Troi",
+      "type_of_place": "natural",
+      "event": "A primeval forest area with waterfalls and natural lakes deep in the mountains, a famous trekking destination.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoa Ninh Commune",
+        "district": "Hoa Vang District",
+        "province": "Da Nang"
+      }
+    }
+  ]
+}

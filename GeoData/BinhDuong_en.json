@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Dai Nam Tourist Area (Lac Canh Dai Nam Van Hien)",
+      "type_of_place": "historical",
+      "event": "One of Vietnam's leading spiritual and entertainment tourist areas, famous for its gold-plated Golden Temple and large-scale racecourse.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hiep An Ward",
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Southwest Ben Cat Tunnels (Iron Triangle)",
+      "type_of_place": "historical",
+      "event": "A fortified system of tunnels that played an important role in the two resistance wars against the French and Americans in the 'Iron Triangle' region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Tay Commune, An Dien Commune, Phu An Commune",
+        "district": "Ben Cat City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Hoi Khanh Pagoda",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda featuring the longest reclining Buddha statue on a temple roof in Asia (at the time of inauguration).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Cuong Ward",
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Phu Loi Prison",
+      "type_of_place": "historical",
+      "event": "Known as 'Hell on Earth', marking the shocking poisoning of political prisoners in 1958.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Loi Ward",
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Ba Thien Hau Temple (Ba Pagoda Binh Duong)",
+      "type_of_place": "historical",
+      "event": "Famous for the Lady's palanquin procession festival on the full moon of the first lunar month, attracting millions of pilgrims.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Cuong Ward",
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Lai Thieu Fruit Orchard",
+      "type_of_place": "natural",
+      "event": "A fertile land famous for hundreds of years for specialty fruits such as mangosteen and durian.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hung Dinh Ward, An Thanh Ward",
+        "district": "Thuan An City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Dau Tieng Lake",
+      "type_of_place": "natural",
+      "event": "The largest artificial irrigation reservoir in Southeast Asia, featuring open natural landscapes suitable for camping.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dinh An Commune, Dinh Thanh Commune, Minh Hoa Commune",
+        "district": "Dau Tieng District",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "War Zone D",
+      "type_of_place": "historical",
+      "event": "The famous revolutionary base of the Southeast region during the two resistance wars.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dat Cuoc Commune",
+        "district": "Bac Tan Uyen District",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Tran Van Ho Ancient House (Doc Phu Dau Ancient House)",
+      "type_of_place": "historical",
+      "event": "A national-level artistic architectural relic, a typical wooden house of the ancient Southern upper class.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Cuong Ward",
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Cau Mountain - Thai Son Pagoda",
+      "type_of_place": "natural",
+      "event": "A spiritual and natural scenic complex located right next to Dau Tieng Lake.",
+      "place": {
+        "hamlet": "Tha La Hamlet",
+        "commune": "Dinh Thanh Commune",
+        "district": "Dau Tieng District",
+        "province": "Binh Duong"
+      }
+    },
+    {
+      "name": "Tan Phuoc Khanh Ceramic Village",
+      "type_of_place": "historical",
+      "event": "One of the cradles of Binh Duong's ceramic craft, existing for over 300 years.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Phuoc Khanh Ward",
+        "district": "Tan Uyen City",
+        "province": "Binh Duong"
+      }
+    }
+  ]
+}

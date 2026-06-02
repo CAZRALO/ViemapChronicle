@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Hoa Binh Hydropower Plant",
+      "type_of_place": "historical",
+      "event": "The monumental work of the century conquering the Da River, a symbol of industrialization and Vietnam-Soviet friendship, where the Letter of the Century to future generations is kept.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Thinh Ward",
+        "district": "Hoa Binh City",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Thung Nai (Hoa Binh Lake)",
+      "type_of_place": "natural",
+      "event": "Likened to 'Ha Long Bay on land' with hundreds of small islands floating on the blue water of the Da River reservoir.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thung Nai Commune",
+        "district": "Cao Phong District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Lac Village",
+      "type_of_place": "historical",
+      "event": "A more than 700-year-old ancient village of the White Thai people, the cradle of community-based tourism in Vietnam.",
+      "place": {
+        "hamlet": "Lac Village",
+        "commune": "Chieng Chau Commune",
+        "district": "Mai Chau District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Thung Khe Pass (White Stone Pass)",
+      "type_of_place": "natural",
+      "event": "Famous for its snow-white landscape caused by limestone landslides and the roadside Muong ethnic market.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Cuong Commune",
+        "district": "Tan Lac District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Kim Boi Hot Spring",
+      "type_of_place": "natural",
+      "event": "An open-air natural mineral water source with the lowest temperature in Vietnam (34-36 degrees Celsius), containing many health-beneficial minerals.",
+      "place": {
+        "hamlet": "Mo Da Hamlet",
+        "commune": "Bo Town",
+        "district": "Kim Boi District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Thac Bo Temple (Temple of the Goddess of Thac Bo)",
+      "type_of_place": "historical",
+      "event": "The place of worship for Mrs. Dinh Thi Van and Mrs. Quach Thi Lan, two female generals who helped King Le Loi suppress rebellions and control the Da River waters.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thung Nai Commune, Vay Nua Commune",
+        "district": "Cao Phong District, Da Bac District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Dong Thech Ancient Tombs Relic Site",
+      "type_of_place": "historical",
+      "event": "The burial site of the Dinh clan (Muong lords) over many centuries, harboring mysteries about the culture and beliefs of the ancient Muong people.",
+      "place": {
+        "hamlet": "Chieng Hamlet",
+        "commune": "Vinh Dong Commune",
+        "district": "Kim Boi District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Xom Trai Cave",
+      "type_of_place": "historical",
+      "event": "The most typical archaeological relic of the Hoa Binh Culture (Stone Age), proving the existence of prehistoric humans tens of thousands of years ago.",
+      "place": {
+        "hamlet": "Trai Hamlet",
+        "commune": "Tan Lap Commune",
+        "district": "Lac Son District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Ba Khan Valley",
+      "type_of_place": "natural",
+      "event": "A peaceful valley located between Mai Chau and the Da River reservoir, likened to a 'forgotten paradise'.",
+      "place": {
+        "hamlet": "Khan Ha Hamlet",
+        "commune": "Son Thuy Commune",
+        "district": "Mai Chau District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Tu Son Nine Waterfalls",
+      "type_of_place": "natural",
+      "event": "A majestic scenic spot with 9 consecutive waterfalls, associated with the love story of the Fairy youth and Lady Ngoc.",
+      "place": {
+        "hamlet": "Cu Hamlet",
+        "commune": "Tu Son Commune",
+        "district": "Kim Boi District",
+        "province": "Hoa Binh"
+      }
+    },
+    {
+      "name": "Phu Canh Nature Reserve",
+      "type_of_place": "natural",
+      "event": "A primeval forest preserving a diverse ecosystem and the culture of the Muong and Dao ethnic groups in the reservoir area.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Doan Ket Commune",
+        "district": "Da Bac District",
+        "province": "Hoa Binh"
+      }
+    }
+  ]
+}

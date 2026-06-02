@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "A1 Hill Relic",
+      "type_of_place": "historical",
+      "event": "The site of the fiercest and longest battle in the Dien Bien Phu campaign (1954), likened to a 'meat grinder' with a thousand-kilogram explosive crater.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Muong Thanh Ward",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "De Castries Bunker (Command Bunker of the Dien Bien Phu Strongpoint Group)",
+      "type_of_place": "historical",
+      "event": "The residence and workplace of General De Castries, where our troops raised the 'determined to fight and win' flag, marking the collapse of French colonialism in Indochina.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Truong Ward",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Dien Bien Phu Campaign Headquarters (Muong Phang)",
+      "type_of_place": "historical",
+      "event": "The workplace of General Vo Nguyen Giap and the Campaign Command, where historic decisions were made (especially the decision to switch from 'fast fight, fast victory' to 'steady fight, steady advance').",
+      "place": {
+        "hamlet": "Phang Village",
+        "commune": "Muong Phang Commune",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "A Pa Chai Westernmost Point (Milestone No. 0)",
+      "type_of_place": "natural",
+      "event": "The westernmost point of the country, the Vietnam - Laos - China border tripoint, dubbed as the place where 'a single rooster crow can be heard by all three countries'.",
+      "place": {
+        "hamlet": "Ta Mieu Village",
+        "commune": "Sin Thau Commune",
+        "district": "Muong Nhe District",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Pa Khoang Lake",
+      "type_of_place": "natural",
+      "event": "A vast lake nestled in the mountains and forests, likened to the 'Halong Bay on land' of the Northwest, where cherry blossom forests bloom in spring.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Pa Khoang Commune",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Pha Din Pass",
+      "type_of_place": "natural",
+      "event": "One of the 'Four Great Passes' of the Northwest, legendary in the history of transporting ammunition and food supplies for the Dien Bien Phu campaign.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Toa Tinh Commune (bordering Son La)",
+        "district": "Tuan Giao District",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Dien Bien Phu Historical Victory Museum",
+      "type_of_place": "historical",
+      "event": "Home to thousands of artifacts and famous for the world's largest panoramic painting depicting the entire Dien Bien Phu campaign.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Muong Thanh Ward",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Muong Thanh Field",
+      "type_of_place": "natural",
+      "event": "The largest rice field in the Northwest region ('First Thanh, second Lo, third Than, fourth Tac'), a fertile granary that fed the army and people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Spanning across many communes/wards of the Dien Bien basin",
+        "district": "Dien Bien Phu City, Dien Bien District",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Dien Bien Phu Victory Monument",
+      "type_of_place": "historical",
+      "event": "The largest bronze artwork in Vietnam, located on D1 Hill, symbolizing the spirit of determination to fight and win.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Muong Thanh Ward (D1 Hill)",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Muong Thanh Bridge",
+      "type_of_place": "historical",
+      "event": "The iron bridge across the Nam Rom River built by the French, a historical witness to our troops crossing the river to capture the De Castries bunker.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Muong Thanh Ward",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      }
+    },
+    {
+      "name": "Pa Thom Cave (Tien Hoa Cave)",
+      "type_of_place": "natural",
+      "event": "A beautiful natural limestone cave associated with the love legends of the Lao and Khmu people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Pa Thom Commune",
+        "district": "Dien Bien District",
+        "province": "Dien Bien"
+      }
+    }
+  ]
+}

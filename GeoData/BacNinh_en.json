@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Do Temple (Ly Bat De Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for the 8 kings of the Ly Dynasty, known as the birthplace of the Ly Dynasty.",
+      "place": {
+        "hamlet": "Thuong Quarter",
+        "commune": "Dinh Bang Ward",
+        "district": "Tu Son City",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Phat Tich Pagoda (Van Phuc Tu)",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda dating back to the Ly Dynasty, home to a thousand-year-old blue stone Amitabha Buddha statue (National Treasure).",
+      "place": {
+        "hamlet": "Phat Tich Hamlet",
+        "commune": "Phat Tich Commune",
+        "district": "Tien Du District",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Dau Pagoda (Dien Ung Tu)",
+      "type_of_place": "historical",
+      "event": "Considered the oldest Buddhist pagoda in Vietnam, the center of the ancestral home of Vietnamese Zen Buddhism.",
+      "place": {
+        "hamlet": "Khuong Tu Hamlet",
+        "commune": "Thanh Khuong Commune",
+        "district": "Thuan Thanh Town",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "But Thap Pagoda (Ninh Phuc Tu)",
+      "type_of_place": "historical",
+      "event": "Famous for its 'noi cong ngoai quoc' architecture and the largest wooden thousand-eye thousand-arm Avalokiteshvara Bodhisattva statue in Vietnam.",
+      "place": {
+        "hamlet": "But Thap Hamlet",
+        "commune": "Dinh To Commune",
+        "district": "Thuan Thanh Town",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Ba Chua Kho Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the woman who made great contributions to managing the food granary during the Ly Dynasty, famous for the custom of 'borrowing capital' at the beginning of the year.",
+      "place": {
+        "hamlet": "Co Me Quarter",
+        "commune": "Vu Ninh Ward",
+        "district": "Bac Ninh City",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Dong Ho Painting Village",
+      "type_of_place": "historical",
+      "event": "A traditional craft village famous for Dong Ho folk woodcut paintings, a national intangible cultural heritage.",
+      "place": {
+        "hamlet": "Dong Khe Hamlet",
+        "commune": "Song Ho Ward",
+        "district": "Thuan Thanh Town",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Dinh Bang Communal House",
+      "type_of_place": "historical",
+      "event": "One of the largest and most beautiful surviving wooden communal houses in Vietnam, famous for the folk song: 'First is Dong Khang communal house, second is Dinh Bang communal house...'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dinh Bang Ward",
+        "district": "Tu Son City",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Kinh Duong Vuong Mausoleum and Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the Ancestor of the Vietnamese nation (Kinh Duong Vuong), father of Lac Long Quan.",
+      "place": {
+        "hamlet": "A Lu Hamlet",
+        "commune": "Dai Dong Thanh Commune",
+        "district": "Thuan Thanh Town",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Phu Lang Pottery Village",
+      "type_of_place": "historical",
+      "event": "A traditional ancient pottery village dating back to the Tran Dynasty, famous for its eel-skin glazed ceramics.",
+      "place": {
+        "hamlet": "Phu Lang Hamlet",
+        "commune": "Phu Lang Commune",
+        "district": "Que Vo Town",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Bac Ninh Temple of Literature",
+      "type_of_place": "historical",
+      "event": "The place of worship for Confucius and honoring the sages and scholars of the ancient Kinh Bac region.",
+      "place": {
+        "hamlet": "Quarter 10",
+        "commune": "Dai Phuc Ward",
+        "district": "Bac Ninh City",
+        "province": "Bac Ninh"
+      }
+    },
+    {
+      "name": "Luy Lau Ancient Citadel",
+      "type_of_place": "historical",
+      "event": "Once the largest political, economic, cultural, and Buddhist center of Giao Chi during the period of Northern domination.",
+      "place": {
+        "hamlet": "Lung Khe Hamlet",
+        "commune": "Thanh Khuong Commune",
+        "district": "Thuan Thanh Town",
+        "province": "Bac Ninh"
+      }
+    }
+  ]
+}

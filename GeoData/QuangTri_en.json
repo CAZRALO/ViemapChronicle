@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Quang Tri Ancient Citadel",
+      "type_of_place": "historical",
+      "event": "The site of the fierce 81-day-and-night battle (the Red Summer of 1972) to defend the ancient citadel, a heroic and tragic epic of the nation.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Quang Tri Town",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Hien Luong - Ben Hai Banks Special National Relic Site",
+      "type_of_place": "historical",
+      "event": "A symbol of the pain of division between the South and the North during 20 years of war (the 17th parallel) and the aspiration for national reunification.",
+      "place": {
+        "hamlet": "Hien Luong Hamlet",
+        "commune": "Hien Thanh Commune (North bank) and Trung Hai Commune (South bank)",
+        "district": "Vinh Linh District, Gio Linh District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Vinh Moc Tunnels",
+      "type_of_place": "historical",
+      "event": "A magnificent underground structure, an 'underground village' where the military and people of Vinh Linh lived and fought safely under a rain of bombs and bullets.",
+      "place": {
+        "hamlet": "Vinh Moc Hamlet",
+        "commune": "Kim Thach Commune",
+        "district": "Vinh Linh District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Truong Son National Martyrs Cemetery",
+      "type_of_place": "historical",
+      "event": "The eternal resting place of more than 10,000 martyrs who sacrificed their lives on the legendary Truong Son trail.",
+      "place": {
+        "hamlet": "Ben Tat Hill",
+        "commune": "Linh Truong Commune",
+        "district": "Gio Linh District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Ta Con Airfield (Khe Sanh Relic Site)",
+      "type_of_place": "historical",
+      "event": "An important base in the US Route 9 - Khe Sanh defense system, where the earth-shaking Battle of Khe Sanh (1968) took place.",
+      "place": {
+        "hamlet": "Hoa Thanh Hamlet",
+        "commune": "Tan Hop Commune",
+        "district": "Huong Hoa District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Con Co Island",
+      "type_of_place": "natural",
+      "event": "Known as the 'Outpost Lookout' in the East Sea, twice awarded the title of Hero of the People's Armed Forces.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Con Co Island District",
+        "district": "Con Co District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Our Lady of La Vang Pilgrimage Center",
+      "type_of_place": "historical",
+      "event": "The national Marian center of the Catholic Church in Vietnam, marking the apparition of Our Lady in 1798.",
+      "place": {
+        "hamlet": "Phu Hung Hamlet",
+        "commune": "Hai Phu Commune",
+        "district": "Hai Lang District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Cua Tung Beach",
+      "type_of_place": "natural",
+      "event": "Once dubbed the 'Queen of Beaches' by the French thanks to its fine sand and pristine beauty.",
+      "place": {
+        "hamlet": "An Hoa Quarter",
+        "commune": "Cua Tung Town",
+        "district": "Vinh Linh District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Lao Bao Prison",
+      "type_of_place": "historical",
+      "event": "One of the largest prisons in Indochina, where the French colonialists imprisoned many key revolutionaries (To Huu, Nguyen Chi Thanh...).",
+      "place": {
+        "hamlet": "Duy Tan Quarter",
+        "commune": "Lao Bao Town",
+        "district": "Huong Hoa District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Headquarters of the Provisional Revolutionary Government of the Republic of South Vietnam",
+      "type_of_place": "historical",
+      "event": "The headquarters of the PRG from 1973 to 1975 after the Paris Peace Accords were signed, hosting many heads of state (Fidel Castro).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cam Lo Town",
+        "district": "Cam Lo District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Mui Treo",
+      "type_of_place": "natural",
+      "event": "A cliff jutting out into the sea at a height of dozens of meters, located between the Ru Bau primeval forest and the blue sea, a famous camping spot.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Kim Thach Commune",
+        "district": "Vinh Linh District",
+        "province": "Quang Tri"
+      }
+    },
+    {
+      "name": "Ta Puong Waterfall",
+      "type_of_place": "natural",
+      "event": "A majestic waterfall system located deep in the old forest, where Ta Puong Cave was once a food storage facility during the war.",
+      "place": {
+        "hamlet": "Trang Ta Puong Hamlet",
+        "commune": "Huong Viet Commune",
+        "district": "Huong Hoa District",
+        "province": "Quang Tri"
+      }
+    }
+  ]
+}

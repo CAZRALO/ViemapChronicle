@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Ha Long Bay",
+      "type_of_place": "natural",
+      "event": "A UNESCO World Natural Heritage site, one of the New 7 Wonders of Nature, associated with the legend of the Mother Dragon descending to earth.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Coastal wards",
+        "district": "Ha Long City (and Cam Pha City, Van Don District)",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Yen Tu Scenic Area and Relic Complex",
+      "type_of_place": "historical",
+      "event": "The ideological capital of Vietnamese Buddhism, where King-Monk Tran Nhan Tong practiced asceticism and founded the Truc Lam Yen Tu Zen Sect.",
+      "place": {
+        "hamlet": "Nam Mau Hamlet",
+        "commune": "Thuong Yen Cong Commune",
+        "district": "Uong Bi City",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Bach Dang Stake Yard",
+      "type_of_place": "historical",
+      "event": "A special national relic site, marking 3 glorious naval battles in the history of fighting foreign invaders (in 938, 981, and 1288).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Yen Giang Ward, Nam Hoa Ward...",
+        "district": "Quang Yen Town",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Cua Ong Temple (Cua Suot Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for Hung Nhuong Vuong Tran Quoc Tang (the 3rd son of Tran Hung Dao), who guarded the Northeast region.",
+      "place": {
+        "hamlet": "Quarter 9A",
+        "commune": "Cua Ong Ward",
+        "district": "Cam Pha City",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Co To Island",
+      "type_of_place": "natural",
+      "event": "The only place where Uncle Ho agreed to have his statue erected during his lifetime (in 1961).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Co To Town (and Dong Tien, Thanh Lan communes)",
+        "district": "Co To District",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Sa Vi Cape (Got Cape)",
+      "type_of_place": "natural",
+      "event": "The very first point where the pen stroke started to draw the S-shaped map of Vietnam (Northeast Pole).",
+      "place": {
+        "hamlet": "Trang Vi Quarter",
+        "commune": "Tra Co Ward",
+        "district": "Mong Cai City",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Bai Tho Mountain",
+      "type_of_place": "historical",
+      "event": "The limestone mountain preserving poems carved on the cliff by King Le Thanh Tong (in 1468) and Lord Trinh Cuong (in 1729).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hong Gai Ward",
+        "district": "Ha Long City",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Tran Dynasty Relic Complex in Dong Trieu",
+      "type_of_place": "historical",
+      "event": "The ancestral homeland of the Tran Dynasty, home to the tombs of the Tran kings and An Sinh Temple, which worships 8 Tran kings.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Sinh Commune, Trang An Commune, Thuy An Commune...",
+        "district": "Dong Trieu City",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Dinosaur Backbone (Binh Lieu)",
+      "type_of_place": "natural",
+      "event": "A majestic border patrol route with vast fields of reeds, leading to landmark 1305.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoanh Mo Commune, Dong Van Commune",
+        "district": "Binh Lieu District",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Cai Bau Pagoda (Truc Lam Giac Tam Zen Monastery)",
+      "type_of_place": "historical",
+      "event": "Built on the foundation of the Phuc Linh Tu Pagoda dating back to the Tran Dynasty, it boasts a beautiful 'leaning on the mountain, facing the sea' position.",
+      "place": {
+        "hamlet": "Hamlet 1",
+        "commune": "Ha Long Commune",
+        "district": "Van Don District",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Bai Tu Long Bay",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of a flock of baby dragons descending to help the people fight invaders, featuring a pristine landscape no less spectacular than Ha Long Bay.",
+      "place": {
+        "hamlet": "null",
+        "commune": "The sea area of Cam Pha, Van Don",
+        "district": "Cam Pha City, Van Don District",
+        "province": "Quang Ninh"
+      }
+    },
+    {
+      "name": "Tra Co Communal House",
+      "type_of_place": "historical",
+      "event": "One of the largest and most architecturally unique ancient communal houses in the Northern region, a cultural landmark on the border ('Communal house of the sea village').",
+      "place": {
+        "hamlet": "Nam Tho Quarter",
+        "commune": "Tra Co Ward",
+        "district": "Mong Cai City",
+        "province": "Quang Ninh"
+      }
+    }
+  ]
+}

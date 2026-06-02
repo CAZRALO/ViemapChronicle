@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Ba Be Lake",
+      "type_of_place": "natural",
+      "event": "One of the 20 largest natural freshwater lakes in the world, recognized as a Special National Monument and an ASEAN Heritage Park.",
+      "place": {
+        "hamlet": "Pac Ngoi Hamlet (and neighboring hamlets)",
+        "commune": "Nam Mau Commune",
+        "district": "Ba Be District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "ATK Cho Don Historical Relic",
+      "type_of_place": "historical",
+      "event": "An important base of the Party Central Committee and Uncle Ho during the resistance war against the French colonialists (1947-1954).",
+      "place": {
+        "hamlet": "Ca, Na Pau, Khuoi Linh Villages...",
+        "commune": "Binh Trung Commune, Nghia Ta Commune, Bang Lung Town",
+        "district": "Cho Don District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Puong Cave",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Khang Ninh Commune",
+        "district": "Ba Be District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Na Tu Relic",
+      "type_of_place": "historical",
+      "event": "The place where Uncle Ho visited the Youth Volunteers unit in 1951 and gifted them 4 famous lines of poetry: 'There is nothing that is difficult...'.",
+      "place": {
+        "hamlet": "Na Tu Hamlet",
+        "commune": "Cam Giang Commune",
+        "district": "Bach Thong District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Dau Dang Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "Hua Tang Hamlet",
+        "commune": "Nam Mau Commune",
+        "district": "Ba Be District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Phu Thong Post",
+      "type_of_place": "historical",
+      "event": "Marking the first battalion-level assault of the Vietnam People's Army to destroy a fortified French defensive position (1948).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phu Thong Town",
+        "district": "Bach Thong District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Giang Pass",
+      "type_of_place": "historical",
+      "event": "The site of our army's victorious ambush during the Viet Bac Fall-Winter Campaign in 1947.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bordering Luc Binh Commune and Ha Hieu Commune",
+        "district": "Bach Thong District, Ba Be District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Nang Tien Cave",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of 7 fairies who came down to bathe and play chess.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Luong Ha Commune",
+        "district": "Na Ri District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Kim Hy Nature Reserve",
+      "type_of_place": "natural",
+      "event": "A primary forest on limestone mountains with rich flora and fauna, especially the white-cheeked langur.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Kim Hy Commune, Luong Thuong Commune...",
+        "district": "Na Ri District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Na Khoang Waterfall",
+      "type_of_place": "natural",
+      "event": "Recognized as a national scenic monument, a beautiful waterfall hidden in the middle of a regenerating forest.",
+      "place": {
+        "hamlet": "Na Khoang Village",
+        "commune": "Na Phac Town",
+        "district": "Ngan Son District",
+        "province": "Bac Kan"
+      }
+    },
+    {
+      "name": "Thach Long Pagoda (Dragon Stone Pagoda)",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda located inside a stone cave, which once served as an arsenal and guard post during the resistance war against the French.",
+      "place": {
+        "hamlet": "Vi Hương Hamlet",
+        "commune": "Cao Ky Commune",
+        "district": "Cho Moi District",
+        "province": "Bac Kan"
+      }
+    }
+  ]
+}

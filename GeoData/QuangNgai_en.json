@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Ly Son Island (Cu Lao Re)",
+      "type_of_place": "natural",
+      "event": "Known as the 'Garlic Kingdom', a place preserving historical evidence of sovereignty over Hoang Sa (Hoang Sa Soldier Feast and Commemoration Ceremony).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ly Son Island District (including An Vinh, An Hai, An Binh Communes)",
+        "district": "Ly Son District",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Son My Vestige Area (My Lai Massacre)",
+      "type_of_place": "historical",
+      "event": "The site marking the horrific massacre on March 16, 1968, caused by the US military, which claimed the lives of 504 innocent civilians.",
+      "place": {
+        "hamlet": "Tu Cung Hamlet",
+        "commune": "Tinh Khe Commune",
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Thien An Pagoda (Tomb of Huynh Thuc Khang)",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda located on the peak of Thien An Mountain ('Niem Ha An Trien' - the top scenic spot of Quang Ngai), the resting place of the patriotic scholar Huynh Thuc Khang.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tinh An Dong Commune",
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Sa Huynh Salt Field",
+      "type_of_place": "natural",
+      "event": "The cradle of Sa Huynh Culture (one of the 3 ancient cultures of Vietnam) and one of the largest and oldest salt basins in Central Vietnam.",
+      "place": {
+        "hamlet": "Thanh Duc Quarter",
+        "commune": "Pho Thanh Ward",
+        "district": "Duc Pho Town",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Ba To Uprising Relic Area",
+      "type_of_place": "historical",
+      "event": "The site of the Ba To Uprising (March 11, 1945), marking the birth of the Ba To Guerrilla Team - the predecessor of the Military Region 5 armed forces.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ba To Town",
+        "district": "Ba To District",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Minh Long White Waterfall",
+      "type_of_place": "natural",
+      "event": "A majestic waterfall over 40m high located in the deep forest, likened to the hair of a fairy in the vast jungle.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh An Commune",
+        "district": "Minh Long District",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Prime Minister Pham Van Dong Memorial Site",
+      "type_of_place": "historical",
+      "event": "The birthplace, childhood home, and place preserving memorabilia of the revolutionary life of the late Prime Minister Pham Van Dong.",
+      "place": {
+        "hamlet": "Hamlet 2",
+        "commune": "Duc Tân Commune",
+        "district": "Mo Duc District",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "My Khe Beach",
+      "type_of_place": "natural",
+      "event": "The most beautiful and famous beach in Quang Ngai, once chosen by the US military as a recreation area during the war.",
+      "place": {
+        "hamlet": "Co Luy Hamlet",
+        "commune": "Tinh Khe Commune",
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Dang Thuy Tram Clinic Relic",
+      "type_of_place": "historical",
+      "event": "The workplace and place of sacrifice of the female doctor and Hero of the People's Armed Forces Dang Thuy Tram, author of the deeply moving 'Dang Thuy Tram's Diary'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Pho Cuong Commune",
+        "district": "Duc Pho Town",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Ganh Yen",
+      "type_of_place": "natural",
+      "event": "A pristine natural scenic spot with unique layered volcanic sedimentary rock formations, where swiftlets often come to nest.",
+      "place": {
+        "hamlet": "Thanh Thuy Hamlet",
+        "commune": "Binh Hai Commune",
+        "district": "Binh Son District",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Chau Sa Ancient Citadel",
+      "type_of_place": "historical",
+      "event": "The only earthen citadel of the Champa Kingdom still existing in Vietnam, once the administrative center of Amaravati.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tinh Chau Commune",
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      }
+    },
+    {
+      "name": "Ba Lang An Cape",
+      "type_of_place": "natural",
+      "event": "A cape featuring an ancient lighthouse and a unique underwater volcanic crater terrain, near the Dam Toai Tunnels relic.",
+      "place": {
+        "hamlet": "Phu Quy Hamlet",
+        "commune": "Binh Chau Commune",
+        "district": "Binh Son District",
+        "province": "Quang Ngai"
+      }
+    }
+  ]
+}

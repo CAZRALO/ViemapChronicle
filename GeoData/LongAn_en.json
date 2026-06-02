@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Tan Lap Floating Village",
+      "type_of_place": "natural",
+      "event": "A typical eco-tourism area of the Dong Thap Muoi region with endless melaleuca forests and a unique path through the forest.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Lap Commune",
+        "district": "Moc Hoa District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Hundred-Column House",
+      "type_of_place": "historical",
+      "event": "An ancient house with unique architecture in the style of Hue's traditional wooden house, built from 120 precious logs (actually having 120 columns) between 1901 and 1903.",
+      "place": {
+        "hamlet": "Cau Ngang Hamlet",
+        "commune": "Long Huu Dong Commune",
+        "district": "Can Duoc District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Vam Nhut Tao Relic Site",
+      "type_of_place": "historical",
+      "event": "The site marking the glorious feat of hero Nguyen Trung Truc in burning the French colonial ship L'Esperance (Hope) in 1861.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Nhut Tan Commune",
+        "district": "Tan Tru District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Ton Thanh Pagoda",
+      "type_of_place": "historical",
+      "event": "The place where poet Nguyen Dinh Chieu lived, taught, practiced medicine, and composed the tragic and heroic 'Van te nghia si Can Giuoc'.",
+      "place": {
+        "hamlet": "Thanh Ba Hamlet",
+        "commune": "My Loc Commune",
+        "district": "Can Giuoc District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Lang Sen Wetland Reserve",
+      "type_of_place": "natural",
+      "event": "The 7th Ramsar site of Vietnam, conserving the typical ecosystem of the Dong Thap Muoi wetland.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Lợi Commune",
+        "district": "Tan Hung District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Nguyen Huynh Duc Tomb",
+      "type_of_place": "historical",
+      "event": "The tomb complex of 'Tiger General' Nguyen Huynh Duc - one of the founding meritorious officials of the Nguyen Dynasty.",
+      "place": {
+        "hamlet": "Huynh Duc Hamlet",
+        "commune": "Khanh Hau Ward",
+        "district": "Tan An City",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Rach Cat Fort",
+      "type_of_place": "historical",
+      "event": "One of the most solid military fortresses in Indochina, built by the French colonialists in 1903 to control the estuary.",
+      "place": {
+        "hamlet": "Long Ninh Hamlet",
+        "commune": "Long Huu Dong Commune",
+        "district": "Can Duoc District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Endless Field Tourist Area (Dong Thap Muoi Medicinal Herb Conservation Area)",
+      "type_of_place": "natural",
+      "event": "The main setting of the famous movie 'The Endless Field', conserving precious medicinal genetic resources.",
+      "place": {
+        "hamlet": "Hamlet 3",
+        "commune": "Binh Phong Thanh Commune",
+        "district": "Moc Hoa District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Phuoc Loc Tho Ancient Village",
+      "type_of_place": "historical",
+      "event": "A gathering place of many ancient wooden houses bearing the identities of the three regions (North - Central - South) restored and preserved.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Huu Thanh Commune",
+        "district": "Duc Hoa District",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Long An Monument Park 'Loyal and Courageous, Entire People Fighting the Enemy'",
+      "type_of_place": "historical",
+      "event": "A large-scale cultural and historical work, recognizing the noble title bestowed upon the province by the Central Committee of the National Liberation Front of South Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 5",
+        "district": "Tan An City",
+        "province": "Long An"
+      }
+    },
+    {
+      "name": "Binh Ta Archaeological Site",
+      "type_of_place": "historical",
+      "event": "A relic cluster belonging to the Oc Eo culture, proving the brilliant development of the ancient Funan kingdom in this land.",
+      "place": {
+        "hamlet": "Binh Ta 1 Hamlet",
+        "commune": "Duc Hoa Ha Commune",
+        "district": "Duc Hoa District",
+        "province": "Long An"
+      }
+    }
+  ]
+}

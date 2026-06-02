@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Tran Temple Historical Relic Site",
+      "type_of_place": "historical",
+      "event": "The place of worship for the kings of the Tran Dynasty and meritorious mandarins, famous for the early spring Tran Temple Seal Opening Ceremony to pray for national peace and prosperity.",
+      "place": {
+        "hamlet": "Tuc Mac Hamlet",
+        "commune": "Loc Vuong Ward",
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Phu Day",
+      "type_of_place": "historical",
+      "event": "The center of the belief in the Mother Goddesses of Three Realms (Representative Intangible Cultural Heritage of Humanity), where Holy Mother Lieu Hanh is worshipped.",
+      "place": {
+        "hamlet": "Van Cat, Tien Huong Hamlet",
+        "commune": "Kim Thai Commune",
+        "district": "Vu Ban District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Xuan Thuy National Park",
+      "type_of_place": "natural",
+      "event": "The first Ramsar site in Vietnam and Southeast Asia, an important stopover for thousands of rare migratory bird species.",
+      "place": {
+        "hamlet": "Con Lu, Con Ngan",
+        "commune": "Giao Thien Commune",
+        "district": "Giao Thuy District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Hai Ly Ruined Church (Heart Church)",
+      "type_of_place": "historical",
+      "event": "An evidence of coastal erosion and climate change, the ruins of St. Maria Madalena Church by the beach.",
+      "place": {
+        "hamlet": "Hamlet 3",
+        "commune": "Hai Ly Commune",
+        "district": "Hai Hau District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Co Le Pagoda (Than Quang Tu)",
+      "type_of_place": "historical",
+      "event": "The pagoda is famous for the Cuu Pham Lien Hoa tower and the history of monks who 'shed their Buddhist robes to wear military uniforms' to join the resistance.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Co Le Town",
+        "district": "Truc Ninh District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Phu Nhai Basilica",
+      "type_of_place": "historical",
+      "event": "One of the largest and most beautiful Catholic churches in Vietnam, featuring magnificent Gothic architecture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Xuan Phuphuong Commune",
+        "district": "Xuan Truong District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Pho Minh Tower",
+      "type_of_place": "historical",
+      "event": "A typical brick architectural work of the Tran Dynasty (1305), a symbol of Truc Lam Buddhism and the Dong A spirit.",
+      "place": {
+        "hamlet": "Tuc Mac Hamlet",
+        "commune": "Loc Vuong Ward",
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Chua Luong Tile-roofed Bridge",
+      "type_of_place": "historical",
+      "event": "One of the three most beautiful ancient tile-roofed bridges in Vietnam (along with Thanh Toan Tile-roofed Bridge and Hoi An Covered Bridge), dating back more than 500 years.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hai Anh Commune",
+        "district": "Hai Hau District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Thinh Long Beach",
+      "type_of_place": "natural",
+      "event": "A long beach with rows of sand-blocking casuarina trees, a famous summer resort destination of the province.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thinh Long Town",
+        "district": "Hai Hau District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Keo Hanh Thien Pagoda",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda with unique wooden architecture, worshipping Zen Master Duong Khong Lo, associated with the standing rowing festival.",
+      "place": {
+        "hamlet": "Hanh Thien Village",
+        "commune": "Xuan Hong Commune",
+        "district": "Xuan Truong District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Memorial House of the Late General Secretary Truong Chinh",
+      "type_of_place": "historical",
+      "event": "The birthplace and childhood home of Comrade Truong Chinh, an outstanding leader of the Vietnamese Revolution.",
+      "place": {
+        "hamlet": "Hanh Thien Village",
+        "commune": "Xuan Hong Commune",
+        "district": "Xuan Truong District",
+        "province": "Nam Dinh"
+      }
+    },
+    {
+      "name": "Quat Lam Beach",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quat Lam Town",
+        "district": "Giao Thuy District",
+        "province": "Nam Dinh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Ta Dung Lake",
+      "type_of_place": "natural",
+      "event": "Known as the 'Ha Long Bay of the Central Highlands', located in Ta Dung National Park with more than 36 large and small islands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dak Som Commune",
+        "district": "Dak Glong District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Chu Bluk Volcanic Cave (Dray Sap)",
+      "type_of_place": "natural",
+      "event": "The longest volcanic cave system in Southeast Asia, an important highlight of the UNESCO Dak Nong Global Geopark.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Buon Choah Commune",
+        "district": "Krong No District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Dak Mil Prison Historical Relic",
+      "type_of_place": "historical",
+      "event": "The prison was built by the French colonialists in 1940 to detain and exile revolutionary soldiers.",
+      "place": {
+        "hamlet": "Hamlet 9",
+        "commune": "Dak Lao Commune",
+        "district": "Dak Mil District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Lieng Nung Waterfall",
+      "type_of_place": "natural",
+      "event": "A majestic waterfall with a unique hexagonal cliff geological structure, deeply imbued with the legends of the M'nong people.",
+      "place": {
+        "hamlet": "Buon N'Jrieng",
+        "commune": "Dak Nia Commune",
+        "district": "Gia Nghia City",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Dak G'Lun Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "Hamlet 5",
+        "commune": "Quang Tam Commune",
+        "district": "Tuy Duc District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "B4 Resistance Base - Interprovincial IV",
+      "type_of_place": "historical",
+      "event": "An important revolutionary base of the resistance forces of Zone 6 and Zone 10 during the anti-American resistance war (located in the Nam Nung Nature Reserve).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nam Nung Commune",
+        "district": "Krong No District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Dray Sap Waterfall",
+      "type_of_place": "natural",
+      "event": "One of the most majestic waterfalls in the Central Highlands, its name means 'Smoke Waterfall' due to the year-round white water spray.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dak Sor Commune",
+        "district": "Krong No District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Hill 722 - Dak Sak Historical Relic",
+      "type_of_place": "historical",
+      "event": "A special forces camp of the US-puppet regime, where many fierce battles took place during the Vietnam War.",
+      "place": {
+        "hamlet": "Tho Hoang 4 Hamlet",
+        "commune": "Dak Sak Commune",
+        "district": "Dak Mil District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Truc Lam Dao Nguyen Zen Monastery",
+      "type_of_place": "historical",
+      "event": "A Buddhist architectural work hidden amidst the vast pine forests of the Nam Nung Nature Reserve.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nam N'Jang Commune",
+        "district": "Dak Song District",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "N'Trang Long Hero Monument",
+      "type_of_place": "historical",
+      "event": "A monument commemorating the leader of the anti-French colonial uprising of the ethnic groups in the Central Highlands.",
+      "place": {
+        "hamlet": "Dak Nur Hill",
+        "commune": "Nghia Duc Ward",
+        "district": "Gia Nghia City",
+        "province": "Dak Nong"
+      }
+    },
+    {
+      "name": "Gia Long Waterfall (Dray Sap Thuong)",
+      "type_of_place": "natural",
+      "event": "Associated with the legend that King Gia Long once came here to rest and admire the beautiful scenery.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dak Sor Commune",
+        "district": "Krong No District",
+        "province": "Dak Nong"
+      }
+    }
+  ]
+}

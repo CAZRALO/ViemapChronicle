@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Kon Tum Wooden Church (Cathedral)",
+      "type_of_place": "historical",
+      "event": "An architectural masterpiece over 100 years old, uniquely combining classical Roman style with the stilt house design of the Ba Na people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thong Nhat Ward",
+        "district": "Kon Tum City",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Mang Den Ecotourism Area",
+      "type_of_place": "natural",
+      "event": "Known as the 'second Da Lat' of the Central Highlands, featuring a cool climate year-round, vast pine forests, and numerous lakes and waterfalls.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Mang Den Town",
+        "district": "Kon Plong District",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Indochina Junction (Tri-border Landmark)",
+      "type_of_place": "historical",
+      "event": "The border landmark between Vietnam, Laos, and Cambodia, metaphorically described as a place where 'a single rooster's crow can be heard in all three countries'.",
+      "place": {
+        "hamlet": "Iec Hamlet",
+        "commune": "Po Y Commune",
+        "district": "Ngoc Hoi District",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Kon Klor Rong House",
+      "type_of_place": "historical",
+      "event": "The largest Rong house in Kon Tum and the Central Highlands, a cultural community symbol of the Ba Na people by the Dak Bla River.",
+      "place": {
+        "hamlet": "Kon Klor Village",
+        "commune": "Thang Loi Ward",
+        "district": "Kon Tum City",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Kon Tum Prison",
+      "type_of_place": "historical",
+      "event": "A national historical relic where French colonialists imprisoned communist soldiers during the 1930-1931 period.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quyet Thang Ward",
+        "district": "Kon Tum City",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Pa Sy Waterfall",
+      "type_of_place": "natural",
+      "event": "The most pristine and beautiful waterfall in Mang Den, associated with the 'Seven Lakes and Three Waterfalls' legend of the Mo Nam people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Mang Canh Commune",
+        "district": "Kon Plong District",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Dak To - Tan Canh Victory Relic",
+      "type_of_place": "historical",
+      "event": "The site of a fierce battle in 1972, famous for the Victory Monument and Tank No. 377.",
+      "place": {
+        "hamlet": "Quarter 1",
+        "commune": "Dak To Town",
+        "district": "Dak To District",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Chu Mom Ray National Park",
+      "type_of_place": "natural",
+      "event": "An ASEAN Heritage Park, home to a vast area of primary forest and the highest biodiversity in Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Sa Son Commune (and neighboring communes)",
+        "district": "Sa Thay District, Ngoc Hoi District",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Kon Klor Suspension Bridge",
+      "type_of_place": "historical",
+      "event": "The largest and most beautiful industrial suspension bridge in the Central Highlands, connecting the two banks of the legendary Dak Bla River.",
+      "place": {
+        "hamlet": "Kon Klor Village",
+        "commune": "Thang Loi Ward",
+        "district": "Kon Tum City",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Kon Tum Bishop's House (Missionary Seminary)",
+      "type_of_place": "historical",
+      "event": "A Western architectural work combined with local materials (precious wood) built in 1935, serving as a miniature museum of the Central Highlands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thong Nhat Ward",
+        "district": "Kon Tum City",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Dak Bla River",
+      "type_of_place": "natural",
+      "event": "The iconic river of Kon Tum, famous for its rare 'backward flowing' characteristic (flowing from East to West).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Flowing through the city center",
+        "district": "Kon Tum City",
+        "province": "Kon Tum"
+      }
+    },
+    {
+      "name": "Dak Ke Lake",
+      "type_of_place": "natural",
+      "event": "A poetic, clear blue lake in the Mang Den Ecotourism Area, associated with the legend of the Mo Nam people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Mang Den Town",
+        "district": "Kon Plong District",
+        "province": "Kon Tum"
+      }
+    }
+  ]
+}

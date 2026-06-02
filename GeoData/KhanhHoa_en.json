@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Po Nagar Towers",
+      "type_of_place": "historical",
+      "event": "The largest remaining Cham Pa architectural complex in Central Vietnam, dedicated to the worship of goddess Po Ina Nagar (Thien Y Ana - Mother of the Land) of the Cham people.",
+      "place": {
+        "hamlet": "Xom Bong Islet",
+        "commune": "Vinh Phuoc Ward",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Long Son Pagoda (White Buddha Pagoda)",
+      "type_of_place": "historical",
+      "event": "Famous for the largest outdoor seated statue of Kim Than Phat To (White Buddha) in Vietnam (at the time of construction) on the peak of Trai Thuy Hill.",
+      "place": {
+        "hamlet": "Trai Thuy Hill",
+        "commune": "Phuong Son Ward",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Dien Khanh Ancient Citadel",
+      "type_of_place": "historical",
+      "event": "A military citadel built by Lord Nguyen Anh in 1793, which witnessed many fierce battles between the Tay Son and Nguyen dynasties.",
+      "place": {
+        "hamlet": "Dong Mon Quarter (and neighboring quarters)",
+        "commune": "Dien Khanh Town",
+        "district": "Dien Khanh District",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Nha Trang Institute of Oceanography",
+      "type_of_place": "historical",
+      "event": "The earliest marine scientific research institution established in Vietnam (in 1922), housing tens of thousands of marine life specimens.",
+      "place": {
+        "hamlet": "Cau Da",
+        "commune": "Vinh Nguyen Ward",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Hon Chong - Hon Vo",
+      "type_of_place": "natural",
+      "event": "A natural cluster of stacked rocks, associated with the legend of a giant five-finger imprint deeply pressed into the stone.",
+      "place": {
+        "hamlet": "Hon Chong Quarter",
+        "commune": "Vinh Phuoc Ward",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Mui Doi",
+      "type_of_place": "natural",
+      "event": "The easternmost point on mainland Vietnam, where the country welcomes its very first sunrise.",
+      "place": {
+        "hamlet": "Hon Gom Peninsula",
+        "commune": "Van Thanh Commune",
+        "district": "Van Ninh District",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Binh Ba Island (Lobster Island)",
+      "type_of_place": "natural",
+      "event": "An island famous for lobster farming and pristine landscapes, which was once a military area restricted to foreigners.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cam Binh Commune",
+        "district": "Cam Ranh City",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Tomb of Doctor Alexandre Yersin",
+      "type_of_place": "historical",
+      "event": "The resting place of the great French scientist - an honorary citizen of Vietnam, who discovered the plague bacillus and explored the Lam Vien Plateau.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Suoi Cat Commune",
+        "district": "Cam Lam District",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Diep Son Island",
+      "type_of_place": "natural",
+      "event": "Famous for its unique underwater walking path (about 700m long) connecting the islands when the tide recedes.",
+      "place": {
+        "hamlet": "Diep Son Hamlet",
+        "commune": "Van Thang Commune",
+        "district": "Van Ninh District",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Nha Trang Cathedral (Stone Church)",
+      "type_of_place": "historical",
+      "event": "A beautiful Western Gothic architectural work built of stone during the French colonial period (1928).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuoc Tan Ward",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Yang Bay Waterfall",
+      "type_of_place": "natural",
+      "event": "Meaning 'Heaven's Waterfall' in the Raglai language, it is located in the middle of a majestic primary forest and is closely associated with Raglai culture.",
+      "place": {
+        "hamlet": "Nga Hai Hamlet",
+        "commune": "Khanh Phu Commune",
+        "district": "Khanh Vinh District",
+        "province": "Khanh Hoa"
+      }
+    },
+    {
+      "name": "Yen Island (Hon Noi)",
+      "type_of_place": "natural",
+      "event": "Home to a unique twin beach (one side hot, one side cold) and the largest natural bird's nest harvesting site, featuring the Temple of the Bird's Nest Craft Founders.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Nguyen Ward",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      }
+    }
+  ]
+}

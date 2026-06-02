@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Dong Loc Junction Relic Site",
+      "type_of_place": "historical",
+      "event": "A symbol of indomitable spirit, marking the heroic sacrifice of 10 young female volunteers and the traffic assurance forces during the resistance war against the US.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Loc Town",
+        "district": "Can Loc District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Great Poet Nguyen Du Relic Site",
+      "type_of_place": "historical",
+      "event": "The hometown and resting place of World Cultural Celebrity Nguyen Du, author of the masterpiece 'Truyen Kieu'.",
+      "place": {
+        "hamlet": "Tien Dien Village",
+        "commune": "Tien Dien Town",
+        "district": "Nghi Xuan District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Huong Tich Pagoda",
+      "type_of_place": "historical",
+      "event": "Known as 'Hoan Chau de nhat danh lam' (The most beautiful scenic spot in the Nghe region), located on the peak of Hong Linh Mountain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thien Loc Commune",
+        "district": "Can Loc District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Thien Cam Beach",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of King Ho Quy Ly hearing the waves crashing against the mountain caves, echoing sounds like a lute (Thien Cam means Heavenly Lute).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thien Cam Town",
+        "district": "Cam Xuyen District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Ke Go Lake",
+      "type_of_place": "natural",
+      "event": "A famous large artificial lake, featured in the song 'Nguoi di xay ho Ke Go', nestled amidst vast natural forests and mountains.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cam My Commune",
+        "district": "Cam Xuyen District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Cui Temple (Cho Cui Temple)",
+      "type_of_place": "historical",
+      "event": "The sacred place of worship for Quan Hoang Muoi, an important spiritual destination in the worship of the Mother Goddesses of the Three Realms (Tam Phu).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Xuan Hong Commune",
+        "district": "Nghi Xuan District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Hoanh Son Quan (Heaven's Gate - Ngang Pass)",
+      "type_of_place": "historical",
+      "event": "A historic gateway guarding the peak of Ngang Pass, the former boundary between Dai Viet and Champa, and the inspiration for the poem 'Qua Deo Ngang'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ky Nam Commune",
+        "district": "Ky Anh Town",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "General Secretary Tran Phu Relic Site",
+      "type_of_place": "historical",
+      "event": "The memorial site for Comrade Tran Phu - the first General Secretary of the Communist Party of Vietnam, author of the 1930 Political Thesis.",
+      "place": {
+        "hamlet": "Chau Tung Hamlet",
+        "commune": "Tung Anh Commune",
+        "district": "Duc Tho District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Vu Quang National Park",
+      "type_of_place": "natural",
+      "event": "An ASEAN Heritage Park, where the rare Saola was discovered, and once the base of Phan Dinh Phung's insurgent army (Can Vuong movement).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vu Quang Town (and neighboring communes)",
+        "district": "Vu Quang District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "General Secretary Ha Huy Tap Relic Site",
+      "type_of_place": "historical",
+      "event": "The place preserving memorabilia of the life and revolutionary career of the late General Secretary Ha Huy Tap.",
+      "place": {
+        "hamlet": "Mieu Dong Village",
+        "commune": "Cam Hung Commune",
+        "district": "Cam Xuyen District",
+        "province": "Ha Tinh"
+      }
+    },
+    {
+      "name": "Son Kim Hot Mineral Spring",
+      "type_of_place": "natural",
+      "event": "An eco-resort with a natural hot mineral water source gushing from the ground.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Son Kim 1 Commune",
+        "district": "Huong Son District",
+        "province": "Ha Tinh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Phong Nha Cave",
+      "type_of_place": "natural",
+      "event": "A UNESCO World Natural Heritage site, dubbed the 'First Cave Wonder' with the longest underground river system.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phong Nha Town",
+        "district": "Bo Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Vung Chua - Yen Island",
+      "type_of_place": "historical",
+      "event": "The final resting place of General Vo Nguyen Giap - the eldest brother of the People's Army of Vietnam.",
+      "place": {
+        "hamlet": "Tho Son Hamlet",
+        "commune": "Quang Dong Commune",
+        "district": "Quang Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Son Doong Cave",
+      "type_of_place": "natural",
+      "event": "The world's largest natural cave, possessing a pristine primeval forest ecosystem and its own unique climate right inside the cave.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Trach Commune",
+        "district": "Bo Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Quang Binh Gate",
+      "type_of_place": "historical",
+      "event": "One of the important checkpoints of the Luy Thay (Dao Duy Tu Wall) system, built in 1639 during the Nguyen Lords era.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Hai Ward",
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Paradise Cave",
+      "type_of_place": "natural",
+      "event": "Dubbed the 'Underground Palace', it is the longest dry cave in Asia with a magnificent system of stalactites and stalagmites.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phong Nha Town",
+        "district": "Bo Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Tam Co Cave",
+      "type_of_place": "historical",
+      "event": "A historical relic on Route 20 Quyet Thang, marking the tragic sacrifice of 8 youth volunteers buried by US bombs in 1972.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Trach Commune",
+        "district": "Bo Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Da Nhay Beach",
+      "type_of_place": "natural",
+      "event": "A beautiful beach with a diverse complex of rocks of all shapes and sizes bobbing with the waves, which was once the filming location for the movie 'The Immortal'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Trach Commune",
+        "district": "Bo Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Mother Suot Monument",
+      "type_of_place": "historical",
+      "event": "A symbol of patriotism, commemorating Mother Nguyen Thi Suot who rowed boats to transport soldiers across the Nhat Le River under a rain of bombs and bullets.",
+      "place": {
+        "hamlet": "Trung Binh Hamlet",
+        "commune": "Bao Ninh Ward (The monument is located on the riverbank of the former Hai Dinh Ward)",
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Mooc Spring",
+      "type_of_place": "natural",
+      "event": "A famous eco-tourism destination with cool, turquoise water rising from the foot of the limestone mountain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phong Nha Town",
+        "district": "Bo Trach District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Tam Toa Church Bell Tower Relic",
+      "type_of_place": "historical",
+      "event": "A testament to war crimes, the remaining ruins of the Catholic church destroyed by US bombs in 1965.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong My Ward",
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "Hoang Phuc Pagoda",
+      "type_of_place": "historical",
+      "event": "One of the oldest pagodas in Central Vietnam (dating back to 1314), where King-Monk Tran Nhan Tong once visited and preached.",
+      "place": {
+        "hamlet": "Thuan Trach Hamlet",
+        "commune": "My Thuy Commune",
+        "district": "Le Thuy District",
+        "province": "Quang Binh"
+      }
+    },
+    {
+      "name": "General Vo Nguyen Giap Memorial House",
+      "type_of_place": "historical",
+      "event": "The simple 3-compartment wooden house where General Vo Nguyen Giap was born and raised.",
+      "place": {
+        "hamlet": "An Xa Village",
+        "commune": "Loc Thuy Commune",
+        "district": "Le Thuy District",
+        "province": "Quang Binh"
+      }
+    }
+  ]
+}

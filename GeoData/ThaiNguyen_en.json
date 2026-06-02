@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "ATK Dinh Hoa Historical Relic Area",
+      "type_of_place": "historical",
+      "event": "Known as the 'Capital of the Wind and Forest', the leadership center of the resistance war against the French colonialists (1946-1954) of the Party Central Committee and Uncle Ho.",
+      "place": {
+        "hamlet": "De Pass, Tin Keo...",
+        "commune": "Phu Dinh Commune (and neighboring communes)",
+        "district": "Dinh Hoa District",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Nui Coc Lake",
+      "type_of_place": "natural",
+      "event": "A famous scenic spot associated with the tragic love legend of Lady Cong and Lord Coc.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Thai Commune",
+        "district": "Dai Tu District",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Museum of the Cultures of Vietnam's Ethnic Groups",
+      "type_of_place": "historical",
+      "event": "A place that preserves, conserves, and displays more than 40,000 documents and artifacts on the culture of the 54 brotherly ethnic groups (one of the 5 national museums).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Trung Vuong Ward",
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Tan Cuong Tea Hills",
+      "type_of_place": "natural",
+      "event": "The most famous tea region in Vietnam, known as the 'First-class Tea' with premium hook-shaped tea products.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Cuong Commune",
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Duom Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for Duong Tu Minh (Saint Duom), the talented leader of Phu Luong Prefecture and a royal son-in-law under two reigns of the Ly Dynasty.",
+      "place": {
+        "hamlet": "Duom Hamlet",
+        "commune": "Dong Dat Commune",
+        "district": "Phu Luong District",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Phuong Hoang Cave - Mo Ga Stream",
+      "type_of_place": "natural",
+      "event": "A national scenic relic, a majestic limestone cave located on Phuong Hoang Mountain with a stream flowing from the heart of the mountain.",
+      "place": {
+        "hamlet": "Phuong Hoang Hamlet",
+        "commune": "Phu Thuong Commune",
+        "district": "Vo Nhai District",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Company 915 Volunteer Youth Historical Relic Area",
+      "type_of_place": "historical",
+      "event": "The memorial site for 60 volunteer youths who heroically sacrificed their lives in the US B-52 bombing raid on Christmas Eve in 1972.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Gia Sang Ward",
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Cua Tu Stream",
+      "type_of_place": "natural",
+      "event": "A famous adventure trekking destination with a pristine stream flowing through vertical cliffs.",
+      "place": {
+        "hamlet": "Hoang Nong Hamlet",
+        "commune": "Hoang Nong Commune",
+        "district": "Dai Tu District",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Ghenh Che Lake",
+      "type_of_place": "natural",
+      "event": "A large ecological lake, an emerging camping and ecotourism destination.",
+      "place": {
+        "hamlet": "Tien Tien Hamlet",
+        "commune": "Binh Son Commune",
+        "district": "Song Cong City",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Hang Pagoda (Kim Son Pagoda)",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda located inside 3 large rocky mountains (Huyen Vu, Thanh Long, Bach Ho), likened to a 'Fairyland'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Chua Hang Ward",
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Ly Nam De Historical Relic Area (Huong Ap Pagoda)",
+      "type_of_place": "historical",
+      "event": "The hometown and place of worship of King Ly Nam De (Ly Bi), the first emperor of Vietnam (Van Xuan state).",
+      "place": {
+        "hamlet": "Co Phap Hamlet",
+        "commune": "Tien Phong Ward",
+        "district": "Pho Yen City",
+        "province": "Thai Nguyen"
+      }
+    },
+    {
+      "name": "Mua Roi Waterfall (Nam Rut Waterfall)",
+      "type_of_place": "natural",
+      "event": "A beautiful waterfall cascading from a limestone cliff into the Than Sa River, creating a mist of water like falling rain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Than Sa Commune",
+        "district": "Vo Nhai District",
+        "province": "Thai Nguyen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Pho Hien Relic Site",
+      "type_of_place": "historical",
+      "event": "The most bustling trading port of the 16th-17th centuries, famous for the saying 'First is Kinh Ky, second is Pho Hien'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hong Chau, Lam Son, Quang Trung Wards...",
+        "district": "Hung Yen City",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Da Hoa Temple (Chu Dong Tu Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for Saint Chu Dong Tu (one of the Four Immortals of Vietnamese belief) and his two wives, associated with the love legend of Tien Dung and Chu Dong Tu.",
+      "place": {
+        "hamlet": "Da Hoa Hamlet",
+        "commune": "Binh Minh Commune",
+        "district": "Khoai Chau District",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Da Trach Temple (Hoa Temple)",
+      "type_of_place": "historical",
+      "event": "The place believed to be the old foundation of the citadel (Nhat Da Swamp) where Chu Dong Tu and Tien Dung ascended to heaven.",
+      "place": {
+        "hamlet": "Yen Vinh Hamlet",
+        "commune": "Da Trach Commune",
+        "district": "Khoai Chau District",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Nom Village - Nom Pagoda",
+      "type_of_place": "historical",
+      "event": "The most intact preserved ancient Northern village complex with a banyan tree, a water well, a communal house yard, and the ancient Linh Thong Co Tu Pagoda.",
+      "place": {
+        "hamlet": "Nom Hamlet",
+        "commune": "Dai Dong Commune",
+        "district": "Van Lam District",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Xich Dang Temple of Literature",
+      "type_of_place": "historical",
+      "event": "A symbol of the studious tradition of the ancient Pho Hien land, where Confucius and great scholars are worshipped.",
+      "place": {
+        "hamlet": "Xich Dang Hamlet",
+        "commune": "Lam Son Ward",
+        "district": "Hung Yen City",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Mau Temple (Hoa Duong Linh Tu)",
+      "type_of_place": "historical",
+      "event": "The most sacred temple in Pho Hien, worshipping Yang Guifei, famous for an ancient weeping fig tree over 700 years old.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quang Trung Ward",
+        "district": "Hung Yen City",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Chuong Pagoda (Kim Chung Tu)",
+      "type_of_place": "historical",
+      "event": "Known as the 'First Scenic Spot of Pho Hien', associated with the legend of a golden bell drifting onto the riverbank.",
+      "place": {
+        "hamlet": "Nhan Duc Hamlet",
+        "commune": "Hien Nam Ward",
+        "district": "Hung Yen City",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Phu Ung Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for General Pham Ngu Lao, a famous general of the Tran Dynasty who made great contributions to the resistance wars against the Mongol invaders.",
+      "place": {
+        "hamlet": "Phu Ung Hamlet",
+        "commune": "Phu Ung Commune",
+        "district": "An Thi District",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Ban Nguyet Lake",
+      "type_of_place": "natural",
+      "event": "A poetic crescent-shaped lake located right in the center of Pho Hien, which was once a section of the old Red River.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quang Trung Ward",
+        "district": "Hung Yen City",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Dau An Temple (An Xa)",
+      "type_of_place": "historical",
+      "event": "An ancient temple worshipping the Jade Emperor and celestial deities, famous for its terracotta tower architecture and the nine-story tower.",
+      "place": {
+        "hamlet": "An Xa Hamlet",
+        "commune": "An Vien Commune",
+        "district": "Tien Lu District",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Ung Temple (Tong Tran Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for the Dual-Nation First Scholar Tong Tran and his wife Cuc Hoa, symbols of studiousness and loyalty.",
+      "place": {
+        "hamlet": "An Cau Hamlet",
+        "commune": "Tong Tran Commune",
+        "district": "Phu Cu District",
+        "province": "Hung Yen"
+      }
+    },
+    {
+      "name": "Tuong Ban Craft Village",
+      "type_of_place": "historical",
+      "event": "A traditional craft village famous for the specialty Tuong Ban ('Ban soy sauce, Lang basil...'), a delicacy once offered to kings.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ban Yen Nhan Town",
+        "district": "My Hao Town",
+        "province": "Hung Yen"
+      }
+    }
+  ]
+}

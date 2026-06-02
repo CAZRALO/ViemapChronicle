@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Rach Gam - Xoai Mut Victory Monument",
+      "type_of_place": "historical",
+      "event": "The site marking the glorious victory of the peasant hero Nguyen Hue, who defeated 50,000 invading Siamese troops (in 1785).",
+      "place": {
+        "hamlet": "Dong Hamlet",
+        "commune": "Kim Son Commune",
+        "district": "Chau Thanh District",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Vinh Trang Pagoda",
+      "type_of_place": "historical",
+      "event": "The largest pagoda in Tien Giang, outstanding for its unique architectural blend of East and West (French, Roman, Khmer, Chinese, and Vietnamese).",
+      "place": {
+        "hamlet": "My An Hamlet",
+        "commune": "My Phong Commune",
+        "district": "My Tho City",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Thoi Son Islet (Lan Islet)",
+      "type_of_place": "natural",
+      "event": "A famous orchard eco-tourism destination where visitors can experience riding in a three-plank sampan, listening to don ca tai tu, and enjoying fresh fruits right in the orchard.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thoi Son Commune",
+        "district": "My Tho City",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Dong Tam Snake Farm",
+      "type_of_place": "natural",
+      "event": "The largest center for snake breeding, research, medicinal herb processing, and snakebite emergency treatment in Vietnam, known as the 'Kingdom of Snakes'.",
+      "place": {
+        "hamlet": "Tan Thuan B Hamlet",
+        "commune": "Binh Duc Commune",
+        "district": "Chau Thanh District",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Cai Be Floating Market",
+      "type_of_place": "historical",
+      "event": "One of the busiest and oldest floating markets in the Southwestern region, a place for trading agricultural products on the water (bordering the three provinces of Tien Giang, Vinh Long, and Ben Tre).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cai Be Town",
+        "district": "Cai Be District",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Ap Bac Victory Relic Site",
+      "type_of_place": "historical",
+      "event": "The site of the historic battle (02/01/1963) that defeated the 'heliborne' and 'armored carrier' tactics of the US-puppet regime.",
+      "place": {
+        "hamlet": "Tan Binh Hamlet",
+        "commune": "Tan Phu Commune",
+        "district": "Cai Lay Town",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Tan Thanh Beach (Go Cong Beach)",
+      "type_of_place": "natural",
+      "event": "A unique 7km-long black sand beach, famous for clam farming and seafood dishes (especially Go Cong clams).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Thanh Commune",
+        "district": "Go Cong Dong District",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Truc Lam Chanh Giac Zen Monastery",
+      "type_of_place": "historical",
+      "event": "The largest Zen monastery in the region, famous for its Great Enlightenment Tower modeled after the Mahabodhi Temple in India.",
+      "place": {
+        "hamlet": "Hamlet 1",
+        "commune": "Thanh Tan Commune",
+        "district": "Tan Phước District",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Royal Mausoleum",
+      "type_of_place": "historical",
+      "event": "The tomb and temple complex of the Pham Dang clan, including the tomb of Pham Dang Hung - the maternal grandfather of King Tu Duc (father of Empress Dowager Tu Du).",
+      "place": {
+        "hamlet": "Royal Mausoleum",
+        "commune": "Long Hưng Commune",
+        "district": "Go Cong City",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Doc Phu Hai House",
+      "type_of_place": "historical",
+      "event": "An ancient house with an exquisite blend of Eastern and Western architecture, which has served as the setting for many famous movies (such as 'The Prince of Bac Lieu').",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1",
+        "district": "Go Cong City",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Man Dinh Hong Flower Garden",
+      "type_of_place": "natural",
+      "event": "A vast flower garden with a wide variety of flowers, a famous check-in spot for young people in Tien Giang.",
+      "place": {
+        "hamlet": "Phuoc Thuan Hamlet",
+        "commune": "Phuoc Thanh Commune",
+        "district": "Chau Thanh District",
+        "province": "Tien Giang"
+      }
+    },
+    {
+      "name": "Tan Dong Communal House (Go Tao Communal House)",
+      "type_of_place": "historical",
+      "event": "A unique ancient communal house 'embraced' by two ancient bodhi trees growing on its roof, creating a mysterious and sacred beauty.",
+      "place": {
+        "hamlet": "Go Tao Hamlet",
+        "commune": "Tan Dong Commune",
+        "district": "Go Cong Dong District",
+        "province": "Tien Giang"
+      }
+    }
+  ]
+}

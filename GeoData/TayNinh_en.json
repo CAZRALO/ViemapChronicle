@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Ba Den Mountain",
+      "type_of_place": "natural",
+      "event": "Known as the 'Roof of the Southeast' (986m), associated with the legend of Linh Son Thanh Mau (Ba Den) and the revolutionary movement.",
+      "place": {
+        "hamlet": "Ninh Phu Quarter",
+        "commune": "Ninh Son Ward",
+        "district": "Tay Ninh City",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Tay Ninh Holy See",
+      "type_of_place": "historical",
+      "event": "The ancestral temple of Cao Dai religion, a unique religious architectural work harmoniously combining Asian and Western arts.",
+      "place": {
+        "hamlet": "Long Hoa Quarter",
+        "commune": "Long Hoa Ward",
+        "district": "Hoa Thanh Town",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Dau Tieng Lake",
+      "type_of_place": "natural",
+      "event": "The largest artificial irrigation lake in Southeast Asia at the time of construction, stretching across 3 provinces (mainly in Tay Ninh).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuoc Minh, Phuoc Ninh, Suoi Da Communes...",
+        "district": "Duong Minh Chau District",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Relic of the Central Office for South Vietnam Base",
+      "type_of_place": "historical",
+      "event": "Known as the 'Resistance Capital' or 'R', the residence and workplace of the southern revolutionary headquarters during the anti-American war.",
+      "place": {
+        "hamlet": "Chang Riec Forest",
+        "commune": "Tan Lap Commune",
+        "district": "Tan Bien District",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Binh Thanh Ancient Tower",
+      "type_of_place": "historical",
+      "event": "The only Cham Pa ancient tower (belonging to the Oc Eo culture) in the Southern region that still retains relatively intact stone walls, dating back to the 8th-9th centuries.",
+      "place": {
+        "hamlet": "Binh Phu Hamlet",
+        "commune": "Binh Thanh Commune",
+        "district": "Trang Bang Town",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Lo Go - Xa Mat National Park",
+      "type_of_place": "natural",
+      "event": "An ASEAN Heritage Park, conserving many typical ecosystems of the transition zone between the Southeast and the Central Highlands.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Binh, Tan Lap, Hoa Hiep, Thanh Tay Communes",
+        "district": "Tan Bien District",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Ma Thien Lanh Valley",
+      "type_of_place": "natural",
+      "event": "Likened to the 'Da Lat of the East', this pristine valley is adjacent to three mountains (Ba Den, Phung Mountain, Heo Mountain).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Tan Commune",
+        "district": "Tay Ninh City",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Tua Hai Victory Relic",
+      "type_of_place": "historical",
+      "event": "The site of the opening battle for the armed Dong Khoi movement in the South (on January 26, 1960).",
+      "place": {
+        "hamlet": "Tua Hai Hamlet",
+        "commune": "Dong Khoi Commune",
+        "district": "Chau Thanh District",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Go Ken Pagoda (Thien Lam Pagoda)",
+      "type_of_place": "historical",
+      "event": "An ancient pagoda over 100 years old, where Most Venerable Thich Tu Phong once served as abbot and which is associated with the early formation of the Cao Dai religion.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hiep Tan Commune",
+        "district": "Hoa Thanh Town",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Moc Bai International Border Gate",
+      "type_of_place": "historical",
+      "event": "The largest land border gate in the South on the Vietnam - Cambodia border.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Loi Thuan Commune",
+        "district": "Ben Cau District",
+        "province": "Tay Ninh"
+      }
+    },
+    {
+      "name": "Chot Mat Tower",
+      "type_of_place": "historical",
+      "event": "One of the few ancient towers of the Oc Eo culture remaining in the Southern region, discovered in the early 20th century.",
+      "place": {
+        "hamlet": "Xom Moi Hamlet",
+        "commune": "Tan Phong Commune",
+        "district": "Tan Bien District",
+        "province": "Tay Ninh"
+      }
+    }
+  ]
+}

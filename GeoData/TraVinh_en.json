@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Ba Om Pond (Square Pond)",
+      "type_of_place": "natural",
+      "event": "A famous scenic spot associated with the legend of a pond-digging competition between men and women to win the right to marry.",
+      "place": {
+        "hamlet": "Quarter 3",
+        "commune": "Ward 8",
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Ang Pagoda (Angkorajaborey)",
+      "type_of_place": "historical",
+      "event": "One of the oldest and most beautiful Khmer pagodas in Tra Vinh, located within the scenic area of Ba Om Pond, featuring distinct Angkor architecture.",
+      "place": {
+        "hamlet": "Quarter 3",
+        "commune": "Ward 8",
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Ba Dong Beach",
+      "type_of_place": "natural",
+      "event": "A long beach with unique undulating sand dunes (hence the name Ba Dong), featuring a characteristic black iron-mixed sand beach.",
+      "place": {
+        "hamlet": "Nha Mat Hamlet",
+        "commune": "Truong Long Hoa Commune",
+        "district": "Duyen Hai Town",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Temple of President Ho Chi Minh",
+      "type_of_place": "historical",
+      "event": "Secretly built and protected by the military and people of Tra Vinh right in the heart of enemy territory during the fierce war years (inaugurated in 1971).",
+      "place": {
+        "hamlet": "Vinh Hoi Hamlet",
+        "commune": "Long Duc Commune",
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Hang Pagoda (Kompong Chray)",
+      "type_of_place": "historical",
+      "event": "A unique Khmer pagoda with a gate designed like a cave, famous for its artistic wood carving workshop and natural bird sanctuary.",
+      "place": {
+        "hamlet": "Quarter 3",
+        "commune": "Chau Thanh Town",
+        "district": "Chau Thanh District",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Tan Quy Islet",
+      "type_of_place": "natural",
+      "event": "A rich alluvial land famous for its fruit-laden orchards (mangosteen, rambutan) located in the middle of the Hau River.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Phu Tan Commune",
+        "district": "Cau Ke District",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Tra Vinh Khmer Ethnic Culture Museum",
+      "type_of_place": "historical",
+      "event": "A place that preserves, displays, and introduces more than 800 artifacts reflecting the rich cultural and spiritual life of the Southern Khmer ethnic people.",
+      "place": {
+        "hamlet": "Quarter 4",
+        "commune": "Ward 8",
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Co Pagoda (Nodol Pagoda)",
+      "type_of_place": "historical",
+      "event": "An ancient Khmer pagoda with a spacious campus that is home to thousands of storks, herons, and cormorants... creating a fascinating natural landscape.",
+      "place": {
+        "hamlet": "Giong Lon Hamlet",
+        "commune": "Dai An Commune",
+        "district": "Tra Cu District",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Huynh Ky Ancient House",
+      "type_of_place": "historical",
+      "event": "A beautiful ancient house combining French architecture with Vietnamese-Chinese patterns, which was once the private residence of Doc phu su Huynh Ky.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cau Ke Town",
+        "district": "Cau Ke District",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Long Tri Islet",
+      "type_of_place": "natural",
+      "event": "An eco-tourism area with a pristine cork mangrove forest and relaxing activities like boating and fishing.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Long Duc Commune",
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Truc Lam Tra Vinh Zen Monastery",
+      "type_of_place": "historical",
+      "event": "The first and largest Zen monastery of the Truc Lam Yen Tu sect in Tra Vinh, facing the East Sea.",
+      "place": {
+        "hamlet": "Khoan Tieu Hamlet",
+        "commune": "Truong Long Hoa Commune",
+        "district": "Duyen Hai Town",
+        "province": "Tra Vinh"
+      }
+    },
+    {
+      "name": "Con Tau Weapons Reception Terminal Relic (Ho Chi Minh Trail at Sea)",
+      "type_of_place": "historical",
+      "event": "An important link of the Ho Chi Minh Trail at Sea, where weapons from the North were received to support the Southern battlefield.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Truong Long Hoa Commune",
+        "district": "Duyen Hai Town",
+        "province": "Tra Vinh"
+      }
+    }
+  ]
+}

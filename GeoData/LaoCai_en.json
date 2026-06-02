@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Fansipan Peak",
+      "type_of_place": "natural",
+      "event": "Known as the 'Roof of Indochina' (3,143m), a symbol of conquest for Lao Cai tourism.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Fansipan Ward (bordering Tam Duong, Lai Chau)",
+        "district": "Sa Pa Town",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Hoang A Tuong Palace (Cat King Palace)",
+      "type_of_place": "historical",
+      "event": "A unique architectural work combining Asian and European styles, the residence of 'Cat King' Hoang A Tuong, the local chieftain who governed the ancient Bac Ha region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bac Ha Town",
+        "district": "Bac Ha District",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Sapa Ancient Rock Field",
+      "type_of_place": "historical",
+      "event": "A national monument, preserving hundreds of sandstone boulders carved with undeciphered ancient drawings and characters of prehistoric people.",
+      "place": {
+        "hamlet": "Hau Thao Hamlet",
+        "commune": "Muong Hoa Commune",
+        "district": "Sa Pa Town",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "O Quy Ho Pass",
+      "type_of_place": "natural",
+      "event": "One of the 'Four Great Passes' of Vietnam, associated with the legend of the O Quy Ho bird and its plaintive call searching for its mate.",
+      "place": {
+        "hamlet": "null",
+        "commune": "O Quy Ho Ward (bordering Lai Chau)",
+        "district": "Sa Pa Town",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Thuong Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the Grand Duke Hung Dao Dai Vuong Tran Quoc Tuan, who once stationed his troops here to guard the border.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Lao Cai Ward",
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Ham Rong Mountain",
+      "type_of_place": "natural",
+      "event": "The mountain shaped like a dragon's head reaching up to the blue sky, associated with the legend of a pair of dragons separated by a great deluge.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Sa Pa Town",
+        "district": "Sa Pa Town",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Lung Po Flagstaff",
+      "type_of_place": "historical",
+      "event": "The monument marking sovereignty where the Red River flows into Vietnamese territory ('Where the Red River flows into Vietnam').",
+      "place": {
+        "hamlet": "Lung Po Hamlet",
+        "commune": "A Mu Sung Commune",
+        "district": "Bat Xat District",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Bao Ha Temple (Ong Hoang Bay Temple)",
+      "type_of_place": "historical",
+      "event": "A national historical and cultural relic, dedicated to the famous general Nguyen Hoang Bay (National Guardian Deity) who had the merit of fighting northern invaders.",
+      "place": {
+        "hamlet": "Bao Vinh Hamlet",
+        "commune": "Bao Ha Commune",
+        "district": "Bao Yen District",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Y Ty Terraced Fields",
+      "type_of_place": "natural",
+      "event": "Famous for its sea of clouds and the unique mushroom-shaped earthen houses of the Ha Nhi people.",
+      "place": {
+        "hamlet": "Choan Then Hamlet",
+        "commune": "Y Ty Commune",
+        "district": "Bat Xat District",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Silver Waterfall",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "null",
+        "commune": "O Quy Ho Ward",
+        "district": "Sa Pa Town",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Bac Ha Market",
+      "type_of_place": "historical",
+      "event": "The largest highland market that still preserves the pristine cultural features of ethnic minorities in the Northwest region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Bac Ha Town",
+        "district": "Bac Ha District",
+        "province": "Lao Cai"
+      }
+    },
+    {
+      "name": "Lao Cai International Border Gate",
+      "type_of_place": "historical",
+      "event": "An important trading gateway between Vietnam and China, a witness to many historical border events.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Lao Cai Ward",
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      }
+    }
+  ]
+}

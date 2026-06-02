@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Bat Pagoda (Mahatup Pagoda)",
+      "type_of_place": "historical",
+      "event": "A famous Khmer pagoda known for its unique architecture and as a sanctuary for thousands of giant flying foxes.",
+      "place": {
+        "hamlet": "Quarter 9",
+        "commune": "Ward 3",
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Nga Nam Floating Market",
+      "type_of_place": "historical",
+      "event": "The intersection of 5 rivers flowing in 5 directions (Ca Mau, Vinh Quoi, Long My, Thanh Tri, Phung Hiep), a characteristic feature of river culture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1",
+        "district": "Nga Nam Town",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Chen Kieu Pagoda (Sa Lon Pagoda)",
+      "type_of_place": "historical",
+      "event": "A Khmer pagoda with brilliant architecture, decorated with millions of broken pieces of bowls, plates, and porcelain, creating unique patterns.",
+      "place": {
+        "hamlet": "Dai Nghia Thang Hamlet",
+        "commune": "Dai Tam Commune",
+        "district": "My Xuyen District",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Clay Pagoda (Buu Son Tu)",
+      "type_of_place": "historical",
+      "event": "Famous for thousands of Buddha statues and mythical beasts made of clay, and giant pairs of candles that burn for decades without going out.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 5",
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Tan Long Stork Garden",
+      "type_of_place": "natural",
+      "event": "A private sanctuary, home to thousands of storks and night herons, creating a pristine natural landscape in the middle of the delta.",
+      "place": {
+        "hamlet": "Tan Binh Hamlet",
+        "commune": "Long Binh Commune",
+        "district": "Nga Nam Town",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Kh'leang Pagoda",
+      "type_of_place": "historical",
+      "event": "The oldest pagoda in Soc Trang (built around 1533), associated with the legend of the origin of the name Soc Trang.",
+      "place": {
+        "hamlet": "Quarter 5",
+        "commune": "Ward 6",
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "My Phuoc Islet",
+      "type_of_place": "natural",
+      "event": "Known as the 'fruit kingdom' in the middle of the Hau River, famous for its lush orchards (longan, rambutan, durian).",
+      "place": {
+        "hamlet": "My Phuoc Hamlet",
+        "commune": "Nhon My Commune",
+        "district": "Ke Sach District",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Soc Trang Provincial Party Committee Base (My Phuoc Melaleuca Forest)",
+      "type_of_place": "historical",
+      "event": "An important revolutionary base during the two resistance wars, located in the middle of a vast melaleuca forest.",
+      "place": {
+        "hamlet": "Phuoc An Hamlet",
+        "commune": "My Phuoc Commune",
+        "district": "My Tu District",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Som Rong Pagoda (Wat Patum Wongsa Som Rong)",
+      "type_of_place": "historical",
+      "event": "Famous for its giant outdoor reclining Buddha statue and a magnificent palace-like stupa.",
+      "place": {
+        "hamlet": "Quarter 2",
+        "commune": "Ward 5",
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Soc Trang Khmer Museum",
+      "type_of_place": "historical",
+      "event": "A place that preserves and displays many valuable artifacts reflecting the cultural, spiritual, and historical life of the Khmer ethnic people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 6",
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      }
+    },
+    {
+      "name": "Ho Be Beach",
+      "type_of_place": "natural",
+      "event": "A pristine beach with long, smooth sand and a coastal mangrove forest ecosystem.",
+      "place": {
+        "hamlet": "Huynh Ky Hamlet",
+        "commune": "Vinh Hai Commune",
+        "district": "Vinh Chau Town",
+        "province": "Soc Trang"
+      }
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Hung Temple Historic Site",
+      "type_of_place": "historical",
+      "event": "A special national relic site, the place of worship for the Hung Kings - the ancestors of the Vietnamese nation, where the annual Hung Temple Festival (Ancestors' Death Anniversary) takes place.",
+      "place": {
+        "hamlet": "Co Tich Hamlet",
+        "commune": "Hy Cuong Commune",
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Xuan Son National Park",
+      "type_of_place": "natural",
+      "event": "The only national park in Vietnam with a primeval forest growing on limestone mountains, famous for its majestic cave system.",
+      "place": {
+        "hamlet": "Du Village, Coi Village...",
+        "commune": "Xuan Son Commune",
+        "district": "Tan Son District",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Au Co Mother Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for Mother Au Co, associated with the legend of the hundred-egg sac and the myth of 'going down to the sea and up to the mountains' of the Vietnamese people.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hien Luong Commune",
+        "district": "Ha Hoa District",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Long Coc Tea Hill",
+      "type_of_place": "natural",
+      "event": "Known as the 'Ha Long Bay of the midlands', one of the most beautiful tea hills in Vietnam with hundreds of inverted bowl-shaped tea oases.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Long Coc Commune",
+        "district": "Tan Son District",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Lac Long Quan Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the National Ancestor Lac Long Quan, located within the Hung Temple relic complex.",
+      "place": {
+        "hamlet": "Sim Hill",
+        "commune": "Chu Hoa Commune",
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Ao Chau Lagoon",
+      "type_of_place": "natural",
+      "event": "A large lagoon likened to the 'inland Ha Long Bay' of Phu Tho, associated with the legend of the Golden Buffalo.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ha Hoa Town, Am Ha Commune, Y Son Commune...",
+        "district": "Ha Hoa District",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Hung Lo Ancient Village",
+      "type_of_place": "historical",
+      "event": "An ancient village famous for Hung Lo Communal House (over 300 years old) and the traditional craft of making rice noodles, where ancient Xoan singing is preserved.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hung Lo Commune",
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Lai Len Shrine",
+      "type_of_place": "historical",
+      "event": "Considered the birthplace of Phu Tho Xoan Singing (Representative Intangible Cultural Heritage of Humanity).",
+      "place": {
+        "hamlet": "Phu Duc Hamlet",
+        "commune": "Kim Duc Commune",
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Thanh Thuy Hot Mineral Spring",
+      "type_of_place": "natural",
+      "event": "A natural hot mineral spring containing rare Radon, suitable for relaxation and therapy.",
+      "place": {
+        "hamlet": "null",
+        "commune": "La Phu Commune, Bao Yen Commune...",
+        "district": "Thanh Thuy District",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Ao Gioi - Suoi Tien",
+      "type_of_place": "natural",
+      "event": "A pristine scenic spot with a system of waterfalls cascading from the top of Na Mountain down through rocky tiers.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quan Khe Commune",
+        "district": "Ha Hoa District",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "Tam Giang Temple (Chieu Van Vuong Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for the deity Tho Lenh and Chieu Van Vuong Tran Nhat Duat, located at the river junction (the confluence of the Red River, Lo River, and Da River).",
+      "place": {
+        "hamlet": "Bach Hac Ward",
+        "commune": "Bach Hac Ward",
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      }
+    },
+    {
+      "name": "May Waterfall",
+      "type_of_place": "natural",
+      "event": "A beautiful waterfall located in the middle of a primeval forest, associated with the poetic beauty of the Thanh Son region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Huong Can Commune",
+        "district": "Thanh Son District",
+        "province": "Phu Tho"
+      }
+    }
+  ]
+}

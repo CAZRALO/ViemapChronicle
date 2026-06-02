@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Ba Chua Xu Temple, Sam Mountain",
+      "type_of_place": "historical",
+      "event": "Associated with the legend of the sacred Ba Chua Xu and the Ba Chua Xu Festival (National Intangible Cultural Heritage).",
+      "place": {
+        "hamlet": "Vinh Tay 1 Quarter",
+        "commune": "Nui Sam Ward",
+        "district": "Chau Doc City",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Tra Su Cajuput Forest",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "Van Tra Hamlet",
+        "commune": "Van Giao Commune",
+        "district": "Tinh Bien Town",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Oc Eo - Ba The Special National Relic Site",
+      "type_of_place": "historical",
+      "event": "A famous archaeological site, proving the existence and prosperity of the ancient Funan Kingdom.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Oc Eo Town",
+        "district": "Thoai Son District",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Tuc Dup Hill",
+      "type_of_place": "historical",
+      "event": "A resilient revolutionary base during the anti-American resistance war, famous for its nickname 'The $2 Million Hill' due to the amount of bombs and ammunition dropped on it.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Tuc Commune",
+        "district": "Tri Ton District",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "President Ton Duc Thang Memorial Site",
+      "type_of_place": "historical",
+      "event": "The birthplace and childhood home of President Ton Duc Thang (Uncle Ton), a beloved leader of the Vietnamese nation.",
+      "place": {
+        "hamlet": "My An 2 Hamlet",
+        "commune": "My Hoa Hung Commune (Ong Ho Island)",
+        "district": "Long Xuyen City",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Thoai Ngoc Hau Tomb (Son Lang)",
+      "type_of_place": "historical",
+      "event": "The resting place of the famous mandarin Thoai Ngoc Hau, who made great contributions to reclaiming the Southwestern region and digging the Vinh Te Canal.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nui Sam Ward",
+        "district": "Chau Doc City",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Ba Chuc Ossuary",
+      "type_of_place": "historical",
+      "event": "A historical relic marking the genocidal crimes of the Pol Pot regime during the Southwest border war (1978).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ba Chuc Town",
+        "district": "Tri Ton District",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Cam Mountain (Thien Cam Son)",
+      "type_of_place": "natural",
+      "event": "The highest mountain in the That Son (Seven Mountains) region, associated with many legends and a major spiritual tourism center.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Hao Commune",
+        "district": "Tinh Bien Town",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Bung Binh Thien (Heavenly Lake)",
+      "type_of_place": "natural",
+      "event": "The largest natural freshwater lake in the Southwestern region, famous for its peaceful beauty and the culture of the Cham people living along the lakeside.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nhon Hoi Commune, Quoc Thai Commune",
+        "district": "An Phu District",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Ta Pa Lake",
+      "type_of_place": "natural",
+      "event": "Known as the 'Tuyet Tinh Coc' of the West with its characteristic turquoise water.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nui To Commune",
+        "district": "Tri Ton District",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Jamiul Azhar Mosque",
+      "type_of_place": "historical",
+      "event": "One of the oldest and most beautiful mosques, a cultural symbol of the Cham Islam community in An Giang.",
+      "place": {
+        "hamlet": "Chau Giang Hamlet",
+        "commune": "Chau Phong Commune",
+        "district": "Tan Chau Town",
+        "province": "An Giang"
+      }
+    },
+    {
+      "name": "Nui Sap Tourist Area (Ong Thoai Lake)",
+      "type_of_place": "historical",
+      "event": "Associated with the excavation of the Thoai Ha Canal by the famous mandarin Thoai Ngoc Hau for irrigation and trade.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nui Sap Town",
+        "district": "Thoai Son District",
+        "province": "An Giang"
+      }
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Con Son - Kiep Bac Relic Site",
+      "type_of_place": "historical",
+      "event": "A special national relic site associated with the lives and careers of the historical figures Nguyen Trai, Tran Hung Dao, and Chu Van An.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cong Hoa Ward, Hung Dao Commune",
+        "district": "Chi Linh City",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Chi Lang Nam Stork Island",
+      "type_of_place": "natural",
+      "event": "A unique nature reserve with tens of thousands of storks and herons nesting in the middle of An Duong Lake.",
+      "place": {
+        "hamlet": "An Duong Hamlet",
+        "commune": "Chi Lang Nam Commune",
+        "district": "Thanh Mien District",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Mao Dien Temple of Literature",
+      "type_of_place": "historical",
+      "event": "The venue for the regional imperial examinations of the former Hai Duong province, symbolizing the studious tradition of the Eastern region (ranking second only to the Temple of Literature - Quoc Tu Giam in scale).",
+      "place": {
+        "hamlet": "Mao Dien Hamlet",
+        "commune": "Cam Dien Commune",
+        "district": "Cam Giang District",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Chu Dau Pottery Village",
+      "type_of_place": "historical",
+      "event": "The cradle of the once-lost premium blue-and-white pottery, known as 'gom dao', which is currently being strongly restored and developed.",
+      "place": {
+        "hamlet": "Chu Dau Hamlet",
+        "commune": "Thai Tan Commune",
+        "district": "Nam Sach District",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Kinh Chu Cave (Duong Nham Cave)",
+      "type_of_place": "historical",
+      "event": "Named the 'Sixth Cave of the Southern Sky' by King Le Thanh Tong, it preserves a valuable system of cliff-carved steles (ma nhai).",
+      "place": {
+        "hamlet": "Duong Nham Hamlet",
+        "commune": "Pham Thai Ward",
+        "district": "Kinh Mon Town",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Tranh Temple (Quan Lon Tuan Tranh Temple)",
+      "type_of_place": "historical",
+      "event": "The place of worship for Quan Lon Tuan Tranh, the deity guarding the waterways, and a famous spiritual site in the Mother Goddess worship belief.",
+      "place": {
+        "hamlet": "Tranh Xuyen Hamlet",
+        "commune": "Dong Tam Commune",
+        "district": "Ninh Giang District",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Cao An Phu Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for An Sinh Vuong Tran Lieu (father of Hung Dao Vuong Tran Quoc Tuan), located atop the majestic An Phu Mountain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "An Sinh Ward",
+        "district": "Kinh Mon Town",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Thanh Mai Pagoda Maple Forest",
+      "type_of_place": "natural",
+      "event": "A rare ancient sweetgum forest in the North, where the leaves turn a brilliant red in winter.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hoang Hoa Tham Commune",
+        "district": "Chi Linh City",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Bia Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the Great Physician Tue Tinh - the founder of Vietnamese traditional medicine, famous for the saying 'Nam duoc tri Nam nhan'.",
+      "place": {
+        "hamlet": "Van Thai Hamlet",
+        "commune": "Cam Van Commune",
+        "district": "Cam Giang District",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Thanh Ha Lychee Garden (The Ancestral Lychee Tree)",
+      "type_of_place": "natural",
+      "event": "The ancestral land of Vietnamese lychee, home to the nearly 200-year-old Hoang Nghi ancestral lychee tree.",
+      "place": {
+        "hamlet": "Thuy Lam Hamlet",
+        "commune": "Thanh Son Commune",
+        "district": "Thanh Ha District",
+        "province": "Hai Duong"
+      }
+    },
+    {
+      "name": "Giam Pagoda (Nghiem Quang Pagoda)",
+      "type_of_place": "historical",
+      "event": "Preserving the ancient and most valuable wooden Cuu Pham Lien Hoa (Nine-tier Lotus Tower) in Vietnam (a National Treasure).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cam Son Commune",
+        "district": "Cam Giang District",
+        "province": "Hai Duong"
+      }
+    }
+  ]
+}

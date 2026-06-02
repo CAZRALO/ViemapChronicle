@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Hue Imperial City (Hue Imperial Citadel)",
+      "type_of_place": "historical",
+      "event": "A UNESCO World Cultural Heritage site, the political power center of the Nguyen Dynasty for 143 years (1802-1945).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thuan Thanh Ward",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Thien Mu Pagoda (Linh Mu Pagoda)",
+      "type_of_place": "historical",
+      "event": "A symbol of the ancient capital of Hue, associated with the legend of the celestial lady (Thien Mu) appearing in a dream to Lord Nguyen Hoang.",
+      "place": {
+        "hamlet": "Ha Khe Hill",
+        "commune": "Huong Long Ward",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Khai Dinh Tomb (Ung Tomb)",
+      "type_of_place": "historical",
+      "event": "The tomb with the most unique architecture of the Nguyen era, combining Eastern and Western cultures, outstanding for its porcelain mosaic art.",
+      "place": {
+        "hamlet": "Chau Chu Hamlet",
+        "commune": "Thuy Bang Commune",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Lang Co Bay",
+      "type_of_place": "natural",
+      "event": "Recognized as one of the most beautiful bays in the world (Worldbays), located at the foot of Hai Van Pass.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Lang Co Town",
+        "district": "Phu Loc District",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Minh Mang Tomb (Hieu Tomb)",
+      "type_of_place": "historical",
+      "event": "A majestic tomb, in absolute harmony with nature, reflecting the profound Confucian ideology of King Minh Mang.",
+      "place": {
+        "hamlet": "La Khe Bai Hamlet",
+        "commune": "Huong Thọ Commune",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Tam Giang Lagoon",
+      "type_of_place": "natural",
+      "event": "The largest brackish lagoon system in Southeast Asia, famous for its sunset beauty and the life of local river fishermen.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Communes in Quang Dien, Phong Dien, Phu Vang",
+        "district": "Quang Dien District, Phu Vang District...",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Bach Ma National Park",
+      "type_of_place": "natural",
+      "event": "A famous resort since the French colonial period with a cool climate, diverse ecosystem, and a sea-watching pavilion offering a panoramic view of Cau Hai Lagoon.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Loc Tri Commune",
+        "district": "Phu Loc District",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Thanh Toan Tile-roofed Bridge",
+      "type_of_place": "historical",
+      "event": "A rare ancient tile-roofed bridge remaining in Vietnam (along with Hoi An Covered Bridge), a national-level artistic architectural relic.",
+      "place": {
+        "hamlet": "Thanh Thuy Chanh Village",
+        "commune": "Thuy Thanh Commune",
+        "district": "Huong Thuy Town",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Quoc Hoc Hue High School",
+      "type_of_place": "historical",
+      "event": "The third oldest high school in Vietnam, where President Ho Chi Minh and General Vo Nguyen Giap once studied.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Ninh Ward",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Vong Canh Hill",
+      "type_of_place": "natural",
+      "event": "The best spot to admire the Perfume River from above, where the Nguyen kings and lords used to come to enjoy the scenery.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thuy Xuan Ward",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Lap An Lagoon",
+      "type_of_place": "natural",
+      "event": "Likened to the 'Tuyet Tinh Coc' (isolated paradise) of Hue with its tranquil beauty, reflecting the clouds and sky next to Lang Co Bay.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Lang Co Town",
+        "district": "Phu Loc District",
+        "province": "Thua Thien Hue"
+      }
+    },
+    {
+      "name": "Perfume River",
+      "type_of_place": "natural",
+      "event": "A poetic river flowing through the heart of the city, a symbol of Hue, where Hue folk singing performances take place on the river.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Flowing through the city center",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      }
+    }
+  ]
+}

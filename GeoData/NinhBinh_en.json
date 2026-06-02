@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Hoa Lu Ancient Capital",
+      "type_of_place": "historical",
+      "event": "The first capital of the centralized feudal state of Vietnam (10th century), associated with the Dinh and Early Le dynasties.",
+      "place": {
+        "hamlet": "Yen Thanh Hamlet",
+        "commune": "Truong Yen Commune",
+        "district": "Hoa Lu District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Trang An Landscape Complex",
+      "type_of_place": "natural",
+      "event": "The only World Cultural and Natural Heritage site (dual heritage) in Southeast Asia, and the filming location of the blockbuster 'Kong: Skull Island'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Truong Yen Commune, Ninh Xuan Commune, Gia Sinh Commune...",
+        "district": "Hoa Lu District, Gia Vien District, Ninh Binh City",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Tam Coc - Bich Dong",
+      "type_of_place": "natural",
+      "event": "Known as the 'second finest cave under the Southern sky' and 'Ha Long Bay on land', famous for its golden ripe rice season along the Ngo Dong River.",
+      "place": {
+        "hamlet": "Van Lam Hamlet",
+        "commune": "Ninh Hai Commune",
+        "district": "Hoa Lu District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Bai Dinh Pagoda",
+      "type_of_place": "historical",
+      "event": "The largest pagoda complex in Southeast Asia, holding many Vietnamese and Asian records (the largest bronze Buddha statue, the longest Arhat corridor...).",
+      "place": {
+        "hamlet": "Sinh Duoc Hamlet",
+        "commune": "Gia Sinh Commune",
+        "district": "Gia Vien District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Phat Diem Stone Cathedral",
+      "type_of_place": "historical",
+      "event": "A unique Catholic architectural complex built entirely of stone and wood, harmoniously combining Western Gothic style with Eastern temples and pagodas.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phat Diem Town",
+        "district": "Kim Son District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Cuc Phuong National Park",
+      "type_of_place": "natural",
+      "event": "The first national park of Vietnam (established in 1962), famous for its butterfly season and the thousand-year-old Cho tree.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Cuc Phuong Commune",
+        "district": "Nho Quan District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Mua Cave",
+      "type_of_place": "natural",
+      "event": "Likened to a 'miniature Great Wall', where the Tran kings of the past often visited to listen to royal concubines and maids sing, play music, and dance.",
+      "place": {
+        "hamlet": "Khe Dau Ha Hamlet",
+        "commune": "Ninh Xuan Commune",
+        "district": "Hoa Lu District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Van Long Nature Reserve",
+      "type_of_place": "natural",
+      "event": "The largest wetland nature reserve in the Northern Delta, home to the rare white-rumped langur.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Gia Van Commune (and neighboring communes)",
+        "district": "Gia Vien District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Am Tien Cave (Tuyet Tinh Coc)",
+      "type_of_place": "historical",
+      "event": "The place where Empress Dowager Duong Van Nga practiced her religion in her final years, and was once an execution ground during the reign of King Dinh Tien Hoang (Ao Giai, Hang Muoi).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Truong Yen Commune",
+        "district": "Hoa Lu District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Thung Nham Bird Park",
+      "type_of_place": "natural",
+      "event": "An ecotourism area famous for its large natural bird park, where thousands of storks fly back to their nests at sunset.",
+      "place": {
+        "hamlet": "Hai Nham Hamlet",
+        "commune": "Ninh Hai Commune",
+        "district": "Hoa Lu District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Thai Vi Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for the Tran kings (Tran Thai Tong, Tran Thanh Tong, Tran Nhan Tong, Tran Anh Tong) and generals of the Tran dynasty.",
+      "place": {
+        "hamlet": "Van Lam Hamlet",
+        "commune": "Ninh Hai Commune",
+        "district": "Hoa Lu District",
+        "province": "Ninh Binh"
+      }
+    },
+    {
+      "name": "Kenh Ga - Van Trinh",
+      "type_of_place": "natural",
+      "event": "Famous for the Kenh Ga hot mineral spring and the shimmering Van Trinh Cave.",
+      "place": {
+        "hamlet": "Kenh Ga Hamlet",
+        "commune": "Gia Thinh Commune",
+        "district": "Gia Vien District",
+        "province": "Ninh Binh"
+      }
+    }
+  ]
+}

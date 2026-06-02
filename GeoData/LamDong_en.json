@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Langbiang Mountain",
+      "type_of_place": "natural",
+      "event": "Associated with the tragic love story of K'lang and H'biang, known as the 'Roof of Da Lat'.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Lac Duong Town",
+        "district": "Lac Duong District",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Da Lat Railway Station",
+      "type_of_place": "historical",
+      "event": "The oldest remaining railway station in Indochina, famous for its unique architecture featuring three pyramidal roofs mimicking Langbiang Mountain and a cog railway.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 10",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Bao Dai Palace III (Head of State Palace)",
+      "type_of_place": "historical",
+      "event": "The residence and workplace of King Bao Dai (the last king of the Nguyen Dynasty) and his family in Da Lat.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 4",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Tuyen Lam Lake",
+      "type_of_place": "natural",
+      "event": "The largest freshwater lake in Da Lat, recognized as a National Tourist Area, where Truc Lam Zen Monastery is located.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 3, Ward 4",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Pongour Waterfall (Seven-Tiered Waterfall)",
+      "type_of_place": "natural",
+      "event": "Known as the 'First Waterfall of the Southern Sky', associated with the legend of the female chief Kanai and four rhinoceroses.",
+      "place": {
+        "hamlet": "Tan Nghia Hamlet",
+        "commune": "Ninh Gia Commune",
+        "district": "Duc Trong District",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Da Lat Teacher's College (Grand Lycee Yersin)",
+      "type_of_place": "historical",
+      "event": "A unique French architectural work recognized by the International Union of Architects (UIA) as one of the 1,000 outstanding works of the 20th century.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 10",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Linh Quy Phap An Pagoda",
+      "type_of_place": "historical",
+      "event": "Famous for the 'Heaven's Gate' amidst a sea of clouds, likened to a fairyland.",
+      "place": {
+        "hamlet": "Hamlet 4",
+        "commune": "Loc Thanh Commune",
+        "district": "Bao Lam District",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Dambri Waterfall",
+      "type_of_place": "natural",
+      "event": "The most majestic waterfall in the Bao Loc region, associated with the legend of the faithful love between a K'ho couple (Dam and H'bi).",
+      "place": {
+        "hamlet": "Hamlet 14",
+        "commune": "Damb'ri Commune",
+        "district": "Bao Loc City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Bidoup - Nui Ba National Park",
+      "type_of_place": "natural",
+      "event": "Langbiang World Biosphere Reserve, home to Bidoup Peak, the highest peak in Lam Dong Province (2,287m).",
+      "place": {
+        "hamlet": "K'Long K'Lanh Hamlet",
+        "commune": "Da Nhim Commune",
+        "district": "Lac Duong District",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Xuan Huong Lake",
+      "type_of_place": "natural",
+      "event": "A green gem in the heart of the city, recognized as the first National Scenic Monument of Lam Dong.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1 (city center)",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Datanla Waterfall",
+      "type_of_place": "natural",
+      "event": "Associated with the legend of the warrior K'Lang fighting wild beasts, famous for its alpine coaster system through the forest.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 3",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    },
+    {
+      "name": "Truc Lam Da Lat Zen Monastery",
+      "type_of_place": "historical",
+      "event": "One of the three largest Zen monasteries in Vietnam of the Truc Lam Yen Tu sect, located on Phung Hoang Mountain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 3",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      }
+    }
+  ]
+}

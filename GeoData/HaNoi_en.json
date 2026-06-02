@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Hoan Kiem Lake (Sword Lake)",
+      "type_of_place": "historical",
+      "event": "Associated with the legend of King Le Loi returning the magic sword to the Golden Turtle God after defeating the Ming invaders, a symbol of the yearning for peace.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Hang Trong Ward, Ly Thai To Ward...",
+        "district": "Hoan Kiem District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Ho Chi Minh Mausoleum",
+      "type_of_place": "historical",
+      "event": "The resting place of President Ho Chi Minh, the beloved leader of the Vietnamese nation.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dien Bien Ward",
+        "district": "Ba Dinh District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Temple of Literature - Quoc Tu Giam",
+      "type_of_place": "historical",
+      "event": "Vietnam's first university, dedicated to Confucius and honoring sages and doctors across dynasties (the Doctors' Stelae are a UNESCO Memory of the World).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Quoc Tu Giam Ward",
+        "district": "Dong Da District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Imperial Citadel of Thang Long",
+      "type_of_place": "historical",
+      "event": "A UNESCO World Heritage Site, the political power center of Vietnam continuously for 13 centuries.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dien Bien Ward, Quan Thanh Ward",
+        "district": "Ba Dinh District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Duong Lam Ancient Village",
+      "type_of_place": "historical",
+      "event": "The first ancient village recognized as a national relic, known as the 'Land of Two Kings' (the birthplace of Phung Hung and Ngo Quyen).",
+      "place": {
+        "hamlet": "Mong Phu Hamlet (and Dong Sang, Cam Thinh Hamlets...)",
+        "commune": "Duong Lam Commune",
+        "district": "Son Tay Town",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Ba Vi National Park",
+      "type_of_place": "natural",
+      "event": "Famous for its diverse ecosystem, cool climate, and ruins of French colonial architecture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Linh Commune (and neighboring communes)",
+        "district": "Ba Vi District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Perfume Pagoda (Huong Son)",
+      "type_of_place": "historical",
+      "event": "One of the largest cultural and religious complexes in Vietnam, home to the Perfume Pagoda Festival, the longest-running festival in the country.",
+      "place": {
+        "hamlet": "Yen Vi Hamlet",
+        "commune": "Huong Son Commune",
+        "district": "My Duc District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Co Loa Citadel",
+      "type_of_place": "historical",
+      "event": "The capital of the Au Lac state under King An Duong Vuong, associated with the legend of the Magic Crossbow and the love story of My Chau and Trong Thuy.",
+      "place": {
+        "hamlet": "Co Loa Hamlet",
+        "commune": "Co Loa Commune",
+        "district": "Dong Anh District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Hoa Lo Prison",
+      "type_of_place": "historical",
+      "event": "Known as the 'Hanoi Hilton' during the war, it was used to detain political prisoners during the French colonial period and American pilots.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tran Hung Dao Ward",
+        "district": "Hoan Kiem District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Bat Trang Pottery Village",
+      "type_of_place": "historical",
+      "event": "The most famous traditional pottery village in Vietnam, with a history of over 500 years.",
+      "place": {
+        "hamlet": "Bat Trang Hamlet",
+        "commune": "Bat Trang Commune",
+        "district": "Gia Lam District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "West Lake",
+      "type_of_place": "natural",
+      "event": "The largest natural freshwater lake in Hanoi, associated with many historical relics and serving as a romantic cultural space.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Wards around the lake (Yen Phu, Quang An, Nhat Tan...)",
+        "district": "Tay Ho District",
+        "province": "Hanoi"
+      }
+    },
+    {
+      "name": "Ham Lon Mountain",
+      "type_of_place": "natural",
+      "event": "Known as the 'Roof of the Capital' (part of the Doc Ton range), it is a favorite camping and trekking spot for young people.",
+      "place": {
+        "hamlet": "Ham Lon Hamlet",
+        "commune": "Nam Son Commune",
+        "district": "Soc Son District",
+        "province": "Hanoi"
+      }
+    }
+  ]
+}

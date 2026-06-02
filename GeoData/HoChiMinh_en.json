@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Independence Palace (Reunification Hall)",
+      "type_of_place": "historical",
+      "event": "The site marking the historic event on April 30, 1975, when Liberation Army tanks crashed through the main gate, ending the Vietnam War.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ben Thanh Ward",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Cu Chi Tunnels",
+      "type_of_place": "historical",
+      "event": "An underground defense system stretching over 200km, dubbed the 'Steel Land of the Bronze Citadel' during the anti-American resistance war.",
+      "place": {
+        "hamlet": "Phu Hiep Hamlet (Ben Duoc), Ben Dinh Hamlet",
+        "commune": "Phu My Hung Commune, Nhuan Duc Commune",
+        "district": "Cu Chi District",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Saigon Notre-Dame Cathedral",
+      "type_of_place": "historical",
+      "event": "A masterpiece of Romanesque architecture blended with Gothic built by the French (completed in 1880), a symbol of the city.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ben Nghe Ward",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Nha Rong Wharf (Ho Chi Minh Museum)",
+      "type_of_place": "historical",
+      "event": "The place where the young man Nguyen Tat Thanh (Uncle Ho) left to find a way to save the country on June 5, 1911, on the ship Amiral Latouche Treville.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 12",
+        "district": "District 4",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Can Gio Sac Forest",
+      "type_of_place": "natural",
+      "event": "Vietnam's first world biosphere reserve, which used to be a floating base for the legendary Sac Forest commandos.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Long Hoa Commune, Can Thanh Town...",
+        "district": "Can Gio District",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Ben Thanh Market",
+      "type_of_place": "historical",
+      "event": "The oldest trading symbol of Saigon, witnessing many historical ups and downs of the city.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ben Thanh Ward",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "War Remnants Museum",
+      "type_of_place": "historical",
+      "event": "A place that preserves and displays images and artifacts of the crimes and consequences of aggressive wars in Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vo Thi Sau Ward",
+        "district": "District 3",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Saigon Central Post Office",
+      "type_of_place": "historical",
+      "event": "A typical French architectural work (designed by Gustave Eiffel), operating continuously from 1891 to the present.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ben Nghe Ward",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Nga Ba Giong Martyrs Memorial Site",
+      "type_of_place": "historical",
+      "event": "The place where the French colonialists executed many Party leaders such as Nguyen Van Cu and Phan Dang Luu after the Nam Ky Uprising (1940).",
+      "place": {
+        "hamlet": "Hamlet 5",
+        "commune": "Xuan Thoi Thuong Commune",
+        "district": "Hoc Mon District",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Jade Emperor Pagoda (Phuoc Hai Tu)",
+      "type_of_place": "historical",
+      "event": "A famous ancient pagoda sacred for praying for children, which was visited by US President Barack Obama in 2016.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Da Kao Ward",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Saigon Zoo and Botanical Gardens",
+      "type_of_place": "natural",
+      "event": "The 8th oldest zoo in the world (built in 1864), a living biological museum in the heart of the city.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ben Nghe Ward",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      }
+    },
+    {
+      "name": "Tomb of Le Van Duyet (Lang Ong Ba Chieu)",
+      "type_of_place": "historical",
+      "event": "The place of worship for Left General Le Van Duyet, the Governor of Gia Dinh Citadel who made great contributions to reclaiming and stabilizing the Southern region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1",
+        "district": "Binh Thanh District",
+        "province": "Ho Chi Minh City"
+      }
+    }
+  ]
+}

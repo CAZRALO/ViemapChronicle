@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Special National Relic Site of Nguyen Dinh Chieu Tomb and Memorial Area",
+      "type_of_place": "historical",
+      "event": "The resting and worship place of the great national cultural celebrity and patriotic poet - Nguyen Dinh Chieu (Elder Do Chieu).",
+      "place": {
+        "hamlet": "Hamlet 3",
+        "commune": "An Duc Commune",
+        "district": "Ba Tri District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Dong Khoi Special National Relic",
+      "type_of_place": "historical",
+      "event": "The cradle of the 'Dong Khoi' movement (1960), the leading banner in the revolutionary struggle movement of the South.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dinh Thuy Commune",
+        "district": "Mo Cay Nam District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Con Phung (Coconut Religion) Tourist Area",
+      "type_of_place": "historical",
+      "event": "Associated with the unique architectural relic of the Coconut Monk (Nguyen Thanh Nam) that existed before 1975.",
+      "place": {
+        "hamlet": "Hamlet 10",
+        "commune": "Tan Thach Commune",
+        "district": "Chau Thanh District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Female General Nguyen Thi Dinh Memorial Area",
+      "type_of_place": "historical",
+      "event": "A place to commemorate the life and career of the first female Major General of the People's Army of Vietnam - Co Ba Dinh.",
+      "place": {
+        "hamlet": "Phong Dien Hamlet",
+        "commune": "Luong Hoa Commune",
+        "district": "Giong Trom District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Vam Ho Bird Sanctuary",
+      "type_of_place": "natural",
+      "event": "A mangrove wetland with a diverse ecosystem, home to thousands of storks, night herons, and wild birds.",
+      "place": {
+        "hamlet": "Tan Quy Hamlet",
+        "commune": "Tan My Commune",
+        "district": "Ba Tri District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Cai Mon Ornamental Flower Village",
+      "type_of_place": "natural",
+      "event": "Known as the 'Kingdom of Ornamental Flowers' of the Western region, famous for its long-standing tradition of growing flowers and fruit trees.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Thanh Commune",
+        "district": "Cho Lach District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Huynh Phu Ancient House (Huong Liem Ancient House)",
+      "type_of_place": "historical",
+      "event": "An ancient wooden house with the most unique Hue architecture in the Western region, built in the late 19th century.",
+      "place": {
+        "hamlet": "Phu Long Hamlet",
+        "commune": "Dai Dien Commune",
+        "district": "Thanh Phu District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Con Quy",
+      "type_of_place": "natural",
+      "event": "One of the 'four holy beasts' (Dragon, Unicorn, Tortoise, Phoenix) on the Tien River, preserving its pristine beauty and river garden culture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan Thach Commune, Quoi Son Commune",
+        "district": "Chau Thanh District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Tuyen Linh Pagoda",
+      "type_of_place": "historical",
+      "event": "Associated with Patriarch Khanh Hoa and the Buddhist revival movement; the place where Pho Bang Nguyen Sinh Sac once stayed and operated.",
+      "place": {
+        "hamlet": "Tan Quoi Dong B Hamlet",
+        "commune": "Minh Duc Commune",
+        "district": "Mo Cay Nam District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Con Bung Beach (Thanh Phu Beach)",
+      "type_of_place": "natural",
+      "event": "A pristine beach, also the departure point of the 'numberless ships' on the Ho Chi Minh Trail at sea.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thanh Hai Commune",
+        "district": "Thanh Phu District",
+        "province": "Ben Tre"
+      }
+    },
+    {
+      "name": "Tan Thach Communal House",
+      "type_of_place": "historical",
+      "event": "A national-level artistic architectural relic, an ancient communal house typical of the Tutelary God worship belief of Ben Tre residents.",
+      "place": {
+        "hamlet": "Hamlet 5",
+        "commune": "Tan Thach Commune",
+        "district": "Chau Thanh District",
+        "province": "Ben Tre"
+      }
+    }
+  ]
+}

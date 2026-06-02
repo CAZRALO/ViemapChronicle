@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Tam Dao Tourist Area",
+      "type_of_place": "natural",
+      "event": "Known as the 'Da Lat of the North', it was once a luxury resort of the French in the early 20th century.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Dao Town",
+        "district": "Tam Dao District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Tay Thien Scenic Area",
+      "type_of_place": "historical",
+      "event": "One of the oldest Buddhist and Mother Goddess worship (worshiping National Mother Tay Thien Lang Thi Tieu) centers in Northern Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dai Dinh Commune",
+        "district": "Tam Dao District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Binh Son Tower",
+      "type_of_place": "historical",
+      "event": "The tallest and most beautiful terracotta tower remaining from the Tran Dynasty (14th century), a unique architectural and artistic monument.",
+      "place": {
+        "hamlet": "Binh Son Hamlet",
+        "commune": "Tam Son Town",
+        "district": "Song Lo District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Dai Lai Lake",
+      "type_of_place": "natural",
+      "event": "A vast artificial lake located at the foot of Ngoc Thanh Mountain, famous for its picturesque landscapes and resorts.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ngoc Thanh Commune",
+        "district": "Phuc Yen City",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Huong Canh Pottery Village",
+      "type_of_place": "historical",
+      "event": "A traditional craft village famous for its earthenware products and highly waterproof jars, associated with the history of fighting the Ming invaders.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Huong Canh Town",
+        "district": "Binh Xuyen District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Truc Lam Tay Thien Zen Monastery",
+      "type_of_place": "historical",
+      "event": "One of the three largest Zen monasteries of the Truc Lam Yen Tu Zen sect in Vietnam, located halfway up Thach Ban Mountain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dai Dinh Commune",
+        "district": "Tam Dao District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Dam Vac",
+      "type_of_place": "natural",
+      "event": "A vast natural lagoon likened to the 'West Lake' of Vinh Yen, providing an abundant source of seafood (tep Dau Dam Vac).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tich Son, Dong Tam Wards...",
+        "district": "Vinh Yen City",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Tho Tang Communal House",
+      "type_of_place": "historical",
+      "event": "An ancient 17th-century communal house with the most exquisite wood carving art, testifying to the prosperity of an ancient trading land.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tho Tang Town",
+        "district": "Vinh Tuong District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Dong Dau Archaeological Site",
+      "type_of_place": "historical",
+      "event": "An important site proving the continuous development of ancient Vietnamese from the Bronze Age to the Iron Age (from Phung Nguyen to Dong Son culture).",
+      "place": {
+        "hamlet": "Dong Dau Hamlet",
+        "commune": "Yen Lac Town",
+        "district": "Yen Lac District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Temple of Left Chancellor Tran Nguyen Han",
+      "type_of_place": "historical",
+      "event": "The place of worship for the famous general who made great contributions to the Lam Son Uprising, with the temple built by the people on the site of his former home.",
+      "place": {
+        "hamlet": "Da Cai Hamlet",
+        "commune": "Son Dong Commune",
+        "district": "Lap Thach District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Tam Dao Silver Waterfall",
+      "type_of_place": "natural",
+      "event": "A beautiful waterfall hidden in the mountains and forests of Tam Dao, with water flowing as white as silver.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Dao Town",
+        "district": "Tam Dao District",
+        "province": "Vinh Phuc"
+      }
+    },
+    {
+      "name": "Huong Canh Communal House Complex",
+      "type_of_place": "historical",
+      "event": "Consisting of 3 communal houses (Huong Canh, Tien Canh, Ngoc Canh) famous for their unique folk wood carving architecture from the Later Le Dynasty.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Huong Canh Town",
+        "district": "Binh Xuyen District",
+        "province": "Vinh Phuc"
+      }
+    }
+  ]
+}

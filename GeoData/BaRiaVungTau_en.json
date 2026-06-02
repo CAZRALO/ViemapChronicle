@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Con Dao Prison",
+      "type_of_place": "historical",
+      "event": "Known as 'Hell on Earth' during the French and American periods, this was where tens of thousands of revolutionary soldiers and patriots were imprisoned and exiled.",
+      "place": {
+        "hamlet": "null",
+        "commune": "null",
+        "district": "Con Dao District",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Hang Duong Cemetery",
+      "type_of_place": "historical",
+      "event": "The resting place of tens of thousands of revolutionary soldiers and patriots, including the grave of heroine Vo Thi Sau.",
+      "place": {
+        "hamlet": "null",
+        "commune": "null",
+        "district": "Con Dao District",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Bach Dinh (Villa Blanche)",
+      "type_of_place": "historical",
+      "event": "A European-style mansion built in 1898, which once served as a retreat for the Governor-General of French Indochina and King Bao Dai, and as a place of house arrest for King Thanh Thai.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 1",
+        "district": "Vung Tau City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Christ the King Statue (The Outstretched Arms Christ Statue)",
+      "type_of_place": "historical",
+      "event": "A symbol of Vung Tau City, it is the largest statue of Jesus Christ in Asia (record established in 2012).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Vung Tau City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Minh Dam Base Area",
+      "type_of_place": "historical",
+      "event": "An important revolutionary base of Ba Ria - Long Khanh Province during the two resistance wars against the French and Americans, utilizing the rugged mountainous terrain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuoc Hai Town, Tam Phuoc Commune, Phuoc Hung Commune...",
+        "district": "Dat Do District, Long Dien District",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Long Phuoc Tunnels",
+      "type_of_place": "historical",
+      "event": "A large-scale tunnel system dug by the military and people of Long Phuoc Commune starting in 1948 to serve in combat.",
+      "place": {
+        "hamlet": "Bac Hamlet",
+        "commune": "Long Phuoc Commune",
+        "district": "Ba Ria City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Long Son Large House (Ong Tran Temple)",
+      "type_of_place": "historical",
+      "event": "An ancient architectural and artistic complex, the birthplace of the Ong Tran belief system, which preserves the traditional lifestyle of the Southern region.",
+      "place": {
+        "hamlet": "Hamlet 5",
+        "commune": "Long Son Commune",
+        "district": "Vung Tau City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Vung Tau Lighthouse",
+      "type_of_place": "historical",
+      "event": "Built by the French in 1862, it is one of the oldest lighthouses in Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2 (on top of Nho Mountain)",
+        "district": "Vung Tau City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Binh Chau Hot Springs",
+      "type_of_place": "natural",
+      "event": "null",
+      "place": {
+        "hamlet": "Binh Thang Hamlet",
+        "commune": "Binh Chau Commune",
+        "district": "Xuyen Moc District",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Back Beach (Thuy Van Beach)",
+      "type_of_place": "natural",
+      "event": "The longest and most famous beach in Vung Tau.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Thang Tam Ward",
+        "district": "Vung Tau City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Ho Tram",
+      "type_of_place": "natural",
+      "event": "An unspoiled beach area with luxury resorts, located between Binh Chau and Long Hai.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Phuoc Thuan Commune",
+        "district": "Xuyen Moc District",
+        "province": "Ba Ria - Vung Tau"
+      }
+    },
+    {
+      "name": "Nghinh Phong Cape",
+      "type_of_place": "natural",
+      "event": "A cape stretching out into the sea with a unique shape, welcoming the wind all four seasons (meaning 'welcoming the wind').",
+      "place": {
+        "hamlet": "null",
+        "commune": "Ward 2",
+        "district": "Vung Tau City",
+        "province": "Ba Ria - Vung Tau"
+      }
+    }
+  ]
+}

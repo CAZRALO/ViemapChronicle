@@ -1,0 +1,125 @@
+{
+  "sites": [
+    {
+      "name": "Po Klong Garai Towers",
+      "type_of_place": "historical",
+      "event": "The most majestic and beautiful remaining Cham tower complex in Vietnam, dedicated to King Po Klong Garai - the king who made great contributions to digging canals and building irrigation dams.",
+      "place": {
+        "hamlet": "Trau Hill",
+        "commune": "Do Vinh Ward",
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Vinh Hy Bay",
+      "type_of_place": "natural",
+      "event": "Known as one of the 4 most beautiful bays in Vietnam, famous for its coastal pass road and glass-bottom boat coral viewing.",
+      "place": {
+        "hamlet": "Vinh Hy Hamlet",
+        "commune": "Vinh Hai Commune",
+        "district": "Ninh Hai District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Bau Truc Pottery Village",
+      "type_of_place": "historical",
+      "event": "The oldest pottery village in Southeast Asia, famous for its 'hand-shaped, foot-turned' manual pottery technique (without using a potter's wheel), inscribed by UNESCO as an Intangible Cultural Heritage.",
+      "place": {
+        "hamlet": "Quarter 7 (Bau Truc Village)",
+        "commune": "Phuoc Dan Town",
+        "district": "Ninh Phuoc District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Hang Rai",
+      "type_of_place": "natural",
+      "event": "A natural masterpiece with a million-year-old ancient coral reef and a unique 'waterfall on the sea' phenomenon when waves crash.",
+      "place": {
+        "hamlet": "Thai An Hamlet",
+        "commune": "Vinh Hai Commune",
+        "district": "Ninh Hai District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Nam Cuong Sand Dunes",
+      "type_of_place": "natural",
+      "event": "Pristine red sand dunes, likened to a miniature desert, where visitors can observe the daily life of the Cham people.",
+      "place": {
+        "hamlet": "Tuan Tu Hamlet",
+        "commune": "An Hai Commune",
+        "district": "Ninh Phuoc District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Mui Dinh (Mui Dinh Lighthouse)",
+      "type_of_place": "natural",
+      "event": "Home to an ancient lighthouse built in 1904 by the French and the stunningly pristine Trang Beach.",
+      "place": {
+        "hamlet": "Son Hai Hamlet",
+        "commune": "Phuoc Dinh Commune",
+        "district": "Thuan Nam District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Nui Chua National Park",
+      "type_of_place": "natural",
+      "event": "A world biosphere reserve, characterized by a unique dry forest ecosystem rarely seen in Vietnam.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Hai Commune (and neighboring communes)",
+        "district": "Ninh Hai District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "An Hoa Sheep Farm",
+      "type_of_place": "natural",
+      "event": "The largest sheep grazing field in Ninh Thuan, imbued with a nomadic style amidst the sunny and windy land.",
+      "place": {
+        "hamlet": "An Hoa Hamlet",
+        "commune": "Xuan Hai Commune",
+        "district": "Ninh Hai District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Hoa Lai Towers (Ba Thap)",
+      "type_of_place": "historical",
+      "event": "An ancient Cham tower relic complex built in the 9th century, featuring the characteristic Hoa Lai architectural style.",
+      "place": {
+        "hamlet": "Ba Thap Hamlet",
+        "commune": "Bac Phong Commune",
+        "district": "Thuan Bac District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "My Nghiep Weaving Village",
+      "type_of_place": "historical",
+      "event": "A long-standing traditional brocade weaving village of the Cham people, preserving unique patterns.",
+      "place": {
+        "hamlet": "Quarter 6 (My Nghiep Village)",
+        "commune": "Phuoc Dan Town",
+        "district": "Ninh Phuoc District",
+        "province": "Ninh Thuan"
+      }
+    },
+    {
+      "name": "Ba Moi Vineyard",
+      "type_of_place": "natural",
+      "event": "A famous vineyard, a pioneer in the agricultural eco-tourism model in Ninh Thuan.",
+      "place": {
+        "hamlet": "Hiep Hoa Hamlet",
+        "commune": "Phuoc Thuan Commune",
+        "district": "Ninh Phuoc District",
+        "province": "Ninh Thuan"
+      }
+    }
+  ]
+}

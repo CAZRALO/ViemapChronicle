@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Cai Rang Floating Market",
+      "type_of_place": "historical",
+      "event": "A national intangible cultural heritage, the most typical cultural feature of the Western river region, where goods are traded on the river.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Le Binh Ward (and neighboring wards on the Can Tho River)",
+        "district": "Cai Rang District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Binh Thuy Ancient House",
+      "type_of_place": "historical",
+      "event": "An ancient house over 150 years old with a unique blend of East-West architecture, which was once the setting for the famous movie 'The Lover' (L'Amant).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Binh Thuy Ward",
+        "district": "Binh Thuy District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Ninh Kieu Wharf",
+      "type_of_place": "historical",
+      "event": "The symbol of Can Tho City, associated with anecdotes and poetry, the intersection of the Hau River and the Can Tho River.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan An Ward",
+        "district": "Ninh Kieu District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Binh Thuy Communal House (Long Tuyen Co Mieu)",
+      "type_of_place": "historical",
+      "event": "A national-level artistic architectural relic, one of the most beautiful and intact ancient communal houses in the Southwestern region.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Binh Thuy Ward",
+        "district": "Binh Thuy District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Bang Lang Stork Sanctuary",
+      "type_of_place": "natural",
+      "event": "The largest bird sanctuary in the Mekong Delta, gathering thousands of storks and rare bird species.",
+      "place": {
+        "hamlet": "Thoi Binh 1 Hamlet",
+        "commune": "Thoi Thuan Ward",
+        "district": "Thot Not District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Truc Lam Phuong Nam Zen Monastery",
+      "type_of_place": "historical",
+      "event": "The largest Zen monastery in the Southwestern region, deeply imbued with the cultural architecture of the Ly - Tran dynasties.",
+      "place": {
+        "hamlet": "My Nhon Hamlet",
+        "commune": "My Khanh Commune",
+        "district": "Phong Dien District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Ong Temple (Quang Trieu Assembly Hall)",
+      "type_of_place": "historical",
+      "event": "A national artistic architectural relic, a typical Chinese temple with brilliant and sacred architecture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan An Ward",
+        "district": "Ninh Kieu District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Bui Huu Nghia Valedictorian Tomb Relic Site",
+      "type_of_place": "historical",
+      "event": "The resting and memorial place of cultural celebrity Bui Huu Nghia - one of the 'Golden Dragons' of the ancient Dong Nai land.",
+      "place": {
+        "hamlet": "Quarter 2",
+        "commune": "Bui Huu Nghia Ward",
+        "district": "Binh Thuy District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Can Tho Grand Prison",
+      "type_of_place": "historical",
+      "event": "A prison built by the French colonialists in 1886, which detained many revolutionary soldiers and patriotic compatriots.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tan An Ward",
+        "district": "Ninh Kieu District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Son Islet",
+      "type_of_place": "natural",
+      "event": "A famous community-based ecotourism destination with the model of raising flying snakehead fish and fruit orchards.",
+      "place": {
+        "hamlet": "Quarter 1",
+        "commune": "Bui Huu Nghia Ward",
+        "district": "Binh Thuy District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Phong Dien Floating Market",
+      "type_of_place": "historical",
+      "event": "A floating market that still retains the wild and rustic features of the orchard river culture.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Nhon Ai Commune",
+        "district": "Phong Dien District",
+        "province": "Can Tho"
+      }
+    },
+    {
+      "name": "Gian Gua (Gian Gua Historical Relic)",
+      "type_of_place": "natural",
+      "event": "A city-level historical relic, famous for its giant ancient Gua tree with intertwined branches forming a large trellis, which was once a revolutionary base.",
+      "place": {
+        "hamlet": "Nhon Khanh Hamlet",
+        "commune": "Nhon Nghia Commune",
+        "district": "Phong Dien District",
+        "province": "Can Tho"
+      }
+    }
+  ]
+}

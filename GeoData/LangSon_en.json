@@ -1,0 +1,136 @@
+{
+  "sites": [
+    {
+      "name": "Chi Lang Historical Relic Area (Chi Lang Pass)",
+      "type_of_place": "historical",
+      "event": "A legendary landmark with glorious victories against northern invaders (Song, Yuan, Ming), where Lieu Thang was beheaded.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Chi Lang Commune, Chi Lang Town",
+        "district": "Chi Lang District",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Mau Son Peak",
+      "type_of_place": "natural",
+      "event": "A place chosen by the French as a resort since the early 20th century, famous for its temperate climate and winter frost and snow.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Mau Son Commune",
+        "district": "Loc Binh District (and Cao Loc District)",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Tam Thanh Pagoda - Tam Thanh Cave",
+      "type_of_place": "historical",
+      "event": "A famous scenic spot in the folk song 'Dong Dang has Ky Lua street / Has Lady To Thi, has Tam Thanh pagoda', which preserves many ancient cliff inscriptions.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Thanh Ward",
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Mac Dynasty Citadel",
+      "type_of_place": "historical",
+      "event": "A military architectural relic reflecting the feudal conflict period (Le - Mac), built by taking advantage of the rugged mountainous terrain.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Thanh Ward",
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "To Thi Mountain (Lady To Thi)",
+      "type_of_place": "historical",
+      "event": "The mountain features a natural rock formation shaped like a woman holding her child, associated with the legend of Hon Vong Phu (the wife waiting for her husband until turning into stone).",
+      "place": {
+        "hamlet": "null",
+        "commune": "Tam Thanh Ward",
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Dong Dang Mother Goddess Temple",
+      "type_of_place": "historical",
+      "event": "A place of worship for Buddha and the Mother Goddess of the Forest (Mau Thuong Ngan), the most famous spiritual destination in the northern border region.",
+      "place": {
+        "hamlet": "Lo Ren Area",
+        "commune": "Dong Dang Town",
+        "district": "Cao Loc District",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Bac Son Valley",
+      "type_of_place": "natural",
+      "event": "Famous for its golden ripe rice fields nestled among rolling limestone mountains, a popular landscape photography spot.",
+      "place": {
+        "hamlet": "Quynh Son Hamlet",
+        "commune": "Quynh Son Commune",
+        "district": "Bac Son District",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Huu Nghi International Border Gate",
+      "type_of_place": "historical",
+      "event": "The starting point of National Highway 1A (Km 0), where milestone 1116 is located, marking sovereignty and Vietnam-China trade relations.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Dong Dang Town",
+        "district": "Cao Loc District",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Bac Son Uprising Relic",
+      "type_of_place": "historical",
+      "event": "The site of the first armed uprising led by the Indochinese Communist Party (in 1940).",
+      "place": {
+        "hamlet": "Nong Luc Hamlet",
+        "commune": "Hung Vu Commune",
+        "district": "Bac Son District",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Ky Cung Temple",
+      "type_of_place": "historical",
+      "event": "The place of worship for Mandarin Tuan Tranh (Quan Lon Tuan Tranh) by the Ky Cung river wharf, associated with a unique river-bathing palanquin procession festival.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Vinh Trai Ward",
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Tham Khuyen - Tham Hai Cave",
+      "type_of_place": "historical",
+      "event": "An important archaeological site where fossils of ape-men (Homo erectus) and ancient animals were discovered.",
+      "place": {
+        "hamlet": "Con Village",
+        "commune": "Tan Van Commune",
+        "district": "Binh Gia District",
+        "province": "Lang Son"
+      }
+    },
+    {
+      "name": "Dang Mo Waterfall",
+      "type_of_place": "natural",
+      "event": "A pristine waterfall flowing along rocky slopes, hidden in the old-growth forest.",
+      "place": {
+        "hamlet": "null",
+        "commune": "Mong An Commune",
+        "district": "Binh Gia District",
+        "province": "Lang Son"
+      }
+    }
+  ]
+}
