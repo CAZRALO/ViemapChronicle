@@ -1,0 +1,183 @@
+{
+  "events": [
+    {
+      "id": "HaiDuong_EARLY_01",
+      "year": 905,
+      "date": null,
+      "title": "Khuc Thua Du establishes autonomy",
+      "description": "Taking advantage of the Tang dynasty's decline, Khuc Thua Du (from Cuc Bo Village) raised troops, captured Tong Binh Prefecture (Hanoi), and declared himself Military Governor, ending more than 1,000 years of Northern domination and laying the foundation for the nation's independence.",
+      "location": {
+        "commune": "Kien Quoc",
+        "district": "Ninh Giang",
+        "province": "Hai Duong"
+      },
+      "related_figures": [
+        "Khuc Thua Du"
+      ],
+      "tags": [
+        "Autonomy",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "HaiDuong_TRAN_01",
+      "year": 1285,
+      "date": "1285-06-24",
+      "title": "Van Kiep Victory",
+      "description": "Hung Dao Vuong Tran Quoc Tuan chose Van Kiep as his headquarters and key defense area. Here, the army and people of the Tran Dynasty organized many fierce intercepting battles, contributing significantly to the victory of the second resistance war against the Mongol-Yuan invaders.",
+      "location": {
+        "commune": "Hung Dao",
+        "district": "Chi Linh",
+        "province": "Hai Duong"
+      },
+      "related_figures": [
+        "Tran Hung Dao"
+      ],
+      "tags": [
+        "Resistance war against the Mongol-Yuan",
+        "Military"
+      ]
+    },
+    {
+      "id": "HaiDuong_FRENCH_01",
+      "year": 1883,
+      "date": "1883-08-19",
+      "title": "The fall of Hai Duong Citadel",
+      "description": "French troops mobilized warships and infantry to attack Hai Duong Citadel. Although the royal court's troops fought back, due to the disparity in firepower, the citadel fell to the French, marking the establishment of colonial rule in this land.",
+      "location": {
+        "commune": null,
+        "district": "Hai Duong",
+        "province": "Hai Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "French colonial period",
+        "Military"
+      ]
+    },
+    {
+      "id": "HaiDuong_REV_01",
+      "year": 1930,
+      "date": "1930-03-27",
+      "title": "Establishment of the first Party Cell",
+      "description": "In Mao Dien Hamlet, the first Communist Party Cell of Hai Duong Province was established with 3 members. This was a milestone marking the beginning of a tightly organized revolutionary movement in the locality.",
+      "location": {
+        "commune": "Cam Dien",
+        "district": "Cam Giang",
+        "province": "Hai Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "HaiDuong_REV_02",
+      "year": 1945,
+      "date": "1945-08-17",
+      "title": "Uprising to seize power in the provincial capital",
+      "description": "Tens of thousands of people from districts flocked to Hai Duong Town, organizing a large rally at the People's Theater (Con Co Cinema), then occupying public offices and seizing power 2 days earlier than Hanoi.",
+      "location": {
+        "commune": null,
+        "district": "Hai Duong",
+        "province": "Hai Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HaiDuong_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-09-00",
+      "title": "\"Thunder on Route 5\" movement",
+      "description": "The army and people of Hai Duong (especially in Kim Thanh and Cam Giang) launched guerrilla warfare along National Route 5 and the Hanoi - Hai Phong railway line. Mine attacks and train derailments turned this vital route into a \"deadly road\" for French troops.",
+      "location": {
+        "commune": "Kim Thanh",
+        "district": "Kim Thanh",
+        "province": "Hai Duong"
+      },
+      "related_figures": [
+        "Dang Tinh"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Guerrilla warfare"
+      ]
+    },
+    {
+      "id": "HaiDuong_CONSTRUCTION_01",
+      "year": 1958,
+      "date": "1958-10-01",
+      "title": "Groundbreaking of the Bac - Hung - Hai Great Irrigation Project",
+      "description": "Prime Minister Pham Van Dong struck the first hoe to start construction of the Bac Hung Hai irrigation project at Xuan Quan sluice gate. This was the largest irrigation system in the North at that time, solving the irrigation and drainage issues for the three provinces of Bac Ninh, Hung Yen, and Hai Duong.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hai Duong"
+      },
+      "related_figures": [
+        "Ho Chi Minh",
+        "Pham Van Dong"
+      ],
+      "tags": [
+        "Economy",
+        "Irrigation"
+      ]
+    },
+    {
+      "id": "HaiDuong_US_WAR_01",
+      "year": 1965,
+      "date": "1965-11-05",
+      "title": "Battle to protect Phu Luong Bridge",
+      "description": "The US Air Force began fiercely bombing Phu Luong Bridge and Lai Vu Bridge to cut off the strategic transport route to Hai Phong Port. Hai Duong's air defense forces and self-defense militia fought resiliently, shooting down many US aircraft to protect the bridges.",
+      "location": {
+        "commune": null,
+        "district": "Hai Duong",
+        "province": "Hai Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Transportation"
+      ]
+    },
+    {
+      "id": "HaiDuong_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Establishment of Hai Hung Province",
+      "description": "Merging the two provinces of Hai Duong and Hung Yen into Hai Hung Province according to the Resolution of the National Assembly Standing Committee, aiming to concentrate human and material resources for the resistance war against the US to save the country.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hai Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "HaiDuong_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Hai Duong Province",
+      "description": "The 9th National Assembly passed a Resolution to split Hai Hung Province back into the two provinces of Hai Duong and Hung Yen. Hai Duong Province officially operated under the new administrative unit from January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hai Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

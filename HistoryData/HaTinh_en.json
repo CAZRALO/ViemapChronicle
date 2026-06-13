@@ -1,0 +1,187 @@
+{
+  "events": [
+    {
+      "id": "HaTinh_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Establishment of Ha Tinh Province",
+      "description": "During the large-scale administrative reform of King Minh Mang, Ha Tinh division was separated from Nghe An town to establish Ha Tinh Province. This was a historical milestone that officially established the administrative boundaries of the province.",
+      "location": {
+        "commune": null,
+        "district": "Ha Tinh City",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "HaTinh_CANVUONG_01",
+      "year": 1885,
+      "date": null,
+      "title": "Outbreak of the Huong Khe Uprising",
+      "description": "Phan Dinh Phung and Cao Thang chose the rugged mountainous region of Huong Khe and Vu Quang as their base to launch the Huong Khe Uprising. This was the largest, most tightly organized, and longest-lasting (10 years) uprising in the Can Vuong movement.",
+      "location": {
+        "commune": null,
+        "district": "Huong Khe",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [
+        "Phan Dinh Phung",
+        "Cao Thang"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "HaTinh_CANVUONG_02",
+      "year": 1894,
+      "date": "1894-10-26",
+      "title": "Battle of Vu Quang",
+      "description": "Phan Dinh Phung's insurgent army relied on the rugged terrain and clever tactics to lure the enemy, defeating a large-scale attack by French troops and indigenous guards at the Vu Quang base, causing heavy casualties to the enemy. This was the most resounding victory of the uprising.",
+      "location": {
+        "commune": "Hoa Hai",
+        "district": "Huong Khe",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [
+        "Phan Dinh Phung",
+        "Cao Thang"
+      ],
+      "tags": [
+        "Military",
+        "Victory"
+      ]
+    },
+    {
+      "id": "HaTinh_REV_01",
+      "year": 1930,
+      "date": "1930-03-01",
+      "title": "Establishment of the Ha Tinh Provincial Party Committee",
+      "description": "The conference to establish the provisional Ha Tinh Provincial Party Committee was held at Thuong Tru ferry dock. The birth of the Party Committee directly led the struggle movement of Ha Tinh peasants during the Nghe Tinh Soviets movement.",
+      "location": {
+        "commune": "Thien Loc",
+        "district": "Can Loc",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [
+        "Tran Huu Thieu"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "HaTinh_REV_02",
+      "year": 1930,
+      "date": "1930-08-01",
+      "title": "The Nghe Tinh Soviets Movement in Ha Tinh",
+      "description": "Peasants in Can Loc, Thach Ha, and Cam Xuyen Districts simultaneously protested, destroyed district offices, burned documents and records of the colonial and feudal government, and established self-governing Red Peasant Associations (Soviet administrations) in hamlets and communes.",
+      "location": {
+        "commune": null,
+        "district": "Can Loc",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Nghe Tinh Soviets",
+        "Peasants"
+      ]
+    },
+    {
+      "id": "HaTinh_REV_03",
+      "year": 1945,
+      "date": "1945-08-18",
+      "title": "Seizing Power in Ha Tinh",
+      "description": "Ha Tinh was one of the first 4 provinces in the country (along with Bac Giang, Hai Duong, and Quang Nam) to seize power for the people during the August Revolution, before the General Uprising order from Hanoi arrived.",
+      "location": {
+        "commune": null,
+        "district": "Ha Tinh City",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "HaTinh_US_WAR_01",
+      "year": 1965,
+      "date": "1965-03-26",
+      "title": "First Victory Against the US Air Force (Nai Mountain)",
+      "description": "Air Defense Battalion 8, together with local militia, made outstanding achievements at the Nai Mountain battlefield, shooting down 9 US aircraft in their first battle against the US Air Force's escalation of the destructive war in North Vietnam.",
+      "location": {
+        "commune": "Dai Nai",
+        "district": "Ha Tinh City",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the US",
+        "Air Defense"
+      ]
+    },
+    {
+      "id": "HaTinh_US_WAR_02",
+      "year": 1968,
+      "date": "1968-07-24",
+      "title": "The Sacrifice of 10 Female Youth Volunteers at Dong Loc Junction",
+      "description": "At the fierce traffic bottleneck of Dong Loc Junction, 10 female youth volunteers of Squad 4 (Company 552) heroically sacrificed their lives while filling bomb craters to clear the road for trucks heading to the front lines. They became immortal symbols of revolutionary heroism.",
+      "location": {
+        "commune": "Dong Loc",
+        "district": "Can Loc",
+        "province": "Ha Tinh"
+      },
+      "related_figures": [
+        "Vo Thi Tan"
+      ],
+      "tags": [
+        "Resistance War Against the US",
+        "Dong Loc",
+        "Youth Volunteers"
+      ]
+    },
+    {
+      "id": "HaTinh_ADMIN_01",
+      "year": 1976,
+      "date": "1976-01-01",
+      "title": "Establishment of Nghe Tinh Province",
+      "description": "Implementing the Resolution of the National Assembly, the two provinces of Nghe An and Ha Tinh were merged into Nghe Tinh Province. This was a period when the two provinces joined forces to build the economy and overcome the consequences of the war.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ha Tinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "HaTinh_ADMIN_02",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Ha Tinh Province",
+      "description": "The 8th National Assembly passed a Resolution to separate Nghe Tinh Province back into two provinces, Nghe An and Ha Tinh. Ha Tinh Province officially operated under the new administrative unit, beginning the process of Doi Moi and economic development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ha Tinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    }
+  ]
+}

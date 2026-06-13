@@ -1,0 +1,183 @@
+{
+  "events": [
+    {
+      "id": "NamDinh_TRAN_01",
+      "year": 1262,
+      "date": null,
+      "title": "Establishment of Thien Truong Prefecture",
+      "description": "Retired Emperor Tran Thai Tong issued a royal decree promoting Tuc Mac to Thien Truong Prefecture, ordering the construction of Trung Quang and Trung Hoa palaces as residences for the Retired Emperors. Thien Truong became the 'second capital' of Dai Viet during the Tran Dynasty.",
+      "location": {
+        "commune": "Loc Vuong",
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [
+        "Tran Thai Tong"
+      ],
+      "tags": [
+        "Tran Dynasty",
+        "Administration"
+      ]
+    },
+    {
+      "id": "NamDinh_REV_01",
+      "year": 1929,
+      "date": "1929-06-01",
+      "title": "Establishment of the Indochinese Communist Party Cell",
+      "description": "At No. 7 Hang Thao Street, the Provisional Nam Dinh Provincial Party Committee was established. This was the first Party organization in the province, directly leading the workers' and people's movements against the French.",
+      "location": {
+        "commune": "Ngo Quyen",
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [
+        "Nguyen Doan",
+        "Nguyen Hoi"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "NamDinh_REV_02",
+      "year": 1930,
+      "date": "1930-03-25",
+      "title": "Strike of the Textile Factory Workers",
+      "description": "More than 4,000 workers of the Nam Dinh Textile Factory staged a large-scale strike lasting 21 days and nights to protest the harsh working conditions. This event asserted the strength of the Nam Dinh working class.",
+      "location": {
+        "commune": "Tran Dang Ninh",
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [
+        "Nguyen Thi Uyen"
+      ],
+      "tags": [
+        "Workers' Movement",
+        "Textile Factory"
+      ]
+    },
+    {
+      "id": "NamDinh_REV_03",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Seizing Power in Nam Dinh City",
+      "description": "Tens of thousands of people from all directions gathered to surround the City Hall and the Civil Guard Camp. Faced with the revolutionary momentum, the Mayor of Nam Dinh was forced to surrender. The Provisional Revolutionary Committee of the city made its debut to the public.",
+      "location": {
+        "commune": null,
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "NamDinh_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-12-20",
+      "title": "Opening of the National Resistance in Nam Dinh",
+      "description": "Responding to President Ho Chi Minh's appeal, the Nam Dinh City Self-Defense Forces opened fire on French troops, implementing the 'scorched earth' tactic, surrounding and pinning down the enemy in the city for 86 days and nights.",
+      "location": {
+        "commune": null,
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Urban"
+      ]
+    },
+    {
+      "id": "NamDinh_FRENCH_WAR_02",
+      "year": 1953,
+      "date": "1953-02-01",
+      "title": "Anti-sweep Battle in Giao Thuy - Xuan Truong",
+      "description": "Regular troops of the 320th Division, in coordination with local militia and guerrillas, defeated a major French sweep operation (Operation Bretagne) in the coastal areas of Giao Thuy and Xuan Truong, firmly protecting the free zone.",
+      "location": {
+        "commune": null,
+        "district": "Giao Thuy",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [
+        "Van Tien Dung"
+      ],
+      "tags": [
+        "Resistance War Against the French",
+        "Anti-sweep"
+      ]
+    },
+    {
+      "id": "NamDinh_FRENCH_WAR_03",
+      "year": 1954,
+      "date": "1954-07-01",
+      "title": "Liberation of Nam Dinh City",
+      "description": "After the Geneva Accords were signed, French troops were forced to withdraw from Nam Dinh. Our military units entered to take over the city, marking the day of the complete liberation of Nam Dinh Province.",
+      "location": {
+        "commune": null,
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance War Against the French"
+      ]
+    },
+    {
+      "id": "NamDinh_US_WAR_01",
+      "year": 1965,
+      "date": "1965-07-02",
+      "title": "Battle to Protect the Textile City",
+      "description": "US aircraft launched massive bombing raids on Nam Dinh City, targeting the Textile Industrial Zone. The military and people of Nam Dinh shot down 2 US aircraft in their very first battle, safely protecting the industrial zone.",
+      "location": {
+        "commune": null,
+        "district": "Nam Dinh City",
+        "province": "Nam Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the US",
+        "Air Defense"
+      ]
+    },
+    {
+      "id": "NamDinh_ADMIN_01",
+      "year": 1965,
+      "date": "1965-04-21",
+      "title": "Establishment of Nam Ha Province",
+      "description": "Merging Nam Dinh Province and Ha Nam Province into Nam Ha Province. The merger aimed to strengthen economic and defense potential for the resistance war against the US to save the nation.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Nam Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "NamDinh_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Nam Dinh Province",
+      "description": "The 9th National Assembly passed a Resolution to split Nam Ha Province back into two provinces, Nam Dinh and Ha Nam. Nam Dinh Province officially began operating under the new administrative unit from January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Nam Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    }
+  ]
+}

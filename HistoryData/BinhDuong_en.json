@@ -1,0 +1,204 @@
+{
+  "events": [
+    {
+      "id": "BinhDuong_COLONIAL_01",
+      "year": 1899,
+      "date": "1899-12-20",
+      "title": "Establishment of Thu Dau Mot Province",
+      "description": "The Governor-General of French Indochina issued a Decree renaming the Residencies into provinces. Thu Dau Mot Province was established (separated from the former Bien Hoa Province), serving as the predecessor of today's Binh Duong Province. This land began to develop rubber plantations and ceramic crafts.",
+      "location": {
+        "commune": null,
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "BinhDuong_REV_01",
+      "year": 1930,
+      "date": "1930-08-00",
+      "title": "Establishment of the first Party Cell (Binh Nham Party Cell)",
+      "description": "At the pottery kiln of Mr. Dinh Van Xoan (Binh Nham Village, Lai Thieu), the first Communist Party Cell of Thu Dau Mot Province was established, with Comrade Truong Van Nham serving as Secretary. This event marked a turning point in the revolutionary movement in the 'hardship-filled yet heroic East'.",
+      "location": {
+        "commune": "Binh Nham",
+        "district": "Thuan An City",
+        "province": "Binh Duong"
+      },
+      "related_figures": [
+        "Truong Van Nham"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BinhDuong_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Thu Dau Mot",
+      "description": "Tens of thousands of people from Chau Thanh, Lai Thieu, Ben Cat districts... gathered in Thu Dau Mot Town to attend a rally. The Uprising Committee declared the abolition of the puppet government and established the Revolutionary People's Committee of Thu Dau Mot Province.",
+      "location": {
+        "commune": null,
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      },
+      "related_figures": [
+        "Van Cong Khai"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BinhDuong_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-02-00",
+      "title": "Establishment of War Zone D",
+      "description": "The Zone 7 Command decided to establish War Zone D (including the northern communes of Tan Uyen and a part of Dong Nai). This place became an inviolable 'Secret Zone', a solid base for the revolution in the Southeast region during the two resistance wars.",
+      "location": {
+        "commune": "Dat Cuoc",
+        "district": "Bac Tan Uyen",
+        "province": "Binh Duong"
+      },
+      "related_figures": [
+        "Huynh Van Nghe"
+      ],
+      "tags": [
+        "Revolutionary base",
+        "War Zone D"
+      ]
+    },
+    {
+      "id": "BinhDuong_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-03-19",
+      "title": "The battle of Ba Kien Bridge watchtower (Birth of the Sapper fighting style)",
+      "description": "The Tan Uyen guerrilla unit, commanded by Tran Cong An, secretly used explosives to destroy the heavily guarded Ba Kien Bridge watchtower. This victory gave birth to the 'special fort-assault' (Sapper) fighting style - a unique tactic of the Vietnamese military.",
+      "location": {
+        "commune": "Thanh Phuoc",
+        "district": "Tan Uyen",
+        "province": "Binh Duong"
+      },
+      "related_figures": [
+        "Tran Cong An"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Sapper"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_01",
+      "year": 1958,
+      "date": "1958-12-01",
+      "title": "The Phu Loi prison poisoning incident",
+      "description": "At Phu Loi Prison (known as 'Hell on Earth'), the US-Diem regime put poison into the food rations, causing thousands of political prisoners to be poisoned and many to die. This event shocked world public opinion and ignited the flames of struggle.",
+      "location": {
+        "commune": "Phu Loi",
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "War crimes",
+        "Prison"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_02",
+      "year": 1965,
+      "date": "1965-11-12",
+      "title": "Bau Bang Victory",
+      "description": "The 9th Division of the Regional Main Force organized a daring raid on the 1st Brigade (US 1st Infantry Division 'Big Red One') stationed in the field at Bau Bang. The battle inflicted heavy casualties on the US troops, proving our forces' capability to destroy a brigade-sized US unit.",
+      "location": {
+        "commune": "Lai Uyen",
+        "district": "Bau Bang",
+        "province": "Binh Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Major battle"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_03",
+      "year": 1967,
+      "date": null,
+      "title": "Fighting in the Iron Triangle (Southwest Ben Cat Tunnels)",
+      "description": "The US launched the large-scale Operation Cedar Falls to level the 'Iron Triangle' (Ben Cat - Cu Chi - Trang Bang). The military and people of Ben Cat relied on the solid, interconnected tunnel system to hold their ground, fight back, and preserve their forces against the enemy's massive firepower.",
+      "location": {
+        "commune": "An Tay",
+        "district": "Ben Cat",
+        "province": "Binh Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tunnels",
+        "Iron Triangle"
+      ]
+    },
+    {
+      "id": "BinhDuong_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Thu Dau Mot",
+      "description": "On the morning of April 30, the 320B Division (1st Corps) smashed the enemy's northern defense line of Saigon, entering and liberating Thu Dau Mot Town at 10:30 AM, clearing the way to march straight into the puppet regime's Joint General Staff in Saigon.",
+      "location": {
+        "commune": null,
+        "district": "Thu Dau Mot City",
+        "province": "Binh Duong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Ho Chi Minh Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "BinhDuong_ADMIN_01",
+      "year": 1997,
+      "date": "1997-01-01",
+      "title": "Re-establishment of Binh Duong Province",
+      "description": "Binh Duong Province was re-established after being separated from the former Song Be Province. With the policy of 'rolling out the flower carpet to welcome investment', Binh Duong rapidly transformed from an agricultural province into the most dynamic industrial hub in the country.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Binh Duong"
+      },
+      "related_figures": [
+        "Nguyen Minh Triet"
+      ],
+      "tags": [
+        "Administration",
+        "Doi Moi"
+      ]
+    },
+    {
+      "id": "BinhDuong_ECONOMY_01",
+      "year": 1996,
+      "date": "1996-05-14",
+      "title": "Groundbreaking of VSIP I Industrial Park",
+      "description": "The groundbreaking ceremony of the Vietnam - Singapore Industrial Park (VSIP I) in Thuan An was held in the presence of the Prime Ministers of both countries. This is the most successful symbol of economic cooperation, initiating a model industrial park blueprint that spread nationwide.",
+      "location": {
+        "commune": "Binh Hoa",
+        "district": "Thuan An City",
+        "province": "Binh Duong"
+      },
+      "related_figures": [
+        "Vo Van Kiet",
+        "Goh Chok Tong"
+      ],
+      "tags": [
+        "Economy",
+        "Industrialization"
+      ]
+    }
+  ]
+}

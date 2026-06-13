@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "DakLak_COLONIAL_01",
+      "year": 1904,
+      "date": "1904-11-22",
+      "title": "Establishment of Dak Lak Province",
+      "description": "The Governor-General of French Indochina issued a Decree to establish Dak Lak Province, separating it from Kon Tum. The provincial capital was initially located in Ban Don, later moved to Buon Ma Thuot. This marked the beginning of the formation of a province-level administrative unit in the central highlands.",
+      "location": {
+        "commune": null,
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [
+        "L. Bourgeois"
+      ],
+      "tags": [
+        "Administrative",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "DakLak_COLONIAL_02",
+      "year": 1930,
+      "date": null,
+      "title": "Construction of Buon Ma Thuot Prison",
+      "description": "The French colonialists built Buon Ma Thuot Prison to detain and exile the most 'dangerous' political prisoners from the Central provinces. This place was famous for its brutal regime but became a school of resilient revolution.",
+      "location": {
+        "commune": "Tu An",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [
+        "Ho Tung Mau",
+        "Phan Dang Luu"
+      ],
+      "tags": [
+        "Prison",
+        "Historical site"
+      ]
+    },
+    {
+      "id": "DakLak_REV_01",
+      "year": 1940,
+      "date": null,
+      "title": "Establishment of the first Communist Party Cell",
+      "description": "At Buon Ma Thuot Prison, the first Communist Party Cell of Dak Lak Province was secretly established. The cell turned the prison into a place to temper the will and train core cadres for the Party (such as Nguyen Chi Thanh, To Huu...).",
+      "location": {
+        "commune": "Tu An",
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [
+        "Ho Tung Mau"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "DakLak_REV_02",
+      "year": 1945,
+      "date": "1945-08-24",
+      "title": "Seizing power in Buon Ma Thuot",
+      "description": "Thousands of people, self-defense forces, and national salvation youth organized rallies and seized power in Buon Ma Thuot Town. The Provisional Revolutionary Committee of Dak Lak Province was established, marking the collapse of the colonial and feudal regime in the Central Highlands.",
+      "location": {
+        "commune": null,
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "DakLak_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-12-01",
+      "title": "The battle to defend Buon Ma Thuot Town",
+      "description": "French troops returned to occupy the Central Highlands. The Nam Tien army units and the soldiers and people of Dak Lak fought bravely on the Route 21 front and in Buon Ma Thuot Town to hold back the enemy, protecting the headquarters for a safe retreat to conduct a long-term resistance.",
+      "location": {
+        "commune": null,
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-French Resistance War",
+        "Nam Tien"
+      ]
+    },
+    {
+      "id": "DakLak_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-30",
+      "title": "The Tet Mau Than Offensive and Uprising",
+      "description": "The armed forces of Dak Lak Province coordinated with the regular army to attack important targets in Buon Ma Thuot Town, such as the Administrative Building, the Radio Station, and Hoa Binh Airport, causing a great resonance and heavy losses to the enemy.",
+      "location": {
+        "commune": null,
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "DakLak_US_WAR_02",
+      "year": 1975,
+      "date": "1975-03-10",
+      "title": "The Victory of Buon Ma Thuot (The Key Battle)",
+      "description": "At 2 a.m., our troops opened fire to begin the Central Highlands Campaign. With perfect diversionary tactics, we unexpectedly concentrated firepower to attack and take control of Buon Ma Thuot Town after just over a day. This victory shook the enemy's defense system, initiating the chain collapse of the Saigon regime.",
+      "location": {
+        "commune": null,
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [
+        "Hoang Minh Thao",
+        "Vu Lang"
+      ],
+      "tags": [
+        "Central Highlands Campaign",
+        "Historic victory"
+      ]
+    },
+    {
+      "id": "DakLak_US_WAR_03",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Complete liberation of Dak Lak Province",
+      "description": "After the victory of Buon Ma Thuot and the crushing of the counter-attack by the puppet 2nd Corps in Phuoc An, our troops spread out to liberate the remaining districts. On March 24, Dak Lak Province was completely cleared of enemy forces.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Dak Lak"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "1975 Spring Campaign"
+      ]
+    },
+    {
+      "id": "DakLak_ADMIN_01",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Division of Dak Lak Province",
+      "description": "The 11th National Assembly passed Resolution No. 22/2003/QH11 dividing Dak Lak Province into two provinces: Dak Lak and Dak Nong. The new Dak Lak Province retained Buon Ma Thuot City as its provincial capital and continued to be the economic and political center of the Central Highlands.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Dak Lak"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administrative",
+        "Provincial division"
+      ]
+    },
+    {
+      "id": "DakLak_CULTURE_01",
+      "year": 2005,
+      "date": "2005-11-25",
+      "title": "The Space of Gong Culture in the Central Highlands inscribed by UNESCO",
+      "description": "The Space of Gong Culture in the Central Highlands (spanning 5 provinces, of which Dak Lak is an important center) was recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity. This event affirmed the unique cultural values of the E De, M'nong ethnic groups...",
+      "location": {
+        "commune": null,
+        "district": "Buon Ma Thuot City",
+        "province": "Dak Lak"
+      },
+      "related_figures": [],
+      "tags": [
+        "Culture",
+        "UNESCO Heritage"
+      ]
+    }
+  ]
+}

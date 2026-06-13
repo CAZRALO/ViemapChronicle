@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "BinhThuan_NGUYEN_01",
+      "year": 1697,
+      "date": null,
+      "title": "Establishment of Dinh Binh Thuan",
+      "description": "Lord Nguyen Phuc Chu officially established Dinh Binh Thuan, including two prefectures, Ham Thuan and Binh Thuan. This event marked the establishment of sovereignty and the formal administrative system of the Vietnamese people in the southernmost region of Central Vietnam.",
+      "location": {
+        "commune": null,
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [
+        "Nguyen Phuc Chu"
+      ],
+      "tags": [
+        "Nguyen Lords",
+        "Territorial expansion"
+      ]
+    },
+    {
+      "id": "BinhThuan_REV_01",
+      "year": 1910,
+      "date": "1910-09-00",
+      "title": "Teacher Nguyen Tat Thanh teaches at Duc Thanh School",
+      "description": "On his journey to find a way to save the nation, the young man Nguyen Tat Thanh (Ho Chi Minh) stopped to teach at Duc Thanh School (Phan Thiet). This was an important period that shaped his patriotic ideology and love for the people before he went to Saigon to leave the country in search of a way to save the nation.",
+      "location": {
+        "commune": "Duc Nghia",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Duc Thanh School"
+      ]
+    },
+    {
+      "id": "BinhThuan_REV_02",
+      "year": 1930,
+      "date": "1930-12-00",
+      "title": "Establishment of the first Party Cell (Tam Tan Party Cell)",
+      "description": "The first Communist Party cell of Binh Thuan Province was established in Tam Tan Village (La Gi), consisting of 7 party members with Comrade Ngo Duc Ton as Secretary. This event marked the beginning of the Party's direct leadership over the revolutionary movement in the province.",
+      "location": {
+        "commune": "Tan Tien",
+        "district": "La Gi Town",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [
+        "Ngo Duc Ton"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BinhThuan_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Phan Thiet",
+      "description": "The Uprising Committee led by Comrade Nguyen Tuong, along with the armed forces and the masses, seized the Resident's Office and the Governor's Palace. The colonial and feudal government collapsed, and the Provisional Revolutionary People's Committee of Binh Thuan Province was introduced to the public.",
+      "location": {
+        "commune": null,
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [
+        "Nguyen Tuong"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BinhThuan_FRENCH_WAR_01",
+      "year": 1948,
+      "date": "1948-03-01",
+      "title": "La Nga Battle",
+      "description": "Battalions 303 and 300 of Detachment 10 (Binh Thuan - Dong Nai Allied Forces) organized an ambush on a French military convoy on National Route 20 (La Nga Bridge area). Our forces destroyed 59 vehicles and eliminated many enemy officers. This was the largest road battle in the Southeast region at that time.",
+      "location": {
+        "commune": "La Nga",
+        "district": "Tanh Linh",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [
+        "Huynh Van Nghe"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Ambush"
+      ]
+    },
+    {
+      "id": "BinhThuan_US_WAR_01",
+      "year": 1960,
+      "date": "1960-09-02",
+      "title": "Hoai Duc - Bac Ruong Victory",
+      "description": "The armed forces of Binh Thuan Province attacked and destroyed the Hoai Duc sub-sector and the Bac Ruong concentration camp. This was the opening battle for the Dong Khoi (General Uprising) movement in the southernmost region of Central Vietnam, breaking the grip of the US-Diem regime in the border area.",
+      "location": {
+        "commune": "Bac Ruong",
+        "district": "Tanh Linh",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dong Khoi",
+        "Destroying strategic hamlets"
+      ]
+    },
+    {
+      "id": "BinhThuan_US_WAR_02",
+      "year": 1975,
+      "date": "1975-04-08",
+      "title": "Liberation of Hoai Duc - Tanh Linh District",
+      "description": "Carrying out the general offensive order, the military and people of Binh Thuan attacked and completely liberated Hoai Duc and Tanh Linh districts, opening up a strategic corridor for our main army to advance and liberate Saigon.",
+      "location": {
+        "commune": null,
+        "district": "Duc Linh, Tanh Linh",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "BinhThuan_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-19",
+      "title": "Liberation of Phan Thiet Town",
+      "description": "The Coastal Army Wing (2nd Corps), in coordination with local forces, attacked and smashed the enemy's defense system in Phan Thiet. By 9:00 AM, the Military Administration Committee entered to take over the town, and Binh Thuan Province was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [
+        "Le Minh Dao"
+      ],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "BinhThuan_ADMIN_01",
+      "year": 1992,
+      "date": "1992-04-01",
+      "title": "Re-establishment of Binh Thuan Province",
+      "description": "Implementing the Resolution of the 8th National Assembly, Thuan Hai Province (merged since 1976) was split into two provinces, Binh Thuan and Ninh Thuan. Binh Thuan Province officially operated under the new administrative unit, with Phan Thiet Town as its provincial capital.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Binh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    },
+    {
+      "id": "BinhThuan_ECONOMY_01",
+      "year": 1995,
+      "date": "1995-10-24",
+      "title": "Total Solar Eclipse Event (The Boom of Mui Ne Tourism)",
+      "description": "Thousands of tourists and scientists flocked to Mui Ne to admire the total solar eclipse. This event accidentally 'awakened' the pristine beauty of Mui Ne, transforming it from a poor fishing village into the 'Resort Capital' of Vietnam.",
+      "location": {
+        "commune": "Mui Ne",
+        "district": "Phan Thiet City",
+        "province": "Binh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tourism",
+        "Economy"
+      ]
+    }
+  ]
+}

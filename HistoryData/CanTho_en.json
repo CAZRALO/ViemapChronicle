@@ -1,0 +1,221 @@
+{
+  "events": [
+    {
+      "id": "CanTho_FOUNDING_01",
+      "year": 1739,
+      "date": null,
+      "title": "Founding of the land of Tran Giang (Can Tho)",
+      "description": "Mac Thien Tich (son of Mac Cuu) completed the reclamation of the new land, officially naming it Tran Giang, belonging to the territory of Dang Trong. This is considered the starting milestone for the formation and development of today's Can Tho City.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kieu",
+        "province": "Can Tho"
+      },
+      "related_figures": [
+        "Mac Thien Tich"
+      ],
+      "tags": [
+        "Territorial expansion",
+        "Formation history"
+      ]
+    },
+    {
+      "id": "CanTho_COLONIAL_01",
+      "year": 1876,
+      "date": "1876-02-23",
+      "title": "Establishment of Can Tho District",
+      "description": "The French colonialists issued a Decree separating Phong Phu District from Vinh Long Province to establish Can Tho District (later changed to Can Tho Province). From then on, the name Can Tho officially appeared on the administrative map and gradually became the center ('Tay Do') of the West.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kieu",
+        "province": "Can Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "CanTho_REV_01",
+      "year": 1929,
+      "date": "1929-11-10",
+      "title": "Establishment of the Annam Communist Party Cell (Co Do)",
+      "description": "At the Co Do plantation, the first Annam Communist Party Cell of Can Tho was established with Comrade Ha Huy Giap as Secretary. This event marked an important turning point, leading the struggle movement of peasants and workers in Tay Do along the path of proletarian revolution.",
+      "location": {
+        "commune": "Thoi Dong",
+        "district": "Co Do",
+        "province": "Can Tho"
+      },
+      "related_figures": [
+        "Ha Huy Giap",
+        "Ung Van Khiem"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "CanTho_REV_02",
+      "year": 1940,
+      "date": "1940-06-00",
+      "title": "Establishment of the Can Tho Inter-Provincial Party Committee",
+      "description": "To prepare for the Nam Ky Uprising, the Nam Ky Party Committee decided to establish the Can Tho Inter-Provincial Party Committee (including Can Tho, Soc Trang, and Bac Lieu) with Comrade Ta Uyen as Secretary. Can Tho became the center for directing the revolutionary movement of the entire Hau Giang region.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kieu",
+        "province": "Can Tho"
+      },
+      "related_figures": [
+        "Ta Uyen"
+      ],
+      "tags": [
+        "Party organization",
+        "Pre-uprising"
+      ]
+    },
+    {
+      "id": "CanTho_REV_03",
+      "year": 1945,
+      "date": "1945-08-26",
+      "title": "Seizing power in Can Tho",
+      "description": "More than 20,000 compatriots from O Mon, Chau Thanh... districts gathered at Can Tho Stadium to attend a rally. The National Liberation Committee made its debut, forcing Province Chief Luu Van Tho to hand over power. Can Tho successfully seized power without bloodshed.",
+      "location": {
+        "commune": "Cai Khe",
+        "district": "Ninh Kieu",
+        "province": "Can Tho"
+      },
+      "related_figures": [
+        "Tran Van Kheo"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "CanTho_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-11-12",
+      "title": "Le Binh Battle (Can Tho Front)",
+      "description": "French troops reoccupied Can Tho. The Republican Guard and combat self-defense forces heroically blocked and fought the enemy at Le Binh Market (Cai Rang). Comrade Le Binh, commander of the National Self-Defense Force, fought and died heroically (his name was later given to the market and school here).",
+      "location": {
+        "commune": "Le Binh",
+        "district": "Cai Rang",
+        "province": "Can Tho"
+      },
+      "related_figures": [
+        "Le Binh"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Nam Bo Resistance"
+      ]
+    },
+    {
+      "id": "CanTho_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-04-19",
+      "title": "Tam Vu IV Victory",
+      "description": "At Tam Vu Canal (the border area between Can Tho and Hau Giang), our troops intercepted a French military convoy, killing 100 enemy soldiers and capturing the first 105mm artillery piece in the South. This victory resounded across the country and was featured in the famous song 'Tam Vu'.",
+      "location": {
+        "commune": "Thanh Xuan",
+        "district": "Chau Thanh A (bordering)",
+        "province": "Can Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-French resistance war",
+        "Great victory"
+      ]
+    },
+    {
+      "id": "CanTho_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Mau Than Offensive (Attack on Lo Te Airport)",
+      "description": "The Liberation Army launched simultaneous attacks on key headquarters in Tay Do, such as Lo Te Airport (the largest military airport in the West), the US Consulate, the radio station... Fierce fighting took place in the Vong Cung area, causing heavy damage to the US Air Force.",
+      "location": {
+        "commune": "Tra Noc",
+        "district": "Binh Thuy",
+        "province": "Can Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "CanTho_US_WAR_02",
+      "year": 1969,
+      "date": null,
+      "title": "Building the 'Vong Cung of Fire' (Can Tho Vong Cung)",
+      "description": "The Vong Cung route (nearly 30km long running through O Mon, Binh Thuy, Phong Dien) became the most fiercely contested area. The US dropped thousands of tons of bombs and ammunition here to protect the headquarters of Tactical Zone 4. The army and people of Can Tho clung to the land, 'not moving an inch, not leaving a millimeter', turning this place into an immortal 'Vong Cung of Fire'.",
+      "location": {
+        "commune": null,
+        "district": "Phong Dien, O Mon",
+        "province": "Can Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Contested area"
+      ]
+    },
+    {
+      "id": "CanTho_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Can Tho City",
+      "description": "On the afternoon of April 30, after Duong Van Minh surrendered, Military Region 9 forces and local people entered and took over the Headquarters of Corps IV - Tactical Zone 4. General Nguyen Khoa Nam (Commander of Zone 4) committed suicide. Can Tho was completely liberated, ending the war in the West.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Kieu",
+        "province": "Can Tho"
+      },
+      "related_figures": [
+        "Nguyen Khoa Nam"
+      ],
+      "tags": [
+        "Liberation",
+        "Unification Day"
+      ]
+    },
+    {
+      "id": "CanTho_ADMIN_01",
+      "year": 2004,
+      "date": "2004-01-01",
+      "title": "Becoming a centrally-run City",
+      "description": "Implementing Resolution 22/2003/QH11, Can Tho Province was split into Can Tho centrally-run City and Hau Giang Province. This event confirmed Can Tho's position as a class-I city, the driving center of the Mekong Delta.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Can Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Urban upgrade"
+      ]
+    },
+    {
+      "id": "CanTho_CULTURE_01",
+      "year": 2016,
+      "date": "2016-11-18",
+      "title": "Cai Rang Floating Market Culture is a National Intangible Heritage",
+      "description": "The Ministry of Culture, Sports and Tourism recognized Cai Rang Floating Market Culture as a national intangible cultural heritage. This is the most unique cultural feature of the Western water region, attracting domestic and foreign tourists.",
+      "location": {
+        "commune": "Le Binh",
+        "district": "Cai Rang",
+        "province": "Can Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Culture",
+        "Tourism"
+      ]
+    }
+  ]
+}

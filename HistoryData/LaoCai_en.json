@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "LaoCai_COLONIAL_01",
+      "year": 1907,
+      "date": "1907-07-12",
+      "title": "Establishment of Lao Cai Province",
+      "description": "The Governor-General of Indochina issued a Decree abolishing Military Territory No. 4, converting it into the civilian province of Lao Cai. This was the official legal milestone establishing the administrative unit of Lao Cai Province during the French colonial period.",
+      "location": {
+        "commune": null,
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "LaoCai_COLONIAL_02",
+      "year": 1910,
+      "date": "1910-04-01",
+      "title": "Inauguration of the Hai Phong - Yunnan Railway",
+      "description": "The trans-Asian railway line connecting Hai Phong (Vietnam) with Kunming (China) running through Lao Cai was officially inaugurated. This was a large-scale colonial exploitation project, turning Lao Cai into an important trading gateway but also claiming the lives of tens of thousands of coolies.",
+      "location": {
+        "commune": "Lao Cai",
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Transportation"
+      ]
+    },
+    {
+      "id": "LaoCai_REV_01",
+      "year": 1946,
+      "date": "1946-10-00",
+      "title": "Establishment of the First Party Cell",
+      "description": "The first Communist Party cell of Lao Cai Province was established in Lao Cai Town and the Cam Duong mining area. This event marked a turning point in leading the revolutionary movement in the border region, where the political situation was extremely complex.",
+      "location": {
+        "commune": "Cam Duong",
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      },
+      "related_figures": [
+        "Le Thanh Nghi"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "LaoCai_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-02-05",
+      "title": "Establishment of the First Rural Party Cell (Soi Co Cell)",
+      "description": "The Soi Co Cell was established in Xuan Quang Commune (Bao Thang). This was the first party cell in the rural areas of Lao Cai, playing a core role in building resistance bases and leading the people to fight the French.",
+      "location": {
+        "commune": "Xuan Quang",
+        "district": "Bao Thang",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party Organization",
+        "Revolutionary Base"
+      ]
+    },
+    {
+      "id": "LaoCai_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-02-13",
+      "title": "Pho Lu Victory",
+      "description": "Regiment 102 (Capital Regiment) coordinated with local forces to attack and destroy the Pho Lu stronghold. This victory broke an important link in the French defense system, cutting off supply lines on the Red River and Route 70.",
+      "location": {
+        "commune": "Pho Lu",
+        "district": "Bao Thang",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Fortress Attack"
+      ]
+    },
+    {
+      "id": "LaoCai_FRENCH_WAR_03",
+      "year": 1950,
+      "date": "1950-11-01",
+      "title": "Liberation of Lao Cai (Le Hong Phong II Campaign)",
+      "description": "During the second phase of the Border Campaign, our troops advanced to liberate Lao Cai Town. The remnants of the French army fled across the border or to the lowlands. Lao Cai was cleared of enemy forces, becoming a solid rear area connected to the Viet Bac revolutionary base.",
+      "location": {
+        "commune": null,
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance War Against the French"
+      ]
+    },
+    {
+      "id": "LaoCai_CONSTRUCTION_01",
+      "year": 1958,
+      "date": "1958-09-23",
+      "title": "Uncle Ho Visits Lao Cai",
+      "description": "President Ho Chi Minh visited Lao Cai Province and the Apatite mining area. He spoke with officials, workers, and ethnic minority communities, advising them to maintain internal unity, boost industrial production, and exploit natural resources to enrich the country.",
+      "location": {
+        "commune": null,
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Economy"
+      ]
+    },
+    {
+      "id": "LaoCai_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Border Defense War in Lao Cai",
+      "description": "In the early morning of February 17, the Chinese military shelled and launched a massive attack on Lao Cai Town, Muong Khuong, and Bat Xat. Local armed forces and regular army units (Divisions 316 and 345) fought fiercely, blocking many enemy advances.",
+      "location": {
+        "commune": null,
+        "district": "Lao Cai City",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "1979 Border War",
+        "Military"
+      ]
+    },
+    {
+      "id": "LaoCai_BORDER_WAR_02",
+      "year": 1979,
+      "date": null,
+      "title": "Defensive Battle in Muong Khuong",
+      "description": "At the Muong Khuong border post area and neighboring high points, border guards and self-defense militia fought bravely under siege, repelling multiple human wave attacks by the enemy to protect the nation's territory.",
+      "location": {
+        "commune": null,
+        "district": "Muong Khuong",
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "1979 Border War",
+        "Heroic"
+      ]
+    },
+    {
+      "id": "LaoCai_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Lao Cai Province",
+      "description": "The 8th National Assembly issued a Resolution to split Hoang Lien Son Province (which had been merged in 1975) into two provinces: Yen Bai and Lao Cai. Lao Cai Province was re-established, beginning the reconstruction of the border town after the war.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lao Cai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ]
+    }
+  ]
+}

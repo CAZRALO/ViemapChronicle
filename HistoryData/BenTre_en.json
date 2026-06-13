@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "BenTre_CULTURE_01",
+      "year": 1862,
+      "date": null,
+      "title": "Nguyen Dinh Chieu moves to Ba Tri to teach",
+      "description": "After French troops occupied the three eastern provinces, the patriotic poet Nguyen Dinh Chieu refused to cooperate, moving to Ba Tri to teach and practice traditional medicine. Here, he composed many immortal works and lived with complete devotion to the people and the country until his death (1888).",
+      "location": {
+        "commune": "An Duc",
+        "district": "Ba Tri",
+        "province": "Ben Tre"
+      },
+      "related_figures": [
+        "Nguyen Dinh Chieu"
+      ],
+      "tags": [
+        "Historical Figure",
+        "Culture"
+      ]
+    },
+    {
+      "id": "BenTre_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Establishment of the first Party Cell (Tan Xuan)",
+      "description": "In Hoa Binh Hamlet, Tan Xuan Commune, the first Communist Party Cell of Ben Tre Province was established with 10 party members. This was the core leadership of the revolutionary movement, turning Ben Tre into one of the provinces with the strongest movements in the Southern region.",
+      "location": {
+        "commune": "Tan Xuan",
+        "district": "Ba Tri",
+        "province": "Ben Tre"
+      },
+      "related_figures": [
+        "Tran Van An"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BenTre_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Ben Tre",
+      "description": "Responding to the General Uprising order, the Vanguard Youth forces and the masses surrounded the Governor's Palace and public offices. The puppet government surrendered, and the Provisional Administrative Committee of Ben Tre Province made its debut before a rally of more than 20,000 people.",
+      "location": {
+        "commune": null,
+        "district": "Ben Tre City",
+        "province": "Ben Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_01",
+      "year": 1946,
+      "date": "1946-06-00",
+      "title": "The first weapon shipment from North to South",
+      "description": "The Ben Tre military intelligence team organized a sea crossing to the North and successfully transported the first shipment of weapons back to Khau Bang wharf (Thanh Phu). This event laid the initial foundation for the formation of the legendary Ho Chi Minh Trail at Sea later on.",
+      "location": {
+        "commune": "Thanh Phong",
+        "district": "Thanh Phu",
+        "province": "Ben Tre"
+      },
+      "related_figures": [
+        "Nguyen Thi Dinh"
+      ],
+      "tags": [
+        "Ho Chi Minh Trail at Sea",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_02",
+      "year": 1960,
+      "date": "1960-01-17",
+      "title": "Ben Tre Dong Khoi Movement",
+      "description": "Under the leadership of Female General Nguyen Thi Dinh, the people of Dinh Thuy Commune (Mo Cay) rose up simultaneously with sticks and spears, capturing outposts and breaking the grip of oppression. The fire of the Dong Khoi Movement spread from here throughout the South, bankrupting the 'Unilateral War' strategy of the US-Diem regime.",
+      "location": {
+        "commune": "Dinh Thuy",
+        "district": "Mo Cay Nam",
+        "province": "Ben Tre"
+      },
+      "related_figures": [
+        "Nguyen Thi Dinh"
+      ],
+      "tags": [
+        "Dong Khoi",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_03",
+      "year": 1960,
+      "date": null,
+      "title": "Birth of the 'Long-Haired Army'",
+      "description": "From the Dong Khoi Movement, a political army consisting entirely of women was born in Ben Tre. They used the 'three-pronged attack' method of struggle, directly debating with the enemy, becoming the terror of the Saigon army and a symbol of heroic Vietnamese women.",
+      "location": {
+        "commune": null,
+        "district": "Mo Cay Nam",
+        "province": "Ben Tre"
+      },
+      "related_figures": [
+        "Nguyen Thi Dinh"
+      ],
+      "tags": [
+        "Long-Haired Army",
+        "Women"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_04",
+      "year": 1968,
+      "date": "1968-02-00",
+      "title": "The Mau Than Battle in Ben Tre Town",
+      "description": "The Liberation Army attacked and took control of most of Ben Tre Town. To recapture it, US troops bombed and destroyed the town. The famous quote by a US major: 'We had to destroy this town to save it' became a testament to the brutality of the war.",
+      "location": {
+        "commune": null,
+        "district": "Ben Tre City",
+        "province": "Ben Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Urban warfare"
+      ]
+    },
+    {
+      "id": "BenTre_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Ben Tre Province",
+      "description": "Coordinating with the battlefield across the entire region, the military and people of Ben Tre rose up to surround, force the withdrawal of, and compel the surrender of enemy outposts. By 18:30 on April 30, Ben Tre Town and the entire province were completely liberated, ending 30 years of war.",
+      "location": {
+        "commune": null,
+        "district": "Ben Tre City",
+        "province": "Ben Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "BenTre_ECONOMY_01",
+      "year": 2009,
+      "date": "2009-01-19",
+      "title": "Inauguration of Rach Mieu Bridge",
+      "description": "Rach Mieu Bridge connecting Tien Giang and Ben Tre was officially inaugurated, ending hundreds of years of relying on ferries to cross the river and the 'island' isolation of the Land of Coconuts, opening a new era of economic development for the locality.",
+      "location": {
+        "commune": "Chau Thanh",
+        "district": "Chau Thanh",
+        "province": "Ben Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Transportation"
+      ]
+    },
+    {
+      "id": "BenTre_ECONOMY_02",
+      "year": 2015,
+      "date": "2015-05-16",
+      "title": "Groundbreaking of Dai Ngai Bridge (Connecting Tra Vinh - Soc Trang)",
+      "description": "Although not located directly in Ben Tre, along with Co Chien Bridge (inaugurated in 2015) and Ham Luong Bridge, the completed coastal transportation system has made Ben Tre an important link in the Mekong Delta coastal corridor.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ben Tre"
+      },
+      "related_figures": [],
+      "tags": [
+        "Transportation",
+        "Regional connectivity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "NinhThuan_CHAMPA_01",
+      "year": 1300,
+      "date": null,
+      "title": "Construction of Po Klong Garai Tower",
+      "description": "King Che Man (Jaya Simhavarman III) ordered the construction of the Po Klong Garai tower complex on Trau Hill to worship the legendary King Po Klong Garai. This is the most beautiful and majestic architectural work remaining of the Champa Kingdom, the religious center of the Panduranga region.",
+      "location": {
+        "commune": "Do Vinh",
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [
+        "Po Klong Garai",
+        "Che Man"
+      ],
+      "tags": [
+        "Champa Culture",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "NinhThuan_NGUYEN_01",
+      "year": 1832,
+      "date": "1832-10-01",
+      "title": "Establishment of Ninh Thuan Prefecture",
+      "description": "King Minh Mang implemented administrative reforms, abolishing the autonomous status of Thuan Thanh Town, and establishing Binh Thuan Province consisting of two prefectures, Ninh Thuan and Ham Thuan. This historical milestone marked the birth of the name and administrative boundaries of Ninh Thuan.",
+      "location": {
+        "commune": null,
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "NinhThuan_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Establishment of the Thap Cham Party Cell",
+      "description": "At the Thap Cham Railway Workshop area (likened to the industrial 'heart' of the region), the first Communist Party Cell of Ninh Thuan Province was established. This was the core leadership of the struggle movement of railway workers and local people.",
+      "location": {
+        "commune": "Do Vinh",
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party Establishment",
+        "Workers' Movement"
+      ]
+    },
+    {
+      "id": "NinhThuan_REV_02",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Seizing Power in Phan Rang",
+      "description": "Thousands of people, supported by self-defense forces, surrounded the Resident's Office and the Civil Guard Camp. The Governor of Ninh Thuan was forced to hand over the official seal. The Provisional Revolutionary People's Committee of Ninh Thuan Province was established.",
+      "location": {
+        "commune": null,
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [
+        "Tran Thi"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "NinhThuan_US_WAR_01",
+      "year": 1960,
+      "date": "1960-08-30",
+      "title": "Bac Ai Uprising",
+      "description": "Under the light of Resolution 15, the ethnic minority people of Bac Ai District rose up simultaneously to break the enemy's grip, completely liberating Bac Ai District. This was a solid revolutionary base, the 'Viet Bac' of Ninh Thuan Province during the anti-American resistance war.",
+      "location": {
+        "commune": "Phuoc Dai",
+        "district": "Bac Ai",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dong Khoi",
+        "Revolutionary Base"
+      ]
+    },
+    {
+      "id": "NinhThuan_US_WAR_02",
+      "year": 1970,
+      "date": "1970-08-10",
+      "title": "Raid on Thanh Son Airfield",
+      "description": "Ninh Thuan Province's commandos, in coordination with the main force of Military Region 6, launched a secret raid on Thanh Son Airfield—a strategic airbase of the US-Puppet regime, destroying many aircraft and warehouses, creating a great resonance on the South Central Coast battlefield.",
+      "location": {
+        "commune": "Thanh Son",
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-American Resistance War",
+        "Commandos"
+      ]
+    },
+    {
+      "id": "NinhThuan_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-16",
+      "title": "Liberation of Ninh Thuan (Smashing the Phan Rang Shield)",
+      "description": "The 3rd Corps, in coordination with local forces, attacked and breached the enemy's 'Steel Shield' of Phan Rang. Our forces took control of Thanh Son Airfield and Phan Rang Town, capturing Lieutenant General Nguyen Vinh Nghi. This victory opened wide the door for the main army to advance toward Saigon.",
+      "location": {
+        "commune": null,
+        "district": "Phan Rang - Thap Cham City",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [
+        "Hoang Minh Thao",
+        "Nguyen Vinh Nghi"
+      ],
+      "tags": [
+        "1975 Spring Offensive",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "NinhThuan_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Establishment of Thuan Hai Province",
+      "description": "Implementing the Government's policy, the three provinces of Ninh Thuan, Binh Thuan, and Binh Tuy were merged into Thuan Hai Province. The provincial capital was located in Phan Thiet Town.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "NinhThuan_ADMIN_02",
+      "year": 1992,
+      "date": "1992-04-01",
+      "title": "Re-establishment of Ninh Thuan Province",
+      "description": "According to the Resolution of the 8th National Assembly, Thuan Hai Province was split back into two provinces, Binh Thuan and Ninh Thuan. Ninh Thuan Province officially went into operation, focusing on marine economy and energy development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ]
+    },
+    {
+      "id": "NinhThuan_CULTURE_01",
+      "year": 2022,
+      "date": "2022-11-29",
+      "title": "Cham Pottery Inscribed by UNESCO",
+      "description": "The art of pottery making of the Cham people (exemplified by Bau Truc pottery village, Ninh Thuan) was inscribed by UNESCO on the List of Intangible Cultural Heritage in Need of Urgent Safeguarding. This is international recognition of the unique culture of Ninh Thuan.",
+      "location": {
+        "commune": "Phuoc Dan",
+        "district": "Ninh Phuoc",
+        "province": "Ninh Thuan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Culture",
+        "UNESCO Heritage"
+      ]
+    }
+  ]
+}

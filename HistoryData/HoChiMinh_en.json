@@ -1,0 +1,209 @@
+{
+  "events": [
+    {
+      "id": "HCMC_FOUNDING_01",
+      "year": 1698,
+      "date": null,
+      "title": "Nguyen Huu Canh established Gia Dinh Prefecture",
+      "description": "Commander Nguyen Huu Canh, by order of Lord Nguyen Phuc Chu, went to inspect and govern the Southern region, officially establishing the administrative unit of Gia Dinh Prefecture (including Phuoc Long District and Tan Binh District). This event marked the birth of today's Saigon - Ho Chi Minh City on the administrative map of Dai Viet.",
+      "location": {
+        "commune": null,
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Nguyen Huu Canh"
+      ],
+      "tags": [
+        "Land reclamation",
+        "Nguyen Lords"
+      ]
+    },
+    {
+      "id": "HCMC_COLONIAL_01",
+      "year": 1859,
+      "date": "1859-02-17",
+      "title": "French attack on Gia Dinh Citadel",
+      "description": "The French-Spanish coalition forces opened fire, attacked, and captured Gia Dinh Citadel. Although the royal army was defeated, local militia continuously harassed and ambushed them, forcing the French to use explosives to destroy this citadel in March 1859.",
+      "location": {
+        "commune": "Ben Nghe",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Rigault de Genouilly"
+      ],
+      "tags": [
+        "French colonial period",
+        "Resistance against foreign invaders"
+      ]
+    },
+    {
+      "id": "HCMC_REV_01",
+      "year": 1911,
+      "date": "1911-06-05",
+      "title": "Uncle Ho leaves to find a way for national salvation",
+      "description": "At Nha Rong Harbor, the young man Nguyen Tat Thanh (under the name Van Ba) boarded the ship Amiral Latouche Treville, beginning a 30-year journey across the oceans to find a path to liberate the Vietnamese nation.",
+      "location": {
+        "commune": "Ward 12",
+        "district": "District 4",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "HCMC_REV_02",
+      "year": 1925,
+      "date": "1925-08-04",
+      "title": "The Ba Son strike",
+      "description": "Under the leadership of the Red Union (organized by Ton Duc Thang), workers at the Ba Son Shipyard went on strike to prevent the French from repairing warships to suppress the Chinese revolution. This was the first political strike by the Vietnamese working class.",
+      "location": {
+        "commune": "Ben Nghe",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Ton Duc Thang"
+      ],
+      "tags": [
+        "Workers' movement",
+        "Ba Son"
+      ]
+    },
+    {
+      "id": "HCMC_REV_03",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Cochinchina Uprising",
+      "description": "The Cochinchina Party Committee issued the order for the uprising. In Saigon and surrounding areas (Hoc Mon, Go Vap...), the people rose up to attack outposts and cut telephone lines. Although it failed, this event marked the first appearance of the red flag with a yellow star and left a bloody lesson about armed uprising.",
+      "location": {
+        "commune": null,
+        "district": "Hoc Mon",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Phan Dang Luu",
+        "Ha Huy Tap"
+      ],
+      "tags": [
+        "Uprising",
+        "Red flag with a yellow star"
+      ]
+    },
+    {
+      "id": "HCMC_REV_04",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Saigon",
+      "description": "More than 1 million compatriots in Saigon - Cho Lon - Gia Dinh took to the streets to demonstrate, seizing the Imperial Envoy's Palace, the Police Department, and key headquarters. The Provisional Administrative Committee of the Southern Region (Southern Provisional Committee) made its public debut, with Mr. Tran Van Giau as Chairman.",
+      "location": {
+        "commune": null,
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Tran Van Giau"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HCMC_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-09-23",
+      "title": "Southern Resistance Day",
+      "description": "The French colonialists, supported by British troops, opened fire and captured the headquarters of the Southern People's Committee. The people of Saigon immediately erected barricades and destroyed roads, initiating the resistance war against the French re-invasion with the spirit of 'Rather die in freedom than live in slavery'.",
+      "location": {
+        "commune": null,
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "HCMC_US_WAR_01",
+      "year": 1963,
+      "date": "1963-06-11",
+      "title": "Venerable Thich Quang Duc's self-immolation",
+      "description": "At the intersection of Phan Dinh Phung and Le Van Duyet (now CMT8 - Nguyen Dinh Chieu), Venerable Thich Quang Duc self-immolated to protest the Buddhist persecution policies of the Ngo Dinh Diem administration. The image of the 'sacred fire' shocked the world, leading to the collapse of the Diem regime.",
+      "location": {
+        "commune": "Vo Thi Sau",
+        "district": "District 3",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Thich Quang Duc"
+      ],
+      "tags": [
+        "Buddhism",
+        "Political struggle"
+      ]
+    },
+    {
+      "id": "HCMC_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "General Offensive and Uprising of Tet Mau Than (Saigon)",
+      "description": "The Saigon Commandos and spearhead battalions launched sudden, simultaneous attacks on key targets: the US Embassy, Independence Palace, the Radio Station, the General Staff Headquarters... The battle shocked the United States, forcing the US to de-escalate the war and sit at the Paris peace talks.",
+      "location": {
+        "commune": null,
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Saigon Commandos"
+      ]
+    },
+    {
+      "id": "HCMC_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Saigon - National Reunification",
+      "description": "At 11:30 AM, tanks 390 and 843 crashed through the gates of Independence Palace. President Duong Van Minh declared unconditional surrender. The flag of the National Liberation Front flew on the roof of the palace, the Ho Chi Minh Campaign achieved complete victory, ending 30 years of war and reunifying the country.",
+      "location": {
+        "commune": "Ben Thanh",
+        "district": "District 1",
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [
+        "Bui Quang Than",
+        "Duong Van Minh"
+      ],
+      "tags": [
+        "Ho Chi Minh Campaign",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "HCMC_ADMIN_01",
+      "year": 1976,
+      "date": "1976-07-02",
+      "title": "Officially named Ho Chi Minh City",
+      "description": "At its first session, the 6th National Assembly (the unified National Assembly) issued a Resolution officially renaming Saigon - Gia Dinh City to Ho Chi Minh City. This was a great honor, affirming the position of the city named after Uncle Ho.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ho Chi Minh City"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Renaming"
+      ]
+    }
+  ]
+}

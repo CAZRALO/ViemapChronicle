@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "HaiPhong_EARLY_01",
+      "year": 40,
+      "date": null,
+      "title": "Female General Le Chan reclaimed land and established An Bien Hamlet",
+      "description": "Female General Le Chan brought her family and relatives to the coastal area to reclaim land, encroach on the sea, and establish An Bien estate (the old name of her hometown). This is considered the starting milestone for the formation of today's Hai Phong City.",
+      "location": {
+        "commune": "An Bien",
+        "district": "Le Chan",
+        "province": "Hai Phong"
+      },
+      "related_figures": [
+        "Le Chan"
+      ],
+      "tags": [
+        "Hai Ba Trung Uprising",
+        "Local history"
+      ]
+    },
+    {
+      "id": "HaiPhong_NGO_01",
+      "year": 938,
+      "date": null,
+      "title": "Battle of Bach Dang (Ngo Quyen)",
+      "description": "At the Bach Dang river mouth (now Thuy Nguyen District), Ngo Quyen commanded the army and people to drive iron-tipped wooden stakes into the riverbed, defeating the Southern Han army, ending 1,000 years of Northern domination, and opening a long era of independence.",
+      "location": {
+        "commune": "Trang Kenh",
+        "district": "Thuy Nguyen",
+        "province": "Hai Phong"
+      },
+      "related_figures": [
+        "Ngo Quyen"
+      ],
+      "tags": [
+        "Bach Dang",
+        "Against foreign invasion"
+      ]
+    },
+    {
+      "id": "HaiPhong_COLONIAL_01",
+      "year": 1888,
+      "date": "1888-07-19",
+      "title": "Establishment of Hai Phong City",
+      "description": "French President Sadi Carnot signed a decree to establish Hai Phong City, separating it from Hai Duong Province. Hai Phong officially became a port city, the most important international trade gateway of Tonkin.",
+      "location": {
+        "commune": null,
+        "district": "Hong Bang",
+        "province": "Hai Phong"
+      },
+      "related_figures": [
+        "Sadi Carnot"
+      ],
+      "tags": [
+        "French colonial period",
+        "Urbanization"
+      ]
+    },
+    {
+      "id": "HaiPhong_REV_01",
+      "year": 1929,
+      "date": "1929-08-01",
+      "title": "Establishment of the first Communist Party Cell",
+      "description": "At house No. D9 Ly Thuong Kiet Street (now Cu Chinh Lan Street), the first Communist Cell of Hai Phong was established. Comrade Nguyen Duc Canh directly directed the workers' movement and Party organization here.",
+      "location": {
+        "commune": null,
+        "district": "Hong Bang",
+        "province": "Hai Phong"
+      },
+      "related_figures": [
+        "Nguyen Duc Canh"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Workers' movement"
+      ]
+    },
+    {
+      "id": "HaiPhong_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Seizing power in Hai Phong",
+      "description": "Hundreds of thousands of people from Kien An and suburban districts flooded into the city center, seizing the Civil Guard barracks, the Police Department, and the City Hall, declaring the abolition of the colonial and feudal government, and establishing the Provisional Revolutionary Committee.",
+      "location": {
+        "commune": null,
+        "district": "Hong Bang",
+        "province": "Hai Phong"
+      },
+      "related_figures": [
+        "Vu Quoc Uy"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HaiPhong_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-11-20",
+      "title": "The Hai Phong Event (Prelude to the National Resistance)",
+      "description": "The French army violated the Preliminary Accord, opened fire to occupy Hai Phong, and shelled residential areas, killing thousands of civilians. The army and people of Hai Phong fought back fiercely at the Opera House and Hai Phong Station, marking the beginning of the resistance war against the French.",
+      "location": {
+        "commune": null,
+        "district": "Hong Bang",
+        "province": "Hai Phong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Military"
+      ]
+    },
+    {
+      "id": "HaiPhong_FRENCH_WAR_02",
+      "year": 1954,
+      "date": "1954-03-07",
+      "title": "The raid on Cat Bi Airport",
+      "description": "32 elite commando soldiers secretly infiltrated Cat Bi Airport - the largest French airbase in Indochina, destroying 59 enemy aircraft. This feat was likened to a 'Dien Bien Phu on land' in the coastal region.",
+      "location": {
+        "commune": "Cat Bi",
+        "district": "Hai An",
+        "province": "Hai Phong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Commandos"
+      ]
+    },
+    {
+      "id": "HaiPhong_FRENCH_WAR_03",
+      "year": 1955,
+      "date": "1955-05-13",
+      "title": "Liberation of Hai Phong (Ben Nghieng Event)",
+      "description": "The last French soldiers withdrew from Ben Nghieng (Do Son), ending the 300-day troop regrouping and transfer under the Geneva Accords. Hai Phong was completely liberated, becoming a major rear area of the socialist North.",
+      "location": {
+        "commune": "Nghieng",
+        "district": "Do Son",
+        "province": "Hai Phong"
+      },
+      "related_figures": [
+        "Do Muoi"
+      ],
+      "tags": [
+        "Liberation",
+        "Geneva Accords"
+      ]
+    },
+    {
+      "id": "HaiPhong_US_WAR_01",
+      "year": 1972,
+      "date": "1972-04-16",
+      "title": "Shooting down the first B-52 in the North",
+      "description": "During the second air raid on the North, the 238th Missile Regiment defending Hai Phong shot down a US B-52 bomber. This was recorded as the first B-52 shot down in North Vietnam.",
+      "location": {
+        "commune": null,
+        "district": "Hai Phong",
+        "province": "Hai Phong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "B-52"
+      ]
+    },
+    {
+      "id": "HaiPhong_US_WAR_02",
+      "year": 1972,
+      "date": "1972-05-09",
+      "title": "The US dropped naval mines to blockade Hai Phong Port",
+      "description": "US President Richard Nixon ordered Operation Pocket Money, dropping thousands of naval mines and magnetic bombs into the Nam Trieu shipping channel and Hai Phong waters to isolate the North from international aid by sea.",
+      "location": {
+        "commune": "Hai Phong Port",
+        "district": "Ngo Quyen",
+        "province": "Hai Phong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Naval blockade"
+      ]
+    }
+  ]
+}

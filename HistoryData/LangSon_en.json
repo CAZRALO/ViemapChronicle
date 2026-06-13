@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "LangSon_LE_01",
+      "year": 1427,
+      "date": "1427-10-10",
+      "title": "Chi Lang - Xuong Giang Victory",
+      "description": "At Chi Lang Pass, the Lam Son insurgent army led by Le Loi and Le Sat organized an ambush and beheaded the Ming army's commander, Lieu Thang. This victory crushed the enemy's reinforcements, forcing Vuong Thong to surrender and ending 20 years of Ming rule.",
+      "location": {
+        "commune": "Chi Lang",
+        "district": "Chi Lang",
+        "province": "Lang Son"
+      },
+      "related_figures": [
+        "Le Loi",
+        "Le Sat",
+        "Lieu Thang"
+      ],
+      "tags": [
+        "Lam Son Uprising",
+        "Military"
+      ]
+    },
+    {
+      "id": "LangSon_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Establishment of Lang Son Province",
+      "description": "During the major administrative reform of Emperor Minh Mang, Lang Son Division was changed to Lang Son Province. This was the milestone that officially established the name and provincial-level administrative boundaries of Lang Son in history.",
+      "location": {
+        "commune": null,
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "LangSon_COLONIAL_01",
+      "year": 1885,
+      "date": "1885-02-13",
+      "title": "French Troops Occupy Lang Son",
+      "description": "During the Lang Son Campaign, the French expeditionary corps attacked and captured Lang Son Citadel from the Qing army and the Black Flag Army. However, the subsequent chaotic retreat at the Battle of Bang Bo led to the collapse of the Jules Ferry government in France.",
+      "location": {
+        "commune": "Chi Lang",
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      },
+      "related_figures": [],
+      "tags": [
+        "French Colonial Period",
+        "Military"
+      ]
+    },
+    {
+      "id": "LangSon_REV_01",
+      "year": 1940,
+      "date": "1940-09-27",
+      "title": "Bac Son Uprising",
+      "description": "Taking advantage of the Japanese army's capture of Lang Son, which caused the French troops to flee, the Bac Son Party Committee led the people to rise up, capture Mo Nhai post, and abolish the enemy administration. This was the gunshot signaling the period of armed struggle of the Vietnamese revolution.",
+      "location": {
+        "commune": "Hung Vu",
+        "district": "Bac Son",
+        "province": "Lang Son"
+      },
+      "related_figures": [
+        "Phung Chi Kien",
+        "Chu Van Tan"
+      ],
+      "tags": [
+        "Bac Son Uprising",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "LangSon_REV_02",
+      "year": 1941,
+      "date": "1941-02-14",
+      "title": "Establishment of the 1st National Salvation Army Platoon",
+      "description": "In Khuoi Noi forest, the Bac Son Guerrilla Unit was renamed and officially established as the 1st National Salvation Army Platoon. This was one of the predecessor units of the People's Army of Vietnam.",
+      "location": {
+        "commune": "Vu Le",
+        "district": "Bac Son",
+        "province": "Lang Son"
+      },
+      "related_figures": [
+        "Luong Van Tri",
+        "Chu Van Tan"
+      ],
+      "tags": [
+        "Armed Forces",
+        "Pre-uprising Period"
+      ]
+    },
+    {
+      "id": "LangSon_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Lang Son Provincial Capital",
+      "description": "Revolutionary forces and the masses surrounded and captured the Governor's Palace and public offices in Lang Son Town. The Japanese administration was forced to surrender, and the Provisional Revolutionary Committee of Lang Son Province made its debut to the public.",
+      "location": {
+        "commune": null,
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      },
+      "related_figures": [
+        "Luong Nhu Y"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "LangSon_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-10-30",
+      "title": "Bong Lau - Lung Phay Victory",
+      "description": "Battalion 374 and local guerrillas organized an ambush on a French military convoy on Route 4 (the Bong Lau Pass section), destroying 27 vehicles and eliminating many enemy forces. This was a major transport ambush, creating a great resonance in the early years of the resistance war.",
+      "location": {
+        "commune": "Tri Phuong",
+        "district": "Trang Dinh",
+        "province": "Lang Son"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Ambush"
+      ]
+    },
+    {
+      "id": "LangSon_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-10-17",
+      "title": "Liberation of Lang Son (Route 4 Victory)",
+      "description": "Following the disastrous defeats at Dong Khe and Coc Xa (Cao Bang), the French defense system on Route 4 collapsed. French troops fled Lang Son, and our soldiers entered to take over the town, completely liberating the Vietnam-China border region.",
+      "location": {
+        "commune": null,
+        "district": "Lang Son City",
+        "province": "Lang Son"
+      },
+      "related_figures": [],
+      "tags": [
+        "Border Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "LangSon_ADMIN_01",
+      "year": 1978,
+      "date": "1978-12-29",
+      "title": "Re-establishment of Lang Son Province",
+      "description": "The 6th National Assembly issued a Resolution to split Cao Lang Province (which had been merged since 1975) into two provinces: Cao Bang and Lang Son. Lang Son Province returned to its former administrative boundaries, preparing to face the border war.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lang Son"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    },
+    {
+      "id": "LangSon_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Border Defense War in Lang Son",
+      "description": "China's 55th Corps launched a massive attack on the Dong Dang and Huu Nghi Quan (Friendship Pass) areas. The 3rd Division (Sao Vang) along with the military and people of Lang Son fought resiliently at Dong Dang Fortress and Khanh Khe Bridge to prevent the enemy from advancing toward the town.",
+      "location": {
+        "commune": "Dong Dang",
+        "district": "Cao Loc",
+        "province": "Lang Son"
+      },
+      "related_figures": [],
+      "tags": [
+        "1979 Border War",
+        "Military"
+      ]
+    }
+  ]
+}

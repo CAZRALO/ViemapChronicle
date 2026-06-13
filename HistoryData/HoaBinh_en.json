@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "HoaBinh_COLONIAL_01",
+      "year": 1886,
+      "date": "1886-06-22",
+      "title": "Establishment of Muong Province (predecessor of Hoa Binh Province)",
+      "description": "Governor-General of French Indochina Paul Bert signed a Decree to establish Muong Province, separating the area with a large Muong population from Hung Hoa and Son Tay provinces. The provincial capital was located in Cho Bo (now in Da Bac District). By November 1886, Muong Province was renamed Hoa Binh Province.",
+      "location": {
+        "commune": "Vay Nua",
+        "district": "Da Bac",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [
+        "Paul Bert"
+      ],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "HoaBinh_REV_01",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Seizing power in Phuong Lam provincial capital",
+      "description": "The Viet Minh forces and the masses rose up to seize power in Ky Son district capital and Phuong Lam provincial capital (now part of Hoa Binh City). The Provisional Revolutionary Committee of Hoa Binh Province was established with Comrade Vu Tho as Chairman.",
+      "location": {
+        "commune": "Phuong Lam",
+        "district": "Hoa Binh City",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [
+        "Vu Tho"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HoaBinh_REV_02",
+      "year": 1947,
+      "date": "1947-05-22",
+      "title": "Establishment of the Party Affairs Committee of Hoa Binh Province",
+      "description": "The Zone 2 Party Committee issued a decision to establish the Party Affairs Committee of Hoa Binh Province (predecessor of the Hoa Binh Provincial Party Committee). This event marked an important turning point in leading and directing the local resistance and nation-building efforts.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hoa Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party establishment",
+        "Politics"
+      ]
+    },
+    {
+      "id": "HoaBinh_FRENCH_WAR_01",
+      "year": 1951,
+      "date": "1951-12-10",
+      "title": "Opening of the Hoa Binh Campaign",
+      "description": "The People's Army of Vietnam launched a major offensive campaign against the Da River defense line and Hoa Binh Town, aiming to thwart the French colonialists' plot to occupy the free zone and cut off communication between Viet Bac and Inter-zone 3 and Inter-zone 4.",
+      "location": {
+        "commune": null,
+        "district": "Hoa Binh City",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "Hoa Binh Campaign",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "HoaBinh_FRENCH_WAR_02",
+      "year": 1951,
+      "date": "1951-12-13",
+      "title": "Giang Mo Battle (Hero Cu Chinh Lan)",
+      "description": "At Giang Mo slope (Route 6), Squad Leader Cu Chinh Lan bravely jumped onto a French tank and threw a grenade into the cockpit to destroy it. His courageous action became a heroic symbol of the Hoa Binh Campaign.",
+      "location": {
+        "commune": "Binh Thanh",
+        "district": "Cao Phong",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [
+        "Cu Chinh Lan"
+      ],
+      "tags": [
+        "Hoa Binh Campaign",
+        "Hero"
+      ]
+    },
+    {
+      "id": "HoaBinh_FRENCH_WAR_03",
+      "year": 1952,
+      "date": "1952-02-23",
+      "title": "Liberation of Hoa Binh Town",
+      "description": "Suffering heavy losses and facing the risk of being surrounded and destroyed, the French troops were forced to retreat from Hoa Binh Town along the Da River. The Hoa Binh Campaign ended in victory, expanding the liberated zone and connecting the Northwest with Viet Bac.",
+      "location": {
+        "commune": null,
+        "district": "Hoa Binh City",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Hoa Binh Campaign"
+      ]
+    },
+    {
+      "id": "HoaBinh_ECONOMY_01",
+      "year": 1958,
+      "date": "1958-04-01",
+      "title": "Establishment of the Socialist Labor Youth School",
+      "description": "The Hoa Binh Socialist Labor Youth School was established in Yen Mong Commune. This was a new 'work-study' educational model, training key cadres for mountainous areas and serving as a flagship of the Northern education sector at that time.",
+      "location": {
+        "commune": "Yen Mong",
+        "district": "Hoa Binh City",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Education",
+        "Model school"
+      ]
+    },
+    {
+      "id": "HoaBinh_US_WAR_01",
+      "year": 1966,
+      "date": null,
+      "title": "Fighting against the US war of destruction",
+      "description": "During the first war of destruction, the US Air Force heavily bombed Hoa Binh Town, the Money Printing Factory (Chi Ne), and transportation routes. The army and people of Hoa Binh shot down many aircraft, including an F-4 shot down by the Lac Thuy militia.",
+      "location": {
+        "commune": null,
+        "district": "Lac Thuy",
+        "province": "Hoa Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Air defense"
+      ]
+    },
+    {
+      "id": "HoaBinh_ADMIN_01",
+      "year": 1975,
+      "date": "1975-12-27",
+      "title": "Establishment of Ha Son Binh Province",
+      "description": "At its 2nd session, the 5th National Assembly approved a Resolution to merge Ha Tay and Hoa Binh provinces into Ha Son Binh Province. This was a strategic policy to build large-scale administrative units after the reunification of the country.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hoa Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "HoaBinh_ADMIN_02",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Hoa Binh Province",
+      "description": "The 8th National Assembly approved a Resolution to split Ha Son Binh Province into two provinces: Hoa Binh and Ha Tay. Hoa Binh Province officially operated under the new administrative unit from October 1, 1991.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hoa Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "BacKan_COLONIAL_01",
+      "year": 1900,
+      "date": "1900-04-11",
+      "title": "Establishment of Bac Kan Province",
+      "description": "Governor-General of French Indochina Paul Doumer issued a Decree to separate the northern part of Thai Nguyen Province to establish Bac Kan Province. The provincial capital was located in Bac Kan Town, consisting of the districts of Bach Thong, Cho Ra, Thong Hoa, and Cam Hoa.",
+      "location": {
+        "commune": null,
+        "district": "Bac Kan City",
+        "province": "Bac Kan"
+      },
+      "related_figures": [
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Administration",
+        "Establishment of the Province"
+      ]
+    },
+    {
+      "id": "BacKan_REV_01",
+      "year": 1943,
+      "date": "1943-09-22",
+      "title": "Establishment of the first Party Cell (Chi Kien Party Cell)",
+      "description": "In Co Bi Hamlet (Thuong An Commune), the first Communist Party Cell of Bac Kan Province was established under the name Chi Kien Party Cell, consisting of 3 party members, with Comrade Duong Mac Hieu as Secretary. The event marked a new step in the development of the local revolutionary movement.",
+      "location": {
+        "commune": "Thuong An",
+        "district": "Ngan Son",
+        "province": "Bac Kan"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap",
+        "Duong Mac Hieu"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BacKan_REV_02",
+      "year": 1945,
+      "date": "1945-03-30",
+      "title": "Liberation of Cho Ra",
+      "description": "Implementing the directive 'The Japanese and the French are shooting at each other and our action', the revolutionary armed forces attacked and liberated the district capital of Cho Ra. This was the first district capital of Bac Kan Province and the entire country to be liberated before the General Uprising.",
+      "location": {
+        "commune": null,
+        "district": "Ba Be",
+        "province": "Bac Kan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pre-uprising",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "BacKan_REV_03",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Seizing power in Bac Kan Town",
+      "description": "After the Japanese surrendered, the liberation forces entered to take over Bac Kan Town. The provisional revolutionary government made its public debut at the town stadium, declaring the abolition of fascist and feudal rule.",
+      "location": {
+        "commune": null,
+        "district": "Bac Kan City",
+        "province": "Bac Kan"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-10-07",
+      "title": "French troops parachute into Bac Kan (Viet Bac Campaign)",
+      "description": "Opening the Viet Bac Autumn-Winter Campaign, the French colonialists unexpectedly dropped paratroopers into Bac Kan Town and Cho Moi to capture our resistance headquarters (ATK). The soldiers and people of Bac Kan opened fire and fought back fiercely, safely protecting the Party Central Committee.",
+      "location": {
+        "commune": null,
+        "district": "Bac Kan City",
+        "province": "Bac Kan"
+      },
+      "related_figures": [
+        "Raoul Salan"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Viet Bac Autumn-Winter"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_02",
+      "year": 1947,
+      "date": "1947-12-15",
+      "title": "Deo Giang ambush",
+      "description": "At km 19-20 on National Route 3, Regiment 165 and local guerrillas organized a major ambush, heavily damaging a French military convoy retreating from Cao Bang to Bac Kan, destroying many motor vehicles and eliminating many enemy forces.",
+      "location": {
+        "commune": "Lang Ngam",
+        "district": "Ngan Son",
+        "province": "Bac Kan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Ambush"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_03",
+      "year": 1948,
+      "date": "1948-07-25",
+      "title": "Phu Thong post attack",
+      "description": "Battalion 11 (Phu Thong Battalion) of Regiment 308 conducted the first battalion-scale assault on a fortified French stronghold. The battle marked a major milestone in our army's tactics for attacking fortified positions.",
+      "location": {
+        "commune": "Phu Thong",
+        "district": "Bach Thong",
+        "province": "Bac Kan"
+      },
+      "related_figures": [
+        "Tran Cu",
+        "Vu Yen"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Post attack"
+      ]
+    },
+    {
+      "id": "BacKan_FRENCH_WAR_04",
+      "year": 1949,
+      "date": "1949-08-24",
+      "title": "Liberation of Bac Kan Town",
+      "description": "Under pressure from our army's encirclement and cutting of supply lines, French troops were forced to retreat from Bac Kan Town. Bac Kan became the first town in the country to be completely liberated during the resistance war against the French.",
+      "location": {
+        "commune": null,
+        "district": "Bac Kan City",
+        "province": "Bac Kan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "BacKan_ADMIN_01",
+      "year": 1965,
+      "date": "1965-04-21",
+      "title": "Establishment of Bac Thai Province",
+      "description": "The Standing Committee of the National Assembly issued Decision No. 103-NQ-TVQH on merging Thai Nguyen and Bac Kan provinces into Bac Thai Province. Bac Kan became a strategic rear area during the resistance war against the US.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bac Kan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "BacKan_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Bac Kan Province",
+      "description": "At its 10th session, the 9th National Assembly passed a Resolution to split Bac Thai Province back into Thai Nguyen and Bac Kan provinces. Bac Kan Province officially operated under the new administrative unit from January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bac Kan"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    }
+  ]
+}

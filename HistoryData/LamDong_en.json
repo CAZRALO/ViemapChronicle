@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "id": "LamDong_FOUNDING_01",
+      "year": 1893,
+      "date": "1893-06-21",
+      "title": "Yersin discovered the Lang Biang Plateau",
+      "description": "After a grueling expedition, Dr. Alexandre Yersin set foot on the Lang Biang Plateau. Recognizing the mild climate and beautiful landscape, he proposed to Governor-General Paul Doumer to build a resort station here, laying the foundation for the birth of Da Lat City.",
+      "location": {
+        "commune": null,
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [
+        "Alexandre Yersin",
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Discovery",
+        "Formation History"
+      ]
+    },
+    {
+      "id": "LamDong_COLONIAL_01",
+      "year": 1899,
+      "date": "1899-11-01",
+      "title": "Establishment of Dong Nai Thuong Province",
+      "description": "The Governor-General of Indochina signed a Decree establishing Dong Nai Thuong (Haut Donnai) Province, with its capital located in Djiring (present-day Di Linh). This was the first province-level administrative unit covering the land of Lam Dong.",
+      "location": {
+        "commune": null,
+        "district": "Di Linh",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "LamDong_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Establishment of the first Party Cell (Cau Queo Party Cell)",
+      "description": "In the Cau Queo (Arbre Broyé) area, the province's first Communist Party Cell was established, consisting of railway workers and road construction laborers. This was the core leadership of the revolutionary movement of workers and laboring people in Da Lat.",
+      "location": {
+        "commune": "Ward 10",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [
+        "Tran Diem"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Workers' movement"
+      ]
+    },
+    {
+      "id": "LamDong_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Seizing power in Da Lat",
+      "description": "The Uprising Committee of Lam Vien Province led the masses to seize the Governor's Palace, the Police Department, and the Treasury. The puppet government surrendered, and the Provisional Revolutionary People's Committee of Lam Vien Province was introduced to the public at the Ngoc Hiep Cinema.",
+      "location": {
+        "commune": null,
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [
+        "Phan Nhu Thach"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "LamDong_FRENCH_WAR_01",
+      "year": 1951,
+      "date": "1951-02-22",
+      "title": "Establishment of the Da Lat Joint Military Academy",
+      "description": "The State of Vietnam government (pro-French) established the Da Lat Joint Military Academy (later the National Military Academy of the Republic of Vietnam). This was the largest active-duty officer training center of the Saigon army in the South.",
+      "location": {
+        "commune": "Ward 9",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Military",
+        "History of the former regime"
+      ]
+    },
+    {
+      "id": "LamDong_TECH_01",
+      "year": 1963,
+      "date": "1963-03-00",
+      "title": "Inauguration of the Da Lat Nuclear Reactor",
+      "description": "The Da Lat Nuclear Research Institute officially operated the 250 kW Triga Mark II reactor. This was the first nuclear reactor in Southeast Asia, marking a step forward for atomic science in Vietnam.",
+      "location": {
+        "commune": "Ward 8",
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Science",
+        "Nuclear"
+      ]
+    },
+    {
+      "id": "LamDong_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "The Tet Offensive in Da Lat",
+      "description": "The Liberation Army launched a surprise, simultaneous attack on key targets such as the Military Academy, Tuyen Duc Sub-sector, and the Governor's Palace... Fierce fighting took place right in the heart of Da Lat City, causing heavy losses to the enemy and shocking public opinion.",
+      "location": {
+        "commune": null,
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Offensive",
+        "Urban warfare"
+      ]
+    },
+    {
+      "id": "LamDong_US_WAR_02",
+      "year": 1975,
+      "date": "1975-03-28",
+      "title": "Liberation of Bao Loc Town",
+      "description": "After the Di Linh sub-sector fell, the enemy forces in Bao Loc panicked and fled. Our troops quickly entered and took over Bao Loc Town and the former Lam Dong provincial capital without major resistance, completely liberating the southern region of the province.",
+      "location": {
+        "commune": null,
+        "district": "Bao Loc City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "1975 Spring Offensive",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "LamDong_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-03",
+      "title": "Liberation of Da Lat City",
+      "description": "Faced with the thunderous attacks of our troops across the entire battlefield, the Saigon government and military in Da Lat - Tuyen Duc fled in chaos toward Phan Rang. The liberation flag flew over the Da Lat City Hall, marking the complete liberation of Lam Dong Province.",
+      "location": {
+        "commune": null,
+        "district": "Da Lat City",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "1975 Spring Offensive",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "LamDong_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Merger of the new Lam Dong Province",
+      "description": "Implementing the policy of the Provisional Revolutionary Government, Tuyen Duc Province (including Da Lat, Don Duong, Duc Trong, Lac Duong) and the former Lam Dong Province (Bao Loc, Di Linh) were merged into present-day Lam Dong Province, with its capital located in Da Lat.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "LamDong_CULTURE_01",
+      "year": 2015,
+      "date": "2015-06-09",
+      "title": "Lang Biang Biosphere Reserve recognized by UNESCO",
+      "description": "UNESCO officially recognized the Lang Biang World Biosphere Reserve. This is Vietnam's 9th biosphere reserve, affirming the exceptional biodiversity value of the Central Highlands' primary forests and the indigenous Gong culture.",
+      "location": {
+        "commune": "Lat",
+        "district": "Lac Duong",
+        "province": "Lam Dong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Environment",
+        "UNESCO Heritage"
+      ]
+    }
+  ]
+}

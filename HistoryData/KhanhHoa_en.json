@@ -1,0 +1,175 @@
+{
+  "events": [
+    {
+      "id": "KhanhHoa_FOUNDING_01",
+      "year": 1653,
+      "date": null,
+      "title": "Establishment of Thai Khang Division (The Birth of Khanh Hoa)",
+      "description": "After defeating the Champa troops harassing the border, Lord Hien Nguyen Phuc Tan took over the land from Ca Pass to the Phan Rang River, establishing Thai Khang Division consisting of two prefectures, Thai Khang and Dien Ninh. This historical milestone marked the formation of today's Khanh Hoa Province.",
+      "location": {
+        "commune": "Dien Thanh",
+        "district": "Dien Khanh",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Nguyen Phuc Tan",
+        "Hung Loc"
+      ],
+      "tags": [
+        "Territorial expansion",
+        "Nguyen Lords"
+      ]
+    },
+    {
+      "id": "KhanhHoa_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-07-00",
+      "title": "Trinh Phong Uprising",
+      "description": "Responding to the Can Vuong edict, Trinh Phong (former Commander) led the insurgent army to establish a base at Dien Khanh Citadel, and was honored as 'Binh Tay Dai tuong quan'. The insurgent army fought bravely against the French troops landing in Nha Trang for over a year.",
+      "location": {
+        "commune": null,
+        "district": "Dien Khanh",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Trinh Phong",
+        "Tran Duong",
+        "Nguyen Khanh"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "KhanhHoa_REV_01",
+      "year": 1930,
+      "date": "1930-02-24",
+      "title": "Establishment of the First Party Cell",
+      "description": "At the house of Mr. Nguyen Cu (De Nhi Quarter, Nha Trang Town), the local branch of the Communist Party of Vietnam in Khanh Hoa was established (transitioned from the Tan Viet organization). This was a milestone marking the beginning of the Party's leadership in the locality.",
+      "location": {
+        "commune": "Phuong Sai",
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Vuong Gia Cuong"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "KhanhHoa_REV_02",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "Seizing Power in Nha Trang",
+      "description": "Joining the spirit of Hanoi, a large rally at Nha Trang Stadium turned into an armed demonstration to seize public offices. The Provisional Revolutionary People's Committee of Khanh Hoa Province made its public debut, abolishing the colonial and feudal government.",
+      "location": {
+        "commune": null,
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "KhanhHoa_FRENCH_WAR_01",
+      "year": 1945,
+      "date": "1945-10-23",
+      "title": "Nha Trang Front (101 Days and Nights)",
+      "description": "The military and people of Khanh Hoa opened fire on French troops, starting the resistance war in the South Central region. Our forces besieged the French troops in Nha Trang City for 101 days and nights (similar to the 60 days and nights in Hanoi), allowing the population to evacuate and prepare for a long-term resistance.",
+      "location": {
+        "commune": null,
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Tran Cong Khanh",
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "Resistance War Against the French",
+        "Siege"
+      ]
+    },
+    {
+      "id": "KhanhHoa_US_WAR_01",
+      "year": 1968,
+      "date": "1968-03-01",
+      "title": "The Vessel 235 Incident (The Legend of the Ho Chi Minh Trail at Sea)",
+      "description": "Vessel 235, commanded by Captain Nguyen Phan Vinh, was carrying weapons to Hon Heo port when it was detected by the enemy. After an unequal battle against 7 warships and many US aircraft, the soldiers blew up the vessel to erase all traces. Captain Nguyen Phan Vinh died heroically (his name was later given to an island in the Truong Sa Archipelago).",
+      "location": {
+        "commune": "Ninh Van",
+        "district": "Ninh Hoa",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Nguyen Phan Vinh"
+      ],
+      "tags": [
+        "Navy",
+        "Ho Chi Minh Trail at Sea"
+      ]
+    },
+    {
+      "id": "KhanhHoa_US_WAR_02",
+      "year": 1975,
+      "date": "1975-04-02",
+      "title": "Liberation of Nha Trang City",
+      "description": "After the defense line at Phuong Hoang Pass was breached by the 10th Division (3rd Corps), the enemy in Nha Trang fled to the sea in panic. The liberation forces entered to take over the city, and Khanh Hoa Province (the mainland part) was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Nha Trang City",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Pham Hung"
+      ],
+      "tags": [
+        "Liberation",
+        "1975 Spring Offensive"
+      ]
+    },
+    {
+      "id": "KhanhHoa_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-29",
+      "title": "Liberation of the Truong Sa Archipelago",
+      "description": "Implementing the directive 'Lightning speed, boldness', Naval Commando Regiment 126, in coordination with Military Region 5, liberated the islands one by one: Song Tu Tay (April 14), Son Ca, Nam Yet, Sinh Ton, and finally Truong Sa Lon (April 29), asserting sacred sovereignty over the seas and islands.",
+      "location": {
+        "commune": "Truong Sa",
+        "district": "Truong Sa",
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [
+        "Mai Nang"
+      ],
+      "tags": [
+        "Liberation",
+        "Seas and Islands"
+      ]
+    },
+    {
+      "id": "KhanhHoa_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Re-establishment of Khanh Hoa Province",
+      "description": "The 8th National Assembly passed a resolution to split Phu Khanh Province (which had been merged since 1975) into two provinces: Phu Yen and Khanh Hoa. Khanh Hoa Province entered a new phase of development, becoming a center for tourism and the marine economy.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Khanh Hoa"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    }
+  ]
+}

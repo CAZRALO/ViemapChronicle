@@ -1,0 +1,189 @@
+{
+  "events": [
+    {
+      "id": "DienBien_FEUDAL_01",
+      "year": 1754,
+      "date": null,
+      "title": "Hoang Cong Chat Liberated Muong Thanh",
+      "description": "Peasant leader Hoang Cong Chat led the insurgent army and local people to drive out the Phe invaders (a group of bandits from the North), completely liberating the Muong Thanh region, building Ban Phu Citadel, and guarding the border region.",
+      "location": {
+        "commune": "Noong Het",
+        "district": "Dien Bien",
+        "province": "Dien Bien"
+      },
+      "related_figures": [
+        "Hoang Cong Chat"
+      ],
+      "tags": [
+        "Peasant uprising",
+        "Local history"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_01",
+      "year": 1953,
+      "date": "1953-11-20",
+      "title": "French Paratroopers Land in Dien Bien Phu",
+      "description": "Implementing the Navarre Plan, the French army launched Operation Castor, dropping six paratrooper battalions into the Muong Thanh valley, beginning to build Dien Bien Phu into the strongest military stronghold group in Indochina.",
+      "location": {
+        "commune": "Muong Thanh",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      },
+      "related_figures": [
+        "Henri Navarre",
+        "Christian de Castries"
+      ],
+      "tags": [
+        "Resistance War against the French",
+        "Military"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_02",
+      "year": 1953,
+      "date": "1953-12-10",
+      "title": "Liberation of Lai Chau Town (old)",
+      "description": "To prepare for the Dien Bien Phu campaign, Division 316 attacked and liberated Lai Chau Town (now in Muong Lay Town, Dien Bien), forcing the French troops to retreat to Dien Bien Phu, creating a strategic siege.",
+      "location": {
+        "commune": null,
+        "district": "Muong Lay Town",
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pre-campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_03",
+      "year": 1954,
+      "date": "1954-03-13",
+      "title": "Battle of Him Lam (Opening of the Dien Bien Phu Campaign)",
+      "description": "At exactly 17:00, Vietnamese artillery opened heavy fire on the Him Lam (Beatrice) stronghold. After 5 hours of fighting, Division 312 completely destroyed this resistance center, opening wide the northern gate into the Muong Thanh valley.",
+      "location": {
+        "commune": "Him Lam",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      },
+      "related_figures": [
+        "Phan Dinh Giot",
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "Dien Bien Phu Campaign",
+        "Opening battle"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_04",
+      "year": 1954,
+      "date": "1954-03-15",
+      "title": "Battle of Doc Lap (Gabrielle)",
+      "description": "Divisions 308 and 312 attacked the Doc Lap stronghold. After a night of fierce fighting under a rain of artillery, our troops took control of the battlefield, completely breaking the northern defense system of the French army.",
+      "location": {
+        "commune": "Thanh Nua",
+        "district": "Dien Bien",
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dien Bien Phu Campaign",
+        "Strongpoint attack"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_05",
+      "year": 1954,
+      "date": "1954-03-17",
+      "title": "Forcing the Surrender of Ban Keo Stronghold",
+      "description": "Under the pressure of our artillery and enemy proselytizing work, Thai soldiers in the French army at the Ban Keo (Anne Marie) stronghold surrendered or fled. The enemy's Northern Sub-sector completely collapsed.",
+      "location": {
+        "commune": "Thanh Nua",
+        "district": "Dien Bien",
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dien Bien Phu Campaign",
+        "Enemy proselytizing"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_06",
+      "year": 1954,
+      "date": "1954-05-06",
+      "title": "Destroying A1 Hill (The Explosion of the Thousand-Kilogram Explosive Charge)",
+      "description": "A1 Hill (Eliane 2) was the most fortified stronghold, where a tug-of-war took place for 39 days and nights. On the night of May 6, our troops detonated an explosive charge of nearly 1,000 kg inside the hill, destroying the enemy's bunker and enabling the assault troops to completely capture this high point.",
+      "location": {
+        "commune": "Muong Thanh",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      },
+      "related_figures": [
+        "Nguyen Van Bach",
+        "Luu Viet Thoang"
+      ],
+      "tags": [
+        "Dien Bien Phu Campaign",
+        "A1"
+      ]
+    },
+    {
+      "id": "DienBien_FRENCH_WAR_07",
+      "year": 1954,
+      "date": "1954-05-07",
+      "title": "Dien Bien Phu Victory",
+      "description": "On the afternoon of May 7, the 'Determined to Fight and Win' flag flew on top of De Castries' bunker. The command of the French stronghold group surrendered. The historic campaign ended in victory, putting an end to French colonial rule in Indochina.",
+      "location": {
+        "commune": "Muong Thanh",
+        "district": "Dien Bien Phu City",
+        "province": "Dien Bien"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap",
+        "Christian de Castries",
+        "Ta Quoc Luat"
+      ],
+      "tags": [
+        "Historic victory",
+        "Anniversary"
+      ]
+    },
+    {
+      "id": "DienBien_CONSTRUCTION_01",
+      "year": 1963,
+      "date": null,
+      "title": "Groundbreaking of the Nam Rom Great Irrigation Project",
+      "description": "More than 2,000 youth volunteers started building the largest irrigation project in the Northwest to bring water from the Nam Rom River to irrigate the Muong Thanh field. The project was completed in 1969, turning Dien Bien into the largest granary in the region.",
+      "location": {
+        "commune": null,
+        "district": "Dien Bien",
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Irrigation"
+      ]
+    },
+    {
+      "id": "DienBien_ADMIN_01",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Establishment of Dien Bien Province",
+      "description": "The 11th National Assembly passed Resolution No. 22/2003/QH11 splitting the old Lai Chau Province into two provinces: the new Lai Chau and Dien Bien. Dien Bien Province officially came into operation on January 1, 2004, on the basis of the historic land of Dien Bien Phu.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Province establishment"
+      ]
+    }
+  ]
+}

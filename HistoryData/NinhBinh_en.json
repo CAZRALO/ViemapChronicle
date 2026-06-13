@@ -1,0 +1,210 @@
+{
+  "events": [
+    {
+      "id": "NinhBinh_DINH_01",
+      "year": 968,
+      "date": null,
+      "title": "Dinh Bo Linh ascends the throne as Emperor",
+      "description": "After suppressing the rebellion of the 12 warlords, Dinh Bo Linh ascended the throne as Emperor (Dinh Tien Hoang), named the country Dai Co Viet, and chose Hoa Lu as the capital. This was the first centralized feudal state of Vietnam.",
+      "location": {
+        "commune": "Truong Yen",
+        "district": "Hoa Lu",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Dinh Tien Hoang"
+      ],
+      "tags": [
+        "Dinh Dynasty",
+        "Hoa Lu Capital"
+      ]
+    },
+    {
+      "id": "NinhBinh_LE_01",
+      "year": 981,
+      "date": null,
+      "title": "Victory over the Song Army (1st Time)",
+      "description": "At the Hoa Lu imperial citadel and surrounding areas, Le Hoan (Le Dai Hanh) commanded the military and people of Dai Co Viet to defeat the invading Song army on the Bach Dang River and at Chi Lang Pass, firmly protecting national independence.",
+      "location": {
+        "commune": "Truong Yen",
+        "district": "Hoa Lu",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Le Dai Hanh"
+      ],
+      "tags": [
+        "Early Le Dynasty",
+        "Against foreign invasion"
+      ]
+    },
+    {
+      "id": "NinhBinh_LY_01",
+      "year": 1010,
+      "date": "1010-10-01",
+      "title": "Moving the capital from Hoa Lu to Thang Long",
+      "description": "King Ly Thai To issued the Edict on the Transfer of the Capital. The King's dragon boat fleet departed from Ghenh Thap wharf (Hoa Lu), traveling up the Day River to the Red River to reach Dai La, ending Hoa Lu's 42-year role as the nation's capital.",
+      "location": {
+        "commune": "Truong Yen",
+        "district": "Hoa Lu",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Ly Thai To"
+      ],
+      "tags": [
+        "Ly Dynasty",
+        "Capital relocation"
+      ]
+    },
+    {
+      "id": "NinhBinh_TRAN_01",
+      "year": 1258,
+      "date": null,
+      "title": "Construction of Vu Lam Royal Palace",
+      "description": "The Tran kings built the Vu Lam base in the rugged mountainous region of Ninh Binh. This place became a strategic rear area during the second and third resistance wars against the Mongol invaders, and was also where King Tran Nhan Tong entered monastic life.",
+      "location": {
+        "commune": "Ninh Hai",
+        "district": "Hoa Lu",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Tran Thai Tong",
+        "Tran Nhan Tong"
+      ],
+      "tags": [
+        "Tran Dynasty",
+        "Resistance war against the Mongol invaders"
+      ]
+    },
+    {
+      "id": "NinhBinh_NGUYEN_01",
+      "year": 1788,
+      "date": "1788-12-20",
+      "title": "Construction of the Tam Diep - Bien Son defense line",
+      "description": "Faced with the strength of the Qing army, Ngo Thi Nham advocated withdrawing troops to Tam Diep 'to let the enemy stay overnight'. Here, Nguyen Hue joined forces with Ngo Thi Nham, treated the troops to an early Tet celebration, and launched a lightning march to defeat the Qing army.",
+      "location": {
+        "commune": null,
+        "district": "Tam Diep",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Quang Trung",
+        "Ngo Thi Nham"
+      ],
+      "tags": [
+        "Tay Son",
+        "Military"
+      ]
+    },
+    {
+      "id": "NinhBinh_NGUYEN_02",
+      "year": 1829,
+      "date": "1829-03-26",
+      "title": "Establishment of Kim Son District",
+      "description": "Land reclamation envoy Nguyen Cong Tru recruited people to build dikes, reclaim land from the sea, and cultivate the coastal alluvial plains of Ninh Binh, officially establishing Kim Son District (meaning 'Golden Mountain').",
+      "location": {
+        "commune": null,
+        "district": "Kim Son",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Nguyen Cong Tru"
+      ],
+      "tags": [
+        "Land reclamation",
+        "Administration"
+      ]
+    },
+    {
+      "id": "NinhBinh_REV_01",
+      "year": 1929,
+      "date": "1929-06-25",
+      "title": "Establishment of the first Party Cell",
+      "description": "In Lu Phong village, the first Indochinese Communist Party cell of Ninh Binh Province was established with 4 members, with Comrade Luong Van Thang as Secretary, marking a turning point in the province's revolutionary movement.",
+      "location": {
+        "commune": "Quynh Luu",
+        "district": "Nho Quan",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Luong Van Thang"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "NinhBinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Ninh Binh Province",
+      "description": "Under the leadership of the Uprising Committee, the masses seized the Governor's Palace and the Civil Guard Camp. The Governor of Ninh Binh surrendered and handed over the official seals. The Provisional Revolutionary People's Committee of the province was introduced to the public.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Binh City",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "NinhBinh_FRENCH_WAR_01",
+      "year": 1951,
+      "date": "1951-05-28",
+      "title": "Ha Nam Ninh Campaign (Quang Trung Campaign)",
+      "description": "General Vo Nguyen Giap launched a major campaign attacking the French defense line along the Day River. The opening battle to destroy the Non Nuoc position (Ninh Binh) was fierce, where squad leader Hoang Sam and political officer Ky Van heroically sacrificed their lives.",
+      "location": {
+        "commune": "Thanh Binh",
+        "district": "Ninh Binh City",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap",
+        "Giap Van Khuong"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Quang Trung Campaign"
+      ]
+    },
+    {
+      "id": "NinhBinh_FRENCH_WAR_02",
+      "year": 1954,
+      "date": "1954-06-30",
+      "title": "Liberation of Ninh Binh Town",
+      "description": "Faced with pressure from the Vietnamese army and defeat on the Indochina battlefield, French troops withdrew from Ninh Binh Town. Our soldiers entered to take over, and Ninh Binh Province was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Ninh Binh City",
+        "province": "Ninh Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "NinhBinh_ADMIN_01",
+      "year": 1992,
+      "date": "1992-04-01",
+      "title": "Re-establishment of Ninh Binh Province",
+      "description": "Implementing the Resolution of the 8th National Assembly on the division of Ha Nam Ninh Province, Ninh Binh Province was re-established and officially went into operation, opening up a period of socio-economic and tourism development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ninh Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administrative",
+        "Province re-establishment"
+      ]
+    }
+  ]
+}

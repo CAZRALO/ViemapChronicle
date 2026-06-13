@@ -1,0 +1,181 @@
+{
+  "events": [
+    {
+      "id": "HungYen_EARLY_01",
+      "year": 547,
+      "date": null,
+      "title": "Establishment of the Da Trach (Nhat Da Trach) base",
+      "description": "After Ly Nam De was defeated, Trieu Quang Phuc (Trieu Viet Vuong) retreated his troops to Da Trach swamp, using unique guerrilla tactics to hold out and wear down the Liang forces, writing a heroic page in the history of this land.",
+      "location": {
+        "commune": "Da Trach",
+        "district": "Khoai Chau",
+        "province": "Hung Yen"
+      },
+      "related_figures": [
+        "Trieu Viet Vuong"
+      ],
+      "tags": [
+        "Early Ly Dynasty",
+        "Resistance against foreign invaders"
+      ]
+    },
+    {
+      "id": "HungYen_LE_TRINH_01",
+      "year": 1600,
+      "date": null,
+      "title": "The prosperity of Pho Hien",
+      "description": "In the 17th century, Pho Hien flourished, becoming a bustling trading port with the saying 'First is Kinh Ky, second is Pho Hien'. It was home to many trading posts of the Dutch, English, French, Japanese, and Chinese.",
+      "location": {
+        "commune": "Lam Son",
+        "district": "Hung Yen",
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Trading port"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_01",
+      "year": 1883,
+      "date": null,
+      "title": "Bai Say Uprising",
+      "description": "Military Assistant Nguyen Thien Thuat chose the dense reed areas in Van Lam, Van Giang, Khoai Chau, and Yen My Districts as a base to resist the French. The insurgent army applied flexible guerrilla tactics, causing heavy losses to the French forces for nearly 10 years.",
+      "location": {
+        "commune": null,
+        "district": "Yen My",
+        "province": "Hung Yen"
+      },
+      "related_figures": [
+        "Nguyen Thien Thuat"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French resistance"
+      ]
+    },
+    {
+      "id": "HungYen_REV_01",
+      "year": 1929,
+      "date": "1929-12-01",
+      "title": "Establishment of the first Party Cell",
+      "description": "At the foot of the Sai Thi banyan tree, the first Communist Party Cell of Hung Yen Province was established under the direction of the Tonkin Regional Party Committee. This was the core leading the province's revolutionary movement in its infancy.",
+      "location": {
+        "commune": "Dai Tap",
+        "district": "Khoai Chau",
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "HungYen_REV_02",
+      "year": 1945,
+      "date": "1945-08-22",
+      "title": "Seizing power in Hung Yen",
+      "description": "Viet Minh forces along with thousands of people from the districts rushed in to surround the Governor's Palace. Faced with the power of the revolution, the Governor of Hung Yen was forced to surrender and hand over the official seal and power to the people.",
+      "location": {
+        "commune": null,
+        "district": "Hung Yen",
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_WAR_01",
+      "year": 1949,
+      "date": "1949-05-01",
+      "title": "Establishment of the Hoang Ngan Female Guerrilla Team",
+      "description": "The Hung Yen Provincial Party Committee decided to establish a concentrated female guerrilla team named after martyr Hoang Ngan. The team achieved many outstanding exploits in enemy proselytizing, destroying puppet administrations, eliminating traitors, and direct combat, becoming a symbol of Hung Yen women.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hung Yen"
+      },
+      "related_figures": [
+        "Hoang Ngan",
+        "Vu Thi Kinh"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Women"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_WAR_02",
+      "year": 1950,
+      "date": null,
+      "title": "The La Tien Banyan Tree incident",
+      "description": "During the temporary occupation period, the French colonialists and their henchmen turned the La Tien post area and the ancient banyan tree here into a brutal execution site for more than 1,000 patriotic cadres, soldiers, and civilians, making this place a testament to war crimes.",
+      "location": {
+        "commune": "Nguyen Hoa",
+        "district": "Phu Cu",
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "War crimes",
+        "Historical relic"
+      ]
+    },
+    {
+      "id": "HungYen_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-12-03",
+      "title": "The battle against the sweep at Phan Tong Xa",
+      "description": "The Bach Dang Battalion and local forces of Tien Lu District bravely blocked a major French sweep (supported by tanks) into Phan Tong Xa village, safely protecting the resistance base.",
+      "location": {
+        "commune": "Thien Phien",
+        "district": "Tien Lu",
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Military"
+      ]
+    },
+    {
+      "id": "HungYen_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Establishment of Hai Hung Province",
+      "description": "Merging Hung Yen and Hai Duong Provinces into Hai Hung Province according to the Resolution of the National Assembly. During this period, the people of Hung Yen made great contributions of human and material resources to the Southern battlefield.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "HungYen_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Hung Yen Province",
+      "description": "The 9th National Assembly passed the Resolution to split Hai Hung Province. Hung Yen Province was re-established and officially went into operation on January 1, 1997, opening up a period of strong industrial economic development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hung Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

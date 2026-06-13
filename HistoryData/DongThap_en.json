@@ -1,0 +1,200 @@
+{
+  "events": [
+    {
+      "id": "DongThap_COLONIAL_01",
+      "year": 1864,
+      "date": null,
+      "title": "Building the Dong Thap Muoi Resistance Base",
+      "description": "After the French army captured Gia Dinh, Thien Ho Duong (Vo Duy Duong) and Doc Binh Kieu withdrew their troops to the Dong Thap Muoi wetlands to build an anti-French base. The insurgent army relied on the rugged terrain to organize guerrilla warfare, causing heavy losses to the enemy during the 1864-1866 period.",
+      "location": {
+        "commune": "Tan Kieu",
+        "district": "Thap Muoi",
+        "province": "Dong Thap"
+      },
+      "related_figures": [
+        "Thien Ho Duong",
+        "Doc Binh Kieu"
+      ],
+      "tags": [
+        "Anti-French",
+        "Base area"
+      ]
+    },
+    {
+      "id": "DongThap_FIGURE_01",
+      "year": 1929,
+      "date": "1929-11-27",
+      "title": "Pho Bang Nguyen Sinh Sac passed away in Cao Lanh",
+      "description": "Pho Bang Nguyen Sinh Sac (father of President Ho Chi Minh), after a period of patriotic activities and practicing traditional medicine to treat the people, passed away in Hoa An Village, Cao Lanh. His tomb has become an especially important historical and cultural relic of the province.",
+      "location": {
+        "commune": "Hoa An",
+        "district": "Cao Lanh City",
+        "province": "Dong Thap"
+      },
+      "related_figures": [
+        "Nguyen Sinh Sac"
+      ],
+      "tags": [
+        "Prominent figure",
+        "Culture"
+      ]
+    },
+    {
+      "id": "DongThap_REV_01",
+      "year": 1929,
+      "date": "1929-11-00",
+      "title": "Establishment of the first Annam Communist Party Cell",
+      "description": "In Hoa An Village (Cao Lanh), the first Annam Communist Party Cell of the former Sa Dec Province was established with Comrade Pham Huu Lau as Secretary. This was the core leadership of the revolutionary movement in the Cao Lanh - Dong Thap Muoi region.",
+      "location": {
+        "commune": "Hoa An",
+        "district": "Cao Lanh City",
+        "province": "Dong Thap"
+      },
+      "related_figures": [
+        "Pham Huu Lau"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "DongThap_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Cao Lanh and Sa Dec",
+      "description": "Joining the spirit of the General Uprising, the masses rose up to seize power in Sa Dec provincial capital and Cao Lanh district capital. The puppet government collapsed, and the Provisional Administrative Committee was introduced to the people.",
+      "location": {
+        "commune": null,
+        "district": "Cao Lanh, Sa Dec",
+        "province": "Dong Thap"
+      },
+      "related_figures": [
+        "Tran Thi Nhuong"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "DongThap_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-09-26",
+      "title": "Giong Thi Dam - Go Quan Cung Victory",
+      "description": "The newly established 502nd Battalion (the province's main force unit) organized a daring ambush, defeating a French military operation, wiping out both enemy army and navy forces, and capturing nearly 100 soldiers. This was a resounding opening victory for the armed forces of Dong Thap Muoi.",
+      "location": {
+        "commune": "An Phuoc",
+        "district": "Tan Hong",
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "502nd Battalion"
+      ]
+    },
+    {
+      "id": "DongThap_US_WAR_01",
+      "year": 1954,
+      "date": "1954-10-29",
+      "title": "The 100-day troop regrouping event (Cao Lanh)",
+      "description": "Cao Lanh was chosen as one of the three major troop regrouping points in the South (along with Ca Mau and Xuyen Moc) to transfer Southern cadres and soldiers to the North under the Geneva Accords. During the 100 days, the military and people of Cao Lanh welcomed and saw off tens of thousands of Southern children.",
+      "location": {
+        "commune": null,
+        "district": "Cao Lanh City",
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Geneva Accords",
+        "Regrouping to the North"
+      ]
+    },
+    {
+      "id": "DongThap_US_WAR_02",
+      "year": 1966,
+      "date": null,
+      "title": "Sinking the Small Fleet on rivers and canals",
+      "description": "The military and people of Dong Thap creatively developed naval commando tactics, using homemade water mines to sink many warships belonging to the US 'Small Fleet' on the dense network of rivers and canals, defeating the enemy's 'Mobile Riverine Force' tactic on the Mekong River.",
+      "location": {
+        "commune": null,
+        "district": "Hong Ngu, Cao Lanh",
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Guerrilla warfare"
+      ]
+    },
+    {
+      "id": "DongThap_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Dong Thap Province (Kien Phong and Sa Dec)",
+      "description": "The provincial armed forces coordinated with the rising masses to attack Cao Lanh Town (the provincial capital of Kien Phong) and Sa Dec Town. By noon on April 30, the liberation flag flew over the Governor's Palaces of Kien Phong and Sa Dec, and the entire province was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Cao Lanh, Sa Dec",
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "DongThap_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Establishment of Dong Thap Province",
+      "description": "Implementing the Government's Resolution, Kien Phong Province and Sa Dec Province were merged into Dong Thap Province. The provincial capital was initially located in Sa Dec Town, then moved to Cao Lanh Town (now Cao Lanh City) in 1994.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "DongThap_CULTURE_01",
+      "year": 2012,
+      "date": "2012-09-27",
+      "title": "Go Thap Relic recognized as a Special National Relic",
+      "description": "The Go Thap Relic Area—which contains important traces of the ancient Oc Eo culture and the history of land reclamation and resistance against foreign invaders of this land—was officially classified as a Special National Relic by the Prime Minister.",
+      "location": {
+        "commune": "Tan Kieu",
+        "district": "Thap Muoi",
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Oc Eo Culture",
+        "Heritage"
+      ]
+    },
+    {
+      "id": "DongThap_NATURE_01",
+      "year": 2012,
+      "date": "2012-05-22",
+      "title": "Tram Chim National Park becomes a Ramsar site",
+      "description": "Tram Chim National Park (home to the conservation of the rare Red-crowned Crane) was recognized as the world's 2,000th Ramsar site. This is international recognition for the typical wetland ecosystem of the Dong Thap Muoi region.",
+      "location": {
+        "commune": null,
+        "district": "Tam Nong",
+        "province": "Dong Thap"
+      },
+      "related_figures": [],
+      "tags": [
+        "Environment",
+        "Ramsar"
+      ]
+    }
+  ]
+}

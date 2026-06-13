@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "DaNang_COLONIAL_01",
+      "year": 1858,
+      "date": "1858-09-01",
+      "title": "The French-Spanish coalition opened fire to attack Da Nang",
+      "description": "The French-Spanish coalition opened fire on the Da Nang estuary, initiating the war of invasion against Vietnam. Famous general Nguyen Tri Phuong commanded the military and citizens to build ramparts (Dien Hai Citadel), implement the 'empty gardens and empty houses' policy, hold back the enemy for 5 months, and defeat their 'quick fight, quick victory' plan.",
+      "location": {
+        "commune": "Thach Thang",
+        "district": "Hai Chau",
+        "province": "Da Nang"
+      },
+      "related_figures": [
+        "Nguyen Tri Phuong",
+        "Rigault de Genouilly"
+      ],
+      "tags": [
+        "French colonial period",
+        "Resistance against foreign invaders"
+      ]
+    },
+    {
+      "id": "DaNang_COLONIAL_02",
+      "year": 1888,
+      "date": "1888-10-01",
+      "title": "Da Nang became the Tourane concession",
+      "description": "King Dong Khanh signed an edict ceding Da Nang entirely to France. France separated Da Nang from Quang Nam Province, renamed it Tourane, and built it into a port city, a French concession under the direct administration of the Governor-General of French Indochina.",
+      "location": {
+        "commune": null,
+        "district": "Hai Chau",
+        "province": "Da Nang"
+      },
+      "related_figures": [
+        "Dong Khanh"
+      ],
+      "tags": [
+        "Administrative",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "DaNang_REV_01",
+      "year": 1930,
+      "date": "1930-03-28",
+      "title": "Establishment of the Party Committee of the Communist Party of Vietnam in Quang Nam - Da Nang Province",
+      "description": "In the Cay Thong forest (Hoi An), the Party Committee of the Communist Party of Vietnam in Quang Nam - Da Nang Province was established. Although the location was in Hoi An, this was the direct predecessor organization that led the revolutionary movement in Da Nang City.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Da Nang"
+      },
+      "related_figures": [
+        "Phan Van Dinh"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "DaNang_REV_02",
+      "year": 1945,
+      "date": "1945-08-26",
+      "title": "Seizing power in Da Nang (Thai Phien)",
+      "description": "After the shift-end siren sounded as a signal, self-defense forces and workers seized the City Hall, the Police Department, and other public offices. The Uprising Committee declared the abolition of the enemy administration and established the Provisional Revolutionary People's Committee of Thai Phien City (the name of Da Nang at that time).",
+      "location": {
+        "commune": null,
+        "district": "Hai Chau",
+        "province": "Da Nang"
+      },
+      "related_figures": [
+        "Le Van Hien"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "DaNang_US_WAR_01",
+      "year": 1965,
+      "date": "1965-03-08",
+      "title": "US troops landed on Xuan Thieu Beach",
+      "description": "The 3rd Battalion and 1st Battalion of the US 9th Marine Expeditionary Brigade landed on Xuan Thieu Beach (Red Beach) and Da Nang Air Base. This event marked the official deployment of US expeditionary troops to directly participate in the war in South Vietnam, shifting to the 'Local War' strategy.",
+      "location": {
+        "commune": "Hoa Hiep Bac",
+        "district": "Lien Chieu",
+        "province": "Da Nang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Local War",
+        "Military"
+      ]
+    },
+    {
+      "id": "DaNang_US_WAR_02",
+      "year": 1965,
+      "date": "1965-05-17",
+      "title": "Raid on Lien Chieu fuel depot",
+      "description": "Da Nang commando forces boldly infiltrated and destroyed the strategic US Lien Chieu fuel depot, burning millions of liters of fuel. This was a painful blow to the enemy's logistics right at the largest joint military base in Central Vietnam.",
+      "location": {
+        "commune": "Hoa Hiep",
+        "district": "Lien Chieu",
+        "province": "Da Nang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Urban commandos",
+        "Resistance war against the US"
+      ]
+    },
+    {
+      "id": "DaNang_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-30",
+      "title": "The Tet Mau Than General Offensive and Uprising in Da Nang",
+      "description": "The Liberation Army simultaneously attacked key positions such as Da Nang Air Base, the puppet Army Corps I Headquarters, Lien Chieu fuel depot... Although they could not hold the targets for as long as in Hue, they caused heavy damage and shook the stronghold of the US and puppet forces.",
+      "location": {
+        "commune": null,
+        "district": "Thanh Khe",
+        "province": "Da Nang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "DaNang_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-29",
+      "title": "Liberation of Da Nang City",
+      "description": "During the Hue - Da Nang Campaign, Corps 2 coordinated with the armed forces of Military Region 5 to attack from multiple directions, causing the enemy forces at the Da Nang joint base to quickly disintegrate. At 1:30 PM, the liberation flag flew over the City Hall, and Da Nang was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Hai Chau",
+        "province": "Da Nang"
+      },
+      "related_figures": [
+        "Chu Huy Man",
+        "Le Trong Tan"
+      ],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "DaNang_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Becoming a centrally-run city",
+      "description": "At its 10th session, the 9th National Assembly passed a Resolution to split Quang Nam - Da Nang Province into Quang Nam Province and Da Nang City, a centrally-run city. This event opened up an era of explosive development for Da Nang's urban area.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Da Nang"
+      },
+      "related_figures": [
+        "Nguyen Ba Thanh"
+      ],
+      "tags": [
+        "Administrative",
+        "Province separation"
+      ]
+    },
+    {
+      "id": "DaNang_MODERN_01",
+      "year": 2000,
+      "date": "2000-03-29",
+      "title": "Inauguration of the Han River Bridge",
+      "description": "The Han River Bridge - the first swing bridge self-designed and constructed by Vietnamese engineers and workers - was inaugurated. This is a symbol of the aspirations of the people of Da Nang, marking the transition from a 'city within a city' to a 'sea-facing city'.",
+      "location": {
+        "commune": null,
+        "district": "Son Tra",
+        "province": "Da Nang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Symbol"
+      ]
+    }
+  ]
+}

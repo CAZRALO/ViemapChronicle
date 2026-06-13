@@ -1,0 +1,190 @@
+{
+  "events": [
+    {
+      "id": "CaoBang_MAC_01",
+      "year": 1592,
+      "date": null,
+      "title": "The Mac Dynasty retreated to Cao Bang",
+      "description": "After falling at Thang Long to the Le - Trinh forces, the Mac Dynasty retreated to the land of Cao Bang to build citadels, establish royal power, and rule as a warlord state here for over 80 years (until 1677), creating special cultural and historical imprints.",
+      "location": {
+        "commune": "Hung Dao",
+        "district": "Cao Bang City",
+        "province": "Cao Bang"
+      },
+      "related_figures": [
+        "Mac Kinh Cung",
+        "Mac Kinh Vu"
+      ],
+      "tags": [
+        "Mac Dynasty",
+        "Feudalism"
+      ]
+    },
+    {
+      "id": "CaoBang_REV_01",
+      "year": 1941,
+      "date": "1941-01-28",
+      "title": "Leader Nguyen Ai Quoc returned to the country",
+      "description": "After 30 years of traveling abroad to find a way to save the country, leader Nguyen Ai Quoc crossed landmark 108 on the Vietnam - China border, returning to Pac Bo to directly lead the Vietnamese revolutionary movement.",
+      "location": {
+        "commune": "Truong Ha",
+        "district": "Ha Quang",
+        "province": "Cao Bang"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Party History",
+        "Pac Bo"
+      ]
+    },
+    {
+      "id": "CaoBang_REV_02",
+      "year": 1941,
+      "date": "1941-05-19",
+      "title": "Establishment of the Viet Minh Front",
+      "description": "The 8th Conference of the Party Central Committee, chaired by Nguyen Ai Quoc at Khuoi Nam hut (Pac Bo), decided to establish the Vietnam Independence League (Viet Minh for short) to unite the entire nation to fight the French and expel the Japanese.",
+      "location": {
+        "commune": "Truong Ha",
+        "district": "Ha Quang",
+        "province": "Cao Bang"
+      },
+      "related_figures": [
+        "Ho Chi Minh",
+        "Truong Chinh"
+      ],
+      "tags": [
+        "Viet Minh",
+        "Political organization"
+      ]
+    },
+    {
+      "id": "CaoBang_ARMY_01",
+      "year": 1944,
+      "date": "1944-12-22",
+      "title": "Establishment of the Vietnam Propaganda Liberation Army",
+      "description": "In the Tran Hung Dao forest, the Vietnam Propaganda Liberation Army (the predecessor of the People's Army of Vietnam) was established with 34 soldiers, commanded by Comrade Vo Nguyen Giap, implementing the motto 'Politics is more important than military'.",
+      "location": {
+        "commune": "Tam Kim",
+        "district": "Nguyen Binh",
+        "province": "Cao Bang"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap",
+        "Hoang Sam",
+        "Xich Thang"
+      ],
+      "tags": [
+        "Military",
+        "Establishment of organization"
+      ]
+    },
+    {
+      "id": "CaoBang_ARMY_02",
+      "year": 1944,
+      "date": "1944-12-25",
+      "title": "Phai Khat - Na Ngan Victory",
+      "description": "Immediately after its establishment, the Vietnam Propaganda Liberation Army disguised themselves, used tactics to ambush and completely destroy the two posts of Phai Khat and Na Ngan, initiating the tradition of 'winning the first battle' of our army.",
+      "location": {
+        "commune": "Tam Kim",
+        "district": "Nguyen Binh",
+        "province": "Cao Bang"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "First battle",
+        "Military"
+      ]
+    },
+    {
+      "id": "CaoBang_REV_03",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Seizing power in Cao Bang Town",
+      "description": "The Uprising Committee of Cao Bang Province led the masses and armed forces into the town, seizing the Governor's Palace and the civil guard post. The provisional revolutionary government was established, abolishing the enemy's ruling apparatus.",
+      "location": {
+        "commune": null,
+        "district": "Cao Bang City",
+        "province": "Cao Bang"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "CaoBang_FRENCH_WAR_01",
+      "year": 1950,
+      "date": "1950-09-16",
+      "title": "Dong Khe Battle (Opening of the Border Campaign)",
+      "description": "Our army opened fire to attack the Dong Khe outpost cluster. After 54 hours of fierce fighting, we completely destroyed this outpost, cutting an important link in the French defense line on Route 4, isolating Cao Bang.",
+      "location": {
+        "commune": "Dong Khe",
+        "district": "Thach An",
+        "province": "Cao Bang"
+      },
+      "related_figures": [
+        "La Van Cau"
+      ],
+      "tags": [
+        "Border Campaign",
+        "Dong Khe"
+      ]
+    },
+    {
+      "id": "CaoBang_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-10-03",
+      "title": "Liberation of Cao Bang",
+      "description": "After losing Dong Khe and suffering heavy losses in the disastrous retreat on Route 4 (the Charton and Le Page columns were wiped out), the French forces were forced to abandon Cao Bang Town. Cao Bang became the first province to be completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Cao Bang City",
+        "province": "Cao Bang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Border Campaign"
+      ]
+    },
+    {
+      "id": "CaoBang_ADMIN_01",
+      "year": 1978,
+      "date": "1978-12-29",
+      "title": "Re-establishment of Cao Bang Province",
+      "description": "The 4th Session of the 6th National Assembly issued a resolution to split Cao Lang Province (which had been merged since 1975) into two provinces, Cao Bang and Lang Son. Cao Bang Province returned to its former administrative boundaries.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Cao Bang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    },
+    {
+      "id": "CaoBang_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Fighting to protect the northern border in Cao Bang",
+      "description": "The Chinese army launched a massive attack on the Cao Bang border, heavily destroying Cao Bang Town and the Pac Bo relic site. The military and people of Cao Bang, especially at Bang Giang Bridge and the border high points, fought resiliently to stop the enemy's advance.",
+      "location": {
+        "commune": null,
+        "district": "Cao Bang City",
+        "province": "Cao Bang"
+      },
+      "related_figures": [],
+      "tags": [
+        "1979 Border War",
+        "Military"
+      ]
+    }
+  ]
+}

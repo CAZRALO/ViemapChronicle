@@ -1,0 +1,164 @@
+{
+  "events": [
+    {
+      "id": "DakNong_COLONIAL_01",
+      "year": 1912,
+      "date": null,
+      "title": "Outbreak of the N'Trang Long Uprising",
+      "description": "Chief N'Trang Long gathered the M'nong, S'tieng, E De... ethnic groups to rise up against the rule, heavy taxation, and forced labor policies of the French colonialists. This was the largest and longest-lasting uprising (1912-1936) in the Central Highlands.",
+      "location": {
+        "commune": null,
+        "district": "Tuy Duc",
+        "province": "Dak Nong"
+      },
+      "related_figures": [
+        "N'Trang Long"
+      ],
+      "tags": [
+        "Anti-French",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "DakNong_COLONIAL_02",
+      "year": 1914,
+      "date": "1914-07-00",
+      "title": "The Battle of Bu Nor (Elimination of Henri Maitre)",
+      "description": "At Bu Nor village, N'Trang Long's insurgent army cleverly organized an ambush, eliminating Henri Maitre (a notoriously brutal colonial officer and explorer). This victory shocked the French ruling apparatus in Indochina.",
+      "location": {
+        "commune": "Dak R'Tih",
+        "district": "Tuy Duc",
+        "province": "Dak Nong"
+      },
+      "related_figures": [
+        "N'Trang Long",
+        "Henri Maitre"
+      ],
+      "tags": [
+        "Anti-French",
+        "Victory"
+      ]
+    },
+    {
+      "id": "DakNong_REV_01",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Dak Mil",
+      "description": "Responding to the General Uprising order, the masses and self-defense forces in Dak Mil rose up to seize the Dak Mil Post, confiscating enemy weapons and documents. The provisional revolutionary government of Dak Mil District was established.",
+      "location": {
+        "commune": "Dak Lao",
+        "district": "Dak Mil",
+        "province": "Dak Nong"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_01",
+      "year": 1960,
+      "date": "1960-12-00",
+      "title": "Opening the North-South Strategic Corridor (Section B4)",
+      "description": "Group B90 established contact with revolutionary bases in Dak Nong, officially opening the strategic corridor section (Ho Chi Minh Trail) through the Southern Central Highlands, connecting the Central Highlands with the Southeast battlefield, and transporting human and material resources to the South.",
+      "location": {
+        "commune": "Nam Nung",
+        "district": "Krong No",
+        "province": "Dak Nong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Truong Son Road",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_02",
+      "year": 1968,
+      "date": "1968-08-23",
+      "title": "Duc Lap Victory (Phase 3 of the Tet Offensive)",
+      "description": "The 1st Main Force Division coordinated with local troops to attack and take control of the Duc Lap military sub-sector, destroying a large amount of enemy forces, cutting off traffic on Route 14, and threatening Buon Ma Thuot Town from the southwest.",
+      "location": {
+        "commune": "Duc Manh",
+        "district": "Dak Mil",
+        "province": "Dak Nong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-American Resistance War",
+        "Military"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_03",
+      "year": 1975,
+      "date": "1975-03-09",
+      "title": "Liberation of Duc Lap Sub-sector (Opening of the Central Highlands Campaign)",
+      "description": "The 10th Division (3rd Corps) opened fire to attack the Duc Lap and Nui Lua bases. After 24 hours of fierce fighting, our forces completely controlled Duc Lap. This victory cut off Route 14, isolated Buon Ma Thuot, and created a perfect strategic diversion for the key battle of Buon Ma Thuot.",
+      "location": {
+        "commune": "Dak Sak",
+        "district": "Dak Mil",
+        "province": "Dak Nong"
+      },
+      "related_figures": [
+        "Vu Lang"
+      ],
+      "tags": [
+        "Central Highlands Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "DakNong_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-23",
+      "title": "Liberation of Gia Nghia (Quang Duc Province Capital)",
+      "description": "After the defeat in Buon Ma Thuot, the enemy forces in Gia Nghia were in extreme panic. Our troops advanced to liberate Gia Nghia Town and Khiem Duc district capital. Quang Duc Province (the main area of today's Dak Nong) was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Gia Nghia City",
+        "province": "Dak Nong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "DakNong_ADMIN_01",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Establishment of Dak Nong Province",
+      "description": "The 11th National Assembly passed Resolution No. 22/2003/QH11 dividing Dak Lak Province into two provinces: Dak Lak and Dak Nong. Dak Nong Province officially began operations on January 1, 2004, with Gia Nghia Town as its provincial capital.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Dak Nong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Province Establishment"
+      ]
+    },
+    {
+      "id": "DakNong_CULTURE_01",
+      "year": 2020,
+      "date": "2020-07-07",
+      "title": "Recognition of UNESCO Global Geopark",
+      "description": "UNESCO officially recognized Dak Nong Geopark as a Global Geopark. It possesses the longest volcanic cave system in Southeast Asia (C7, C3...) along with unique geological and indigenous cultural values.",
+      "location": {
+        "commune": null,
+        "district": "Krong No",
+        "province": "Dak Nong"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tourism",
+        "UNESCO Heritage"
+      ]
+    }
+  ]
+}

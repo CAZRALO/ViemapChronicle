@@ -1,0 +1,204 @@
+{
+  "events": [
+    {
+      "id": "BacLieu_FOUNDING_01",
+      "year": 1899,
+      "date": "1899-12-20",
+      "title": "Establishment of Bac Lieu Province",
+      "description": "Governor-General of French Indochina Paul Doumer signed a Decree separating the Bac Lieu arrondissement from Ha Tien Province to establish Bac Lieu Province. The province officially began operations on January 1, 1900. This marked the beginning of the provincial-level administrative unit of this land.",
+      "location": {
+        "commune": null,
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "BacLieu_CULTURE_01",
+      "year": 1919,
+      "date": "1919-08-15",
+      "title": "Creation of the song 'Da co hoai lang'",
+      "description": "In Vinh Huong Village, musician Cao Van Lau composed the song 'Da co hoai lang' (Hearing the Night Drumbeats and Yearning for My Husband). This work is the predecessor of 'vong co' songs, marking a brilliant development of Don ca tai tu art and Southern Cai luong theater.",
+      "location": {
+        "commune": "Ward 2",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [
+        "Cao Van Lau"
+      ],
+      "tags": [
+        "Culture",
+        "Don ca tai tu"
+      ]
+    },
+    {
+      "id": "BacLieu_RESISTANCE_01",
+      "year": 1927,
+      "date": "1927-05-00",
+      "title": "Ninh Thanh Loi Uprising",
+      "description": "Ninh Thanh Loi peasants, under the leadership of 'Chu Chot' (Tran Kim Tuc), rose up to fight against the land grabbing by French landlords and their henchmen. Although bloodily suppressed, this event demonstrated the strong spirit of resistance of Bac Lieu peasants before the establishment of the Communist Party.",
+      "location": {
+        "commune": "Ninh Thanh Loi",
+        "district": "Hong Dan",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [
+        "Tran Kim Tuc"
+      ],
+      "tags": [
+        "Peasant movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "BacLieu_RESISTANCE_02",
+      "year": 1928,
+      "date": "1928-02-16",
+      "title": "Dong Noc Nan Incident",
+      "description": "The peasant family of Bien Toai and Muoi Chuc in Noc Nan field (Phong Thanh) bravely fought against tyrants, landlords, and colonial police who came to steal their rice and land. The case shocked all of Indochina, forcing the colonial court to acquit the victim's family.",
+      "location": {
+        "commune": "Phong Thanh A",
+        "district": "Gia Rai Town",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [
+        "Bien Toai",
+        "Muoi Chuc"
+      ],
+      "tags": [
+        "Peasant movement",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "BacLieu_REV_01",
+      "year": 1930,
+      "date": "1930-02-00",
+      "title": "Establishment of the First Party Cell (Phong Thanh Village)",
+      "description": "Immediately after the Communist Party of Vietnam was founded, the first Party Cell of Bac Lieu Province was established in Phong Thanh Village (now in Gia Rai), with Comrade Nguyen Van Uye (Chin Uye) as Secretary. This was the first revolutionary leadership core of the province.",
+      "location": {
+        "commune": "Phong Thanh",
+        "district": "Gia Rai Town",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [
+        "Nguyen Van Uye"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BacLieu_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Seizing Power in Bac Lieu (A Bloodless Victory)",
+      "description": "Under the ingenious leadership of the Provisional Provincial Party Committee and the Viet Minh Front, the masses surrounded the Governor's Palace. With cleverness and prestige, we persuaded Governor Truong Cong Thien to surrender, seizing full power without firing a single bullet.",
+      "location": {
+        "commune": null,
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [
+        "Cao Trieu Phat"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizure of power"
+      ]
+    },
+    {
+      "id": "BacLieu_US_WAR_01",
+      "year": 1960,
+      "date": "1960-09-00",
+      "title": "Dong Khoi Movement in Bac Lieu (Chau Thanh - Vinh Loi)",
+      "description": "Responding to the Ben Tre Dong Khoi movement, the Bac Lieu Provincial Party Committee mobilized the masses to rise up in Chau Thanh and Vinh Loi districts... breaking the enemy's grip, dismantling outposts, expanding the liberated zone, and defeating the enemy's national policy of 'Strategic Hamlets'.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Loi",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dong Khoi",
+        "Resistance War against the US"
+      ]
+    },
+    {
+      "id": "BacLieu_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Mau Than Offensive in Bac Lieu",
+      "description": "The provincial armed forces attacked Bac Lieu town, capturing the Administrative Building, the Police Department, and enemy barracks. The fighting raged fiercely right inside the inner city; we controlled the situation for many hours and inflicted heavy losses on the enemy.",
+      "location": {
+        "commune": null,
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "BacLieu_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Bac Lieu Province",
+      "description": "On the morning of April 30, our troops entered the town. Under military pressure and enemy proselytizing, the Governor of Bac Lieu, Colonel Nguyen Ngoc Diep, declared unconditional surrender at 10:30 AM. Bac Lieu was liberated early and completely, preserving its infrastructure.",
+      "location": {
+        "commune": null,
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "BacLieu_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Bac Lieu Province",
+      "description": "The 9th National Assembly passed a Resolution to split Minh Hai Province (which had been merged since 1976) into two provinces: Bac Lieu and Ca Mau. Bac Lieu Province officially began operations on January 1, 1997, starting its journey of economic recovery and development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bac Lieu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    },
+    {
+      "id": "BacLieu_ECONOMY_01",
+      "year": 2010,
+      "date": "2010-09-09",
+      "title": "Groundbreaking of Bac Lieu Wind Power Plant",
+      "description": "The first large-scale offshore wind power project in Vietnam commenced construction in the coastal area of Bac Lieu. This wind farm not only provides clean energy but has also become a new tourism symbol of the province.",
+      "location": {
+        "commune": "Vinh Trach Dong",
+        "district": "Bac Lieu City",
+        "province": "Bac Lieu"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Clean energy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "events": [
+    {
+      "id": "HauGiang_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-01-00",
+      "title": "Battle of Tam Vu I",
+      "description": "At Tam Vu canal (near today's Tam Vu bridge), military forces commanded by Comrade Ngo Hong Gioi ambushed a French military convoy. This was the first Battle of Tam Vu, opening a series of 4 resounding battles at this historic site, destroying many enemy forces and motor vehicles.",
+      "location": {
+        "commune": "Thanh Xuan",
+        "district": "Chau Thanh A",
+        "province": "Hau Giang"
+      },
+      "related_figures": [
+        "Ngo Hong Gioi"
+      ],
+      "tags": [
+        "Resistance War against the French",
+        "Tam Vu"
+      ]
+    },
+    {
+      "id": "HauGiang_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-04-19",
+      "title": "Tam Vu IV Victory (Capturing the 105mm artillery)",
+      "description": "Military Region 9 coordinated with local guerrillas to organize a large-scale ambush at Tam Vu for the 4th time. Our forces killed over 100 French soldiers, destroyed 14 military vehicles, and notably captured a 105mm artillery piece (for the first time in the Southern battlefield). This victory was immortalized in the famous song 'Tam Vu'.",
+      "location": {
+        "commune": "Thanh Xuan",
+        "district": "Chau Thanh A",
+        "province": "Hau Giang"
+      },
+      "related_figures": [
+        "Nguyen Binh"
+      ],
+      "tags": [
+        "Great Victory",
+        "Culture"
+      ]
+    },
+    {
+      "id": "HauGiang_REV_01",
+      "year": 1954,
+      "date": null,
+      "title": "Construction of Long My Revolutionary Base",
+      "description": "After the Geneva Accords, Long My was chosen as a key revolutionary base area of Can Tho Province and Zone 9. This place became a 'land of fire', sheltering many resistance headquarters and serving as a springboard to attack the enemy's stronghold in Chuong Thien.",
+      "location": {
+        "commune": null,
+        "district": "Long My",
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Base Area",
+        "Resistance War"
+      ]
+    },
+    {
+      "id": "HauGiang_ADMIN_01",
+      "year": 1961,
+      "date": "1961-12-24",
+      "title": "Establishment of Chuong Thien Province (Saigon Government)",
+      "description": "President Ngo Dinh Diem signed a decree establishing Chuong Thien Province (comprising land separated from Ba Xuyen, Kien Giang, and Phong Dinh provinces). The provincial capital was located in Vi Thanh. The purpose was to strengthen control, pacify the U Minh region, and divide the revolutionary base.",
+      "location": {
+        "commune": null,
+        "district": "Vi Thanh City",
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "History of the former regime"
+      ]
+    },
+    {
+      "id": "HauGiang_US_WAR_01",
+      "year": 1969,
+      "date": "1969-09-02",
+      "title": "Inauguration of Uncle Ho's Temple (Luong Tam)",
+      "description": "Upon hearing the news of Uncle Ho's passing, the Party Committee, military, and people of Luong Tam Commune (Long My) defied bombs and bullets to establish a temple for Uncle Ho right in the fiercely contested area. The temple became a symbol of the Southern people's devotion to Uncle Ho, protected intact until the day of victory.",
+      "location": {
+        "commune": "Luong Tam",
+        "district": "Long My",
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Leader",
+        "Historical Relic"
+      ]
+    },
+    {
+      "id": "HauGiang_US_WAR_02",
+      "year": 1973,
+      "date": "1973-00-00",
+      "title": "Victory over 75 Enemy Battalions (Chuong Thien)",
+      "description": "At the Chuong Thien front, the Zone 9 Party Committee (commanded by comrades Vo Van Kiet and Le Duc Anh) led the military and people to break the enemy's unprecedentedly large-scale pacification and encroachment campaign. Our forces defeated 75 enemy battalion-turns, firmly maintained the liberated area, and created a turning point in the Western battlefield situation.",
+      "location": {
+        "commune": null,
+        "district": "Long My, Vi Thanh",
+        "province": "Hau Giang"
+      },
+      "related_figures": [
+        "Vo Van Kiet",
+        "Le Duc Anh"
+      ],
+      "tags": [
+        "Resistance War against the US",
+        "Strategic Victory"
+      ]
+    },
+    {
+      "id": "HauGiang_US_WAR_03",
+      "year": 1975,
+      "date": "1975-05-01",
+      "title": "Liberation of Vi Thanh Town",
+      "description": "After Can Tho was liberated, the enemy forces in Chuong Thien were in extreme panic. On the morning of May 1, 1975, local armed forces and the masses entered to take over the Chuong Thien Province Governor's Palace and key headquarters. Vi Thanh Town and the entire province were completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Vi Thanh City",
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "HauGiang_ADMIN_02",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Establishment of Hau Giang Province (Old)",
+      "description": "The Government decided to merge Can Tho Province, Soc Trang Province, and Can Tho City into the former Hau Giang Province. The provincial capital was located in Can Tho City. Today's Hau Giang land was then part of the southern districts of this large province.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "HauGiang_ADMIN_03",
+      "year": 2004,
+      "date": "2004-01-01",
+      "title": "Re-establishment of Hau Giang Province",
+      "description": "Implementing Resolution 22/2003/QH11, the former Can Tho Province was split. The northern part established Can Tho City as a centrally-run city, while the southern part established the new Hau Giang Province. The provincial capital was located in Vi Thanh Town (now Vi Thanh City).",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    },
+    {
+      "id": "HauGiang_CULTURE_01",
+      "year": 2015,
+      "date": "2015-07-00",
+      "title": "Recognition of Nga Bay Floating Market as a Provincial-level Relic",
+      "description": "Nga Bay Floating Market (established in 1915), the inspiration for the Vong Co song 'Tinh anh ban chieu' (The Love of a Sedge-Mat Seller), was recognized as a Historical-Cultural Relic. This is one of the largest and oldest waterway trading hubs in the Mekong Delta.",
+      "location": {
+        "commune": null,
+        "district": "Nga Bay City",
+        "province": "Hau Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Culture",
+        "Trade"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "NgheAn_EARLY_01",
+      "year": 713,
+      "date": null,
+      "title": "Mai Hac De Uprising",
+      "description": "Mai Thuc Loan (Mai Hac De) launched an uprising against the domination of the Tang dynasty. He chose the Sa Nam area as his base, built Van An Citadel (Nam Dan), and liberated a vast area, maintaining independence for nearly 10 years.",
+      "location": {
+        "commune": "Van Dien",
+        "district": "Nam Dan",
+        "province": "Nghe An"
+      },
+      "related_figures": [
+        "Mai Thuc Loan"
+      ],
+      "tags": [
+        "Northern Domination",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "NgheAn_TAYSON_01",
+      "year": 1788,
+      "date": null,
+      "title": "Construction of Phuong Hoang Trung Do",
+      "description": "On his way marching north to drive out the Qing army, Emperor Quang Trung chose the land between Dung Quyet Mountain and Ky Lan Mountain to build a new capital named Phuong Hoang Trung Do, with a strategic vision of a central location for the country.",
+      "location": {
+        "commune": "Trung Do",
+        "district": "Vinh City",
+        "province": "Nghe An"
+      },
+      "related_figures": [
+        "Quang Trung"
+      ],
+      "tags": [
+        "Tay Son",
+        "Capital"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_01",
+      "year": 1925,
+      "date": "1925-07-14",
+      "title": "Establishment of the Phuc Viet Association (predecessor of the Tan Viet Revolutionary Party)",
+      "description": "A group of patriotic intellectuals and former political prisoners in Vinh established the Phuc Viet Association at Quyet Mountain. This was the predecessor organization of the Tan Viet Revolutionary Party, playing an important role in propagating Marxism-Leninism in Central Vietnam.",
+      "location": {
+        "commune": "Trung Do",
+        "district": "Vinh City",
+        "province": "Nghe An"
+      },
+      "related_figures": [
+        "Le Van Huan",
+        "Tran Mong Bach"
+      ],
+      "tags": [
+        "Political organization",
+        "Patriotic"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_02",
+      "year": 1930,
+      "date": "1930-05-01",
+      "title": "Ben Thuy Strike (The beginning of the Nghe Tinh Soviets)",
+      "description": "Workers of the Match Factory and Ben Thuy Sawmill, along with peasants from neighboring communes, organized a large-scale demonstration on International Workers' Day. The hammer and sickle flag appeared for the first time, marking the beginning of the 1930-1931 revolutionary movement.",
+      "location": {
+        "commune": "Ben Thuy",
+        "district": "Vinh City",
+        "province": "Nghe An"
+      },
+      "related_figures": [
+        "Le Mao"
+      ],
+      "tags": [
+        "Nghe Tinh Soviets",
+        "Workers' movement"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_03",
+      "year": 1930,
+      "date": "1930-09-12",
+      "title": "Thai Lao Demonstration (The Climax of the Nghe Tinh Soviets)",
+      "description": "More than 8,000 peasants from Hung Nguyen marched to the district capital to protest. The French colonialists sent aircraft to bomb the unarmed crowd, killing 217 people. This bloody event fanned the flames of struggle, leading to the establishment of self-governing peasant Soviet administrations.",
+      "location": {
+        "commune": "Thai Lao",
+        "district": "Hung Nguyen",
+        "province": "Nghe An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Nghe Tinh Soviets",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_04",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Seizing Power in Vinh",
+      "description": "The Nghe An Province Uprising Committee mobilized self-defense forces and tens of thousands of people to seize the French Residency, the Civil Guard Barracks, and public offices in Vinh Town. Power was completely transferred to the hands of the people without bloodshed.",
+      "location": {
+        "commune": null,
+        "district": "Vinh City",
+        "province": "Nghe An"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "NgheAn_REV_05",
+      "year": 1957,
+      "date": "1957-06-14",
+      "title": "Uncle Ho's First Visit to His Hometown",
+      "description": "After 50 years of being away to find a way to save the country and lead the resistance war, President Ho Chi Minh finally had the opportunity to visit his hometown of Kim Lien, Nam Dan. He emotionally spoke to the local people and revisited his childhood thatched cottage.",
+      "location": {
+        "commune": "Kim Lien",
+        "district": "Nam Dan",
+        "province": "Nghe An"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "NgheAn_US_WAR_01",
+      "year": 1964,
+      "date": "1964-08-05",
+      "title": "First Victory Against the US Air Force (Gulf of Tonkin Incident)",
+      "description": "During the first US air raid on North Vietnam, the soldiers and people of Vinh - Ben Thuy, in coordination with the Navy, fought bravely, shooting down 2 US jet fighters and capturing the pilot alive, marking the beginning of the ground-to-air people's war.",
+      "location": {
+        "commune": "Ben Thuy",
+        "district": "Vinh City",
+        "province": "Nghe An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against America",
+        "Air defense"
+      ]
+    },
+    {
+      "id": "NgheAn_US_WAR_02",
+      "year": 1968,
+      "date": "1968-10-31",
+      "title": "The Sacrifice of 13 Truong Bon Youth Volunteers",
+      "description": "At the \"fire coordinate\" of Truong Bon (a vital transport artery supplying the South), 13 Youth Volunteers of Squad 2 (Company 317) heroically sacrificed their lives to US bombs while filling bomb craters to clear the road, just hours before the bombing halt order took effect.",
+      "location": {
+        "commune": "My Son",
+        "district": "Do Luong",
+        "province": "Nghe An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against America",
+        "Youth Volunteers",
+        "Truong Bon"
+      ]
+    },
+    {
+      "id": "NgheAn_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Nghe An Province",
+      "description": "The 8th National Assembly passed a Resolution to split Nghe Tinh Province (merged since 1976) back into two provinces, Nghe An and Ha Tinh. Nghe An became the province with the largest area in Vietnam.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Nghe An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    }
+  ]
+}

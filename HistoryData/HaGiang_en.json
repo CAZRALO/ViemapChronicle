@@ -1,0 +1,179 @@
+{
+  "events": [
+    {
+      "id": "HaGiang_COLONIAL_01",
+      "year": 1891,
+      "date": "1891-08-20",
+      "title": "Establishment of Ha Giang Province",
+      "description": "The Governor-General of Indochina issued a Decree to restore the 3rd Military Territory, with its headquarters located in Ha Giang. This event marked the establishment of the administrative boundaries of Ha Giang Province (separated from Tuyen Quang) during the French colonial period.",
+      "location": {
+        "commune": null,
+        "district": "Ha Giang City",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "HaGiang_HMONG_01",
+      "year": 1919,
+      "date": null,
+      "title": "Commencement of construction of the Hmong King's Palace",
+      "description": "Vuong Chinh Duc (the head of the mountainous feudal lord system in Dong Van) began construction of a fortified palace complex in Sa Phin Valley. The structure reflects the power of the Vuong clan and features unique architecture combining Hmong, Chinese, and French cultures.",
+      "location": {
+        "commune": "Sa Phin",
+        "district": "Dong Van",
+        "province": "Ha Giang"
+      },
+      "related_figures": [
+        "Vuong Chinh Duc"
+      ],
+      "tags": [
+        "Culture",
+        "Hmong King"
+      ]
+    },
+    {
+      "id": "HaGiang_REV_01",
+      "year": 1945,
+      "date": "1945-06-21",
+      "title": "Establishment of Trong Con Revolutionary Sub-zone",
+      "description": "The volunteer propaganda task force of the Ha - Tuyen - Thai inter-province organized a conference to establish the Trong Con Revolutionary Sub-zone. This was the first revolutionary base of Ha Giang Province, preparing for the general uprising.",
+      "location": {
+        "commune": "Bang Hanh",
+        "district": "Bac Quang",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Revolutionary base"
+      ]
+    },
+    {
+      "id": "HaGiang_REV_02",
+      "year": 1945,
+      "date": "1945-08-29",
+      "title": "Uprising to seize power in Ha Giang Town",
+      "description": "Armed forces and the masses entered the town, disarmed the civil guards, and captured the Green Sash post. The Provisional Administrative Committee of Ha Giang Province made its public debut at the town stadium, declaring the abolition of the colonial and feudal regime.",
+      "location": {
+        "commune": null,
+        "district": "Ha Giang City",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HaGiang_REV_03",
+      "year": 1945,
+      "date": "1945-12-25",
+      "title": "Establishment of the first Party Cell",
+      "description": "The first Communist Party cell of Ha Giang Province was established in Ha Giang Town. This event marked an important turning point, ensuring the direct and comprehensive leadership of the Party over the local revolutionary movement.",
+      "location": {
+        "commune": null,
+        "district": "Ha Giang City",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Establishment of the Party",
+        "Politics"
+      ]
+    },
+    {
+      "id": "HaGiang_SECURITY_01",
+      "year": 1959,
+      "date": "1959-12-00",
+      "title": "Dong Van bandit suppression campaign",
+      "description": "Instigated by reactionary forces, bandit rebellions broke out in Dong Van to oppose the revolutionary government. Ha Giang armed forces, in coordination with the Northwest Military Region, organized a bandit suppression campaign, quelling the rebellion and stabilizing the highlands.",
+      "location": {
+        "commune": null,
+        "district": "Dong Van",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Security",
+        "Bandit suppression"
+      ]
+    },
+    {
+      "id": "HaGiang_CONSTRUCTION_01",
+      "year": 1965,
+      "date": "1965-03-20",
+      "title": "Inauguration of the Happiness Road",
+      "description": "After 6 years of arduous construction with more than 2 million workdays from volunteer youths and conscripted laborers from 8 provinces, the Happiness Road connecting Ha Giang Town with 4 rocky highland districts (Quan Ba, Yen Minh, Dong Van, Meo Vac) via Ma Pi Leng Pass was officially opened to traffic.",
+      "location": {
+        "commune": "Pai Lung",
+        "district": "Meo Vac",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Transportation",
+        "Volunteer youth"
+      ]
+    },
+    {
+      "id": "HaGiang_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Northern border defense war (1979)",
+      "description": "The Chinese army launched simultaneous attacks along the entire border of Ha Giang (then Ha Tuyen Province). The military and people of the border districts (Dong Van, Meo Vac, Vi Xuyen) resiliently fought back, defending every inch of the borderland.",
+      "location": {
+        "commune": "Thanh Thuy",
+        "district": "Vi Xuyen",
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Border war",
+        "Military"
+      ]
+    },
+    {
+      "id": "HaGiang_BORDER_WAR_02",
+      "year": 1984,
+      "date": "1984-07-12",
+      "title": "Campaign MB84 - Vi Xuyen Front",
+      "description": "The most fierce day of the Vi Xuyen front during the prolonged border war (1984-1989). Vietnamese regular divisions launched a counter-offensive campaign to reclaim the occupied heights (1509, 772, 685). Vi Xuyen was likened to a 'Lime Kiln of the Century'.",
+      "location": {
+        "commune": "Thanh Thuy",
+        "district": "Vi Xuyen",
+        "province": "Ha Giang"
+      },
+      "related_figures": [
+        "Nguyen Dinh Thien",
+        "Dang Viet Chau"
+      ],
+      "tags": [
+        "Border war",
+        "Vi Xuyen"
+      ]
+    },
+    {
+      "id": "HaGiang_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Ha Giang Province",
+      "description": "The 8th National Assembly passed a Resolution to split Ha Tuyen Province into two provinces: Ha Giang and Tuyen Quang. Ha Giang Province officially resumed operations on October 1, 1991.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ha Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

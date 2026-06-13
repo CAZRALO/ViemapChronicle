@@ -1,0 +1,247 @@
+{
+  "events": [
+    {
+      "id": "BinhDinh_CHAM_01",
+      "year": 1471,
+      "date": null,
+      "title": "The fall of Do Ban Citadel (Vijaya)",
+      "description": "King Le Thanh Tong personally led his grand army to capture Do Ban Citadel, the capital of the Champa Kingdom. This event marked the annexation of the Binh Dinh region into the territory of Dai Viet, establishing Hoai Nhon Prefecture.",
+      "location": {
+        "commune": "Nhon Hau",
+        "district": "An Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Le Thanh Tong",
+        "Tra Toan"
+      ],
+      "tags": [
+        "Champa",
+        "Dai Viet",
+        "Military"
+      ]
+    },
+    {
+      "id": "BinhDinh_TAYSON_01",
+      "year": 1771,
+      "date": null,
+      "title": "The outbreak of the Tay Son Rebellion",
+      "description": "The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu raised the banner of rebellion in the Tay Son Thuong Dao region against the rule of the Nguyen Lords, initiating the Tay Son peasant movement.",
+      "location": {
+        "commune": "Tay Phu",
+        "district": "Tay Son",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Nguyen Nhac",
+        "Nguyen Hue",
+        "Nguyen Lu"
+      ],
+      "tags": [
+        "Tay Son",
+        "Rebellion"
+      ]
+    },
+    {
+      "id": "BinhDinh_TAYSON_02",
+      "year": 1778,
+      "date": null,
+      "title": "Nguyen Nhac ascends the throne as Emperor",
+      "description": "Nguyen Nhac proclaimed himself Thai Duc Emperor, chose Do Ban Citadel as the capital, renovated and expanded the citadel, and renamed it Hoang De Citadel.",
+      "location": {
+        "commune": "Nhon Hau",
+        "district": "An Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Nguyen Nhac"
+      ],
+      "tags": [
+        "Tay Son",
+        "Politics"
+      ]
+    },
+    {
+      "id": "BinhDinh_TAYSON_03",
+      "year": 1801,
+      "date": "1801-02-28",
+      "title": "The naval battle of Thi Nai",
+      "description": "The largest naval battle in the feudal history of Vietnam between the Tay Son dynasty forces (commanded by Vo Van Dung and Tran Quang Dieu) and the forces of Nguyen Anh. Nguyen Anh's forces won, destroying the Tay Son fleet.",
+      "location": {
+        "commune": null,
+        "district": "Quy Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Vo Van Dung",
+        "Tran Quang Dieu",
+        "Nguyen Anh",
+        "Vo Tanh"
+      ],
+      "tags": [
+        "Naval battle",
+        "Civil war"
+      ]
+    },
+    {
+      "id": "BinhDinh_COLONIAL_01",
+      "year": 1885,
+      "date": null,
+      "title": "The Can Vuong movement in Binh Dinh",
+      "description": "Responding to the Can Vuong edict, Mai Xuan Thuong gathered righteous fighters to establish a base in Linh Dong, was honored as the Binh Tay Marshal, and led the anti-French movement in Binh Dinh.",
+      "location": {
+        "commune": "Binh Tuong",
+        "district": "Tay Son",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Mai Xuan Thuong",
+        "Tang Bat Ho"
+      ],
+      "tags": [
+        "Can Vuong",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "BinhDinh_REV_01",
+      "year": 1930,
+      "date": "1930-09-01",
+      "title": "Establishment of the first Communist Party cell",
+      "description": "The first Communist Party cell of Binh Dinh Province was established at the Cuu Loi Light Plant (Hoai Nhon Prefecture), marking a turning point in the local revolutionary movement.",
+      "location": {
+        "commune": "Tam Quan Nam",
+        "district": "Hoai Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Nguyen Tran"
+      ],
+      "tags": [
+        "Communist Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BinhDinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Uprising to seize power in Quy Nhon",
+      "description": "In the context of the August Revolution, the masses under the leadership of the Viet Minh protested and seized the headquarters of the pro-Japanese administration in Quy Nhon Town, taking power into the hands of the people.",
+      "location": {
+        "commune": null,
+        "district": "Quy Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_01",
+      "year": 1964,
+      "date": "1964-12-07",
+      "title": "An Lao Victory",
+      "description": "The Liberation Army attacked the An Lao sub-sector, completely liberating An Lao District. This victory initiated the Dong Khoi movement in Zone V, breaking the enemy's strategic hamlet system.",
+      "location": {
+        "commune": null,
+        "district": "An Lao",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Dong Khoi"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_02",
+      "year": 1965,
+      "date": "1965-02-08",
+      "title": "Deo Nhong - Duong Lieu Victory",
+      "description": "The 3rd Gold Star Division and local forces ambushed and destroyed two Saigon army battalions, breaking the enemy's 'armored personnel carrier' and 'heliborne' tactics.",
+      "location": {
+        "commune": "My Loi",
+        "district": "Phu My",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Military"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_03",
+      "year": 1965,
+      "date": "1965-09-18",
+      "title": "The Battle of Thuan Ninh",
+      "description": "The Liberation Army launched a surprise attack, destroying the 1st Battalion of the 41st Regiment of the Saigon army and US advisors in the Thuan Ninh Valley, proving the ability to destroy the enemy's main forces right at their base.",
+      "location": {
+        "commune": "Binh Tan",
+        "district": "Tay Son",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Military"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_04",
+      "year": 1966,
+      "date": "1966-01-28",
+      "title": "Tay Son - Binh An Massacre",
+      "description": "South Korean mercenaries (Tiger Division) conducted sweeps and massacred more than 1,000 civilians in communes of Tay Son and An Nhon districts (Go Dai area).",
+      "location": {
+        "commune": "Tay Vinh",
+        "district": "Tay Son",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "War crimes",
+        "South Korea"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_05",
+      "year": 1972,
+      "date": "1972-04-09",
+      "title": "1972 Spring-Summer Campaign in Northern Binh Dinh",
+      "description": "The 3rd Gold Star Division coordinated with local forces to attack the Doi Muoi outpost, liberating Hoai An District and most of Hoai Nhon District, opening up a vast, continuous liberated zone.",
+      "location": {
+        "commune": "Hoai Chau",
+        "district": "Hoai Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Fiery Summer",
+        "Resistance War against America"
+      ]
+    },
+    {
+      "id": "BinhDinh_US_WAR_06",
+      "year": 1975,
+      "date": "1975-03-31",
+      "title": "Liberation of Quy Nhon and the entire Binh Dinh Province",
+      "description": "During the 1975 Spring General Offensive and Uprising, the military and people of Binh Dinh captured the headquarters, took control of Quy Nhon Town, and completed the liberation of the entire province.",
+      "location": {
+        "commune": null,
+        "district": "Quy Nhon",
+        "province": "Binh Dinh"
+      },
+      "related_figures": [
+        "Chu Huy Man"
+      ],
+      "tags": [
+        "Great Spring Victory",
+        "Liberation"
+      ]
+    }
+  ]
+}

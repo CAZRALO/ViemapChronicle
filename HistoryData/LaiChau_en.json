@@ -1,0 +1,178 @@
+{
+  "events": [
+    {
+      "id": "LaiChau_COLONIAL_01",
+      "year": 1909,
+      "date": "1909-06-28",
+      "title": "Establishment of Lai Chau Province (French colonial period)",
+      "description": "The Governor-General of French Indochina issued a Decree establishing Lai Chau Province. The provincial capital was located in the former Lai Chau Town (now Muong Lay Town in Dien Bien Province). This was the first legal milestone establishing a province-level administrative unit for this land.",
+      "location": {
+        "commune": null,
+        "district": "Muong Lay",
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "LaiChau_REV_01",
+      "year": 1945,
+      "date": "1945-10-15",
+      "title": "First liberation of Than Uyen",
+      "description": "The Than Uyen guerrilla team coordinated with local people to rise up, overthrow the puppet government, and establish a revolutionary administration. Than Uyen was the first district of Lai Chau Province to be liberated during the revolutionary high tide.",
+      "location": {
+        "commune": null,
+        "district": "Than Uyen",
+        "province": "Lai Chau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Revolution",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "LaiChau_REV_02",
+      "year": 1949,
+      "date": "1949-11-20",
+      "title": "Establishment of the Party Affairs Committee of Lai Chau Province",
+      "description": "The Inter-Zone 10 Party Committee issued a Decision to establish the Party Affairs Committee of Lai Chau Province (the predecessor of today's Lai Chau Province Party Committee) to directly lead the local resistance movement against the French.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lai Chau"
+      },
+      "related_figures": [
+        "Nguyen Ba Lai"
+      ],
+      "tags": [
+        "Party establishment",
+        "Politics"
+      ]
+    },
+    {
+      "id": "LaiChau_FRENCH_WAR_01",
+      "year": 1952,
+      "date": "1952-10-15",
+      "title": "Complete liberation of Than Uyen area",
+      "description": "During the Northwest Campaign, Regiment 165 (Division 312) attacked and destroyed enemy posts in Than Uyen. The liberation of Than Uyen shattered the French Da River defense line, opening the gateway to Lai Chau.",
+      "location": {
+        "commune": null,
+        "district": "Than Uyen",
+        "province": "Lai Chau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Northwest Campaign",
+        "Anti-French resistance"
+      ]
+    },
+    {
+      "id": "LaiChau_FRENCH_WAR_02",
+      "year": 1953,
+      "date": "1953-12-12",
+      "title": "Liberation of Lai Chau Town",
+      "description": "Under pressure from Division 316 during the offensive campaign into the Northwest, French troops were forced to withdraw from the former Lai Chau Town to regroup in Dien Bien Phu. Our troops entered to take over, and Lai Chau Province was basically liberated.",
+      "location": {
+        "commune": null,
+        "district": "Muong Lay",
+        "province": "Dien Bien"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Anti-French resistance"
+      ]
+    },
+    {
+      "id": "LaiChau_ADMIN_01",
+      "year": 1955,
+      "date": "1955-04-29",
+      "title": "Establishment of the Thai - Meo Autonomous Region",
+      "description": "President Ho Chi Minh signed a Decree establishing the Thai - Meo Autonomous Region (including Lai Chau, Son La, and Nghia Lo). Lai Chau became a district under the Autonomous Region, implementing the policy of great national unity and the right to self-determination of ethnic minorities.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lai Chau"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Administration",
+        "Autonomous Region"
+      ]
+    },
+    {
+      "id": "LaiChau_SECURITY_01",
+      "year": 1955,
+      "date": null,
+      "title": "Dong Van - Phong Tho bandit clearance campaign",
+      "description": "Taking advantage of the rugged terrain, groups of bandits and French remnants (supported by the CIA) rose up to sabotage the Phong Tho highlands. Lai Chau armed forces persistently mobilized the masses and organized sweeps to suppress the banditry.",
+      "location": {
+        "commune": "Dong Van",
+        "district": "Binh Lieu",
+        "province": "Lai Chau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Security",
+        "Bandit clearance"
+      ]
+    },
+    {
+      "id": "LaiChau_ADMIN_02",
+      "year": 1962,
+      "date": "1962-10-27",
+      "title": "Re-establishment of Lai Chau Province (Northwest Region)",
+      "description": "The 2nd National Assembly issued a Resolution renaming the Thai - Meo Autonomous Region to the Northwest Autonomous Region and re-establishing three provinces: Son La, Nghia Lo, and Lai Chau under the region. Lai Chau Province at that time included today's Dien Bien area.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Lai Chau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    },
+    {
+      "id": "LaiChau_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Fighting to protect the border in Phong Tho",
+      "description": "The Chinese army launched simultaneous attacks on border communes in Phong Tho District (such as Ma Lu Thang, Si Lo Lau). Local soldiers, armed police, and Lai Chau militia fought bravely, slowing down the advance and wearing down enemy forces.",
+      "location": {
+        "commune": "Ma Ly Pho",
+        "district": "Phong Tho",
+        "province": "Lai Chau"
+      },
+      "related_figures": [],
+      "tags": [
+        "1979 border war",
+        "Military"
+      ]
+    },
+    {
+      "id": "LaiChau_ADMIN_03",
+      "year": 2003,
+      "date": "2003-11-26",
+      "title": "Splitting of Lai Chau Province",
+      "description": "The 11th National Assembly passed a Resolution splitting the former Lai Chau Province into two provinces: the new Lai Chau and Dien Bien. The new Lai Chau provincial capital was located in Tam Duong Town (later upgraded to Lai Chau City).",
+      "location": {
+        "commune": null,
+        "district": "Lai Chau City",
+        "province": "Lai Chau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Establishment of the province"
+      ]
+    }
+  ]
+}

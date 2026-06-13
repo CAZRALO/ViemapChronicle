@@ -1,0 +1,206 @@
+{
+  "events": [
+    {
+      "id": "QuangBinh_LY_01",
+      "year": 1069,
+      "date": null,
+      "title": "Annexation of the three prefectures of Bo Chinh, Dia Ly, and Ma Linh",
+      "description": "After defeating the Champa army, King Ly Thanh Tong annexed the three prefectures of Bo Chinh, Dia Ly, and Ma Linh (present-day Quang Binh and northern Quang Tri) into the territory of Dai Viet. This was a historical milestone establishing Vietnamese sovereignty over this land.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quang Binh"
+      },
+      "related_figures": [
+        "Ly Thanh Tong",
+        "Ly Thuong Kiet"
+      ],
+      "tags": [
+        "Territorial expansion",
+        "Ly Dynasty"
+      ]
+    },
+    {
+      "id": "QuangBinh_TRINH_NGUYEN_01",
+      "year": 1630,
+      "date": null,
+      "title": "Dao Duy Tu builds Luy Thay",
+      "description": "To resist the attacks of the Trinh lords, Lord Nguyen Phuc Nguyen tasked Dao Duy Tu with directing the construction of the solid Luy Thay defense system (Dao Duy Tu Wall), stretching from Dau Mau Mountain to the Nhat Le estuary, helping the Nguyen lords secure their domain in Dang Trong.",
+      "location": {
+        "commune": "Phu Hai",
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      },
+      "related_figures": [
+        "Dao Duy Tu",
+        "Nguyen Phuc Nguyen"
+      ],
+      "tags": [
+        "Trinh-Nguyen Conflict",
+        "Military"
+      ]
+    },
+    {
+      "id": "QuangBinh_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-09-19",
+      "title": "King Ham Nghi issues the Can Vuong Edict",
+      "description": "At the Son Phong base (Tuyen Hoa), King Ham Nghi officially issued the second Can Vuong Edict (after the first one in Tan So, Quang Tri), calling upon scholars, intellectuals, and people nationwide to rise up to help the king save the country, igniting the flame of resistance against the French.",
+      "location": {
+        "commune": "Culture",
+        "district": "Tuyen Hoa",
+        "province": "Quang Binh"
+      },
+      "related_figures": [
+        "Ham Nghi",
+        "Ton That Thuyet"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French Resistance"
+      ]
+    },
+    {
+      "id": "QuangBinh_REV_01",
+      "year": 1942,
+      "date": "1942-07-01",
+      "title": "Establishment of the first Party Cell (Ke Ray Station Party Cell)",
+      "description": "In the Ke Ray Station area, the first Communist Party Cell of Quang Binh Province was established. This was the core leadership of the revolutionary movement in the province leading up to the general uprising.",
+      "location": {
+        "commune": "Canh Duong",
+        "district": "Bo Trach",
+        "province": "Quang Binh"
+      },
+      "related_figures": [
+        "Quach Xuan Ky"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "QuangBinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-23",
+      "title": "Seizing power in Dong Hoi",
+      "description": "Tens of thousands of people from various districts flocked to Dong Hoi Town, organizing rallies and seizing public offices. The provisional revolutionary government of Quang Binh Province made its public debut at Quang Binh Gate.",
+      "location": {
+        "commune": "Dong Phu",
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "QuangBinh_FRENCH_WAR_01",
+      "year": 1947,
+      "date": null,
+      "title": "Building Canh Duong Combat Village",
+      "description": "The coastal village of Canh Duong fenced itself, dug trenches, and set up guard posts, turning the entire village into a resilient fortress of resistance ('Fortress Village'). This was an outstanding example of people's warfare, repeatedly repelling French sweeps.",
+      "location": {
+        "commune": "Canh Duong",
+        "district": "Quang Trach",
+        "province": "Quang Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-French Resistance",
+        "Guerrilla warfare"
+      ]
+    },
+    {
+      "id": "QuangBinh_FRENCH_WAR_02",
+      "year": 1950,
+      "date": "1950-05-19",
+      "title": "The Battle of Xuan Bo",
+      "description": "Regular troops (Regiment 18) coordinated with local guerrillas to fiercely block and attack a French mobile regiment supported by amphibious vehicles and aircraft. The battle resonated widely and received a letter of commendation from General Vo Nguyen Giap.",
+      "location": {
+        "commune": "Xuan Thuy",
+        "district": "Le Thuy",
+        "province": "Quang Binh"
+      },
+      "related_figures": [
+        "Lam Uy"
+      ],
+      "tags": [
+        "Anti-French Resistance",
+        "Military"
+      ]
+    },
+    {
+      "id": "QuangBinh_US_WAR_01",
+      "year": 1965,
+      "date": "1965-02-07",
+      "title": "First victory against the US Air Force (Mui Lao Campaign)",
+      "description": "Immediately after the US launched its destructive war against the North (following the Gulf of Tonkin incident and the Battle of Pleiku), the military and people of Dong Hoi shot down a US jet. Uncle Ho sent a letter praising the military and people of Quang Binh for \"fighting well, producing well\".",
+      "location": {
+        "commune": null,
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-American Resistance",
+        "Air Defense"
+      ]
+    },
+    {
+      "id": "QuangBinh_US_WAR_02",
+      "year": 1965,
+      "date": null,
+      "title": "Mother Suot rowing her boat on the Nhat Le River",
+      "description": "During the years of fierce US bombings, Mother Nguyen Thi Suot (60 years old) resiliently rowed her boat to transport soldiers, wounded troops, and ammunition across the Nhat Le River under a rain of bombs and bullets, becoming a symbol of revolutionary heroism.",
+      "location": {
+        "commune": "Bao Ninh",
+        "district": "Dong Hoi City",
+        "province": "Quang Binh"
+      },
+      "related_figures": [
+        "Nguyen Thi Suot"
+      ],
+      "tags": [
+        "Anti-American Resistance",
+        "Heroism"
+      ]
+    },
+    {
+      "id": "QuangBinh_US_WAR_03",
+      "year": 1972,
+      "date": null,
+      "title": "The Heroic Feat of Tam Co Cave",
+      "description": "At Km 16 of Road 20 Quyet Thang (a vital supply route to the South), 8 youth volunteers heroically sacrificed their lives when US bombs collapsed the entrance of the stone cave where they were sheltering. This is a tragic yet heroic testament to the Youth Volunteer Force.",
+      "location": {
+        "commune": "Tan Trach",
+        "district": "Bo Trach",
+        "province": "Quang Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Youth Volunteers",
+        "Truong Son Road"
+      ]
+    },
+    {
+      "id": "QuangBinh_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Re-establishment of Quang Binh Province",
+      "description": "The 8th National Assembly passed a resolution to split Binh Tri Thien Province (which had been merged since 1976) back into three provinces: Quang Binh, Quang Tri, and Thua Thien Hue. Quang Binh Province began its reconstruction and socio-economic development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quang Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

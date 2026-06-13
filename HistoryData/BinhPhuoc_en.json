@@ -1,0 +1,167 @@
+{
+  "events": [
+    {
+      "id": "BinhPhuoc_COLONIAL_01",
+      "year": 1930,
+      "date": "1930-02-03",
+      "title": "Establishment of the Indochinese Communist Party Cell (Red Phu Rieng)",
+      "description": "In the forest behind Village 3 of the Phu Rieng rubber plantation, the first Indochinese Communist Party Cell of the Southeast region was established, with Comrade Nguyen Xuan Cu as Secretary. This event coincided with the founding date of the Party, initiating the illustrious 'Red Phu Rieng' struggle movement of the rubber working class.",
+      "location": {
+        "commune": "Thuan Phu",
+        "district": "Dong Phu",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [
+        "Nguyen Xuan Cu",
+        "Tran Tu Binh"
+      ],
+      "tags": [
+        "Party Founding",
+        "Workers' movement"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_REV_01",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Hon Quan and Loc Ninh",
+      "description": "The Vanguard Youth forces and rubber plantation workers rose up to seize power in the district capitals of Hon Quan and Loc Ninh. The colonial government system at the rubber plantations collapsed, and the revolutionary government was handed over to the people, contributing to the general victory of the August Revolution.",
+      "location": {
+        "commune": null,
+        "district": "Hon Quan",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_01",
+      "year": 1965,
+      "date": "1965-06-09",
+      "title": "Dong Xoai Victory",
+      "description": "The Regional main-force army coordinated with local soldiers and people to launch an attack on the Dong Xoai Military Sub-sector. After 2 days of fierce fighting, our forces destroyed 4 enemy battalions. This victory, along with the Binh Gia and Ba Gia victories, contributed to bankrupting the US 'Special Warfare' strategy.",
+      "location": {
+        "commune": "Tan Phu",
+        "district": "Dong Xoai City",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against America",
+        "Great victory"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_02",
+      "year": 1972,
+      "date": "1972-04-07",
+      "title": "Liberation of Loc Ninh (The Resistance Capital)",
+      "description": "During the Nguyen Hue Campaign, the 5th Main-Force Division attacked and completely liberated the Loc Ninh district capital. Loc Ninh became the first district in the South to be liberated, and was subsequently chosen as the capital of the Provisional Revolutionary Government of the Republic of South Vietnam.",
+      "location": {
+        "commune": null,
+        "district": "Loc Ninh",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Fiery Red Summer",
+        "Liberation",
+        "Base area"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_03",
+      "year": 1972,
+      "date": "1972-04-13",
+      "title": "Tau O Blockade (The Steel Wall on Route 13)",
+      "description": "The 7th Main-Force Division established a blockade on Route 13 (Tau O - Xom Ruong area) to prevent enemy troops from Saigon from advancing to relieve An Loc. The seesaw battle lasted for 150 days and nights under a rain of bombs and bullets, likened to a 'Steel Wall' stopping the enemy divisions.",
+      "location": {
+        "commune": "Tan Khai",
+        "district": "Hon Quan",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Fiery Red Summer",
+        "Defense"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_04",
+      "year": 1973,
+      "date": "1973-03-00",
+      "title": "Construction of Ta Thiet Base (Government Forest)",
+      "description": "In the Ta Thiet forest (Loc Ninh), the Regional Command built a large-scale base consisting of bunkers, trenches, meeting halls, and semi-underground solid houses. This was where General Van Tien Dung and the Politburo met and issued the order for the 1975 Spring General Offensive (also known as the Headquarters of the Liberation Army of South Vietnam).",
+      "location": {
+        "commune": "Loc Thanh",
+        "district": "Loc Ninh",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [
+        "Van Tien Dung",
+        "Pham Hung",
+        "Tran Van Tra"
+      ],
+      "tags": [
+        "Base area",
+        "National relic"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_05",
+      "year": 1975,
+      "date": "1975-01-06",
+      "title": "Phuoc Long Victory (A Strategic Reconnaissance Blow)",
+      "description": "The 4th Army Corps and local forces attacked and liberated Phuoc Long Town and the entire Phuoc Long Province. This was the first province in the South to be completely liberated. This victory helped the Politburo gauge the US response (the US did not re-intervene), thereby strengthening the resolve to liberate the South in 1975.",
+      "location": {
+        "commune": null,
+        "district": "Phuoc Long Town",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [
+        "Hoang Cam"
+      ],
+      "tags": [
+        "Route 14 Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_US_WAR_06",
+      "year": 1975,
+      "date": "1975-03-23",
+      "title": "Liberation of An Loc - Binh Long",
+      "description": "Under pressure from our forces across the Central Highlands and Southeast battlefields, the enemy troops in An Loc (the capital of the former Binh Long Province) were forced to retreat. Our soldiers entered to take over, completely liberating the land of Binh Long (present-day Hon Quan and Chon Thanh), opening the way to Saigon.",
+      "location": {
+        "commune": null,
+        "district": "Binh Long Town",
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [],
+      "tags": [
+        "1975 Spring Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "BinhPhuoc_ADMIN_01",
+      "year": 1997,
+      "date": "1997-01-01",
+      "title": "Re-establishment of Binh Phuoc Province",
+      "description": "According to the Resolution of the 9th National Assembly, Song Be Province (merged since 1976) was split into two provinces, Binh Duong and Binh Phuoc. Binh Phuoc Province officially went into operation with its initial provincial capital located in Dong Xoai, beginning a new journey of development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Binh Phuoc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

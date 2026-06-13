@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "BacGiang_LE_01",
+      "year": 1427,
+      "date": "1427-11-03",
+      "title": "Xuong Giang Victory",
+      "description": "After besieging and capturing Xuong Giang Citadel, the Lam Son army organized an ambush, destroying and capturing the entire 70,000-strong reinforcement army of the Ming dynasty led by Lieu Thang and Moc Thanh. This victory decided the complete triumph of the Lam Son Uprising.",
+      "location": {
+        "commune": "Xuong Giang",
+        "district": "Bac Giang City",
+        "province": "Bac Giang"
+      },
+      "related_figures": [
+        "Le Loi",
+        "Tran Nguyen Han",
+        "Le Sat"
+      ],
+      "tags": [
+        "Lam Son Uprising",
+        "Military"
+      ]
+    },
+    {
+      "id": "BacGiang_COLONIAL_01",
+      "year": 1884,
+      "date": "1884-03-16",
+      "title": "Yen The Uprising Breaks Out",
+      "description": "In the mountainous region of Yen The, Luong Van Nam (De Nam) organized a flag-raising ceremony, officially launching the anti-French peasant uprising that lasted for nearly 30 years (later led by Hoang Hoa Tham), inflicting heavy losses on the French troops.",
+      "location": {
+        "commune": "Phon Xuong",
+        "district": "Yen The",
+        "province": "Bac Giang"
+      },
+      "related_figures": [
+        "Hoang Hoa Tham",
+        "Luong Van Nam"
+      ],
+      "tags": [
+        "Yen The Uprising",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "BacGiang_COLONIAL_02",
+      "year": 1895,
+      "date": "1895-10-10",
+      "title": "Establishment of Bac Giang Province",
+      "description": "The Governor-General of French Indochina issued a Decree dividing Bac Ninh Province into two provinces: Bac Ninh and Bac Giang. The provincial capital of Bac Giang was located in Phu Lang Thuong. This marked the shaping of the administrative boundaries of Bac Giang Province in the modern era.",
+      "location": {
+        "commune": null,
+        "district": "Bac Giang City",
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French Colonial Period"
+      ]
+    },
+    {
+      "id": "BacGiang_REV_01",
+      "year": 1938,
+      "date": "1938-08-01",
+      "title": "Establishment of the First Party Cell",
+      "description": "At the red silk cotton tree of My Do ferry terminal (Phu Lang Thuong), the first Communist Party Cell of Bac Giang Province was established. This event marked an important turning point in the province's revolutionary movement under the leadership of the Party.",
+      "location": {
+        "commune": "My Do",
+        "district": "Bac Giang City",
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BacGiang_REV_02",
+      "year": 1943,
+      "date": null,
+      "title": "Construction of Safe Zone (ATK) II Hiep Hoa",
+      "description": "The Party Central Committee chose Hiep Hoa District as Safe Zone II to shelter high-ranking officials and organize important conferences in preparation for the General Uprising. This place safely protected comrades Truong Chinh, Hoang Quoc Viet...",
+      "location": {
+        "commune": "Hoang Van",
+        "district": "Hiep Hoa",
+        "province": "Bac Giang"
+      },
+      "related_figures": [
+        "Truong Chinh",
+        "Hoang Quoc Viet"
+      ],
+      "tags": [
+        "Pre-uprising",
+        "ATK"
+      ]
+    },
+    {
+      "id": "BacGiang_REV_03",
+      "year": 1945,
+      "date": "1945-08-18",
+      "title": "Seizing Power Earliest in the Country",
+      "description": "On the afternoon of August 18, revolutionary forces seized the Governor's Palace and public offices in Phu Lang Thuong. Bac Giang became one of the first four provinces in the country to seize power (along with Hai Duong, Ha Tinh, and Quang Nam) during the August Revolution.",
+      "location": {
+        "commune": null,
+        "district": "Bac Giang City",
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "BacGiang_FRENCH_WAR_01",
+      "year": 1949,
+      "date": "1949-08-18",
+      "title": "Cau Lo Ambush",
+      "description": "Bac Giang local forces coordinated with militia guerrillas to organize a daring ambush in the Cau Lo area (on Route 13, now National Highway 37), destroying a French military convoy and creating a great resonance in the guerrilla warfare movement.",
+      "location": {
+        "commune": "Bao Dai",
+        "district": "Luc Nam",
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Ambush"
+      ]
+    },
+    {
+      "id": "BacGiang_ADMIN_01",
+      "year": 1962,
+      "date": "1962-10-27",
+      "title": "Establishment of Ha Bac Province",
+      "description": "The 2nd National Assembly issued a Resolution to merge the two provinces of Bac Ninh and Bac Giang into Ha Bac Province. The provincial capital was initially located in Bac Giang Town, then moved to Bac Ninh Town (for a short period) before returning to Bac Giang.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "BacGiang_US_WAR_01",
+      "year": 1965,
+      "date": "1965-06-20",
+      "title": "Air Battle at Kep Airfield",
+      "description": "Kep Airfield was an important base of the Vietnam Air Force (the take-off point for MiG-17 and MiG-21 aircraft). In the airspace of Kep, many fierce air battles between our air force and US aircraft took place to protect the northern gateway of Hanoi.",
+      "location": {
+        "commune": "Quang Thinh",
+        "district": "Lang Giang",
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the US",
+        "Air Force"
+      ]
+    },
+    {
+      "id": "BacGiang_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Bac Giang Province",
+      "description": "The 9th National Assembly passed a Resolution to split Ha Bac Province back into two provinces: Bac Ninh and Bac Giang. Bac Giang Province officially operated under the new administrative unit from January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bac Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ]
+    }
+  ]
+}

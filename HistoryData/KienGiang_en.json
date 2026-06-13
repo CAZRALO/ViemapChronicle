@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "id": "KienGiang_FOUNDING_01",
+      "year": 1708,
+      "date": null,
+      "title": "Mac Cuu offered the land of Ha Tien to the Nguyen Lord",
+      "description": "Mac Cuu (a Chinese merchant credited with reclaiming and developing the land of Ha Tien) submitted a petition to annex this land into the territory of Dang Trong. Lord Nguyen Phuc Chu accepted, appointing Mac Cuu as the Commander-in-Chief of Ha Tien. This event officially established Dai Viet's sovereignty over the southwestern sea.",
+      "location": {
+        "commune": "Binh San",
+        "district": "Ha Tien City",
+        "province": "Kien Giang"
+      },
+      "related_figures": [
+        "Mac Cuu",
+        "Nguyen Phuc Chu"
+      ],
+      "tags": [
+        "Territorial expansion",
+        "Mac clan"
+      ]
+    },
+    {
+      "id": "KienGiang_RESISTANCE_01",
+      "year": 1868,
+      "date": "1868-06-16",
+      "title": "The battle of Kien Giang post (Kiem bat Kien Giang)",
+      "description": "National hero Nguyen Trung Truc commanded the disguised insurgent army to launch a surprise attack on the French fort of Kien Giang (Rach Gia). The insurgents killed the French province chief (Chanh Phen) and controlled the situation for 5 days. This was the first battle to recapture a military post in the anti-French movement in Cochinchina.",
+      "location": {
+        "commune": "Vinh Thanh Van",
+        "district": "Rach Gia City",
+        "province": "Kien Giang"
+      },
+      "related_figures": [
+        "Nguyen Trung Truc"
+      ],
+      "tags": [
+        "Anti-French resistance",
+        "Military exploit"
+      ]
+    },
+    {
+      "id": "KienGiang_REV_01",
+      "year": 1932,
+      "date": null,
+      "title": "Establishment of the first Party Cell (Vinh Thuan)",
+      "description": "In Vinh Thuan Village (in the U Minh Thuong region), the first Communist Party Cell of Rach Gia Province (now Kien Giang) was established. This was a milestone marking the birth of the leadership core of the revolutionary movement in the U Minh base area.",
+      "location": {
+        "commune": "Vinh Thuan",
+        "district": "Vinh Thuan",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party establishment",
+        "U Minh Thuong"
+      ]
+    },
+    {
+      "id": "KienGiang_REV_02",
+      "year": 1945,
+      "date": "1945-08-27",
+      "title": "Seizing power in Rach Gia and Ha Tien",
+      "description": "The Vanguard Youth forces and the masses coordinated to seize the Rach Gia Governor's Palace and public offices in Ha Tien. The colonial administration collapsed, and the Provisional Administrative Committee of Rach Gia and Ha Tien provinces was established.",
+      "location": {
+        "commune": null,
+        "district": "Rach Gia, Ha Tien",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "KienGiang_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-06-01",
+      "title": "Xeo Ro Victory",
+      "description": "The 307th Battalion and the 302nd Battalion coordinated with local forces to attack and destroy the Xeo Ro stronghold (An Bien) and Tac Cau Sub-sector. This was the largest stronghold-assault battle in the West during the anti-French resistance, completely liberating An Bien District and the U Minh Thuong region.",
+      "location": {
+        "commune": "Hung Yen",
+        "district": "An Bien",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-French resistance",
+        "Victory"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_01",
+      "year": 1962,
+      "date": "1962-01-09",
+      "title": "The sacrifice of heroine Phan Thi Rang (Sister Su)",
+      "description": "Sister Phan Thi Rang (the prototype for the character Sister Su in the novel 'Hon Dat' by Anh Duc) was captured by the enemy and brutally tortured to death right at the foot of Hon Dat Mountain. Her sacrifice became a symbol of the loyalty and courage of Southern women.",
+      "location": {
+        "commune": "Tho Son",
+        "district": "Hon Dat",
+        "province": "Kien Giang"
+      },
+      "related_figures": [
+        "Phan Thi Rang"
+      ],
+      "tags": [
+        "Hero",
+        "Hon Dat"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_02",
+      "year": 1967,
+      "date": "1967-07-00",
+      "title": "Expansion of the Phu Quoc Prisoner of War Camp",
+      "description": "The US-puppet regime expanded the scale of Phu Quoc Prison (Cay Dua Prison) to 400 hectares, detaining nearly 40,000 communist prisoners of war. This place witnessed the most brutal tortures but was also the site of the most resilient prison breaks and struggles.",
+      "location": {
+        "commune": "An Thoi",
+        "district": "Phu Quoc City",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Prison",
+        "War crimes"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_03",
+      "year": 1969,
+      "date": "1969-05-00",
+      "title": "The 132-day-and-night battle at Ba Hon",
+      "description": "The soldiers and people of Hon Dat resiliently held onto the caves, fighting back against large-scale sweep operations by the US-puppet forces in the Ba Hon area (Hon Dat, Hon Me, Hon Soc) for 132 days and nights, firmly protecting the revolutionary base.",
+      "location": {
+        "commune": "Tho Son",
+        "district": "Hon Dat",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-American resistance",
+        "Combat"
+      ]
+    },
+    {
+      "id": "KienGiang_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Rach Gia and Ha Tien",
+      "description": "The provincial armed forces coordinated with the rising masses to seize the enemy's headquarters. By the afternoon of April 30, Rach Gia Town and Ha Tien Town were liberated, contributing to the completion of the cause of national reunification.",
+      "location": {
+        "commune": null,
+        "district": "Rach Gia, Ha Tien",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "KienGiang_BORDER_WAR_01",
+      "year": 1975,
+      "date": "1975-05-03",
+      "title": "Khmer Rouge troops captured Tho Chu Island",
+      "description": "Taking advantage of our newly liberated situation, Pol Pot forces landed and captured Phu Quoc Island (which was repelled by us) and Tho Chu Island. On Tho Chu, they kidnapped and massacred more than 500 innocent civilians. The People's Army of Vietnam subsequently organized a counter-attack to liberate the island (May 24, 1975).",
+      "location": {
+        "commune": "Tho Chau",
+        "district": "Phu Quoc City",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Border war",
+        "Islands"
+      ]
+    },
+    {
+      "id": "KienGiang_ADMIN_01",
+      "year": 2021,
+      "date": "2021-01-01",
+      "title": "Establishment of Phu Quoc City (The first island city)",
+      "description": "The Standing Committee of the National Assembly passed the Resolution to establish Phu Quoc City under Kien Giang Province. This is the first island city of Vietnam, marking a breakthrough in tourism economy and the nation's maritime position.",
+      "location": {
+        "commune": null,
+        "district": "Phu Quoc City",
+        "province": "Kien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Urbanization"
+      ]
+    }
+  ]
+}

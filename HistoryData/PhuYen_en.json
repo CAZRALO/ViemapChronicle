@@ -1,0 +1,199 @@
+{
+  "events": [
+    {
+      "id": "PhuYen_FOUNDING_01",
+      "year": 1611,
+      "date": null,
+      "title": "Establishment of Phu Yen Prefecture",
+      "description": "Lord Nguyen Hoang ordered Chief Van Phong to lead troops to suppress the Champa forces harassing the border. After pacification, Lord Nguyen established Phu Yen Prefecture, consisting of Dong Xuan and Tuy Hoa Districts, placed under the administration of Quang Nam Garrison.",
+      "location": {
+        "commune": "An Thach",
+        "district": "Tuy An",
+        "province": "Phu Yen"
+      },
+      "related_figures": [
+        "Nguyen Hoang",
+        "Van Phong",
+        "Luong Van Chanh"
+      ],
+      "tags": [
+        "Territorial expansion",
+        "Nguyen Lords"
+      ]
+    },
+    {
+      "id": "PhuYen_CANVUONG_01",
+      "year": 1885,
+      "date": null,
+      "title": "Le Thanh Phuong Uprising",
+      "description": "Responding to the Can Vuong edict, Le Thanh Phuong raised the banner of uprising at Mot Mountain (Tuy An) and was honored by the people as the Military Commander-in-Chief. The rebel army controlled Phu Yen Province for 2 years (1885-1887) before being suppressed by French troops.",
+      "location": {
+        "commune": "An Hiep",
+        "district": "Tuy An",
+        "province": "Phu Yen"
+      },
+      "related_figures": [
+        "Le Thanh Phuong"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "PhuYen_REV_01",
+      "year": 1930,
+      "date": "1930-10-05",
+      "title": "Establishment of the First Party Cell",
+      "description": "In Dong Be neighborhood (Phuoc Long Hamlet), the first Communist Party cell of Phu Yen Province was established with 9 party members, with Comrade Phan Luu Thanh as Secretary. This event marked a historical turning point in the local revolutionary movement.",
+      "location": {
+        "commune": "Xuan Long",
+        "district": "Dong Xuan",
+        "province": "Phu Yen"
+      },
+      "related_figures": [
+        "Phan Luu Thanh"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "PhuYen_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Tuy Hoa",
+      "description": "More than 15,000 people from all directions gathered at the Tuy Hoa Town stadium to attend a rally. The Uprising Committee declared the abolition of the colonial-feudal government and established the Provisional Revolutionary People's Committee of Phu Yen Province.",
+      "location": {
+        "commune": null,
+        "district": "Tuy Hoa City",
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "PhuYen_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-06-00",
+      "title": "Defeating Operation Atlante",
+      "description": "The army and people of Phu Yen, in coordination with the main forces of Inter-zone 5, launched a counter-offensive, completely breaking Operation Atlante (the largest French military campaign in the South Central Vietnam battlefield), completely liberating Phu Yen Province before the Geneva Accords were signed.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Victory"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_01",
+      "year": 1960,
+      "date": "1960-12-22",
+      "title": "Hoa Thinh Simultaneous Uprising",
+      "description": "Under the light of Resolution 15, the people of Hoa Thinh Commune (Tuy Hoa) rose up in unison, using sticks and spears to smash the enemy's oppressive apparatus. This was the banner-bearer of the Simultaneous Uprising movement in the plains of Zone 5.",
+      "location": {
+        "commune": "Hoa Thinh",
+        "district": "Tay Hoa",
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Simultaneous Uprising",
+        "Breaking the grip"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_02",
+      "year": 1965,
+      "date": "1965-02-15",
+      "title": "Vung Ro Event (The Numberless Ships)",
+      "description": "Ship 143 of Navy Brigade 125, carrying weapons, was detected by the enemy upon docking at Vung Ro. A fierce, unequal battle took place between the sailors, local army, and people against the US Navy, Army, and Air Force. To protect the secret, we were forced to destroy the ship. This event ended the secrecy of the Ho Chi Minh Trail at Sea.",
+      "location": {
+        "commune": "Hoa Xuan Nam",
+        "district": "Dong Hoa Town",
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Ho Chi Minh Trail at Sea",
+        "Navy"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_03",
+      "year": 1966,
+      "date": "1966-06-24",
+      "title": "Go Thi Thung Victory",
+      "description": "At the Go Thi Thung tunnel system (known as the Cu Chi of Phu Yen), the main forces of Military Region 5 and local guerrillas defeated a large-scale sweep operation by the Fierce Tiger Division (South Korea) and US troops.",
+      "location": {
+        "commune": "An Xuan",
+        "district": "Tuy An",
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against America",
+        "Tunnels"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Route 7 - Ba River Victory",
+      "description": "After the fall of Buon Ma Thuot, the puppet Army Corps 2 retreated along Route 7 (now National Highway 25) to Tuy Hoa. Our troops pursued, blocked, and completely destroyed the enemy forces in the Cung Son area and the lower Ba River, creating the 'Route 7 nightmare'.",
+      "location": {
+        "commune": "Son Ha",
+        "district": "Son Hoa",
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "1975 Spring Campaign",
+        "Pursuit"
+      ]
+    },
+    {
+      "id": "PhuYen_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-01",
+      "title": "Liberation of Phu Yen Province",
+      "description": "Army Corps 2, Division 320, and local armed forces entered to liberate Tuy Hoa Town. The liberation flag flew over Nhan Tower, and Phu Yen Province was completely cleared of enemy forces.",
+      "location": {
+        "commune": null,
+        "district": "Tuy Hoa City",
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "1975 Spring Campaign"
+      ]
+    },
+    {
+      "id": "PhuYen_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Re-establishment of Phu Yen Province",
+      "description": "The 8th National Assembly passed a Resolution to split Phu Khanh Province (which had been merged since 1975) into two provinces: Phu Yen and Khanh Hoa. Phu Yen Province officially resumed operations on July 1, 1989.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phu Yen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the Province"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "events": [
+    {
+      "id": "QuangNgai_NGUYEN_01",
+      "year": 1832,
+      "date": null,
+      "title": "Establishment of Quang Ngai Province",
+      "description": "During the major administrative reform of King Minh Mang, Quang Ngai Province was officially established on the basis of Doanh Quang Ngai. This was the milestone that shaped the provincial-level administrative boundaries of present-day Quang Ngai.",
+      "location": {
+        "commune": null,
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "QuangNgai_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-07-13",
+      "title": "Le Trung Dinh Uprising",
+      "description": "Immediately after the fall of the Hue Citadel, scholar Le Trung Dinh and patriotic scholars gathered volunteer soldiers in the Tra Khuc riverbank area, captured Quang Ngai Citadel, captured the Bo chanh and An sat alive, and established a short-lived insurgent government.",
+      "location": {
+        "commune": null,
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [
+        "Le Trung Dinh",
+        "Nguyen Tu Tan"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "QuangNgai_REV_01",
+      "year": 1930,
+      "date": "1930-03-00",
+      "title": "Establishment of the First Party Cell (Du Quang Party Cell)",
+      "description": "In Du Quang Village (now in Tu Nghia District), the first Communist Party Cell of Quang Ngai Province was established with Comrade Phan Thai At as Secretary. This event marked the beginning of the Party's leadership over the revolutionary movement in the province.",
+      "location": {
+        "commune": "Nghia Thang",
+        "district": "Tu Nghia",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [
+        "Phan Thai At"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "QuangNgai_REV_02",
+      "year": 1945,
+      "date": "1945-03-11",
+      "title": "Ba To Uprising",
+      "description": "Under the leadership of the Provisional Provincial Party Committee, the Ba To Uprising broke out and succeeded. The Ba To Guerrilla Team was established, becoming the predecessor of the Military Region 5 armed forces, famous for the slogan 'Sacrifice for the Fatherland'.",
+      "location": {
+        "commune": "Ba To",
+        "district": "Ba To",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [
+        "Pham Kiet",
+        "Nguyen Don"
+      ],
+      "tags": [
+        "Ba To Uprising",
+        "Armed Forces"
+      ]
+    },
+    {
+      "id": "QuangNgai_REV_03",
+      "year": 1945,
+      "date": "1945-08-14",
+      "title": "Seizing Power in Quang Ngai",
+      "description": "Seizing the opportunity of the Japanese surrender to the Allies, the Provincial Uprising Committee mobilized the masses to surround the Resident's Office and the Governor's Palace. By August 16, the revolutionary government had completely taken control of Quang Ngai Province (very early compared to the rest of the country).",
+      "location": {
+        "commune": null,
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_01",
+      "year": 1959,
+      "date": "1959-08-28",
+      "title": "Tra Bong and Western Quang Ngai Uprising",
+      "description": "Under the light of Resolution 15 of the Party Central Committee, the people of Tra Bong District and mountainous districts rose up to eliminate tyrants, break the enemy's grip, and seize control. This was the uprising that opened the period of armed struggle for the Southern revolution.",
+      "location": {
+        "commune": "Tra Phong",
+        "district": "Tra Bong",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dong Khoi",
+        "Resolution 15"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_02",
+      "year": 1965,
+      "date": "1965-05-31",
+      "title": "Ba Gia Victory",
+      "description": "Regiment 1 (Main Force of Military Region 5) destroyed the 51st Tactical Group of the Saigon army at the Ba Gia (Son Tinh) stronghold. This victory marked the bankruptcy of the 'Special Warfare' strategy in the Zone 5 battlefield.",
+      "location": {
+        "commune": "Tinh Son",
+        "district": "Son Tinh",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against America",
+        "Great Victory"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_03",
+      "year": 1965,
+      "date": "1965-08-18",
+      "title": "Battle of Van Tuong (Operation Starlite)",
+      "description": "The US military mobilized more than 8,000 troops with aircraft, tanks, and warships to attack Van Tuong Hamlet to destroy our main-force Regiment 1. The Liberation Army bravely fought back, breaking the operation and proving the ability to defeat the US in 'Local War'.",
+      "location": {
+        "commune": "Binh Hai",
+        "district": "Binh Son",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Van Tuong",
+        "First Battle Against the US"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_04",
+      "year": 1968,
+      "date": "1968-03-16",
+      "title": "Son My (My Lai) Massacre",
+      "description": "US soldiers from the 11th Brigade, Americal Division, committed a horrific massacre, killing 504 innocent civilians (mostly the elderly, women, and children) in My Lai Hamlet, Tinh Khe Commune. The event shocked the conscience of the world and fueled the anti-war movement.",
+      "location": {
+        "commune": "Tinh Khe",
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [],
+      "tags": [
+        "War Crimes",
+        "Son My"
+      ]
+    },
+    {
+      "id": "QuangNgai_US_WAR_05",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Liberation of Quang Ngai Province",
+      "description": "Coordinating with the Central Highlands and Hue - Da Nang battlefields, the provincial armed forces and main-force troops launched continuous attacks, forcing the enemy to flee. Quang Ngai Province was completely liberated, contributing to the overall victory of the Great Spring Victory.",
+      "location": {
+        "commune": null,
+        "district": "Quang Ngai City",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "1975 Spring Campaign"
+      ]
+    },
+    {
+      "id": "QuangNgai_ECONOMY_01",
+      "year": 1997,
+      "date": "1997-04-11",
+      "title": "Establishment of Dung Quat Economic Zone",
+      "description": "The Prime Minister signed the decision to establish Dung Quat Industrial Park (now Dung Quat Economic Zone). In 2009, Dung Quat Refinery (Vietnam's first oil refinery) here officially began commercial operations, creating an economic turning point for the province.",
+      "location": {
+        "commune": "Binh Thuan",
+        "district": "Binh Son",
+        "province": "Quang Ngai"
+      },
+      "related_figures": [
+        "Vo Van Kiet"
+      ],
+      "tags": [
+        "Economy",
+        "Industrialization"
+      ]
+    }
+  ]
+}

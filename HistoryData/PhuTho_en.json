@@ -1,0 +1,185 @@
+{
+  "events": [
+    {
+      "id": "PhuTho_EARLY_01",
+      "year": 965,
+      "date": null,
+      "title": "Kieu Cong Han defended Phong Chau",
+      "description": "During the Anarchy of the 12 Warlords, Kieu Cong Han (one of the 12 warlords) occupied and built a base in Phong Chau (present-day Viet Tri and Bach Hac areas) to contend for power, before being subjugated by Dinh Bo Linh.",
+      "location": {
+        "commune": "Bach Hac",
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      },
+      "related_figures": [
+        "Kieu Cong Han",
+        "Dinh Bo Linh"
+      ],
+      "tags": [
+        "12 warlords",
+        "Local history"
+      ]
+    },
+    {
+      "id": "PhuTho_COLONIAL_01",
+      "year": 1891,
+      "date": "1891-05-05",
+      "title": "Establishment of Phu Tho Province",
+      "description": "The Governor-General of French Indochina issued a Decree establishing Phu Tho Province by separating Son Vi, Thanh Ba, and Phu Ninh districts of Son Tay Province and Tam Nong and Thanh Son districts of Hung Hoa Province. The provincial capital was located in Phu Tho Village (present-day Phu Tho Town).",
+      "location": {
+        "commune": "Phong Chau",
+        "district": "Phu Tho Town",
+        "province": "Phu Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Province establishment"
+      ]
+    },
+    {
+      "id": "PhuTho_REV_01",
+      "year": 1939,
+      "date": null,
+      "title": "Establishment of the first Party Cell (Cat Lem Party Cell)",
+      "description": "The first Communist Party Cell of Phu Tho Province was established at Cat Lem Hill (now in Thuc Luyen Commune). This was a milestone marking the birth of the Party organization in the Ancestral Land, directly leading the revolutionary movement.",
+      "location": {
+        "commune": "Thuc Luyen",
+        "district": "Thanh Son",
+        "province": "Phu Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "PhuTho_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Phu Tho provincial capital",
+      "description": "Self-defense forces and the masses surrounded the Governor's Palace and the Civil Guard Camp in Phu Tho Town. The colonial-feudal government collapsed, and the Provisional Revolutionary Committee of Phu Tho Province officially debuted to the public.",
+      "location": {
+        "commune": null,
+        "district": "Phu Tho Town",
+        "province": "Phu Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "PhuTho_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-11-17",
+      "title": "Lo River Victory (Doan Hung)",
+      "description": "Our artillery and infantry organized an ambush at the junction of the Lo and Gam rivers (Doan Hung area), sinking French warships and canoes, breaking the pincer attack on Viet Bac, and safely protecting the resistance headquarters.",
+      "location": {
+        "commune": "Chi Dam",
+        "district": "Doan Hung",
+        "province": "Phu Tho"
+      },
+      "related_figures": [
+        "Vu Hien"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Naval battle"
+      ]
+    },
+    {
+      "id": "PhuTho_FRENCH_WAR_02",
+      "year": 1951,
+      "date": "1951-12-10",
+      "title": "Battle of Tu Vu",
+      "description": "Opening the Hoa Binh Campaign, Regiment 88 (Division 308) resiliently attacked the Tu Vu stronghold - the most heavily fortified stronghold built by the French on the Da River defense line. The Tu Vu victory cleared the inter-zone transport route.",
+      "location": {
+        "commune": "Tu Vu",
+        "district": "Thanh Thuy",
+        "province": "Phu Tho"
+      },
+      "related_figures": [
+        "Vu Lang"
+      ],
+      "tags": [
+        "Hoa Binh Campaign",
+        "Stronghold assault"
+      ]
+    },
+    {
+      "id": "PhuTho_FRENCH_WAR_03",
+      "year": 1952,
+      "date": "1952-11-17",
+      "title": "Chan Mong - Tram Than Victory",
+      "description": "During the Northwest Campaign, Regiment 36 (Division 308) organized a daring ambush in the Chan Mong - Tram Than valley, destroying the French mobile group GM4 (including tanks and infantry), shattering the plot to capture the Phu Tho rear.",
+      "location": {
+        "commune": "Tram Than",
+        "district": "Phu Ninh",
+        "province": "Phu Tho"
+      },
+      "related_figures": [
+        "Pham Hong Son"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Ambush"
+      ]
+    },
+    {
+      "id": "PhuTho_INDUSTRY_01",
+      "year": 1962,
+      "date": "1962-03-18",
+      "title": "Inauguration of Viet Tri Industrial Park",
+      "description": "Witnessed by President Ho Chi Minh, Viet Tri Industrial Park - the first industrial park of the socialist North - was inaugurated. Viet Tri became the 'City of the River Junction', a center for light industry and chemicals.",
+      "location": {
+        "commune": null,
+        "district": "Viet Tri City",
+        "province": "Phu Tho"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Economy",
+        "Industrialization"
+      ]
+    },
+    {
+      "id": "PhuTho_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Establishment of Vinh Phu Province",
+      "description": "The Standing Committee of the National Assembly issued a Resolution merging the two provinces of Phu Tho and Vinh Phuc into Vinh Phu Province. The provincial capital was located in Viet Tri City, playing an important role in providing support to the southern battlefield.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phu Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "PhuTho_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Phu Tho Province",
+      "description": "The 9th National Assembly passed a Resolution splitting Vinh Phu Province back into two provinces, Phu Tho and Vinh Phuc. Phu Tho Province officially operated under the new administrative unit from January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Phu Tho"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Province re-establishment"
+      ]
+    }
+  ]
+}

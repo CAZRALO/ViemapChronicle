@@ -1,0 +1,183 @@
+{
+  "events": [
+    {
+      "id": "HaNam_EARLY_01",
+      "year": 987,
+      "date": null,
+      "title": "Doi Son Ploughing Festival",
+      "description": "King Le Dai Hanh (Le Hoan) went to the foot of Doi Mountain to perform the Ploughing ceremony, directly ploughing the field to encourage agriculture. This was the first Ploughing festival in Vietnamese history recorded in historical books.",
+      "location": {
+        "commune": "Tien Son",
+        "district": "Duy Tien",
+        "province": "Ha Nam"
+      },
+      "related_figures": [
+        "Le Dai Hanh"
+      ],
+      "tags": [
+        "Culture",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "HaNam_TRAN_01",
+      "year": 1285,
+      "date": null,
+      "title": "Establishment of Tran Thuong Food Depot",
+      "description": "During the second resistance war against the Mongol invaders, Hung Dao Vuong Tran Quoc Tuan chose the land of Tran Thuong to establish a food depot and a strategic military base to serve the Tran Dynasty's army.",
+      "location": {
+        "commune": "Tran Hung Dao",
+        "district": "Ly Nhan",
+        "province": "Ha Nam"
+      },
+      "related_figures": [
+        "Tran Hung Dao"
+      ],
+      "tags": [
+        "Resistance war against the Mongols",
+        "Military"
+      ]
+    },
+    {
+      "id": "HaNam_COLONIAL_01",
+      "year": 1890,
+      "date": "1890-10-20",
+      "title": "Establishment of Ha Nam Province",
+      "description": "The Governor-General of French Indochina issued a Decree to establish Ha Nam Province by separating Ly Nhan Prefecture from Hanoi Province and merging some neighboring areas. The provincial capital was located in Phu Ly.",
+      "location": {
+        "commune": null,
+        "district": "Phu Ly",
+        "province": "Ha Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Establishment of the province"
+      ]
+    },
+    {
+      "id": "HaNam_REV_01",
+      "year": 1927,
+      "date": "1927-10-01",
+      "title": "The funeral of Mr. Luong Nghi Khanh",
+      "description": "The funeral of the patriot Luong Nghi Khanh in Gua Village (Liem Thuan) became a major show of force by the masses and patriotic youth of Ha Nam against the French colonialists.",
+      "location": {
+        "commune": "Liem Thuan",
+        "district": "Thanh Liem",
+        "province": "Ha Nam"
+      },
+      "related_figures": [
+        "Luong Nghi Khanh"
+      ],
+      "tags": [
+        "Patriotic movement",
+        "Politics"
+      ]
+    },
+    {
+      "id": "HaNam_REV_02",
+      "year": 1930,
+      "date": "1930-10-20",
+      "title": "The Bo De Drumbeats",
+      "description": "Responding to the Nghe Tinh Soviet movement, farmers in Bo De Commune, under the leadership of the Party, beat drums and gathered to protest, demanding tax reductions. The Bo De drumbeats shocked public opinion and shook the local ruling apparatus.",
+      "location": {
+        "commune": "Bo De",
+        "district": "Binh Luc",
+        "province": "Ha Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Nghe Tinh Soviet",
+        "Farmers"
+      ]
+    },
+    {
+      "id": "HaNam_REV_03",
+      "year": 1945,
+      "date": "1945-08-24",
+      "title": "Seizing power in Phu Ly",
+      "description": "Viet Minh forces and the masses from Thanh Liem, Kim Bang, and Binh Luc districts marched to surround the Governor's Palace and the Civil Guard Camp in Phu Ly, seizing power for the people without bloodshed.",
+      "location": {
+        "commune": null,
+        "district": "Phu Ly",
+        "province": "Ha Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "HaNam_FRENCH_WAR_01",
+      "year": 1950,
+      "date": "1950-05-18",
+      "title": "Liberation of Bau Market",
+      "description": "Regular troops coordinated with local guerrilla militia to attack and destroy the Bau Market post, an important position in the French defense system, expanding the Ly Nhan free zone.",
+      "location": {
+        "commune": null,
+        "district": "Ly Nhan",
+        "province": "Ha Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Military"
+      ]
+    },
+    {
+      "id": "HaNam_FRENCH_WAR_02",
+      "year": 1954,
+      "date": "1954-07-03",
+      "title": "Complete liberation of Ha Nam Province",
+      "description": "After the defeat at Dien Bien Phu, French troops retreated from Phu Ly and district capitals. Our troops entered to take over, and Ha Nam Province was completely cleared of enemy forces.",
+      "location": {
+        "commune": null,
+        "district": "Phu Ly",
+        "province": "Ha Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "HaNam_US_WAR_01",
+      "year": 1966,
+      "date": "1966-10-01",
+      "title": "Lam Ha artillery position (10 girls of Lam Ha)",
+      "description": "In the battle to protect Phu Ly Bridge and the vital Route 1A transport artery, the female militia platoon of Lam Ha Commune fought bravely against US aircraft. Ten female militia members heroically sacrificed their lives right at their artillery positions.",
+      "location": {
+        "commune": "Lam Ha",
+        "district": "Phu Ly",
+        "province": "Ha Nam"
+      },
+      "related_figures": [
+        "Nguyen Thi Thi",
+        "Dinh Thi Tam"
+      ],
+      "tags": [
+        "Resistance war against the US",
+        "Heroic"
+      ]
+    },
+    {
+      "id": "HaNam_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Ha Nam Province",
+      "description": "The 9th National Assembly passed a Resolution to split Nam Ha Province into two provinces: Ha Nam and Nam Dinh. Ha Nam Province was re-established and officially began operations on January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ha Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

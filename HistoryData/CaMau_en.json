@@ -1,0 +1,214 @@
+{
+  "events": [
+    {
+      "id": "CaMau_REV_01",
+      "year": 1930,
+      "date": "1930-00-00",
+      "title": "Establishment of the first Party Cell (Tan Hung)",
+      "description": "At Tan Hung Communal House (former Cai Nuoc District), the first Communist Party Cell of Ca Mau Province was established. This was a milestone marking the birth of the leadership core of the revolutionary movement in the southernmost land.",
+      "location": {
+        "commune": "Ly Van Lam",
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "CaMau_REV_02",
+      "year": 1940,
+      "date": "1940-12-13",
+      "title": "Hon Khoai Uprising",
+      "description": "Under the command of teacher Phan Ngoc Hien, revolutionary soldiers and lighthouse keepers rose up to seize Hon Khoai Island, eliminating the island chief Olivern and capturing all weapons. Although the uprising was brief, it became a heroic symbol of the Party Committee, military, and people of Ca Mau.",
+      "location": {
+        "commune": "Tan An",
+        "district": "Ngoc Hien",
+        "province": "Ca Mau"
+      },
+      "related_figures": [
+        "Phan Ngoc Hien"
+      ],
+      "tags": [
+        "Nam Ky Uprising",
+        "Symbol"
+      ]
+    },
+    {
+      "id": "CaMau_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Ca Mau",
+      "description": "The Uprising Committee mobilized the Vanguard Youth forces and the masses to surround the Ca Mau District Palace. The district chief surrendered and handed over power. The Provisional Administrative Committee of Ca Mau District (under the former Bac Lieu Province) was established.",
+      "location": {
+        "commune": null,
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "CaMau_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-02-00",
+      "title": "Establishing the Tan Hung Front",
+      "description": "To prevent French troops from Bac Lieu from advancing to capture Ca Mau, our military and people established the Tan Hung Front defense line. The battle to hold back the enemy here was fierce, ensuring the safe retreat of the headquarters to the U Minh forest for a long-term resistance.",
+      "location": {
+        "commune": "Thanh Phu",
+        "district": "Cai Nuoc",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Front"
+      ]
+    },
+    {
+      "id": "CaMau_FRENCH_WAR_02",
+      "year": 1954,
+      "date": "1954-07-00",
+      "title": "The Regrouping to the North Event (Ong Doc River Mouth)",
+      "description": "After the Geneva Accords, Ca Mau was the 200-day regrouping zone for the Southern resistance forces (CM8 Regrouping Zone) to transfer troops to the North. The Ong Doc River Mouth and Chac Bang were emotional, historic send-off points for tens of thousands of Southern officers and soldiers.",
+      "location": {
+        "commune": "Song Doc",
+        "district": "Tran Van Thoi",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Geneva Accords",
+        "Regrouping"
+      ]
+    },
+    {
+      "id": "CaMau_US_WAR_01",
+      "year": 1962,
+      "date": "1962-10-16",
+      "title": "Opening Vam Lung Wharf (Ho Chi Minh Trail at Sea)",
+      "description": "The vessel 'Phuong Dong 1' carrying weapons from the North safely docked at Vam Lung. From then on, Vam Lung (Rach Goc) became the most important strategic port at the end of the Fatherland, receiving weapons to support the Southern battlefield throughout the resistance war.",
+      "location": {
+        "commune": "Tan An",
+        "district": "Ngoc Hien",
+        "province": "Ca Mau"
+      },
+      "related_figures": [
+        "Bong Van Dia"
+      ],
+      "tags": [
+        "Ho Chi Minh Trail at Sea",
+        "Logistics"
+      ]
+    },
+    {
+      "id": "CaMau_US_WAR_02",
+      "year": 1963,
+      "date": "1963-11-23",
+      "title": "Dam Doi - Cai Nuoc - Cha La Victory",
+      "description": "Military Region 9 and Ca Mau Province organized simultaneous attacks on the two sub-sectors of Dam Doi and Cai Nuoc, and the Cha La outpost. Our forces destroyed a large number of enemy troops and shot down many aircraft. This victory dealt a fatal blow to the US 'heliborne' tactic and the national policy of 'Strategic Hamlets'.",
+      "location": {
+        "commune": null,
+        "district": "Dam Doi, Cai Nuoc",
+        "province": "Ca Mau"
+      },
+      "related_figures": [
+        "Pham Ngoc Hung"
+      ],
+      "tags": [
+        "Resistance War Against the US",
+        "Great Victory"
+      ]
+    },
+    {
+      "id": "CaMau_US_WAR_03",
+      "year": 1970,
+      "date": null,
+      "title": "Sinking the Floating Fleet on the Cua Lon River",
+      "description": "The US deployed a 'small fleet' on the rivers to pacify the Ca Mau waterways. The 'vessel-hunting team' of the Ca Mau military and people creatively developed various combat methods (mines, shelling), sinking and burning hundreds of enemy warships on the Cua Lon - Nam Can river route, bankrupting the Floating Fleet tactic.",
+      "location": {
+        "commune": "Nam Can",
+        "district": "Nam Can",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the US",
+        "Vessel Hunting"
+      ]
+    },
+    {
+      "id": "CaMau_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Ca Mau Province",
+      "description": "On the morning of April 30, the provincial armed forces attacked Ca Mau Town. The Governor of Ca Mau surrendered. The liberation flag flew over the Governor's Palace at 9:00 AM. Ca Mau was one of the earliest provinces in the West to be liberated on April 30.",
+      "location": {
+        "commune": null,
+        "district": "Ca Mau City",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "CaMau_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Ca Mau Province",
+      "description": "The 9th National Assembly passed a Resolution to split Minh Hai Province (merged since 1976) into two provinces: Bac Lieu and Ca Mau. Ca Mau Province officially began operations on January 1, 1997, starting a phase of marine economic development and the gas-power-fertilizer industry.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ]
+    },
+    {
+      "id": "CaMau_ECONOMY_01",
+      "year": 2002,
+      "date": "2002-04-00",
+      "title": "Groundbreaking of the Ca Mau Gas - Power - Fertilizer Industrial Complex",
+      "description": "The Government decided to invest in building the Gas - Power - Fertilizer Industrial Complex in Khanh An (U Minh), using gas from the PM3 field. This is a key national industrial project, turning Ca Mau into a major energy and fertilizer hub for the whole country.",
+      "location": {
+        "commune": "Khanh An",
+        "district": "U Minh",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Industrialization"
+      ]
+    },
+    {
+      "id": "CaMau_CULTURE_01",
+      "year": 2009,
+      "date": "2009-05-26",
+      "title": "Mui Ca Mau National Park Recognized by UNESCO",
+      "description": "UNESCO officially recognized Mui Ca Mau National Park and U Minh Ha National Park as World Biosphere Reserves. This is international recognition for the unique mangrove and melaleuca forest ecosystems of the cape land.",
+      "location": {
+        "commune": "Dat Mui",
+        "district": "Ngoc Hien",
+        "province": "Ca Mau"
+      },
+      "related_figures": [],
+      "tags": [
+        "Environment",
+        "UNESCO Heritage"
+      ]
+    }
+  ]
+}

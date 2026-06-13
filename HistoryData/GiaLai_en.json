@@ -1,0 +1,152 @@
+{
+  "events": [
+    {
+      "id": "GiaLai_TAYSON_01",
+      "year": 1771,
+      "date": null,
+      "title": "Establishing the Tay Son Thuong Dao base",
+      "description": "The three brothers Nguyen Nhac, Nguyen Hue, and Nguyen Lu chose the land of An Khe (Tay Son Thuong Dao) as their first base to recruit insurgent troops, practice martial arts, and store provisions before advancing down to the plains.",
+      "location": {
+        "commune": null,
+        "district": "An Khe",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Nguyen Nhac",
+        "Nguyen Hue",
+        "Nguyen Lu"
+      ],
+      "tags": [
+        "Tay Son",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "GiaLai_REV_01",
+      "year": 1946,
+      "date": "1946-04-19",
+      "title": "Congress of Southern Ethnic Minorities",
+      "description": "The Congress of Solidarity of Southern Ethnic Minorities was held in Pleiku. Here, a letter from President Ho Chi Minh to the Congress was announced, affirming the policy of national solidarity.",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Politics",
+        "National solidarity"
+      ]
+    },
+    {
+      "id": "GiaLai_FRENCH_01",
+      "year": 1954,
+      "date": "1954-06-24",
+      "title": "Dak Po - Mang Yang Victory",
+      "description": "Regiment 96 of the Viet Minh army ambushed and destroyed Mobile Group 100 (GM100) - an elite French force on its retreat from An Khe to Pleiku via Mang Yang Pass.",
+      "location": {
+        "commune": "Dak Po",
+        "district": "Dak Po",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Nguyen Minh Chau"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Military"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_01",
+      "year": 1965,
+      "date": "1965-02-07",
+      "title": "Attack on Pleiku Airfield (Camp Holloway)",
+      "description": "The Liberation Army of South Vietnam attacked the US advisor base and Pleiku Airfield (Camp Holloway), causing heavy damage to the US Air Force. This event served as a pretext for the US to launch the destructive war against the North (Operation Rolling Thunder).",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Military"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_02",
+      "year": 1965,
+      "date": "1965-11-14",
+      "title": "Plei Me Campaign - Battle of Ia Drang",
+      "description": "The first major direct clash between the main forces of the People's Army of Vietnam and the US Army's air cavalry in the Ia Drang Valley, near the Cambodian border.",
+      "location": {
+        "commune": "Ia Mo",
+        "district": "Chu Prong",
+        "province": "Gia Lai"
+      },
+      "related_figures": [
+        "Nguyen Huu An",
+        "Hal Moore"
+      ],
+      "tags": [
+        "Resistance war against the US",
+        "Military",
+        "Ia Drang"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-30",
+      "title": "The Mau Than Offensive and Uprising in Gia Lai",
+      "description": "The armed forces of Gia Lai Province simultaneously attacked the headquarters of the Saigon government and the US military in Pleiku Town, briefly occupying the radio station and Pleiku prison.",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Mau Than 1968",
+        "Urban"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-16",
+      "title": "Route 7 - Bo River Victory (The Cheo Reo Retreat)",
+      "description": "After losing Buon Ma Thuot, the II Corps of the Republic of Vietnam fled along Route 7 (now National Highway 25). The Liberation Army intercepted and destroyed most of the enemy forces in the Cheo Reo - Phu Bon area.",
+      "location": {
+        "commune": null,
+        "district": "Ayun Pa",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Central Highlands Campaign",
+        "Great Spring Victory"
+      ]
+    },
+    {
+      "id": "GiaLai_US_WAR_05",
+      "year": 1975,
+      "date": "1975-03-17",
+      "title": "Liberation of Pleiku Town",
+      "description": "Under pressure from the Central Highlands Campaign, the Saigon army fled Pleiku. The Liberation Army entered to take over the town, raising the flag on the Provincial Administration Building, marking the complete liberation of Gia Lai Province.",
+      "location": {
+        "commune": null,
+        "district": "Pleiku",
+        "province": "Gia Lai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Great Spring Victory"
+      ]
+    }
+  ]
+}

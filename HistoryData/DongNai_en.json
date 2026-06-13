@@ -1,0 +1,209 @@
+{
+  "events": [
+    {
+      "id": "DongNai_FOUNDING_01",
+      "year": 1698,
+      "date": null,
+      "title": "Nguyen Huu Canh inspected Dong Nai",
+      "description": "Commander Nguyen Huu Canh obeyed the orders of Lord Nguyen Phuc Chu to inspect the land of Dong Nai, establishing Gia Dinh Prefecture, which included Phuoc Long District (Tran Bien Garrison - present-day Dong Nai) and Tan Binh District (Phien Tran Garrison - Saigon). This was the milestone that birthed the Southern region onto the administrative map of Vietnam.",
+      "location": {
+        "commune": "Hiep Hoa",
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Nguyen Huu Canh",
+        "Tran Thuong Xuyen"
+      ],
+      "tags": [
+        "Land reclamation",
+        "Nguyen Lords"
+      ]
+    },
+    {
+      "id": "DongNai_REV_01",
+      "year": 1935,
+      "date": "1935-02-00",
+      "title": "Establishment of the Binh Phuoc - Tan Trieu Party Cell",
+      "description": "In Binh Phuoc Village (now in Tan Binh Commune), the first Communist Party Cell of Bien Hoa Province was established. This was the core leadership of the revolutionary movement in Bien Hoa during its infancy.",
+      "location": {
+        "commune": "Tan Binh",
+        "district": "Vinh Cuu",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Hoang Minh Chau"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "DongNai_REV_02",
+      "year": 1945,
+      "date": "1945-08-27",
+      "title": "Seizing power in Bien Hoa",
+      "description": "About 10,000 people from Chau Thanh and Long Thanh districts and factory workers gathered at Song Pho Square to attend a rally. Province Chief Nguyen Ba Thuoc was forced to hand over the official seal. The Provisional Revolutionary People's Committee of Bien Hoa Province made its debut to the public.",
+      "location": {
+        "commune": null,
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Hoang Minh Chau"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "DongNai_FRENCH_WAR_01",
+      "year": 1946,
+      "date": "1946-01-01",
+      "title": "Establishment of War Zone D",
+      "description": "War Zone D was established, encompassing the rugged mountainous and forested area north of the Dong Nai River (in Vinh Cuu, Dong Nai and Tan Uyen, Binh Duong). This was a legendary resistance base, the 'resistance capital' of the Southeast region.",
+      "location": {
+        "commune": "Ma Dao",
+        "district": "Vinh Cuu",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Huynh Van Nghe"
+      ],
+      "tags": [
+        "Resistance base",
+        "War Zone D"
+      ]
+    },
+    {
+      "id": "DongNai_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-03-01",
+      "title": "The La Nga Ambush",
+      "description": "Detachment 10 and Allied Force 17 organized an ambush against a French military convoy on National Route 20 (near La Nga Bridge). Our forces destroyed 59 vehicles and killed 150 enemy troops (including Colonel De Serigne and many high-ranking officers). This victory resonated across the country.",
+      "location": {
+        "commune": "Phu Ngoc",
+        "district": "Dinh Quan",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Huynh Van Nghe"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Road warfare"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_01",
+      "year": 1959,
+      "date": "1959-07-07",
+      "title": "The Nha Xanh Attack (The first battle against the US)",
+      "description": "Bien Hoa sappers boldly attacked Nha Xanh (the headquarters of the US Military Assistance Advisory Group - MAAG) in Bien Hoa, killing 2 US advisors. This is considered the first battle to eliminate US soldiers on the Southern battlefield, signaling the failure of the 'Americanization' of the war policy.",
+      "location": {
+        "commune": "Thong Nhat",
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Nam Hoa"
+      ],
+      "tags": [
+        "Resistance war against the US",
+        "First battle eliminating US troops"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_02",
+      "year": 1964,
+      "date": "1964-10-31",
+      "title": "Attack on Bien Hoa Airbase",
+      "description": "The Regional Artillery Group (U80) secretly launched a heavy bombardment on Bien Hoa Airbase - a strategic US airbase. The attack destroyed and damaged 59 aircraft, killed and wounded nearly 300 enemy troops, shocking the Pentagon.",
+      "location": {
+        "commune": null,
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Luong Van Nho"
+      ],
+      "tags": [
+        "Resistance war against the US",
+        "Sappers"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Offensive (Bien Hoa - Long Binh Front)",
+      "description": "The Liberation Army simultaneously attacked key targets: Bien Hoa Airbase, Long Binh Depot, the III Corps Headquarters... At Long Binh Depot, our sappers destroyed the largest US ammunition depot in the South, causing massive explosions and fires for several days.",
+      "location": {
+        "commune": "Long Binh",
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Long Binh Depot"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-21",
+      "title": "Xuan Loc Victory (Smashing the 'Steel Gate')",
+      "description": "After 12 days and nights of fierce fighting (April 9 - April 21), the regular 4th Corps smashed the enemy's most fortified defense line at Xuan Loc - Long Khanh (the 'Steel Gate' protecting Saigon from the East). This victory shook the Saigon regime, opening the way for the main army to advance to the Independence Palace.",
+      "location": {
+        "commune": null,
+        "district": "Long Khanh City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [
+        "Hoang Cam",
+        "Le Minh Dao"
+      ],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Historic victory"
+      ]
+    },
+    {
+      "id": "DongNai_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Bien Hoa",
+      "description": "On the morning of April 30, the 2nd Corps and local forces attacked and completely liberated Bien Hoa City, capturing Bien Hoa Airbase and the puppet III Corps Headquarters, smashing the final defense line at the northeastern gateway to Saigon.",
+      "location": {
+        "commune": null,
+        "district": "Bien Hoa City",
+        "province": "Dong Nai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Ho Chi Minh Campaign"
+      ]
+    },
+    {
+      "id": "DongNai_CULTURE_01",
+      "year": 2001,
+      "date": "2001-11-10",
+      "title": "Cat Tien National Park recognized by UNESCO",
+      "description": "UNESCO recognized Cat Tien National Park as a World Biosphere Reserve (the 411th). This is one of the most important nature reserves in Vietnam with rich flora and fauna, where the last population of the one-horned Javan rhinoceros was once discovered.",
+      "location": {
+        "commune": "Nam Cat Tien",
+        "district": "Tan Phu",
+        "province": "Dong Nai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Environment",
+        "UNESCO Heritage"
+      ]
+    }
+  ]
+}

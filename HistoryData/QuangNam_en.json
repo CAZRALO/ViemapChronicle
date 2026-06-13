@@ -1,0 +1,205 @@
+{
+  "events": [
+    {
+      "id": "QuangNam_NGUYEN_01",
+      "year": 1602,
+      "date": null,
+      "title": "Establishment of Dinh Quang Nam",
+      "description": "Lord Tien Nguyen Hoang changed the Quang Nam garrison into Dinh Quang Nam, considering this a 'strategic military land', the most crucial position to expand the territory southward. He sent his son, Nguyen Phuc Nguyen (Sai Vuong), to govern it.",
+      "location": {
+        "commune": "Duy Phuoc",
+        "district": "Duy Xuyen",
+        "province": "Quang Nam"
+      },
+      "related_figures": [
+        "Nguyen Hoang",
+        "Nguyen Phuc Nguyen"
+      ],
+      "tags": [
+        "Nguyen Lords",
+        "Administration"
+      ]
+    },
+    {
+      "id": "QuangNam_COLONIAL_01",
+      "year": 1908,
+      "date": "1908-03-11",
+      "title": "Anti-tax movement (Central Vietnam popular uprising)",
+      "description": "Originating from the protest of farmers in Dai Loc District demanding tax reductions, the movement spread throughout Quang Nam and the provinces of Central Vietnam. This was the peak of the Duy Tan movement, demonstrating the indomitable fighting spirit of the people of the Quang region.",
+      "location": {
+        "commune": "Dai Nghia",
+        "district": "Dai Loc",
+        "province": "Quang Nam"
+      },
+      "related_figures": [
+        "Phan Chau Trinh",
+        "Huynh Thuc Khang",
+        "Tran Quy Cap"
+      ],
+      "tags": [
+        "Duy Tan Movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "QuangNam_REV_01",
+      "year": 1930,
+      "date": "1930-03-28",
+      "title": "Establishment of the Quang Nam Provincial Party Committee",
+      "description": "In the Cay Thong forest (near Hoi An), the Quang Nam Provincial Party Committee of the Communist Party of Vietnam was established. This was a historical milestone, marking a qualitative shift in the local revolutionary movement under the leadership of the Party.",
+      "location": {
+        "commune": "Tan An",
+        "district": "Hoi An",
+        "province": "Quang Nam"
+      },
+      "related_figures": [
+        "Phan Van Dinh"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "QuangNam_REV_02",
+      "year": 1945,
+      "date": "1945-08-18",
+      "title": "Seizing power in Hoi An",
+      "description": "The insurgent forces of Hoi An Town and neighboring districts seized the Resident's Office, the Civil Guard post, and the Quang Nam Provincial Governor's Office (located in Hoi An). Quang Nam became one of the first four provinces in the country to seize power during the August Revolution.",
+      "location": {
+        "commune": null,
+        "district": "Hoi An",
+        "province": "Quang Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "QuangNam_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-07-20",
+      "title": "Bo Bo Victory",
+      "description": "Companies 15 and 16, along with local guerrillas, launched a surprise attack on the French stronghold of Bo Bo, killing and capturing nearly 300 enemy troops. This victory was likened to a 'Dien Bien Phu' on the Quang Nam battlefield, contributing to forcing France to sign the Geneva Accords.",
+      "location": {
+        "commune": "Dien Tien",
+        "district": "Dien Ban",
+        "province": "Quang Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Victory"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_01",
+      "year": 1965,
+      "date": "1965-05-26",
+      "title": "Battle of Nui Thanh (The first battle against the US)",
+      "description": "Company 2 (Battalion 70) and the provincial sappers boldly attacked Company 2 of the US Marine Corps on Nui Thanh Hill. The victory answered the question 'Can we fight the US?', initiating the movement 'Search for the US to fight, search for the puppets to destroy', and earning Quang Nam the title 'Loyal, brave, resilient, leading in destroying the US'.",
+      "location": {
+        "commune": "Tam Nghia",
+        "district": "Nui Thanh",
+        "province": "Quang Nam"
+      },
+      "related_figures": [
+        "Vo Nhu Hung"
+      ],
+      "tags": [
+        "Resistance war against the US",
+        "First battle defeating the US"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_02",
+      "year": 1968,
+      "date": "1968-05-12",
+      "title": "Kham Duc - Ngok Tavak Victory",
+      "description": "Division 2 (Military Region 5) attacked and captured the Kham Duc military sub-sector and district headquarters - a fortified stronghold of the US Special Forces blocking the Ho Chi Minh Trail. This was the first district headquarters in the South to be completely liberated.",
+      "location": {
+        "commune": "Kham Duc",
+        "district": "Phuoc Son",
+        "province": "Quang Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Liberation of the district headquarters"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_03",
+      "year": 1974,
+      "date": "1974-08-07",
+      "title": "Thuong Duc Victory",
+      "description": "Division 304 and local armed forces attacked and liberated the Thuong Duc military sub-sector - the 'Steel Gate' protecting Da Nang. This victory was of strategic significance, helping the Politburo accurately assess the balance of forces to make the decision to liberate the South in 1975.",
+      "location": {
+        "commune": "Dai Lanh",
+        "district": "Dai Loc",
+        "province": "Quang Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pre-1975 Campaign",
+        "Military"
+      ]
+    },
+    {
+      "id": "QuangNam_US_WAR_04",
+      "year": 1975,
+      "date": "1975-03-24",
+      "title": "Liberation of Tam Ky Town",
+      "description": "During the Hue - Da Nang Campaign, the regular forces of Military Region 5 coordinated with local forces to launch a fierce attack on the enemy's stronghold in Tam Ky. By 10:30 AM, the 'determined to fight and win' flag flew over the roof of the Quang Tin Provincial Governor's Office, completely liberating Quang Nam Province.",
+      "location": {
+        "commune": null,
+        "district": "Tam Ky",
+        "province": "Quang Nam"
+      },
+      "related_figures": [
+        "Chu Huy Man",
+        "Vo Chi Cong"
+      ],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "QuangNam_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Quang Nam Province",
+      "description": "The 9th National Assembly passed a Resolution to split Quang Nam - Da Nang Province into Da Nang City under central authority and Quang Nam Province. Quang Nam Province officially operated under the new administrative unit from January 1, 1997, with its provincial capital located in Tam Ky.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quang Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    },
+    {
+      "id": "QuangNam_CULTURE_01",
+      "year": 1999,
+      "date": "1999-12-04",
+      "title": "Hoi An and My Son recognized as World Heritage Sites by UNESCO",
+      "description": "At the conference in Morocco, UNESCO officially recognized Hoi An Ancient Town and My Son Sanctuary as World Cultural Heritage Sites. This event affirmed the immense historical and cultural value of the land of Quang Nam on the world map.",
+      "location": {
+        "commune": null,
+        "district": "Hoi An, Duy Xuyen",
+        "province": "Quang Nam"
+      },
+      "related_figures": [],
+      "tags": [
+        "Culture",
+        "World Heritage"
+      ]
+    }
+  ]
+}

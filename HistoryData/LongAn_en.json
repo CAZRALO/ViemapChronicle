@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": "LongAn_RESISTANCE_01",
+      "year": 1861,
+      "date": "1861-12-10",
+      "title": "The Nhut Tao Fire (Burning of the L'Espérance)",
+      "description": "Nguyen Trung Truc's insurgent army organized a daring ambush, burning the French warship L'Espérance (Hope) anchored at the Nhut Tao river mouth. This was the first sinking of a Western warship in Vietnam's history of resistance against foreign invasion, greatly inspiring the military and people nationwide.",
+      "location": {
+        "commune": "An Nhut Tan",
+        "district": "Tan Tru",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Nguyen Trung Truc"
+      ],
+      "tags": [
+        "Anti-French Resistance",
+        "Military Exploit"
+      ]
+    },
+    {
+      "id": "LongAn_REV_01",
+      "year": 1930,
+      "date": "1930-03-06",
+      "title": "Establishment of the First Communist Party Cell (Duc Hoa)",
+      "description": "In Duc Hoa Village, Comrade Vo Van Tan convened a secret meeting to establish the first Communist Party Cell of Cho Lon Province (now part of Long An). This event turned Duc Hoa into a revolutionary cradle and a leading banner in the province's struggle movements.",
+      "location": {
+        "commune": "Duc Hoa Thuong",
+        "district": "Duc Hoa",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Vo Van Tan"
+      ],
+      "tags": [
+        "Founding of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "LongAn_REV_02",
+      "year": 1945,
+      "date": "1945-08-21",
+      "title": "Seizing Power in Tan An",
+      "description": "The Tan An Provincial Party Committee seized the opportunity, leading the masses and the Vanguard Youth force to capture the Governor's Palace and public offices. Tan An was one of the earliest provinces to seize power in the South during the August Revolution, creating momentum for the Saigon uprising.",
+      "location": {
+        "commune": null,
+        "district": "Tan An City",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Nguyen Van Trong"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "LongAn_FRENCH_WAR_01",
+      "year": 1948,
+      "date": "1948-08-16",
+      "title": "Battle of Moc Hoa",
+      "description": "Battalion 307 and Regiment 120 organized an assault on the post and destroyed reinforcements in Moc Hoa (Dong Thap Muoi region). Our forces eliminated post commander Louis Bertrand and captured hundreds of soldiers. This victory expanded the Dong Thap Muoi base area, connecting the strategic East-West Southern corridor.",
+      "location": {
+        "commune": null,
+        "district": "Kien Tuong Town",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Dong Thap Muoi"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_01",
+      "year": 1963,
+      "date": "1963-11-22",
+      "title": "Hiep Hoa Victory",
+      "description": "The armed forces of Long An Province attacked the Hiep Hoa Commando Training Center - one of the 'backbones' of the Special Warfare strategy. This was the first battle in the South where our forces completely wiped out a sub-sector and a large commando training camp commanded by US advisors.",
+      "location": {
+        "commune": "Hiep Hoa",
+        "district": "Duc Hoa",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the US",
+        "Destroying Strategic Hamlets"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_02",
+      "year": 1967,
+      "date": "1967-09-17",
+      "title": "Awarded the Title 'Loyal and Brave, Resilient...'",
+      "description": "At the Congress of Heroes and Emulation Soldiers of the South, the Central Committee of the National Liberation Front for South Vietnam awarded the military and people of Long An eight golden words: 'Loyal and Brave, Resilient, Entire People Fighting the Enemy' for their achievements in defending the gateway corridor to Saigon.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Title",
+        "History"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_03",
+      "year": 1972,
+      "date": "1972-05-11",
+      "title": "The Stronghold Attack on Duc Hue Sub-sector",
+      "description": "During the Nguyen Hue Campaign, Division 5 and the military and people of Long An besieged and attacked the Duc Hue sub-sector, breaking the enemy's border defense line and expanding the strategic transport corridor from the Cambodian border to the Mekong Delta.",
+      "location": {
+        "commune": null,
+        "district": "Duc Hue",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Fiery Red Summer",
+        "Military"
+      ]
+    },
+    {
+      "id": "LongAn_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Tan An - Cutting off National Route 4",
+      "description": "Corps 232 (Southwestern Wing) coordinated with local forces to attack and liberate Tan An Town and surrounding districts, executing the strategic mission of cutting off National Route 4 (now National Highway 1A) to prevent the puppet Army Corps 4 from moving up from the West to reinforce Saigon.",
+      "location": {
+        "commune": null,
+        "district": "Tan An City",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Le Duc Anh"
+      ],
+      "tags": [
+        "Ho Chi Minh Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "LongAn_BORDER_WAR_01",
+      "year": 1978,
+      "date": null,
+      "title": "Fighting to Defend the Southwestern Border (Long Khot Post)",
+      "description": "Pol Pot forces crossed the Long An border, committing numerous atrocities. Officers and soldiers of the Long Khot Border Post resiliently held their ground, repelling multiple large-scale enemy attacks and firmly defending the sacred territorial sovereignty.",
+      "location": {
+        "commune": "Thai Binh Trung",
+        "district": "Vinh Hung",
+        "province": "Long An"
+      },
+      "related_figures": [
+        "Vu Xuan Sinh"
+      ],
+      "tags": [
+        "Border War",
+        "Defending the Fatherland"
+      ]
+    },
+    {
+      "id": "LongAn_ECONOMY_01",
+      "year": 2016,
+      "date": "2016-09-00",
+      "title": "Inauguration of Long An International Port",
+      "description": "Long An International Port officially entered Phase 1 operation. This is an important driving force project, marking Long An's transformation from a purely agricultural province to strong development in industry and logistics, becoming a cargo transit hub for the Mekong Delta.",
+      "location": {
+        "commune": "Tan Tap",
+        "district": "Can Giuoc",
+        "province": "Long An"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Industrialization"
+      ]
+    }
+  ]
+}

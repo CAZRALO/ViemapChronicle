@@ -1,0 +1,208 @@
+{
+  "events": [
+    {
+      "id": "BacNinh_LY_01",
+      "year": 1009,
+      "date": null,
+      "title": "Ly Cong Uan ascends the throne",
+      "description": "Ly Cong Uan, a native of Co Phap Village (now in Tu Son, Bac Ninh), ascended the throne as Emperor under the title Ly Thai To, founding the Ly Dynasty and ushering in a long period of prosperity for the country.",
+      "location": {
+        "commune": "Dinh Bang",
+        "district": "Tu Son",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [
+        "Ly Thai To",
+        "Zen Master Van Hanh"
+      ],
+      "tags": [
+        "Ly Dynasty",
+        "Politics"
+      ]
+    },
+    {
+      "id": "BacNinh_LY_02",
+      "year": 1057,
+      "date": null,
+      "title": "Construction of Phat Tich Pagoda",
+      "description": "King Ly Thanh Tong ordered the construction of Phat Tich Pagoda (Van Phuc Pagoda) and a precious stupa on Lan Kha Mountain. This was a major Buddhist cultural center of Dai Viet at that time.",
+      "location": {
+        "commune": "Phat Tich",
+        "district": "Tien Du",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [
+        "Ly Thanh Tong",
+        "Y Lan"
+      ],
+      "tags": [
+        "Buddhism",
+        "Culture",
+        "Architecture"
+      ]
+    },
+    {
+      "id": "BacNinh_LY_03",
+      "year": 1077,
+      "date": null,
+      "title": "The battle on the Nhu Nguyet River defense line",
+      "description": "Commander-in-Chief Ly Thuong Kiet led the army and people of Dai Viet to defeat the Song invaders on the banks of the Nhu Nguyet River (Cau River). Here, the poem 'Nam quoc son ha' resounded as the first declaration of independence.",
+      "location": {
+        "commune": "Tam Giang",
+        "district": "Yen Phong",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [
+        "Ly Thuong Kiet",
+        "Guo Kui"
+      ],
+      "tags": [
+        "Resistance war against the Song",
+        "Military"
+      ]
+    },
+    {
+      "id": "BacNinh_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Establishment of Bac Ninh Province",
+      "description": "During the administrative reforms of King Minh Mang, Kinh Bac Town was renamed Bac Ninh Province. This was one of the first 13 provinces established in Tonkin.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Bac Ninh"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "BacNinh_COLONIAL_01",
+      "year": 1884,
+      "date": "1884-03-12",
+      "title": "French capture of Bac Ninh Citadel",
+      "description": "French troops led by General Millot launched a major attack on Bac Ninh Citadel. The Nguyen Dynasty and Black Flag forces were defeated, and Bac Ninh Citadel fell to the French colonialists.",
+      "location": {
+        "commune": "Ve An",
+        "district": "Bac Ninh",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [
+        "Millot"
+      ],
+      "tags": [
+        "Anti-French resistance",
+        "Military"
+      ]
+    },
+    {
+      "id": "BacNinh_REV_01",
+      "year": 1929,
+      "date": "1929-07-01",
+      "title": "Establishment of the Bac Ninh Indochinese Communist Party Committee",
+      "description": "At Hong Van Mountain (Lim Mountain), the Bac Ninh - Bac Giang Indochinese Communist Party Committee was established, marking an important development in the revolutionary movement of the Kinh Bac region.",
+      "location": {
+        "commune": "Van Tuong",
+        "district": "Tien Du",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [
+        "Ngo Gia Tu",
+        "Nguyen Van Cu"
+      ],
+      "tags": [
+        "Communist Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "BacNinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-20",
+      "title": "Seizing power in Bac Ninh provincial capital",
+      "description": "The Uprising Committee ordered the attack, and the masses from the districts flocked to Bac Ninh Town, disarming the Civil Guard, occupying the Resident's Office, and seizing power for the people.",
+      "location": {
+        "commune": null,
+        "district": "Bac Ninh",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "BacNinh_FR_WAR_01",
+      "year": 1949,
+      "date": "1949-04-01",
+      "title": "The battle against the raid in Dinh Bang Village",
+      "description": "The guerrillas and people of Dinh Bang fought resiliently, using a secret underground tunnel system to resist large-scale French sweeps, preserving their forces and inflicting casualties on the enemy.",
+      "location": {
+        "commune": "Dinh Bang",
+        "district": "Tu Son",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Guerrilla"
+      ]
+    },
+    {
+      "id": "BacNinh_FR_WAR_02",
+      "year": 1954,
+      "date": "1954-08-08",
+      "title": "Liberation of Bac Ninh Province",
+      "description": "Following the defeat at Dien Bien Phu and the signing of the Geneva Accords, French troops withdrew from Bac Ninh Town. Regular troops and the people entered to take over, and Bac Ninh Province was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "Bac Ninh",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Victory"
+      ]
+    },
+    {
+      "id": "BacNinh_US_WAR_01",
+      "year": 1967,
+      "date": null,
+      "title": "Fighting to defend Dap Cau Bridge",
+      "description": "The army and people of Bac Ninh coordinated with air defense forces to fight fiercely to defend Dap Cau Bridge (a vital transportation artery) against destructive bombing raids by the US Air Force.",
+      "location": {
+        "commune": "Dap Cau",
+        "district": "Bac Ninh",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Air defense"
+      ]
+    },
+    {
+      "id": "BacNinh_US_WAR_02",
+      "year": 1972,
+      "date": "1972-12-29",
+      "title": "The Hoa Loc female militia battleground shooting down US aircraft",
+      "description": "During the Dien Bien Phu in the Air campaign, militia and guerrilla forces of Tien Son and Yen Phong districts coordinated to shoot down US aircraft, contributing to the common victory of the army and people of the North.",
+      "location": {
+        "commune": null,
+        "district": "Tien Du",
+        "province": "Bac Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against America",
+        "Militia and Self-Defense Forces"
+      ]
+    }
+  ]
+}

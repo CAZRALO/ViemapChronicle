@@ -1,0 +1,274 @@
+{
+  "events": [
+    {
+      "id": "Hanoi_LY_01",
+      "year": 1010,
+      "date": null,
+      "title": "Moving the capital to Thang Long",
+      "description": "King Ly Thai To issued the Royal Decree on the Transfer of the Capital, moving the capital of Dai Co Viet from Hoa Lu (Ninh Binh) to Dai La Citadel and renaming it Thang Long, ushering in a brilliant period of development for the Thang Long - Hanoi capital.",
+      "location": {
+        "commune": null,
+        "district": "Ba Dinh",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Ly Thai To"
+      ],
+      "tags": [
+        "Ly Dynasty",
+        "Capital relocation",
+        "Capital city"
+      ]
+    },
+    {
+      "id": "Hanoi_LY_02",
+      "year": 1070,
+      "date": null,
+      "title": "Construction of the Temple of Literature",
+      "description": "King Ly Thanh Tong ordered the construction of the Temple of Literature to worship Confucius and the ancient sages, marking the feudal court's high regard for Confucianism and education.",
+      "location": {
+        "commune": "Quoc Tu Giam",
+        "district": "Dong Da",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Ly Thanh Tong"
+      ],
+      "tags": [
+        "Education",
+        "Culture",
+        "Ly Dynasty"
+      ]
+    },
+    {
+      "id": "Hanoi_LY_03",
+      "year": 1076,
+      "date": null,
+      "title": "Establishment of Quoc Tu Giam",
+      "description": "King Ly Nhan Tong established Quoc Tu Giam right next to the Temple of Literature, which is considered the first university of Vietnam.",
+      "location": {
+        "commune": "Quoc Tu Giam",
+        "district": "Dong Da",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Ly Nhan Tong"
+      ],
+      "tags": [
+        "Education",
+        "Ly Dynasty"
+      ]
+    },
+    {
+      "id": "Hanoi_TRAN_01",
+      "year": 1258,
+      "date": "1258-01-29",
+      "title": "Dong Bo Dau Victory",
+      "description": "The Tran Dynasty army, under the command of King Tran Thai Tong and Grand Tutor Tran Thu Do, counterattacked the Mongol army at Dong Bo Dau wharf (present-day Hang Than slope), forcing the enemy to retreat from Thang Long.",
+      "location": {
+        "commune": null,
+        "district": "Ba Dinh",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Tran Thai Tong",
+        "Tran Thu Do"
+      ],
+      "tags": [
+        "Resistance war against the Mongols",
+        "Military"
+      ]
+    },
+    {
+      "id": "Hanoi_LE_01",
+      "year": 1427,
+      "date": "1427-12-10",
+      "title": "Dong Quan Oath of Alliance",
+      "description": "After being besieged and defeated, the Ming commander Wang Tong was forced to surrender and, together with Le Loi, organized an oath of alliance south of Dong Quan Citadel (Thang Long), committing to withdraw troops back to their country, ending 20 years of Ming rule.",
+      "location": {
+        "commune": null,
+        "district": "Hoan Kiem",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Le Loi",
+        "Nguyen Trai",
+        "Wang Tong"
+      ],
+      "tags": [
+        "Lam Son Uprising",
+        "Diplomacy"
+      ]
+    },
+    {
+      "id": "Hanoi_TAYSON_01",
+      "year": 1789,
+      "date": "1789-01-30",
+      "title": "Ngoc Hoi - Dong Da Victory",
+      "description": "King Quang Trung (Nguyen Hue) commanded the Tay Son army in a lightning march to the North, defeating 290,000 Qing troops on the 5th day of the Lunar New Year of Ky Dau. Ngoc Hoi and Dong Da outposts were destroyed, the Qing army fled, and Thang Long was liberated.",
+      "location": {
+        "commune": "Quang Trung",
+        "district": "Dong Da",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Nguyen Hue"
+      ],
+      "tags": [
+        "Tay Son Dynasty",
+        "Resistance against the Qing army",
+        "Military"
+      ]
+    },
+    {
+      "id": "Hanoi_NGUYEN_01",
+      "year": 1831,
+      "date": null,
+      "title": "Establishment of Hanoi Province",
+      "description": "During the administrative reform of King Minh Mang, the old Thang Long Citadel and some surrounding areas were merged to form Hanoi Province. The name 'Hanoi' (the land inside the rivers) officially appeared from this point.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "Hanoi_COLONIAL_01",
+      "year": 1873,
+      "date": "1873-11-20",
+      "title": "First French attack on Hanoi Citadel",
+      "description": "Francis Garnier commanded French troops to attack Hanoi Citadel. Governor Nguyen Tri Phuong led the royal army in fierce resistance, but the citadel fell; he was wounded and went on a hunger strike until death to preserve his honor.",
+      "location": {
+        "commune": "Quan Thanh",
+        "district": "Ba Dinh",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Nguyen Tri Phuong",
+        "Francis Garnier"
+      ],
+      "tags": [
+        "Anti-French resistance",
+        "Can Vuong"
+      ]
+    },
+    {
+      "id": "Hanoi_COLONIAL_02",
+      "year": 1882,
+      "date": "1882-04-25",
+      "title": "Second French attack on Hanoi Citadel",
+      "description": "Henri Riviere sent an ultimatum and opened fire to attack Hanoi Citadel. Governor Hoang Dieu commanded the defense but failed; he hanged himself at Vo Mieu to preserve his integrity.",
+      "location": {
+        "commune": "Dien Bien",
+        "district": "Ba Dinh",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Hoang Dieu",
+        "Henri Riviere"
+      ],
+      "tags": [
+        "Anti-French resistance",
+        "Can Vuong"
+      ]
+    },
+    {
+      "id": "Hanoi_REV_01",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "General Uprising to seize power in Hanoi",
+      "description": "Tens of thousands of people rallied at the Opera House Square, which then turned into an armed demonstration to seize the Viceroy's Palace and the headquarters of the puppet government, taking power into the hands of the people.",
+      "location": {
+        "commune": "Trang Tien",
+        "district": "Hoan Kiem",
+        "province": "Hanoi"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "Hanoi_REV_02",
+      "year": 1945,
+      "date": "1945-09-02",
+      "title": "Declaration of Independence Ceremony",
+      "description": "At Ba Dinh Square, President Ho Chi Minh read the Declaration of Independence, giving birth to the Democratic Republic of Vietnam.",
+      "location": {
+        "commune": "Dien Bien",
+        "district": "Ba Dinh",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "National Day",
+        "Politics"
+      ]
+    },
+    {
+      "id": "Hanoi_FR_WAR_01",
+      "year": 1946,
+      "date": "1946-12-19",
+      "title": "Outbreak of the National Resistance",
+      "description": "Lang Fortress fired the signal shot, initiating the national resistance against the French colonialists. The soldiers and people of Hanoi, with the spirit of 'Determined to brave death for the survival of the Fatherland', fought to pin down the enemy in the city for 60 days and nights.",
+      "location": {
+        "commune": "Lang Thuong",
+        "district": "Dong Da",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Vuong Thua Vu"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Death-defying soldiers"
+      ]
+    },
+    {
+      "id": "Hanoi_FR_WAR_02",
+      "year": 1954,
+      "date": "1954-10-10",
+      "title": "Capital Liberation Day",
+      "description": "After the Dien Bien Phu victory and the Geneva Accords, the People's Army of Vietnam marched to take over the Capital from the French army, marking the end of French colonial rule in the North.",
+      "location": {
+        "commune": null,
+        "district": "Hoan Kiem",
+        "province": "Hanoi"
+      },
+      "related_figures": [
+        "Vuong Thua Vu"
+      ],
+      "tags": [
+        "Liberation",
+        "Victory"
+      ]
+    },
+    {
+      "id": "Hanoi_US_WAR_01",
+      "year": 1972,
+      "date": "1972-12-18",
+      "title": "Dien Bien Phu in the Air campaign",
+      "description": "The US imperialists launched a strategic air raid using B-52 bombers on Hanoi and Hai Phong. The soldiers and people of Hanoi fought resiliently for 12 days and nights, shooting down many aircraft, forcing the US to sign the Paris Peace Accords.",
+      "location": {
+        "commune": "Kham Thien",
+        "district": "Dong Da",
+        "province": "Hanoi"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Air combat"
+      ]
+    }
+  ]
+}
