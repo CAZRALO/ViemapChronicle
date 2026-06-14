@@ -466,11 +466,28 @@
             }
         }
 
+        function scrollMergerContentTo(target) {
+            const mainContent = document.querySelector('#tabMerger .merger-main-content');
+            if (!mainContent || !target) return;
+
+            requestAnimationFrame(() => {
+                const containerRect = mainContent.getBoundingClientRect();
+                const targetRect = target.getBoundingClientRect();
+                const targetTop = targetRect.top - containerRect.top + mainContent.scrollTop - 12;
+                mainContent.scrollTo({
+                    top: Math.max(0, targetTop),
+                    behavior: 'smooth'
+                });
+            });
+        }
+
         // Search Function
         function filterMergerData() {
             const input = document.getElementById('mergerSearch');
-            const filter = input.value.toUpperCase();
+            const rawFilter = input ? input.value.trim() : '';
+            const filter = normalizeSmartText(rawFilter);
             const provGroups = document.getElementsByClassName('merger-province-group');
+            let firstMatchedElement = null;
             
             for (let i = 0; i < provGroups.length; i++) {
                 const group = provGroups[i];
@@ -478,16 +495,17 @@
                 const headerText = header ? (header.textContent || header.innerText) : '';
                 const vnSpan = header ? header.querySelector('[data-vn-prov]') : null;
                 const vnProv = vnSpan ? vnSpan.getAttribute('data-vn-prov') : '';
-                let headerMatch = headerText.toUpperCase().indexOf(filter) > -1;
+                let headerMatch = !filter || smartTextIncludes(headerText, rawFilter);
                 if (!headerMatch && vnProv) {
                     const guest = getProvinceGuestDisplayName(vnProv);
-                    if (guest && guest !== vnProv && guest.toUpperCase().indexOf(filter) > -1) headerMatch = true;
+                    if (guest && guest !== vnProv && smartTextIncludes(guest, rawFilter)) headerMatch = true;
                 }
 
                 if (headerMatch) {
                     group.style.display = "";
                     const cards = group.getElementsByClassName('commune-change-card');
                     for (let j = 0; j < cards.length; j++) cards[j].style.display = "";
+                    if (filter && !firstMatchedElement) firstMatchedElement = group;
                     continue; 
                 }
                 
@@ -496,14 +514,19 @@
                 for (let j = 0; j < cards.length; j++) {
                     const card = cards[j];
                     const txtValue = card.textContent || card.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    if (smartTextIncludes(txtValue, rawFilter)) {
                         card.style.display = "";
                         hasMatchInGroup = true;
+                        if (!firstMatchedElement) firstMatchedElement = card;
                     } else {
                         card.style.display = "none";
                     }
                 }
                 group.style.display = hasMatchInGroup ? "" : "none";
+            }
+
+            if (filter && firstMatchedElement) {
+                scrollMergerContentTo(firstMatchedElement);
             }
         }
 
