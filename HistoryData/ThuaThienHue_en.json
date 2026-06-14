@@ -1,0 +1,195 @@
+{
+  "events": [
+    {
+      "id": "TTHue_CHAMPA_01",
+      "year": 1306,
+      "date": null,
+      "title": "Annexation of Chau O and Chau Ly into Dai Viet",
+      "description": "King Che Man of Champa offered the two prefectures of O and Ly as a wedding gift to marry Princess Huyen Tran of the Tran Dynasty. The land of Thua Thien Hue officially became the territory of Dai Viet, and was later renamed Hoa Chau.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Princess Huyen Tran",
+        "Che Man",
+        "Tran Anh Tong"
+      ],
+      "tags": [
+        "Territorial expansion",
+        "Tran Dynasty"
+      ]
+    },
+    {
+      "id": "TTHue_NGUYEN_LORD_01",
+      "year": 1687,
+      "date": null,
+      "title": "Lord Nguyen Phuc Thai moved the lord's residence to Phu Xuan",
+      "description": "Lord Nguyen Phuc Thai (Lord Nghia) decided to move the capital of Dang Trong from Kim Long to Phu Xuan village. This event marked the beginning of Hue's status as a political center throughout subsequent dynasties.",
+      "location": {
+        "commune": null,
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Nguyen Phuc Thai"
+      ],
+      "tags": [
+        "Nguyen Lords",
+        "Establishing the capital"
+      ]
+    },
+    {
+      "id": "TTHue_TAYSON_01",
+      "year": 1788,
+      "date": "1788-12-22",
+      "title": "Nguyen Hue ascended the throne as Emperor",
+      "description": "At Ban Mountain (south of Phu Xuan Citadel), King Bac Binh Nguyen Hue set up an altar to worship Heaven and Earth, officially ascended the throne as Emperor, taking the reign name Quang Trung, before marching north to defeat the Qing army.",
+      "location": {
+        "commune": "An Tay",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Quang Trung"
+      ],
+      "tags": [
+        "Tay Son Dynasty",
+        "Ascending the throne"
+      ]
+    },
+    {
+      "id": "TTHue_NGUYEN_DYNASTY_01",
+      "year": 1802,
+      "date": null,
+      "title": "Gia Long established the capital in Phu Xuan",
+      "description": "After defeating the Tay Son Dynasty and unifying the country, Nguyen Anh ascended the throne as Emperor (Gia Long), choosing Phu Xuan (Hue) as the capital of unified Vietnam, beginning the large-scale construction of the Hue Citadel.",
+      "location": {
+        "commune": null,
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Gia Long"
+      ],
+      "tags": [
+        "Nguyen Dynasty",
+        "Capital"
+      ]
+    },
+    {
+      "id": "TTHue_COLONIAL_01",
+      "year": 1885,
+      "date": "1885-07-05",
+      "title": "The counter-attack at Hue Citadel (The Fall of the Capital)",
+      "description": "The war faction of the Nguyen court, led by Ton That Thuyet, opened fire on the French barracks at Mang Ca post and the French Resident Superior's Office. The attack failed, and the French army counter-attacked, capturing the Citadel and massacring the population. King Ham Nghi had to abandon the throne, flee to Tan So, and issue the Can Vuong edict.",
+      "location": {
+        "commune": "Thuan Loc",
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Ton That Thuyet",
+        "Ham Nghi"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French resistance"
+      ]
+    },
+    {
+      "id": "TTHue_REV_01",
+      "year": 1930,
+      "date": "1930-04-00",
+      "title": "Establishment of the Thua Thien Hue Province Party Committee",
+      "description": "The conference to establish the Thua Thien Hue Province Party Committee of the Communist Party of Vietnam was held in secret, marking an important turning point in the revolutionary movement at the nerve center of the colonial-feudal regime.",
+      "location": {
+        "commune": null,
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Le Viet Luong"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "TTHue_REV_02",
+      "year": 1945,
+      "date": "1945-08-30",
+      "title": "King Bao Dai abdicated",
+      "description": "At the Ngu Phung Pavilion (Ngo Mon Gate), King Bao Dai handed over the imperial seal and sword to the representative of the Provisional Government, Mr. Tran Huy Lieu, declaring 'I would rather be a citizen of an independent country than a king of an enslaved nation', ending thousands of years of feudalism in Vietnam.",
+      "location": {
+        "commune": null,
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Bao Dai",
+        "Tran Huy Lieu"
+      ],
+      "tags": [
+        "August Revolution",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "TTHue_US_WAR_01",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "The Tet Offensive (Hue Front)",
+      "description": "The Liberation Army launched simultaneous attacks and controlled Hue City for 26 days and nights. The flag of the National Liberation Front flew atop the Phu Van Lau flagpole. This was the most fierce urban battle, creating a great resonance worldwide but also leaving behind much grief.",
+      "location": {
+        "commune": null,
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [
+        "Le Minh",
+        "Than Trong Mot"
+      ],
+      "tags": [
+        "Tet Mau Than",
+        "Urban warfare"
+      ]
+    },
+    {
+      "id": "TTHue_US_WAR_02",
+      "year": 1975,
+      "date": "1975-03-26",
+      "title": "Liberation of Thua Thien Hue",
+      "description": "During the Hue - Da Nang Campaign, the 2nd Corps and local armed forces attacked and shattered the defense system of the Saigon army. The liberation flag was raised to the top of Ky Dai at 6:30 AM, marking the complete liberation of the Ancient Capital.",
+      "location": {
+        "commune": null,
+        "district": "Hue City",
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "1975 Spring Campaign"
+      ]
+    },
+    {
+      "id": "TTHue_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Re-establishment of Thua Thien Hue Province",
+      "description": "The 8th National Assembly passed a Resolution to split Binh Tri Thien Province (merged since 1976) back into 3 provinces: Quang Binh, Quang Tri, and Thua Thien Hue. Thua Thien Hue Province began a new phase of development based on culture and tourism.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thua Thien Hue"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

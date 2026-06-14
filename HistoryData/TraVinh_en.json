@@ -1,0 +1,199 @@
+{
+  "events": [
+    {
+      "id": "TraVinh_NGUYEN_01",
+      "year": 1832,
+      "date": "1832-10-01",
+      "title": "Establishment of Vinh Binh Province (Predecessor of Tra Vinh)",
+      "description": "During the administrative reform of King Minh Mang, the Six Provinces of Southern Vietnam were divided into new provinces. Vinh Binh Province was established (including present-day Tra Vinh territory), as an important province located between the two major rivers, Tien and Hau.",
+      "location": {
+        "commune": null,
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "TraVinh_REV_01",
+      "year": 1930,
+      "date": "1930-03-00",
+      "title": "Establishment of the First Party Cell (An Truong)",
+      "description": "In An Truong Village, the first Communist Party Cell of Tra Vinh Province was established, with Comrade Nguyen Dang (alias Bay Dang) as Secretary. This event marked an important turning point, bringing the struggle movement of the people of Tra Vinh into the orbit of the proletarian revolution.",
+      "location": {
+        "commune": "An Truong",
+        "district": "Cang Long",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [
+        "Nguyen Dang"
+      ],
+      "tags": [
+        "Founding of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "TraVinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Tra Vinh",
+      "description": "More than 20,000 people from Cang Long, Chau Thanh, and Cau Ngang Districts flocked to the provincial capital. Faced with overwhelming momentum, the Governor of Tra Vinh Province had to surrender and hand over the official seal. The Provisional Administrative Committee of Tra Vinh Province made its debut to the public.",
+      "location": {
+        "commune": null,
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [
+        "Duong Quang Dong"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "TraVinh_FRENCH_WAR_01",
+      "year": 1948,
+      "date": "1948-03-14",
+      "title": "La Bang Victory",
+      "description": "Battalion 307 and local armed forces organized an ambush on a French military convoy at La Bang. We destroyed many motor vehicles and enemy soldiers. This was a typical road-battle, making the name of 'Battalion 307' famous across the Southwestern region battlefield.",
+      "location": {
+        "commune": "Don Chau",
+        "district": "Duyen Hai",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Victory"
+      ]
+    },
+    {
+      "id": "TraVinh_FRENCH_WAR_02",
+      "year": 1949,
+      "date": "1949-12-07",
+      "title": "Cau Ke Campaign",
+      "description": "The Command of Zone 8 launched the Cau Ke Campaign; this was the first large-scale offensive campaign in the Southern battlefield with coordination between regular and local forces, destroying many outposts and expanding the liberated area.",
+      "location": {
+        "commune": null,
+        "district": "Cau Ke",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against the French",
+        "Campaign"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_01",
+      "year": 1965,
+      "date": null,
+      "title": "The Legend of 'The Mother with a Gun' Nguyen Thi Ut",
+      "description": "Mrs. Nguyen Thi Ut (Ut Tich), a daughter of the Tam Ngai land, was famous for her saying 'Fight even if only the hem of the pants is left'. She participated in dozens of battles, serving as a symbol of the heroic and indomitable Southern women during the resistance war against the US.",
+      "location": {
+        "commune": "Tam Ngai",
+        "district": "Cau Ke",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [
+        "Nguyen Thi Ut"
+      ],
+      "tags": [
+        "Heroic",
+        "Women"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Mau Than in Tra Vinh",
+      "description": "The army and people of Tra Vinh simultaneously attacked the Governor's Palace, the Police Department, and the enemy's headquarters in the town. We controlled the central area of the town for many hours, causing extreme panic for the local Saigon government apparatus.",
+      "location": {
+        "commune": null,
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_03",
+      "year": 1970,
+      "date": "1970-03-10",
+      "title": "Building Uncle Ho's Temple (Long Duc)",
+      "description": "Right in the midst of the enemy's fierce siege, the army and people of Long Duc Commune secretly built Uncle Ho's Temple to express their infinite love upon hearing the news of his passing. The temple was resiliently protected through 5 years of bombs and bullets (1970-1975) until the day of complete victory.",
+      "location": {
+        "commune": "Long Duc",
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Historical Relic",
+        "Leader"
+      ]
+    },
+    {
+      "id": "TraVinh_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Tra Vinh Province",
+      "description": "The provincial armed forces coordinated with the masses to surround and attack the Governor's Palace. At exactly 11:30 AM on April 30, 1975, the Front's flag flew on top of the Governor's Palace; Tra Vinh was completely liberated, without much bloodshed as the enemy surrendered quickly.",
+      "location": {
+        "commune": null,
+        "district": "Tra Vinh City",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "TraVinh_ADMIN_01",
+      "year": 1992,
+      "date": "1992-05-05",
+      "title": "Re-establishment of Tra Vinh Province",
+      "description": "The 8th National Assembly passed a Resolution to split Cuu Long Province (merged since 1976) back into two provinces, Vinh Long and Tra Vinh. Tra Vinh Province officially came into operation, starting the reconstruction and economic development of the coastal region.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ]
+    },
+    {
+      "id": "TraVinh_ECONOMY_01",
+      "year": 2015,
+      "date": "2015-05-16",
+      "title": "Inauguration of Co Chien Bridge",
+      "description": "Co Chien Bridge, connecting Ben Tre and Tra Vinh, was inaugurated. This project is of strategic significance, breaking the 'dead-end' traffic situation of Tra Vinh, shortening the distance to Ho Chi Minh City, and creating momentum for the development of the marine economy and clean energy.",
+      "location": {
+        "commune": null,
+        "district": "Cang Long",
+        "province": "Tra Vinh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Transportation",
+        "Economy"
+      ]
+    }
+  ]
+}

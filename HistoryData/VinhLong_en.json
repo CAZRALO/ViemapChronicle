@@ -1,0 +1,201 @@
+{
+  "events": [
+    {
+      "id": "VinhLong_FOUNDING_01",
+      "year": 1732,
+      "date": null,
+      "title": "Establishment of Long Ho Dinh",
+      "description": "Lord Nguyen Phuc Chu approved the establishment of a new administrative unit called Long Ho Dinh (separated from Gia Dinh Prefecture), governing the vast land of today's Western provinces. This was a historical milestone establishing the first political and military center of the Mekong Delta.",
+      "location": {
+        "commune": null,
+        "district": "Long Ho",
+        "province": "Vinh Long"
+      },
+      "related_figures": [
+        "Nguyen Phuc Chu"
+      ],
+      "tags": [
+        "Nguyen Lords",
+        "Land reclamation"
+      ]
+    },
+    {
+      "id": "VinhLong_COLONIAL_01",
+      "year": 1867,
+      "date": "1867-06-20",
+      "title": "The fall of Vinh Long Citadel (Phan Thanh Gian commits suicide)",
+      "description": "French troops brought warships to threaten Vinh Long Citadel. To avoid useless bloodshed for the people when the forces were too unequal, Viceroy Phan Thanh Gian decided to surrender the citadel, then went on a hunger strike and drank poison to commit suicide to apologize to the King and the people. Vinh Long and three Western provinces fell into French hands.",
+      "location": {
+        "commune": "Ward 1",
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      },
+      "related_figures": [
+        "Phan Thanh Gian"
+      ],
+      "tags": [
+        "French colonial period",
+        "Tragic and heroic event"
+      ]
+    },
+    {
+      "id": "VinhLong_REV_01",
+      "year": 1930,
+      "date": "1930-02-00",
+      "title": "Establishment of the first Party Cell (Long Ho Intersection)",
+      "description": "At the house of Mr. Nguyen Van Meo (Long Ho Intersection), the first Communist Party of Vietnam cell of Vinh Long Province was established with Comrade Nguyen Van Thiet as Secretary. The event marked a turning point in the local revolutionary movement.",
+      "location": {
+        "commune": "Long Phuoc",
+        "district": "Long Ho",
+        "province": "Vinh Long"
+      },
+      "related_figures": [
+        "Nguyen Van Thiet"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "VinhLong_REV_02",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Nam Ky Uprising in Vung Liem",
+      "description": "Under the command of Comrade Nguyen Thi Hong Gam and the Provincial Party Committee, the people of Vung Liem District rose up to seize the District Palace, burn records, and break open the prison. This was one of the most fierce hotspots during the Nam Ky Uprising in the West.",
+      "location": {
+        "commune": null,
+        "district": "Vung Liem",
+        "province": "Vinh Long"
+      },
+      "related_figures": [
+        "Nguyen Thi Hong Gam"
+      ],
+      "tags": [
+        "Nam Ky Uprising",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "VinhLong_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Vinh Long",
+      "description": "Thousands of people from Tam Binh, Vung Liem, and Tra On flocked to Vinh Long Town to support local forces. Province Chief Luong Khac Nhac was forced to hand over power. The Provisional Administrative Committee of Vinh Long Province made its debut to the public.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "VinhLong_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-06-16",
+      "title": "Cay Bang Battle (Elimination of the French Province Chief)",
+      "description": "The Vinh Long National Guard forces organized an ambush at Cay Bang (on the old National Route 4), destroying a military convoy and killing the French Province Chief Palazzaci. This victory resonated widely, boosting the resistance spirit across the province.",
+      "location": {
+        "commune": "My Thanh Trung",
+        "district": "Tam Binh",
+        "province": "Vinh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Eliminating tyrants"
+      ]
+    },
+    {
+      "id": "VinhLong_US_WAR_01",
+      "year": 1966,
+      "date": "1966-10-09",
+      "title": "Hero Luu Van Liet sacrifices his life",
+      "description": "In a daring raid on the US officers' quarters in Vinh Long Town, after completing his mission and being surrounded by the enemy, commando fighter Luu Van Liet fought to his last bullet and heroically sacrificed his life at the age of 21. He became a heroic symbol of Vinh Long's youth.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      },
+      "related_figures": [
+        "Luu Van Liet"
+      ],
+      "tags": [
+        "Commando",
+        "Hero"
+      ]
+    },
+    {
+      "id": "VinhLong_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Mau Than Offensive in Vinh Long",
+      "description": "The Liberation Army launched simultaneous attacks on Vinh Long Airfield, the Administrative Office, and military outposts. A fierce, back-and-forth battle took place over 6 days and nights right inside the town center, causing heavy losses to US forces and the Saigon army.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Urban warfare"
+      ]
+    },
+    {
+      "id": "VinhLong_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Vinh Long Province",
+      "description": "Upon hearing the news of Duong Van Minh's surrender, the Vinh Long Provincial Party Committee led the masses to rise up in combination with military proselytizing. The Province Chief of Vinh Long surrendered. By 13:00, we completely controlled the town, successfully ending the resistance war against the US.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Unification Day"
+      ]
+    },
+    {
+      "id": "VinhLong_ADMIN_01",
+      "year": 1992,
+      "date": "1992-05-05",
+      "title": "Re-establishment of Vinh Long Province",
+      "description": "The 8th National Assembly passed a Resolution to split Cuu Long Province (merged since 1976) into two provinces, Vinh Long and Tra Vinh. Vinh Long Province officially resumed operations, focusing on high-tech agriculture and ecotourism.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Vinh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    },
+    {
+      "id": "VinhLong_INFRA_01",
+      "year": 2000,
+      "date": "2000-05-21",
+      "title": "Inauguration of My Thuan Bridge",
+      "description": "My Thuan Bridge - Vietnam's first cable-stayed bridge across the Tien River connecting Tien Giang and Vinh Long was officially inaugurated. This is an iconic project, ending centuries of \"ferry dependency\" and opening up breakthrough development opportunities for Vinh Long and the entire West.",
+      "location": {
+        "commune": "Tan Hoa",
+        "district": "Vinh Long City",
+        "province": "Vinh Long"
+      },
+      "related_figures": [],
+      "tags": [
+        "Transportation",
+        "Symbol"
+      ]
+    }
+  ]
+}

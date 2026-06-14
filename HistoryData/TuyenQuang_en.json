@@ -1,0 +1,191 @@
+{
+  "events": [
+    {
+      "id": "TuyenQuang_COLONIAL_01",
+      "year": 1884,
+      "date": "1884-11-23",
+      "title": "The Siege of Tuyen Quang Citadel",
+      "description": "The Black Flag Army coordinated with the Nguyen Dynasty army to besiege the French forces at Tuyen Quang Citadel for 4 months. This is a famous battle in world military history regarding siege and defense tactics, demonstrating the fierceness of the early stages of the French invasion of Tonkin.",
+      "location": {
+        "commune": "Tan Quang",
+        "district": "Tuyen Quang City",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Luu Vinh Phuc"
+      ],
+      "tags": [
+        "French colonial period",
+        "Military"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_01",
+      "year": 1940,
+      "date": "1940-03-20",
+      "title": "Establishment of the first Party Cell (Coal Mine Party Cell)",
+      "description": "At the house of Mr. Ca Kien (Tuyen Quang coal mine area), the province's first Communist Party Cell was established with 7 members. This event marked an important turning point in the revolutionary movement of Tuyen Quang.",
+      "location": {
+        "commune": "Minh Xuan",
+        "district": "Tuyen Quang City",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Vu Mui"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_02",
+      "year": 1945,
+      "date": "1945-05-21",
+      "title": "Uncle Ho returns to Tuyen Quang (Tan Trao)",
+      "description": "After leaving Pac Bo (Cao Bang), leader Ho Chi Minh arrived at Tan Lap Hamlet (Tan Trao Commune, Son Duong District) to direct the nationwide revolutionary movement. Tan Trao became the 'Capital of the Liberated Zone'.",
+      "location": {
+        "commune": "Tan Trao",
+        "district": "Son Duong",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Base area"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_03",
+      "year": 1945,
+      "date": "1945-06-04",
+      "title": "Establishment of the Viet Bac Liberated Zone",
+      "description": "The Viet Minh Cadre Conference decided to establish the Liberated Zone comprising 6 provinces (Cao - Bac - Lang - Ha - Tuyen - Thai). Tuyen Quang was chosen as the Capital of the Liberated Zone, where the central headquarters were located.",
+      "location": {
+        "commune": "Tan Trao",
+        "district": "Son Duong",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Pre-uprising",
+        "Viet Bac"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_04",
+      "year": 1945,
+      "date": "1945-08-16",
+      "title": "Tan Trao National Congress",
+      "description": "The National People's Congress (likened to the second Dien Hong Congress) met at Tan Trao Communal House, approving the General Uprising order, defining the National Flag and National Anthem, and electing the National Liberation Committee of Vietnam (Provisional Government) with Ho Chi Minh as President.",
+      "location": {
+        "commune": "Tan Trao",
+        "district": "Son Duong",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "August Revolution",
+        "Major event"
+      ]
+    },
+    {
+      "id": "TuyenQuang_REV_05",
+      "year": 1945,
+      "date": "1945-08-17",
+      "title": "Liberation of Tuyen Quang Town",
+      "description": "Liberation forces advanced from various directions to surround and attack the Japanese troops in the town. By August 21, the Japanese surrendered, and power returned to the people. Tuyen Quang was one of the earliest provincial capitals to be liberated through armed struggle.",
+      "location": {
+        "commune": null,
+        "district": "Tuyen Quang City",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Song Hao"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "TuyenQuang_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-10-23",
+      "title": "Lo River Victory (Battle of Khe Lau)",
+      "description": "Our artillery and infantry ambushed the French warship fleet in the Khe Lau area (the confluence of the Lo and Gam rivers). We sank enemy warships and gunboats, breaking the western pincer movement in the Viet Bac Fall-Winter Campaign of 1947, safely protecting the 'Resistance Capital'.",
+      "location": {
+        "commune": "Thang Quan",
+        "district": "Yen Sơn",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Vu Hien"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Naval battle"
+      ]
+    },
+    {
+      "id": "TuyenQuang_FRENCH_WAR_02",
+      "year": 1951,
+      "date": "1951-02-11",
+      "title": "The 2nd National Congress of the Party",
+      "description": "The 2nd Party Congress was held in Vinh Quang Commune (now Kim Binh). The Congress decided to bring the Party into open operation, renaming it the Workers' Party of Vietnam. This was the only Party Congress held outside Hanoi.",
+      "location": {
+        "commune": "Kim Binh",
+        "district": "Chiem Hoa",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Ho Chi Minh",
+        "Truong Chinh"
+      ],
+      "tags": [
+        "Party Congress",
+        "Politics"
+      ]
+    },
+    {
+      "id": "TuyenQuang_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-12-01",
+      "title": "The 1st National Assembly's 3rd Session",
+      "description": "At Tun Hamlet (Cau Huu Commune, now Hung Loi Commune), the 1st National Assembly of the Democratic Republic of Vietnam held its 3rd session. The session passed the Land Reform Law, an important policy to mobilize public resources for the Dien Bien Phu campaign.",
+      "location": {
+        "commune": "Hung Loi",
+        "district": "Yen Son",
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [
+        "Ton Duc Thang"
+      ],
+      "tags": [
+        "National Assembly",
+        "Politics"
+      ]
+    },
+    {
+      "id": "TuyenQuang_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Tuyen Quang Province",
+      "description": "The 8th National Assembly passed a Resolution to split Ha Tuyen Province (which had been merged since 1976) back into two provinces, Tuyen Quang and Ha Giang. Tuyen Quang Province officially began operating under the new administrative unit.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Tuyen Quang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

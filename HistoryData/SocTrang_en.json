@@ -1,0 +1,180 @@
+{
+  "events": [
+    {
+      "id": "SocTrang_ADMIN_01",
+      "year": 1832,
+      "date": "1832-10-00",
+      "title": "Establishment of Ba Xuyen Prefecture",
+      "description": "During the administrative reform of King Minh Mang, the Six Provinces of Southern Vietnam were established. The land of Soc Trang at that time belonged to Ba Xuyen Prefecture, An Giang Province. The name 'Ba Xuyen' (derived from the Khmer word 'Bai Xau') is closely associated with the history of this land throughout the feudal period and the former regime.",
+      "location": {
+        "commune": null,
+        "district": "My Xuyen",
+        "province": "Soc Trang"
+      },
+      "related_figures": [
+        "Minh Mang"
+      ],
+      "tags": [
+        "Administration",
+        "Nguyen Dynasty"
+      ]
+    },
+    {
+      "id": "SocTrang_REV_01",
+      "year": 1930,
+      "date": "1930-03-00",
+      "title": "Establishment of the First Party Cell (My Quoi)",
+      "description": "Just one month after the founding of the Communist Party of Vietnam, the first Party Cell of Soc Trang Province was established in My Quoi Village (now in Nga Nam Town). This was one of the earliest established party cells in the Mekong Delta, laying the foundation for the province's revolutionary movement.",
+      "location": {
+        "commune": "My Quoi",
+        "district": "Nga Nam Town",
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party Founding",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "SocTrang_REV_02",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Nam Ky Uprising in Hoa Tu",
+      "description": "Joining the spirit of the Nam Ky Uprising, the people of Hoa Tu Village (My Xuyen District) rose up to seize military posts, dismantle puppet administrations, and completely liberate the commune. This was the first place in the province where the red flag with a yellow star flew. Although it was later brutally suppressed, the spirit of Hoa Tu became an immortal symbol.",
+      "location": {
+        "commune": "Hoa Tu 1",
+        "district": "My Xuyen",
+        "province": "Soc Trang"
+      },
+      "related_figures": [
+        "Van Ngoc Chinh"
+      ],
+      "tags": [
+        "Nam Ky Uprising",
+        "Historical Event"
+      ]
+    },
+    {
+      "id": "SocTrang_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Soc Trang",
+      "description": "On the morning of August 25, thousands of people from Long Phu, My Xuyen, and Chau Thanh districts flocked to the provincial capital. Faced with the people's momentum, the Governor of Soc Trang Province was forced to surrender and hand over the official seal. The National Liberation Committee of Soc Trang Province made its debut to the public.",
+      "location": {
+        "commune": null,
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      },
+      "related_figures": [
+        "Duong Ky Hiep"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "SocTrang_US_WAR_01",
+      "year": 1958,
+      "date": "1958-12-01",
+      "title": "Phu Loi Prison Massacre",
+      "description": "The US-Diem regime secretly poisoned the food rations of political prisoners at Phu Loi Prison, causing hundreds of poisonings and deaths. The 'Phu Loi Hatred' event shocked world public opinion and fanned the flames of the revolutionary struggle in the South.",
+      "location": {
+        "commune": "Ward 2",
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "War Crimes",
+        "Prison"
+      ]
+    },
+    {
+      "id": "SocTrang_US_WAR_02",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Mau Than Offensive (Soc Trang Airport)",
+      "description": "The Phu Loi Battalion and local forces attacked Soc Trang Town, capturing Soc Trang Airport (an important US tactical air base in the West) and the Governor's Palace, causing heavy damage to enemy motorized and helicopter units.",
+      "location": {
+        "commune": null,
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "SocTrang_US_WAR_03",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Soc Trang Province",
+      "description": "Implementing the motto 'communes liberate communes, districts liberate districts', the military and people of Soc Trang surrounded and forced the surrender of the Ba Xuyen sub-sector. By 13:30 on April 30, Soc Trang Town was completely liberated, contributing to the country's victorious end of the resistance war against the US.",
+      "location": {
+        "commune": null,
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "SocTrang_ADMIN_02",
+      "year": 1991,
+      "date": "1991-12-26",
+      "title": "Re-establishment of Soc Trang Province",
+      "description": "At its 10th session, the 8th National Assembly decided to divide the (former) Hau Giang Province into two provinces: Can Tho and Soc Trang. Soc Trang Province was officially re-established and began operating in April 1992, opening a new phase of development.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ]
+    },
+    {
+      "id": "SocTrang_CULTURE_01",
+      "year": 2013,
+      "date": "2013-10-30",
+      "title": "The 1st Mekong Delta Khmer Ngo Boat Racing Festival",
+      "description": "Soc Trang hosted the 1st Mekong Delta Khmer Ngo Boat Racing Festival. This event elevated the traditional Ooc Om Bok - Ngo Boat Racing Festival to regional and national scales, affirming the unique cultural identity of the province.",
+      "location": {
+        "commune": null,
+        "district": "Soc Trang City",
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Culture",
+        "Festival"
+      ]
+    },
+    {
+      "id": "SocTrang_ECONOMY_01",
+      "year": 2023,
+      "date": "2023-06-17",
+      "title": "Groundbreaking of Dai Ngai Bridge (Connecting Tra Vinh - Soc Trang)",
+      "description": "The Dai Ngai Bridge project on National Highway 60 connecting the two provinces of Tra Vinh and Soc Trang commenced construction. This is a strategic project that breaks the monopoly of National Highway 1, connecting Soc Trang with Ho Chi Minh City via the coastal route, creating a strong driving force for the marine economy.",
+      "location": {
+        "commune": "Long Duc",
+        "district": "Long Phu",
+        "province": "Soc Trang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Transportation",
+        "Economy"
+      ]
+    }
+  ]
+}

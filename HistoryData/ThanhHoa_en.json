@@ -1,0 +1,194 @@
+{
+  "events": [
+    {
+      "id": "ThanhHoa_EARLY_01",
+      "year": 248,
+      "date": null,
+      "title": "Ba Trieu Uprising",
+      "description": "In the mountainous region of Nua (Trieu Son) and Phu Dien (Hau Loc), Ba Trieu (Trieu Thi Trinh) and her older brother Trieu Quoc Dat raised the banner of uprising against the domination of the Eastern Wu dynasty, shaking Giao Chau with her famous quote about heroic spirit.",
+      "location": {
+        "commune": "Trieu Loc",
+        "district": "Hau Loc",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Trieu Thi Trinh",
+        "Trieu Quoc Dat"
+      ],
+      "tags": [
+        "Northern Domination",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "ThanhHoa_HO_01",
+      "year": 1397,
+      "date": null,
+      "title": "Moving the Capital to Tay Do (Citadel of the Ho Dynasty)",
+      "description": "Ho Quy Ly forced King Tran Thuan Tong to move the capital from Thang Long to Thanh Hoa, building a solid stone citadel (Tay Do Citadel) in Vinh Loc District. This is the only unique stone architectural work remaining in Southeast Asia.",
+      "location": {
+        "commune": "Vinh Long",
+        "district": "Vinh Loc",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Ho Quy Ly"
+      ],
+      "tags": [
+        "Ho Dynasty",
+        "Cultural Heritage"
+      ]
+    },
+    {
+      "id": "ThanhHoa_LAMSON_01",
+      "year": 1416,
+      "date": "1416-02-01",
+      "title": "Lung Nhai Oath",
+      "description": "In the Lung Nhai forest, Le Loi and 18 heroes (including Nguyen Trai and Le Lai) held a ceremony to make offerings to Heaven and Earth, became sworn brothers, and swore to live and die together to drive out the Minh invaders and save the country.",
+      "location": {
+        "commune": "Ngoc Phung",
+        "district": "Thuong Xuan",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Le Loi",
+        "Nguyen Trai",
+        "Le Lai"
+      ],
+      "tags": [
+        "Lam Son Uprising",
+        "Oath Ceremony"
+      ]
+    },
+    {
+      "id": "ThanhHoa_LAMSON_02",
+      "year": 1418,
+      "date": "1418-02-07",
+      "title": "Outbreak of the Lam Son Uprising",
+      "description": "Le Loi proclaimed himself Binh Dinh Vuong (Pacification King), officially raising the banner of uprising in the land of Lam Son against the invading Minh army. The uprising lasted for 10 years and ended in victory, ushering in the Later Le Dynasty.",
+      "location": {
+        "commune": "Xuan Lam",
+        "district": "Tho Xuan",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Le Loi"
+      ],
+      "tags": [
+        "Lam Son Uprising",
+        "Against foreign invasion"
+      ]
+    },
+    {
+      "id": "ThanhHoa_COLONIAL_01",
+      "year": 1886,
+      "date": "1886-12-18",
+      "title": "Ba Dinh Uprising",
+      "description": "Under the leadership of Dinh Cong Trang and Pham Banh, the insurgent army turned the three villages of Mau Thinh, Thượng Tho, and My Khe into a solid, waterlogged defensive stronghold (Ba Dinh war zone), fiercely resisting the French army during the Can Vuong movement.",
+      "location": {
+        "commune": "Ba Dinh",
+        "district": "Nga Son",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Dinh Cong Trang",
+        "Pham Banh"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Against the French"
+      ]
+    },
+    {
+      "id": "ThanhHoa_REV_01",
+      "year": 1930,
+      "date": "1930-07-22",
+      "title": "Establishment of the first Party Cell",
+      "description": "At the home of Comrade Le Van Sy (Ham Ha village), the founding conference of the first Communist Party of Vietnam cell in Thanh Hoa Province was held with 3 party members, with Comrade Le Thế Long serving as Secretary.",
+      "location": {
+        "commune": "Dong Tien",
+        "district": "Dong Son",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Le The Long"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "ThanhHoa_REV_02",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "Seizing power in Thanh Hoa",
+      "description": "Joining the spirit of Hanoi, the masses and self-defense forces of Thanh Hoa surrounded the Governor's Palace, forcing Governor Nguyen Trac to surrender. The Provisional Revolutionary People's Committee of Thanh Hoa Province made its public debut.",
+      "location": {
+        "commune": null,
+        "district": "Thanh Hoa City",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "ThanhHoa_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-02-20",
+      "title": "Uncle Ho's first visit to Thanh Hoa",
+      "description": "President Ho Chi Minh visited Thanh Hoa and gave a historic speech at Rung Thong. He assigned the task: 'Thanh Hoa Province must become a model province'.",
+      "location": {
+        "commune": "Dong Linh",
+        "district": "Thanh Hoa City",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Great rear"
+      ]
+    },
+    {
+      "id": "ThanhHoa_US_WAR_01",
+      "year": 1965,
+      "date": "1965-04-03",
+      "title": "Ham Rong - Nam Ngan Victory",
+      "description": "On April 3 and 4, the US Air Force focused on bombing Ham Rong Bridge to cut off the vital transportation artery. The soldiers and people of Thanh Hoa fought resiliently, shooting down 47 US aircraft and keeping the bridge safe.",
+      "location": {
+        "commune": "Ham Rong",
+        "district": "Thanh Hoa City",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [
+        "Ngo Thi Tuyen"
+      ],
+      "tags": [
+        "Anti-US resistance war",
+        "Ham Rong"
+      ]
+    },
+    {
+      "id": "ThanhHoa_US_WAR_02",
+      "year": 1967,
+      "date": "1967-10-14",
+      "title": "Hoang Truong Elder Militia Platoon shoots down aircraft",
+      "description": "The Elder Militia Platoon of Hoang Truong Commune (consisting of 18 elderly people) used infantry rifles to shoot down a modern US jet. This was the first elder militia unit in the North to achieve this feat, receiving a letter of commendation from Uncle Ho.",
+      "location": {
+        "commune": "Hoang Truong",
+        "district": "Hoang Hoa",
+        "province": "Thanh Hoa"
+      },
+      "related_figures": [],
+      "tags": [
+        "Anti-US resistance war",
+        "Militia"
+      ]
+    }
+  ]
+}

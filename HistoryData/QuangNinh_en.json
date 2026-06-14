@@ -1,0 +1,192 @@
+{
+  "events": [
+    {
+      "id": "QuangNinh_LY_01",
+      "year": 1149,
+      "date": null,
+      "title": "Establishment of Van Don Commercial Port",
+      "description": "King Ly Anh Tong issued a decree to establish Van Don estate as a place for trading and exchanging goods with foreign merchants. This was the first and busiest international commercial port of Vietnam for many centuries.",
+      "location": {
+        "commune": "Quan Lan",
+        "district": "Van Don",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Ly Anh Tong"
+      ],
+      "tags": [
+        "Economy",
+        "Commercial port"
+      ]
+    },
+    {
+      "id": "QuangNinh_TRAN_01",
+      "year": 1288,
+      "date": "1288-04-09",
+      "title": "Bach Dang Victory",
+      "description": "Hung Dao Dai Vuong Tran Quoc Tuan commanded the army and people of Dai Viet, utilizing the tides and a field of hidden stakes, to destroy and capture the entire naval fleet of O Ma Nhi on the Bach Dang River, completely ending the Mongol Yuan invasion dream.",
+      "location": {
+        "commune": "Yen Giang",
+        "district": "Quang Yen",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Tran Hung Dao",
+        "O Ma Nhi"
+      ],
+      "tags": [
+        "Resistance war against the Mongol Yuan",
+        "Naval battle"
+      ]
+    },
+    {
+      "id": "QuangNinh_TRAN_02",
+      "year": 1299,
+      "date": null,
+      "title": "The First Patriarch of Truc Lam enters Yen Tu Mountain",
+      "description": "Retired Emperor Tran Nhan Tong abdicated the throne, went to Yen Tu Mountain to practice asceticism, and founded the Truc Lam Yen Tu Zen Sect - a Zen lineage deeply imbued with Vietnamese cultural identity.",
+      "location": {
+        "commune": "Thuong Yen Cong",
+        "district": "Uong Bi",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Tran Nhan Tong"
+      ],
+      "tags": [
+        "Religion",
+        "Culture"
+      ]
+    },
+    {
+      "id": "QuangNinh_COLONIAL_01",
+      "year": 1936,
+      "date": "1936-11-12",
+      "title": "The general strike of miners",
+      "description": "More than 30,000 miners in the Hon Gai - Cam Pha region simultaneously went on strike to demand higher wages and shorter working hours under the slogan 'Discipline and Solidarity'. The strike was a resounding success, becoming a brilliant milestone in the history of the Vietnamese workers' movement.",
+      "location": {
+        "commune": null,
+        "district": "Cam Pha",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Ngo Huy Tang"
+      ],
+      "tags": [
+        "Workers' movement",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "QuangNinh_REV_01",
+      "year": 1945,
+      "date": "1945-06-08",
+      "title": "Establishment of Dong Trieu War Zone (Tran Hung Dao War Zone)",
+      "description": "Under the command of Nguyen Binh, the insurgent forces captured the Dong Trieu post and declared the establishment of the Dong Trieu War Zone. This was one of the important base areas preparing for the August General Uprising in the Northern Coastal region.",
+      "location": {
+        "commune": null,
+        "district": "Dong Trieu",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Nguyen Binh"
+      ],
+      "tags": [
+        "Pre-uprising",
+        "Military"
+      ]
+    },
+    {
+      "id": "QuangNinh_REV_02",
+      "year": 1946,
+      "date": "1946-07-15",
+      "title": "The battle to recapture Mong Cai",
+      "description": "Hai Ninh troops coordinated with local armed forces to attack the reactionary Kuomintang forces, liberating Mong Cai Town and consolidating the revolutionary government in the border area.",
+      "location": {
+        "commune": null,
+        "district": "Mong Cai",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Defense of the administration",
+        "Border"
+      ]
+    },
+    {
+      "id": "QuangNinh_FRENCH_01",
+      "year": 1955,
+      "date": "1955-04-25",
+      "title": "Takeover of the Hong Quang mining area",
+      "description": "The last French soldier withdrew from Bai Chay ferry terminal. Vietnamese troops entered to take over the Hon Gai and Cam Pha mining areas, completely liberating the mining region after days of persistent struggle on both diplomatic and military fronts.",
+      "location": {
+        "commune": "Hon Gai",
+        "district": "Ha Long",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Takeover"
+      ]
+    },
+    {
+      "id": "QuangNinh_ADMIN_01",
+      "year": 1963,
+      "date": "1963-10-30",
+      "title": "Establishment of Quang Ninh Province",
+      "description": "The National Assembly of the Democratic Republic of Vietnam issued a resolution to merge Hai Ninh Province and Hong Quang Zone into Quang Ninh Province. The name Quang Ninh was suggested by Uncle Ho, combining the two words 'Quang' (vast) and 'Ninh' (peaceful).",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Administration",
+        "Establishment of the province"
+      ]
+    },
+    {
+      "id": "QuangNinh_US_WAR_01",
+      "year": 1964,
+      "date": "1964-08-05",
+      "title": "Victory of the first battle on August 5",
+      "description": "The Vietnam People's Navy and Air Defense in the Cua Luc - Bai Chay sea area bravely fought back against the airstrikes by US aircraft (the Gulf of Tonkin incident), shooting down and damaging many planes, and capturing the first US pilot in the North.",
+      "location": {
+        "commune": "Bai Chay",
+        "district": "Ha Long",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Everett Alvarez Jr."
+      ],
+      "tags": [
+        "Resistance war against the US",
+        "Navy"
+      ]
+    },
+    {
+      "id": "QuangNinh_BORDER_WAR_01",
+      "year": 1979,
+      "date": "1979-02-17",
+      "title": "Fighting to defend the border at Po Hen",
+      "description": "Officers and soldiers of Armed Public Security Post 209 (now Po Hen Border Guard Post) and employees of Hai Son Forestry Enterprise fought heroically to stop the massive attack by the Chinese army.",
+      "location": {
+        "commune": "Hai Son",
+        "district": "Mong Cai",
+        "province": "Quang Ninh"
+      },
+      "related_figures": [
+        "Hoang Thi Hong Chiem",
+        "Do Si Hoa"
+      ],
+      "tags": [
+        "1979 Border War",
+        "Heroic"
+      ]
+    }
+  ]
+}

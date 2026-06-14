@@ -1,0 +1,200 @@
+{
+  "events": [
+    {
+      "id": "TienGiang_TAYSON_01",
+      "year": 1785,
+      "date": "1785-01-20",
+      "title": "Rach Gam - Xoai Mut Victory",
+      "description": "On the Tien River section from Rach Gam to Xoai Mut, Nguyen Hue set up a strategic ambush, destroying nearly 50,000 Siamese and Nguyen Anh troops in just one day. This is one of the most glorious naval battles in our nation's history of fighting foreign invaders.",
+      "location": {
+        "commune": "Kim Son",
+        "district": "Chau Thanh",
+        "province": "Tien Giang"
+      },
+      "related_figures": [
+        "Nguyen Hue"
+      ],
+      "tags": [
+        "Tay Son Dynasty",
+        "Naval Battle"
+      ]
+    },
+    {
+      "id": "TienGiang_COLONIAL_01",
+      "year": 1861,
+      "date": "1861-02-00",
+      "title": "Truong Dinh Uprising",
+      "description": "After Gia Dinh Citadel fell, Truong Dinh withdrew his troops to Go Cong to establish a base (Dam La Toi Troi) and recruit volunteer soldiers to fight the French. He was honored by the people as 'Binh Tay Dai Nguyen Soai', becoming the leading figure of the anti-French resistance movement in Nam Ky.",
+      "location": {
+        "commune": "Gia Thuan",
+        "district": "Go Cong Dong",
+        "province": "Tien Giang"
+      },
+      "related_figures": [
+        "Truong Dinh"
+      ],
+      "tags": [
+        "Anti-French",
+        "Can Vuong"
+      ]
+    },
+    {
+      "id": "TienGiang_REV_01",
+      "year": 1940,
+      "date": "1940-08-12",
+      "title": "Establishment of the My Tho Provisional Provincial Party Committee",
+      "description": "The conference to establish the My Tho Provisional Provincial Party Committee was held in Rach Gam (Kim Son Commune), with Comrade Phan Van Khoe serving as Secretary. The conference proposed a plan to urgently prepare for an armed uprising, laying the groundwork for the Nam Ky Uprising.",
+      "location": {
+        "commune": "Kim Son",
+        "district": "Chau Thanh",
+        "province": "Tien Giang"
+      },
+      "related_figures": [
+        "Phan Van Khoe"
+      ],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "TienGiang_REV_02",
+      "year": 1940,
+      "date": "1940-11-23",
+      "title": "Nam Ky Uprising (First Appearance of the National Flag)",
+      "description": "At Long Hung Communal House, the My Tho Province Uprising Committee made its debut to the public. For the first time in history, the red flag with a five-pointed gold star was hung on a tropical almond tree in the communal house yard. The revolutionary government organized a People's Court to try the cruel henchmen right here.",
+      "location": {
+        "commune": "Long Hung",
+        "district": "Chau Thanh",
+        "province": "Tien Giang"
+      },
+      "related_figures": [
+        "Phan Van Khoe",
+        "Nguyen Thi Thap"
+      ],
+      "tags": [
+        "Nam Ky Uprising",
+        "National Flag"
+      ]
+    },
+    {
+      "id": "TienGiang_REV_03",
+      "year": 1945,
+      "date": "1945-08-24",
+      "title": "Seizing Power in My Tho",
+      "description": "Under the leadership of the Provincial Party Committee, tens of thousands of people from Cai Lay and Chau Thanh Districts flocked to My Tho Town, surrounding the Governor's Palace and the military barracks. Governor Nguyen Van Tam fled. The Provisional Revolutionary People's Committee of My Tho Province was established.",
+      "location": {
+        "commune": null,
+        "district": "My Tho City",
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_01",
+      "year": 1963,
+      "date": "1963-01-02",
+      "title": "Ap Bac Victory",
+      "description": "The 261st and 514th Battalions of the Liberation Army defeated a large-scale sweep by 2,000 Saigon troops commanded by US advisors, fully equipped with aircraft and M113 armored personnel carriers. This victory defeated the 'heliborne' and 'armored-borne' tactics, signaling the collapse of the 'Special Warfare' strategy.",
+      "location": {
+        "commune": "Tan Phu",
+        "district": "Cai Lay",
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against America",
+        "Great Victory"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_02",
+      "year": 1967,
+      "date": "1967-05-03",
+      "title": "Establishment of the Rach Gam Anti-American Belt",
+      "description": "In Binh Duc Commune, the US built the Dong Tam Base for the US 9th Infantry Division to station. The military and people of Tien Giang established the 'Rach Gam - Xoai Mut Anti-American Belt' surrounding the base, implementing the motto 'cling to the enemy's belt to fight', shooting down many aircraft and warships right at the enemy's stronghold.",
+      "location": {
+        "commune": "Binh Duc",
+        "district": "Chau Thanh",
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War Against America",
+        "Guerrilla Warfare"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-31",
+      "title": "Tet Mau Than Offensive in My Tho",
+      "description": "The provincial armed forces simultaneously attacked key targets in My Tho Town, such as the Governor's Palace, the 7th Division Command, and the Operations Center. The Liberation Army controlled part of the town for several days, causing heavy losses to the US-puppet forces.",
+      "location": {
+        "commune": null,
+        "district": "My Tho City",
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tet Mau Than",
+        "Military"
+      ]
+    },
+    {
+      "id": "TienGiang_US_WAR_04",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of My Tho City",
+      "description": "In coordination with the general battlefield, the military and people of Tien Giang rose up to attack and called on the enemy to surrender. By 10:30 AM, our troops captured the Governor's Palace and raised the liberation flag on the roof of the puppet 7th Division Command. My Tho Province (Tien Giang) was completely liberated.",
+      "location": {
+        "commune": null,
+        "district": "My Tho City",
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Ho Chi Minh Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "TienGiang_ADMIN_01",
+      "year": 1976,
+      "date": "1976-02-00",
+      "title": "Establishment of Tien Giang Province",
+      "description": "Implementing the Resolution of the Provisional Revolutionary Government, My Tho Province and Go Cong Province were merged into Tien Giang Province. The provincial capital was located in My Tho City, becoming the economic and cultural center of the northern Tien River region.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "TienGiang_ECONOMY_01",
+      "year": 2009,
+      "date": "2009-01-19",
+      "title": "Inauguration of Rach Mieu Bridge",
+      "description": "Rach Mieu Bridge, connecting Tien Giang and Ben Tre provinces, was officially opened to traffic. This is the first cable-stayed bridge entirely designed and constructed by Vietnamese engineers, ending Ben Tre's 'island' isolation and boosting Tien Giang's economy.",
+      "location": {
+        "commune": "Thoi Son",
+        "district": "My Tho City",
+        "province": "Tien Giang"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Transportation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "events": [
+    {
+      "id": "SonLa_LE_01",
+      "year": 1440,
+      "date": null,
+      "title": "King Le Thai Tong composed a poem at Que Lam Ngu Che",
+      "description": "After personally leading the army to suppress the rebellion of Thuong Nghiem in the Northwest region, King Le Thai Tong rested at Tham Bao Cave and carved the poem 'Que Lam Ngu Che' on the cliff, asserting the national territorial sovereignty of Dai Viet.",
+      "location": {
+        "commune": "Chieng Le",
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [
+        "Le Thai Tong"
+      ],
+      "tags": [
+        "Le So Dynasty",
+        "Sovereignty",
+        "Culture"
+      ]
+    },
+    {
+      "id": "SonLa_COLONIAL_01",
+      "year": 1895,
+      "date": "1895-10-10",
+      "title": "Establishment of Son La Province",
+      "description": "Governor-General of Indochina Rousseau signed the Decree establishing Son La Province by separating land from Hung Hoa Province. The provincial capital was initially located in Van Yen (Phu Yen), then moved to Khau Ca Hill (present-day Son La City).",
+      "location": {
+        "commune": null,
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "SonLa_COLONIAL_02",
+      "year": 1908,
+      "date": null,
+      "title": "Construction of Son La Prison",
+      "description": "The French colonialists built a solid prison on Khau Ca Hill to detain political prisoners. This place was likened to \"hell on earth\" but became a revolutionary school that trained many loyal communist soldiers.",
+      "location": {
+        "commune": "To Hieu",
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "French colonial period",
+        "Son La Prison"
+      ]
+    },
+    {
+      "id": "SonLa_REV_01",
+      "year": 1939,
+      "date": "1939-12-01",
+      "title": "Establishment of the Party Cell at Son La Prison",
+      "description": "In the cell of Son La Prison, the Communist Party Cell was secretly established with Comrade Nguyen Luong Bang as Secretary (later To Hieu). The Party Cell turned the prison into a revolutionary school, leading the prisoners' struggle.",
+      "location": {
+        "commune": "To Hieu",
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [
+        "Nguyen Luong Bang",
+        "To Hieu"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "SonLa_REV_02",
+      "year": 1945,
+      "date": "1945-08-26",
+      "title": "Uprising to seize power in Son La",
+      "description": "The Muong La National Salvation Youth forces and the masses carrying red flags with yellow stars and rudimentary weapons flooded Khau Ca Hill, seizing the Resident's Palace and the Civil Guard Camp. The provisional revolutionary government of Son La Province was established.",
+      "location": {
+        "commune": null,
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [
+        "Chu Van Thinh"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "SonLa_FRENCH_WAR_01",
+      "year": 1952,
+      "date": "1952-11-22",
+      "title": "Liberation of Son La (Northwest Campaign)",
+      "description": "Regiment 148 and main force units attacked and pursued the French troops retreating from Nghia Lo. French troops in Son La Town fled to Na San. Our soldiers entered to take over the town, liberating Son La Province (except for the Na San stronghold group).",
+      "location": {
+        "commune": null,
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Northwest Campaign",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "SonLa_FRENCH_WAR_02",
+      "year": 1953,
+      "date": null,
+      "title": "Defending Co Noi Junction",
+      "description": "Co Noi Junction was a vital traffic bottleneck on Route 6, where French troops dropped 300 tons of bombs and ammunition to cut off the supply line to Dien Bien Phu. The Volunteer Youth force tenaciously held their ground with the spirit of \"Cling to the roads and bridges while alive, die with bravery and resilience\" to keep the traffic flowing.",
+      "location": {
+        "commune": "Co Noi",
+        "district": "Mai Son",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Dien Bien Phu",
+        "Volunteer Youth"
+      ]
+    },
+    {
+      "id": "SonLa_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-08-12",
+      "title": "French withdrawal from Na San",
+      "description": "The Na San stronghold group (built by the French in 1952 as a model for Dien Bien Phu) was completely isolated. French troops were forced to organize an aerial withdrawal (Operation Hirondelle) to flee to Hanoi, leaving Son La completely clear of enemy forces.",
+      "location": {
+        "commune": "Hat Lot",
+        "district": "Mai Son",
+        "province": "Son La"
+      },
+      "related_figures": [
+        "Raoul Salan"
+      ],
+      "tags": [
+        "Resistance War against the French",
+        "Na San"
+      ]
+    },
+    {
+      "id": "SonLa_ADMIN_01",
+      "year": 1955,
+      "date": "1955-05-07",
+      "title": "Launching ceremony of the Thai - Meo Autonomous Region",
+      "description": "More than ten thousand people of various ethnic groups held a rally in the capital of Thuan Chau to welcome the establishment of the Thai - Meo Autonomous Region. This was a major political event, implementing the right to equality and self-determination of the ethnic groups in the Northwest.",
+      "location": {
+        "commune": "Thuan Chau",
+        "district": "Thuan Chau",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Autonomous Region"
+      ]
+    },
+    {
+      "id": "SonLa_ECONOMY_01",
+      "year": 1958,
+      "date": "1958-04-08",
+      "title": "Establishment of Moc Chau Farm",
+      "description": "Soldiers of Regiment 280 (Division 335), after completing their international mission in Laos, transitioned to economic development, establishing the Moc Chau Military Farm, marking the beginning of the construction of the prosperous Moc Chau plateau.",
+      "location": {
+        "commune": null,
+        "district": "Moc Chau",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Farm"
+      ]
+    },
+    {
+      "id": "SonLa_US_WAR_01",
+      "year": 1965,
+      "date": "1965-06-14",
+      "title": "First battle shooting down a US aircraft",
+      "description": "Anti-aircraft Artillery Company 24 and the self-defense militia of Son La Town fought bravely, shooting down a US F-105 aircraft on the spot as they bombed the town, initiating the achievements of shooting down US aircraft by the army and people of Son La.",
+      "location": {
+        "commune": null,
+        "district": "Son La City",
+        "province": "Son La"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against the US",
+        "Air defense"
+      ]
+    }
+  ]
+}

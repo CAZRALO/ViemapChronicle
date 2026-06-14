@@ -1,0 +1,199 @@
+{
+  "events": [
+    {
+      "id": "QuangTri_NGUYEN_01",
+      "year": 1558,
+      "date": null,
+      "title": "Lord Nguyen Hoang entered to defend Thuan Hoa",
+      "description": "Nguyen Hoang, along with his family and soldiers, stationed in Ai Tu, starting the career of the Nguyen lords in Dang Trong. The land of Ai Tu - Tra Bat became the first capital, laying the foundation for the southward expansion of the territory.",
+      "location": {
+        "commune": "Trieu Ai",
+        "district": "Trieu Phong",
+        "province": "Quang Tri"
+      },
+      "related_figures": [
+        "Nguyen Hoang"
+      ],
+      "tags": [
+        "Nguyen Lord",
+        "Dang Trong"
+      ]
+    },
+    {
+      "id": "QuangTri_CANVUONG_01",
+      "year": 1885,
+      "date": "1885-07-13",
+      "title": "Issuing the Can Vuong Edict at Tan So",
+      "description": "After the fall of the Hue Citadel, Ton That Thuyet took King Ham Nghi to the Tan So base. Here, on behalf of the king, he issued the first Can Vuong Edict, calling on scholars, intellectuals, and the people to rise up and help the king save the country.",
+      "location": {
+        "commune": "Cam Chinh",
+        "district": "Cam Lo",
+        "province": "Quang Tri"
+      },
+      "related_figures": [
+        "Ham Nghi",
+        "Ton That Thuyet"
+      ],
+      "tags": [
+        "Can Vuong Movement",
+        "Anti-French"
+      ]
+    },
+    {
+      "id": "QuangTri_REV_01",
+      "year": 1930,
+      "date": "1930-04-21",
+      "title": "Establishment of the Communist Party Committee of Quang Tri Province",
+      "description": "At the house of Mrs. Nguyen Thi Loi (Phuoc Kiem Village), the Conference to establish the Quang Tri Province Party Committee was held, electing a provisional Executive Committee. This was a milestone marking the direct leadership of the Party over the local revolutionary movement.",
+      "location": {
+        "commune": "Cam Thanh",
+        "district": "Cam Lo",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Party Establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "QuangTri_FRENCH_WAR_01",
+      "year": 1954,
+      "date": "1954-08-25",
+      "title": "The 17th Parallel and the division of the country",
+      "description": "According to the Geneva Accords, the Ben Hai River (17th parallel) was chosen as the temporary military demarcation line. Hien Luong Bridge became a symbol of the pain of division between the North and the South for over 20 years.",
+      "location": {
+        "commune": "Hien Luong",
+        "district": "Vinh Linh",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Geneva Accords",
+        "Division"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_01",
+      "year": 1965,
+      "date": "1965-02-08",
+      "title": "Airstrikes on Con Co Island",
+      "description": "The US Air Force and Navy began fiercely attacking Con Co Island - the 'outpost watchtower' of the socialist North. The officers and soldiers of Con Co Island fought resiliently for many years, receiving commendation letters from Uncle Ho 3 times.",
+      "location": {
+        "commune": null,
+        "district": "Con Co",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against America",
+        "Islands"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_02",
+      "year": 1966,
+      "date": null,
+      "title": "Completion of Vinh Moc Tunnels",
+      "description": "The military and people of Vinh Linh painstakingly dug the Vinh Moc tunnel system, nearly 2km long in the red basalt soil, to serve as a shelter and living space for hundreds of residents against the destructive bombing of the US military.",
+      "location": {
+        "commune": "Vinh Thach",
+        "district": "Vinh Linh",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against America",
+        "Tunnels"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_03",
+      "year": 1968,
+      "date": "1968-01-20",
+      "title": "Route 9 - Khe Sanh Campaign",
+      "description": "The People's Army of Vietnam launched a campaign to besiege the US Marine base at Khe Sanh (Ta Con). The 77-day siege attracted and pinned down a large force of US troops, creating favorable conditions for the Tet Offensive across the South.",
+      "location": {
+        "commune": "Tan Hop",
+        "district": "Huong Hoa",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against America",
+        "Khe Sanh"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_04",
+      "year": 1972,
+      "date": "1972-05-01",
+      "title": "First liberation of Quang Tri Town",
+      "description": "During the 1972 Strategic Offensive, our troops breached the Route 9 defense line, forcing the Saigon army to retreat. Quang Tri Province was liberated for the first time, sending shockwaves through international public opinion.",
+      "location": {
+        "commune": null,
+        "district": "Quang Tri Town",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Fiery Red Summer",
+        "Liberation"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_05",
+      "year": 1972,
+      "date": "1972-06-28",
+      "title": "The 81-day-and-night battle to defend the Ancient Citadel",
+      "description": "The US and ARVN military launched an operation to reoccupy Quang Tri. The Liberation Army soldiers held their ground resiliently in the Quang Tri Ancient Citadel for 81 days and nights (from June 28 to September 16) under an unprecedentedly horrific density of bombs and shells, writing an immortal epic.",
+      "location": {
+        "commune": null,
+        "district": "Quang Tri Town",
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Fiery Red Summer",
+        "Quang Tri Ancient Citadel"
+      ]
+    },
+    {
+      "id": "QuangTri_US_WAR_06",
+      "year": 1973,
+      "date": "1973-06-06",
+      "title": "Inauguration of the Headquarters of the Provisional Revolutionary Government",
+      "description": "After the Paris Peace Accords were signed, the Provisional Revolutionary Government of the Republic of South Vietnam established its headquarters in Cam Lo. Here, many foreign ambassadors came to present their credentials, notably the historic visit of Cuban President Fidel Castro (September 1973).",
+      "location": {
+        "commune": "Cam Lo",
+        "district": "Cam Lo",
+        "province": "Quang Tri"
+      },
+      "related_figures": [
+        "Nguyen Huu Tho",
+        "Fidel Castro"
+      ],
+      "tags": [
+        "Diplomacy",
+        "Politics"
+      ]
+    },
+    {
+      "id": "QuangTri_ADMIN_01",
+      "year": 1989,
+      "date": "1989-06-30",
+      "title": "Re-establishment of Quang Tri Province",
+      "description": "The 8th National Assembly passed a Resolution to split Binh Tri Thien Province (merged since 1976) back into 3 provinces: Quang Binh, Quang Tri, and Thua Thien Hue. Quang Tri Province officially resumed operations on July 1, 1989.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Quang Tri"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Province Re-establishment"
+      ]
+    }
+  ]
+}

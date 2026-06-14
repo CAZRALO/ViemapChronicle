@@ -1,0 +1,211 @@
+{
+  "events": [
+    {
+      "id": "ThaiNguyen_LY_01",
+      "year": 1127,
+      "date": null,
+      "title": "Duong Tu Minh was married to the princess",
+      "description": "Duong Tu Minh, leader of Phu Luong Prefecture (including present-day Thai Nguyen), made great contributions to securing the northern border. He was married to Princess Dien Binh by King Ly Nhan Tong, becoming a consort of the Ly Dynasty and a symbol of national unity.",
+      "location": {
+        "commune": "Dong Dat",
+        "district": "Phu Luong",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Duong Tu Minh",
+        "Ly Nhan Tong"
+      ],
+      "tags": [
+        "Ly Dynasty",
+        "Historical figure"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_COLONIAL_01",
+      "year": 1917,
+      "date": "1917-08-30",
+      "title": "Thai Nguyen Uprising",
+      "description": "Doi Can (Trinh Van Can) and Luong Ngoc Quyen led soldiers and political prisoners to rise up, seize the barracks, break open the Thai Nguyen prison, and control the provincial capital for 7 days. This was the largest armed uprising in Tonkin during World War I.",
+      "location": {
+        "commune": "Trung Vuong",
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Doi Can",
+        "Luong Ngoc Quyen"
+      ],
+      "tags": [
+        "Anti-French",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_REV_01",
+      "year": 1941,
+      "date": "1941-09-15",
+      "title": "Establishment of the 2nd National Salvation Army Platoon",
+      "description": "In Khuon Manh forest, the 2nd National Salvation Army Platoon was established, marking the development of the revolutionary armed forces after the Bac Son Uprising, becoming the core of guerrilla warfare in the Vo Nhai - Thai Nguyen region.",
+      "location": {
+        "commune": "Trang Xa",
+        "district": "Vo Nhai",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Chu Van Tan"
+      ],
+      "tags": [
+        "Armed forces",
+        "Pre-uprising"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_REV_02",
+      "year": 1945,
+      "date": "1945-05-15",
+      "title": "Merger of the Vietnam Propaganda Liberation Army and the National Salvation Army",
+      "description": "At the Quang village communal house, the merger ceremony of the Vietnam Propaganda Liberation Army and the National Salvation Army into the Vietnam Liberation Army took place. Comrade Vo Nguyen Giap was appointed Commander.",
+      "location": {
+        "commune": "Dinh Bien",
+        "district": "Dinh Hoa",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap",
+        "Chu Van Tan"
+      ],
+      "tags": [
+        "Military",
+        "Establishment of organization"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_REV_03",
+      "year": 1945,
+      "date": "1945-08-20",
+      "title": "Liberation of Thai Nguyen Town",
+      "description": "The Liberation Army detachment commanded by Comrade Vo Nguyen Giap advanced from Tan Trao to surround and attack the Japanese forces in Thai Nguyen Town. On the afternoon of the same day, the Uprising Committee announced the abolition of the puppet government and established the Provisional Revolutionary People's Committee.",
+      "location": {
+        "commune": null,
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_FRENCH_WAR_01",
+      "year": 1947,
+      "date": "1947-05-20",
+      "title": "Uncle Ho arrives at ATK Dinh Hoa",
+      "description": "President Ho Chi Minh, along with the Party Central Committee agencies and the Government, moved to ATK (Safe Zone) Dinh Hoa to lead the long-term resistance war. Khau Ty Hill was his first residence and workplace in the ATK.",
+      "location": {
+        "commune": "Diem Mac",
+        "district": "Dinh Hoa",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "ATK Dinh Hoa",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_FRENCH_WAR_02",
+      "year": 1948,
+      "date": "1948-05-28",
+      "title": "The first General promotion ceremony",
+      "description": "At Na Lom Hill (by the Khuon Tat stream), President Ho Chi Minh presided over the ceremony to promote Commander-in-Chief Vo Nguyen Giap to the rank of General. He was the first General of the Vietnam People's Army.",
+      "location": {
+        "commune": "Phu Dinh",
+        "district": "Dinh Hoa",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Ho Chi Minh",
+        "Vo Nguyen Giap"
+      ],
+      "tags": [
+        "Military",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_FRENCH_WAR_03",
+      "year": 1953,
+      "date": "1953-12-06",
+      "title": "Decision to launch the Dien Bien Phu Campaign",
+      "description": "At Tin Keo hut, the Party Central Committee Politburo, presided over by President Ho Chi Minh, met and approved the 1953-1954 Winter-Spring combat plan, deciding to launch the historic Dien Bien Phu Campaign.",
+      "location": {
+        "commune": "Phu Dinh",
+        "district": "Dinh Hoa",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Dien Bien Phu",
+        "ATK Dinh Hoa"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_INDUSTRY_01",
+      "year": 1963,
+      "date": "1963-11-29",
+      "title": "The first batch of pig iron from the Thai Nguyen Iron and Steel Complex",
+      "description": "Blast Furnace No. 1 of the Thai Nguyen Iron and Steel Industrial Zone produced its first batch of pig iron. This event marked the birth of Vietnam's ferrous metallurgy industry, turning Thai Nguyen into the 'Steel City'.",
+      "location": {
+        "commune": "Cam Gia",
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Industry"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_US_WAR_01",
+      "year": 1972,
+      "date": "1972-12-24",
+      "title": "Shooting down B-52 bombers",
+      "description": "During the Dien Bien Phu in the Air campaign, Self-Defense Company 98 of the Thai Nguyen Iron and Steel Complex and the 256th Anti-Aircraft Regiment coordinated their fight, shooting down two US B-52 bombers as they bombed to destroy the industrial zone.",
+      "location": {
+        "commune": null,
+        "district": "Thai Nguyen City",
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "B-52"
+      ]
+    },
+    {
+      "id": "ThaiNguyen_ADMIN_01",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Thai Nguyen Province",
+      "description": "The 9th National Assembly passed the Resolution to split Bac Thai Province (merged since 1965) back into two provinces, Thai Nguyen and Bac Kan. Thai Nguyen Province officially operated under the new administrative unit from 01/01/1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thai Nguyen"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administrative",
+        "Province re-establishment"
+      ]
+    }
+  ]
+}

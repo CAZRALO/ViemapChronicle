@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "YenBai_TRAN_01",
+      "year": 1285,
+      "date": null,
+      "title": "Thu Vat Victory",
+      "description": "During the second resistance war against the Yuan-Mongol invaders, General Tran Nhat Duat commanded the army and people to intercept the enemy at Thu Vat camp (present-day Yen Binh), capturing the enemy general and traitors, protecting the western flank of Dai Viet.",
+      "location": {
+        "commune": null,
+        "district": "Yen Binh",
+        "province": "Yen Bai"
+      },
+      "related_figures": [
+        "Tran Nhat Duat"
+      ],
+      "tags": [
+        "Resistance war against the Yuan-Mongols",
+        "Military"
+      ]
+    },
+    {
+      "id": "YenBai_COLONIAL_01",
+      "year": 1900,
+      "date": "1900-04-11",
+      "title": "Establishment of Yen Bai Province",
+      "description": "Governor-General of French Indochina Paul Doumer signed a Decree establishing Yen Bai Province by separating a part of Hung Hoa Province. The provincial capital was located in Yen Bai village on the banks of the Red River.",
+      "location": {
+        "commune": null,
+        "district": "Yen Bai City",
+        "province": "Yen Bai"
+      },
+      "related_figures": [
+        "Paul Doumer"
+      ],
+      "tags": [
+        "Administration",
+        "French colonial period"
+      ]
+    },
+    {
+      "id": "YenBai_VNQDD_01",
+      "year": 1930,
+      "date": "1930-02-10",
+      "title": "Yen Bai Uprising",
+      "description": "The Vietnamese Nationalist Party led by Nguyen Thai Hoc organized an armed uprising to seize power at the Yen Bai colonial militia barracks. Despite its failure, the uprising resonated greatly with the famous saying: 'If we do not succeed, we will still become martyrs'.",
+      "location": {
+        "commune": "Hong Ha",
+        "district": "Yen Bai City",
+        "province": "Yen Bai"
+      },
+      "related_figures": [
+        "Nguyen Thai Hoc",
+        "Pho Duc Chinh",
+        "Nguyen Khac Nhu"
+      ],
+      "tags": [
+        "Vietnamese Nationalist Party",
+        "Uprising"
+      ]
+    },
+    {
+      "id": "YenBai_VNQDD_02",
+      "year": 1930,
+      "date": "1930-06-17",
+      "title": "The execution of 13 Yen Bai martyrs",
+      "description": "The French colonialists set up a guillotine in Yen Bai Town to execute Nguyen Thai Hoc and his 12 comrades. This event shocked domestic and international public opinion, fanning the flames of patriotism.",
+      "location": {
+        "commune": null,
+        "district": "Yen Bai City",
+        "province": "Yen Bai"
+      },
+      "related_figures": [
+        "Nguyen Thai Hoc"
+      ],
+      "tags": [
+        "French colonial period",
+        "Historical event"
+      ]
+    },
+    {
+      "id": "YenBai_REV_01",
+      "year": 1945,
+      "date": "1945-06-30",
+      "title": "Establishment of the first Party Cell",
+      "description": "At the Van war zone (Hien Luong), the first Communist Party Cell of Yen Bai Province was established. This was the core leading the revolutionary movement, preparing forces for the General Uprising.",
+      "location": {
+        "commune": "Viet Hong",
+        "district": "Tran Yen",
+        "province": "Yen Bai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Establishment of the Party",
+        "Van War Zone"
+      ]
+    },
+    {
+      "id": "YenBai_REV_02",
+      "year": 1945,
+      "date": "1945-08-22",
+      "title": "Seizing power in Yen Bai provincial capital",
+      "description": "The armed forces of the Van war zone, in coordination with the masses, entered Yen Bai Town, disarmed the security guards, took over public offices, and established the Provisional Revolutionary People's Committee.",
+      "location": {
+        "commune": null,
+        "district": "Yen Bai City",
+        "province": "Yen Bai"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "YenBai_FRENCH_WAR_01",
+      "year": 1952,
+      "date": "1952-10-17",
+      "title": "Nghia Lo Victory (Opening the Northwest Campaign)",
+      "description": "Division 308 launched a lightning attack to destroy the Nghia Lo sub-sector—a stronghold dubbed the 'steel door' of the French in the Northwest. This victory shattered the Da River defense line, paving the way for the complete liberation of the Northwest region.",
+      "location": {
+        "commune": "Pu Trang",
+        "district": "Nghia Lo Town",
+        "province": "Yen Bai"
+      },
+      "related_figures": [
+        "Vuong Thua Vu"
+      ],
+      "tags": [
+        "Northwest Campaign",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "YenBai_FRENCH_WAR_02",
+      "year": 1952,
+      "date": "1952-11-22",
+      "title": "Complete liberation of Yen Bai Province",
+      "description": "Following the defeat at Nghia Lo and neighboring fronts, French troops retreated from the remaining positions. Yen Bai Province was cleared of enemy forces, becoming a major rear area providing human and material resources for the subsequent Dien Bien Phu campaign.",
+      "location": {
+        "commune": null,
+        "district": "Yen Bai City",
+        "province": "Yen Bai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "YenBai_US_WAR_01",
+      "year": 1965,
+      "date": "1965-05-31",
+      "title": "First victory against the US Air Force",
+      "description": "The armed forces of Yen Bai shot down the first US F-105 aircraft in the area of Bao Hung and Minh Quan Communes, initiating the 'shooting down US aircraft' movement of the local army and people.",
+      "location": {
+        "commune": "Bao Hung",
+        "district": "Tran Yen",
+        "province": "Yen Bai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the US",
+        "Air defense"
+      ]
+    },
+    {
+      "id": "YenBai_ADMIN_01",
+      "year": 1991,
+      "date": "1991-08-12",
+      "title": "Re-establishment of Yen Bai Province",
+      "description": "The 8th National Assembly passed a Resolution to split Hoang Lien Son Province (merged since 1976) into two provinces: Yen Bai and Lao Cai. Yen Bai Province officially operated under the new administrative unit from October 1, 1991.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Yen Bai"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Re-establishment of the province"
+      ]
+    }
+  ]
+}

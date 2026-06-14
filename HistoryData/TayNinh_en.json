@@ -1,0 +1,188 @@
+{
+  "events": [
+    {
+      "id": "TayNinh_RELIGION_01",
+      "year": 1926,
+      "date": "1926-11-18",
+      "title": "Founding of Cao Dai",
+      "description": "The official Founding Ceremony of Cao Dai was solemnly held at Go Ken Pagoda (Hoa Thanh District). This event marked the birth of Cao Dai - a major indigenous religion in Vietnam, after which the Tay Ninh Holy See was built and became the center of this religion.",
+      "location": {
+        "commune": "Long Thanh Trung",
+        "district": "Hoa Thanh Town",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [
+        "Le Van Trung",
+        "Cao Quynh Cu",
+        "Pham Cong Tac"
+      ],
+      "tags": [
+        "Religion",
+        "Culture"
+      ]
+    },
+    {
+      "id": "TayNinh_REV_01",
+      "year": 1930,
+      "date": "1930-06-00",
+      "title": "Establishment of the First Party Cell (Giong Nan)",
+      "description": "In the Giong Nan forest (Ben Cau), the first Communist Party Cell of Tay Ninh Province was established. This was the leading banner that gathered and enlightened the masses, and led the revolutionary movement in the Southwest border region.",
+      "location": {
+        "commune": "Long Vinh",
+        "district": "Chau Thanh",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [
+        "Truong Van Chan"
+      ],
+      "tags": [
+        "Establishment of the Party",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "TayNinh_REV_02",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing Power in Tay Ninh",
+      "description": "The Vanguard Youth forces and the masses surrounded the Governor's Palace, forcing Governor Ho Van Vui to hand over power. The Provisional Administrative Committee of Tay Ninh Province made its debut to the public at the provincial stadium.",
+      "location": {
+        "commune": null,
+        "district": "Tay Ninh City",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing Power"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_01",
+      "year": 1960,
+      "date": "1960-01-26",
+      "title": "Tua Hai Victory",
+      "description": "The armed forces of the Southeast region launched a surprise attack on the Tua Hai base (headquarters of the 32nd Regiment of the Saigon army). The battle wiped out and captured many enemy troops, and seized a large amount of weapons. This was the 'opening signal' that initiated the armed Dong Khoi (General Uprising) movement in the Southeast region.",
+      "location": {
+        "commune": "Dong Khoi",
+        "district": "Chau Thanh",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [
+        "Nguyen Huu Xuyen"
+      ],
+      "tags": [
+        "Dong Khoi",
+        "Great Victory"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_02",
+      "year": 1961,
+      "date": "1961-10-10",
+      "title": "Establishment of the Central Office for South Vietnam (Base R)",
+      "description": "The conference to establish the Central Office for South Vietnam took place in Ma Da, then moved to the Chang Riec base (North Tay Ninh). Tay Ninh became the 'Resistance Capital', where the headquarters directing the Southern revolution was stationed until the day of victory.",
+      "location": {
+        "commune": "Tan Lap",
+        "district": "Tan Bien",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [
+        "Nguyen Van Linh",
+        "Nguyen Chi Thanh",
+        "Pham Hung"
+      ],
+      "tags": [
+        "Base Area",
+        "Headquarters"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_03",
+      "year": 1967,
+      "date": "1967-02-22",
+      "title": "Defeating Operation Junction City",
+      "description": "The US mobilized 45,000 troops, launching the largest operation of the war (Operation Junction City) against the Duong Minh Chau war zone to destroy the Central Office. The military and people of Tay Ninh, along with the headquarters, resiliently held their ground, broke the enemy's pincers, and safely protected the base.",
+      "location": {
+        "commune": null,
+        "district": "Tan Bien, Tan Chau",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [
+        "Hoang Van Thai"
+      ],
+      "tags": [
+        "Resistance War Against the US",
+        "Anti-sweep Campaign"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_04",
+      "year": 1975,
+      "date": "1975-01-07",
+      "title": "Liberation of Ba Den Mountain",
+      "description": "Division 5 and the commando forces attacked and destroyed the strategic communication base of the US-Puppet regime on the peak of Ba Den Mountain (dubbed the 'Magic Eye' of the Southeast region). The capture of Ba Den Mountain paralyzed the enemy's communication system in the region.",
+      "location": {
+        "commune": "Thanh Tan",
+        "district": "Tay Ninh City",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Spring 1975 Campaign",
+        "Victory"
+      ]
+    },
+    {
+      "id": "TayNinh_US_WAR_05",
+      "year": 1975,
+      "date": "1975-04-30",
+      "title": "Liberation of Tay Ninh Province",
+      "description": "In coordination with the historic Ho Chi Minh Campaign, the provincial armed forces attacked Tay Ninh Town. By 11:00 AM on April 30, our troops took control of the Administrative Building, and Tay Ninh Province was completely liberated, contributing to the great victory of the entire nation.",
+      "location": {
+        "commune": null,
+        "district": "Tay Ninh City",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Reunification Day"
+      ]
+    },
+    {
+      "id": "TayNinh_BORDER_WAR_01",
+      "year": 1977,
+      "date": "1977-09-25",
+      "title": "Tan Lap Massacre (Southwest Border War)",
+      "description": "Taking advantage of the darkness, the Khmer Rouge (Pol Pot) forces crossed into Tan Lap Commune, committing a barbaric massacre that killed 592 innocent civilians (mostly the elderly, women, and children). This event was the pinnacle of their atrocities, forcing the Vietnamese military to organize a self-defense counter-offensive.",
+      "location": {
+        "commune": "Tan Lap",
+        "district": "Tan Bien",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Border War",
+        "Tragic Event"
+      ]
+    },
+    {
+      "id": "TayNinh_ECONOMY_01",
+      "year": 1981,
+      "date": "1981-04-29",
+      "title": "Groundbreaking of Dau Tieng Reservoir",
+      "description": "The Dau Tieng Reservoir irrigation project (the largest in Southeast Asia at the time) officially commenced construction on the upper reaches of the Saigon River. Completed in 1985, the project 'quenched the thirst' of tens of thousands of hectares of agricultural land in Tay Ninh and neighboring provinces.",
+      "location": {
+        "commune": "Phuoc Minh",
+        "district": "Duong Minh Chau",
+        "province": "Tay Ninh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Irrigation"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "events": [
+    {
+      "id": "VinhPhuc_TRAN_01",
+      "year": 1258,
+      "date": "1258-01-17",
+      "title": "Battle of Binh Le Nguyen",
+      "description": "The opening battle of the first resistance war against the Mongol-Yuan army. King Tran Thai Tong directly commanded the Dai Viet army to block and attack the Mongol army led by Ngot Luong Hop Thai. Despite having to retreat to preserve forces, the battle wore down the enemy's strength.",
+      "location": {
+        "commune": "Dao Duc",
+        "district": "Binh Xuyen",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [
+        "Tran Thai Tong",
+        "Le Tan",
+        "Ngot Luong Hop Thai"
+      ],
+      "tags": [
+        "Resistance War against the Mongol-Yuan",
+        "Military"
+      ]
+    },
+    {
+      "id": "VinhPhuc_LE_TRINH_01",
+      "year": 1740,
+      "date": null,
+      "title": "Nguyen Danh Phuong Uprising",
+      "description": "Nguyen Danh Phuong (Quan Heo) gathered peasants to rise up against the Le - Trinh administration, building a solid base in the Tam Dao mountainous region (Doc Ton, Ngoc Thanh). The uprising lasted for more than 10 years, controlling a vast area in Son Tay, Thai Nguyen, and Tuyen Quang.",
+      "location": {
+        "commune": "Ngoc Thanh",
+        "district": "Phuc Yen",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [
+        "Nguyen Danh Phuong"
+      ],
+      "tags": [
+        "Peasant uprising",
+        "Local history"
+      ]
+    },
+    {
+      "id": "VinhPhuc_REV_01",
+      "year": 1930,
+      "date": "1930-03-01",
+      "title": "Establishment of the Vinh Tuong Party Cell",
+      "description": "The first Communist Party Cell of Vinh Yen Province (now Vinh Phuc) was established in Bich Chu Hamlet. This event marked a turning point in the local revolutionary movement under the leadership of the Party.",
+      "location": {
+        "commune": "An Tuong",
+        "district": "Vinh Tuong",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [
+        "Le Xoay"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "VinhPhuc_REV_02",
+      "year": 1945,
+      "date": "1945-08-19",
+      "title": "Seizing power in Vinh Yen provincial capital",
+      "description": "The Viet Minh forces and the masses besieged, attacked, and captured the Vinh Yen Post and the Governor's Palace, seizing power for the people during the August General Uprising.",
+      "location": {
+        "commune": "Ngo Quyen",
+        "district": "Vinh Yen",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "VinhPhuc_FRENCH_01",
+      "year": 1947,
+      "date": "1947-11-23",
+      "title": "Khoan Bo Victory",
+      "description": "Guerrillas and local soldiers organized an ambush on a French motorized convoy and infantry on Route 2 (the section passing through Khoan Bo slope). Our troops destroyed many European-African soldiers and military vehicles, breaking an offensive spearhead in the French Fall-Winter campaign.",
+      "location": {
+        "commune": "Phuong Khoan",
+        "district": "Lap Thach",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against the French",
+        "Guerrilla warfare"
+      ]
+    },
+    {
+      "id": "VinhPhuc_FRENCH_02",
+      "year": 1950,
+      "date": "1950-05-24",
+      "title": "Battle of Xuan Trach",
+      "description": "Battalion 428 and local forces attacked and destroyed the Xuan Trach position, an important French outpost aimed at controlling the Lo River region. This victory expanded the Lap Thach - Song Lo free zone.",
+      "location": {
+        "commune": "Xuan Hoa",
+        "district": "Lap Thach",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against the French",
+        "Military"
+      ]
+    },
+    {
+      "id": "VinhPhuc_FRENCH_03",
+      "year": 1951,
+      "date": "1951-01-13",
+      "title": "Battle of Vinh Yen (Tran Hung Dao Campaign)",
+      "description": "One of the largest battles in the resistance war against the French in Northern Vietnam. Divisions 308 and 312, under the command of General Vo Nguyen Giap, engaged in fierce fighting with the mobile group of General De Lattre de Tassigny in the mountainous area north of Vinh Yen.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Yen",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [
+        "Vo Nguyen Giap",
+        "Jean de Lattre de Tassigny"
+      ],
+      "tags": [
+        "Tran Hung Dao Campaign",
+        "Resistance War against the French"
+      ]
+    },
+    {
+      "id": "VinhPhuc_AGRI_01",
+      "year": 1966,
+      "date": "1966-09-10",
+      "title": "Resolution 68 (Khoan ho - Khoan 10)",
+      "description": "The Vinh Phuc Provincial Party Committee, chaired by Secretary Kim Ngoc, issued Resolution No. 68-NQ/TU on 'Several issues in agricultural labor management', initiating the household contract system. This was a breakthrough in economic thinking, serving as a precursor to Khoan 10 and the subsequent Doi Moi reform.",
+      "location": {
+        "commune": null,
+        "district": "Vinh Yen",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [
+        "Kim Ngoc"
+      ],
+      "tags": [
+        "Economy",
+        "Doi Moi",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "VinhPhuc_US_WAR_01",
+      "year": 1967,
+      "date": "1967-10-17",
+      "title": "Shooting down of F-105D aircraft",
+      "description": "The militia and self-defense forces of Tien Chau Commune coordinated with air defense troops to shoot down a US F-105D 'Thunderchief' aircraft as they were attacking vital transportation routes through the area.",
+      "location": {
+        "commune": "Tien Chau",
+        "district": "Phuc Yen",
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance War against the US",
+        "People's air defense"
+      ]
+    },
+    {
+      "id": "VinhPhuc_ADMIN_01",
+      "year": 1968,
+      "date": "1968-01-26",
+      "title": "Establishment of Vinh Phu Province",
+      "description": "The Standing Committee of the National Assembly issued Resolution No. 504-NQ/TVQH merging the two provinces of Vinh Phuc and Phu Tho into Vinh Phu Province to concentrate resources for the resistance war against the US and the building of socialism.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Merger"
+      ]
+    },
+    {
+      "id": "VinhPhuc_ADMIN_02",
+      "year": 1996,
+      "date": "1996-11-06",
+      "title": "Re-establishment of Vinh Phuc Province",
+      "description": "At its 10th session, the 9th National Assembly passed a Resolution to split Vinh Phu Province back into two provinces, Vinh Phuc and Phu Tho. Vinh Phuc Province officially resumed operations on January 1, 1997.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Vinh Phuc"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial re-establishment"
+      ]
+    }
+  ]
+}

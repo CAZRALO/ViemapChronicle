@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "id": "ThaiBinh_TRAN_01",
+      "year": 1225,
+      "date": "1225-12-12",
+      "title": "The transfer of royal power from the Ly to the Tran dynasty",
+      "description": "In the land of Long Hung (present-day Hung Ha), Ly Chieu Hoang abdicated the throne in favor of her husband Tran Canh (Tran Thai Tong), officially ending the Ly dynasty and ushering in the Tran dynasty—one of the most prosperous eras in Vietnam's feudal history.",
+      "location": {
+        "commune": "Tien Duc",
+        "district": "Hung Ha",
+        "province": "Thai Binh"
+      },
+      "related_figures": [
+        "Tran Thai Tong",
+        "Ly Chieu Hoang",
+        "Tran Thu Do"
+      ],
+      "tags": [
+        "Tran Dynasty",
+        "Politics"
+      ]
+    },
+    {
+      "id": "ThaiBinh_NGUYEN_01",
+      "year": 1828,
+      "date": null,
+      "title": "Nguyen Cong Tru establishes Tien Hai District",
+      "description": "The Land Reclamation Envoy Nguyen Cong Tru commanded a large-scale reclamation effort, recruiting people to build dykes, reclaim land from the sea, and transform coastal alluvial flats into prosperous villages, officially establishing Tien Hai District (meaning 'vanguard sea').",
+      "location": {
+        "commune": null,
+        "district": "Tien Hai",
+        "province": "Thai Binh"
+      },
+      "related_figures": [
+        "Nguyen Cong Tru"
+      ],
+      "tags": [
+        "Economy",
+        "Land reclamation"
+      ]
+    },
+    {
+      "id": "ThaiBinh_REV_01",
+      "year": 1929,
+      "date": "1929-06-01",
+      "title": "Establishment of the first Party Cell",
+      "description": "At the home of Mr. Nguyen Tong Quai (He Hamlet, Thuy Ninh Commune), the Revolutionary Youth League Cell was converted into a Communist Party Cell. This was the first Party organization in Thai Binh Province, marking a turning point in the local revolutionary movement.",
+      "location": {
+        "commune": "Thuy Ninh",
+        "district": "Thai Thuy",
+        "province": "Thai Binh"
+      },
+      "related_figures": [
+        "Nguyen Duc Canh"
+      ],
+      "tags": [
+        "Party establishment",
+        "Revolution"
+      ]
+    },
+    {
+      "id": "ThaiBinh_REV_02",
+      "year": 1930,
+      "date": "1930-10-14",
+      "title": "The drums of Tien Hai",
+      "description": "In response to the Nghe Tinh Soviets movement, the peasants of Tien Hai, under the leadership of the Party, organized a large-scale demonstration at the Thanh Ne intersection, beating drums and waving hammer-and-sickle flags to demand tax reductions. This was the opening political struggle of the 1930-1931 revolutionary movement in Tonkin.",
+      "location": {
+        "commune": "Thanh Ne",
+        "district": "Kien Xuong",
+        "province": "Thai Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Nghe Tinh Soviets",
+        "Peasants"
+      ]
+    },
+    {
+      "id": "ThaiBinh_REV_03",
+      "year": 1945,
+      "date": "1945-08-25",
+      "title": "Seizing power in Thai Binh provincial capital",
+      "description": "Viet Minh forces along with thousands of people from various prefectures and districts marched to Thai Binh Town, surrounding the Governor's Palace and the Civil Guard Camp. The provisional revolutionary government of Thai Binh Province officially made its debut to the public.",
+      "location": {
+        "commune": "Le Hong Phong",
+        "district": "Thai Binh City",
+        "province": "Thai Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "August Revolution",
+        "Seizing power"
+      ]
+    },
+    {
+      "id": "ThaiBinh_FRENCH_WAR_01",
+      "year": 1950,
+      "date": null,
+      "title": "Building Nguyen Xa Resistance Village",
+      "description": "Nguyen Xa Village was built into a steel fortress with a dense system of tunnels, trenches, and bamboo fences. Here, local guerrillas broke many large-scale sweeps by French troops, and were awarded the 'Nguyen Xa - Model Village' banner by President Ho Chi Minh.",
+      "location": {
+        "commune": "Nguyen Xa",
+        "district": "Dong Hung",
+        "province": "Thai Binh"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Resistance war against the French",
+        "Guerrilla warfare"
+      ]
+    },
+    {
+      "id": "ThaiBinh_FRENCH_WAR_02",
+      "year": 1952,
+      "date": "1952-01-01",
+      "title": "The battle against the Bihineau - Mercure sweeps",
+      "description": "The military and people of Thai Binh, in coordination with the 320th Division, fiercely blocked the large-scale sweep campaign (named Mercury - Mercure) by French troops into the Tien Hung and Thai Ninh areas, firmly protecting the free zone.",
+      "location": {
+        "commune": null,
+        "district": "Thai Thuy",
+        "province": "Thai Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Resistance war against the French",
+        "Anti-sweep"
+      ]
+    },
+    {
+      "id": "ThaiBinh_FRENCH_WAR_03",
+      "year": 1954,
+      "date": "1954-06-30",
+      "title": "Liberation of Thai Binh Town",
+      "description": "Following the Dien Bien Phu victory, French troops were forced to withdraw from Thai Binh Town. Regular and local military units entered to take over the town, completely ending the French colonial occupation in the province.",
+      "location": {
+        "commune": null,
+        "district": "Thai Binh City",
+        "province": "Thai Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Liberation",
+        "Resistance war against the French"
+      ]
+    },
+    {
+      "id": "ThaiBinh_AGRI_01",
+      "year": 1966,
+      "date": null,
+      "title": "Thai Binh achieves the title 'The 5-ton Homeland'",
+      "description": "Thai Binh became the first province in the North to achieve a rice yield of 5 tons/ha/year, setting a record in food production and making a huge contribution to the Southern front under the slogan 'Not a single kilogram of rice short, not a single soldier short'.",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Thai Binh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Economy",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "ThaiBinh_US_WAR_01",
+      "year": 1966,
+      "date": "1966-12-31",
+      "title": "Uncle Ho's final visit to Thai Binh",
+      "description": "President Ho Chi Minh visited and offered Lunar New Year greetings to the people of Thai Binh in Hiep Hoa Commune and Phuong Cap Communal House. He encouraged the people to strive for even higher rice yields and to do well in supporting the Southern front.",
+      "location": {
+        "commune": "Hiep Hoa",
+        "district": "Vu Thu",
+        "province": "Thai Binh"
+      },
+      "related_figures": [
+        "Ho Chi Minh"
+      ],
+      "tags": [
+        "Leader",
+        "Culture"
+      ]
+    }
+  ]
+}
