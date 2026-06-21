@@ -770,6 +770,47 @@
             align-items: center;
             justify-content: center;
         }
+        .memory-choices {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 8px;
+            margin-top: 10px;
+        }
+        .memory-choices.hidden {
+            display: none;
+        }
+        .memory-choice-btn {
+            width: 100%;
+            min-height: 42px;
+            border: 1px solid #ccdccc;
+            border-radius: 6px;
+            background: #fff;
+            color: #263826;
+            font-weight: 700;
+            text-align: left;
+            padding: 9px 12px;
+            cursor: pointer;
+            transition: border-color 0.2s, background 0.2s, transform 0.2s;
+        }
+        .memory-choice-btn:hover:not(:disabled) {
+            border-color: var(--secondary-color);
+            background: #f0f8f0;
+            transform: translateY(-1px);
+        }
+        .memory-choice-btn:disabled {
+            cursor: not-allowed;
+            opacity: 0.72;
+        }
+        .memory-choice-btn.correct {
+            border-color: #43a047;
+            background: #e8f5e9;
+            color: #1b5e20;
+        }
+        .memory-choice-btn.wrong {
+            border-color: #e53935;
+            background: #ffebee;
+            color: #b71c1c;
+        }
         .memory-stats {
             display: grid;
             grid-template-columns: repeat(2, 1fr);
@@ -868,6 +909,13 @@
             height: 100%;
             z-index: 1;
             background: #eef5ee;
+        }
+        #memoryMap.shape-quiz-mode {
+            background: #f8fbf7;
+        }
+        #memoryMap.shape-quiz-mode .leaflet-tile-pane,
+        #memoryMap.shape-quiz-mode .leaflet-control-attribution {
+            display: none;
         }
         #memoryMap .leaflet-tooltip,
         #memoryMap .leaflet-tooltip-pane {

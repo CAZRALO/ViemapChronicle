@@ -4,20 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Viemap Chronicle</title>
-    <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <!-- Marked JS cho Markdown Chatbot -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-
 
 </head>
 <body>
 
-    <!-- NAVIGATION -->
     <div class="navbar">
         <div class="navbar-brand">
             <i class="fas fa-scroll"></i> <span class="navbar-brand-text">Viemap Chronicle</span>
@@ -42,10 +36,8 @@
         </div>
     </div>
 
-    <!-- MAIN CONTENT AREA -->
     <div class="main-content">
         
-        <!-- TAB 1: MAP -->
         <div id="tabMap" class="tab-pane active">
             <div id="map"></div>
             <div id="comparePanel" class="compare-panel">
@@ -80,13 +72,12 @@
                 <button type="button" class="toolbar-btn" id="btnSplitView" title="So sánh 2 mốc năm song song">
                     <i class="fas fa-table-columns"></i>
                 </button>
-                <button type="button" class="toolbar-btn" id="btnQuickTour" title="Tour nhanh">
+                <button type="button" class="toolbar-btn" id="btnQuickTour" title="Tour">
                     <i class="fas fa-route"></i>
                 </button>
                 <div id="quickPlacesPanel" class="quick-places-panel"></div>
             </div>
             
-            <!-- Info Box -->
             <div class="info-box" id="infoBox">
                 <h3><i class="fas fa-map-marker-alt"></i> Thông tin địa điểm</h3>
                 <div id="infoContent">
@@ -97,7 +88,6 @@
                 </button>
             </div>
 
-            <!-- Mini Chat Widget -->
             <div id="miniChatWidget" class="mini-chat-widget open">
                 <div class="mini-chat-header">
                     <span><i class="fas fa-robot"></i> Trợ lý AI</span>
@@ -121,7 +111,6 @@
             </div>
             <button id="miniChatToggle" class="mini-chat-toggle" onclick="toggleMiniChat(true)"><i class="fas fa-robot"></i></button>
 
-            <!-- Side Panel (History & GeoData) -->
             <div class="history-slide-panel" id="historySlidePanel">
                 <div class="slide-header">
                     <h3 style="margin:0; color: var(--primary-color);"><i class="fas fa-file-alt"></i> Thông tin Địa phương</h3>
@@ -137,7 +126,6 @@
                 </div>
             </div>
 
-            <!-- Map Controls -->
             <div class="control-panel">
                 <div class="header-info">
                     <h2>Dòng thời gian</h2>
@@ -169,7 +157,6 @@
             </div>
         </div>
 
-        <!-- TAB 2: MERGER INFORMATION -->
         <div id="tabMerger" class="tab-pane">
             <div class="merger-container" id="mergerContainer">
                 <div style="text-align:center; padding: 40px; color: #666; font-size: 1.1rem; width: 100%;">
@@ -178,7 +165,6 @@
             </div>
         </div>
 
-        <!-- TAB 3: AI CHATBOT -->
         <div id="tabChat" class="tab-pane">
             <div class="chat-header">
                 <h2><i class="fas fa-brain"></i> Trợ lý AI Viemacle</h2>
@@ -201,7 +187,6 @@
             </div>
         </div>
 
-        <!-- TAB 4: MAP MEMORY -->
         <div id="tabMemory" class="tab-pane">
             <div class="memory-layout">
                 <aside class="memory-panel">
@@ -211,8 +196,25 @@
                         <select id="memoryYearSelect" class="memory-select"></select>
                     </div>
                     <div class="memory-card">
-                        <span class="memory-label">Hãy tìm địa phương</span>
+                        <label class="memory-label" for="memoryModeSelect" id="memoryModeLabel">Chế độ luyện tập</label>
+                        <select id="memoryModeSelect" class="memory-select">
+                            <option value="map">Chọn trên bản đồ</option>
+                            <option value="shape">Trắc nghiệm hình dạng tỉnh</option>
+                        </select>
+                    </div>
+                    <div class="memory-card">
+                        <label class="memory-label" for="memoryRegionSelect" id="memoryRegionLabel">Bộ câu hỏi</label>
+                        <select id="memoryRegionSelect" class="memory-select">
+                            <option value="all">Toàn quốc</option>
+                            <option value="north">Miền Bắc</option>
+                            <option value="central">Miền Trung</option>
+                            <option value="south">Miền Nam</option>
+                        </select>
+                    </div>
+                    <div class="memory-card">
+                        <span class="memory-label" id="memoryTargetLabel">Hãy tìm địa phương</span>
                         <div id="memoryTarget" class="memory-target">Bấm bắt đầu</div>
+                        <div id="memoryChoices" class="memory-choices hidden"></div>
                     </div>
                     <div class="memory-stats">
                         <div class="memory-stat"><span>Điểm</span><strong id="memoryScore">0</strong></div>
@@ -252,7 +254,6 @@
             </div>
         </div>
     </div>
-    <!-- LOADING SPINNER -->
     <div class="loading-overlay" id="loading">
         <i class="fas fa-spinner fa-spin" style="font-size: 3rem;"></i>
         <div>Đang tải dữ liệu bản đồ...</div>
@@ -271,8 +272,7 @@
             </div>
         </div>
     </div>
-
-    <!-- MAIN SCRIPT -->
+    
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/topojson-client@3/dist/topojson-client.min.js"></script>
     <script src="{{ url_for('static', filename='app.js') }}"></script>
