@@ -978,6 +978,12 @@ def retrieve_rag_context(user_message, map_context=None, session_history_text=""
         "Kết quả truy xuất từ dữ liệu nội bộ của Viemap. Chỉ dùng các mục dưới đây nếu chúng thật sự liên quan đến câu hỏi.",
         f"Ý định suy luận: {header_intents}.",
     ]
+    if "admin_change" in intents:
+        lines.append(
+            "Ràng buộc dữ liệu hành chính: hiện tại là năm 2026, mặc định đã qua mốc sáp nhập 1/7/2025. "
+            "Trong mục sáp nhập, 'Từ:' là đơn vị cũ và 'Thành:' là đơn vị hiện nay sau sáp nhập; "
+            "không phủ nhận dữ liệu này chỉ vì tỉnh/đơn vị mới khác với kiến thức hành chính cũ."
+        )
     total_len = sum(len(line) for line in lines)
     for idx, (score, doc) in enumerate(selected, start=1):
         item = (
@@ -1010,6 +1016,108 @@ def retrieve_rag_context(user_message, map_context=None, session_history_text=""
             "score": round(score, 1),
         })
     return "\n".join(lines), sources
+
+def get_admin_rag_guardrail(user_message, dynamic_context, lang='vi'):
+    if not dynamic_context or "admin_change" not in infer_query_intents(user_message):
+        return ""
+    if str(lang).lower() == 'en':
+        return (
+            "[MANDATORY ADMINISTRATIVE-DATA RULES]\n"
+            "- The current date context is 2026, after the July 1, 2025 merger milestone.\n"
+            "- For internal merger data, 'From:' means old administrative units and 'To:' means the current unit after merger.\n"
+            "- If an old unit is listed under one province but the 'To:' unit is under another province, treat that as the post-merger system data. Do not reject it as implausible and do not replace it with older general knowledge.\n"
+            "- Answer from the highest-matching internal item; say data is missing only when no matching internal item exists."
+        )
+    return (
+        "[QUY TẮC BẮT BUỘC VỀ DỮ LIỆU HÀNH CHÍNH]\n"
+        "- Hiện tại là năm 2026, đã qua mốc sáp nhập 1/7/2025.\n"
+        "- Với dữ liệu sáp nhập nội bộ, 'Từ:' là các đơn vị cũ; 'Thành:' là đơn vị hiện nay sau sáp nhập.\n"
+        "- Nếu đơn vị cũ thuộc tỉnh này nhưng mục 'Thành:' thuộc tỉnh khác, hãy coi đó là dữ liệu sau sáp nhập của hệ thống. Không được nói là không hợp lý, không phủ nhận, không tự sửa theo kiến thức cũ.\n"
+        "- Trả lời theo mục nội bộ có độ khớp cao nhất; chỉ nói thiếu dữ liệu khi không có mục nội bộ khớp."
+    )
+
+def find_direct_commune_merge_answer(user_message, lang='vi'):
+    if not user_message or "admin_change" not in infer_query_intents(user_message):
+        return None
+
+    wants_commune_level, wants_province_level = infer_admin_level(user_message)
+    if wants_province_level and not wants_commune_level:
+        return None
+
+    query_norm = normalize_search_text(user_message)
+    merge_data = get_merge_dict(lang=lang)
+    if not isinstance(merge_data, dict):
+        return None
+
+    matches = []
+    for province, changes in merge_data.items():
+        if not isinstance(changes, list):
+            continue
+        for idx, change in enumerate(changes):
+            if not isinstance(change, dict):
+                continue
+            from_items = change.get("from") if isinstance(change.get("from"), list) else []
+            to_item = change.get("to") if isinstance(change.get("to"), dict) else {}
+            for item_index, item in enumerate(from_items):
+                if not isinstance(item, dict):
+                    continue
+                commune = item.get("commune")
+                commune_norm = normalize_search_text(commune)
+                if len(commune_norm) < 3 or not contains_normalized_phrase(query_norm, commune):
+                    continue
+
+                score = 20 + len(commune_norm.split())
+                district = item.get("district")
+                old_province = item.get("province")
+                if district and contains_normalized_phrase(query_norm, district):
+                    score += 5
+                if old_province and contains_normalized_phrase(query_norm, old_province):
+                    score += 3
+                matches.append((score, province, idx, change, item_index))
+
+    if not matches:
+        return None
+
+    matches.sort(key=lambda item: item[0], reverse=True)
+    top_score, province, idx, change, item_index = matches[0]
+    if len(matches) > 1 and matches[1][0] == top_score and matches[1][2] != idx:
+        return None
+
+    from_items = change.get("from") if isinstance(change.get("from"), list) else []
+    to_item = change.get("to") if isinstance(change.get("to"), dict) else {}
+    matched_item = from_items[item_index] if item_index < len(from_items) and isinstance(from_items[item_index], dict) else {}
+    matched_text = join_non_empty([matched_item.get("commune"), matched_item.get("district"), matched_item.get("province")])
+    to_text = join_non_empty([to_item.get("commune"), to_item.get("province")])
+    other_units = [
+        join_non_empty([item.get("commune"), item.get("district"), item.get("province")])
+        for pos, item in enumerate(from_items)
+        if pos != item_index and isinstance(item, dict)
+    ]
+    other_units = [unit for unit in other_units if unit]
+
+    source = {
+        "id": "S1",
+        "title": f"Sáp nhập thành {to_item.get('commune') or 'đơn vị mới'}",
+        "kind": "commune_merge",
+        "label": f"HistoryData/MergeData#{province}#{idx}",
+        "url": f"/api/merger/communes#{normalize_file_stem(province)}-{idx}",
+        "confidence": "Dữ liệu sáp nhập cấp xã nội bộ",
+        "updated_at": None,
+        "score": top_score,
+    }
+
+    if str(lang).lower() == 'en':
+        response = f"According to the system's internal merger data, {matched_text} was merged into {to_text}."
+        if other_units:
+            response += f" The same merger also includes: {', '.join(other_units)}."
+        response += " The answer uses the 2026 post-merger context."
+    else:
+        response = f"Theo dữ liệu sáp nhập nội bộ của hệ thống, {matched_text} sau sáp nhập thành {to_text}."
+        if other_units:
+            response += f" Cùng đợt này còn có: {', '.join(other_units)}."
+        response += " Câu trả lời đang dùng bối cảnh hiện nay là năm 2026, tức sau mốc sáp nhập 1/7/2025."
+
+    return response, [source]
 
 def clean_prefix(name):
     if not name: return ""
@@ -1477,20 +1585,23 @@ def chat():
                 CHAT_RAG_MEMORY.pop(session_id, None)
             system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
             QUY TẮC:
-            - Trả lời rõ ràng, chính xác.
-            - Nếu người dùng hỏi về địa danh trước 1/7/2025, hãy trả lời về lịch sử của nó.
+            - Trả lời rõ ràng, chính xác bằng tiếng Việt.
+            - Nếu người dùng không đề cập mốc thời gian cụ thể thì mặc định mốc thời gian là sau ngày 1/7/2025 (đã qua sáp nhập).
+            - Mặc định "hiện nay" hoặc "bây giờ" là thời điểm sau ngày 1/7/2025 (đã qua sáp nhập). Nếu người dùng hỏi về địa danh trước mốc này, hãy trả lời theo lịch sử.
             - Nếu hệ thống cung cấp [NGỮ CẢNH BẢN ĐỒ], người dùng đã chọn một vùng trên bản đồ; hãy hiểu "đây", "nơi này", "chỗ này" là vùng đó và trả lời tập trung vào địa phương đó.
             - Nếu hệ thống cung cấp [NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ], hãy dùng nó làm nguồn ưu tiên để trả lời đúng trọng tâm, đủ ý, không liệt kê lan man.
             - Nếu ngữ cảnh RAG có nhiều mục, hãy tổng hợp những mục khớp nhất với câu hỏi; bỏ qua mục có vẻ không liên quan.
             - Nếu người dùng hỏi sáp nhập/địa giới hiện nay mà RAG có dữ liệu tương ứng, hãy nói rõ đơn vị cũ hiện nay thuộc/tạo thành đơn vị nào.
+            - Không được phủ nhận, sửa lại hoặc gọi dữ liệu hành chính nội bộ là "không hợp lý" chỉ vì nó khác kiến thức cũ; hiện tại là năm 2026 và đã qua giai đoạn sáp nhập.
             - Nếu dữ liệu nội bộ không đủ để khẳng định một chi tiết, hãy nói rõ "trong dữ liệu hệ thống hiện chưa có thông tin này" thay vì bịa thêm."""
             if str(lang).lower() == 'en':
                 system_prompt = """You are Viemacle, an expert on Vietnamese history and geography.
             RULES:
             - Answer clearly and accurately in English.
-            - If the user asks about a place before July 1, 2025, answer based on that historical context.
+            - By default, "now" or "currently" refers to the time after July 1, 2025 (post-merger). If the user asks about a place before this date, answer based on its history.
             - If [MAP CONTEXT] is provided, the user selected an area on the map; understand "here", "this place", and similar references as that selected area.
             - If [INTERNAL RAG CONTEXT] is provided, use it as the priority reference and answer only with relevant details.
+            - Do not reject, rewrite, or call internal administrative data implausible just because it differs from older general knowledge; the current context is 2026 and the merger period has passed.
             - If internal data is not enough to confirm a detail, say that the system data does not currently contain that information instead of inventing it."""
             
             if str(lang).lower() == 'en':
@@ -1515,6 +1626,12 @@ def chat():
 
         if not user_message: return jsonify({"response": "..."})
 
+        direct_commune_merge = find_direct_commune_merge_answer(user_message, lang=lang)
+        if direct_commune_merge:
+            response_text, direct_sources = direct_commune_merge
+            remember_rag_turn(session_id, user_message, map_context)
+            return jsonify({"response": response_text, "sources": direct_sources})
+
         session_history_text = get_recent_rag_memory_text(session_id)
         dynamic_context, rag_sources = retrieve_rag_context(
             user_message,
@@ -1532,6 +1649,9 @@ def chat():
         if dynamic_context:
             rag_header = "[INTERNAL RAG CONTEXT FOR ANSWERING]" if str(lang).lower() == 'en' else "[NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ ĐỂ THAM KHẢO TRẢ LỜI]"
             final_message += f"\n\n{rag_header}:\n{dynamic_context}"
+            admin_guardrail = get_admin_rag_guardrail(user_message, dynamic_context, lang=lang)
+            if admin_guardrail:
+                final_message += f"\n\n{admin_guardrail}"
 
         response = chat_sessions[session_id].send_message(final_message)
         remember_rag_turn(session_id, user_message, map_context)
