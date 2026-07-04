@@ -1205,6 +1205,7 @@
             color: #607260;
             font-size: 0.78rem;
         }
+
         .source-pill {
             display: inline-flex;
             align-items: center;
@@ -1324,7 +1325,15 @@
         body.tour-running .tour-card {
             pointer-events: auto;
         }
-
+        .site-footer {
+            background-color: #ceded2;
+            color: #212426;
+            text-align: center;
+            padding: 1px 0;
+            font-size: 0.7em;
+            border-top: 1px solid #e7e7e7;
+            width: 100%;
+        }
         /* --- MAP UI: màn hình nhỏ --- */
         @media (max-width: 768px) {
             .info-box { width: min(380px, calc(100vw - 20px)); }
