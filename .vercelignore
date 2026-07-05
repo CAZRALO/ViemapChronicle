@@ -1,0 +1,29 @@
+# Local secrets and dev-only files
+.env
+.git/
+.sixth/
+.venv/
+.vscode/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# Source data and generated working folders not needed at runtime
+khongcanthiet/
+vietnam-geojson/
+vietnam-geojson.zip
+scripts/
+
+# MapData keeps TopoJSON for production. The app already prefers TopoJSON
+# over GeoJSON, so excluding these removes duplicate geometry payloads.
+MapData/*.geojson
+
+# Large project documents and scratch assets
+*.docx
+*.md
+*.zip
+691688987_122172073454769325_6387215236971057007_n.jpg
+
+# Replaced by static/favicon.svg for deployment.
+static/favicon.ico
