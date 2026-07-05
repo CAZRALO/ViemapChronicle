@@ -255,10 +255,6 @@
         </div>
     </div>
 
-    <footer class="site-footer">
-        <p>Thông tin trên trang web chỉ mang tính chất tham khảo.</p>
-    </footer>
-
     <div class="loading-overlay" id="loading">
         <i class="fas fa-spinner fa-spin" style="font-size: 3rem;"></i>
         <div>Đang tải dữ liệu bản đồ...</div>
@@ -281,5 +277,8 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/topojson-client@3/dist/topojson-client.min.js"></script>
     <script src="{{ url_for('static', filename='app.js') }}"></script>
+    <footer>
+        <p class="footer-text">Thông tin chỉ mang tính chất tham khảo</p>
+    </footer>
 </body>
 </html>

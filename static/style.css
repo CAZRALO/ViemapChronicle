@@ -1325,15 +1325,6 @@
         body.tour-running .tour-card {
             pointer-events: auto;
         }
-        .site-footer {
-            background-color: #ceded2;
-            color: #212426;
-            text-align: center;
-            padding: 1px 0;
-            font-size: 0.7em;
-            border-top: 1px solid #e7e7e7;
-            width: 100%;
-        }
         /* --- MAP UI: màn hình nhỏ --- */
         @media (max-width: 768px) {
             .info-box { width: min(380px, calc(100vw - 20px)); }
@@ -1367,6 +1358,22 @@
             .tour-actions {
                 flex-wrap: wrap;
             }
+        }
+
+        /* --- FOOTER --- */
+        footer {
+            background-color: var(--bg-color);
+            padding: 15px;
+            text-align: center;
+            border-top: 1px solid #e0e0e0;
+            color: #7f8c8d;
+            font-size: 0.85rem;
+            flex-shrink: 0; /* Prevent footer from shrinking */
+        }
+
+        .footer-text {
+            margin: 0;
+            color: #7f8c8d;
         }
         @media (max-width: 560px) {
             .navbar-brand-text { display: none; }
