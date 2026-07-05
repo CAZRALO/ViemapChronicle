@@ -6,11 +6,6 @@
       "use": "@vercel/python"
     }
   ],
-  "functions": {
-    "app.py": {
-      "excludeFiles": "{.venv/**,.git/**,.vscode/**,.sixth/**,__pycache__/**,khongcanthiet/**,scripts/**,MapData/*.geojson,static/favicon.ico,*.docx,*.md,*.zip,vietnam-geojson/**}"
-    }
-  },
   "routes": [
     {
       "src": "/(.*)",
