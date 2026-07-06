@@ -1321,7 +1321,7 @@ def index():
 @app.route('/favicon.ico')
 def favicon():
     return send_from_directory(os.path.join(app.root_path, 'static'),
-                               'favicon.svg', mimetype='image/svg+xml')
+                               'favicon.ico', mimetype='image/x-icon')
 
 @app.route('/api/config')
 def get_config():
