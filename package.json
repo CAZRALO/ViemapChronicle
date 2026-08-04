@@ -1,5 +1,10 @@
 {
+  "name": "viemap",
+  "version": "1.0.0",
   "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "dev": "cd frontend && npm run dev",
+    "start": "cd frontend && npm run start",
     "convert:topojson": "python scripts/convert_mapdata_to_topojson.py"
   },
   "devDependencies": {

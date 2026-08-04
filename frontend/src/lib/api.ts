@@ -1,6 +1,6 @@
 import { MapConfigResponse, ProvinceReport, SearchResult } from '@/types';
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:5050';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || '';
 
 export async function fetchMapConfig(lang: string = 'vi'): Promise<MapConfigResponse> {
   const res = await fetch(`${API_BASE_URL}/api/config?lang=${lang}`, { cache: 'no-store' });

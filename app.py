@@ -15,7 +15,7 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 
-BASE_DIR = os.getcwd()
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MAP_DATA_FOLDER = os.path.join(BASE_DIR, 'MapData')
 HISTORY_DATA_FOLDER = os.path.join(BASE_DIR, 'HistoryData')
 GEO_DATA_FOLDER = os.path.join(BASE_DIR, 'GeoData')

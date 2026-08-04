@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* --- THEME COLORS --- */
 :root {
     --primary-color: #2E7D32;   /* Xanh lá đậm */
@@ -379,7 +383,7 @@ input[type=range] {
 }
 .radio-wrapper:hover { background: #e0e0e0; }
 .radio-wrapper.active { background: var(--secondary-color); color: white; }
-.radio-wrapper.disabled { opacity: 0.5; cursor: not-allowed; background: #eee; color: #999; }
+.radio-wrapper.disabled { opacity: 0.5; cursor: not-allowed; background: #eee; color: #999; pointer-events: none; }
 .radio-wrapper input { margin-right: 5px; transform: scale(0.9); }
 
 .guest-en-controls {
