@@ -573,7 +573,7 @@ export default function HomePage() {
       </footer>
 
       {/* Execute Client Logic App Script */}
-      <Script src="/static/app.js" strategy="lazyOnload" />
+      <Script src="/static/app.js" strategy="afterInteractive" />
     </>
   );
 }

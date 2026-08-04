@@ -1338,7 +1338,16 @@ def get_config():
 def get_map_data(filename):
     if not filename.lower().endswith(('.geojson', '.topojson')):
         return jsonify({"error": "Invalid type"}), 400
-    response = send_from_directory(MAP_DATA_FOLDER, filename)
+    target = filename
+    if not os.path.exists(os.path.join(MAP_DATA_FOLDER, target)):
+        if os.path.exists(MAP_DATA_FOLDER):
+            for f in os.listdir(MAP_DATA_FOLDER):
+                if f.lower() == filename.lower():
+                    target = f
+                    break
+    if not os.path.exists(os.path.join(MAP_DATA_FOLDER, target)):
+        return jsonify({"error": "File not found"}), 404
+    response = send_from_directory(MAP_DATA_FOLDER, target)
     response.mimetype = 'application/json'
     return response
 
