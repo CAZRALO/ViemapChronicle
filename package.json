@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "convert:topojson": "python scripts/convert_mapdata_to_topojson.py"
+  },
+  "devDependencies": {
+    "topojson-server": "^3.0.1"
+  }
+}

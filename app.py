@@ -1,4 +1,5 @@
 from flask import Flask, render_template, send_from_directory, jsonify, request
+from flask_cors import CORS
 import os
 import re
 import json
@@ -12,6 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
+CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 BASE_DIR = os.getcwd()
 MAP_DATA_FOLDER = os.path.join(BASE_DIR, 'MapData')
@@ -1316,7 +1318,11 @@ def scan_map_files(lang='vi'):
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return jsonify({
+        "status": "online",
+        "service": "Viemap Chronicle REST API",
+        "version": "1.0.0"
+    })
 
 @app.route('/favicon.ico')
 def favicon():
