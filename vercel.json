@@ -1,9 +1,21 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "MapData/**:HistoryData/**:GeoData/**"
+    }
+  },
   "builds": [
     {
       "src": "api/index.py",
-      "use": "@vercel/python"
+      "use": "@vercel/python",
+      "config": {
+        "includeFiles": [
+          "MapData/**",
+          "HistoryData/**",
+          "GeoData/**"
+        ]
+      }
     },
     {
       "src": "frontend/package.json",

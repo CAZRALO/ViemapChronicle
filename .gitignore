@@ -23,7 +23,8 @@ phienamtienganh.txt
 normalize_merge_data.py 
 
 # Folders removed/ignored from git repository
-static/
+/static/
+!frontend/public/static/
 templates/
 .next/
 frontend/.next/
