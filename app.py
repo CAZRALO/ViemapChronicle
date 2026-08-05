@@ -1,5 +1,6 @@
 from flask import Flask, render_template, send_from_directory, jsonify, request
 from flask_cors import CORS
+from flask_compress import Compress
 import os
 import re
 import json
@@ -14,6 +15,12 @@ load_dotenv()
 
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}})
+
+# Bật nén HTTP tự động (gzip/brotli) — giảm 70-80% kích thước GeoJSON/JSON
+app.config['COMPRESS_ALGORITHM'] = ['br', 'gzip']  # Ưu tiên brotli, fallback gzip
+app.config['COMPRESS_MIN_SIZE'] = 1024              # Chỉ nén response >= 1 KB
+app.config['COMPRESS_LEVEL'] = 6                   # Mức nén cân bằng (speed vs ratio)
+Compress(app)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MAP_DATA_FOLDER = os.path.join(BASE_DIR, 'MapData')
@@ -1293,13 +1300,16 @@ def scan_map_files(lang='vi'):
                 'format': fmt,
                 '_lang_score': map_file_lang_score(f, lang)
             }
+            # Ưu tiên: 1) lang_score cao hơn, 2) topojson vs geojson (nhỏ hơn 30-41%)
+            current_lang_score = current.get('_lang_score', 0) if current else 0
+            current_fmt = current.get('format', '') if current else ''
             should_replace = (
                 current is None
-                or candidate['_lang_score'] > current.get('_lang_score', 0)
+                or candidate['_lang_score'] > current_lang_score
                 or (
-                    candidate['_lang_score'] == current.get('_lang_score', 0)
+                    candidate['_lang_score'] == current_lang_score
                     and fmt == 'topojson'
-                    and current.get('format') != 'topojson'
+                    and current_fmt != 'topojson'
                 )
             )
 
@@ -1345,10 +1355,27 @@ def get_map_data(filename):
                 if f.lower() == filename.lower():
                     target = f
                     break
-    if not os.path.exists(os.path.join(MAP_DATA_FOLDER, target)):
+    file_path = os.path.join(MAP_DATA_FOLDER, target)
+    if not os.path.exists(file_path):
         return jsonify({"error": "File not found"}), 404
+
+    import hashlib as _hl
+    mtime = os.path.getmtime(file_path)
+    etag = '"' + _hl.md5(f"{target}-{mtime}-{os.path.getsize(file_path)}".encode()).hexdigest() + '"'
+
+    # Trả 304 Not Modified nếu browser đã có bản mới nhất (tiết kiệm bandwidth hoàn toàn)
+    if request.headers.get('If-None-Match') == etag:
+        return '', 304
+
     response = send_from_directory(MAP_DATA_FOLDER, target)
     response.mimetype = 'application/json'
+    # Cache 7 ngày (dữ liệu địa lý hiếm thay đổi) + ETag để validate chính xác
+    response.headers['Cache-Control'] = 'public, max-age=604800, stale-while-revalidate=86400'
+    response.headers['ETag'] = etag
+    response.headers['Last-Modified'] = datetime.utcfromtimestamp(mtime).strftime(
+        '%a, %d %b %Y %H:%M:%S GMT'
+    )
+    response.headers['Vary'] = 'Accept-Encoding'
     return response
 
 @app.route('/api/history/<filename>')
