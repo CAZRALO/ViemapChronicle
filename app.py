@@ -1711,23 +1711,31 @@ def chat():
             if reset:
                 CHAT_RAG_MEMORY.pop(session_id, None)
             system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
-            QUY TẮC:
-            - Trả lời rõ ràng, chính xác bằng tiếng Việt.
+            QUY TẮC PHẢN HỒI:
+            - Trả lời gọn, đúng trọng tâm, súc tích, ngắn gọn, không dài dòng, không giải thích lan man.
             - Nếu người dùng không đề cập mốc thời gian cụ thể thì mặc định mốc thời gian là sau ngày 1/7/2025 (đã qua sáp nhập).
             - Mặc định "hiện nay" hoặc "bây giờ" là thời điểm sau ngày 1/7/2025 (đã qua sáp nhập). Nếu người dùng hỏi về địa danh trước mốc này, hãy trả lời theo lịch sử.
             - Nếu hệ thống cung cấp [NGỮ CẢNH BẢN ĐỒ], người dùng đã chọn một vùng trên bản đồ; hãy hiểu "đây", "nơi này", "chỗ này" là vùng đó và trả lời tập trung vào địa phương đó.
             - Nếu hệ thống cung cấp [NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ], hãy dùng nó làm nguồn ưu tiên để trả lời đúng trọng tâm, đủ ý, không liệt kê lan man.
+            - CẢNH BÁO PHẠM VI DỮ LIỆU NỘI BỘ:
+              + Nếu nội dung câu hỏi của người dùng nằm ngoài phạm vi dữ liệu nội bộ (ví dụ: hệ thống không có dữ liệu RAG nội bộ phù hợp hoặc nội dung hỏi không có trong dữ liệu nội bộ), bạn BẮT BUỘC phải thêm dòng cảnh báo sau ở ĐẦU CÂU TRẢ LỜI (trên một dòng riêng):
+              "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu nội bộ."
+              + Nếu câu hỏi nằm trong phạm vi dữ liệu nội bộ được cung cấp, KHÔNG thêm dòng cảnh báo này.
             - Nếu ngữ cảnh RAG có nhiều mục, hãy tổng hợp những mục khớp nhất với câu hỏi; bỏ qua mục có vẻ không liên quan.
             - Nếu người dùng hỏi sáp nhập/địa giới hiện nay mà RAG có dữ liệu tương ứng, hãy nói rõ đơn vị cũ hiện nay thuộc/tạo thành đơn vị nào.
             - Không được phủ nhận, sửa lại hoặc gọi dữ liệu hành chính nội bộ là "không hợp lý" chỉ vì nó khác kiến thức cũ; hiện tại là năm 2026 và đã qua giai đoạn sáp nhập.
             - Nếu dữ liệu nội bộ không đủ để khẳng định một chi tiết, hãy nói rõ "trong dữ liệu hệ thống hiện chưa có thông tin này" thay vì bịa thêm."""
             if str(lang).lower() == 'en':
                 system_prompt = """You are Viemacle, an expert on Vietnamese history and geography.
-            RULES:
-            - Answer clearly and accurately in English.
+            RESPONSE RULES:
+            - Answer concisely, directly to the point, and keep responses brief without unnecessary verbosity.
             - By default, "now" or "currently" refers to the time after July 1, 2025 (post-merger). If the user asks about a place before this date, answer based on its history.
             - If [MAP CONTEXT] is provided, the user selected an area on the map; understand "here", "this place", and similar references as that selected area.
             - If [INTERNAL RAG CONTEXT] is provided, use it as the priority reference and answer only with relevant details.
+            - OUT-OF-SCOPE WARNING RULE:
+              + If the user's question content falls outside the scope of internal data (e.g. no internal RAG context matches or information is outside internal dataset), you MUST prepend the following warning line at the VERY TOP of your response (on its own line):
+              "⚠️ Warning: The response content has a high probability of errors because it is outside the scope of internal data."
+              + If the question is covered by internal data, DO NOT add this warning line.
             - Do not reject, rewrite, or call internal administrative data implausible just because it differs from older general knowledge; the current context is 2026 and the merger period has passed.
             - If internal data is not enough to confirm a detail, say that the system data does not currently contain that information instead of inventing it."""
             
@@ -1738,7 +1746,7 @@ def chat():
                 system_prompt += "\n- Khi dùng mục RAG, hãy trả lời tự nhiên, không tự thêm danh sách nguồn hoặc mã trích dẫn."
 
             if str(lang).lower() != 'en':
-                system_prompt += "\n- N\u1ebfu m\u1ee5c RAG li\u00ean quan c\u00f3 Video YouTube g\u1ee3i \u00fd v\u00e0 ng\u01b0\u1eddi d\u00f9ng h\u1ecfi v\u1ec1 tr\u1eadn \u0111\u00e1nh ho\u1eb7c s\u1ef1 ki\u1ec7n l\u1ecbch s\u1eed, h\u00e3y th\u00eam m\u1ed9t d\u00f2ng 'Video g\u1ee3i \u00fd' k\u00e8m link YouTube \u0111\u00f3. N\u1ebfu link l\u00e0 trang t\u00ecm ki\u1ebfm YouTube, h\u00e3y n\u00f3i l\u00e0 g\u1ee3i \u00fd t\u00ecm ki\u1ebfm, kh\u00f4ng kh\u1eb3ng \u0111\u1ecbnh \u0111\u00f3 l\u00e0 video ch\u00ednh x\u00e1c."
+                system_prompt += "\n- Nếu mục RAG liên quan có Video YouTube gợi ý và người dùng hỏi về trận đánh hoặc sự kiện lịch sử, hãy thêm một dòng 'Video gợi ý' kèm link YouTube đó. Nếu link là trang tìm kiếm YouTube, hãy nói là gợi ý tìm kiếm, không khẳng định đó là video chính xác."
 
             history = [
                 {"role": "user", "parts": [{"text": system_prompt}]},
@@ -1748,7 +1756,7 @@ def chat():
             chat_sessions[session_id] = gemini_client.chats.create(model='gemini-2.5-flash', history=history)
             
             if reset:
-                reset_text = "Started a new conversation." if str(lang).lower() == 'en' else "Đã bắt đầu cuộc trò chuyện mới."
+                reset_text = "Started a new conversation." if str(lang).lower() == 'en' else "Đã bắt đầu cuộc trò trò chuyện mới."
                 return jsonify({"response": reset_text})
 
         if not user_message: return jsonify({"response": "..."})
@@ -1769,6 +1777,9 @@ def chat():
         )
         map_context_text = format_map_selection_context(map_context)
 
+        norm_msg = normalize_search_text(user_message)
+        is_chitchat = bool(norm_msg and norm_msg in CHITCHAT_NORMALIZED)
+
         final_message = user_message
         if map_context_text:
             map_header = "[MAP CONTEXT - USER SELECTED AREA]" if str(lang).lower() == 'en' else "[NGỮ CẢNH BẢN ĐỒ - VÙNG NGƯỜI DÙNG ĐANG CHỌN]"
@@ -1779,10 +1790,36 @@ def chat():
             admin_guardrail = get_admin_rag_guardrail(user_message, dynamic_context, lang=lang)
             if admin_guardrail:
                 final_message += f"\n\n{admin_guardrail}"
+            prompt_hint = (
+                "\n\n[HƯỚNG DẪN: Trả lời gọn, đúng trọng tâm. Câu hỏi này có dữ liệu RAG nội bộ nên KHÔNG thêm dòng cảnh báo nằm ngoài phạm vi dữ liệu nội bộ.]"
+                if str(lang).lower() != 'en' else
+                "\n\n[INSTRUCTION: Answer concisely and to the point. This query has internal RAG data, so DO NOT add the out-of-scope warning line.]"
+            )
+            final_message += prompt_hint
+        elif not is_chitchat:
+            out_of_scope_hint = (
+                "\n\n[HƯỚNG DẪN BẮT BUỘC: Không tìm thấy dữ liệu RAG nội bộ khớp với câu hỏi này (nằm ngoài phạm vi dữ liệu nội bộ). Bạn BẮT BUỘC phải đặt dòng cảnh báo:\n\"⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu nội bộ.\"\nở ĐẦU CÂU TRẢ LỜI trước khi trả lời gọn, đúng trọng tâm.]"
+                if str(lang).lower() != 'en' else
+                "\n\n[MANDATORY INSTRUCTION: No matching internal RAG data found (outside internal data scope). You MUST place the warning line:\n\"⚠️ Warning: The response content has a high probability of errors because it is outside the scope of internal data.\"\nat the VERY TOP of your response before answering concisely.]"
+            )
+            final_message += out_of_scope_hint
 
         response = chat_sessions[session_id].send_message(final_message)
         remember_rag_turn(session_id, user_message, map_context)
         response_text = response.text
+
+        # Guardrail: If no internal context & not chitchat, ensure warning line is prepended if LLM omitted it
+        if not dynamic_context and not is_chitchat:
+            has_vi_warning = "không nằm trong phạm vi dữ liệu nội bộ" in response_text
+            has_en_warning = "outside the scope of internal data" in response_text
+            if not has_vi_warning and not has_en_warning:
+                warning_line = (
+                    "⚠️ Warning: The response content has a high probability of errors because it is outside the scope of internal data."
+                    if str(lang).lower() == 'en' else
+                    "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu nội bộ."
+                )
+                response_text = f"{warning_line}\n\n{response_text.strip()}"
+
         return jsonify({"response": response_text, "sources": []})
         
     except Exception as e:
