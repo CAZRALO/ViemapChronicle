@@ -1,12 +1,16 @@
 {
-  "total_visits": 5,
+  "total_visits": 6,
   "daily_visits": {
-    "2026-08-05": 5
+    "2026-08-05": 6
   },
   "unique_ips": [
     "127.0.0.1"
   ],
   "recent_visits": [
+    {
+      "timestamp": "2026-08-05 20:53:10",
+      "ip": "127.0.0.1"
+    },
     {
       "timestamp": "2026-08-05 20:41:02",
       "ip": "127.0.0.1"

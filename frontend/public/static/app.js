@@ -162,9 +162,23 @@
             return isEnglish() ? (UI_EN[key] || fallback || key) : (fallback || key);
         }
 
+        function getApiUrl(path) {
+            let baseUrl = '';
+            if (window.NEXT_PUBLIC_API_BASE_URL) {
+                baseUrl = window.NEXT_PUBLIC_API_BASE_URL;
+            } else if (typeof window !== 'undefined' && (window.location.port === '3000' || window.location.port === '3001')) {
+                baseUrl = `${window.location.protocol}//${window.location.hostname}:5050`;
+            }
+            if (!path) return baseUrl;
+            if (path.startsWith('http://') || path.startsWith('https://')) return path;
+            if (path.startsWith('/')) return `${baseUrl}${path}`;
+            return `${baseUrl}/${path}`;
+        }
+
         function localizedUrl(url) {
-            const sep = url.includes('?') ? '&' : '?';
-            return `${url}${sep}lang=${encodeURIComponent(currentLang)}`;
+            const fullUrl = getApiUrl(url);
+            const sep = fullUrl.includes('?') ? '&' : '?';
+            return `${fullUrl}${sep}lang=${encodeURIComponent(currentLang)}`;
         }
 
         // --- INITIALIZATION ---
@@ -172,7 +186,7 @@
             document.getElementById('loading').style.display = 'flex';
             try {
                 // Record visitor analytics
-                fetch('/api/visitor/track', { method: 'POST' }).catch(() => {});
+                fetch(getApiUrl('/api/visitor/track'), { method: 'POST' }).catch(() => {});
 
                 // Check admin logged in status
                 if (localStorage.getItem('admin_token')) {
@@ -3494,13 +3508,28 @@
 
             if (errorDiv) errorDiv.classList.add('hidden');
 
+            if (!username || !password) {
+                if (errorDiv) {
+                    errorDiv.textContent = 'Vui lòng nhập tên đăng nhập và mật khẩu.';
+                    errorDiv.classList.remove('hidden');
+                }
+                return;
+            }
+
             try {
-                const res = await fetch('/api/admin/login', {
+                const res = await fetch(getApiUrl('/api/admin/login'), {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ username, password })
                 });
-                const data = await res.json();
+
+                let data = {};
+                try {
+                    data = await res.json();
+                } catch (e) {
+                    // Non-JSON response (e.g. 404 or 500 HTML)
+                }
+
                 if (res.ok && data.token) {
                     localStorage.setItem('admin_token', data.token);
                     document.getElementById('btnAdminModal')?.classList.add('logged-in');
@@ -3511,7 +3540,7 @@
                     loadAdminStats();
                 } else {
                     if (errorDiv) {
-                        errorDiv.textContent = data.message || 'Đăng nhập không thành công';
+                        errorDiv.textContent = data.message || (res.status === 404 ? 'Không tìm thấy API đăng nhập (404).' : `Đăng nhập không thành công (mã ${res.status}).`);
                         errorDiv.classList.remove('hidden');
                     }
                 }
@@ -3532,7 +3561,7 @@
 
         async function loadAdminStats() {
             try {
-                const res = await fetch('/api/admin/stats');
+                const res = await fetch(getApiUrl('/api/admin/stats'));
                 if (!res.ok) return;
                 const data = await res.json();
 

@@ -5,12 +5,11 @@ import Script from 'next/script';
 
 export default function HomePage() {
   useEffect(() => {
-    // Re-trigger layout adjustments if needed when mounted
   }, []);
 
   return (
     <>
-      {/* Navigation Bar */}
+      {/* Nav Bar */}
       <div className="navbar">
         <div className="navbar-brand">
           <i className="fas fa-scroll"></i>{' '}
@@ -609,8 +608,6 @@ export default function HomePage() {
           <div className="admin-modal-body">
             {/* Login State */}
             <div id="adminLoginSection">
-              <p className="admin-subtitle">
-              </p>
               <div className="admin-form-group">
                 <label htmlFor="adminUsername">
                   <i className="fas fa-user"></i> Tên đăng nhập

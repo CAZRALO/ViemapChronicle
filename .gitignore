@@ -1,4 +1,3 @@
-# Environment & Build caches
 .env
 .env*.local
 .env.local
@@ -12,17 +11,14 @@ vietnam-geojson/
 .vscode/
 691688987_122172073454769325_6387215236971057007_n.jpg  
 update_to_province.py 
-# Document files (.doc, .docx, office temp files)
 *.doc
 *.docx
 ~$*
 *.geojson
-# Documentation / Markdown files
 *.md
 phienamtienganh.txt
 normalize_merge_data.py 
 
-# Folders removed/ignored from git repository
 /static/
 !frontend/public/static/
 templates/

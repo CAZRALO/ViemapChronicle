@@ -1389,7 +1389,7 @@ def admin_login():
     expected_user = os.getenv("ADMIN_USERNAME", "admin").strip()
     expected_pass = os.getenv("ADMIN_PASSWORD", "admin123").strip()
 
-    if username == expected_user and password == expected_pass:
+    if username.lower() == expected_user.lower() and password == expected_pass:
         token = str(uuid.uuid4())
         return jsonify({
             "status": "success",
