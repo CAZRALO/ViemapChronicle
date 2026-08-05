@@ -1326,6 +1326,91 @@ def scan_map_files(lang='vi'):
         config['files'][level] = items
     return config
 
+VISITOR_STATS_FILE = os.path.join(BASE_DIR, 'visitor_stats.json')
+
+def load_visitor_stats():
+    if os.path.exists(VISITOR_STATS_FILE):
+        try:
+            with open(VISITOR_STATS_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return {
+        "total_visits": 0,
+        "daily_visits": {},
+        "unique_ips": [],
+        "recent_visits": []
+    }
+
+def save_visitor_stats(stats):
+    try:
+        with open(VISITOR_STATS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(stats, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Error saving visitor stats: {e}")
+
+@app.route('/api/visitor/track', methods=['POST'])
+def track_visitor():
+    ip = request.remote_addr or request.headers.get('X-Forwarded-For', '127.0.0.1')
+    if ',' in ip:
+        ip = ip.split(',')[0].strip()
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+    stats = load_visitor_stats()
+    stats["total_visits"] = stats.get("total_visits", 0) + 1
+    
+    daily = stats.get("daily_visits", {})
+    daily[today_str] = daily.get(today_str, 0) + 1
+    stats["daily_visits"] = daily
+
+    unique_ips = stats.get("unique_ips", [])
+    if ip not in unique_ips:
+        unique_ips.append(ip)
+    stats["unique_ips"] = unique_ips
+
+    recent = stats.get("recent_visits", [])
+    recent.insert(0, {"timestamp": now_str, "ip": ip})
+    stats["recent_visits"] = recent[:30]
+
+    save_visitor_stats(stats)
+    return jsonify({
+        "status": "success",
+        "total_visits": stats["total_visits"],
+        "today_visits": daily.get(today_str, 0)
+    })
+
+@app.route('/api/admin/login', methods=['POST'])
+def admin_login():
+    data = request.json or {}
+    username = data.get('username', '').strip()
+    password = data.get('password', '').strip()
+
+    expected_user = os.getenv("ADMIN_USERNAME", "admin").strip()
+    expected_pass = os.getenv("ADMIN_PASSWORD", "admin123").strip()
+
+    if username == expected_user and password == expected_pass:
+        token = str(uuid.uuid4())
+        return jsonify({
+            "status": "success",
+            "token": token,
+            "message": "Đăng nhập thành công"
+        })
+    return jsonify({"status": "error", "message": "Tên đăng nhập hoặc mật khẩu không chính xác"}), 401
+
+@app.route('/api/admin/stats', methods=['GET'])
+def get_admin_stats():
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    stats = load_visitor_stats()
+    daily = stats.get("daily_visits", {})
+    return jsonify({
+        "total_visits": stats.get("total_visits", 0),
+        "today_visits": daily.get(today_str, 0),
+        "unique_visitors": len(stats.get("unique_ips", [])),
+        "recent_visits": stats.get("recent_visits", [])[:15],
+        "daily_breakdown": daily
+    })
+
 @app.route('/')
 def index():
     return jsonify({

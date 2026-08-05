@@ -52,6 +52,17 @@ export default function HomePage() {
             ></i>{' '}
             Ghi nhớ bản đồ
           </div>
+          <div
+            className="nav-item"
+            data-tab="feedback"
+            onClick={() => (window as any).switchMainTab?.('feedback')}
+          >
+            <i
+              className="fas fa-comment-dots"
+              style={{ marginRight: '8px' }}
+            ></i>{' '}
+            <span id="navFeedbackText">Đóng góp ý kiến</span>
+          </div>
         </div>
         <div className="language-switch" aria-label="Language">
           <button
@@ -63,6 +74,15 @@ export default function HomePage() {
           </button>
           <button type="button" id="btnLangEn" className="language-btn">
             EN
+          </button>
+          <button
+            type="button"
+            id="btnAdminModal"
+            className="btn-admin-nav"
+            onClick={() => (window as any).openAdminModal?.()}
+            title="Quyền Admin - Thống kê"
+          >
+            <i className="fas fa-user-shield"></i> <span id="btnAdminText">Admin</span>
           </button>
         </div>
       </div>
@@ -531,6 +551,167 @@ export default function HomePage() {
               </div>
               <div className="memory-map-note hidden" id="memoryMapNote">
                 Bấm trực tiếp vào tỉnh/thành trên bản đồ để trả lời.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Feedback Tab */}
+        <div id="tabFeedback" className="tab-pane">
+          <div className="feedback-container">
+            <div className="feedback-card">
+              <div className="feedback-icon">
+                <i className="fas fa-paper-plane"></i>
+              </div>
+              <h2 className="feedback-title" id="feedbackTitle">
+                Đóng góp ý kiến & Phản hồi
+              </h2>
+              <p className="feedback-desc" id="feedbackDesc">
+                Ý kiến đóng góp của bạn giúp ứng dụng Viemap Chronicle ngày càng hoàn thiện hơn. Hãy gửi phản hồi, góp ý tính năng hoặc báo lỗi cho chúng tôi qua mẫu Google Form dưới đây.
+              </p>
+              <a
+                href="https://forms.gle/MrNmpBhH6BPms2CGA"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-feedback-direct"
+              >
+                <i className="fas fa-external-link-alt"></i>{' '}
+                <span id="btnFeedbackFormText">Mở Form Đóng góp ý kiến (Google Form)</span>
+              </a>
+              <div className="feedback-frame-wrapper">
+                <iframe
+                  src="https://docs.google.com/forms/d/e/1FAIpQLSfk1ZIaX3d5TCY04c_oi6_QiB6oPjD_gLhXz0AKJqiVk7nVIA/viewform?embedded=true"
+                  className="feedback-iframe"
+                  title="Google Form Feedback"
+                ></iframe>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Admin Modal for Login & Visitor Statistics */}
+      <div id="adminModal" className="admin-modal-overlay hidden">
+        <div className="admin-modal-card">
+          <div className="admin-modal-header">
+            <h3>
+              <i className="fas fa-user-shield"></i>{' '}
+              <span id="adminModalTitle">Đằng nhập quyền Admin</span>
+            </h3>
+            <button
+              type="button"
+              className="admin-modal-close"
+              onClick={() => (window as any).closeAdminModal?.()}
+            >
+              &times;
+            </button>
+          </div>
+          <div className="admin-modal-body">
+            {/* Login State */}
+            <div id="adminLoginSection">
+              <p className="admin-subtitle">
+              </p>
+              <div className="admin-form-group">
+                <label htmlFor="adminUsername">
+                  <i className="fas fa-user"></i> Tên đăng nhập
+                </label>
+                <input
+                  type="text"
+                  id="adminUsername"
+                  placeholder="Nhập tên đăng nhập"
+                />
+              </div>
+              <div className="admin-form-group">
+                <label htmlFor="adminPassword">
+                  <i className="fas fa-lock"></i> Mật khẩu
+                </label>
+                <input
+                  type="password"
+                  id="adminPassword"
+                  placeholder="Nhập mật khẩu"
+                />
+              </div>
+              <div id="adminLoginError" className="admin-error-msg hidden"></div>
+              <button
+                type="button"
+                className="admin-btn-login"
+                onClick={() => (window as any).handleAdminLogin?.()}
+              >
+                <i className="fas fa-sign-in-alt"></i> Đăng nhập Admin
+              </button>
+            </div>
+
+            {/* Dashboard State */}
+            <div id="adminDashboardSection" className="hidden">
+              <div className="admin-status-badge">
+                <span className="status-indicator"></span> Đang hoạt động với quyền{' '}
+                <strong>Admin</strong>
+              </div>
+
+              <div className="admin-stats-grid">
+                <div className="admin-stat-card">
+                  <div className="stat-icon icon-total">
+                    <i className="fas fa-eye"></i>
+                  </div>
+                  <div className="stat-content">
+                    <span className="stat-label">Tổng lượt truy cập</span>
+                    <strong id="adminStatTotalVisits" className="stat-value">
+                      0
+                    </strong>
+                  </div>
+                </div>
+
+                <div className="admin-stat-card">
+                  <div className="stat-icon icon-today">
+                    <i className="fas fa-calendar-day"></i>
+                  </div>
+                  <div className="stat-content">
+                    <span className="stat-label">Truy cập hôm nay</span>
+                    <strong id="adminStatTodayVisits" className="stat-value">
+                      0
+                    </strong>
+                  </div>
+                </div>
+
+                <div className="admin-stat-card">
+                  <div className="stat-icon icon-users">
+                    <i className="fas fa-users"></i>
+                  </div>
+                  <div className="stat-content">
+                    <span className="stat-label">Người dùng duy nhất</span>
+                    <strong id="adminStatUniqueVisitors" className="stat-value">
+                      0
+                    </strong>
+                  </div>
+                </div>
+              </div>
+
+              <div className="admin-recent-section">
+                <h4>
+                  <i className="fas fa-history"></i> Lịch sử truy cập gần đây
+                </h4>
+                <div id="adminRecentVisitsList" className="admin-recent-list">
+                  <div style={{ color: '#94a3b8', fontStyle: 'italic', fontSize: '0.85rem' }}>
+                    Chưa có dữ liệu.
+                  </div>
+                </div>
+              </div>
+
+              <div className="admin-actions">
+                <button
+                  type="button"
+                  className="admin-btn-secondary"
+                  onClick={() => (window as any).loadAdminStats?.()}
+                >
+                  <i className="fas fa-sync-alt"></i> Làm mới dữ liệu
+                </button>
+                <button
+                  type="button"
+                  className="admin-btn-logout"
+                  onClick={() => (window as any).handleAdminLogout?.()}
+                >
+                  <i className="fas fa-sign-out-alt"></i> Đăng xuất
+                </button>
               </div>
             </div>
           </div>

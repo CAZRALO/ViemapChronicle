@@ -11,6 +11,11 @@
             navMerger: 'Merger info',
             navChat: 'AI chatbot',
             navMemory: 'Map memory',
+            navFeedback: 'User feedback',
+            btnAdmin: 'Admin',
+            feedbackTitle: 'User Feedback & Contribution',
+            feedbackDesc: 'Your feedback helps Viemap Chronicle continuously improve. Please submit feedback, feature suggestions, or bug reports via the Google Form below.',
+            btnFeedbackFormText: 'Open Feedback Form (Google Form)',
             compareYear: 'Compare year',
             closeCompare: 'Turn off compare',
             searchPlaceholder: 'Search provinces, landmarks, old/new names, English/Vietnamese...',
@@ -164,10 +169,24 @@
 
         // --- INITIALIZATION ---
         async function initApp() {
-            const loadingEl = document.getElementById('loading');
-            if (loadingEl) loadingEl.style.display = 'flex';
+            document.getElementById('loading').style.display = 'flex';
             try {
-                if (!map) initMap();
+                // Record visitor analytics
+                fetch('/api/visitor/track', { method: 'POST' }).catch(() => {});
+
+                // Check admin logged in status
+                if (localStorage.getItem('admin_token')) {
+                    document.getElementById('btnAdminModal')?.classList.add('logged-in');
+                }
+
+                const btnAdmin = document.getElementById('btnAdminModal');
+                if (btnAdmin) {
+                    btnAdmin.onclick = function(e) {
+                        if (e) e.preventDefault();
+                        openAdminModal();
+                    };
+                }
+
                 applyLanguageToStaticDom();
                 // Fetch Config & Timeline Data in parallel
                 const [configRes, timelineRes] = await Promise.all([
@@ -175,13 +194,11 @@
                     fetch(localizedUrl('/api/history/timeline_index.json'))
                 ]);
                 
-                if (configRes.ok) {
-                    const config = await configRes.json();
-                    AVAILABLE_YEARS = config.years || [];
-                    DATA_SOURCES = config.files || { province: [], district: [], ward: [] };
-                }
+                const config = await configRes.json();
+                AVAILABLE_YEARS = config.years;
+                DATA_SOURCES = config.files;
 
-                if (timelineRes && timelineRes.ok) {
+                if (timelineRes.ok) {
                     TIMELINE_DATA = await timelineRes.json();
                 }
                 
@@ -190,13 +207,14 @@
                 setupCompareYearOptions();
                 setupQuickMapTools();
                 setupMemoryTab();
-                await updateMap();
-                loadMergerTab();
+                updateMap();
+                loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
 
             } catch (e) {
                 console.error("Init Error:", e);
+                alert(tr('connectionError', "Không thể kết nối đến máy chủ. Vui lòng thử lại sau."));
             } finally {
-                if (loadingEl) loadingEl.style.display = 'none';
+                document.getElementById('loading').style.display = 'none';
             }
         }
 
@@ -231,10 +249,15 @@
             document.getElementById('btnLangVi')?.classList.toggle('active', !isEnglish());
             document.getElementById('btnLangEn')?.classList.toggle('active', isEnglish());
 
-            setHtml(".nav-item[onclick=\"switchMainTab('map')\"]", '<i class="fas fa-globe-asia" style="margin-right:8px"></i> Bản đồ', '<i class="fas fa-globe-asia" style="margin-right:8px"></i> Map');
-            setHtml(".nav-item[onclick=\"switchMainTab('merger')\"]", '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Thông tin Sáp nhập', '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Merger info');
-            setHtml(".nav-item[onclick=\"switchMainTab('chat')\"]", '<i class="fas fa-robot" style="margin-right:8px"></i> Chatbot AI', '<i class="fas fa-robot" style="margin-right:8px"></i> AI chatbot');
-            setHtml(".nav-item[onclick=\"switchMainTab('memory')\"]", '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Ghi nhớ bản đồ', '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Map memory');
+            setHtml('.nav-item[data-tab="map"], .nav-item[onclick*="map"]', '<i class="fas fa-globe-asia" style="margin-right:8px"></i> Bản đồ', '<i class="fas fa-globe-asia" style="margin-right:8px"></i> Map');
+            setHtml('.nav-item[data-tab="merger"], .nav-item[onclick*="merger"]', '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Thông tin Sáp nhập', '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Merger info');
+            setHtml('.nav-item[data-tab="chat"], .nav-item[onclick*="chat"]', '<i class="fas fa-robot" style="margin-right:8px"></i> Chatbot AI', '<i class="fas fa-robot" style="margin-right:8px"></i> AI chatbot');
+            setHtml('.nav-item[data-tab="memory"], .nav-item[onclick*="memory"]', '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Ghi nhớ bản đồ', '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Map memory');
+            setHtml('.nav-item[data-tab="feedback"], .nav-item[onclick*="feedback"]', '<i class="fas fa-comment-dots" style="margin-right:8px"></i> <span id="navFeedbackText">' + tr('navFeedback', 'Đóng góp ý kiến') + '</span>', '<i class="fas fa-comment-dots" style="margin-right:8px"></i> <span id="navFeedbackText">' + tr('navFeedback', 'User feedback') + '</span>');
+            setText('#btnAdminText', 'btnAdmin', 'Admin');
+            setText('#feedbackTitle', 'feedbackTitle', 'Đóng góp ý kiến & Phản hồi');
+            setText('#feedbackDesc', 'feedbackDesc', 'Ý kiến đóng góp của bạn giúp ứng dụng Viemap Chronicle ngày càng hoàn thiện hơn. Hãy gửi phản hồi, góp ý tính năng hoặc báo lỗi cho chúng tôi qua mẫu Google Form dưới đây.');
+            setText('#btnFeedbackFormText', 'btnFeedbackFormText', 'Mở Form Đóng góp ý kiến (Google Form)');
 
             setHtml('.compare-header span', '<i class="fas fa-columns"></i> So sánh năm', '<i class="fas fa-columns"></i> Compare year');
             setAttr('.compare-header .icon-btn', 'title', 'closeCompare', 'Tắt so sánh');
@@ -591,41 +614,28 @@
             display.innerText = AVAILABLE_YEARS[defaultIndex];
         }
 
-        let map = null;
+        const map = L.map('map', { zoomControl: false }).setView([16.047079, 108.206230], 6);
+        //L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; OpenStreetMap contributors' }).addTo(map);
+        //L.control.zoom({ position: 'bottomright' }).addTo(map);
+        L.tileLayer('https://mt0.google.com/vt/lyrs=y&hl=vi&x={x}&y={y}&z={z}', {
+            maxZoom: 21,
+            attribution: 'Map data &copy; Google',
+            crossOrigin: true
+        }).addTo(map);
 
-        function initMap() {
-            if (map) return map;
-            const container = document.getElementById('map');
-            if (!container || typeof L === 'undefined') return null;
-
-            try {
-                map = L.map('map', { zoomControl: false }).setView([16.047079, 108.206230], 6);
-                L.tileLayer('https://mt0.google.com/vt/lyrs=y&hl=vi&x={x}&y={y}&z={z}', {
-                    maxZoom: 21,
-                    attribution: 'Map data &copy; Google',
-                    crossOrigin: true
-                }).addTo(map);
-
-                L.control.scale({metric: true, imperial: false, position: 'bottomright'}).addTo(map);
-                map.createPane('provincePane'); map.getPane('provincePane').style.zIndex = 350;
-                map.createPane('districtPane'); map.getPane('districtPane').style.zIndex = 400;
-                map.createPane('wardPane'); map.getPane('wardPane').style.zIndex = 450;
-                map.createPane('borderPane'); map.getPane('borderPane').style.zIndex = 500;
-                map.createPane('highlightPane'); map.getPane('highlightPane').style.zIndex = 600;
-                map.getContainer().addEventListener('mouseleave', () => {
-                    if (hoveredFeature) {
-                        hoveredFeature = null;
-                        updateMapContextUI();
-                    }
-                });
-                window.map = map;
-            } catch (e) {
-                console.error("Leaflet init error:", e);
+        // Thanh tỷ lệ
+        L.control.scale({metric: true, imperial: false, position: 'bottomright'}).addTo(map);
+        map.createPane('provincePane'); map.getPane('provincePane').style.zIndex = 350;
+        map.createPane('districtPane'); map.getPane('districtPane').style.zIndex = 400;
+        map.createPane('wardPane'); map.getPane('wardPane').style.zIndex = 450;
+        map.createPane('borderPane'); map.getPane('borderPane').style.zIndex = 500;
+        map.createPane('highlightPane'); map.getPane('highlightPane').style.zIndex = 600;
+        map.getContainer().addEventListener('mouseleave', () => {
+            if (hoveredFeature) {
+                hoveredFeature = null;
+                updateMapContextUI();
             }
-            return map;
-        }
-
-        initMap();
+        });
 
         let layers = { province: null, district: null, ward: null, border: null };
         let viewMode = 'province';
@@ -646,6 +656,7 @@
         let memoryMode = 'map';
         let memoryRegion = 'all';
         const memoryDataCache = {};
+        const mapDataCache = {}; // Cache client-side cho tất cả file bản đồ đã tải
         let compareMap = null;
         let compareLayers = { province: null, district: null, ward: null, border: null };
         let splitViewEnabled = false;
@@ -2017,16 +2028,23 @@
         }
 
         async function loadMapData(fileName) {
+            // Trả ngay từ cache nếu đã tải trước đó (0ms)
+            if (mapDataCache[fileName]) {
+                return mapDataCache[fileName];
+            }
+
             const res = await fetch(`/api/map/${encodeURIComponent(fileName)}`);
             if (!res.ok) {
                 throw new Error(`Không tải được dữ liệu bản đồ: ${fileName}`);
             }
 
             const data = await res.json();
-            if (data && data.type === 'Topology') {
-                return topoJsonToGeoJson(data, fileName);
-            }
-            return data;
+            const geoData = (data && data.type === 'Topology')
+                ? topoJsonToGeoJson(data, fileName)
+                : data;
+
+            mapDataCache[fileName] = geoData; // Lưu vào cache để dùng lại
+            return geoData;
         }
 
         function getMemoryYear() {
@@ -2507,16 +2525,11 @@
         }
 
         async function updateMap() {
-            if (!map) initMap();
-            if (!map || AVAILABLE_YEARS.length === 0) return;
-            const timelineEl = document.getElementById('timeline');
-            if (!timelineEl) return;
-            const year = AVAILABLE_YEARS[timelineEl.value];
-            const yearValEl = document.getElementById('yearValue');
-            if (yearValEl) yearValEl.innerText = year;
+            if (AVAILABLE_YEARS.length === 0) return;
+            const year = AVAILABLE_YEARS[document.getElementById('timeline').value];
+            document.getElementById('yearValue').innerText = year;
             updateUIControls(year);
-            const loadingEl = document.getElementById('loading');
-            if (loadingEl) loadingEl.style.display = 'flex';
+            document.getElementById('loading').style.display = 'flex';
             clearTimelineHighlights();
 
             if (layers.province) map.removeLayer(layers.province);
@@ -3151,7 +3164,7 @@
         }
 
         // --- FETCH & DISPLAY DETAIL LOGIC ---
-        document.getElementById('btnShowHistory')?.addEventListener('click', async () => {
+        document.getElementById('btnShowHistory').addEventListener('click', async () => {
             if (!selectedFeature) return;
             toggleHistorySlide(true);
             const contentDiv = document.getElementById('sidePanelContent');
@@ -3391,11 +3404,8 @@
 
         // Events
         const tlInput = document.getElementById('timeline');
-        tlInput?.addEventListener('input', function() { 
-            const yrDisplay = document.getElementById('yearValue');
-            if (yrDisplay && AVAILABLE_YEARS[this.value] !== undefined) yrDisplay.innerText = AVAILABLE_YEARS[this.value]; 
-        });
-        tlInput?.addEventListener('change', function() {
+        tlInput.addEventListener('input', function() { document.getElementById('yearValue').innerText = AVAILABLE_YEARS[this.value]; });
+        tlInput.addEventListener('change', function() {
             pushViewState();
             updateMap();
         });
@@ -3406,8 +3416,7 @@
                     const currentYear = getCurrentYear();
                     if (currentYear && currentYear < 2008 && this.value !== 'province') {
                         viewMode = 'province';
-                        const provRadio = document.querySelector('input[value="province"]');
-                        if (provRadio) provRadio.checked = true;
+                        document.querySelector('input[value="province"]').checked = true;
                     } else {
                         viewMode = this.value;
                     }
@@ -3420,7 +3429,7 @@
         document.getElementById('btnLangVi')?.addEventListener('click', () => setLanguage('vi'));
         document.getElementById('btnLangEn')?.addEventListener('click', () => setLanguage('en'));
 
-        document.getElementById('btnGuestEn2025')?.addEventListener('click', function () {
+        document.getElementById('btnGuestEn2025').addEventListener('click', function () {
             provinceLabelMode2025 = provinceLabelMode2025 === 'fun' ? 'vn' : 'fun';
             foreignGuestProvinceLabels2025 = provinceLabelMode2025 === 'fun';
             localStorage.setItem('province_label_mode_2025', provinceLabelMode2025);
@@ -3433,8 +3442,7 @@
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
             if (tabName === 'map') { 
                 document.getElementById('tabMap')?.classList.add('active'); 
-                if (!map) initMap();
-                if (map) map.invalidateSize(); 
+                if (window.map) map.invalidateSize(); 
             } 
             else if (tabName === 'merger') { 
                 document.getElementById('tabMerger')?.classList.add('active'); 
@@ -3448,31 +3456,121 @@
                 ensureMemoryMap();
                 setTimeout(() => refreshMemoryMapViewport({ fit: !memoryGameActive || memoryMode === 'map' }), 50);
             }
+            else if (tabName === 'feedback') {
+                document.getElementById('tabFeedback')?.classList.add('active');
+            }
             const targetNav = document.querySelector(`.nav-item[data-tab="${tabName}"]`) || 
                               document.querySelector(`.nav-item[onclick*="${tabName}"]`);
             targetNav?.classList.add('active');
         }
 
-        // Expose functions to window scope for Next.js / inline HTML event handlers
-        window.switchMainTab = switchMainTab;
-        window.toggleSplitView = toggleSplitView;
-        window.toggleMiniChat = toggleMiniChat;
-        window.sendMiniChatMessage = sendMiniChatMessage;
-        window.exportCurrentReport = exportCurrentReport;
-        window.toggleHistorySlide = toggleHistorySlide;
-        window.resetChat = resetChat;
-        window.sendMessage = sendMessage;
-        window.startMemoryGame = startMemoryGame;
-        window.showMemoryHint = showMemoryHint;
-        window.skipMemoryQuestion = skipMemoryQuestion;
-        window.resetMemoryGame = resetMemoryGame;
-        window.startQuickTour = startQuickTour;
-        window.setLanguage = setLanguage;
-        window.initApp = initApp;
-        window.initMap = initMap;
-
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', () => initApp());
-        } else {
-            initApp();
+        // --- ADMIN & VISITOR ANALYTICS LOGIC ---
+        function openAdminModal() {
+            const modal = document.getElementById('adminModal');
+            if (!modal) return;
+            modal.classList.remove('hidden');
+            const token = localStorage.getItem('admin_token');
+            if (token) {
+                document.getElementById('adminLoginSection')?.classList.add('hidden');
+                document.getElementById('adminDashboardSection')?.classList.remove('hidden');
+                loadAdminStats();
+            } else {
+                document.getElementById('adminLoginSection')?.classList.remove('hidden');
+                document.getElementById('adminDashboardSection')?.classList.add('hidden');
+            }
         }
+
+        function closeAdminModal() {
+            document.getElementById('adminModal')?.classList.add('hidden');
+        }
+
+        async function handleAdminLogin() {
+            const usernameInput = document.getElementById('adminUsername');
+            const passwordInput = document.getElementById('adminPassword');
+            const errorDiv = document.getElementById('adminLoginError');
+
+            const username = usernameInput ? usernameInput.value.trim() : '';
+            const password = passwordInput ? passwordInput.value.trim() : '';
+
+            if (errorDiv) errorDiv.classList.add('hidden');
+
+            try {
+                const res = await fetch('/api/admin/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+                const data = await res.json();
+                if (res.ok && data.token) {
+                    localStorage.setItem('admin_token', data.token);
+                    document.getElementById('btnAdminModal')?.classList.add('logged-in');
+                    document.getElementById('adminLoginSection')?.classList.add('hidden');
+                    document.getElementById('adminDashboardSection')?.classList.remove('hidden');
+                    if (usernameInput) usernameInput.value = '';
+                    if (passwordInput) passwordInput.value = '';
+                    loadAdminStats();
+                } else {
+                    if (errorDiv) {
+                        errorDiv.textContent = data.message || 'Đăng nhập không thành công';
+                        errorDiv.classList.remove('hidden');
+                    }
+                }
+            } catch (err) {
+                if (errorDiv) {
+                    errorDiv.textContent = 'Lỗi kết nối máy chủ.';
+                    errorDiv.classList.remove('hidden');
+                }
+            }
+        }
+
+        function handleAdminLogout() {
+            localStorage.removeItem('admin_token');
+            document.getElementById('btnAdminModal')?.classList.remove('logged-in');
+            document.getElementById('adminDashboardSection')?.classList.add('hidden');
+            document.getElementById('adminLoginSection')?.classList.remove('hidden');
+        }
+
+        async function loadAdminStats() {
+            try {
+                const res = await fetch('/api/admin/stats');
+                if (!res.ok) return;
+                const data = await res.json();
+
+                const totalEl = document.getElementById('adminStatTotalVisits');
+                const todayEl = document.getElementById('adminStatTodayVisits');
+                const uniqueEl = document.getElementById('adminStatUniqueVisitors');
+                const recentListEl = document.getElementById('adminRecentVisitsList');
+
+                if (totalEl) totalEl.textContent = (data.total_visits || 0).toLocaleString();
+                if (todayEl) todayEl.textContent = (data.today_visits || 0).toLocaleString();
+                if (uniqueEl) uniqueEl.textContent = (data.unique_visitors || 0).toLocaleString();
+
+                if (recentListEl) {
+                    if (data.recent_visits && data.recent_visits.length > 0) {
+                        let html = '';
+                        data.recent_visits.forEach(item => {
+                            html += `
+                                <div class="admin-recent-item">
+                                    <span><i class="fas fa-clock" style="margin-right: 4px;"></i> ${item.timestamp || ''}</span>
+                                    <span>IP: ${item.ip || 'Local'}</span>
+                                </div>
+                            `;
+                        });
+                        recentListEl.innerHTML = html;
+                    } else {
+                        recentListEl.innerHTML = '<div style="color: #94a3b8; font-style: italic; font-size: 0.85rem;">Chưa có dữ liệu.</div>';
+                    }
+                }
+            } catch (err) {
+                console.error('Error loading admin stats:', err);
+            }
+        }
+
+        window.openAdminModal = openAdminModal;
+        window.closeAdminModal = closeAdminModal;
+        window.handleAdminLogin = handleAdminLogin;
+        window.handleAdminLogout = handleAdminLogout;
+        window.loadAdminStats = loadAdminStats;
+        window.switchMainTab = switchMainTab;
+
+        initApp();
