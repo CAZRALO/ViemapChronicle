@@ -16,10 +16,9 @@ load_dotenv()
 app = Flask(__name__)
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 
-# Bật nén HTTP tự động (gzip/brotli) — giảm 70-80% kích thước GeoJSON/JSON
-app.config['COMPRESS_ALGORITHM'] = ['br', 'gzip']  # Ưu tiên brotli, fallback gzip
-app.config['COMPRESS_MIN_SIZE'] = 1024              # Chỉ nén response >= 1 KB
-app.config['COMPRESS_LEVEL'] = 6                   # Mức nén cân bằng (speed vs ratio)
+app.config['COMPRESS_ALGORITHM'] = ['br', 'gzip'] 
+app.config['COMPRESS_MIN_SIZE'] = 1024           
+app.config['COMPRESS_LEVEL'] = 6                   
 Compress(app)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -58,8 +57,7 @@ STOPWORDS = {
 RAG_INTENT_KEYWORDS = {
     "history": (
         "lich su", "su kien", "dien bien", "khoi nghia", "chien tranh", "tran danh",
-        "nhan vat", "trieu dai", "xua", "truoc day", "timeline", "moc thoi gian",
-        "video", "youtube", "clip", "phim tu lieu"
+        "nhan vat", "trieu dai", "xua", "truoc day", "timeline", "moc thoi gian"
     ),
     "geo_site": (
         "dia diem", "di tich", "danh lam", "thang canh", "du lich", "tham quan",
@@ -376,17 +374,26 @@ def with_geo_site_videos(site, lang="vi"):
     return {**site, "videos": videos_for_geo_site(site, lang=lang)}
 
 def add_video_line(lines, videos, lang="vi"):
-    if not videos:
-        return
-    label = "Suggested YouTube video" if str(lang).lower() == "en" else "Video YouTube gợi ý"
-    parts = []
-    for video in videos[:2]:
-        title = video.get("title") or "YouTube"
-        url = video.get("url")
-        if url:
-            parts.append(f"{title}: {url}")
-    if parts:
-        lines.append(f"{label}: {' | '.join(parts)}")
+    return
+
+def sanitize_chatbot_response(text):
+    if not text or not isinstance(text, str):
+        return text
+    # Remove markdown YouTube links [label](url)
+    cleaned = re.sub(r'\[[^\]]*\]\(https?://(?:www\.)?(?:youtube\.com|youtu\.be)/[^\)]+\)', '', text, flags=re.IGNORECASE)
+    # Remove plain YouTube URLs
+    cleaned = re.sub(r'https?://(?:www\.)?(?:youtube\.com|youtu\.be)/[^\s\)]+', '', cleaned, flags=re.IGNORECASE)
+    # Filter out lines suggesting YouTube videos or video links
+    lines = cleaned.split('\n')
+    filtered_lines = []
+    for line in lines:
+        line_lower = line.lower()
+        if any(term in line_lower for term in ['video gợi ý', 'xem video', 'video liên quan', 'suggested video', 'watch on youtube', 'video youtube', 'gợi ý video']):
+            continue
+        filtered_lines.append(line)
+    cleaned = '\n'.join(filtered_lines)
+    cleaned = re.sub(r'\n{3,}', '\n\n', cleaned).strip()
+    return cleaned
 
 def make_rag_doc(kind, title, content, source, aliases=None, province=None, district=None,
                  commune=None, year=None, extra_text=None, source_meta=None):
@@ -1712,7 +1719,7 @@ def chat():
                 CHAT_RAG_MEMORY.pop(session_id, None)
             system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
             QUY TẮC PHẢN HỒI:
-            - Trả lời gọn, đúng trọng tâm, súc tích, ngắn gọn, không dài dòng, không giải thích lan man.
+            - Trả lời súc tích, ngắn gọn, không dài dòng, không giải thích lan man.
             - Nếu người dùng không đề cập mốc thời gian cụ thể thì mặc định mốc thời gian là sau ngày 1/7/2025 (đã qua sáp nhập).
             - Mặc định "hiện nay" hoặc "bây giờ" là thời điểm sau ngày 1/7/2025 (đã qua sáp nhập). Nếu người dùng hỏi về địa danh trước mốc này, hãy trả lời theo lịch sử.
             - Nếu hệ thống cung cấp [NGỮ CẢNH BẢN ĐỒ], người dùng đã chọn một vùng trên bản đồ; hãy hiểu "đây", "nơi này", "chỗ này" là vùng đó và trả lời tập trung vào địa phương đó.
@@ -1741,19 +1748,17 @@ def chat():
             
             if str(lang).lower() == 'en':
                 system_prompt += "\n- When using RAG items, answer naturally and do not add source lists or citation codes."
-                system_prompt += "\n- If a relevant RAG item includes a suggested YouTube video and the user asks about a battle or historical event, include a short 'Suggested video' line with that YouTube link. If the item is a YouTube search link, present it as a search suggestion, not as a verified exact video."
+                system_prompt += "\n- Do not include video suggestions, video links, or YouTube recommendations under any circumstances."
             else:
                 system_prompt += "\n- Khi dùng mục RAG, hãy trả lời tự nhiên, không tự thêm danh sách nguồn hoặc mã trích dẫn."
-
-            if str(lang).lower() != 'en':
-                system_prompt += "\n- Nếu mục RAG liên quan có Video YouTube gợi ý và người dùng hỏi về trận đánh hoặc sự kiện lịch sử, hãy thêm một dòng 'Video gợi ý' kèm link YouTube đó. Nếu link là trang tìm kiếm YouTube, hãy nói là gợi ý tìm kiếm, không khẳng định đó là video chính xác."
+                system_prompt += "\n- Tuyệt đối không kèm theo video gợi ý, link video, hoặc gợi ý YouTube trong câu trả lời dưới bất kỳ hình thức nào."
 
             history = [
                 {"role": "user", "parts": [{"text": system_prompt}]},
                 {"role": "model", "parts": [{"text": "I understand the rules and am ready." if str(lang).lower() == 'en' else "Tôi đã hiểu quy tắc. Tôi đã sẵn sàng."}]}
             ]
 
-            chat_sessions[session_id] = gemini_client.chats.create(model='gemini-2.5-flash', history=history)
+            chat_sessions[session_id] = gemini_client.chats.create(model='gemini-3.6-flash', history=history)
             
             if reset:
                 reset_text = "Started a new conversation." if str(lang).lower() == 'en' else "Đã bắt đầu cuộc trò trò chuyện mới."
@@ -1765,7 +1770,7 @@ def chat():
         if direct_commune_merge:
             response_text, direct_sources = direct_commune_merge
             remember_rag_turn(session_id, user_message, map_context)
-            return jsonify({"response": response_text, "sources": direct_sources})
+            return jsonify({"response": sanitize_chatbot_response(response_text), "sources": direct_sources})
 
         session_history_text = get_recent_rag_memory_text(session_id)
         dynamic_context, rag_sources = retrieve_rag_context(
@@ -1791,7 +1796,7 @@ def chat():
             if admin_guardrail:
                 final_message += f"\n\n{admin_guardrail}"
             prompt_hint = (
-                "\n\n[HƯỚNG DẪN: Trả lời gọn, đúng trọng tâm. Câu hỏi này có dữ liệu RAG nội bộ nên KHÔNG thêm dòng cảnh báo nằm ngoài phạm vi dữ liệu nội bộ.]"
+                "\n\n[HƯỚNG DẪN: Trả lời ngắn gọn, đúng trọng tâm, đầy đủ ý và không liệt kê lan man. Câu hỏi này có dữ liệu RAG nội bộ nên KHÔNG thêm dòng cảnh báo nằm ngoài phạm vi dữ liệu nội bộ.]"
                 if str(lang).lower() != 'en' else
                 "\n\n[INSTRUCTION: Answer concisely and to the point. This query has internal RAG data, so DO NOT add the out-of-scope warning line.]"
             )
@@ -1820,7 +1825,7 @@ def chat():
                 )
                 response_text = f"{warning_line}\n\n{response_text.strip()}"
 
-        return jsonify({"response": response_text, "sources": []})
+        return jsonify({"response": sanitize_chatbot_response(response_text), "sources": []})
         
     except Exception as e:
         print(f"Chat Error: {e}")

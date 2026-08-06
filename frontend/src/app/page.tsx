@@ -380,49 +380,96 @@ export default function HomePage() {
         <div id="tabChat" className="tab-pane">
           <div className="chat-header">
             <h2>
-              <i className="fas fa-brain"></i> Trợ lý AI Viemacle
+              <i className="fas fa-brain"></i> <span id="txtChatHeader">Trợ lý AI Viemacle</span>
             </h2>
-            <button
-              className="btn-new-chat"
-              onClick={() => (window as any).resetChat?.()}
-            >
-              <i className="fas fa-redo"></i> Cuộc trò chuyện mới
-            </button>
-          </div>
-          <div
-            id="chatMapContext"
-            className="chat-map-context"
-            title="Vùng đang chỉ/chọn trên tab Bản đồ"
-          >
-            <i className="fas fa-map-pin" id="chatMapContextIcon"></i>
-            <span>
-              <span id="chatMapContextLabel">Đang chọn trên bản đồ:</span>{' '}
-              <strong id="chatMapContextName"></strong>{' '}
-              <span id="chatMapContextYear"></span>
-            </span>
-          </div>
-          <div className="chat-messages" id="chatMessages">
-            <div className="message ai">
-              Xin chào! Tôi là AI hỗ trợ tìm hiểu về Lịch sử và Địa lý Việt Nam.
-              Hãy đặt câu hỏi cho tôi nhé!
+            <div className="chat-header-actions">
+              <button
+                type="button"
+                className="btn-history-toggle"
+                id="btnToggleHistory"
+                onClick={() => (window as any).toggleChatHistory?.()}
+                title="Xem lịch sử trò chuyện"
+              >
+                <i className="fas fa-history"></i> <span id="txtHistoryToggle">Lịch sử chat</span>
+              </button>
+              <button
+                type="button"
+                className="btn-new-chat"
+                onClick={() => (window as any).resetChat?.()}
+              >
+                <i className="fas fa-plus"></i> <span id="txtNewChat">Cuộc trò chuyện mới</span>
+              </button>
             </div>
           </div>
-          <div className="chat-input-area">
-            <input
-              type="text"
-              id="chatInput"
-              className="chat-input"
-              placeholder="Nhập câu hỏi của bạn (VD: Lịch sử tỉnh Quảng Nam?)..."
-              onKeyDown={(e) =>
-                e.key === 'Enter' && (window as any).sendMessage?.()
-              }
-            />
-            <button
-              className="btn-send"
-              onClick={() => (window as any).sendMessage?.()}
-            >
-              <i className="fas fa-paper-plane"></i> Gửi
-            </button>
+          <div className="chat-body-container">
+            {/* History Sidebar */}
+            <div className="chat-sidebar" id="chatSidebar">
+              <div className="chat-sidebar-header">
+                <h3>
+                  <i className="fas fa-history"></i> <span id="txtSidebarHistoryTitle">Lịch sử trò chuyện</span>
+                </h3>
+                <button
+                  type="button"
+                  className="btn-clear-all-history"
+                  onClick={() => (window as any).clearAllChatHistory?.()}
+                  title="Xóa toàn bộ lịch sử"
+                >
+                  <i className="fas fa-trash-alt"></i>
+                </button>
+              </div>
+              <div className="chat-sidebar-search">
+                <input
+                  type="text"
+                  id="chatHistorySearch"
+                  placeholder="Tìm kiếm lịch sử..."
+                  onInput={() => (window as any).renderChatHistoryList?.()}
+                />
+                <i className="fas fa-search search-icon"></i>
+              </div>
+              <div className="chat-history-list" id="chatHistoryList">
+                {/* Loaded dynamically */}
+              </div>
+            </div>
+
+            {/* Main Chat Area */}
+            <div className="chat-main-area">
+              <div
+                id="chatMapContext"
+                className="chat-map-context"
+                title="Vùng đang chỉ/chọn trên tab Bản đồ"
+              >
+                <i className="fas fa-map-pin" id="chatMapContextIcon"></i>
+                <span>
+                  <span id="chatMapContextLabel">Đang chọn trên bản đồ:</span>{' '}
+                  <strong id="chatMapContextName"></strong>{' '}
+                  <span id="chatMapContextYear"></span>
+                </span>
+              </div>
+              <div className="chat-messages" id="chatMessages">
+                <div className="message ai">
+                  Xin chào! Tôi là AI hỗ trợ tìm hiểu về Lịch sử và Địa lý Việt Nam.
+                  Hãy đặt câu hỏi cho tôi nhé!
+                </div>
+              </div>
+              <div className="chat-input-area">
+                <input
+                  type="text"
+                  id="chatInput"
+                  className="chat-input"
+                  placeholder="Nhập câu hỏi của bạn (VD: Lịch sử tỉnh Quảng Nam?)..."
+                  onKeyDown={(e) =>
+                    e.key === 'Enter' && (window as any).sendMessage?.()
+                  }
+                />
+                <button
+                  type="button"
+                  className="btn-send"
+                  onClick={() => (window as any).sendMessage?.()}
+                >
+                  <i className="fas fa-paper-plane"></i> <span id="txtSendBtn">Gửi</span>
+                </button>
+              </div>
+            </div>
           </div>
         </div>
 
