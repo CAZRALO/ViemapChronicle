@@ -63,26 +63,38 @@ export default function HomePage() {
             <span id="navFeedbackText">Đóng góp ý kiến</span>
           </div>
         </div>
-        <div className="language-switch" aria-label="Language">
+        <div className="navbar-right">
           <button
             type="button"
-            id="btnLangVi"
-            className="language-btn active"
+            id="btnQuickTour"
+            className="btn-tour-nav"
+            onClick={() => (window as any).startQuickTour?.()}
+            title="Giới thiệu trang web"
           >
-            VI
+            <i className="fas fa-circle-info"></i>{' '}
+            <span id="btnTourText">Giới thiệu trang web</span>
           </button>
-          <button type="button" id="btnLangEn" className="language-btn">
-            EN
-          </button>
-          <button
-            type="button"
-            id="btnAdminModal"
-            className="btn-admin-nav"
-            onClick={() => (window as any).openAdminModal?.()}
-            title="Quyền Admin - Thống kê"
-          >
-            <i className="fas fa-user-shield"></i> <span id="btnAdminText">Admin</span>
-          </button>
+          <div className="language-switch" aria-label="Language">
+            <button
+              type="button"
+              id="btnLangVi"
+              className="language-btn active"
+            >
+              VI
+            </button>
+            <button type="button" id="btnLangEn" className="language-btn">
+              EN
+            </button>
+            <button
+              type="button"
+              id="btnAdminModal"
+              className="btn-admin-nav"
+              onClick={() => (window as any).openAdminModal?.()}
+              title="Quyền Admin - Thống kê"
+            >
+              <i className="fas fa-user-shield"></i> <span id="btnAdminText">Admin</span>
+            </button>
+          </div>
         </div>
       </div>
 
@@ -167,14 +179,6 @@ export default function HomePage() {
               title="So sánh 2 mốc năm song song"
             >
               <i className="fas fa-table-columns"></i>
-            </button>
-            <button
-              type="button"
-              className="toolbar-btn"
-              id="btnQuickTour"
-              title="Tour"
-            >
-              <i className="fas fa-route"></i>
             </button>
             <div
               id="quickPlacesPanel"

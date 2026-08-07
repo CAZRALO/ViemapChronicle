@@ -1335,26 +1335,68 @@ def scan_map_files(lang='vi'):
 
 VISITOR_STATS_FILE = os.path.join(BASE_DIR, 'visitor_stats.json')
 
+# Database connection for Vercel deployment (MongoDB Atlas)
+MONGO_URI = os.getenv("MONGO_URI")
+mongo_client = None
+if MONGO_URI:
+    try:
+        from pymongo import MongoClient
+        mongo_client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
+    except Exception as mongo_err:
+        print(f"MongoDB connection init warning: {mongo_err}")
+
 def load_visitor_stats():
-    if os.path.exists(VISITOR_STATS_FILE):
-        try:
-            with open(VISITOR_STATS_FILE, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except Exception:
-            pass
-    return {
+    default_stats = {
         "total_visits": 0,
         "daily_visits": {},
         "unique_ips": [],
         "recent_visits": []
     }
 
+    # 1. Try cloud database (MongoDB Atlas) if MONGO_URI is set
+    if mongo_client:
+        try:
+            db_name = os.getenv("MONGO_DB_NAME", "viemap_db")
+            db = mongo_client[db_name]
+            doc = db.visitor_stats.find_one({"_id": "global_stats"})
+            if doc:
+                doc.pop("_id", None)
+                return doc
+        except Exception as e:
+            print(f"Error loading visitor stats from MongoDB: {e}")
+
+    # 2. Fallback to local JSON file for local dev
+    if os.path.exists(VISITOR_STATS_FILE):
+        try:
+            with open(VISITOR_STATS_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except Exception:
+            pass
+
+    return default_stats
+
 def save_visitor_stats(stats):
+    # 1. Save to cloud database (MongoDB Atlas) if MONGO_URI is set
+    if mongo_client:
+        try:
+            db_name = os.getenv("MONGO_DB_NAME", "viemap_db")
+            db = mongo_client[db_name]
+            db.visitor_stats.update_one(
+                {"_id": "global_stats"},
+                {"$set": stats},
+                upsert=True
+            )
+            return
+        except Exception as e:
+            print(f"Error saving visitor stats to MongoDB: {e}")
+
+    # 2. Fallback to local JSON file for local dev
     try:
         with open(VISITOR_STATS_FILE, 'w', encoding='utf-8') as f:
             json.dump(stats, f, ensure_ascii=False, indent=2)
     except Exception as e:
-        print(f"Error saving visitor stats: {e}")
+        print(f"Error saving visitor stats to file: {e}")
+
 
 @app.route('/api/visitor/track', methods=['POST'])
 def track_visitor():

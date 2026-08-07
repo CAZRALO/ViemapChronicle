@@ -18,7 +18,7 @@ update_to_province.py
 *.md
 phienamtienganh.txt
 normalize_merge_data.py 
-
+*.csv
 /static/
 !frontend/public/static/
 templates/

@@ -24,7 +24,7 @@ const UI_EN = {
     bookmark: 'Save selected place',
     quickPlaces: 'Bookmarks and recent places',
     splitView: 'Compare two years side by side',
-    quickTour: 'Quick tour',
+    quickTour: 'Website Intro',
     placeInfo: 'Place information',
     choosePlace: 'Select a place on the map to view details.',
     detailsHistory: 'View details and history',
@@ -291,8 +291,8 @@ function applyLanguageToStaticDom() {
     setAttr('#btnBackView', 'title', 'backView', 'Quay lại vị trí/năm/chế độ trước đó');
     setAttr('#btnBookmarkPlace', 'title', 'bookmark', 'Lưu địa phương đang chọn');
     setAttr('#btnQuickPlaces', 'title', 'quickPlaces', 'Bookmark và lịch sử gần đây');
-    setAttr('#btnSplitView', 'title', 'splitView', 'So sánh 2 mốc năm song song');
     setAttr('#btnQuickTour', 'title', 'quickTour', 'Giới thiệu trang web');
+    setHtml('#btnQuickTour', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Giới thiệu trang web') + '</span>', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Website Intro') + '</span>');
     setHtml('#infoBox h3', '<i class="fas fa-map-marker-alt"></i> Thông tin địa điểm', '<i class="fas fa-map-marker-alt"></i> Place information');
     const infoContent = document.getElementById('infoContent');
     if (infoContent && !selectedFeature) {
