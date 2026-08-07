@@ -695,6 +695,10 @@ export default function HomePage() {
                 <span className="status-indicator"></span> Đang hoạt động với quyền{' '}
                 <strong>Admin</strong>
               </div>
+              <div id="adminDbStatusBadge" style={{ marginTop: '8px', fontSize: '0.8rem', opacity: 0.9 }}>
+                <i className="fas fa-database" style={{ marginRight: '4px' }}></i>
+                <span id="adminDbStatusText">Đang kiểm tra kết nối CSDL...</span>
+              </div>
 
               <div className="admin-stats-grid">
                 <div className="admin-stat-card">

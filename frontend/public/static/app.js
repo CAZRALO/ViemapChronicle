@@ -3852,6 +3852,15 @@ async function loadAdminStats() {
         const todayEl = document.getElementById('adminStatTodayVisits');
         const uniqueEl = document.getElementById('adminStatUniqueVisitors');
         const recentListEl = document.getElementById('adminRecentVisitsList');
+        const dbStatusTextEl = document.getElementById('adminDbStatusText');
+
+        if (dbStatusTextEl) {
+            if (data.db_connected) {
+                dbStatusTextEl.innerHTML = '<span style="color: #4ade80;">🟢 Kết nối MongoDB Atlas (Realtime Data)</span>';
+            } else {
+                dbStatusTextEl.innerHTML = '<span style="color: #f87171;">⚠️ Chưa kết nối MongoDB (Đang dùng file local - Cần kiểm tra MONGO_URI)</span>';
+            }
+        }
 
         if (totalEl) totalEl.textContent = (data.total_visits || 0).toLocaleString();
         if (todayEl) todayEl.textContent = (data.today_visits || 0).toLocaleString();
