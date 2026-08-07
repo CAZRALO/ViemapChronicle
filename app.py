@@ -1336,7 +1336,7 @@ def scan_map_files(lang='vi'):
 VISITOR_STATS_FILE = os.path.join(BASE_DIR, 'visitor_stats.json')
 
 # Database connection for Vercel deployment (MongoDB Atlas)
-MONGO_URI = os.getenv("MONGO_URI")
+MONGO_URI = os.getenv("MONGO_URI") or os.getenv("MONGO_URL")
 mongo_client = None
 if MONGO_URI:
     try:
@@ -1359,7 +1359,7 @@ def get_client_ip():
     return request.remote_addr or '127.0.0.1'
 
 def get_mongo_db():
-    mongo_uri = os.getenv("MONGO_URI")
+    mongo_uri = os.getenv("MONGO_URI") or os.getenv("MONGO_URL")
     if not mongo_uri:
         return None
     global mongo_client
