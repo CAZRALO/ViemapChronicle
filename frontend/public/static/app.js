@@ -3844,7 +3844,7 @@ function handleAdminLogout() {
 
 async function loadAdminStats() {
     try {
-        const res = await fetch(getApiUrl('/api/admin/stats'));
+        const res = await fetch(getApiUrl('/api/admin/stats?t=' + Date.now()), { cache: 'no-store' });
         if (!res.ok) return;
         const data = await res.json();
 

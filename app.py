@@ -1345,6 +1345,38 @@ if MONGO_URI:
     except Exception as mongo_err:
         print(f"MongoDB connection init warning: {mongo_err}")
 
+def get_client_ip():
+    x_forwarded_for = request.headers.get('X-Forwarded-For') or request.headers.get('x-forwarded-for')
+    if x_forwarded_for:
+        first_ip = x_forwarded_for.split(',')[0].strip()
+        if first_ip:
+            return first_ip
+
+    x_real_ip = request.headers.get('X-Real-IP') or request.headers.get('x-real-ip')
+    if x_real_ip and x_real_ip.strip():
+        return x_real_ip.strip()
+
+    return request.remote_addr or '127.0.0.1'
+
+def get_mongo_db():
+    mongo_uri = os.getenv("MONGO_URI")
+    if not mongo_uri:
+        return None
+    global mongo_client
+    if mongo_client is None:
+        try:
+            from pymongo import MongoClient
+            mongo_client = MongoClient(mongo_uri, serverSelectionTimeoutMS=5000)
+        except Exception as err:
+            print(f"MongoDB connection init warning: {err}")
+            return None
+    try:
+        db_name = os.getenv("MONGO_DB_NAME", "viemap_db")
+        return mongo_client[db_name]
+    except Exception as err:
+        print(f"MongoDB db access warning: {err}")
+        return None
+
 def load_visitor_stats():
     default_stats = {
         "total_visits": 0,
@@ -1354,14 +1386,28 @@ def load_visitor_stats():
     }
 
     # 1. Try cloud database (MongoDB Atlas) if MONGO_URI is set
-    if mongo_client:
+    db = get_mongo_db()
+    if db is not None:
         try:
-            db_name = os.getenv("MONGO_DB_NAME", "viemap_db")
-            db = mongo_client[db_name]
             doc = db.visitor_stats.find_one({"_id": "global_stats"})
             if doc:
                 doc.pop("_id", None)
                 return doc
+            else:
+                # Seed MongoDB for the first time using local JSON or defaults
+                initial_stats = default_stats
+                if os.path.exists(VISITOR_STATS_FILE):
+                    try:
+                        with open(VISITOR_STATS_FILE, 'r', encoding='utf-8') as f:
+                            initial_stats = json.load(f)
+                    except Exception:
+                        pass
+                db.visitor_stats.update_one(
+                    {"_id": "global_stats"},
+                    {"$set": initial_stats},
+                    upsert=True
+                )
+                return initial_stats
         except Exception as e:
             print(f"Error loading visitor stats from MongoDB: {e}")
 
@@ -1377,10 +1423,9 @@ def load_visitor_stats():
 
 def save_visitor_stats(stats):
     # 1. Save to cloud database (MongoDB Atlas) if MONGO_URI is set
-    if mongo_client:
+    db = get_mongo_db()
+    if db is not None:
         try:
-            db_name = os.getenv("MONGO_DB_NAME", "viemap_db")
-            db = mongo_client[db_name]
             db.visitor_stats.update_one(
                 {"_id": "global_stats"},
                 {"$set": stats},
@@ -1400,9 +1445,7 @@ def save_visitor_stats(stats):
 
 @app.route('/api/visitor/track', methods=['POST'])
 def track_visitor():
-    ip = request.remote_addr or request.headers.get('X-Forwarded-For', '127.0.0.1')
-    if ',' in ip:
-        ip = ip.split(',')[0].strip()
+    ip = get_client_ip()
     today_str = datetime.now().strftime("%Y-%m-%d")
     now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -1423,11 +1466,13 @@ def track_visitor():
     stats["recent_visits"] = recent[:30]
 
     save_visitor_stats(stats)
-    return jsonify({
+    res = jsonify({
         "status": "success",
         "total_visits": stats["total_visits"],
         "today_visits": daily.get(today_str, 0)
     })
+    res.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    return res
 
 @app.route('/api/admin/login', methods=['POST'])
 def admin_login():
@@ -1452,13 +1497,17 @@ def get_admin_stats():
     today_str = datetime.now().strftime("%Y-%m-%d")
     stats = load_visitor_stats()
     daily = stats.get("daily_visits", {})
-    return jsonify({
+    db = get_mongo_db()
+    res = jsonify({
         "total_visits": stats.get("total_visits", 0),
         "today_visits": daily.get(today_str, 0),
         "unique_visitors": len(stats.get("unique_ips", [])),
         "recent_visits": stats.get("recent_visits", [])[:15],
-        "daily_breakdown": daily
+        "daily_breakdown": daily,
+        "db_connected": db is not None
     })
+    res.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    return res
 
 @app.route('/')
 def index():
