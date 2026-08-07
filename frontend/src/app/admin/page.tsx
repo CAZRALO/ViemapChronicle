@@ -15,6 +15,8 @@ import {
   User,
   AlertCircle,
   ArrowLeft,
+  Search,
+  Globe,
   Activity,
   Server,
   Clock,
@@ -26,10 +28,18 @@ interface VisitItem {
   ip: string;
 }
 
+interface IpDetail {
+  ip: string;
+  count: number;
+  last_visit: string;
+}
+
 interface AdminStats {
   total_visits: number;
   today_visits: number;
   unique_visitors: number;
+  unique_ips?: string[];
+  ip_details?: IpDetail[];
   recent_visits: VisitItem[];
   daily_breakdown: Record<string, number>;
   db_connected: boolean;
@@ -46,6 +56,9 @@ export default function AdminPage() {
   const [loadingStats, setLoadingStats] = useState(false);
   const [statsError, setStatsError] = useState<string | null>(null);
   const [lastUpdated, setLastUpdated] = useState<string>('');
+
+  const [activeTab, setActiveTab] = useState<'all_ips' | 'recent_visits'>('all_ips');
+  const [searchTerm, setSearchTerm] = useState('');
 
   // Helper to determine API Base URL safely
   const getApiUrl = (path: string) => {
@@ -408,61 +421,181 @@ export default function AdminPage() {
               </div>
             </div>
 
-            {/* Recent Visits Section */}
+            {/* IP & Visits Section */}
             <div className="bg-slate-900/80 border border-slate-800/80 rounded-2xl p-6 backdrop-blur-xl shadow-xl">
-              <div className="flex items-center justify-between mb-5">
-                <div className="flex items-center gap-2.5">
-                  <Activity className="w-5 h-5 text-sky-400" />
-                  <h3 className="text-base font-bold text-slate-200">
-                    Lịch sử truy cập gần đây (30 lượt gần nhất)
-                  </h3>
+              <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-6 pb-4 border-b border-slate-800/80">
+                {/* Tab Controls */}
+                <div className="flex items-center gap-2 bg-slate-950 p-1 rounded-xl border border-slate-800/80">
+                  <button
+                    onClick={() => setActiveTab('all_ips')}
+                    className={`flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+                      activeTab === 'all_ips'
+                        ? 'bg-sky-500 text-white shadow-md shadow-sky-500/20'
+                        : 'text-slate-400 hover:text-slate-200'
+                    }`}
+                  >
+                    <Globe className="w-4 h-4" />
+                    <span>Toàn bộ địa chỉ IP</span>
+                    <span className="ml-1 px-2 py-0.5 rounded-full text-[10px] bg-slate-900/60 text-slate-300 border border-slate-700/50">
+                      {stats?.unique_ips?.length || 0}
+                    </span>
+                  </button>
+
+                  <button
+                    onClick={() => setActiveTab('recent_visits')}
+                    className={`flex items-center gap-2 px-4 py-2 rounded-lg text-xs font-bold transition-all ${
+                      activeTab === 'recent_visits'
+                        ? 'bg-sky-500 text-white shadow-md shadow-sky-500/20'
+                        : 'text-slate-400 hover:text-slate-200'
+                    }`}
+                  >
+                    <Activity className="w-4 h-4" />
+                    <span>Nhật ký truy cập gần đây</span>
+                    <span className="ml-1 px-2 py-0.5 rounded-full text-[10px] bg-slate-900/60 text-slate-300 border border-slate-700/50">
+                      {stats?.recent_visits?.length || 0}
+                    </span>
+                  </button>
                 </div>
-                <span className="text-xs text-slate-400 bg-slate-800 px-3 py-1 rounded-full border border-slate-700/50">
-                  Realtime Log
-                </span>
+
+                {/* Search Bar */}
+                <div className="relative w-full md:w-64">
+                  <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+                  <input
+                    type="text"
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                    placeholder="Tìm kiếm địa chỉ IP..."
+                    className="w-full bg-slate-950/80 border border-slate-800 rounded-xl pl-9 pr-4 py-2 text-xs text-slate-100 placeholder-slate-500 focus:outline-none focus:border-sky-500 transition-all"
+                  />
+                </div>
               </div>
 
-              {!stats || !stats.recent_visits || stats.recent_visits.length === 0 ? (
-                <div className="text-center py-12 text-slate-500 text-sm italic">
-                  Chưa có dữ liệu lượt truy cập gần đây.
+              {/* Tab Content: All IP Addresses */}
+              {activeTab === 'all_ips' && (
+                <div>
+                  {(() => {
+                    const allIpsDetails = stats?.ip_details || (stats?.unique_ips || []).map(ip => ({ ip, count: 1, last_visit: 'N/A' }));
+                    const filtered = allIpsDetails.filter((item) =>
+                      item.ip.toLowerCase().includes(searchTerm.toLowerCase().trim())
+                    );
+
+                    if (filtered.length === 0) {
+                      return (
+                        <div className="text-center py-12 text-slate-500 text-sm italic">
+                          {searchTerm ? `Không tìm thấy IP phù hợp với "${searchTerm}"` : 'Chưa có dữ liệu IP nào.'}
+                        </div>
+                      );
+                    }
+
+                    return (
+                      <div className="overflow-x-auto">
+                        <table className="w-full text-left text-xs border-collapse">
+                          <thead>
+                            <tr className="border-b border-slate-800 text-slate-400 uppercase tracking-wider text-[11px]">
+                              <th className="pb-3 px-4">#</th>
+                              <th className="pb-3 px-4">Địa chỉ IP</th>
+                              <th className="pb-3 px-4">Lượt ghé thăm ghi nhận</th>
+                              <th className="pb-3 px-4">Lần truy cập gần nhất</th>
+                              <th className="pb-3 px-4 text-right">Trạng thái</th>
+                            </tr>
+                          </thead>
+                          <tbody className="divide-y divide-slate-800/60 font-mono">
+                            {filtered.map((item, idx) => (
+                              <tr
+                                key={idx}
+                                className="hover:bg-slate-800/40 transition-colors"
+                              >
+                                <td className="py-3.5 px-4 text-slate-500">
+                                  {idx + 1}
+                                </td>
+                                <td className="py-3.5 px-4 font-bold text-sky-400 text-sm flex items-center gap-2">
+                                  <Globe className="w-4 h-4 text-sky-500 shrink-0" />
+                                  <span>{item.ip}</span>
+                                </td>
+                                <td className="py-3.5 px-4 text-slate-200 font-semibold">
+                                  <span className="px-2.5 py-1 rounded-md bg-slate-800 text-slate-300 border border-slate-700/60">
+                                    {item.count > 0 ? `${item.count} lượt` : '1+ lượt'}
+                                  </span>
+                                </td>
+                                <td className="py-3.5 px-4 text-slate-300">
+                                  <span className="flex items-center gap-1.5">
+                                    <Clock className="w-3.5 h-3.5 text-slate-500" />
+                                    {item.last_visit || 'N/A'}
+                                  </span>
+                                </td>
+                                <td className="py-3.5 px-4 text-right">
+                                  <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                                    <span className="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+                                    Ghé thăm
+                                  </span>
+                                </td>
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    );
+                  })()}
                 </div>
-              ) : (
-                <div className="overflow-x-auto">
-                  <table className="w-full text-left text-xs border-collapse">
-                    <thead>
-                      <tr className="border-b border-slate-800 text-slate-400 uppercase tracking-wider text-[11px]">
-                        <th className="pb-3 px-4">#</th>
-                        <th className="pb-3 px-4">Thời gian</th>
-                        <th className="pb-3 px-4">Địa chỉ IP</th>
-                        <th className="pb-3 px-4 text-right">Trạng thái</th>
-                      </tr>
-                    </thead>
-                    <tbody className="divide-y divide-slate-800/60 font-mono">
-                      {stats.recent_visits.map((item, idx) => (
-                        <tr
-                          key={idx}
-                          className="hover:bg-slate-800/40 transition-colors"
-                        >
-                          <td className="py-3 px-4 text-slate-500">
-                            {idx + 1}
-                          </td>
-                          <td className="py-3 px-4 text-slate-300 flex items-center gap-2">
-                            <Clock className="w-3.5 h-3.5 text-slate-500" />
-                            {item.timestamp || 'N/A'}
-                          </td>
-                          <td className="py-3 px-4 font-semibold text-sky-400">
-                            {item.ip || 'Local / Hidden'}
-                          </td>
-                          <td className="py-3 px-4 text-right">
-                            <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-                              <span className="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
-                              Active
-                            </span>
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
+              )}
+
+              {/* Tab Content: Recent Visits Log */}
+              {activeTab === 'recent_visits' && (
+                <div>
+                  {(() => {
+                    const visits = stats?.recent_visits || [];
+                    const filtered = visits.filter((item) =>
+                      (item.ip || '').toLowerCase().includes(searchTerm.toLowerCase().trim())
+                    );
+
+                    if (filtered.length === 0) {
+                      return (
+                        <div className="text-center py-12 text-slate-500 text-sm italic">
+                          {searchTerm ? `Không tìm thấy nhật ký phù hợp với "${searchTerm}"` : 'Chưa có nhật ký truy cập.'}
+                        </div>
+                      );
+                    }
+
+                    return (
+                      <div className="overflow-x-auto">
+                        <table className="w-full text-left text-xs border-collapse">
+                          <thead>
+                            <tr className="border-b border-slate-800 text-slate-400 uppercase tracking-wider text-[11px]">
+                              <th className="pb-3 px-4">#</th>
+                              <th className="pb-3 px-4">Thời gian</th>
+                              <th className="pb-3 px-4">Địa chỉ IP</th>
+                              <th className="pb-3 px-4 text-right">Trạng thái</th>
+                            </tr>
+                          </thead>
+                          <tbody className="divide-y divide-slate-800/60 font-mono">
+                            {filtered.map((item, idx) => (
+                              <tr
+                                key={idx}
+                                className="hover:bg-slate-800/40 transition-colors"
+                              >
+                                <td className="py-3 px-4 text-slate-500">
+                                  {idx + 1}
+                                </td>
+                                <td className="py-3 px-4 text-slate-300 flex items-center gap-2">
+                                  <Clock className="w-3.5 h-3.5 text-slate-500" />
+                                  {item.timestamp || 'N/A'}
+                                </td>
+                                <td className="py-3 px-4 font-semibold text-sky-400">
+                                  {item.ip || 'Local / Hidden'}
+                                </td>
+                                <td className="py-3 px-4 text-right">
+                                  <span className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[10px] font-semibold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
+                                    <span className="w-1.5 h-1.5 rounded-full bg-emerald-400"></span>
+                                    Active
+                                  </span>
+                                </td>
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    );
+                  })()}
                 </div>
               )}
             </div>

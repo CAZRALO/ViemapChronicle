@@ -1463,7 +1463,7 @@ def track_visitor():
 
     recent = stats.get("recent_visits", [])
     recent.insert(0, {"timestamp": now_str, "ip": ip})
-    stats["recent_visits"] = recent[:30]
+    stats["recent_visits"] = recent[:100]
 
     save_visitor_stats(stats)
     res = jsonify({
@@ -1498,11 +1498,35 @@ def get_admin_stats():
     stats = load_visitor_stats()
     daily = stats.get("daily_visits", {})
     db = get_mongo_db()
+    
+    unique_ips = stats.get("unique_ips", [])
+    recent_visits = stats.get("recent_visits", [])
+    
+    # Compute detailed info per IP
+    ip_stats = {}
+    for ip in unique_ips:
+        ip_stats[ip] = {"ip": ip, "count": 0, "last_visit": "N/A"}
+        
+    for item in recent_visits:
+        ip = item.get("ip")
+        ts = item.get("timestamp", "")
+        if ip:
+            if ip not in ip_stats:
+                ip_stats[ip] = {"ip": ip, "count": 0, "last_visit": ts}
+            ip_stats[ip]["count"] += 1
+            if ip_stats[ip]["last_visit"] == "N/A" or ts > ip_stats[ip]["last_visit"]:
+                ip_stats[ip]["last_visit"] = ts
+
+    ip_details = list(ip_stats.values())
+    ip_details.sort(key=lambda x: (x["last_visit"], x["count"]), reverse=True)
+
     res = jsonify({
         "total_visits": stats.get("total_visits", 0),
         "today_visits": daily.get(today_str, 0),
-        "unique_visitors": len(stats.get("unique_ips", [])),
-        "recent_visits": stats.get("recent_visits", [])[:15],
+        "unique_visitors": len(unique_ips),
+        "unique_ips": unique_ips,
+        "ip_details": ip_details,
+        "recent_visits": recent_visits,
         "daily_breakdown": daily,
         "db_connected": db is not None
     })
