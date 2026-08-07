@@ -3763,18 +3763,7 @@ function switchMainTab(tabName) {
 
 // --- ADMIN & VISITOR ANALYTICS LOGIC ---
 function openAdminModal() {
-    const modal = document.getElementById('adminModal');
-    if (!modal) return;
-    modal.classList.remove('hidden');
-    const token = localStorage.getItem('admin_token');
-    if (token) {
-        document.getElementById('adminLoginSection')?.classList.add('hidden');
-        document.getElementById('adminDashboardSection')?.classList.remove('hidden');
-        loadAdminStats();
-    } else {
-        document.getElementById('adminLoginSection')?.classList.remove('hidden');
-        document.getElementById('adminDashboardSection')?.classList.add('hidden');
-    }
+    window.location.href = '/admin';
 }
 
 function closeAdminModal() {
@@ -3815,12 +3804,9 @@ async function handleAdminLogin() {
 
         if (res.ok && data.token) {
             localStorage.setItem('admin_token', data.token);
-            document.getElementById('btnAdminModal')?.classList.add('logged-in');
-            document.getElementById('adminLoginSection')?.classList.add('hidden');
-            document.getElementById('adminDashboardSection')?.classList.remove('hidden');
             if (usernameInput) usernameInput.value = '';
             if (passwordInput) passwordInput.value = '';
-            loadAdminStats();
+            window.location.href = '/admin';
         } else {
             if (errorDiv) {
                 errorDiv.textContent = data.message || (res.status === 404 ? 'Không tìm thấy API đăng nhập (404).' : `Đăng nhập không thành công (mã ${res.status}).`);
