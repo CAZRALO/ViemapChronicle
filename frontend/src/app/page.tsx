@@ -85,16 +85,16 @@ export default function HomePage() {
             <button type="button" id="btnLangEn" className="language-btn">
               EN
             </button>
-            <button
-              type="button"
-              id="btnAdminModal"
-              className="btn-admin-nav"
-              onClick={() => (window as any).openAdminModal?.()}
-              title="Quyền Admin - Thống kê"
-            >
-              <i className="fas fa-user-shield"></i> <span id="btnAdminText">Admin</span>
-            </button>
           </div>
+          <button
+            type="button"
+            id="btnAdminModal"
+            className="btn-admin-nav"
+            onClick={() => (window as any).openAdminModal?.()}
+            title="Quyền Admin - Thống kê"
+          >
+            <i className="fas fa-user-shield"></i> <span id="btnAdminText">Admin</span>
+          </button>
         </div>
       </div>
 
@@ -187,9 +187,14 @@ export default function HomePage() {
           </div>
 
           <div className="info-box" id="infoBox">
-            <h3>
-              <i className="fas fa-map-marker-alt"></i> Thông tin địa điểm
-            </h3>
+            <div className="info-box-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
+              <h3 style={{ margin: 0 }}>
+                <i className="fas fa-map-marker-alt"></i> <span id="txtInfoBoxHeader">Thông tin địa điểm</span>
+              </h3>
+              <button type="button" className="btn-toggle-info" id="btnToggleInfo" onClick={() => (window as any).toggleInfoBox?.()} style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'var(--primary-color)' }}>
+                <i className="fas fa-chevron-down"></i>
+              </button>
+            </div>
             <div id="infoContent">
               <div style={{ color: '#95a5a6', fontStyle: 'italic' }}>
                 Chọn một điểm trên bản đồ để xem thông tin chi tiết.

@@ -19,7 +19,6 @@ export default function MapView({ config, selectedYear, onSelectArea }: MapViewP
   useEffect(() => {
     if (!config) return;
 
-    // Find the map file matching selected year
     const provinceFile = config.files.province.find((f) => f.year === selectedYear);
     if (provinceFile) {
       setLoading(true);

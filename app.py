@@ -1818,6 +1818,20 @@ def get_province_report():
         return jsonify({"error": "No report data found", "report": report}), 404
     return jsonify(report)
 
+def is_refusal_or_out_of_scope_rejection(text):
+    if not text or not isinstance(text, str):
+        return False
+    text_lower = text.lower()
+    refusal_keywords = [
+        "không thể trả lời", "không thể giải", "không thuộc phạm vi",
+        "từ chối", "không hỗ trợ", "chuyên về lịch sử", "chuyên về địa lý",
+        "khuyến nghị", "khuyên bạn nên", "vui lòng đặt câu hỏi liên quan",
+        "vui lòng hỏi", "trang web viemap", "không liên quan đến",
+        "cannot answer", "unable to answer", "outside the scope of",
+        "only answer questions related to", "please ask questions related to"
+    ]
+    return any(kw in text_lower for kw in refusal_keywords)
+
 @app.route('/api/chat', methods=['POST'])
 def chat():
     data = request.json
@@ -1836,34 +1850,55 @@ def chat():
         if reset or session_id not in chat_sessions:
             if reset:
                 CHAT_RAG_MEMORY.pop(session_id, None)
-            system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam.
-            QUY TẮC PHẢN HỒI:
-            - Trả lời súc tích, ngắn gọn, không dài dòng, không giải thích lan man.
-            - Nếu người dùng không đề cập mốc thời gian cụ thể thì mặc định mốc thời gian là sau ngày 1/7/2025 (đã qua sáp nhập).
-            - Mặc định "hiện nay" hoặc "bây giờ" là thời điểm sau ngày 1/7/2025 (đã qua sáp nhập). Nếu người dùng hỏi về địa danh trước mốc này, hãy trả lời theo lịch sử.
-            - Nếu hệ thống cung cấp [NGỮ CẢNH BẢN ĐỒ], người dùng đã chọn một vùng trên bản đồ; hãy hiểu "đây", "nơi này", "chỗ này" là vùng đó và trả lời tập trung vào địa phương đó.
-            - Nếu hệ thống cung cấp [NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ], hãy dùng nó làm nguồn ưu tiên để trả lời đúng trọng tâm, đủ ý, không liệt kê lan man.
-            - CẢNH BÁO PHẠM VI DỮ LIỆU NỘI BỘ:
-              + Nếu nội dung câu hỏi của người dùng nằm ngoài phạm vi dữ liệu nội bộ (ví dụ: hệ thống không có dữ liệu RAG nội bộ phù hợp hoặc nội dung hỏi không có trong dữ liệu nội bộ), bạn BẮT BUỘC phải thêm dòng cảnh báo sau ở ĐẦU CÂU TRẢ LỜI (trên một dòng riêng):
-              "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu nội bộ."
-              + Nếu câu hỏi nằm trong phạm vi dữ liệu nội bộ được cung cấp, KHÔNG thêm dòng cảnh báo này.
-            - Nếu ngữ cảnh RAG có nhiều mục, hãy tổng hợp những mục khớp nhất với câu hỏi; bỏ qua mục có vẻ không liên quan.
-            - Nếu người dùng hỏi sáp nhập/địa giới hiện nay mà RAG có dữ liệu tương ứng, hãy nói rõ đơn vị cũ hiện nay thuộc/tạo thành đơn vị nào.
-            - Không được phủ nhận, sửa lại hoặc gọi dữ liệu hành chính nội bộ là "không hợp lý" chỉ vì nó khác kiến thức cũ; hiện tại là năm 2026 và đã qua giai đoạn sáp nhập.
-            - Nếu dữ liệu nội bộ không đủ để khẳng định một chi tiết, hãy nói rõ "trong dữ liệu hệ thống hiện chưa có thông tin này" thay vì bịa thêm."""
+            system_prompt = """Bạn là Viemacle, chuyên gia Lịch sử và Địa lý Việt Nam, trợ lý thông minh của hệ thống bản đồ số Viemap.
+            QUY TẮC PHẢN HỒI BẮT BUỘC:
+            1. PHẠM VI CHỦ ĐỀ VÀ TỪ CHỐI CÂU HỎI KHÔNG LIÊN QUAN:
+               - Bạn CHỈ trả lời các câu hỏi về: Lịch sử, Địa lý, Bản đồ, địa danh/đơn vị hành chính, các tính năng/thông tin liên quan đến trang web Viemap, và các câu giao tiếp/chào hỏi cơ bản.
+               - Nếu người dùng hỏi về các chủ đề KHÔNG LIÊN QUAN (như Toán, Lý, Hóa, Sinh, Tin học, Luật, Chính trị, Y học, Ngoại ngữ, Giải trí ngoài lề...) hoặc các câu hỏi VÔ NGHĨA / ký tự ngẫu nhiên không liên quan đến Lịch sử, Địa lý, Bản đồ hay trang web:
+                 + Bạn BẮT BUỘC phải TỪ CHỐI trả lời một cách lịch sự và nhã nhặn.
+                 + Khuyến nghị người dùng nên đặt các câu hỏi liên quan đến Lịch sử, Địa lý, Bản đồ hoặc thông tin, tính năng của trang web Viemap.
+                 + Tuyệt đối KHÔNG trả lời hay giải đáp nội dung các chủ đề không liên quan đó.
+                 + Với câu từ chối này, KHÔNG thêm dòng cảnh báo phạm vi dữ liệu hệ thống.
+
+            2. CẢNH BÁO PHẠM VI DỮ LIỆU HỆ THỐNG:
+               - Nếu người dùng hỏi câu hỏi hợp lệ về Lịch sử, Địa lý, Bản đồ nhưng nằm ngoài phạm vi dữ liệu hệ thống (hệ thống không có dữ liệu RAG nội bộ phù hợp), bạn BẮT BUỘC phải thêm dòng cảnh báo sau ở ĐẦU CÂU TRẢ LỜI (trên một dòng riêng):
+                 "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu hệ thống."
+               - Nếu câu hỏi nằm trong phạm vi dữ liệu hệ thống (có ngữ cảnh RAG nội bộ), hoặc khi từ chối câu hỏi không liên quan / chào hỏi, KHÔNG thêm dòng cảnh báo này.
+
+            3. QUY ĐỊNH PHẢN HỒI VÀ THỜI GIAN:
+               - Trả lời súc tích, ngắn gọn, không dài dòng, không giải thích lan man.
+               - Nếu người dùng không đề cập mốc thời gian cụ thể thì mặc định mốc thời gian là sau ngày 1/7/2025 (đã qua sáp nhập).
+               - Mặc định "hiện nay" hoặc "bây giờ" là thời điểm sau ngày 1/7/2025 (đã qua sáp nhập). Nếu người dùng hỏi về địa danh trước mốc này, hãy trả lời theo lịch sử.
+               - Nếu người dùng hỏi về địa điểm của một sự kiện, địa danh hay di tích , hãy trả lời theo dữ liệu hành chính sau mốc 1/7/2025. 
+               - Nếu hệ thống cung cấp [NGỮ CẢNH BẢN ĐỒ], người dùng đã chọn một vùng trên bản đồ; hãy hiểu "đây", "nơi này", "chỗ này" là vùng đó và trả lời tập trung vào địa phương đó.
+               - Nếu hệ thống cung cấp [NGỮ CẢNH RAG TỪ DỮ LIỆU NỘI BỘ], hãy dùng nó làm nguồn ưu tiên để trả lời đúng trọng tâm, đủ ý, không liệt kê lan man.
+               - Nếu ngữ cảnh RAG có nhiều mục, hãy tổng hợp những mục khớp nhất với câu hỏi; bỏ qua mục có vẻ không liên quan.
+               - Nếu người dùng hỏi sáp nhập/địa giới hiện nay mà RAG có dữ liệu tương ứng, hãy nói rõ đơn vị cũ hiện nay thuộc/tạo thành đơn vị nào.
+               - Không được phủ nhận, sửa lại hoặc gọi dữ liệu hành chính nội bộ là "không hợp lý" chỉ vì nó khác kiến thức cũ; hiện tại là năm 2026 và đã qua giai đoạn sáp nhập.
+               - Nếu dữ liệu nội bộ không đủ để khẳng định một chi tiết, hãy nói rõ "trong dữ liệu hệ thống hiện chưa có thông tin này" thay vì bịa thêm."""
             if str(lang).lower() == 'en':
-                system_prompt = """You are Viemacle, an expert on Vietnamese history and geography.
-            RESPONSE RULES:
-            - Answer concisely, directly to the point, and keep responses brief without unnecessary verbosity.
-            - By default, "now" or "currently" refers to the time after July 1, 2025 (post-merger). If the user asks about a place before this date, answer based on its history.
-            - If [MAP CONTEXT] is provided, the user selected an area on the map; understand "here", "this place", and similar references as that selected area.
-            - If [INTERNAL RAG CONTEXT] is provided, use it as the priority reference and answer only with relevant details.
-            - OUT-OF-SCOPE WARNING RULE:
-              + If the user's question content falls outside the scope of internal data (e.g. no internal RAG context matches or information is outside internal dataset), you MUST prepend the following warning line at the VERY TOP of your response (on its own line):
-              "⚠️ Warning: The response content has a high probability of errors because it is outside the scope of internal data."
-              + If the question is covered by internal data, DO NOT add this warning line.
-            - Do not reject, rewrite, or call internal administrative data implausible just because it differs from older general knowledge; the current context is 2026 and the merger period has passed.
-            - If internal data is not enough to confirm a detail, say that the system data does not currently contain that information instead of inventing it."""
+                system_prompt = """You are Viemacle, an expert on Vietnamese history and geography, and the AI assistant for the Viemap platform.
+            MANDATORY RESPONSE RULES:
+            1. TOPIC SCOPE & REFUSING UNRELATED QUESTIONS:
+               - You ONLY answer questions related to: History, Geography, Maps, administrative units/mergers, features/information of the Viemap website, and basic greetings.
+               - If the user asks about UNRELATED topics (such as Mathematics, Physics, Chemistry, Biology, IT/Computer Science, Law, Politics, Medicine...) or asks MEANINGLESS/random questions unrelated to History, Geography, Maps, or the website:
+                 + You MUST politely decline to answer.
+                 + Recommend/encourage the user to ask questions related to History, Geography, Maps, or features of the Viemap website.
+                 + DO NOT answer questions on these unrelated topics.
+                 + DO NOT include the data scope warning line when politely declining.
+
+            2. SYSTEM DATA SCOPE WARNING:
+               - If the user asks a question about History, Geography, or Maps that is outside the scope of system internal data (e.g. no internal RAG context matches), you MUST prepend the following exact warning line at the VERY TOP of your response (on its own line):
+                 "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu hệ thống."
+               - If internal RAG data is provided, or when politely declining unrelated questions / greeting, DO NOT add this warning line.
+
+            3. RESPONSE CONTENT RULES:
+               - Answer concisely, directly to the point, and keep responses brief without unnecessary verbosity.
+               - By default, "now" or "currently" refers to the time after July 1, 2025 (post-merger). If the user asks about a place before this date, answer based on its history.
+               - If [MAP CONTEXT] is provided, the user selected an area on the map; understand "here", "this place", and similar references as that selected area.
+               - If [INTERNAL RAG CONTEXT] is provided, use it as the priority reference and answer only with relevant details.
+               - Do not reject, rewrite, or call internal administrative data implausible just because it differs from older general knowledge; the current context is 2026 and the merger period has passed.
+               - If internal data is not enough to confirm a detail, say that the system data does not currently contain that information instead of inventing it."""
             
             if str(lang).lower() == 'en':
                 system_prompt += "\n- When using RAG items, answer naturally and do not add source lists or citation codes."
@@ -1915,16 +1950,24 @@ def chat():
             if admin_guardrail:
                 final_message += f"\n\n{admin_guardrail}"
             prompt_hint = (
-                "\n\n[HƯỚNG DẪN: Trả lời ngắn gọn, đúng trọng tâm, đầy đủ ý và không liệt kê lan man. Câu hỏi này có dữ liệu RAG nội bộ nên KHÔNG thêm dòng cảnh báo nằm ngoài phạm vi dữ liệu nội bộ.]"
+                "\n\n[HƯỚNG DẪN: Trả lời ngắn gọn, đúng trọng tâm, đầy đủ ý và không liệt kê lan man. Câu hỏi này có dữ liệu RAG nội bộ nên KHÔNG thêm dòng cảnh báo nằm ngoài phạm vi dữ liệu hệ thống.]"
                 if str(lang).lower() != 'en' else
                 "\n\n[INSTRUCTION: Answer concisely and to the point. This query has internal RAG data, so DO NOT add the out-of-scope warning line.]"
             )
             final_message += prompt_hint
         elif not is_chitchat:
             out_of_scope_hint = (
-                "\n\n[HƯỚNG DẪN BẮT BUỘC: Không tìm thấy dữ liệu RAG nội bộ khớp với câu hỏi này (nằm ngoài phạm vi dữ liệu nội bộ). Bạn BẮT BUỘC phải đặt dòng cảnh báo:\n\"⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu nội bộ.\"\nở ĐẦU CÂU TRẢ LỜI trước khi trả lời gọn, đúng trọng tâm.]"
+                "\n\n[HƯỚNG DẪN BẮT BUỘC:\n"
+                "1. Nếu người dùng hỏi về Lịch sử, Địa lý, Bản đồ nhưng không có dữ liệu RAG nội bộ (nằm ngoài phạm vi dữ liệu hệ thống): Hãy trả lời câu hỏi và BẮT BUỘC đặt dòng cảnh báo:\n"
+                "\"⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu hệ thống.\"\n"
+                "ở ĐẦU CÂU TRẢ LỜI (trên một dòng riêng).\n"
+                "2. Nếu người dùng hỏi về các chủ đề KHÔNG LIÊN QUAN (như Toán, Lý, Hóa, Sinh, Tin học, Luật, Chính trị...) hoặc câu hỏi VÔ NGHĨA / ngẫu nhiên không liên quan đến Lịch sử, Địa lý, Bản đồ hay trang web Viemap: Hãy TỪ CHỐI một cách lịch sự, khuyến nghị người dùng nên hỏi các vấn đề liên quan đến trang web hoặc Lịch sử, Địa lý, Bản đồ, và KHÔNG được thêm dòng cảnh báo trên.]"
                 if str(lang).lower() != 'en' else
-                "\n\n[MANDATORY INSTRUCTION: No matching internal RAG data found (outside internal data scope). You MUST place the warning line:\n\"⚠️ Warning: The response content has a high probability of errors because it is outside the scope of internal data.\"\nat the VERY TOP of your response before answering concisely.]"
+                "\n\n[MANDATORY INSTRUCTION:\n"
+                "1. If the question is about History, Geography, or Maps but outside system data scope: Answer the question and MUST place the warning line:\n"
+                "\"⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu hệ thống.\"\n"
+                "at the VERY TOP of your response (on its own line).\n"
+                "2. If the question is about UNRELATED topics (Math, Physics, Chemistry, Biology, IT, Law, Politics...) or meaningless: Politely decline, recommend asking questions related to History, Geography, Maps, or the Viemap website, and DO NOT add the warning line.]"
             )
             final_message += out_of_scope_hint
 
@@ -1932,15 +1975,17 @@ def chat():
         remember_rag_turn(session_id, user_message, map_context)
         response_text = response.text
 
-        # Guardrail: If no internal context & not chitchat, ensure warning line is prepended if LLM omitted it
+        # Guardrail: If no internal context & not chitchat, ensure warning line is prepended if LLM omitted it for valid history/geo query
         if not dynamic_context and not is_chitchat:
-            has_vi_warning = "không nằm trong phạm vi dữ liệu nội bộ" in response_text
-            has_en_warning = "outside the scope of internal data" in response_text
-            if not has_vi_warning and not has_en_warning:
+            has_warning = ("không nằm trong phạm vi dữ liệu" in response_text or 
+                           "outside the scope of" in response_text or
+                           "phạm vi dữ liệu hệ thống" in response_text)
+            is_refusal = is_refusal_or_out_of_scope_rejection(response_text)
+            if not has_warning and not is_refusal:
                 warning_line = (
-                    "⚠️ Warning: The response content has a high probability of errors because it is outside the scope of internal data."
+                    "⚠️ Warning: The response content has a high probability of errors because it is outside the scope of system data."
                     if str(lang).lower() == 'en' else
-                    "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu nội bộ."
+                    "⚠️ Cảnh báo: Nội dung câu trả lời có khả năng sai sót cao vì không nằm trong phạm vi dữ liệu hệ thống."
                 )
                 response_text = f"{warning_line}\n\n{response_text.strip()}"
 

@@ -224,6 +224,7 @@ async function initApp() {
         setupEventTimeline();
         setupCompareYearOptions();
         setupQuickMapTools();
+        setupControlPanelObserver();
         setupMemoryTab();
         updateMap();
         loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
@@ -455,19 +456,31 @@ async function loadMergerTab() {
 
         // 1. SIDEBAR
         let sidebarHtml = `
-                    <div class="merger-sidebar">
+                    <div class="merger-sidebar" id="mergerSidebar">
                         <div class="search-container">
                             <i class="fas fa-search search-icon"></i>
                             <input type="text" id="mergerSearch" class="search-bar" placeholder="${tr('mergerSearch', 'Tìm kiếm...')}" onkeyup="filterMergerData()">
                         </div>
                         <div id="mergerTOC" class="merger-toc">
-                            <div class="toc-title"><i class="fas fa-list-ul"></i> ${tr('tocTitle', 'Mục lục (theo lần sáp nhập năm 2025):')}</div>
+                            <div class="toc-title">
+                                <div class="toc-header-row">
+                                    <span><i class="fas fa-list-ul"></i> ${tr('tocTitle', 'Mục lục (theo lần sáp nhập năm 2025):')}</span>
+                                    <button type="button" class="btn-toggle-merger-sidebar" onclick="toggleMergerSidebar(false)" title="${tr('hideToc', 'Ẩn mục lục')}">
+                                        <i class="fas fa-times"></i> <span class="btn-hide-label">Ẩn</span>
+                                    </button>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 `;
 
         // 2. MAIN CONTENT
-        let mainContentHtml = `<div class="merger-main-content">`;
+        let mainContentHtml = `<div class="merger-main-content">
+            <div class="merger-top-actions">
+                <button type="button" id="btnShowMergerSidebar" class="btn-show-merger-toc" onclick="toggleMergerSidebar(true)">
+                    <i class="fas fa-list-ul"></i> <span>${tr('showToc', 'Hiện mục lục sáp nhập')}</span>
+                </button>
+            </div>`;
         let tocItemsHtml = '';
 
         // --- SECTION: PROVINCIAL TIMELINE ---
@@ -544,10 +557,57 @@ async function loadMergerTab() {
         document.getElementById('mergerTOC').innerHTML += tocItemsHtml;
         refreshGuestLabelsInMergerDom();
 
+        // Setup click listeners for TOC items on mobile to auto-close drawer after jumping
+        const tocItems = document.querySelectorAll('#mergerTOC .toc-item');
+        tocItems.forEach(item => {
+            item.addEventListener('click', () => {
+                if (window.innerWidth <= 768) {
+                    toggleMergerSidebar(false);
+                }
+            });
+        });
+
+        // Restore sidebar state or auto-close on mobile screen by default
+        try {
+            const isClosedSaved = localStorage.getItem('viemap_merger_toc_closed');
+            const isMobile = window.innerWidth <= 768;
+            if (isClosedSaved === 'true' || (isClosedSaved === null && isMobile)) {
+                toggleMergerSidebar(false);
+            } else {
+                toggleMergerSidebar(true);
+            }
+        } catch(e) {}
+
     } catch (e) {
         console.error("Merger Tab Error:", e);
         container.innerHTML = `<p style="text-align:center; color:red; padding:20px;">${tr('mergerError', 'Có lỗi xảy ra khi tải dữ liệu sáp nhập.')}<br>${e.message}</p>`;
     }
+}
+
+function toggleMergerSidebar(show) {
+    const sidebar = document.getElementById('mergerSidebar') || document.querySelector('.merger-sidebar');
+    const btnShow = document.getElementById('btnShowMergerSidebar');
+    if (!sidebar) return;
+
+    if (typeof show === 'boolean') {
+        if (show) {
+            sidebar.classList.remove('closed');
+        } else {
+            sidebar.classList.add('closed');
+        }
+    } else {
+        sidebar.classList.toggle('closed');
+    }
+
+    const isClosed = sidebar.classList.contains('closed');
+    const isMobile = window.innerWidth <= 768;
+    if (btnShow) {
+        btnShow.style.display = (isClosed || isMobile) ? 'inline-flex' : 'none';
+    }
+
+    try {
+        localStorage.setItem('viemap_merger_toc_closed', isClosed ? 'true' : 'false');
+    } catch (e) {}
 }
 
 function scrollMergerContentTo(target) {
@@ -788,7 +848,7 @@ const TOUR_STEPS = [
     {
         tab: 'merger',
         selector: '#tabMerger .merger-sidebar',
-        title: { vi: 'Tìm và nhảy tới tỉnh', en: 'Search and jump by province' },
+        title: { vi: 'Mục lục sáp nhập năm 2025 theo tỉnh', en: 'Search and jump by province' },
         text: {
             vi: 'Ô tìm kiếm và mục lục giúp lọc nhanh tỉnh/thành trong danh sách sáp nhập.',
             en: 'The search field and table of contents help filter and jump through the merger list quickly.'
@@ -1389,6 +1449,48 @@ function setupQuickMapTools() {
     });
     renderQuickPlacesPanel();
     updateBackButtonState();
+}
+
+function updateControlPanelHeight() {
+    const cp = document.querySelector('.control-panel');
+    if (cp && cp.offsetHeight > 0) {
+        document.documentElement.style.setProperty('--control-panel-height', cp.offsetHeight + 'px');
+    } else {
+        document.documentElement.style.setProperty('--control-panel-height', '155px');
+    }
+}
+
+function setupControlPanelObserver() {
+    updateControlPanelHeight();
+    const cp = document.querySelector('.control-panel');
+    if (cp && typeof ResizeObserver !== 'undefined') {
+        const ro = new ResizeObserver(() => {
+            updateControlPanelHeight();
+        });
+        ro.observe(cp);
+    }
+    window.addEventListener('resize', updateControlPanelHeight);
+}
+
+function toggleInfoBox(forceState) {
+    const infoBox = document.getElementById('infoBox');
+    const toggleBtn = document.getElementById('btnToggleInfo');
+    if (!infoBox) return;
+
+    let isMinimized;
+    if (forceState !== undefined) {
+        isMinimized = !forceState;
+    } else {
+        isMinimized = !infoBox.classList.contains('minimized');
+    }
+
+    if (isMinimized) {
+        infoBox.classList.add('minimized');
+        if (toggleBtn) toggleBtn.innerHTML = '<i class="fas fa-chevron-up"></i>';
+    } else {
+        infoBox.classList.remove('minimized');
+        if (toggleBtn) toggleBtn.innerHTML = '<i class="fas fa-chevron-down"></i>';
+    }
 }
 
 function getFeatureSearchBlob(feature, type) {
@@ -3163,6 +3265,7 @@ function updateInfoBox(props) {
         html += renderAdminRow(ward);
     }
     document.getElementById('infoContent').innerHTML = html || `<div style="color: #95a5a6; font-style: italic;">${tr('noLocalName', 'Không xác định được tên địa phương.')}</div>`;
+    toggleInfoBox(true);
 }
 
 function updateUIControls(year) {
@@ -3740,26 +3843,52 @@ function switchMainTab(tabName) {
     if (tabName === 'map') {
         document.getElementById('tabMap')?.classList.add('active');
         if (window.map) map.invalidateSize();
+        // Hide mini chat on mobile map tab
+        updateMobileChatVisibility('map');
     }
     else if (tabName === 'merger') {
         document.getElementById('tabMerger')?.classList.add('active');
+        updateMobileChatVisibility('merger');
     }
     else if (tabName === 'chat') {
         document.getElementById('tabChat')?.classList.add('active');
         updateMapContextUI();
+        updateMobileChatVisibility('chat');
     }
     else if (tabName === 'memory') {
         document.getElementById('tabMemory')?.classList.add('active');
         ensureMemoryMap();
         setTimeout(() => refreshMemoryMapViewport({ fit: !memoryGameActive || memoryMode === 'map' }), 50);
+        updateMobileChatVisibility('memory');
     }
     else if (tabName === 'feedback') {
         document.getElementById('tabFeedback')?.classList.add('active');
+        updateMobileChatVisibility('feedback');
     }
     const targetNav = document.querySelector(`.nav-item[data-tab="${tabName}"]`) ||
         document.querySelector(`.nav-item[onclick*="${tabName}"]`);
     targetNav?.classList.add('active');
 }
+
+/* Hide mini-chat on mobile map tab, keep it accessible on other tabs */
+function updateMobileChatVisibility(tabName) {
+    if (window.innerWidth > 768) return; // Only on mobile
+    const widget = document.getElementById('miniChatWidget');
+    const toggleBtn = document.getElementById('miniChatToggle');
+    if (!widget && !toggleBtn) return;
+    
+    if (tabName === 'map') {
+        // Always hide chatbot on map tab on mobile
+        if (widget) widget.classList.remove('mobile-chat-visible');
+        if (toggleBtn) toggleBtn.classList.remove('mobile-chat-visible');
+    } else {
+        // Don't auto-show; the existing toggleMiniChat handles open/close state
+        // Just remove the mobile-specific visibility class so CSS default (hidden) applies
+        if (widget) widget.classList.remove('mobile-chat-visible');
+        if (toggleBtn) toggleBtn.classList.remove('mobile-chat-visible');
+    }
+}
+
 
 // --- ADMIN & VISITOR ANALYTICS LOGIC ---
 function openAdminModal() {
@@ -3885,5 +4014,7 @@ window.deleteChatSession = deleteChatSession;
 window.clearAllChatHistory = clearAllChatHistory;
 window.renderChatHistoryList = renderChatHistoryList;
 window.resetChat = resetChat;
+window.toggleInfoBox = toggleInfoBox;
+window.updateControlPanelHeight = updateControlPanelHeight;
 
 initApp();
