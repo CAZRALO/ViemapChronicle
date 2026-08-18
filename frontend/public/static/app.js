@@ -347,7 +347,7 @@ function applyLanguageToStaticDom() {
     setAttr('#btnQuickPlaces', 'title', 'quickPlaces', 'Bookmark và lịch sử gần đây');
     setAttr('#btnQuickTour', 'title', 'quickTour', 'Giới thiệu trang web');
     setHtml('#btnQuickTour', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Giới thiệu trang web') + '</span>', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Website Intro') + '</span>');
-    setHtml('#btnNoticeModalTrigger', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', 'Lưu ý') + '</span>', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', 'Notice') + '</span>');
+    setHtml('#btnNoticeModalTrigger', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', '') + '</span>', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', 'Notice') + '</span>');
     
     // Notice Modal translations
     setHtml('#noticeModalTitle', 'Lưu Ý & Khuyến Cáo Trải Nghiệm', 'Notice & Experience Guidelines');
@@ -376,8 +376,10 @@ function applyLanguageToStaticDom() {
     }
     setHtml('#btnShowHistory', '<i class="fas fa-info-circle"></i> Xem chi tiết & Lịch sử', '<i class="fas fa-info-circle"></i> View details and history');
     setHtml('.mini-chat-header span', '<i class="fas fa-robot"></i> Trợ lý AI', '<i class="fas fa-robot"></i> AI assistant');
-    setAttr('#miniChatMapContext', 'title', 'miniContextTitle', 'Vùng đang chỉ/chọn trên bản đồ');
-    setAttr('#miniChatInput', 'placeholder', 'miniPlaceholder', 'Hỏi AI về tỉnh/thành...');
+    setAttr('#miniChatMapContext', 'title', 'miniContextTitle', 'Vùng đang chỉ/chọn trên bản đồ', 'Selected map area');
+    setAttr('#miniChatInput', 'placeholder', 'miniPlaceholder', 'Hỏi AI về tỉnh/thành...', 'Ask AI about place...');
+    setAttr('#miniChatMaximizeBtn', 'title', null, (typeof isEnglish === 'function' && isEnglish()) ? (miniChatIsMaximized ? 'Restore size' : 'Maximize chat') : (miniChatIsMaximized ? 'Thu nhỏ về kích thước cũ' : 'Phóng to / Thu nhỏ khung chatbot'));
+    setAttr('#miniChatResetBtn', 'title', null, (typeof isEnglish === 'function' && isEnglish()) ? 'Reset size' : 'Đặt lại kích thước mặc định');
     const miniMessages = document.getElementById('miniChatMessages');
     if (miniMessages && miniMessages.children.length <= 1) {
         miniMessages.innerHTML = `<div class="mini-chat-message ai">${tr('miniGreeting', 'Xin chào! Tôi có thể giải đáp thắc mắc về địa lý và lịch sử của địa phương bạn đang chọn.')}</div>`;
@@ -2924,11 +2926,179 @@ function removeTypingIndicator(containerId) {
     if (indicator) indicator.remove();
 }
 
+// --- MINI CHAT RESIZING, ZOOMING & EXPAND SYSTEM ---
+const MINI_CHAT_SIZE_KEY = 'viemap_mini_chat_size';
+let miniChatIsMaximized = false;
+let miniChatPreviousSize = null;
+
+function applyMiniChatSize(width, height, save = true) {
+    const widget = document.getElementById('miniChatWidget');
+    if (!widget) return;
+    if (width !== undefined && width !== null) {
+        widget.style.width = typeof width === 'number' ? `${Math.round(width)}px` : width;
+    }
+    if (height !== undefined && height !== null) {
+        widget.style.height = typeof height === 'number' ? `${Math.round(height)}px` : height;
+    }
+    if (save && !miniChatIsMaximized) {
+        try {
+            localStorage.setItem(MINI_CHAT_SIZE_KEY, JSON.stringify({
+                width: widget.style.width,
+                height: widget.style.height
+            }));
+        } catch (_) {}
+    }
+}
+
+function toggleMiniChatMaximize() {
+    const widget = document.getElementById('miniChatWidget');
+    const maxIcon = document.getElementById('miniChatMaximizeIcon');
+    const maxBtn = document.getElementById('miniChatMaximizeBtn');
+    if (!widget) return;
+
+    miniChatIsMaximized = !miniChatIsMaximized;
+    if (miniChatIsMaximized) {
+        // Save current custom dimensions before maximizing
+        miniChatPreviousSize = {
+            width: widget.style.width || '',
+            height: widget.style.height || ''
+        };
+        widget.classList.add('maximized');
+        if (maxIcon) maxIcon.className = 'fas fa-compress';
+        if (maxBtn) maxBtn.title = (typeof isEnglish === 'function' && isEnglish()) ? 'Restore size' : 'Thu nhỏ về kích thước cũ';
+    } else {
+        widget.classList.remove('maximized');
+        if (maxIcon) maxIcon.className = 'fas fa-expand';
+        if (maxBtn) maxBtn.title = (typeof isEnglish === 'function' && isEnglish()) ? 'Maximize chat' : 'Phóng to / Thu nhỏ khung chatbot';
+        if (miniChatPreviousSize) {
+            widget.style.width = miniChatPreviousSize.width;
+            widget.style.height = miniChatPreviousSize.height;
+        }
+    }
+}
+
+function resetMiniChatSize() {
+    const widget = document.getElementById('miniChatWidget');
+    const maxIcon = document.getElementById('miniChatMaximizeIcon');
+    const maxBtn = document.getElementById('miniChatMaximizeBtn');
+    if (!widget) return;
+
+    miniChatIsMaximized = false;
+    miniChatPreviousSize = null;
+    widget.classList.remove('maximized');
+    widget.style.width = '';
+    widget.style.height = '';
+    widget.style.left = '';
+    widget.style.bottom = '';
+    widget.style.top = '';
+    widget.style.right = '';
+
+    if (maxIcon) maxIcon.className = 'fas fa-expand';
+    if (maxBtn) maxBtn.title = (typeof isEnglish === 'function' && isEnglish()) ? 'Maximize chat' : 'Phóng to / Thu nhỏ khung chatbot';
+
+    try {
+        localStorage.removeItem(MINI_CHAT_SIZE_KEY);
+    } catch (_) {}
+}
+
+function initMiniChatResizeAndDrag() {
+    const widget = document.getElementById('miniChatWidget');
+    if (!widget || widget.dataset.resizerReady) return;
+    widget.dataset.resizerReady = 'true';
+
+    // Restore saved size if available
+    try {
+        const saved = localStorage.getItem(MINI_CHAT_SIZE_KEY);
+        if (saved) {
+            const parsed = JSON.parse(saved);
+            if (parsed.width && parsed.height) {
+                applyMiniChatSize(parsed.width, parsed.height, false);
+            }
+        }
+    } catch (e) {
+        console.warn("Could not load saved mini chat size:", e);
+    }
+
+    // Attach pointer listeners to resizers
+    const resizers = widget.querySelectorAll('.mini-chat-resizer');
+    resizers.forEach(resizer => {
+        resizer.addEventListener('pointerdown', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+            if (miniChatIsMaximized) return;
+
+            const direction = this.dataset.direction;
+            const startX = e.clientX;
+            const startY = e.clientY;
+            const rect = widget.getBoundingClientRect();
+            const startWidth = rect.width;
+            const startHeight = rect.height;
+
+            widget.classList.add('is-resizing');
+            try {
+                this.setPointerCapture(e.pointerId);
+            } catch (_) {}
+
+            const onPointerMove = (moveEvent) => {
+                const deltaX = moveEvent.clientX - startX;
+                const deltaY = moveEvent.clientY - startY;
+
+                let newWidth = startWidth;
+                let newHeight = startHeight;
+
+                const minW = 280;
+                const maxW = Math.min(window.innerWidth - 32, 1100);
+                const minH = 220;
+                const maxH = Math.min(window.innerHeight - 80, 950);
+
+                if (direction === 'top' || direction === 'top-right' || direction === 'top-left') {
+                    newHeight = Math.max(minH, Math.min(maxH, startHeight - deltaY));
+                }
+                if (direction === 'bottom' || direction === 'bottom-right' || direction === 'bottom-left') {
+                    newHeight = Math.max(minH, Math.min(maxH, startHeight + deltaY));
+                }
+                if (direction === 'right' || direction === 'top-right' || direction === 'bottom-right') {
+                    newWidth = Math.max(minW, Math.min(maxW, startWidth + deltaX));
+                }
+                if (direction === 'left' || direction === 'top-left' || direction === 'bottom-left') {
+                    newWidth = Math.max(minW, Math.min(maxW, startWidth - deltaX));
+                }
+
+                applyMiniChatSize(newWidth, newHeight, true);
+            };
+
+            const onPointerUp = (upEvent) => {
+                widget.classList.remove('is-resizing');
+                try {
+                    resizer.releasePointerCapture(upEvent.pointerId);
+                } catch (_) {}
+                resizer.removeEventListener('pointermove', onPointerMove);
+                resizer.removeEventListener('pointerup', onPointerUp);
+                resizer.removeEventListener('pointercancel', onPointerUp);
+            };
+
+            resizer.addEventListener('pointermove', onPointerMove);
+            resizer.addEventListener('pointerup', onPointerUp);
+            resizer.addEventListener('pointercancel', onPointerUp);
+        });
+    });
+
+    // Double-click header to toggle maximize / restore
+    const header = widget.querySelector('.mini-chat-header');
+    if (header) {
+        header.addEventListener('dblclick', (e) => {
+            if (e.target.closest('.mini-chat-actions') || e.target.closest('button')) return;
+            toggleMiniChatMaximize();
+        });
+    }
+}
+
 function toggleMiniChat(open) {
     const widget = document.getElementById('miniChatWidget');
     const toggleBtn = document.getElementById('miniChatToggle');
     if (!widget || !toggleBtn) return;
     if (open) {
+        initMiniChatResizeAndDrag();
         widget.classList.remove('closed');
         widget.classList.add('open');
         toggleBtn.style.display = 'none';
@@ -4130,6 +4300,10 @@ window.renderChatHistoryList = renderChatHistoryList;
 window.resetChat = resetChat;
 window.toggleInfoBox = toggleInfoBox;
 window.updateControlPanelHeight = updateControlPanelHeight;
+window.toggleMiniChatMaximize = toggleMiniChatMaximize;
+window.resetMiniChatSize = resetMiniChatSize;
+window.initMiniChatResizeAndDrag = initMiniChatResizeAndDrag;
 
 initApp();
+setTimeout(initMiniChatResizeAndDrag, 200);
 

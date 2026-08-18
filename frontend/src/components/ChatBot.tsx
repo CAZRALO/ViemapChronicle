@@ -3,7 +3,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { sendChatMessage } from '@/lib/api';
 import { ChatMessage } from '@/types';
-import { Bot, Send, User, Sparkles, X, MessageSquare, RefreshCw } from 'lucide-react';
+import { Bot, Send, User, Sparkles, X, MessageSquare, RefreshCw, Maximize2, Minimize2, RotateCcw } from 'lucide-react';
 
 interface ChatBotProps {
   selectedArea: any;
@@ -12,6 +12,7 @@ interface ChatBotProps {
 
 export default function ChatBot({ selectedArea, lang }: ChatBotProps) {
   const [isOpen, setIsOpen] = useState(false);
+  const [isMaximized, setIsMaximized] = useState(false);
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
@@ -101,9 +102,15 @@ export default function ChatBot({ selectedArea, lang }: ChatBotProps) {
 
       {/* Floating Chat Drawer */}
       {isOpen && (
-        <div className="fixed bottom-6 right-6 z-40 w-96 h-[560px] bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl flex flex-col overflow-hidden backdrop-blur-xl">
+        <div
+          className={`fixed bottom-6 right-6 z-40 bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl flex flex-col overflow-hidden backdrop-blur-xl transition-all duration-300 ${
+            isMaximized
+              ? 'w-[min(880px,calc(100vw-32px))] h-[min(760px,calc(100vh-64px))]'
+              : 'w-[min(400px,calc(100vw-32px))] h-[min(580px,calc(100vh-64px))] resize'
+          }`}
+        >
           {/* Header */}
-          <div className="p-4 border-b border-slate-800 bg-slate-950/80 flex items-center justify-between">
+          <div className="p-4 border-b border-slate-800 bg-slate-950/80 flex items-center justify-between select-none">
             <div className="flex items-center gap-2.5">
               <div className="w-8 h-8 rounded-lg bg-indigo-600/30 border border-indigo-500/40 flex items-center justify-center text-indigo-400">
                 <Bot className="w-5 h-5" />
@@ -125,7 +132,15 @@ export default function ChatBot({ selectedArea, lang }: ChatBotProps) {
                 <RefreshCw className="w-4 h-4" />
               </button>
               <button
+                onClick={() => setIsMaximized(!isMaximized)}
+                title={isMaximized ? 'Thu nhỏ về kích thước cũ' : 'Phóng to toàn khung'}
+                className="p-1.5 text-slate-400 hover:text-white hover:bg-slate-800 rounded-lg transition-colors"
+              >
+                {isMaximized ? <Minimize2 className="w-4 h-4" /> : <Maximize2 className="w-4 h-4" />}
+              </button>
+              <button
                 onClick={() => setIsOpen(false)}
+                title="Đóng"
                 className="p-1.5 text-slate-400 hover:text-white hover:bg-slate-800 rounded-lg transition-colors"
               >
                 <X className="w-4 h-4" />

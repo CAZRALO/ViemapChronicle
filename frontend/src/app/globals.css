@@ -429,33 +429,143 @@ html.admin-html {
     bottom: var(--map-edge-gap);
     left: var(--map-edge-gap);
     right: auto;
-    width: var(--mini-chat-width);
+    width: var(--mini-chat-width, 360px);
     height: clamp(400px, 56vh, 680px);
-    min-width: min(320px, calc(100vw - 24px));
-    min-height: 320px;
-    max-width: min(760px, calc(100% - var(--map-edge-gap) - var(--map-edge-gap)));
-    max-height: calc(100% - var(--map-edge-gap) - var(--map-edge-gap));
+    min-width: min(280px, calc(100vw - 24px));
+    min-height: 240px;
+    max-width: calc(100% - var(--map-edge-gap) * 2);
+    max-height: calc(100% - var(--map-edge-gap) * 2);
     z-index: 1100;
     display: flex;
     flex-direction: column;
     box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
     border-radius: 16px;
     overflow: hidden;
-    resize: both;
+    resize: none;
     background: var(--surface-bg);
     border: 1px solid rgba(76, 175, 80, 0.2);
     font-size: 0.92rem;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.mini-chat-widget.maximized {
+    width: min(880px, calc(100% - var(--map-edge-gap) * 2)) !important;
+    height: min(740px, calc(100% - var(--map-edge-gap) * 2)) !important;
+    max-width: calc(100% - var(--map-edge-gap) * 2) !important;
+    max-height: calc(100% - var(--map-edge-gap) * 2) !important;
+    z-index: 1200;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+}
+
+.mini-chat-widget.is-resizing {
+    transition: none !important;
+    user-select: none !important;
+}
+
+.mini-chat-widget.is-resizing * {
+    user-select: none !important;
+}
+
+/* Resize Handles for arbitrary scaling */
+.mini-chat-resizer {
+    position: absolute;
+    z-index: 20;
+    touch-action: none;
+}
+
+.mini-chat-resizer.resizer-top {
+    top: 0;
+    left: 0;
+    right: 28px;
+    height: 8px;
+    cursor: ns-resize;
+}
+
+.mini-chat-resizer.resizer-right {
+    top: 28px;
+    right: 0;
+    bottom: 0;
+    width: 8px;
+    cursor: ew-resize;
+}
+
+.mini-chat-resizer.resizer-top-right {
+    top: 0;
+    right: 0;
+    width: 26px;
+    height: 26px;
+    cursor: nesw-resize;
+    z-index: 25;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.75);
+    transition: all 0.2s ease;
+    border-top-right-radius: 16px;
+}
+
+.mini-chat-resizer.resizer-top-right:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.mini-chat-resizer.resizer-bottom {
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 8px;
+    cursor: ns-resize;
+}
+
+.mini-chat-resizer.resizer-left {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 8px;
+    cursor: ew-resize;
+}
+
+.mini-chat-resizer.resizer-top-left {
+    top: 0;
+    left: 0;
+    width: 14px;
+    height: 14px;
+    cursor: nwse-resize;
+    z-index: 25;
+}
+
+.mini-chat-resizer.resizer-bottom-right {
+    bottom: 0;
+    right: 0;
+    width: 14px;
+    height: 14px;
+    cursor: nwse-resize;
+    z-index: 25;
+}
+
+.resizer-corner-icon {
+    font-size: 10px;
+    opacity: 0.8;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.mini-chat-resizer.resizer-top-right:hover .resizer-corner-icon {
+    opacity: 1;
+    transform: scale(1.15);
 }
 
 .mini-chat-header {
     background: var(--secondary-color);
     color: white;
-    padding: 12px 14px;
+    padding: 10px 14px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 8px;
     cursor: grab;
+    user-select: none;
+    position: relative;
+    z-index: 5;
 }
 
 .mini-chat-header span {
@@ -467,27 +577,55 @@ html.admin-html {
 
 .mini-chat-header .mini-chat-actions {
     display: inline-flex;
-    gap: 8px;
+    gap: 6px;
     align-items: center;
+    z-index: 10;
+}
+
+.mini-chat-action-btn {
+    background: rgba(255, 255, 255, 0.18);
+    border: none;
+    color: white;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 0.78rem;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s, transform 0.15s;
+}
+
+.mini-chat-action-btn:hover {
+    background: rgba(255, 255, 255, 0.35);
+    transform: scale(1.08);
+}
+
+.mini-chat-action-btn:active {
+    transform: scale(0.92);
 }
 
 .mini-chat-close {
     background: rgba(255, 255, 255, 0.18);
     border: none;
     color: white;
-    width: 30px;
-    height: 30px;
-    border-radius: 999px;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 1.05rem;
     line-height: 1;
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    transition: background-color 0.2s, transform 0.15s;
 }
 
 .mini-chat-close:hover {
-    background: rgba(255, 255, 255, 0.3);
+    background: rgba(239, 68, 68, 0.6);
+    transform: scale(1.08);
 }
 
 .mini-chat-body {

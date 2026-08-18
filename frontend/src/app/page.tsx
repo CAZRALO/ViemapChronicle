@@ -72,7 +72,7 @@ export default function HomePage() {
             title="Lưu ý & Khuyến cáo sử dụng"
           >
             <i className="fas fa-bullhorn"></i>{' '}
-            <span id="btnNoticeText">Lưu ý</span>
+            <span id="btnNoticeText"></span>
           </button>
           <button
             type="button"
@@ -225,14 +225,45 @@ export default function HomePage() {
           </div>
 
           <div id="miniChatWidget" className="mini-chat-widget closed">
-            <div className="mini-chat-header">
+            {/* Resize Handles for arbitrary resizing */}
+            <div className="mini-chat-resizer resizer-top" data-direction="top"></div>
+            <div className="mini-chat-resizer resizer-right" data-direction="right"></div>
+            <div className="mini-chat-resizer resizer-top-right" data-direction="top-right" title="Kéo để thu phóng kích thước">
+              <i className="fas fa-up-right-and-down-left-from-center resizer-corner-icon"></i>
+            </div>
+            <div className="mini-chat-resizer resizer-bottom" data-direction="bottom"></div>
+            <div className="mini-chat-resizer resizer-left" data-direction="left"></div>
+            <div className="mini-chat-resizer resizer-top-left" data-direction="top-left"></div>
+            <div className="mini-chat-resizer resizer-bottom-right" data-direction="bottom-right"></div>
+
+            <div className="mini-chat-header" id="miniChatHeader">
               <span>
                 <i className="fas fa-robot"></i> Trợ lý AI
               </span>
               <div className="mini-chat-actions">
                 <button
+                  type="button"
+                  className="mini-chat-action-btn"
+                  id="miniChatResetBtn"
+                  onClick={() => (window as any).resetMiniChatSize?.()}
+                  title="Đặt lại kích thước mặc định"
+                >
+                  <i className="fas fa-rotate-left"></i>
+                </button>
+                <button
+                  type="button"
+                  className="mini-chat-action-btn"
+                  id="miniChatMaximizeBtn"
+                  onClick={() => (window as any).toggleMiniChatMaximize?.()}
+                  title="Phóng to / Thu nhỏ khung chatbot"
+                >
+                  <i className="fas fa-expand" id="miniChatMaximizeIcon"></i>
+                </button>
+                <button
+                  type="button"
                   className="mini-chat-close"
                   onClick={() => (window as any).toggleMiniChat?.(false)}
+                  title="Đóng"
                 >
                   &times;
                 </button>
