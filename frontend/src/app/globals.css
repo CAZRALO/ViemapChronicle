@@ -221,6 +221,20 @@ html.admin-html {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
+#btnNoticeModalTrigger {
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    justify-content: center;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+#btnNoticeModalTrigger i {
+    font-size: 0.95rem;
+    margin: 0;
+}
+
 .language-switch {
     display: flex;
     align-items: center;
@@ -887,7 +901,8 @@ html.admin-html {
         flex-wrap: nowrap;
     }
     
-    #btnTourText, #btnAdminText, #navFeedbackText { display: none; }
+    #btnTourText, #btnAdminText, #navFeedbackText, #btnNoticeText { display: none; }
+    #btnNoticeModalTrigger { display: none !important; }
     .btn-tour-nav, .btn-admin-nav {
         padding: 6px 10px;
         border-radius: 999px;

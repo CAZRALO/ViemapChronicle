@@ -345,9 +345,10 @@ function applyLanguageToStaticDom() {
     setAttr('#btnBackView', 'title', 'backView', 'Quay lại vị trí/năm/chế độ trước đó');
     setAttr('#btnBookmarkPlace', 'title', 'bookmark', 'Lưu địa phương đang chọn');
     setAttr('#btnQuickPlaces', 'title', 'quickPlaces', 'Bookmark và lịch sử gần đây');
-    setAttr('#btnQuickTour', 'title', 'quickTour', 'Giới thiệu trang web');
-    setHtml('#btnQuickTour', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Giới thiệu trang web') + '</span>', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Website Intro') + '</span>');
-    setHtml('#btnNoticeModalTrigger', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', '') + '</span>', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', 'Notice') + '</span>');
+    setAttr('#btnQuickTour', 'title', 'quickTour', 'Trợ giúp');
+    setHtml('#btnQuickTour', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Trợ giúp') + '</span>', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Website Intro') + '</span>');
+    setHtml('#btnNoticeModalTrigger', '<i class="fas fa-bullhorn"></i>', '<i class="fas fa-bullhorn"></i>');
+    setAttr('#btnNoticeModalTrigger', 'title', null, (typeof isEnglish === 'function' && isEnglish()) ? 'Notice & Experience Guidelines' : 'Lưu ý & Khuyến cáo sử dụng');
     
     // Notice Modal translations
     setHtml('#noticeModalTitle', 'Lưu Ý & Khuyến Cáo Trải Nghiệm', 'Notice & Experience Guidelines');

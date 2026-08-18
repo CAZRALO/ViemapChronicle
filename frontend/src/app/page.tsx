@@ -71,18 +71,17 @@ export default function HomePage() {
             onClick={() => (window as any).openNoticeModal?.()}
             title="Lưu ý & Khuyến cáo sử dụng"
           >
-            <i className="fas fa-bullhorn"></i>{' '}
-            <span id="btnNoticeText"></span>
+            <i className="fas fa-bullhorn"></i>
           </button>
           <button
             type="button"
             id="btnQuickTour"
             className="btn-tour-nav"
             onClick={() => (window as any).startQuickTour?.()}
-            title="Giới thiệu trang web"
+            title="Trợ giúp"
           >
             <i className="fas fa-circle-info"></i>{' '}
-            <span id="btnTourText">Giới thiệu trang web</span>
+            <span id="btnTourText">Trợ giúp</span>
           </button>
           <button
             type="button"
@@ -932,9 +931,6 @@ export default function HomePage() {
         </div>
       </div>
 
-      <footer>
-        <p className="footer-text">Thông tin chỉ mang tính chất tham khảo</p>
-      </footer>
 
       {/* Execute Client Logic App Script */}
       <Script src="/static/app.js" strategy="afterInteractive" />
