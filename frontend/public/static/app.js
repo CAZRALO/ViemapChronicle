@@ -49,7 +49,7 @@ const UI_EN = {
     navMerger: 'Merger info',
     navChat: 'AI chatbot',
     navMemory: 'Map memory',
-    navFeedback: 'User feedback',
+    navFeedback: 'Feedback',
     btnAdmin: 'Admin',
     feedbackTitle: 'User Feedback & Contribution',
     feedbackDesc: 'Your feedback helps Viemap Chronicle continuously improve. Please submit feedback, feature suggestions, or bug reports via the Google Form below.',
@@ -273,6 +273,8 @@ async function initApp() {
         setupMemoryTab();
         updateMap();
         loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
+        toggleInfoBox(false);
+        toggleMiniChat(false);
 
         // Auto show welcome notice modal unless suppressed by user preference
         if (localStorage.getItem('viemap_hide_welcome_notice') !== 'true') {
@@ -323,7 +325,7 @@ function applyLanguageToStaticDom() {
     setHtml('.nav-item[data-tab="merger"], .nav-item[onclick*="merger"]', '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Thông tin Sáp nhập', '<i class="fas fa-book-atlas" style="margin-right:8px"></i> Merger info');
     setHtml('.nav-item[data-tab="chat"], .nav-item[onclick*="chat"]', '<i class="fas fa-robot" style="margin-right:8px"></i> Chatbot AI', '<i class="fas fa-robot" style="margin-right:8px"></i> AI chatbot');
     setHtml('.nav-item[data-tab="memory"], .nav-item[onclick*="memory"]', '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Ghi nhớ bản đồ', '<i class="fas fa-puzzle-piece" style="margin-right:8px"></i> Map memory');
-    setHtml('.nav-item[data-tab="feedback"], .nav-item[onclick*="feedback"]', '<i class="fas fa-comment-dots" style="margin-right:8px"></i> <span id="navFeedbackText">' + tr('navFeedback', 'Đóng góp ý kiến') + '</span>', '<i class="fas fa-comment-dots" style="margin-right:8px"></i> <span id="navFeedbackText">' + tr('navFeedback', 'User feedback') + '</span>');
+    setHtml('.nav-item[data-tab="feedback"], .nav-item[onclick*="feedback"]', '<i class="fas fa-comment-dots" style="margin-right:8px"></i> <span id="navFeedbackText">' + tr('navFeedback', 'Góp ý') + '</span>', '<i class="fas fa-comment-dots" style="margin-right:8px"></i> <span id="navFeedbackText">' + tr('navFeedback', 'Feedback') + '</span>');
     setText('#btnAdminText', 'btnAdmin', 'Admin');
     setText('#feedbackTitle', 'feedbackTitle', 'Đóng góp ý kiến & Phản hồi');
     setText('#feedbackDesc', 'feedbackDesc', 'Ý kiến đóng góp của bạn giúp ứng dụng Viemap Chronicle ngày càng hoàn thiện hơn. Hãy gửi phản hồi, góp ý tính năng hoặc báo lỗi cho chúng tôi qua mẫu Google Form dưới đây.');

@@ -167,6 +167,7 @@ html.admin-html {
 }
 
 .nav-item i {
+    display: none;
     flex-shrink: 0;
 }
 
@@ -841,6 +842,7 @@ html.admin-html {
     }
     
     .nav-item i {
+        display: inline-block;
         margin-right: 0 !important;
         margin-bottom: 3px;
         font-size: 1.1rem;
@@ -3104,6 +3106,7 @@ footer {
     }
 
     .nav-item i {
+        display: inline-block;
         font-size: 1rem !important;
         margin-right: 0 !important;
     }
@@ -3820,21 +3823,24 @@ footer {
 }
 
 .notice-card-content h4 {
-    margin: 0 0 4px 0;
-    font-size: 0.95rem;
-    font-weight: 700;
-    color: #1e293b;
+    margin: 0 0 5px 0;
+    font-size: 0.96rem;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.01em;
 }
 
 .notice-card-content p {
     margin: 0;
-    font-size: 0.88rem;
-    color: #475569;
-    line-height: 1.5;
+    font-size: 0.89rem;
+    font-weight: 600;
+    color: #1e293b;
+    line-height: 1.55;
 }
 
 .notice-card-content strong {
-    color: #0f172a;
+    color: #020617;
+    font-weight: 800;
 }
 
 .notice-modal-footer {
@@ -3852,8 +3858,9 @@ footer {
     display: flex;
     align-items: center;
     gap: 8px;
-    font-size: 0.85rem;
-    color: #64748b;
+    font-size: 0.86rem;
+    font-weight: 600;
+    color: #334155;
     cursor: pointer;
     user-select: none;
 }
@@ -3992,15 +3999,11 @@ footer {
 }
 
 [data-theme="dark"] .chat-sidebar-header h3,
-[data-theme="dark"] .notice-card-content h4,
-[data-theme="dark"] .notice-card-content strong,
 [data-theme="dark"] .merger-province-header,
 [data-theme="dark"] .merger-event-title {
     color: var(--text-color);
 }
 
-[data-theme="dark"] .notice-card-content p,
-[data-theme="dark"] .notice-dont-show,
 [data-theme="dark"] .chat-history-empty,
 [data-theme="dark"] .session-item .session-date {
     color: var(--text-muted);
@@ -4101,24 +4104,73 @@ footer {
     color: var(--text-color);
 }
 
+[data-theme="dark"] .notice-modal-container {
+    background: #0f172a;
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), 0 0 20px rgba(52, 211, 153, 0.12);
+}
+
+[data-theme="dark"] .notice-modal-body {
+    background: #0b1120;
+}
+
 [data-theme="dark"] .notice-card {
-    background: var(--surface-muted);
-    border-color: var(--border-light);
+    background: #1e293b;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+[data-theme="dark"] .notice-card:hover {
+    background: #24344d;
+    border-color: rgba(255, 255, 255, 0.28);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
+}
+
+[data-theme="dark"] .notice-card-content h4 {
+    color: #ffffff !important;
+    font-weight: 800;
+    font-size: 0.98rem;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="dark"] .notice-card-content p {
+    color: #f1f5f9 !important;
+    font-weight: 500;
+    line-height: 1.55;
+}
+
+[data-theme="dark"] .notice-card-content strong {
+    color: #ffffff !important;
+    font-weight: 800;
+    text-shadow: 0 0 1px rgba(255, 255, 255, 0.4);
+}
+
+[data-theme="dark"] .notice-dont-show {
+    color: #e2e8f0 !important;
+    font-weight: 600;
+}
+
+[data-theme="dark"] .notice-modal-footer {
+    background: #0f172a;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
 }
 
 [data-theme="dark"] .notice-card-device .notice-card-icon {
-    background: #1e3a5f;
-    color: #60a5fa;
+    background: rgba(37, 99, 235, 0.25);
+    color: #93c5fd;
+    border: 1px solid rgba(96, 165, 250, 0.4);
 }
 
 [data-theme="dark"] .notice-card-disclaimer .notice-card-icon {
-    background: #422006;
-    color: #fbbf24;
+    background: rgba(217, 119, 6, 0.25);
+    color: #fde047;
+    border: 1px solid rgba(251, 191, 36, 0.4);
 }
 
 [data-theme="dark"] .notice-card-feature .notice-card-icon {
-    background: #14532d;
-    color: #4ade80;
+    background: rgba(22, 163, 74, 0.25);
+    color: #86efac;
+    border: 1px solid rgba(74, 222, 128, 0.4);
 }
 
 [data-theme="dark"] .modal-backdrop,

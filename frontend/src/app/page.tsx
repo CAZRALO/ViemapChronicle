@@ -60,7 +60,7 @@ export default function HomePage() {
               className="fas fa-comment-dots"
               style={{ marginRight: '8px' }}
             ></i>{' '}
-            <span id="navFeedbackText">Đóng góp ý kiến</span>
+            <span id="navFeedbackText">Góp ý</span>
           </div>
         </div>
         <div className="navbar-right">
@@ -205,13 +205,13 @@ export default function HomePage() {
             ></div>
           </div>
 
-          <div className="info-box" id="infoBox">
+          <div className="info-box minimized" id="infoBox">
             <div className="info-box-header" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '10px' }}>
               <h3 style={{ margin: 0 }}>
                 <i className="fas fa-map-marker-alt"></i> <span id="txtInfoBoxHeader">Thông tin địa điểm</span>
               </h3>
               <button type="button" className="btn-toggle-info" id="btnToggleInfo" onClick={() => (window as any).toggleInfoBox?.()} style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'var(--primary-color)' }}>
-                <i className="fas fa-chevron-down"></i>
+                <i className="fas fa-chevron-up"></i>
               </button>
             </div>
             <div id="infoContent">
@@ -224,7 +224,7 @@ export default function HomePage() {
             </button>
           </div>
 
-          <div id="miniChatWidget" className="mini-chat-widget open">
+          <div id="miniChatWidget" className="mini-chat-widget closed">
             <div className="mini-chat-header">
               <span>
                 <i className="fas fa-robot"></i> Trợ lý AI
