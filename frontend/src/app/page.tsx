@@ -12,7 +12,11 @@ export default function HomePage() {
       {/* Nav Bar */}
       <div className="navbar">
         <div className="navbar-brand">
-          <i className="fas fa-scroll"></i>{' '}
+          <img
+            src="/logo.jpg"
+            alt="Viemap Chronicle"
+            className="navbar-brand-logo"
+          />
           <span className="navbar-brand-text">Viemap Chronicle</span>
         </div>
         <div className="nav-tabs">
@@ -874,7 +878,6 @@ export default function HomePage() {
           </div>
 
           <div className="notice-modal-body">
-            {/* Card 1: Device Recommendation */}
             <div className="notice-card notice-card-device">
               <div className="notice-card-icon">
                 <i className="fas fa-desktop"></i>
@@ -887,20 +890,6 @@ export default function HomePage() {
               </div>
             </div>
 
-            {/* Card 2: Author Disclaimer */}
-            <div className="notice-card notice-card-disclaimer">
-              <div className="notice-card-icon">
-                <i className="fas fa-triangle-exclamation"></i>
-              </div>
-              <div className="notice-card-content">
-                <h4 id="noticeDisclaimerHeading">Nguồn thông tin & Độ chính xác</h4>
-                <p id="noticeDisclaimerText">
-                  Thông tin sản phẩm do <strong>tác giả tự tổng hợp và đăng tải</strong> nên có thể mắc một số sai sót. Các nội dung mang tính chất tham khảo.
-                </p>
-              </div>
-            </div>
-
-            {/* Card 3: 2008 Map Landmark Recommendation */}
             <div className="notice-card notice-card-feature">
               <div className="notice-card-icon">
                 <i className="fas fa-map-location-dot"></i>
