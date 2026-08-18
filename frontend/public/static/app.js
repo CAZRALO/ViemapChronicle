@@ -4,7 +4,45 @@ let AVAILABLE_YEARS = [];
 let TIMELINE_DATA = null; // Store merger info
 let sessionId = localStorage.getItem('chat_session_id') || crypto.randomUUID();
 let currentLang = localStorage.getItem('viemap_lang') || 'vi';
+const THEME_KEY = 'viemap_theme';
 localStorage.setItem('chat_session_id', sessionId);
+
+function getPreferredTheme() {
+    const saved = localStorage.getItem(THEME_KEY);
+    if (saved === 'light' || saved === 'dark') return saved;
+    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
+
+function applyTheme(theme) {
+    const nextTheme = theme === 'dark' ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme', nextTheme);
+    const icon = document.getElementById('themeIcon');
+    if (icon) {
+        icon.className = nextTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+    }
+    const btn = document.getElementById('btnThemeToggle');
+    if (btn) {
+        btn.title = nextTheme === 'dark'
+            ? (isEnglish() ? 'Switch to light mode' : 'Chuyển sang chế độ sáng')
+            : (isEnglish() ? 'Switch to dark mode' : 'Chuyển sang chế độ tối');
+        btn.setAttribute(
+            'aria-label',
+            isEnglish() ? 'Toggle light/dark mode' : 'Chuyển đổi chế độ sáng/tối'
+        );
+    }
+}
+
+function setTheme(theme) {
+    localStorage.setItem(THEME_KEY, theme === 'dark' ? 'dark' : 'light');
+    applyTheme(theme);
+}
+
+function toggleTheme() {
+    const current = document.documentElement.getAttribute('data-theme') || getPreferredTheme();
+    setTheme(current === 'dark' ? 'light' : 'dark');
+}
+
+applyTheme(getPreferredTheme());
 
 const UI_EN = {
     navMap: 'Map',
@@ -151,7 +189,14 @@ const UI_EN = {
     tourSkip: 'Skip',
     tourPrev: 'Back',
     tourNext: 'Next',
-    tourDone: 'Done'
+    tourDone: 'Done',
+    noticeTitle: 'Notice & Experience Guidelines',
+    noticeDeviceHeading: 'Access Device Recommendation',
+    noticeDisclaimerHeading: 'Information Source & Accuracy',
+    noticeFeatureHeading: 'Local Information Search Feature',
+    chkDontShowText: 'Do not show this notice again',
+    btnNoticeConfirm: 'Got it & Explore now',
+    btnNotice: 'Notice'
 };
 
 function isEnglish() {
@@ -229,6 +274,11 @@ async function initApp() {
         updateMap();
         loadMergerTab(); // We can pass cached TIMELINE_DATA if we want, or let it handle itself
 
+        // Auto show welcome notice modal unless suppressed by user preference
+        if (localStorage.getItem('viemap_hide_welcome_notice') !== 'true') {
+            openNoticeModal();
+        }
+
     } catch (e) {
         console.error("Init Error:", e);
         alert(tr('connectionError', "Không thể kết nối đến máy chủ. Vui lòng thử lại sau."));
@@ -265,6 +315,7 @@ function setRadioLabel(selector, key, fallback) {
 function applyLanguageToStaticDom() {
     document.documentElement.lang = currentLang;
     document.body.classList.toggle('lang-en', isEnglish());
+    applyTheme(document.documentElement.getAttribute('data-theme') || getPreferredTheme());
     document.getElementById('btnLangVi')?.classList.toggle('active', !isEnglish());
     document.getElementById('btnLangEn')?.classList.toggle('active', isEnglish());
 
@@ -294,6 +345,28 @@ function applyLanguageToStaticDom() {
     setAttr('#btnQuickPlaces', 'title', 'quickPlaces', 'Bookmark và lịch sử gần đây');
     setAttr('#btnQuickTour', 'title', 'quickTour', 'Giới thiệu trang web');
     setHtml('#btnQuickTour', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Giới thiệu trang web') + '</span>', '<i class="fas fa-circle-info"></i> <span id="btnTourText">' + tr('quickTour', 'Website Intro') + '</span>');
+    setHtml('#btnNoticeModalTrigger', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', 'Lưu ý') + '</span>', '<i class="fas fa-bullhorn"></i> <span id="btnNoticeText">' + tr('btnNotice', 'Notice') + '</span>');
+    
+    // Notice Modal translations
+    setHtml('#noticeModalTitle', 'Lưu Ý & Khuyến Cáo Trải Nghiệm', 'Notice & Experience Guidelines');
+    setText('#noticeDeviceHeading', 'noticeDeviceHeading', 'Khuyến cáo thiết bị truy cập');
+    setHtml('#noticeDeviceText',
+        'Nên sử dụng <strong>máy tính (PC / Laptop)</strong> để có trải nghiệm tốt nhất. Nếu truy cập bằng <strong>điện thoại di động</strong>, vui lòng chuyển trình duyệt sang <strong>"Chế độ máy tính" (Desktop site)</strong>.',
+        'For the best experience, access via a <strong>computer (PC / Laptop)</strong> is recommended. On <strong>mobile devices</strong>, please enable <strong>"Desktop site" mode</strong>.'
+    );
+    setText('#noticeDisclaimerHeading', 'noticeDisclaimerHeading', 'Nguồn thông tin & Độ chính xác');
+    setHtml('#noticeDisclaimerText',
+        'Thông tin sản phẩm do <strong>tác giả tự tổng hợp và đăng tải</strong> nên có thể mắc một số sai sót. Các nội dung mang tính chất tham khảo.',
+        'Product information is <strong>self-compiled and published by the author</strong>, so errors may exist. All contents are for reference purposes only.'
+    );
+    setText('#noticeFeatureHeading', 'noticeFeatureHeading', 'Tính năng tra cứu thông tin địa phương');
+    setHtml('#noticeFeatureText',
+        'Hoạt động tốt nhất và đầy đủ dữ liệu nhất khi đặt mốc thời gian bản đồ ở <strong>năm 2008</strong>.',
+        'Works best and has complete data when setting the map timeline to <strong>2008</strong>.'
+    );
+    setText('#chkDontShowText', 'chkDontShowText', 'Không hiển thị lại thông báo này');
+    setHtml('#btnNoticeConfirmText', 'Đã hiểu & Trải nghiệm ngay', 'Got it & Explore now');
+
     setHtml('#infoBox h3', '<i class="fas fa-map-marker-alt"></i> Thông tin địa điểm', '<i class="fas fa-map-marker-alt"></i> Place information');
     const infoContent = document.getElementById('infoContent');
     if (infoContent && !selectedFeature) {
@@ -1839,6 +1912,16 @@ function nearestAvailableYearIndex(year) {
 async function focusTimelineEvent(index) {
     if (!Array.isArray(TIMELINE_DATA) || !TIMELINE_DATA[index]) return;
     const event = TIMELINE_DATA[index];
+
+    if (activeTimelineIndex === index) {
+        activeTimelineIndex = null;
+        document.querySelectorAll('.event-timeline-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        clearTimelineHighlights();
+        return;
+    }
+
     activeTimelineIndex = index;
     document.querySelectorAll('.event-timeline-btn').forEach(btn => {
         btn.classList.toggle('active', Number(btn.dataset.timelineIndex) === index);
@@ -1849,11 +1932,11 @@ async function focusTimelineEvent(index) {
     document.getElementById('yearValue').innerText = AVAILABLE_YEARS[tl.value];
     viewMode = 'province';
     document.querySelector('input[value="province"]').checked = true;
-    await updateMap();
+    await updateMap(true);
     highlightTimelineRegions(event);
 }
 
-function clearTimelineHighlights() {
+function clearTimelineHighlights(keepActiveState = false) {
     timelineHighlightedLayers.forEach(({ layer, feature, type }) => {
         if (!layer || !feature) return;
         if (layer.getElement) L.DomUtil.removeClass(layer.getElement(), 'timeline-highlighted');
@@ -1861,10 +1944,16 @@ function clearTimelineHighlights() {
         else layer.setStyle(styles[type]);
     });
     timelineHighlightedLayers = [];
+    if (!keepActiveState) {
+        activeTimelineIndex = null;
+        document.querySelectorAll('.event-timeline-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+    }
 }
 
 function highlightTimelineRegions(event) {
-    clearTimelineHighlights();
+    clearTimelineHighlights(true);
     if (!layers.province || !event || !Array.isArray(event.changes)) return;
     const names = new Set();
     event.changes.forEach(change => {
@@ -2651,13 +2740,13 @@ function resetMemoryGame() {
     updateMemoryStats();
 }
 
-async function updateMap() {
+async function updateMap(keepActiveTimelineState = false) {
     if (AVAILABLE_YEARS.length === 0) return;
     const year = AVAILABLE_YEARS[document.getElementById('timeline').value];
     document.getElementById('yearValue').innerText = year;
     updateUIControls(year);
     document.getElementById('loading').style.display = 'flex';
-    clearTimelineHighlights();
+    clearTimelineHighlights(keepActiveTimelineState);
 
     if (layers.province) map.removeLayer(layers.province);
     if (layers.border) map.removeLayer(layers.border);
@@ -3828,6 +3917,7 @@ document.querySelectorAll('input[name="viewMode"]').forEach(radio => {
 
 document.getElementById('btnLangVi')?.addEventListener('click', () => setLanguage('vi'));
 document.getElementById('btnLangEn')?.addEventListener('click', () => setLanguage('en'));
+document.getElementById('btnThemeToggle')?.addEventListener('click', toggleTheme);
 
 document.getElementById('btnGuestEn2025').addEventListener('click', function () {
     provinceLabelMode2025 = provinceLabelMode2025 === 'fun' ? 'vn' : 'fun';
@@ -4002,6 +4092,28 @@ async function loadAdminStats() {
     }
 }
 
+function openNoticeModal() {
+    const modal = document.getElementById('noticeModal');
+    if (modal) {
+        modal.classList.remove('hidden');
+        modal.setAttribute('aria-hidden', 'false');
+    }
+}
+
+function closeNoticeModal() {
+    const modal = document.getElementById('noticeModal');
+    const chk = document.getElementById('chkDontShowNoticeAgain');
+    if (chk && chk.checked) {
+        localStorage.setItem('viemap_hide_welcome_notice', 'true');
+    }
+    if (modal) {
+        modal.classList.add('hidden');
+        modal.setAttribute('aria-hidden', 'true');
+    }
+}
+
+window.openNoticeModal = openNoticeModal;
+window.closeNoticeModal = closeNoticeModal;
 window.openAdminModal = openAdminModal;
 window.closeAdminModal = closeAdminModal;
 window.handleAdminLogin = handleAdminLogin;
@@ -4018,3 +4130,4 @@ window.toggleInfoBox = toggleInfoBox;
 window.updateControlPanelHeight = updateControlPanelHeight;
 
 initApp();
+

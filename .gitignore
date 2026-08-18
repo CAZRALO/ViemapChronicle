@@ -25,3 +25,6 @@ templates/
 .next/
 frontend/.next/
 frontend/out/
+*.err
+*.log
+visitor_stats.json

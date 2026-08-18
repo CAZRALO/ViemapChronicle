@@ -66,6 +66,16 @@ export default function HomePage() {
         <div className="navbar-right">
           <button
             type="button"
+            id="btnNoticeModalTrigger"
+            className="btn-tour-nav"
+            onClick={() => (window as any).openNoticeModal?.()}
+            title="Lưu ý & Khuyến cáo sử dụng"
+          >
+            <i className="fas fa-bullhorn"></i>{' '}
+            <span id="btnNoticeText">Lưu ý</span>
+          </button>
+          <button
+            type="button"
             id="btnQuickTour"
             className="btn-tour-nav"
             onClick={() => (window as any).startQuickTour?.()}
@@ -73,6 +83,15 @@ export default function HomePage() {
           >
             <i className="fas fa-circle-info"></i>{' '}
             <span id="btnTourText">Giới thiệu trang web</span>
+          </button>
+          <button
+            type="button"
+            id="btnThemeToggle"
+            className="btn-theme-toggle"
+            title="Chuyển sang chế độ tối"
+            aria-label="Chuyển đổi chế độ sáng/tối"
+          >
+            <i className="fas fa-moon" id="themeIcon"></i>
           </button>
           <div className="language-switch" aria-label="Language">
             <button
@@ -651,7 +670,7 @@ export default function HomePage() {
           <div className="admin-modal-header">
             <h3>
               <i className="fas fa-user-shield"></i>{' '}
-              <span id="adminModalTitle">Đằng nhập quyền Admin</span>
+              <span id="adminModalTitle">Đăng nhập quyền Admin</span>
             </h3>
             <button
               type="button"
@@ -801,6 +820,82 @@ export default function HomePage() {
             </button>
             <button type="button" className="tour-btn primary" id="tourNextBtn">
               Tiếp
+            </button>
+          </div>
+        </div>
+      </div>
+
+      {/* Welcome / Notice Modal */}
+      <div id="noticeModal" className="notice-modal-overlay hidden" aria-hidden="true">
+        <div className="notice-modal-container">
+          <div className="notice-modal-header">
+            <div className="notice-modal-title">
+              <i className="fas fa-bullhorn title-icon"></i>
+              <span id="noticeModalTitle">Lưu Ý & Khuyến Cáo Trải Nghiệm</span>
+            </div>
+            <button
+              type="button"
+              className="modal-close-btn"
+              onClick={() => (window as any).closeNoticeModal?.()}
+              title="Đóng"
+            >
+              <i className="fas fa-times"></i>
+            </button>
+          </div>
+
+          <div className="notice-modal-body">
+            {/* Card 1: Device Recommendation */}
+            <div className="notice-card notice-card-device">
+              <div className="notice-card-icon">
+                <i className="fas fa-desktop"></i>
+              </div>
+              <div className="notice-card-content">
+                <h4 id="noticeDeviceHeading">Khuyến cáo thiết bị truy cập</h4>
+                <p id="noticeDeviceText">
+                  Nên sử dụng <strong>máy tính (PC / Laptop)</strong> để có trải nghiệm tốt nhất. Nếu truy cập bằng <strong>điện thoại di động</strong>, vui lòng chuyển trình duyệt sang <strong>"Chế độ máy tính" (Desktop site)</strong>.
+                </p>
+              </div>
+            </div>
+
+            {/* Card 2: Author Disclaimer */}
+            <div className="notice-card notice-card-disclaimer">
+              <div className="notice-card-icon">
+                <i className="fas fa-triangle-exclamation"></i>
+              </div>
+              <div className="notice-card-content">
+                <h4 id="noticeDisclaimerHeading">Nguồn thông tin & Độ chính xác</h4>
+                <p id="noticeDisclaimerText">
+                  Thông tin sản phẩm do <strong>tác giả tự tổng hợp và đăng tải</strong> nên có thể mắc một số sai sót. Các nội dung mang tính chất tham khảo.
+                </p>
+              </div>
+            </div>
+
+            {/* Card 3: 2008 Map Landmark Recommendation */}
+            <div className="notice-card notice-card-feature">
+              <div className="notice-card-icon">
+                <i className="fas fa-map-location-dot"></i>
+              </div>
+              <div className="notice-card-content">
+                <h4 id="noticeFeatureHeading">Tính năng tra cứu thông tin địa phương</h4>
+                <p id="noticeFeatureText">
+                  Hoạt động tốt nhất và đầy đủ dữ liệu nhất khi đặt mốc thời gian bản đồ ở <strong>năm 2008</strong>.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="notice-modal-footer">
+            <label className="notice-dont-show">
+              <input type="checkbox" id="chkDontShowNoticeAgain" />
+              <span id="chkDontShowText">Không hiển thị lại thông báo này</span>
+            </label>
+            <button
+              type="button"
+              className="btn-notice-confirm"
+              onClick={() => (window as any).closeNoticeModal?.()}
+            >
+              <i className="fas fa-check-circle"></i>
+              <span id="btnNoticeConfirmText">Đã hiểu & Trải nghiệm ngay</span>
             </button>
           </div>
         </div>

@@ -1533,6 +1533,18 @@ def get_admin_stats():
     res.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
     return res
 
+@app.route('/api/admin/reset-stats', methods=['POST'])
+def reset_admin_stats():
+    default_stats = {
+        "total_visits": 0,
+        "daily_visits": {},
+        "unique_ips": [],
+        "recent_visits": []
+    }
+    save_visitor_stats(default_stats)
+    return jsonify({"status": "success", "message": "Đã đặt lại dữ liệu thống kê thành công."})
+
+
 @app.route('/')
 def index():
     return jsonify({
