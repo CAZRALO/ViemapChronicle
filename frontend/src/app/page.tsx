@@ -5,6 +5,69 @@ import Script from 'next/script';
 
 export default function HomePage() {
   useEffect(() => {
+    const navTabs = document.querySelector('.nav-tabs');
+    if (!navTabs) return;
+
+    const handleWheel = (e: WheelEvent) => {
+      if (e.deltaY !== 0 && navTabs.scrollWidth > navTabs.clientWidth) {
+        e.preventDefault();
+        navTabs.scrollLeft += e.deltaY;
+      }
+    };
+
+    let isDown = false;
+    let startX = 0;
+    let scrollLeft = 0;
+    let hasDragged = false;
+
+    const handleMouseDown = (e: MouseEvent) => {
+      if (e.button !== 0) return;
+      isDown = true;
+      hasDragged = false;
+      startX = e.pageX - (navTabs as HTMLElement).offsetLeft;
+      scrollLeft = navTabs.scrollLeft;
+    };
+
+    const handleMouseLeaveOrUp = () => {
+      if (!isDown) return;
+      isDown = false;
+      navTabs.classList.remove('is-dragging');
+    };
+
+    const handleMouseMove = (e: MouseEvent) => {
+      if (!isDown) return;
+      const x = e.pageX - (navTabs as HTMLElement).offsetLeft;
+      const walk = x - startX;
+      if (Math.abs(walk) > 4) {
+        hasDragged = true;
+        navTabs.classList.add('is-dragging');
+        navTabs.scrollLeft = scrollLeft - walk;
+      }
+    };
+
+    const handleClickCapture = (e: MouseEvent) => {
+      if (hasDragged) {
+        e.preventDefault();
+        e.stopPropagation();
+        hasDragged = false;
+      }
+    };
+
+    navTabs.addEventListener('wheel', handleWheel as any, { passive: false });
+    navTabs.addEventListener('mousedown', handleMouseDown as any);
+    window.addEventListener('mouseup', handleMouseLeaveOrUp);
+    navTabs.addEventListener('mouseleave', handleMouseLeaveOrUp);
+    navTabs.addEventListener('mousemove', handleMouseMove as any);
+    navTabs.addEventListener('click', handleClickCapture as any, true);
+
+    return () => {
+      navTabs.removeEventListener('wheel', handleWheel as any);
+      navTabs.removeEventListener('mousedown', handleMouseDown as any);
+      window.removeEventListener('mouseup', handleMouseLeaveOrUp);
+      navTabs.removeEventListener('mouseleave', handleMouseLeaveOrUp);
+      navTabs.removeEventListener('mousemove', handleMouseMove as any);
+      navTabs.removeEventListener('click', handleClickCapture as any, true);
+    };
   }, []);
 
   return (

@@ -193,20 +193,37 @@ html.admin-html {
     backdrop-filter: blur(8px);
     flex-shrink: 1;
     min-width: 0;
+    max-width: 100%;
     overflow-x: auto;
+    overflow-y: hidden;
     scrollbar-width: none;
+    -ms-overflow-style: none;
+    -webkit-overflow-scrolling: touch;
+    touch-action: pan-x;
+    scroll-behavior: smooth;
+    cursor: grab;
+    user-select: none;
+}
+
+.nav-tabs:active,
+.nav-tabs.is-dragging {
+    cursor: grabbing;
+    scroll-behavior: auto;
 }
 
 .nav-tabs::-webkit-scrollbar {
     display: none;
+    width: 0;
+    height: 0;
 }
 
 .nav-item {
-    padding: 6px clamp(12px, 1.1vw, 18px);
+    padding: 6px clamp(14px, 1.2vw, 20px);
     height: 34px;
     display: inline-flex;
     align-items: center;
-    gap: 7px;
+    justify-content: center;
+    gap: 0;
     cursor: pointer;
     font-size: clamp(0.8rem, calc(0.2vw + 0.75rem), 0.88rem);
     font-weight: 600;
@@ -221,20 +238,13 @@ html.admin-html {
 }
 
 .nav-item i {
-    display: inline-block !important;
-    font-size: 0.85rem;
-    opacity: 0.85;
-    transition: transform 0.2s ease;
+    display: none !important;
 }
 
 .nav-item:hover {
     color: #ffffff;
     background: rgba(255, 255, 255, 0.12);
     transform: translateY(-1px);
-}
-
-.nav-item:hover i {
-    transform: scale(1.1);
 }
 
 .nav-item.active {

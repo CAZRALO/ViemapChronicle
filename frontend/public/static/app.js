@@ -121,6 +121,7 @@ const UI_EN = {
     chooseShapePrompt: 'Look at the province/city shape, then choose one answer.',
     noQuestionsForRegion: 'Not enough province/city data for this question set.',
     notCorrect: 'Not quite. The answer is',
+    wrongProvinceSelected: 'The province/city you selected is',
     hintShown: 'Hint shown. A correct answer will lose 2 points.',
     skipped: 'Skipped',
     skippedAnswer: 'Skipped. The answer is',
@@ -2633,7 +2634,7 @@ function handleMemoryGuess(feature, layer) {
         layer.setStyle({ weight: 4, color: '#b71c1c', fillOpacity: 0.82 });
         memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
         feedback.className = 'memory-feedback wrong';
-        feedback.textContent = `${tr('notCorrect', 'Chưa đúng. Đáp án là')} ${getFeatureName(memoryCurrent.feature)}.`;
+        feedback.textContent = `${tr('wrongProvinceSelected', 'Tỉnh/TP mà bạn đang chọn là')} ${getFeatureName(feature)}.`;
         finalizeMemoryAnswer(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
     }
 }
@@ -2661,7 +2662,7 @@ function handleMemoryChoice(feature, button) {
         if (button) button.classList.add('wrong');
         memoryCurrent.feature.__memoryLayer.setStyle({ ...memoryShapeTargetStyle(), color: '#1b5e20', fillOpacity: 0.86 });
         feedback.className = 'memory-feedback wrong';
-        feedback.textContent = `${tr('notCorrect', 'Chưa đúng. Đáp án là')} ${getFeatureName(memoryCurrent.feature)}.`;
+        feedback.textContent = `${tr('wrongProvinceSelected', 'Tỉnh/TP mà bạn đang chọn là')} ${getFeatureName(feature)}.`;
         finalizeMemoryAnswer(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
     }
 }
@@ -4131,6 +4132,7 @@ function switchMainTab(tabName) {
     const targetNav = document.querySelector(`.nav-item[data-tab="${tabName}"]`) ||
         document.querySelector(`.nav-item[onclick*="${tabName}"]`);
     targetNav?.classList.add('active');
+    targetNav?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
 }
 
 /* Hide mini-chat on mobile map tab, keep it accessible on other tabs */
@@ -4305,6 +4307,66 @@ window.toggleMiniChatMaximize = toggleMiniChatMaximize;
 window.resetMiniChatSize = resetMiniChatSize;
 window.initMiniChatResizeAndDrag = initMiniChatResizeAndDrag;
 
+function initNavTabsScroll() {
+    const navTabs = document.querySelector('.nav-tabs');
+    if (!navTabs || navTabs.dataset.scrollInitialized === 'true') return;
+    navTabs.dataset.scrollInitialized = 'true';
+
+    // Horizontal wheel scrolling when hovering over nav tabs
+    navTabs.addEventListener('wheel', (e) => {
+        if (e.deltaY !== 0 && navTabs.scrollWidth > navTabs.clientWidth) {
+            e.preventDefault();
+            navTabs.scrollLeft += e.deltaY;
+        }
+    }, { passive: false });
+
+    // Drag-to-scroll (mouse gesture)
+    let isDown = false;
+    let startX = 0;
+    let scrollLeft = 0;
+    let hasDragged = false;
+
+    navTabs.addEventListener('mousedown', (e) => {
+        if (e.button !== 0) return;
+        isDown = true;
+        hasDragged = false;
+        startX = e.pageX - navTabs.offsetLeft;
+        scrollLeft = navTabs.scrollLeft;
+    });
+
+    const stopDrag = () => {
+        if (!isDown) return;
+        isDown = false;
+        navTabs.classList.remove('is-dragging');
+    };
+
+    window.addEventListener('mouseup', stopDrag);
+    navTabs.addEventListener('mouseleave', stopDrag);
+
+    navTabs.addEventListener('mousemove', (e) => {
+        if (!isDown) return;
+        const x = e.pageX - navTabs.offsetLeft;
+        const walk = (x - startX);
+        if (Math.abs(walk) > 4) {
+            hasDragged = true;
+            navTabs.classList.add('is-dragging');
+            navTabs.scrollLeft = scrollLeft - walk;
+        }
+    });
+
+    // Prevent accidental click when dragging tabs
+    navTabs.addEventListener('click', (e) => {
+        if (hasDragged) {
+            e.preventDefault();
+            e.stopPropagation();
+            hasDragged = false;
+        }
+    }, true);
+}
+
+window.initNavTabsScroll = initNavTabsScroll;
+
 initApp();
 setTimeout(initMiniChatResizeAndDrag, 200);
+setTimeout(initNavTabsScroll, 100);
 
