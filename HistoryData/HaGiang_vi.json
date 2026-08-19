@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "HaGiang_COLONIAL_01",
-      "year": 1891,
       "date": "1891-08-20",
-      "title": "Thành lập tỉnh Hà Giang",
       "description": "Toàn quyền Đông Dương ra Nghị định khôi phục lại Đạo quan binh thứ 3, lỵ sở đặt tại Hà Giang. Sự kiện này đánh dấu việc xác lập địa giới hành chính tỉnh Hà Giang (tách khỏi Tuyên Quang) dưới thời Pháp thuộc.",
+      "id": "HaGiang_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Thành phố Hà Giang",
@@ -15,14 +13,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hà Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hà Giang 1891 Thành phố Hà Giang, Hà Giang Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hà Giang",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+Giang+1891+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+Giang%2C+H%C3%A0+Giang+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1891
     },
     {
-      "id": "HaGiang_HMONG_01",
-      "year": 1919,
       "date": null,
-      "title": "Khởi công xây dựng Dinh thự Vua Mèo",
       "description": "Vương Chính Đức (người đứng đầu chế độ thổ ty phong kiến miền núi tại Đồng Văn) bắt đầu cho xây dựng khu dinh thự kiên cố tại thung lũng Sà Phìn. Công trình thể hiện quyền lực của dòng họ Vương và kiến trúc độc đáo kết hợp văn hóa Mông - Hoa - Pháp.",
+      "id": "HaGiang_HMONG_01",
       "location": {
         "commune": "Sà Phìn",
         "district": "Đồng Văn",
@@ -34,14 +41,23 @@
       "tags": [
         "Văn hóa",
         "Vua Mèo"
-      ]
+      ],
+      "title": "Khởi công xây dựng Dinh thự Vua Mèo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công xây dựng Dinh thự Vua Mèo 1919 Sà Phìn, Đồng Văn, Hà Giang Vương Chính Đức Văn hóa Vua Mèo lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công xây dựng Dinh thự Vua Mèo",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+x%C3%A2y+d%E1%BB%B1ng+Dinh+th%E1%BB%B1+Vua+M%C3%A8o+1919+S%C3%A0+Ph%C3%ACn%2C+%C4%90%E1%BB%93ng+V%C4%83n%2C+H%C3%A0+Giang+V%C6%B0%C6%A1ng+Ch%C3%ADnh+%C4%90%E1%BB%A9c+V%C4%83n+h%C3%B3a+Vua+M%C3%A8o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1919
     },
     {
-      "id": "HaGiang_REV_01",
-      "year": 1945,
       "date": "1945-06-21",
-      "title": "Thành lập Tiểu khu cách mạng Trọng Con",
       "description": "Đội công tác tuyên truyền xung phong của liên tỉnh Hà - Tuyên - Thái tổ chức hội nghị thành lập Tiểu khu cách mạng Trọng Con. Đây là căn cứ địa cách mạng đầu tiên của tỉnh Hà Giang, chuẩn bị cho tổng khởi nghĩa.",
+      "id": "HaGiang_REV_01",
       "location": {
         "commune": "Bằng Hành",
         "district": "Bắc Quang",
@@ -51,14 +67,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Căn cứ địa"
-      ]
+      ],
+      "title": "Thành lập Tiểu khu cách mạng Trọng Con",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Tiểu khu cách mạng Trọng Con 1945 Bằng Hành, Bắc Quang, Hà Giang Cách mạng tháng Tám Căn cứ địa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Tiểu khu cách mạng Trọng Con",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Ti%E1%BB%83u+khu+c%C3%A1ch+m%E1%BA%A1ng+Tr%E1%BB%8Dng+Con+1945+B%E1%BA%B1ng+H%C3%A0nh%2C+B%E1%BA%AFc+Quang%2C+H%C3%A0+Giang+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HaGiang_REV_02",
-      "year": 1945,
       "date": "1945-08-29",
-      "title": "Khởi nghĩa giành chính quyền tại thị xã Hà Giang",
       "description": "Lực lượng vũ trang và quần chúng nhân dân tiến vào thị xã, tước vũ khí của lính bảo an, chiếm đồn khố xanh. Ủy ban Hành chính lâm thời tỉnh Hà Giang ra mắt nhân dân tại sân vận động thị xã, tuyên bố xóa bỏ chế độ thực dân phong kiến.",
+      "id": "HaGiang_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Hà Giang",
@@ -68,14 +93,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Khởi nghĩa giành chính quyền tại thị xã Hà Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa giành chính quyền tại thị xã Hà Giang 1945 Thành phố Hà Giang, Hà Giang Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa giành chính quyền tại thị xã Hà Giang",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+th%E1%BB%8B+x%C3%A3+H%C3%A0+Giang+1945+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+Giang%2C+H%C3%A0+Giang+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HaGiang_REV_03",
-      "year": 1945,
       "date": "1945-12-25",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
       "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Hà Giang được thành lập tại thị xã Hà Giang. Sự kiện này đánh dấu bước ngoặt quan trọng, đảm bảo sự lãnh đạo trực tiếp và toàn diện của Đảng đối với phong trào cách mạng địa phương.",
+      "id": "HaGiang_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Hà Giang",
@@ -85,14 +119,23 @@
       "tags": [
         "Thành lập Đảng",
         "Chính trị"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên 1945 Thành phố Hà Giang, Hà Giang Thành lập Đảng Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+1945+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+Giang%2C+H%C3%A0+Giang+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HaGiang_SECURITY_01",
-      "year": 1959,
-      "date": "1959-12-00",
-      "title": "Chiến dịch tiễu phỉ Đồng Văn",
+      "date": null,
       "description": "Trước sự xúi giục của các thế lực phản động, bạo loạn thổ phỉ nổ ra tại Đồng Văn nhằm chống lại chính quyền cách mạng. Lực lượng vũ trang Hà Giang phối hợp với Quân khu Tây Bắc đã tổ chức chiến dịch tiễu phỉ, dẹp yên bạo loạn, ổn định vùng cao.",
+      "id": "HaGiang_SECURITY_01",
       "location": {
         "commune": null,
         "district": "Đồng Văn",
@@ -102,14 +145,23 @@
       "tags": [
         "An ninh",
         "Tiễu phỉ"
-      ]
+      ],
+      "title": "Chiến dịch tiễu phỉ Đồng Văn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch tiễu phỉ Đồng Văn 1959 Đồng Văn, Hà Giang An ninh Tiễu phỉ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến dịch tiễu phỉ Đồng Văn",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+ti%E1%BB%85u+ph%E1%BB%89+%C4%90%E1%BB%93ng+V%C4%83n+1959+%C4%90%E1%BB%93ng+V%C4%83n%2C+H%C3%A0+Giang+An+ninh+Ti%E1%BB%85u+ph%E1%BB%89+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1959
     },
     {
-      "id": "HaGiang_CONSTRUCTION_01",
-      "year": 1965,
       "date": "1965-03-20",
-      "title": "Khánh thành con đường Hạnh Phúc",
       "description": "Sau 6 năm thi công gian khổ với hơn 2 triệu ngày công của thanh niên xung phong và dân công 8 tỉnh, con đường Hạnh Phúc nối thị xã Hà Giang với 4 huyện vùng cao núi đá (Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc) qua đèo Mã Pì Lèng chính thức thông xe.",
+      "id": "HaGiang_CONSTRUCTION_01",
       "location": {
         "commune": "Pải Lủng",
         "district": "Mèo Vạc",
@@ -119,14 +171,23 @@
       "tags": [
         "Giao thông",
         "Thanh niên xung phong"
-      ]
+      ],
+      "title": "Khánh thành con đường Hạnh Phúc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành con đường Hạnh Phúc 1965 Pải Lủng, Mèo Vạc, Hà Giang Giao thông Thanh niên xung phong lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành con đường Hạnh Phúc",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+con+%C4%91%C6%B0%E1%BB%9Dng+H%E1%BA%A1nh+Ph%C3%BAc+1965+P%E1%BA%A3i+L%E1%BB%A7ng%2C+M%C3%A8o+V%E1%BA%A1c%2C+H%C3%A0+Giang+Giao+th%C3%B4ng+Thanh+ni%C3%AAn+xung+phong+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "HaGiang_BORDER_WAR_01",
-      "year": 1979,
       "date": "1979-02-17",
-      "title": "Chiến tranh bảo vệ biên giới phía Bắc (1979)",
       "description": "Quân đội Trung Quốc đồng loạt tấn công trên toàn tuyến biên giới Hà Giang (lúc đó là tỉnh Hà Tuyên). Quân và dân các huyện biên giới (Đồng Văn, Mèo Vạc, Vị Xuyên) đã kiên cường đánh trả, bảo vệ từng tấc đất biên cương.",
+      "id": "HaGiang_BORDER_WAR_01",
       "location": {
         "commune": "Thanh Thủy",
         "district": "Vị Xuyên",
@@ -136,14 +197,23 @@
       "tags": [
         "Chiến tranh biên giới",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến tranh bảo vệ biên giới phía Bắc (1979)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến tranh bảo vệ biên giới phía Bắc (1979) 1979 Thanh Thủy, Vị Xuyên, Hà Giang Chiến tranh biên giới Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến tranh bảo vệ biên giới phía Bắc (1979)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+tranh+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+ph%C3%ADa+B%E1%BA%AFc+%281979%29+1979+Thanh+Th%E1%BB%A7y%2C+V%E1%BB%8B+Xuy%C3%AAn%2C+H%C3%A0+Giang+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     },
     {
-      "id": "HaGiang_BORDER_WAR_02",
-      "year": 1984,
       "date": "1984-07-12",
-      "title": "Chiến dịch MB84 - Mặt trận Vị Xuyên",
       "description": "Ngày khốc liệt nhất của mặt trận Vị Xuyên trong cuộc chiến tranh biên giới kéo dài (1984-1989). Các sư đoàn chủ lực Việt Nam mở chiến dịch phản công lấy lại các cao điểm bị lấn chiếm (1509, 772, 685). Vị Xuyên được ví như 'Lò vôi thế kỷ'.",
+      "id": "HaGiang_BORDER_WAR_02",
       "location": {
         "commune": "Thanh Thủy",
         "district": "Vị Xuyên",
@@ -156,14 +226,23 @@
       "tags": [
         "Chiến tranh biên giới",
         "Vị Xuyên"
-      ]
+      ],
+      "title": "Chiến dịch MB84 - Mặt trận Vị Xuyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch MB84 - Mặt trận Vị Xuyên 1984 Thanh Thủy, Vị Xuyên, Hà Giang Nguyễn Đình Thiện Đặng Việt Châu Chiến tranh biên giới Vị Xuyên lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến dịch MB84 - Mặt trận Vị Xuyên",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+MB84+-+M%E1%BA%B7t+tr%E1%BA%ADn+V%E1%BB%8B+Xuy%C3%AAn+1984+Thanh+Th%E1%BB%A7y%2C+V%E1%BB%8B+Xuy%C3%AAn%2C+H%C3%A0+Giang+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Thi%E1%BB%87n+%C4%90%E1%BA%B7ng+Vi%E1%BB%87t+Ch%C3%A2u+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+V%E1%BB%8B+Xuy%C3%AAn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1984
     },
     {
+      "date": "1991-10-01",
+      "description": "Ngày 12/8/1991, Quốc hội khóa VIII quyết định chia tách tỉnh hợp nhất liên quan để tái lập tỉnh Hà Giang. Tỉnh Hà Giang chính thức đi vào hoạt động theo đơn vị hành chính mới từ ngày 1/10/1991.",
       "id": "HaGiang_ADMIN_01",
-      "year": 1991,
-      "date": "1991-08-12",
-      "title": "Tái lập tỉnh Hà Giang",
-      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hà Tuyên thành hai tỉnh Hà Giang và Tuyên Quang. Tỉnh Hà Giang chính thức đi vào hoạt động trở lại từ ngày 01/10/1991.",
       "location": {
         "commune": null,
         "district": null,
@@ -173,7 +252,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Hà Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Hà Giang 1991 Hà Giang Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Hà Giang",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+Giang+1991+H%C3%A0+Giang+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HaGiang.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HaGiang_vi.json"
+  }
 }

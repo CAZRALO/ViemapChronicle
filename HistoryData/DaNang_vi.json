@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "DaNang_COLONIAL_01",
-      "year": 1858,
       "date": "1858-09-01",
-      "title": "Liên quân Pháp - Tây Ban Nha nổ súng tấn công Đà Nẵng",
       "description": "Liên quân Pháp - Tây Ban Nha nổ súng vào cửa biển Đà Nẵng, mở đầu cuộc chiến tranh xâm lược Việt Nam. Danh tướng Nguyễn Tri Phương đã chỉ huy quân dân đắp thành đắp lũy (thành Điện Hải), thực hiện 'vườn không nhà trống', cầm chân địch suốt 5 tháng, làm thất bại kế hoạch 'đánh nhanh thắng nhanh' của chúng.",
+      "id": "DaNang_COLONIAL_01",
       "location": {
         "commune": "Thạch Thang",
         "district": "Hải Châu",
@@ -18,14 +16,23 @@
       "tags": [
         "Pháp thuộc",
         "Chống ngoại xâm"
-      ]
+      ],
+      "title": "Liên quân Pháp - Tây Ban Nha nổ súng tấn công Đà Nẵng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Liên quân Pháp - Tây Ban Nha nổ súng tấn công Đà Nẵng 1858 Thạch Thang, Hải Châu, Đà Nẵng Nguyễn Tri Phương Rigault de Genouilly Pháp thuộc Chống ngoại xâm lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Liên quân Pháp - Tây Ban Nha nổ súng tấn công Đà Nẵng",
+          "url": "https://www.youtube.com/results?search_query=Li%C3%AAn+qu%C3%A2n+Ph%C3%A1p+-+T%C3%A2y+Ban+Nha+n%E1%BB%95+s%C3%BAng+t%E1%BA%A5n+c%C3%B4ng+%C4%90%C3%A0+N%E1%BA%B5ng+1858+Th%E1%BA%A1ch+Thang%2C+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+Nguy%E1%BB%85n+Tri+Ph%C6%B0%C6%A1ng+Rigault+de+Genouilly+Ph%C3%A1p+thu%E1%BB%99c+Ch%E1%BB%91ng+ngo%E1%BA%A1i+x%C3%A2m+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1858
     },
     {
-      "id": "DaNang_COLONIAL_02",
-      "year": 1888,
       "date": "1888-10-01",
-      "title": "Đà Nẵng trở thành nhượng địa Tourane",
       "description": "Vua Đồng Khánh ký dụ nhượng hẳn Đà Nẵng cho Pháp. Pháp tách Đà Nẵng khỏi tỉnh Quảng Nam, đổi tên thành Tourane và xây dựng nơi đây thành một thành phố cảng, nhượng địa thuộc Pháp, chịu sự cai quản trực tiếp của Toàn quyền Đông Dương.",
+      "id": "DaNang_COLONIAL_02",
       "location": {
         "commune": null,
         "district": "Hải Châu",
@@ -37,14 +44,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Đà Nẵng trở thành nhượng địa Tourane",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đà Nẵng trở thành nhượng địa Tourane 1888 Hải Châu, Đà Nẵng Đồng Khánh Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đà Nẵng trở thành nhượng địa Tourane",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C3%A0+N%E1%BA%B5ng+tr%E1%BB%9F+th%C3%A0nh+nh%C6%B0%E1%BB%A3ng+%C4%91%E1%BB%8Ba+Tourane+1888+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+%C4%90%E1%BB%93ng+Kh%C3%A1nh+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1888
     },
     {
-      "id": "DaNang_REV_01",
-      "year": 1930,
       "date": "1930-03-28",
-      "title": "Thành lập Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam - Đà Nẵng",
       "description": "Tại khu rừng Cây Thông (Hội An), Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam - Đà Nẵng được thành lập. Dù địa điểm tại Hội An, nhưng đây là tổ chức tiền thân trực tiếp lãnh đạo phong trào cách mạng tại thành phố Đà Nẵng.",
+      "id": "DaNang_REV_01",
       "location": {
         "commune": null,
         "district": null,
@@ -56,14 +72,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam - Đà Nẵng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam - Đà Nẵng 1930 Đà Nẵng Phan Văn Định Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam - Đà Nẵng",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+Vi%E1%BB%87t+Nam+t%E1%BB%89nh+Qu%E1%BA%A3ng+Nam+-+%C4%90%C3%A0+N%E1%BA%B5ng+1930+%C4%90%C3%A0+N%E1%BA%B5ng+Phan+V%C4%83n+%C4%90%E1%BB%8Bnh+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "DaNang_REV_02",
-      "year": 1945,
       "date": "1945-08-26",
-      "title": "Giành chính quyền tại Đà Nẵng (Thái Phiên)",
       "description": "Sau khi tiếng còi tầm vang lên làm hiệu lệnh, các lực lượng tự vệ và công nhân đã chiếm Tòa Đốc lý, Sở Cảnh sát và các công sở. Ủy ban Khởi nghĩa tuyên bố xóa bỏ chính quyền địch, thành lập Ủy ban Nhân dân Cách mạng lâm thời thành phố Thái Phiên (tên gọi của Đà Nẵng lúc bấy giờ).",
+      "id": "DaNang_REV_02",
       "location": {
         "commune": null,
         "district": "Hải Châu",
@@ -75,14 +100,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Đà Nẵng (Thái Phiên)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Đà Nẵng (Thái Phiên) 1945 Hải Châu, Đà Nẵng Lê Văn Hiến Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Đà Nẵng (Thái Phiên)",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+%C4%90%C3%A0+N%E1%BA%B5ng+%28Th%C3%A1i+Phi%C3%AAn%29+1945+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+L%C3%AA+V%C4%83n+Hi%E1%BA%BFn+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "DaNang_US_WAR_01",
-      "year": 1965,
       "date": "1965-03-08",
-      "title": "Lính Mỹ đổ bộ lên bãi biển Xuân Thiều",
       "description": "Tiểu đoàn 3 và Tiểu đoàn 1 thuộc Lữ đoàn 9 Thủy quân lục chiến Mỹ đổ bộ lên bãi biển Xuân Thiều (Red Beach) và sân bay Đà Nẵng. Sự kiện này đánh dấu việc Mỹ chính thức đưa quân viễn chinh vào tham chiến trực tiếp tại miền Nam Việt Nam, chuyển sang chiến lược 'Chiến tranh cục bộ'.",
+      "id": "DaNang_US_WAR_01",
       "location": {
         "commune": "Hòa Hiệp Bắc",
         "district": "Liên Chiểu",
@@ -92,14 +126,23 @@
       "tags": [
         "Chiến tranh cục bộ",
         "Quân sự"
-      ]
+      ],
+      "title": "Lính Mỹ đổ bộ lên bãi biển Xuân Thiều",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lính Mỹ đổ bộ lên bãi biển Xuân Thiều 1965 Hòa Hiệp Bắc, Liên Chiểu, Đà Nẵng Chiến tranh cục bộ Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lính Mỹ đổ bộ lên bãi biển Xuân Thiều",
+          "url": "https://www.youtube.com/results?search_query=L%C3%ADnh+M%E1%BB%B9+%C4%91%E1%BB%95+b%E1%BB%99+l%C3%AAn+b%C3%A3i+bi%E1%BB%83n+Xu%C3%A2n+Thi%E1%BB%81u+1965+H%C3%B2a+Hi%E1%BB%87p+B%E1%BA%AFc%2C+Li%C3%AAn+Chi%E1%BB%83u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+Chi%E1%BA%BFn+tranh+c%E1%BB%A5c+b%E1%BB%99+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "DaNang_US_WAR_02",
-      "year": 1965,
       "date": "1965-05-17",
-      "title": "Trận tập kích kho xăng Liên Chiểu",
       "description": "Lực lượng biệt động Đà Nẵng đã táo bạo đột nhập và phá hủy kho xăng chiến lược Liên Chiểu của Mỹ, thiêu hủy hàng triệu lít xăng dầu. Đây là đòn đánh đau vào hậu cần của địch ngay tại căn cứ liên hợp quân sự lớn nhất miền Trung.",
+      "id": "DaNang_US_WAR_02",
       "location": {
         "commune": "Hòa Hiệp",
         "district": "Liên Chiểu",
@@ -109,14 +152,23 @@
       "tags": [
         "Biệt động thành",
         "Kháng chiến chống Mỹ"
-      ]
+      ],
+      "title": "Trận tập kích kho xăng Liên Chiểu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận tập kích kho xăng Liên Chiểu 1965 Hòa Hiệp, Liên Chiểu, Đà Nẵng Biệt động thành Kháng chiến chống Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận tập kích kho xăng Liên Chiểu",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+t%E1%BA%ADp+k%C3%ADch+kho+x%C4%83ng+Li%C3%AAn+Chi%E1%BB%83u+1965+H%C3%B2a+Hi%E1%BB%87p%2C+Li%C3%AAn+Chi%E1%BB%83u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+Bi%E1%BB%87t+%C4%91%E1%BB%99ng+th%C3%A0nh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "DaNang_US_WAR_03",
-      "year": 1968,
       "date": "1968-01-30",
-      "title": "Tổng tiến công và nổi dậy Tết Mậu Thân tại Đà Nẵng",
       "description": "Quân Giải phóng đồng loạt tấn công vào các vị trí trọng yếu như Sân bay Đà Nẵng, Bộ Tư lệnh Quân đoàn I ngụy, Kho xăng Liên Chiểu... Tuy không chiếm giữ được mục tiêu dài ngày như ở Huế, nhưng đã gây thiệt hại lớn và làm rung chuyển sào huyệt của Mỹ - ngụy.",
+      "id": "DaNang_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Thanh Khê",
@@ -126,14 +178,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Quân sự"
-      ]
+      ],
+      "title": "Tổng tiến công và nổi dậy Tết Mậu Thân tại Đà Nẵng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng tiến công và nổi dậy Tết Mậu Thân tại Đà Nẵng 1968 Thanh Khê, Đà Nẵng Tết Mậu Thân Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng tiến công và nổi dậy Tết Mậu Thân tại Đà Nẵng",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+v%C3%A0+n%E1%BB%95i+d%E1%BA%ADy+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+t%E1%BA%A1i+%C4%90%C3%A0+N%E1%BA%B5ng+1968+Thanh+Kh%C3%AA%2C+%C4%90%C3%A0+N%E1%BA%B5ng+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "DaNang_US_WAR_04",
-      "year": 1975,
       "date": "1975-03-29",
-      "title": "Giải phóng thành phố Đà Nẵng",
       "description": "Trong Chiến dịch Huế - Đà Nẵng, Quân đoàn 2 phối hợp với lực lượng vũ trang Khu 5 tấn công từ nhiều hướng, khiến quân địch tại căn cứ liên hợp Đà Nẵng tan rã nhanh chóng. Lúc 13h30, lá cờ giải phóng tung bay trên nóc Tòa Thị chính, Đà Nẵng hoàn toàn giải phóng.",
+      "id": "DaNang_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Hải Châu",
@@ -146,14 +207,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thành phố Đà Nẵng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thành phố Đà Nẵng 1975 Hải Châu, Đà Nẵng Chu Huy Mân Lê Trọng Tấn Chiến dịch Xuân 1975 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thành phố Đà Nẵng",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+N%E1%BA%B5ng+1975+H%E1%BA%A3i+Ch%C3%A2u%2C+%C4%90%C3%A0+N%E1%BA%B5ng+Chu+Huy+M%C3%A2n+L%C3%AA+Tr%E1%BB%8Dng+T%E1%BA%A5n+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Quảng Nam - Đà Nẵng thành tỉnh Quảng Nam và thành phố Đà Nẵng trực thuộc Trung ương. Đơn vị hành chính mới chính thức hoạt động từ ngày 1/1/1997.",
       "id": "DaNang_ADMIN_01",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Trở thành Thành phố trực thuộc Trung ương",
-      "description": "Tại kỳ họp thứ 10, Quốc hội khóa IX đã thông qua Nghị quyết chia tách tỉnh Quảng Nam - Đà Nẵng thành tỉnh Quảng Nam và thành phố Đà Nẵng trực thuộc Trung ương. Sự kiện này mở ra kỷ nguyên phát triển bùng nổ của đô thị Đà Nẵng.",
       "location": {
         "commune": null,
         "district": null,
@@ -165,14 +235,23 @@
       "tags": [
         "Hành chính",
         "Tách tỉnh"
-      ]
+      ],
+      "title": "Trở thành Thành phố trực thuộc Trung ương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trở thành Thành phố trực thuộc Trung ương 1997 Đà Nẵng Nguyễn Bá Thanh Hành chính Tách tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trở thành Thành phố trực thuộc Trung ương",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BB%9F+th%C3%A0nh+Th%C3%A0nh+ph%E1%BB%91+tr%E1%BB%B1c+thu%E1%BB%99c+Trung+%C6%B0%C6%A1ng+1997+%C4%90%C3%A0+N%E1%BA%B5ng+Nguy%E1%BB%85n+B%C3%A1+Thanh+H%C3%A0nh+ch%C3%ADnh+T%C3%A1ch+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     },
     {
-      "id": "DaNang_MODERN_01",
-      "year": 2000,
       "date": "2000-03-29",
-      "title": "Khánh thành Cầu Sông Hàn",
       "description": "Cầu Sông Hàn - cây cầu quay đầu tiên do kỹ sư và công nhân Việt Nam tự thiết kế và thi công được khánh thành. Đây là biểu tượng cho khát vọng vươn lên của người dân Đà Nẵng, đánh dấu sự chuyển mình từ 'thành phố trong phố' sang 'thành phố hướng biển'.",
+      "id": "DaNang_MODERN_01",
       "location": {
         "commune": null,
         "district": "Sơn Trà",
@@ -182,7 +261,24 @@
       "tags": [
         "Kinh tế",
         "Biểu tượng"
-      ]
+      ],
+      "title": "Khánh thành Cầu Sông Hàn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành Cầu Sông Hàn 2000 Sơn Trà, Đà Nẵng Kinh tế Biểu tượng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành Cầu Sông Hàn",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+C%E1%BA%A7u+S%C3%B4ng+H%C3%A0n+2000+S%C6%A1n+Tr%C3%A0%2C+%C4%90%C3%A0+N%E1%BA%B5ng+Kinh+t%E1%BA%BF+Bi%E1%BB%83u+t%C6%B0%E1%BB%A3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2000
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/DaNang.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/DaNang_vi.json"
+  }
 }

@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "HaTinh_NGUYEN_01",
-      "year": 1831,
       "date": null,
-      "title": "Thành lập tỉnh Hà Tĩnh",
       "description": "Trong cuộc cải cách hành chính quy mô lớn của vua Minh Mạng, đạo Hà Tĩnh được tách ra khỏi trấn Nghệ An để thành lập tỉnh Hà Tĩnh. Đây là cột mốc lịch sử chính thức xác lập địa giới hành chính của tỉnh.",
+      "id": "HaTinh_NGUYEN_01",
       "location": {
         "commune": null,
         "district": "Thành phố Hà Tĩnh",
@@ -17,14 +15,23 @@
       "tags": [
         "Hành chính",
         "Nhà Nguyễn"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hà Tĩnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hà Tĩnh 1831 Thành phố Hà Tĩnh, Hà Tĩnh Minh Mạng Hành chính Nhà Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hà Tĩnh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+T%C4%A9nh+1831+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+T%C4%A9nh%2C+H%C3%A0+T%C4%A9nh+Minh+M%E1%BA%A1ng+H%C3%A0nh+ch%C3%ADnh+Nh%C3%A0+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1831
     },
     {
-      "id": "HaTinh_CANVUONG_01",
-      "year": 1885,
       "date": null,
-      "title": "Bùng nổ Khởi nghĩa Hương Khê",
       "description": "Phan Đình Phùng và Cao Thắng đã chọn vùng rừng núi hiểm trở Hương Khê, Vụ Quang làm căn cứ địa để phát động cuộc khởi nghĩa Hương Khê. Đây là cuộc khởi nghĩa có quy mô lớn nhất, tổ chức chặt chẽ nhất và kéo dài nhất (10 năm) trong phong trào Cần Vương.",
+      "id": "HaTinh_CANVUONG_01",
       "location": {
         "commune": null,
         "district": "Hương Khê",
@@ -37,14 +44,23 @@
       "tags": [
         "Phong trào Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Bùng nổ Khởi nghĩa Hương Khê",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bùng nổ Khởi nghĩa Hương Khê 1885 Hương Khê, Hà Tĩnh Phan Đình Phùng Cao Thắng Phong trào Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bùng nổ Khởi nghĩa Hương Khê",
+          "url": "https://www.youtube.com/results?search_query=B%C3%B9ng+n%E1%BB%95+Kh%E1%BB%9Fi+ngh%C4%A9a+H%C6%B0%C6%A1ng+Kh%C3%AA+1885+H%C6%B0%C6%A1ng+Kh%C3%AA%2C+H%C3%A0+T%C4%A9nh+Phan+%C4%90%C3%ACnh+Ph%C3%B9ng+Cao+Th%E1%BA%AFng+Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
-      "id": "HaTinh_CANVUONG_02",
-      "year": 1894,
       "date": "1894-10-26",
-      "title": "Trận Vụ Quang",
       "description": "Nghĩa quân Phan Đình Phùng đã dựa vào địa thế hiểm trở và mưu trí dụ địch, đánh bại cuộc tấn công quy mô lớn của quân Pháp và lính khố xanh tại căn cứ Vụ Quang, gây thương vong lớn cho địch. Đây là chiến thắng vang dội nhất của cuộc khởi nghĩa.",
+      "id": "HaTinh_CANVUONG_02",
       "location": {
         "commune": "Hòa Hải",
         "district": "Hương Khê",
@@ -57,14 +73,49 @@
       "tags": [
         "Quân sự",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Trận Vụ Quang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Vụ Quang 1894 Hòa Hải, Hương Khê, Hà Tĩnh Phan Đình Phùng Cao Thắng Quân sự Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Vụ Quang",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+V%E1%BB%A5+Quang+1894+H%C3%B2a+H%E1%BA%A3i%2C+H%C6%B0%C6%A1ng+Kh%C3%AA%2C+H%C3%A0+T%C4%A9nh+Phan+%C4%90%C3%ACnh+Ph%C3%B9ng+Cao+Th%E1%BA%AFng+Qu%C3%A2n+s%E1%BB%B1+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1894
     },
     {
+      "date": "1930-08-01",
+      "description": "Nông dân các huyện Can Lộc, Thạch Hà, Cẩm Xuyên đồng loạt biểu tình, phá huyện đường, đốt giấy tờ sổ sách của chính quyền thực dân phong kiến, thành lập các Nông hội đỏ (chính quyền Xô viết) tự quản thôn xã.",
+      "id": "HaTinh_REV_02",
+      "location": {
+        "commune": null,
+        "district": "Can Lộc",
+        "province": "Hà Tĩnh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Xô viết Nghệ Tĩnh",
+        "Nông dân"
+      ],
+      "title": "Cao trào Xô viết Nghệ Tĩnh tại Hà Tĩnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cao trào Xô viết Nghệ Tĩnh tại Hà Tĩnh 1930 Can Lộc, Hà Tĩnh Xô viết Nghệ Tĩnh Nông dân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cao trào Xô viết Nghệ Tĩnh tại Hà Tĩnh",
+          "url": "https://www.youtube.com/results?search_query=Cao+tr%C3%A0o+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh+t%E1%BA%A1i+H%C3%A0+T%C4%A9nh+1930+Can+L%E1%BB%99c%2C+H%C3%A0+T%C4%A9nh+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh+N%C3%B4ng+d%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
+    },
+    {
+      "date": null,
+      "description": "Cuối tháng 3/1930, hội nghị thành lập Đảng bộ tỉnh Hà Tĩnh lâm thời được tổ chức tại bến đò Thượng Trụ. Sự ra đời của Đảng bộ tỉnh tạo cơ sở lãnh đạo trực tiếp phong trào cách mạng Hà Tĩnh trong cao trào 1930-1931 và Xô viết Nghệ Tĩnh.",
       "id": "HaTinh_REV_01",
-      "year": 1930,
-      "date": "1930-03-01",
-      "title": "Thành lập Đảng bộ tỉnh Hà Tĩnh",
-      "description": "Hội nghị thành lập Đảng bộ tỉnh Hà Tĩnh lâm thời được tổ chức tại bến đò Thượng Trụ. Sự ra đời của Đảng bộ đã trực tiếp lãnh đạo phong trào đấu tranh của nông dân Hà Tĩnh trong cao trào Xô viết Nghệ Tĩnh.",
       "location": {
         "commune": "Thiên Lộc",
         "district": "Can Lộc",
@@ -76,31 +127,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Đảng bộ tỉnh Hà Tĩnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ tỉnh Hà Tĩnh 1930 Thiên Lộc, Can Lộc, Hà Tĩnh Trần Hữu Thiều Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ tỉnh Hà Tĩnh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+t%E1%BB%89nh+H%C3%A0+T%C4%A9nh+1930+Thi%C3%AAn+L%E1%BB%99c%2C+Can+L%E1%BB%99c%2C+H%C3%A0+T%C4%A9nh+Tr%E1%BA%A7n+H%E1%BB%AFu+Thi%E1%BB%81u+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "HaTinh_REV_02",
-      "year": 1930,
-      "date": "1930-08-01",
-      "title": "Cao trào Xô viết Nghệ Tĩnh tại Hà Tĩnh",
-      "description": "Nông dân các huyện Can Lộc, Thạch Hà, Cẩm Xuyên đồng loạt biểu tình, phá huyện đường, đốt giấy tờ sổ sách của chính quyền thực dân phong kiến, thành lập các Nông hội đỏ (chính quyền Xô viết) tự quản thôn xã.",
-      "location": {
-        "commune": null,
-        "district": "Can Lộc",
-        "province": "Hà Tĩnh"
-      },
-      "related_figures": [],
-      "tags": [
-        "Xô viết Nghệ Tĩnh",
-        "Nông dân"
-      ]
-    },
-    {
-      "id": "HaTinh_REV_03",
-      "year": 1945,
       "date": "1945-08-18",
-      "title": "Giành chính quyền tại Hà Tĩnh",
       "description": "Hà Tĩnh là một trong 4 tỉnh đầu tiên của cả nước (cùng với Bắc Giang, Hải Dương, Quảng Nam) giành được chính quyền về tay nhân dân trong Cách mạng tháng Tám, trước khi lệnh Tổng khởi nghĩa từ Hà Nội về tới nơi.",
+      "id": "HaTinh_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Hà Tĩnh",
@@ -110,14 +153,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Hà Tĩnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Hà Tĩnh 1945 Thành phố Hà Tĩnh, Hà Tĩnh Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Hà Tĩnh",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+H%C3%A0+T%C4%A9nh+1945+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+T%C4%A9nh%2C+H%C3%A0+T%C4%A9nh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HaTinh_US_WAR_01",
-      "year": 1965,
       "date": "1965-03-26",
-      "title": "Trận đầu đánh thắng không quân Mỹ (Núi Nài)",
-      "description": "Tiểu đoàn Phòng không 8 cùng dân quân địa phương đã lập công xuất sắc tại trận địa Núi Nài, bắn rơi 9 máy bay Mỹ trong trận đầu ra quân đánh trả cuộc leo thang chiến tranh phá hoại miền Bắc của không quân Mỹ.",
+      "description": "Ngày 26/3/1965, tại khu vực Núi Nài, lực lượng phòng không cùng quân dân thị xã Hà Tĩnh đánh trả quyết liệt cuộc tập kích đường không của Mỹ và bắn rơi 9 máy bay Mỹ. Đây là một trong những chiến công tiêu biểu trong những ngày đầu chống chiến tranh phá hoại miền Bắc.",
+      "id": "HaTinh_US_WAR_01",
       "location": {
         "commune": "Đại Nài",
         "district": "Thành phố Hà Tĩnh",
@@ -127,14 +179,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
+      ],
+      "title": "Trận đầu đánh thắng không quân Mỹ (Núi Nài)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đầu đánh thắng không quân Mỹ (Núi Nài) 1965 Đại Nài, Thành phố Hà Tĩnh, Hà Tĩnh Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đầu đánh thắng không quân Mỹ (Núi Nài)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+%C4%91%C3%A1nh+th%E1%BA%AFng+kh%C3%B4ng+qu%C3%A2n+M%E1%BB%B9+%28N%C3%BAi+N%C3%A0i%29+1965+%C4%90%E1%BA%A1i+N%C3%A0i%2C+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+T%C4%A9nh%2C+H%C3%A0+T%C4%A9nh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "HaTinh_US_WAR_02",
-      "year": 1968,
       "date": "1968-07-24",
-      "title": "Sự hy sinh của 10 nữ Thanh niên xung phong Ngã ba Đồng Lộc",
       "description": "Tại trọng điểm giao thông ác liệt Ngã ba Đồng Lộc, 10 nữ thanh niên xung phong thuộc Tiểu đội 4 (Đại đội 552) đã anh dũng hy sinh khi đang san lấp hố bom để thông đường cho xe ra tiền tuyến. Họ trở thành biểu tượng bất tử của chủ nghĩa anh hùng cách mạng.",
+      "id": "HaTinh_US_WAR_02",
       "location": {
         "commune": "Đồng Lộc",
         "district": "Can Lộc",
@@ -147,14 +208,23 @@
         "Kháng chiến chống Mỹ",
         "Đồng Lộc",
         "Thanh niên xung phong"
-      ]
+      ],
+      "title": "Sự hy sinh của 10 nữ Thanh niên xung phong Ngã ba Đồng Lộc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự hy sinh của 10 nữ Thanh niên xung phong Ngã ba Đồng Lộc 1968 Đồng Lộc, Can Lộc, Hà Tĩnh Võ Thị Tần Kháng chiến chống Mỹ Đồng Lộc Thanh niên xung phong lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự hy sinh của 10 nữ Thanh niên xung phong Ngã ba Đồng Lộc",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+hy+sinh+c%E1%BB%A7a+10+n%E1%BB%AF+Thanh+ni%C3%AAn+xung+phong+Ng%C3%A3+ba+%C4%90%E1%BB%93ng+L%E1%BB%99c+1968+%C4%90%E1%BB%93ng+L%E1%BB%99c%2C+Can+L%E1%BB%99c%2C+H%C3%A0+T%C4%A9nh+V%C3%B5+Th%E1%BB%8B+T%E1%BA%A7n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+%C4%90%E1%BB%93ng+L%E1%BB%99c+Thanh+ni%C3%AAn+xung+phong+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "HaTinh_ADMIN_01",
-      "year": 1976,
       "date": "1976-01-01",
-      "title": "Thành lập tỉnh Nghệ Tĩnh",
       "description": "Thực hiện Nghị quyết của Quốc hội, hai tỉnh Nghệ An và Hà Tĩnh được hợp nhất thành tỉnh Nghệ Tĩnh. Đây là giai đoạn hai tỉnh cùng chung sức xây dựng kinh tế và khắc phục hậu quả chiến tranh.",
+      "id": "HaTinh_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -164,14 +234,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Nghệ Tĩnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Nghệ Tĩnh 1976 Hà Tĩnh Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Nghệ Tĩnh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Ngh%E1%BB%87+T%C4%A9nh+1976+H%C3%A0+T%C4%A9nh+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1976
     },
     {
-      "id": "HaTinh_ADMIN_02",
-      "year": 1991,
       "date": "1991-08-12",
-      "title": "Tái lập tỉnh Hà Tĩnh",
-      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Nghệ Tĩnh trở lại thành hai tỉnh Nghệ An và Hà Tĩnh. Tỉnh Hà Tĩnh chính thức hoạt động theo đơn vị hành chính mới, bắt đầu công cuộc đổi mới và phát triển kinh tế.",
+      "description": "Ngày 12/8/1991, Quốc hội khóa VIII thông qua nghị quyết chia tỉnh Nghệ Tĩnh thành hai tỉnh Nghệ An và Hà Tĩnh. Tỉnh Hà Tĩnh chính thức hoạt động trở lại từ ngày 01/10/1991.",
+      "id": "HaTinh_ADMIN_02",
       "location": {
         "commune": null,
         "district": null,
@@ -181,7 +260,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Hà Tĩnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Hà Tĩnh 1991 Hà Tĩnh Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Hà Tĩnh",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+T%C4%A9nh+1991+H%C3%A0+T%C4%A9nh+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HaTinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HaTinh_vi.json"
+  }
 }

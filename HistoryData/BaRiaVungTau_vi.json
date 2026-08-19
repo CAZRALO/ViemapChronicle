@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "BRVT_NGUYEN_01",
-      "year": 1859,
       "date": "1859-02-10",
-      "title": "Pháo đài Phước Thắng nổ súng kháng Pháp",
       "description": "Quân Pháp dùng tàu chiến tấn công vào cửa biển Vũng Tàu. Danh tướng Nguyễn Trọng Tộ và Bùi Quang Diệu đã chỉ huy quân dân tại pháo đài Phước Thắng (Núi Lớn) nổ súng đánh trả quyết liệt, bắn cháy tàu địch, bước đầu ngăn chặn âm mưu xâm lược của thực dân Pháp.",
+      "id": "BRVT_NGUYEN_01",
       "location": {
         "commune": "Thắng Nhì",
         "district": "Thành phố Vũng Tàu",
@@ -18,14 +16,23 @@
       "tags": [
         "Chống Pháp",
         "Quân sự"
-      ]
+      ],
+      "title": "Pháo đài Phước Thắng nổ súng kháng Pháp",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Pháo đài Phước Thắng nổ súng kháng Pháp 1859 Thắng Nhì, Thành phố Vũng Tàu, Bà Rịa - Vũng Tàu Nguyễn Trọng Tộ Bùi Quang Diệu Chống Pháp Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Pháo đài Phước Thắng nổ súng kháng Pháp",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1o+%C4%91%C3%A0i+Ph%C6%B0%E1%BB%9Bc+Th%E1%BA%AFng+n%E1%BB%95+s%C3%BAng+kh%C3%A1ng+Ph%C3%A1p+1859+Th%E1%BA%AFng+Nh%C3%AC%2C+Th%C3%A0nh+ph%E1%BB%91+V%C5%A9ng+T%C3%A0u%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+Nguy%E1%BB%85n+Tr%E1%BB%8Dng+T%E1%BB%99+B%C3%B9i+Quang+Di%E1%BB%87u+Ch%E1%BB%91ng+Ph%C3%A1p+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1859
     },
     {
-      "id": "BRVT_PRISON_01",
-      "year": 1862,
       "date": "1862-02-01",
-      "title": "Thành lập Nhà tù Côn Đảo",
       "description": "Thống đốc Nam Kỳ Bonard ký quyết định thành lập Nhà tù Côn Đảo. Từ đây, Côn Đảo trở thành 'Địa ngục trần gian' giam cầm hàng vạn chiến sĩ yêu nước và cách mạng trong suốt 113 năm (1862-1975) dưới hai chế độ thực dân và đế quốc.",
+      "id": "BRVT_PRISON_01",
       "location": {
         "commune": null,
         "district": "Côn Đảo",
@@ -37,14 +44,23 @@
       "tags": [
         "Nhà tù",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập Nhà tù Côn Đảo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Nhà tù Côn Đảo 1862 Côn Đảo, Bà Rịa - Vũng Tàu Bonard Nhà tù Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Nhà tù Côn Đảo",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Nh%C3%A0+t%C3%B9+C%C3%B4n+%C4%90%E1%BA%A3o+1862+C%C3%B4n+%C4%90%E1%BA%A3o%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+Bonard+Nh%C3%A0+t%C3%B9+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1862
     },
     {
-      "id": "BRVT_REV_01",
-      "year": 1934,
-      "date": "1934-02-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Phước Hải)",
+      "date": null,
       "description": "Tại làng chài Phước Hải, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Bà Rịa được thành lập gồm 3 đảng viên, do đồng chí Trần Văn Cừ làm Bí thư. Đây là hạt nhân lãnh đạo phong trào cách mạng của ngư dân và nông dân vùng Đất Đỏ.",
+      "id": "BRVT_REV_01",
       "location": {
         "commune": "Phước Hải",
         "district": "Đất Đỏ",
@@ -56,14 +72,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Phước Hải)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên (Phước Hải) 1934 Phước Hải, Đất Đỏ, Bà Rịa - Vũng Tàu Trần Văn Cừ Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên (Phước Hải)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+%28Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i%29+1934+Ph%C6%B0%E1%BB%9Bc+H%E1%BA%A3i%2C+%C4%90%E1%BA%A5t+%C4%90%E1%BB%8F%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+Tr%E1%BA%A7n+V%C4%83n+C%E1%BB%AB+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1934
     },
     {
-      "id": "BRVT_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Bà Rịa",
       "description": "Khoảng 4.000 quần chúng vũ trang đã biểu tình chiếm Tòa Bố (Dinh Tỉnh trưởng) và Trại Bảo an binh. Tỉnh trưởng Lê Thành Long đầu hàng. Ủy ban Hành chính lâm thời tỉnh Bà Rịa được thành lập, đánh dấu thắng lợi của Cách mạng tháng Tám tại địa phương.",
+      "id": "BRVT_REV_02",
       "location": {
         "commune": "Phước Hưng",
         "district": "Thành phố Bà Rịa",
@@ -75,14 +100,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Bà Rịa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Bà Rịa 1945 Phước Hưng, Thành phố Bà Rịa, Bà Rịa - Vũng Tàu Dương Bạch Mai Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Bà Rịa",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+B%C3%A0+R%E1%BB%8Ba+1945+Ph%C6%B0%E1%BB%9Bc+H%C6%B0ng%2C+Th%C3%A0nh+ph%E1%BB%91+B%C3%A0+R%E1%BB%8Ba%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+D%C6%B0%C6%A1ng+B%E1%BA%A1ch+Mai+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "BRVT_FRENCH_WAR_01",
-      "year": 1952,
       "date": "1952-01-23",
-      "title": "Võ Thị Sáu hy sinh tại Côn Đảo",
       "description": "Nữ anh hùng Võ Thị Sáu (người con của vùng đất Đất Đỏ) bị thực dân Pháp xử bắn tại Hàng Dương, Côn Đảo. Sự hy sinh kiên cường và tinh thần bất khuất của chị đã trở thành biểu tượng thiêng liêng của chủ nghĩa anh hùng cách mạng.",
+      "id": "BRVT_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": "Côn Đảo",
@@ -94,14 +128,23 @@
       "tags": [
         "Anh hùng",
         "Côn Đảo"
-      ]
+      ],
+      "title": "Võ Thị Sáu hy sinh tại Côn Đảo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Võ Thị Sáu hy sinh tại Côn Đảo 1952 Côn Đảo, Bà Rịa - Vũng Tàu Võ Thị Sáu Anh hùng Côn Đảo lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Võ Thị Sáu hy sinh tại Côn Đảo",
+          "url": "https://www.youtube.com/results?search_query=V%C3%B5+Th%E1%BB%8B+S%C3%A1u+hy+sinh+t%E1%BA%A1i+C%C3%B4n+%C4%90%E1%BA%A3o+1952+C%C3%B4n+%C4%90%E1%BA%A3o%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+V%C3%B5+Th%E1%BB%8B+S%C3%A1u+Anh+h%C3%B9ng+C%C3%B4n+%C4%90%E1%BA%A3o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "BRVT_US_WAR_01",
-      "year": 1964,
       "date": "1964-12-02",
-      "title": "Chiến thắng Bình Giã",
       "description": "Bộ đội chủ lực Miền phối hợp với quân dân địa phương mở chiến dịch Bình Giã, tiêu diệt gọn 2 tiểu đoàn chủ lực và 1 chi đoàn thiết giáp của quân đội Sài Gòn. Chiến thắng này đánh dấu sự phá sản về cơ bản của chiến lược 'Chiến tranh đặc biệt' của Mỹ.",
+      "id": "BRVT_US_WAR_01",
       "location": {
         "commune": "Bình Giã",
         "district": "Châu Đức",
@@ -113,14 +156,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Bình Giã",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Bình Giã 1964 Bình Giã, Châu Đức, Bà Rịa - Vũng Tàu Trần Đình Xu Kháng chiến chống Mỹ Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Bình Giã",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+B%C3%ACnh+Gi%C3%A3+1964+B%C3%ACnh+Gi%C3%A3%2C+Ch%C3%A2u+%C4%90%E1%BB%A9c%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+Tr%E1%BA%A7n+%C4%90%C3%ACnh+Xu+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1964
     },
     {
-      "id": "BRVT_US_WAR_02",
-      "year": 1966,
       "date": "1966-08-18",
-      "title": "Trận Long Tân",
       "description": "Trận đụng độ ác liệt giữa Đại đội D (Tiểu đoàn 6 Hoàng gia Úc) và các đơn vị thuộc Trung đoàn 275 Quân giải phóng tại rừng cao su Long Tân. Đây là trận đánh nổi tiếng nhất có sự tham gia của quân đội Úc trong chiến tranh Việt Nam.",
+      "id": "BRVT_US_WAR_02",
       "location": {
         "commune": "Long Tân",
         "district": "Đất Đỏ",
@@ -130,14 +182,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Quân sự"
-      ]
+      ],
+      "title": "Trận Long Tân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Long Tân 1966 Long Tân, Đất Đỏ, Bà Rịa - Vũng Tàu Kháng chiến chống Mỹ Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Long Tân",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Long+T%C3%A2n+1966+Long+T%C3%A2n%2C+%C4%90%E1%BA%A5t+%C4%90%E1%BB%8F%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
-      "id": "BRVT_US_WAR_03",
-      "year": 1975,
       "date": "1975-05-01",
-      "title": "Giải phóng Côn Đảo",
       "description": "Nghe tin Sài Gòn giải phóng, các tù nhân chính trị tại Côn Đảo đã nổi dậy, chiếm trại giam, làm chủ hoàn toàn đảo vào rạng sáng ngày 1/5/1975, đón tàu từ đất liền ra đón. Côn Đảo chấm dứt 113 năm là 'Địa ngục trần gian'.",
+      "id": "BRVT_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Côn Đảo",
@@ -149,14 +210,23 @@
       "tags": [
         "Giải phóng",
         "Côn Đảo"
-      ]
+      ],
+      "title": "Giải phóng Côn Đảo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Côn Đảo 1975 Côn Đảo, Bà Rịa - Vũng Tàu Lê Câu Giải phóng Côn Đảo lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Côn Đảo",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+C%C3%B4n+%C4%90%E1%BA%A3o+1975+C%C3%B4n+%C4%90%E1%BA%A3o%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+L%C3%AA+C%C3%A2u+Gi%E1%BA%A3i+ph%C3%B3ng+C%C3%B4n+%C4%90%E1%BA%A3o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "BRVT_ECONOMY_01",
-      "year": 1986,
       "date": "1986-06-26",
-      "title": "Khai thác tấn dầu thô thương mại đầu tiên (Mỏ Bạch Hổ)",
       "description": "Liên doanh Vietsovpetro đã khai thác thành công tấn dầu thô thương mại đầu tiên từ mỏ Bạch Hổ trên thềm lục địa Việt Nam. Sự kiện này đưa Việt Nam vào danh sách các nước sản xuất dầu khí trên thế giới, đánh dấu bước ngoặt của nền kinh tế.",
+      "id": "BRVT_ECONOMY_01",
       "location": {
         "commune": null,
         "district": "Thành phố Vũng Tàu",
@@ -166,14 +236,23 @@
       "tags": [
         "Kinh tế",
         "Dầu khí"
-      ]
+      ],
+      "title": "Khai thác tấn dầu thô thương mại đầu tiên (Mỏ Bạch Hổ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khai thác tấn dầu thô thương mại đầu tiên (Mỏ Bạch Hổ) 1986 Thành phố Vũng Tàu, Bà Rịa - Vũng Tàu Kinh tế Dầu khí lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khai thác tấn dầu thô thương mại đầu tiên (Mỏ Bạch Hổ)",
+          "url": "https://www.youtube.com/results?search_query=Khai+th%C3%A1c+t%E1%BA%A5n+d%E1%BA%A7u+th%C3%B4+th%C6%B0%C6%A1ng+m%E1%BA%A1i+%C4%91%E1%BA%A7u+ti%C3%AAn+%28M%E1%BB%8F+B%E1%BA%A1ch+H%E1%BB%95%29+1986+Th%C3%A0nh+ph%E1%BB%91+V%C5%A9ng+T%C3%A0u%2C+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+Kinh+t%E1%BA%BF+D%E1%BA%A7u+kh%C3%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1986
     },
     {
-      "id": "BRVT_ADMIN_01",
-      "year": 1991,
       "date": "1991-08-12",
-      "title": "Thành lập tỉnh Bà Rịa - Vũng Tàu",
       "description": "Quốc hội khóa VIII thông qua Nghị quyết thành lập tỉnh Bà Rịa - Vũng Tàu trên cơ sở Đặc khu Vũng Tàu - Côn Đảo và 3 huyện (Châu Thành, Long Đất, Xuyên Mộc) thuộc tỉnh Đồng Nai. Tỉnh chính thức đi vào hoạt động, trở thành trung tâm dầu khí, cảng biển và du lịch.",
+      "id": "BRVT_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -183,7 +262,24 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Thành lập tỉnh Bà Rịa - Vũng Tàu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Bà Rịa - Vũng Tàu 1991 Bà Rịa - Vũng Tàu Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Bà Rịa - Vũng Tàu",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+1991+B%C3%A0+R%E1%BB%8Ba+-+V%C5%A9ng+T%C3%A0u+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/BaRiaVungTau.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/BaRiaVungTau_vi.json"
+  }
 }

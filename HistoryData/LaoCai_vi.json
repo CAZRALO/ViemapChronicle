@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "LaoCai_COLONIAL_01",
-      "year": 1907,
       "date": "1907-07-12",
-      "title": "Thành lập tỉnh Lào Cai",
       "description": "Toàn quyền Đông Dương ra Nghị định bãi bỏ Đạo quan binh số 4, chuyển thành tỉnh dân sự Lào Cai. Đây là dấu mốc pháp lý chính thức xác lập đơn vị hành chính tỉnh Lào Cai trong thời kỳ Pháp thuộc.",
+      "id": "LaoCai_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Thành phố Lào Cai",
@@ -15,14 +13,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Lào Cai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Lào Cai 1907 Thành phố Lào Cai, Lào Cai Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Lào Cai",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+L%C3%A0o+Cai+1907+Th%C3%A0nh+ph%E1%BB%91+L%C3%A0o+Cai%2C+L%C3%A0o+Cai+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1907
     },
     {
-      "id": "LaoCai_COLONIAL_02",
-      "year": 1910,
       "date": "1910-04-01",
-      "title": "Khánh thành đường sắt Hải Phòng - Vân Nam",
       "description": "Tuyến đường sắt xuyên Á nối Hải Phòng (Việt Nam) với Côn Minh (Trung Quốc) chạy qua Lào Cai chính thức được khánh thành. Đây là công trình khai thác thuộc địa quy mô lớn, biến Lào Cai thành cửa ngõ giao thương quan trọng nhưng cũng cướp đi sinh mạng của hàng vạn phu phen.",
+      "id": "LaoCai_COLONIAL_02",
       "location": {
         "commune": "Lào Cai",
         "district": "Thành phố Lào Cai",
@@ -32,50 +39,75 @@
       "tags": [
         "Kinh tế",
         "Giao thông"
-      ]
+      ],
+      "title": "Khánh thành đường sắt Hải Phòng - Vân Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành đường sắt Hải Phòng - Vân Nam 1910 Lào Cai, Thành phố Lào Cai, Lào Cai Kinh tế Giao thông lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành đường sắt Hải Phòng - Vân Nam",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+%C4%91%C6%B0%E1%BB%9Dng+s%E1%BA%AFt+H%E1%BA%A3i+Ph%C3%B2ng+-+V%C3%A2n+Nam+1910+L%C3%A0o+Cai%2C+Th%C3%A0nh+ph%E1%BB%91+L%C3%A0o+Cai%2C+L%C3%A0o+Cai+Kinh+t%E1%BA%BF+Giao+th%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1910
     },
     {
+      "date": "1947-03-05",
+      "description": "Ngày 5/3/1947, tổ chức Đảng bộ tỉnh Lào Cai được thành lập trên cơ sở quá trình xây dựng lực lượng và tổ chức Đảng từ năm 1946, tạo đầu mối lãnh đạo thống nhất phong trào cách mạng trong tỉnh.",
       "id": "LaoCai_REV_01",
-      "year": 1946,
-      "date": "1946-10-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
-      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Lào Cai được thành lập tại thị xã Lào Cai và vùng mỏ Cam Đường. Sự kiện này đánh dấu bước ngoặt trong công tác lãnh đạo phong trào cách mạng tại vùng biên ải, nơi tình hình chính trị vô cùng phức tạp.",
       "location": {
         "commune": "Cam Đường",
         "district": "Thành phố Lào Cai",
         "province": "Lào Cai"
       },
-      "related_figures": [
-        "Lê Thanh Nghị"
-      ],
+      "related_figures": [],
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Đảng bộ tỉnh Lào Cai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ tỉnh Lào Cai 1947 Cam Đường, Thành phố Lào Cai, Lào Cai Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ tỉnh Lào Cai",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+t%E1%BB%89nh+L%C3%A0o+Cai+1947+Cam+%C4%90%C6%B0%E1%BB%9Dng%2C+Th%C3%A0nh+ph%E1%BB%91+L%C3%A0o+Cai%2C+L%C3%A0o+Cai+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1947
     },
     {
+      "date": "1948-10-10",
+      "description": "Ngày 10/10/1948, Chi bộ Cam Đường được thành lập tại thôn Soi Lần. Đây được xác định là chi bộ Đảng nông thôn đầu tiên của tỉnh Lào Cai, góp phần mở rộng cơ sở cách mạng ở vùng nông thôn.",
       "id": "LaoCai_FRENCH_WAR_01",
-      "year": 1947,
-      "date": "1947-02-05",
-      "title": "Thành lập Chi bộ Đảng nông thôn đầu tiên (Chi bộ Soi Cờ)",
-      "description": "Chi bộ Soi Cờ được thành lập tại xã Xuân Quang (Bảo Thắng). Đây là chi bộ đảng đầu tiên ở vùng nông thôn Lào Cai, đóng vai trò hạt nhân trong việc gây dựng cơ sở kháng chiến và lãnh đạo nhân dân đánh Pháp.",
       "location": {
-        "commune": "Xuân Quang",
-        "district": "Bảo Thắng",
+        "commune": "Soi Lần",
+        "district": "Cam Đường",
         "province": "Lào Cai"
       },
       "related_figures": [],
       "tags": [
         "Tổ chức Đảng",
         "Cơ sở cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng nông thôn đầu tiên (Chi bộ Cam Đường - Soi Lần)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng nông thôn đầu tiên (Chi bộ Cam Đường - Soi Lần) 1948 Soi Lần, Cam Đường, Lào Cai Tổ chức Đảng Cơ sở cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng nông thôn đầu tiên (Chi bộ Cam Đường - Soi Lần)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+n%C3%B4ng+th%C3%B4n+%C4%91%E1%BA%A7u+ti%C3%AAn+%28Chi+b%E1%BB%99+Cam+%C4%90%C6%B0%E1%BB%9Dng+-+Soi+L%E1%BA%A7n%29+1948+Soi+L%E1%BA%A7n%2C+Cam+%C4%90%C6%B0%E1%BB%9Dng%2C+L%C3%A0o+Cai+T%E1%BB%95+ch%E1%BB%A9c+%C4%90%E1%BA%A3ng+C%C6%A1+s%E1%BB%9F+c%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
-      "id": "LaoCai_FRENCH_WAR_02",
-      "year": 1950,
       "date": "1950-02-13",
-      "title": "Chiến thắng Phố Lu",
       "description": "Trung đoàn 102 (Trung đoàn Thủ Đô) phối hợp với bộ đội địa phương tấn công tiêu diệt cứ điểm Phố Lu. Chiến thắng này đã phá vỡ một mắt xích quan trọng trong hệ thống phòng thủ của Pháp, cắt đứt đường tiếp tế trên sông Hồng và đường 70.",
+      "id": "LaoCai_FRENCH_WAR_02",
       "location": {
         "commune": "Phố Lu",
         "district": "Bảo Thắng",
@@ -85,14 +117,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Công đồn"
-      ]
+      ],
+      "title": "Chiến thắng Phố Lu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Phố Lu 1950 Phố Lu, Bảo Thắng, Lào Cai Kháng chiến chống Pháp Công đồn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Phố Lu",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ph%E1%BB%91+Lu+1950+Ph%E1%BB%91+Lu%2C+B%E1%BA%A3o+Th%E1%BA%AFng%2C+L%C3%A0o+Cai+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+C%C3%B4ng+%C4%91%E1%BB%93n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
-      "id": "LaoCai_FRENCH_WAR_03",
-      "year": 1950,
       "date": "1950-11-01",
-      "title": "Giải phóng Lào Cai (Chiến dịch Lê Hồng Phong II)",
       "description": "Trong đợt 2 của chiến dịch biên giới, quân ta tiến vào giải phóng thị xã Lào Cai. Tàn quân Pháp rút chạy sang bên kia biên giới hoặc về xuôi. Lào Cai sạch bóng quân thù, trở thành hậu phương vững chắc nối liền với căn cứ địa Việt Bắc.",
+      "id": "LaoCai_FRENCH_WAR_03",
       "location": {
         "commune": null,
         "district": "Thành phố Lào Cai",
@@ -102,14 +143,23 @@
       "tags": [
         "Giải phóng",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng Lào Cai (Chiến dịch Lê Hồng Phong II)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Lào Cai (Chiến dịch Lê Hồng Phong II) 1950 Thành phố Lào Cai, Lào Cai Giải phóng Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Lào Cai (Chiến dịch Lê Hồng Phong II)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+L%C3%A0o+Cai+%28Chi%E1%BA%BFn+d%E1%BB%8Bch+L%C3%AA+H%E1%BB%93ng+Phong+II%29+1950+Th%C3%A0nh+ph%E1%BB%91+L%C3%A0o+Cai%2C+L%C3%A0o+Cai+Gi%E1%BA%A3i+ph%C3%B3ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
-      "id": "LaoCai_CONSTRUCTION_01",
-      "year": 1958,
       "date": "1958-09-23",
-      "title": "Bác Hồ thăm Lào Cai",
       "description": "Chủ tịch Hồ Chí Minh lên thăm tỉnh Lào Cai và vùng mỏ Apatit. Người đã nói chuyện với cán bộ, công nhân và đồng bào các dân tộc, căn dặn đoàn kết nội bộ và đẩy mạnh sản xuất công nghiệp, khai thác tài nguyên làm giàu cho đất nước.",
+      "id": "LaoCai_CONSTRUCTION_01",
       "location": {
         "commune": null,
         "district": "Thành phố Lào Cai",
@@ -121,14 +171,23 @@
       "tags": [
         "Lãnh tụ",
         "Kinh tế"
-      ]
+      ],
+      "title": "Bác Hồ thăm Lào Cai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bác Hồ thăm Lào Cai 1958 Thành phố Lào Cai, Lào Cai Hồ Chí Minh Lãnh tụ Kinh tế lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bác Hồ thăm Lào Cai",
+          "url": "https://www.youtube.com/results?search_query=B%C3%A1c+H%E1%BB%93+th%C4%83m+L%C3%A0o+Cai+1958+Th%C3%A0nh+ph%E1%BB%91+L%C3%A0o+Cai%2C+L%C3%A0o+Cai+H%E1%BB%93+Ch%C3%AD+Minh+L%C3%A3nh+t%E1%BB%A5+Kinh+t%E1%BA%BF+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1958
     },
     {
-      "id": "LaoCai_BORDER_WAR_01",
-      "year": 1979,
       "date": "1979-02-17",
-      "title": "Chiến tranh bảo vệ biên giới tại Lào Cai",
       "description": "Rạng sáng 17/2, quân đội Trung Quốc pháo kích và tấn công ồ ạt vào thị xã Lào Cai, Mường Khương, Bát Xát. Lực lượng vũ trang địa phương và bộ đội chủ lực (Sư đoàn 316, 345) đã chiến đấu quyết liệt, chặn đứng nhiều mũi tiến công của địch.",
+      "id": "LaoCai_BORDER_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Lào Cai",
@@ -138,14 +197,23 @@
       "tags": [
         "Chiến tranh biên giới 1979",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến tranh bảo vệ biên giới tại Lào Cai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến tranh bảo vệ biên giới tại Lào Cai 1979 Thành phố Lào Cai, Lào Cai Chiến tranh biên giới 1979 Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến tranh bảo vệ biên giới tại Lào Cai",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+tranh+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+t%E1%BA%A1i+L%C3%A0o+Cai+1979+Th%C3%A0nh+ph%E1%BB%91+L%C3%A0o+Cai%2C+L%C3%A0o+Cai+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+1979+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     },
     {
-      "id": "LaoCai_BORDER_WAR_02",
-      "year": 1979,
       "date": null,
-      "title": "Trận phòng ngự tại Mường Khương",
       "description": "Tại khu vực đồn biên phòng Mường Khương và các cao điểm lân cận, cán bộ chiến sĩ biên phòng và dân quân tự vệ đã chiến đấu dũng cảm trong điều kiện bị bao vây, đẩy lùi nhiều đợt sóng người của quân địch để bảo vệ đất đai Tổ quốc.",
+      "id": "LaoCai_BORDER_WAR_02",
       "location": {
         "commune": null,
         "district": "Mường Khương",
@@ -155,14 +223,23 @@
       "tags": [
         "Chiến tranh biên giới 1979",
         "Anh hùng"
-      ]
+      ],
+      "title": "Trận phòng ngự tại Mường Khương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận phòng ngự tại Mường Khương 1979 Mường Khương, Lào Cai Chiến tranh biên giới 1979 Anh hùng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận phòng ngự tại Mường Khương",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+ph%C3%B2ng+ng%E1%BB%B1+t%E1%BA%A1i+M%C6%B0%E1%BB%9Dng+Kh%C6%B0%C6%A1ng+1979+M%C6%B0%E1%BB%9Dng+Kh%C6%B0%C6%A1ng%2C+L%C3%A0o+Cai+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+1979+Anh+h%C3%B9ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     },
     {
+      "date": "1991-10-01",
+      "description": "Ngày 12/8/1991, Quốc hội khóa VIII quyết định chia tách tỉnh hợp nhất liên quan để tái lập tỉnh Lào Cai. Tỉnh Lào Cai chính thức đi vào hoạt động theo đơn vị hành chính mới từ ngày 1/10/1991.",
       "id": "LaoCai_ADMIN_01",
-      "year": 1991,
-      "date": "1991-08-12",
-      "title": "Tái lập tỉnh Lào Cai",
-      "description": "Quốc hội khóa VIII ra Nghị quyết chia tách tỉnh Hoàng Liên Sơn (được hợp nhất từ năm 1975) thành hai tỉnh Yên Bái và Lào Cai. Tỉnh Lào Cai được tái lập, bắt đầu công cuộc tái thiết thị xã vùng biên sau chiến tranh.",
       "location": {
         "commune": null,
         "district": null,
@@ -172,7 +249,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Lào Cai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Lào Cai 1991 Lào Cai Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Lào Cai",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+L%C3%A0o+Cai+1991+L%C3%A0o+Cai+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/LaoCai.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/LaoCai_vi.json"
+  }
 }

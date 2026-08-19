@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "QuangNgai_NGUYEN_01",
-      "year": 1832,
       "date": null,
-      "title": "Thành lập tỉnh Quảng Ngãi",
       "description": "Trong cuộc cải cách hành chính lớn của vua Minh Mạng, tỉnh Quảng Ngãi chính thức được thành lập trên cơ sở Doanh Quảng Ngãi. Đây là dấu mốc định hình địa giới hành chính cấp tỉnh của Quảng Ngãi như ngày nay.",
+      "id": "QuangNgai_NGUYEN_01",
       "location": {
         "commune": null,
         "district": "Thành phố Quảng Ngãi",
@@ -17,14 +15,23 @@
       "tags": [
         "Hành chính",
         "Nhà Nguyễn"
-      ]
+      ],
+      "title": "Thành lập tỉnh Quảng Ngãi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Quảng Ngãi 1832 Thành phố Quảng Ngãi, Quảng Ngãi Minh Mạng Hành chính Nhà Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Quảng Ngãi",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Qu%E1%BA%A3ng+Ng%C3%A3i+1832+Th%C3%A0nh+ph%E1%BB%91+Qu%E1%BA%A3ng+Ng%C3%A3i%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+Minh+M%E1%BA%A1ng+H%C3%A0nh+ch%C3%ADnh+Nh%C3%A0+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1832
     },
     {
-      "id": "QuangNgai_CANVUONG_01",
-      "year": 1885,
       "date": "1885-07-13",
-      "title": "Cuộc khởi nghĩa Lê Trung Đình",
       "description": "Ngay sau khi Kinh thành Huế thất thủ, cử nhân Lê Trung Đình và các sĩ phu yêu nước đã tập hợp nghĩa binh tại khu vực bãi sông Trà Khúc, đánh chiếm thành Quảng Ngãi, bắt sống Bố chánh và Án sát, lập ra chính quyền của nghĩa quân trong thời gian ngắn.",
+      "id": "QuangNgai_CANVUONG_01",
       "location": {
         "commune": null,
         "district": "Thành phố Quảng Ngãi",
@@ -37,33 +44,51 @@
       "tags": [
         "Phong trào Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Cuộc khởi nghĩa Lê Trung Đình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc khởi nghĩa Lê Trung Đình 1885 Thành phố Quảng Ngãi, Quảng Ngãi Lê Trung Đình Nguyễn Tự Tân Phong trào Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc khởi nghĩa Lê Trung Đình",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+kh%E1%BB%9Fi+ngh%C4%A9a+L%C3%AA+Trung+%C4%90%C3%ACnh+1885+Th%C3%A0nh+ph%E1%BB%91+Qu%E1%BA%A3ng+Ng%C3%A3i%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+L%C3%AA+Trung+%C4%90%C3%ACnh+Nguy%E1%BB%85n+T%E1%BB%B1+T%C3%A2n+Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
+      "date": null,
+      "description": "Giữa tháng 3/1930, tại làng Tân Hội, xã Phổ Phong, đồng chí Nguyễn Nghiêm triệu tập hội nghị và tuyên bố thành lập chi bộ cộng sản đầu tiên của Đảng bộ Quảng Ngãi; hội nghị đồng thời bầu Tỉnh ủy lâm thời do Nguyễn Nghiêm làm Bí thư.",
       "id": "QuangNgai_REV_01",
-      "year": 1930,
-      "date": "1930-03-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Dư Quang)",
-      "description": "Tại làng Dư Quang (nay thuộc huyện Tư Nghĩa), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Quảng Ngãi được thành lập do đồng chí Phan Thái Ất làm Bí thư. Sự kiện này mở đầu cho sự lãnh đạo của Đảng đối với phong trào cách mạng trong tỉnh.",
       "location": {
-        "commune": "Nghĩa Thắng",
-        "district": "Tư Nghĩa",
+        "commune": "Phổ Phong",
+        "district": "Đức Phổ",
         "province": "Quảng Ngãi"
       },
       "related_figures": [
-        "Phan Thái Ất"
+        "Nguyễn Nghiêm"
       ],
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập chi bộ cộng sản đầu tiên của Đảng bộ Quảng Ngãi tại Tân Hội",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập chi bộ cộng sản đầu tiên của Đảng bộ Quảng Ngãi tại Tân Hội 1930 Phổ Phong, Đức Phổ, Quảng Ngãi Nguyễn Nghiêm Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập chi bộ cộng sản đầu tiên của Đảng bộ Quảng Ngãi tại Tân Hội",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+chi+b%E1%BB%99+c%E1%BB%99ng+s%E1%BA%A3n+%C4%91%E1%BA%A7u+ti%C3%AAn+c%E1%BB%A7a+%C4%90%E1%BA%A3ng+b%E1%BB%99+Qu%E1%BA%A3ng+Ng%C3%A3i+t%E1%BA%A1i+T%C3%A2n+H%E1%BB%99i+1930+Ph%E1%BB%95+Phong%2C+%C4%90%E1%BB%A9c+Ph%E1%BB%95%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+Nguy%E1%BB%85n+Nghi%C3%AAm+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "QuangNgai_REV_02",
-      "year": 1945,
       "date": "1945-03-11",
-      "title": "Khởi nghĩa Ba Tơ",
       "description": "Dưới sự lãnh đạo của Tỉnh ủy lâm thời, cuộc khởi nghĩa Ba Tơ bùng nổ và thắng lợi. Đội du kích Ba Tơ được thành lập, trở thành tiền thân của lực lượng vũ trang Quân khu 5, nổi tiếng với khẩu hiệu 'Hy sinh vì Tổ quốc'.",
+      "id": "QuangNgai_REV_02",
       "location": {
         "commune": "Ba Tơ",
         "district": "Ba Tơ",
@@ -76,14 +101,23 @@
       "tags": [
         "Khởi nghĩa Ba Tơ",
         "Lực lượng vũ trang"
-      ]
+      ],
+      "title": "Khởi nghĩa Ba Tơ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Ba Tơ 1945 Ba Tơ, Ba Tơ, Quảng Ngãi Phạm Kiệt Nguyễn Đôn Khởi nghĩa Ba Tơ Lực lượng vũ trang lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Ba Tơ",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Ba+T%C6%A1+1945+Ba+T%C6%A1%2C+Ba+T%C6%A1%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+Ph%E1%BA%A1m+Ki%E1%BB%87t+Nguy%E1%BB%85n+%C4%90%C3%B4n+Kh%E1%BB%9Fi+ngh%C4%A9a+Ba+T%C6%A1+L%E1%BB%B1c+l%C6%B0%E1%BB%A3ng+v%C5%A9+trang+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "QuangNgai_REV_03",
-      "year": 1945,
       "date": "1945-08-14",
-      "title": "Giành chính quyền tại Quảng Ngãi",
-      "description": "Chớp thời cơ Nhật đầu hàng Đồng minh, Ủy ban Khởi nghĩa tỉnh đã phát động quần chúng bao vây Tòa Công sứ và Dinh Tỉnh trưởng. Đến ngày 16/8, chính quyền cách mạng hoàn toàn làm chủ tỉnh Quảng Ngãi (rất sớm so với cả nước).",
+      "description": "Ngày 14/8/1945, cuộc khởi nghĩa giành chính quyền ở Quảng Ngãi bắt đầu. Phong trào nhanh chóng lan rộng; trong những ngày tiếp theo lực lượng cách mạng giành quyền làm chủ tại tỉnh lỵ và nhiều địa phương trong tỉnh.",
+      "id": "QuangNgai_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Quảng Ngãi",
@@ -93,14 +127,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Mở đầu khởi nghĩa giành chính quyền tại Quảng Ngãi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Mở đầu khởi nghĩa giành chính quyền tại Quảng Ngãi 1945 Thành phố Quảng Ngãi, Quảng Ngãi Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Mở đầu khởi nghĩa giành chính quyền tại Quảng Ngãi",
+          "url": "https://www.youtube.com/results?search_query=M%E1%BB%9F+%C4%91%E1%BA%A7u+kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Qu%E1%BA%A3ng+Ng%C3%A3i+1945+Th%C3%A0nh+ph%E1%BB%91+Qu%E1%BA%A3ng+Ng%C3%A3i%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "QuangNgai_US_WAR_01",
-      "year": 1959,
       "date": "1959-08-28",
-      "title": "Khởi nghĩa Trà Bồng và miền Tây Quảng Ngãi",
       "description": "Dưới ánh sáng Nghị quyết 15 của Trung ương Đảng, nhân dân huyện Trà Bồng và các huyện miền núi đã nổi dậy diệt ác, phá kìm, giành quyền làm chủ. Đây là cuộc khởi nghĩa mở đầu cho thời kỳ đấu tranh vũ trang của cách mạng miền Nam.",
+      "id": "QuangNgai_US_WAR_01",
       "location": {
         "commune": "Trà Phong",
         "district": "Trà Bồng",
@@ -110,14 +153,23 @@
       "tags": [
         "Đồng khởi",
         "Nghị quyết 15"
-      ]
+      ],
+      "title": "Khởi nghĩa Trà Bồng và miền Tây Quảng Ngãi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Trà Bồng và miền Tây Quảng Ngãi 1959 Trà Phong, Trà Bồng, Quảng Ngãi Đồng khởi Nghị quyết 15 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Trà Bồng và miền Tây Quảng Ngãi",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Tr%C3%A0+B%E1%BB%93ng+v%C3%A0+mi%E1%BB%81n+T%C3%A2y+Qu%E1%BA%A3ng+Ng%C3%A3i+1959+Tr%C3%A0+Phong%2C+Tr%C3%A0+B%E1%BB%93ng%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+%C4%90%E1%BB%93ng+kh%E1%BB%9Fi+Ngh%E1%BB%8B+quy%E1%BA%BFt+15+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1959
     },
     {
-      "id": "QuangNgai_US_WAR_02",
-      "year": 1965,
       "date": "1965-05-31",
-      "title": "Chiến thắng Ba Gia",
       "description": "Trung đoàn 1 (Bộ đội chủ lực Quân khu 5) đã đánh tiêu diệt Chiến đoàn 51 của quân đội Sài Gòn tại cứ điểm Ba Gia (Sơn Tịnh). Chiến thắng này đánh dấu sự phá sản của chiến lược 'Chiến tranh đặc biệt' trên chiến trường Khu 5.",
+      "id": "QuangNgai_US_WAR_02",
       "location": {
         "commune": "Tịnh Sơn",
         "district": "Sơn Tịnh",
@@ -127,14 +179,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Ba Gia",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Ba Gia 1965 Tịnh Sơn, Sơn Tịnh, Quảng Ngãi Kháng chiến chống Mỹ Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Ba Gia",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ba+Gia+1965+T%E1%BB%8Bnh+S%C6%A1n%2C+S%C6%A1n+T%E1%BB%8Bnh%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangNgai_US_WAR_03",
-      "year": 1965,
       "date": "1965-08-18",
-      "title": "Trận Vạn Tường (Chiến dịch Starlite)",
       "description": "Quân Mỹ huy động hơn 8.000 quân với máy bay, xe tăng và tàu chiến tấn công vào thôn Vạn Tường để tiêu diệt Trung đoàn 1 chủ lực ta. Quân giải phóng đã dũng cảm đánh trả, bẻ gãy cuộc hành quân, chứng minh khả năng đánh thắng Mỹ trong 'Chiến tranh cục bộ'.",
+      "id": "QuangNgai_US_WAR_03",
       "location": {
         "commune": "Bình Hải",
         "district": "Bình Sơn",
@@ -144,14 +205,23 @@
       "tags": [
         "Vạn Tường",
         "Trận đầu đánh Mỹ"
-      ]
+      ],
+      "title": "Trận Vạn Tường (Chiến dịch Starlite)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Vạn Tường (Chiến dịch Starlite) 1965 Bình Hải, Bình Sơn, Quảng Ngãi Vạn Tường Trận đầu đánh Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Vạn Tường (Chiến dịch Starlite)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+V%E1%BA%A1n+T%C6%B0%E1%BB%9Dng+%28Chi%E1%BA%BFn+d%E1%BB%8Bch+Starlite%29+1965+B%C3%ACnh+H%E1%BA%A3i%2C+B%C3%ACnh+S%C6%A1n%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+V%E1%BA%A1n+T%C6%B0%E1%BB%9Dng+Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+%C4%91%C3%A1nh+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangNgai_US_WAR_04",
-      "year": 1968,
       "date": "1968-03-16",
-      "title": "Vụ thảm sát Sơn Mỹ (Mỹ Lai)",
       "description": "Lính Mỹ thuộc Lữ đoàn 11, Sư đoàn Americal đã gây ra vụ thảm sát kinh hoàng, giết hại 504 thường dân vô tội (chủ yếu là người già, phụ nữ và trẻ em) tại thôn Mỹ Lai, xã Tịnh Khê. Sự kiện gây chấn động lương tri toàn thế giới và thổi bùng phong trào phản chiến.",
+      "id": "QuangNgai_US_WAR_04",
       "location": {
         "commune": "Tịnh Khê",
         "district": "Thành phố Quảng Ngãi",
@@ -161,14 +231,23 @@
       "tags": [
         "Tội ác chiến tranh",
         "Sơn Mỹ"
-      ]
+      ],
+      "title": "Vụ thảm sát Sơn Mỹ (Mỹ Lai)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vụ thảm sát Sơn Mỹ (Mỹ Lai) 1968 Tịnh Khê, Thành phố Quảng Ngãi, Quảng Ngãi Tội ác chiến tranh Sơn Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vụ thảm sát Sơn Mỹ (Mỹ Lai)",
+          "url": "https://www.youtube.com/results?search_query=V%E1%BB%A5+th%E1%BA%A3m+s%C3%A1t+S%C6%A1n+M%E1%BB%B9+%28M%E1%BB%B9+Lai%29+1968+T%E1%BB%8Bnh+Kh%C3%AA%2C+Th%C3%A0nh+ph%E1%BB%91+Qu%E1%BA%A3ng+Ng%C3%A3i%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+T%E1%BB%99i+%C3%A1c+chi%E1%BA%BFn+tranh+S%C6%A1n+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "QuangNgai_US_WAR_05",
-      "year": 1975,
       "date": "1975-03-24",
-      "title": "Giải phóng tỉnh Quảng Ngãi",
       "description": "Phối hợp với chiến trường Tây Nguyên và Huế - Đà Nẵng, các lực lượng vũ trang tỉnh và bộ đội chủ lực đã tấn công dồn dập, buộc quân địch tháo chạy. Tỉnh Quảng Ngãi hoàn toàn giải phóng, góp phần vào thắng lợi chung của Đại thắng mùa Xuân.",
+      "id": "QuangNgai_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Thành phố Quảng Ngãi",
@@ -178,14 +257,23 @@
       "tags": [
         "Giải phóng",
         "Chiến dịch Xuân 1975"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Quảng Ngãi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Quảng Ngãi 1975 Thành phố Quảng Ngãi, Quảng Ngãi Giải phóng Chiến dịch Xuân 1975 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Quảng Ngãi",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+Qu%E1%BA%A3ng+Ng%C3%A3i+1975+Th%C3%A0nh+ph%E1%BB%91+Qu%E1%BA%A3ng+Ng%C3%A3i%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "1996-04-11",
+      "description": "Ngày 11/4/1996, Thủ tướng Chính phủ ban hành Quyết định 207/TTg phê duyệt quy hoạch tổng thể Khu công nghiệp Dung Quất. Đây là nền tảng cho quá trình hình thành khu công nghiệp - lọc hóa dầu Dung Quất và sự phát triển Khu kinh tế Dung Quất về sau.",
       "id": "QuangNgai_ECONOMY_01",
-      "year": 1997,
-      "date": "1997-04-11",
-      "title": "Thành lập Khu kinh tế Dung Quất",
-      "description": "Thủ tướng Chính phủ ký quyết định thành lập Khu công nghiệp Dung Quất (nay là Khu kinh tế Dung Quất). Năm 2009, Nhà máy Lọc dầu Dung Quất (nhà máy lọc dầu đầu tiên của Việt Nam) tại đây chính thức vận hành thương mại, tạo bước ngoặt kinh tế cho tỉnh.",
       "location": {
         "commune": "Bình Thuận",
         "district": "Bình Sơn",
@@ -197,7 +285,24 @@
       "tags": [
         "Kinh tế",
         "Công nghiệp hóa"
-      ]
+      ],
+      "title": "Phê duyệt quy hoạch tổng thể Khu công nghiệp Dung Quất",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Phê duyệt quy hoạch tổng thể Khu công nghiệp Dung Quất 1996 Bình Thuận, Bình Sơn, Quảng Ngãi Võ Văn Kiệt Kinh tế Công nghiệp hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Phê duyệt quy hoạch tổng thể Khu công nghiệp Dung Quất",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%AA+duy%E1%BB%87t+quy+ho%E1%BA%A1ch+t%E1%BB%95ng+th%E1%BB%83+Khu+c%C3%B4ng+nghi%E1%BB%87p+Dung+Qu%E1%BA%A5t+1996+B%C3%ACnh+Thu%E1%BA%ADn%2C+B%C3%ACnh+S%C6%A1n%2C+Qu%E1%BA%A3ng+Ng%C3%A3i+V%C3%B5+V%C4%83n+Ki%E1%BB%87t+Kinh+t%E1%BA%BF+C%C3%B4ng+nghi%E1%BB%87p+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1996
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/QuangNgai.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/QuangNgai_vi.json"
+  }
 }

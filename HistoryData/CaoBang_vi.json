@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "CaoBang_MAC_01",
-      "year": 1592,
       "date": null,
-      "title": "Nhà Mạc rút lên Cao Bằng",
       "description": "Sau khi thất thủ tại Thăng Long trước quân Lê - Trịnh, nhà Mạc rút lên vùng đất Cao Bằng xây dựng thành quách, thiết lập vương quyền và cát cứ tại đây trong hơn 80 năm (đến năm 1677), tạo nên những dấu ấn văn hóa - lịch sử đặc biệt.",
+      "id": "CaoBang_MAC_01",
       "location": {
         "commune": "Hưng Đạo",
         "district": "Thành phố Cao Bằng",
@@ -18,14 +16,23 @@
       "tags": [
         "Nhà Mạc",
         "Phong kiến"
-      ]
+      ],
+      "title": "Nhà Mạc rút lên Cao Bằng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nhà Mạc rút lên Cao Bằng 1592 Hưng Đạo, Thành phố Cao Bằng, Cao Bằng Mạc Kính Cung Mạc Kính Vũ Nhà Mạc Phong kiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nhà Mạc rút lên Cao Bằng",
+          "url": "https://www.youtube.com/results?search_query=Nh%C3%A0+M%E1%BA%A1c+r%C3%BAt+l%C3%AAn+Cao+B%E1%BA%B1ng+1592+H%C6%B0ng+%C4%90%E1%BA%A1o%2C+Th%C3%A0nh+ph%E1%BB%91+Cao+B%E1%BA%B1ng%2C+Cao+B%E1%BA%B1ng+M%E1%BA%A1c+K%C3%ADnh+Cung+M%E1%BA%A1c+K%C3%ADnh+V%C5%A9+Nh%C3%A0+M%E1%BA%A1c+Phong+ki%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1592
     },
     {
-      "id": "CaoBang_REV_01",
-      "year": 1941,
       "date": "1941-01-28",
-      "title": "Lãnh tụ Nguyễn Ái Quốc về nước",
       "description": "Sau 30 năm bôn ba tìm đường cứu nước, lãnh tụ Nguyễn Ái Quốc đã vượt qua cột mốc 108 biên giới Việt - Trung, trở về Pác Bó để trực tiếp lãnh đạo phong trào cách mạng Việt Nam.",
+      "id": "CaoBang_REV_01",
       "location": {
         "commune": "Trường Hà",
         "district": "Hà Quảng",
@@ -37,14 +44,23 @@
       "tags": [
         "Lịch sử Đảng",
         "Pác Bó"
-      ]
+      ],
+      "title": "Lãnh tụ Nguyễn Ái Quốc về nước",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lãnh tụ Nguyễn Ái Quốc về nước 1941 Trường Hà, Hà Quảng, Cao Bằng Hồ Chí Minh Lịch sử Đảng Pác Bó lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lãnh tụ Nguyễn Ái Quốc về nước",
+          "url": "https://www.youtube.com/results?search_query=L%C3%A3nh+t%E1%BB%A5+Nguy%E1%BB%85n+%C3%81i+Qu%E1%BB%91c+v%E1%BB%81+n%C6%B0%E1%BB%9Bc+1941+Tr%C6%B0%E1%BB%9Dng+H%C3%A0%2C+H%C3%A0+Qu%E1%BA%A3ng%2C+Cao+B%E1%BA%B1ng+H%E1%BB%93+Ch%C3%AD+Minh+L%E1%BB%8Bch+s%E1%BB%AD+%C4%90%E1%BA%A3ng+P%C3%A1c+B%C3%B3+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1941
     },
     {
-      "id": "CaoBang_REV_02",
-      "year": 1941,
       "date": "1941-05-19",
-      "title": "Thành lập Mặt trận Việt Minh",
       "description": "Hội nghị Trung ương Đảng lần thứ 8 do Nguyễn Ái Quốc chủ trì tại lán Khuổi Nặm (Pác Bó) đã quyết định thành lập Việt Nam Độc lập Đồng minh (gọi tắt là Việt Minh) để đoàn kết toàn dân đánh Pháp, đuổi Nhật.",
+      "id": "CaoBang_REV_02",
       "location": {
         "commune": "Trường Hà",
         "district": "Hà Quảng",
@@ -57,14 +73,23 @@
       "tags": [
         "Việt Minh",
         "Tổ chức chính trị"
-      ]
+      ],
+      "title": "Thành lập Mặt trận Việt Minh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Mặt trận Việt Minh 1941 Trường Hà, Hà Quảng, Cao Bằng Hồ Chí Minh Trường Chinh Việt Minh Tổ chức chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Mặt trận Việt Minh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+M%E1%BA%B7t+tr%E1%BA%ADn+Vi%E1%BB%87t+Minh+1941+Tr%C6%B0%E1%BB%9Dng+H%C3%A0%2C+H%C3%A0+Qu%E1%BA%A3ng%2C+Cao+B%E1%BA%B1ng+H%E1%BB%93+Ch%C3%AD+Minh+Tr%C6%B0%E1%BB%9Dng+Chinh+Vi%E1%BB%87t+Minh+T%E1%BB%95+ch%E1%BB%A9c+ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1941
     },
     {
-      "id": "CaoBang_ARMY_01",
-      "year": 1944,
       "date": "1944-12-22",
-      "title": "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân",
       "description": "Tại khu rừng Trần Hưng Đạo, Đội Việt Nam Tuyên truyền Giải phóng quân (tiền thân của Quân đội Nhân dân Việt Nam) được thành lập với 34 chiến sĩ, do đồng chí Võ Nguyên Giáp chỉ huy, thực hiện phương châm 'Chính trị trọng hơn quân sự'.",
+      "id": "CaoBang_ARMY_01",
       "location": {
         "commune": "Tam Kim",
         "district": "Nguyên Bình",
@@ -78,14 +103,23 @@
       "tags": [
         "Quân đội",
         "Thành lập tổ chức"
-      ]
+      ],
+      "title": "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân 1944 Tam Kim, Nguyên Bình, Cao Bằng Võ Nguyên Giáp Hoàng Sâm Xích Thắng Quân đội Thành lập tổ chức lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đội Việt Nam Tuyên truyền Giải phóng quân",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BB%99i+Vi%E1%BB%87t+Nam+Tuy%C3%AAn+truy%E1%BB%81n+Gi%E1%BA%A3i+ph%C3%B3ng+qu%C3%A2n+1944+Tam+Kim%2C+Nguy%C3%AAn+B%C3%ACnh%2C+Cao+B%E1%BA%B1ng+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Ho%C3%A0ng+S%C3%A2m+X%C3%ADch+Th%E1%BA%AFng+Qu%C3%A2n+%C4%91%E1%BB%99i+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%95+ch%E1%BB%A9c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1944
     },
     {
+      "date": null,
+      "description": "Ngay sau khi thành lập, Đội Việt Nam Tuyên truyền Giải phóng quân đánh đồn Phai Khắt vào chiều 25/12/1944 và tiếp tục đánh đồn Nà Ngần sáng 26/12/1944, giành hai thắng lợi mở đầu truyền thống 'đánh thắng trận đầu'.",
       "id": "CaoBang_ARMY_02",
-      "year": 1944,
-      "date": "1944-12-25",
-      "title": "Chiến thắng Phai Khắt - Nà Ngần",
-      "description": "Ngay sau khi thành lập, Đội Việt Nam Tuyên truyền Giải phóng quân đã cải trang, dùng mưu tập kích và tiêu diệt gọn hai đồn Phai Khắt và Nà Ngần, mở đầu truyền thống 'đánh thắng trận đầu' của quân đội ta.",
       "location": {
         "commune": "Tam Kim",
         "district": "Nguyên Bình",
@@ -97,14 +131,23 @@
       "tags": [
         "Trận đánh đầu tiên",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Phai Khắt - Nà Ngần (25-26/12/1944)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Phai Khắt - Nà Ngần (25-26/12/1944) 1944 Tam Kim, Nguyên Bình, Cao Bằng Võ Nguyên Giáp Trận đánh đầu tiên Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Phai Khắt - Nà Ngần (25-26/12/1944)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Phai+Kh%E1%BA%AFt+-+N%C3%A0+Ng%E1%BA%A7n+%2825-26%2F12%2F1944%29+1944+Tam+Kim%2C+Nguy%C3%AAn+B%C3%ACnh%2C+Cao+B%E1%BA%B1ng+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Tr%E1%BA%ADn+%C4%91%C3%A1nh+%C4%91%E1%BA%A7u+ti%C3%AAn+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1944
     },
     {
-      "id": "CaoBang_REV_03",
-      "year": 1945,
       "date": "1945-08-21",
-      "title": "Giành chính quyền tại thị xã Cao Bằng",
       "description": "Ủy ban Khởi nghĩa tỉnh Cao Bằng lãnh đạo quần chúng và lực lượng vũ trang tiến vào thị xã, chiếm Dinh Tỉnh trưởng và đồn lính bảo an. Chính quyền cách mạng lâm thời được thiết lập, xóa bỏ bộ máy cai trị của địch.",
+      "id": "CaoBang_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Cao Bằng",
@@ -114,14 +157,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại thị xã Cao Bằng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại thị xã Cao Bằng 1945 Thành phố Cao Bằng, Cao Bằng Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại thị xã Cao Bằng",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+th%E1%BB%8B+x%C3%A3+Cao+B%E1%BA%B1ng+1945+Th%C3%A0nh+ph%E1%BB%91+Cao+B%E1%BA%B1ng%2C+Cao+B%E1%BA%B1ng+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "CaoBang_FRENCH_WAR_01",
-      "year": 1950,
       "date": "1950-09-16",
-      "title": "Trận Đông Khê (Mở màn Chiến dịch Biên giới)",
       "description": "Quân đội ta nổ súng tấn công cụm cứ điểm Đông Khê. Sau 54 giờ chiến đấu ác liệt, ta đã tiêu diệt hoàn toàn cứ điểm này, chặt đứt mắt xích quan trọng trên tuyến phòng thủ đường số 4 của Pháp, cô lập Cao Bằng.",
+      "id": "CaoBang_FRENCH_WAR_01",
       "location": {
         "commune": "Đông Khê",
         "district": "Thạch An",
@@ -133,14 +185,23 @@
       "tags": [
         "Chiến dịch Biên giới",
         "Đông Khê"
-      ]
+      ],
+      "title": "Trận Đông Khê (Mở màn Chiến dịch Biên giới)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Đông Khê (Mở màn Chiến dịch Biên giới) 1950 Đông Khê, Thạch An, Cao Bằng La Văn Cầu Chiến dịch Biên giới Đông Khê lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Đông Khê (Mở màn Chiến dịch Biên giới)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%90%C3%B4ng+Kh%C3%AA+%28M%E1%BB%9F+m%C3%A0n+Chi%E1%BA%BFn+d%E1%BB%8Bch+Bi%C3%AAn+gi%E1%BB%9Bi%29+1950+%C4%90%C3%B4ng+Kh%C3%AA%2C+Th%E1%BA%A1ch+An%2C+Cao+B%E1%BA%B1ng+La+V%C4%83n+C%E1%BA%A7u+Chi%E1%BA%BFn+d%E1%BB%8Bch+Bi%C3%AAn+gi%E1%BB%9Bi+%C4%90%C3%B4ng+Kh%C3%AA+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
-      "id": "CaoBang_FRENCH_WAR_02",
-      "year": 1950,
       "date": "1950-10-03",
-      "title": "Giải phóng Cao Bằng",
       "description": "Sau khi mất Đông Khê và chịu thiệt hại nặng nề trong cuộc hành quân rút lui thảm họa trên đường số 4 (binh đoàn Charton và Le Page bị xóa sổ), quân Pháp buộc phải bỏ thị xã Cao Bằng. Cao Bằng trở thành tỉnh đầu tiên được giải phóng hoàn toàn.",
+      "id": "CaoBang_FRENCH_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Cao Bằng",
@@ -150,14 +211,23 @@
       "tags": [
         "Giải phóng",
         "Chiến dịch Biên giới"
-      ]
+      ],
+      "title": "Giải phóng Cao Bằng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Cao Bằng 1950 Thành phố Cao Bằng, Cao Bằng Giải phóng Chiến dịch Biên giới lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Cao Bằng",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Cao+B%E1%BA%B1ng+1950+Th%C3%A0nh+ph%E1%BB%91+Cao+B%E1%BA%B1ng%2C+Cao+B%E1%BA%B1ng+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Bi%C3%AAn+gi%E1%BB%9Bi+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
-      "id": "CaoBang_ADMIN_01",
-      "year": 1978,
       "date": "1978-12-29",
-      "title": "Tái lập tỉnh Cao Bằng",
       "description": "Kỳ họp thứ 4 Quốc hội khóa VI đã ra nghị quyết chia tách tỉnh Cao Lạng (được hợp nhất từ năm 1975) thành hai tỉnh Cao Bằng và Lạng Sơn. Tỉnh Cao Bằng trở lại địa giới hành chính cũ.",
+      "id": "CaoBang_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -167,14 +237,23 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Cao Bằng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Cao Bằng 1978 Cao Bằng Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Cao Bằng",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Cao+B%E1%BA%B1ng+1978+Cao+B%E1%BA%B1ng+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1978
     },
     {
-      "id": "CaoBang_BORDER_WAR_01",
-      "year": 1979,
       "date": "1979-02-17",
-      "title": "Chiến đấu bảo vệ biên giới phía Bắc tại Cao Bằng",
       "description": "Quân đội Trung Quốc tấn công ồ ạt vào biên giới Cao Bằng, phá hủy nặng nề thị xã Cao Bằng và khu di tích Pác Bó. Quân và dân Cao Bằng, đặc biệt là tại cầu Bằng Giang và các điểm cao biên giới, đã chiến đấu kiên cường để ngăn chặn bước tiến của địch.",
+      "id": "CaoBang_BORDER_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Cao Bằng",
@@ -184,7 +263,24 @@
       "tags": [
         "Chiến tranh biên giới 1979",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến đấu bảo vệ biên giới phía Bắc tại Cao Bằng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu bảo vệ biên giới phía Bắc tại Cao Bằng 1979 Thành phố Cao Bằng, Cao Bằng Chiến tranh biên giới 1979 Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu bảo vệ biên giới phía Bắc tại Cao Bằng",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+ph%C3%ADa+B%E1%BA%AFc+t%E1%BA%A1i+Cao+B%E1%BA%B1ng+1979+Th%C3%A0nh+ph%E1%BB%91+Cao+B%E1%BA%B1ng%2C+Cao+B%E1%BA%B1ng+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+1979+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/CaoBang.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/CaoBang_vi.json"
+  }
 }

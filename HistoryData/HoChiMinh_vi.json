@@ -1,209 +1,287 @@
 {
   "events": [
     {
-      "id": "HCMC_FOUNDING_01",
-      "year": 1698,
       "date": null,
-      "title": "Nguyễn Hữu Cảnh thiết lập phủ Gia Định",
-      "description": "Thống suất Nguyễn Hữu Cảnh vâng lệnh chúa Nguyễn Phúc Chu vào kinh lược phương Nam, chính thức xác lập đơn vị hành chính phủ Gia Định (gồm huyện Phước Long và huyện Tân Bình). Sự kiện này đánh dấu mốc khai sinh Sài Gòn - TP.HCM ngày nay trên bản đồ hành chính Đại Việt.",
+      "description": "Năm 1698, chúa Nguyễn Phúc Chu cử Nguyễn Hữu Cảnh vào kinh lược vùng đất phía Nam. Ông lập phủ Gia Định, đặt huyện Phước Long và huyện Tân Bình, tổ chức bộ máy hành chính, đánh dấu bước ngoặt trong quá trình xác lập và quản lý vùng đất Sài Gòn - Gia Định.",
+      "id": "HoChiMinh_FOUNDING_01",
       "location": {
         "commune": null,
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
+        "district": null,
+        "province": "TP. Hồ Chí Minh"
       },
       "related_figures": [
-        "Nguyễn Hữu Cảnh"
+        "Nguyễn Hữu Cảnh",
+        "Nguyễn Phúc Chu"
       ],
       "tags": [
-        "Khai hoang",
-        "Chúa Nguyễn"
-      ]
+        "Khai phá",
+        "Gia Định",
+        "Hành chính"
+      ],
+      "title": "Nguyễn Hữu Cảnh lập phủ Gia Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nguyễn Hữu Cảnh lập phủ Gia Định 1698 TP. Hồ Chí Minh Nguyễn Hữu Cảnh Nguyễn Phúc Chu Khai phá Gia Định Hành chính lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nguyễn Hữu Cảnh lập phủ Gia Định",
+          "url": "https://www.youtube.com/results?search_query=Nguy%E1%BB%85n+H%E1%BB%AFu+C%E1%BA%A3nh+l%E1%BA%ADp+ph%E1%BB%A7+Gia+%C4%90%E1%BB%8Bnh+1698+TP.+H%E1%BB%93+Ch%C3%AD+Minh+Nguy%E1%BB%85n+H%E1%BB%AFu+C%E1%BA%A3nh+Nguy%E1%BB%85n+Ph%C3%BAc+Chu+Khai+ph%C3%A1+Gia+%C4%90%E1%BB%8Bnh+H%C3%A0nh+ch%C3%ADnh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1698
     },
     {
-      "id": "HCMC_COLONIAL_01",
-      "year": 1859,
+      "date": null,
+      "description": "Năm 1790, Nguyễn Ánh cho xây thành Gia Định theo kiểu thành Vauban, còn được gọi là thành Bát Quái. Thành trở thành trung tâm quân sự, hành chính quan trọng của vùng Gia Định trong giai đoạn cuối thế kỷ XVIII.",
+      "id": "HoChiMinh_NGUYEN_01",
+      "location": {
+        "commune": null,
+        "district": "Khu vực trung tâm Sài Gòn",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [
+        "Nguyễn Ánh"
+      ],
+      "tags": [
+        "Nhà Nguyễn",
+        "Thành Gia Định",
+        "Kiến trúc quân sự"
+      ],
+      "title": "Xây thành Gia Định (thành Bát Quái)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây thành Gia Định (thành Bát Quái) 1790 Khu vực trung tâm Sài Gòn, TP. Hồ Chí Minh Nguyễn Ánh Nhà Nguyễn Thành Gia Định Kiến trúc quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây thành Gia Định (thành Bát Quái)",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+th%C3%A0nh+Gia+%C4%90%E1%BB%8Bnh+%28th%C3%A0nh+B%C3%A1t+Qu%C3%A1i%29+1790+Khu+v%E1%BB%B1c+trung+t%C3%A2m+S%C3%A0i+G%C3%B2n%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+Nguy%E1%BB%85n+%C3%81nh+Nh%C3%A0+Nguy%E1%BB%85n+Th%C3%A0nh+Gia+%C4%90%E1%BB%8Bnh+Ki%E1%BA%BFn+tr%C3%BAc+qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1790
+    },
+    {
       "date": "1859-02-17",
-      "title": "Pháp tấn công thành Gia Định",
-      "description": "Liên quân Pháp - Tây Ban Nha nổ súng tấn công và chiếm thành Gia Định. Mặc dù quân triều đình thất thủ, nhưng các nghĩa binh địa phương đã liên tục quấy rối, chặn đánh, buộc Pháp phải dùng thuốc nổ phá hủy tòa thành này vào tháng 3/1859.",
+      "description": "Ngày 17/2/1859, liên quân Pháp - Tây Ban Nha tấn công thành Gia Định. Sau giao tranh ác liệt, thành thất thủ, mở đầu quá trình quân Pháp mở rộng chiến tranh xâm lược ở Nam Kỳ.",
+      "id": "HoChiMinh_COLONIAL_01",
       "location": {
-        "commune": "Bến Nghé",
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
+        "commune": null,
+        "district": "Khu vực trung tâm Sài Gòn",
+        "province": "TP. Hồ Chí Minh"
       },
       "related_figures": [
-        "Rigault de Genouilly"
+        "Võ Duy Ninh"
       ],
       "tags": [
-        "Pháp thuộc",
-        "Chống ngoại xâm"
-      ]
+        "Pháp xâm lược",
+        "Thành Gia Định"
+      ],
+      "title": "Thành Gia Định thất thủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành Gia Định thất thủ 1859 Khu vực trung tâm Sài Gòn, TP. Hồ Chí Minh Võ Duy Ninh Pháp xâm lược Thành Gia Định lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành Gia Định thất thủ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+Gia+%C4%90%E1%BB%8Bnh+th%E1%BA%A5t+th%E1%BB%A7+1859+Khu+v%E1%BB%B1c+trung+t%C3%A2m+S%C3%A0i+G%C3%B2n%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+V%C3%B5+Duy+Ninh+Ph%C3%A1p+x%C3%A2m+l%C6%B0%E1%BB%A3c+Th%C3%A0nh+Gia+%C4%90%E1%BB%8Bnh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1859
     },
     {
-      "id": "HCMC_REV_01",
-      "year": 1911,
-      "date": "1911-06-05",
-      "title": "Bác Hồ ra đi tìm đường cứu nước",
-      "description": "Tại Bến cảng Nhà Rồng, người thanh niên Nguyễn Tất Thành (với tên gọi Văn Ba) đã lên con tàu Amiral Latouche Tréville, bắt đầu hành trình bôn ba 30 năm qua các đại dương để tìm con đường giải phóng cho dân tộc Việt Nam.",
+      "date": "1861-02-25",
+      "description": "Ngày 25/2/1861, sau trận giao chiến lớn tại phòng tuyến Chí Hòa, Đại đồn Chí Hòa thất thủ trước lực lượng viễn chinh Pháp. Sự kiện làm thay đổi cục diện chiến sự tại Gia Định và tạo điều kiện để quân Pháp mở rộng chiếm đóng Nam Kỳ.",
+      "id": "HoChiMinh_COLONIAL_02",
       "location": {
-        "commune": "Phường 12",
+        "commune": null,
+        "district": "Khu vực Chí Hòa",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [
+        "Nguyễn Tri Phương"
+      ],
+      "tags": [
+        "Kháng Pháp",
+        "Đại đồn Chí Hòa"
+      ],
+      "title": "Đại đồn Chí Hòa thất thủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đại đồn Chí Hòa thất thủ 1861 Khu vực Chí Hòa, TP. Hồ Chí Minh Nguyễn Tri Phương Kháng Pháp Đại đồn Chí Hòa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đại đồn Chí Hòa thất thủ",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%E1%BA%A1i+%C4%91%E1%BB%93n+Ch%C3%AD+H%C3%B2a+th%E1%BA%A5t+th%E1%BB%A7+1861+Khu+v%E1%BB%B1c+Ch%C3%AD+H%C3%B2a%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+Nguy%E1%BB%85n+Tri+Ph%C6%B0%C6%A1ng+Kh%C3%A1ng+Ph%C3%A1p+%C4%90%E1%BA%A1i+%C4%91%E1%BB%93n+Ch%C3%AD+H%C3%B2a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1861
+    },
+    {
+      "date": "1911-06-05",
+      "description": "Ngày 5/6/1911, từ Bến Nhà Rồng, người thanh niên Nguyễn Tất Thành rời Sài Gòn trên tàu Amiral Latouche-Tréville, bắt đầu hành trình ra nước ngoài tìm con đường giải phóng dân tộc.",
+      "id": "HoChiMinh_HCM_01",
+      "location": {
+        "commune": null,
         "district": "Quận 4",
-        "province": "Thành phố Hồ Chí Minh"
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [
+        "Nguyễn Tất Thành"
+      ],
+      "tags": [
+        "Hồ Chí Minh",
+        "Bến Nhà Rồng"
+      ],
+      "title": "Nguyễn Tất Thành rời Bến Nhà Rồng tìm đường cứu nước",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nguyễn Tất Thành rời Bến Nhà Rồng tìm đường cứu nước 1911 Quận 4, TP. Hồ Chí Minh Nguyễn Tất Thành Hồ Chí Minh Bến Nhà Rồng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nguyễn Tất Thành rời Bến Nhà Rồng tìm đường cứu nước",
+          "url": "https://www.youtube.com/results?search_query=Nguy%E1%BB%85n+T%E1%BA%A5t+Th%C3%A0nh+r%E1%BB%9Di+B%E1%BA%BFn+Nh%C3%A0+R%E1%BB%93ng+t%C3%ACm+%C4%91%C6%B0%E1%BB%9Dng+c%E1%BB%A9u+n%C6%B0%E1%BB%9Bc+1911+Qu%E1%BA%ADn+4%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+Nguy%E1%BB%85n+T%E1%BA%A5t+Th%C3%A0nh+H%E1%BB%93+Ch%C3%AD+Minh+B%E1%BA%BFn+Nh%C3%A0+R%E1%BB%93ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1911
+    },
+    {
+      "date": "1945-08-25",
+      "description": "Ngày 25/8/1945, hàng vạn quần chúng tại Sài Gòn - Chợ Lớn - Gia Định xuống đường, lực lượng cách mạng tiếp quản các cơ quan trọng yếu và giành chính quyền, góp phần vào thắng lợi chung của Cách mạng tháng Tám.",
+      "id": "HoChiMinh_REV_01",
+      "location": {
+        "commune": null,
+        "district": "Sài Gòn - Chợ Lớn",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ],
+      "title": "Giành chính quyền tại Sài Gòn - Chợ Lớn - Gia Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Sài Gòn - Chợ Lớn - Gia Định 1945 Sài Gòn - Chợ Lớn, TP. Hồ Chí Minh Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Sài Gòn - Chợ Lớn - Gia Định",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+S%C3%A0i+G%C3%B2n+-+Ch%E1%BB%A3+L%E1%BB%9Bn+-+Gia+%C4%90%E1%BB%8Bnh+1945+S%C3%A0i+G%C3%B2n+-+Ch%E1%BB%A3+L%E1%BB%9Bn%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
+    },
+    {
+      "date": "1945-09-23",
+      "description": "Rạng sáng 23/9/1945, quân Pháp nổ súng đánh chiếm nhiều vị trí tại Sài Gòn. Nhân dân Nam Bộ đứng lên kháng chiến, mở đầu cuộc chiến đấu chống thực dân Pháp trở lại xâm lược ở Nam Bộ.",
+      "id": "HoChiMinh_FRENCH_WAR_01",
+      "location": {
+        "commune": null,
+        "district": "Sài Gòn",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Nam Bộ kháng chiến",
+        "Kháng chiến chống Pháp"
+      ],
+      "title": "Nam Bộ kháng chiến bùng nổ tại Sài Gòn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nam Bộ kháng chiến bùng nổ tại Sài Gòn 1945 Sài Gòn, TP. Hồ Chí Minh Nam Bộ kháng chiến Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nam Bộ kháng chiến bùng nổ tại Sài Gòn",
+          "url": "https://www.youtube.com/results?search_query=Nam+B%E1%BB%99+kh%C3%A1ng+chi%E1%BA%BFn+b%C3%B9ng+n%E1%BB%95+t%E1%BA%A1i+S%C3%A0i+G%C3%B2n+1945+S%C3%A0i+G%C3%B2n%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+Nam+B%E1%BB%99+kh%C3%A1ng+chi%E1%BA%BFn+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
+    },
+    {
+      "date": "1968-01-31",
+      "description": "Trong Tết Mậu Thân 1968, lực lượng cách mạng đồng loạt tiến công nhiều mục tiêu quan trọng tại Sài Gòn - Gia Định, trong đó có Dinh Độc Lập, Tòa Đại sứ Mỹ, Bộ Tổng tham mưu và Đài Phát thanh. Đây là một mặt trận trọng điểm của cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân.",
+      "id": "HoChiMinh_US_WAR_01",
+      "location": {
+        "commune": null,
+        "district": "Sài Gòn - Gia Định",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Tết Mậu Thân",
+        "Kháng chiến chống Mỹ"
+      ],
+      "title": "Tổng tiến công và nổi dậy Xuân Mậu Thân tại Sài Gòn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng tiến công và nổi dậy Xuân Mậu Thân tại Sài Gòn 1968 Sài Gòn - Gia Định, TP. Hồ Chí Minh Tết Mậu Thân Kháng chiến chống Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng tiến công và nổi dậy Xuân Mậu Thân tại Sài Gòn",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+v%C3%A0+n%E1%BB%95i+d%E1%BA%ADy+Xu%C3%A2n+M%E1%BA%ADu+Th%C3%A2n+t%E1%BA%A1i+S%C3%A0i+G%C3%B2n+1968+S%C3%A0i+G%C3%B2n+-+Gia+%C4%90%E1%BB%8Bnh%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
+    },
+    {
+      "date": "1975-04-30",
+      "description": "Trưa 30/4/1975, các cánh quân của Chiến dịch Hồ Chí Minh tiến vào trung tâm Sài Gòn; xe tăng tiến vào Dinh Độc Lập và chính quyền Việt Nam Cộng hòa tuyên bố đầu hàng. Sài Gòn - Gia Định được giải phóng, chiến tranh kết thúc và đất nước đi tới thống nhất.",
+      "id": "HoChiMinh_US_WAR_02",
+      "location": {
+        "commune": null,
+        "district": "Sài Gòn",
+        "province": "TP. Hồ Chí Minh"
+      },
+      "related_figures": [],
+      "tags": [
+        "Chiến dịch Hồ Chí Minh",
+        "Giải phóng",
+        "30/4/1975"
+      ],
+      "title": "Giải phóng Sài Gòn - Gia Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Sài Gòn - Gia Định 1975 Sài Gòn, TP. Hồ Chí Minh Chiến dịch Hồ Chí Minh Giải phóng 30/4/1975 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Sài Gòn - Gia Định",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+S%C3%A0i+G%C3%B2n+-+Gia+%C4%90%E1%BB%8Bnh+1975+S%C3%A0i+G%C3%B2n%2C+TP.+H%E1%BB%93+Ch%C3%AD+Minh+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%E1%BB%93+Ch%C3%AD+Minh+Gi%E1%BA%A3i+ph%C3%B3ng+30%2F4%2F1975+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
+    },
+    {
+      "date": "1976-07-02",
+      "description": "Ngày 2/7/1976, Quốc hội khóa VI quyết định đổi tên thành phố Sài Gòn - Gia Định thành Thành phố Hồ Chí Minh, chính thức xác lập tên gọi của đô thị lớn nhất phía Nam trong giai đoạn đất nước thống nhất.",
+      "id": "HoChiMinh_ADMIN_01",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "TP. Hồ Chí Minh"
       },
       "related_figures": [
         "Hồ Chí Minh"
       ],
       "tags": [
-        "Lãnh tụ",
-        "Sự kiện lịch sử"
-      ]
-    },
-    {
-      "id": "HCMC_REV_02",
-      "year": 1925,
-      "date": "1925-08-04",
-      "title": "Cuộc bãi công Ba Son",
-      "description": "Dưới sự lãnh đạo của Công hội Đỏ (do Tôn Đức Thắng tổ chức), công nhân Xưởng đóng tàu Ba Son đã tổ chức bãi công để ngăn cản Pháp sửa chữa tàu chiến sang đàn áp cách mạng Trung Quốc. Đây là cuộc bãi công chính trị đầu tiên của giai cấp công nhân Việt Nam.",
-      "location": {
-        "commune": "Bến Nghé",
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [
-        "Tôn Đức Thắng"
-      ],
-      "tags": [
-        "Phong trào công nhân",
-        "Ba Son"
-      ]
-    },
-    {
-      "id": "HCMC_REV_03",
-      "year": 1940,
-      "date": "1940-11-23",
-      "title": "Nam Kỳ Khởi Nghĩa",
-      "description": "Xứ ủy Nam Kỳ phát lệnh khởi nghĩa. Tại Sài Gòn và các vùng phụ cận (Hóc Môn, Gò Vấp...), nhân dân đã nổi dậy đánh phá đồn bốt, cắt dây điện thoại. Tuy thất bại, nhưng sự kiện này lần đầu tiên xuất hiện lá Cờ đỏ sao vàng và để lại bài học xương máu về khởi nghĩa vũ trang.",
-      "location": {
-        "commune": null,
-        "district": "Hóc Môn",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [
-        "Phan Đăng Lưu",
-        "Hà Huy Tập"
-      ],
-      "tags": [
-        "Khởi nghĩa",
-        "Cờ đỏ sao vàng"
-      ]
-    },
-    {
-      "id": "HCMC_REV_04",
-      "year": 1945,
-      "date": "1945-08-25",
-      "title": "Giành chính quyền tại Sài Gòn",
-      "description": "Hơn 1 triệu đồng bào Sài Gòn - Chợ Lớn - Gia Định đã xuống đường tuần hành thị uy, chiếm Dinh Khâm sai, Sở Cảnh sát và các cơ quan đầu não. Ủy ban Hành chính Lâm thời Nam Bộ (Lâm ủy Nam Bộ) ra mắt nhân dân do ông Trần Văn Giàu làm Chủ tịch.",
-      "location": {
-        "commune": null,
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [
-        "Trần Văn Giàu"
-      ],
-      "tags": [
-        "Cách mạng tháng Tám",
-        "Giành chính quyền"
-      ]
-    },
-    {
-      "id": "HCMC_FRENCH_WAR_01",
-      "year": 1945,
-      "date": "1945-09-23",
-      "title": "Ngày Nam Bộ Kháng Chiến",
-      "description": "Thực dân Pháp được quân Anh hỗ trợ đã nổ súng đánh chiếm trụ sở Ủy ban nhân dân Nam Bộ. Nhân dân Sài Gòn đã lập tức dựng chướng ngại vật, triệt phá đường sá, mở đầu cho cuộc kháng chiến chống Pháp tái xâm lược với tinh thần 'Thà chết tự do còn hơn sống nô lệ'.",
-      "location": {
-        "commune": null,
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [],
-      "tags": [
-        "Kháng chiến chống Pháp",
-        "Sự kiện lịch sử"
-      ]
-    },
-    {
-      "id": "HCMC_US_WAR_01",
-      "year": 1963,
-      "date": "1963-06-11",
-      "title": "Hòa thượng Thích Quảng Đức tự thiêu",
-      "description": "Tại ngã tư Phan Đình Phùng - Lê Văn Duyệt (nay là CMT8 - Nguyễn Đình Chiểu), Hòa thượng Thích Quảng Đức đã tự thiêu để phản đối chính sách đàn áp Phật giáo của chính quyền Ngô Đình Diệm. Hình ảnh 'ngọn lửa thiêng' đã gây chấn động toàn cầu, dẫn đến sự sụp đổ của chế độ Diệm.",
-      "location": {
-        "commune": "Võ Thị Sáu",
-        "district": "Quận 3",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [
-        "Thích Quảng Đức"
-      ],
-      "tags": [
-        "Phật giáo",
-        "Đấu tranh chính trị"
-      ]
-    },
-    {
-      "id": "HCMC_US_WAR_02",
-      "year": 1968,
-      "date": "1968-01-31",
-      "title": "Tổng tiến công và nổi dậy Tết Mậu Thân (Sài Gòn)",
-      "description": "Biệt động Sài Gòn và các tiểu đoàn mũi nhọn bất ngờ tấn công đồng loạt vào các mục tiêu đầu não: Tòa Đại sứ Mỹ, Dinh Độc Lập, Đài Phát thanh, Bộ Tổng tham mưu... Trận đánh làm rúng động nước Mỹ, buộc Mỹ phải xuống thang chiến tranh và ngồi vào bàn đàm phán Paris.",
-      "location": {
-        "commune": null,
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [],
-      "tags": [
-        "Tết Mậu Thân",
-        "Biệt động Sài Gòn"
-      ]
-    },
-    {
-      "id": "HCMC_US_WAR_03",
-      "year": 1975,
-      "date": "1975-04-30",
-      "title": "Giải phóng Sài Gòn - Thống nhất đất nước",
-      "description": "11 giờ 30 phút, xe tăng 390 và 843 húc đổ cổng Dinh Độc Lập. Tổng thống Dương Văn Minh tuyên bố đầu hàng vô điều kiện. Cờ Mặt trận Dân tộc Giải phóng tung bay trên nóc dinh, Chiến dịch Hồ Chí Minh toàn thắng, chấm dứt 30 năm chiến tranh, đất nước thống nhất.",
-      "location": {
-        "commune": "Bến Thành",
-        "district": "Quận 1",
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [
-        "Bùi Quang Thận",
-        "Dương Văn Minh"
-      ],
-      "tags": [
-        "Chiến dịch Hồ Chí Minh",
-        "Ngày thống nhất"
-      ]
-    },
-    {
-      "id": "HCMC_ADMIN_01",
-      "year": 1976,
-      "date": "1976-07-02",
-      "title": "Chính thức mang tên Thành phố Hồ Chí Minh",
-      "description": "Tại kỳ họp thứ nhất, Quốc hội khóa VI (Quốc hội thống nhất) đã ra Nghị quyết chính thức đổi tên Thành phố Sài Gòn - Gia Định thành Thành phố Hồ Chí Minh. Đây là vinh dự to lớn, khẳng định vị thế của thành phố mang tên Bác.",
-      "location": {
-        "commune": null,
-        "district": null,
-        "province": "Thành phố Hồ Chí Minh"
-      },
-      "related_figures": [],
-      "tags": [
         "Hành chính",
-        "Đổi tên"
-      ]
+        "Tên gọi",
+        "Thành phố Hồ Chí Minh"
+      ],
+      "title": "Sài Gòn - Gia Định chính thức mang tên Thành phố Hồ Chí Minh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sài Gòn - Gia Định chính thức mang tên Thành phố Hồ Chí Minh 1976 TP. Hồ Chí Minh Hồ Chí Minh Hành chính Tên gọi Thành phố Hồ Chí Minh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sài Gòn - Gia Định chính thức mang tên Thành phố Hồ Chí Minh",
+          "url": "https://www.youtube.com/results?search_query=S%C3%A0i+G%C3%B2n+-+Gia+%C4%90%E1%BB%8Bnh+ch%C3%ADnh+th%E1%BB%A9c+mang+t%C3%AAn+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+1976+TP.+H%E1%BB%93+Ch%C3%AD+Minh+H%E1%BB%93+Ch%C3%AD+Minh+H%C3%A0nh+ch%C3%ADnh+T%C3%AAn+g%E1%BB%8Di+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1976
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HoChiMinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HoChiMinh_vi.json"
+  }
 }

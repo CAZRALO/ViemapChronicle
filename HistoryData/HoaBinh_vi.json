@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "HoaBinh_COLONIAL_01",
-      "year": 1886,
       "date": "1886-06-22",
-      "title": "Thành lập tỉnh Mường (tiền thân tỉnh Hòa Bình)",
-      "description": "Toàn quyền Đông Dương Paul Bert ký Nghị định thành lập tỉnh Mường, tách vùng đất có đông người Mường cư trú từ tỉnh Hưng Hóa và Sơn Tây. Tỉnh lỵ đặt tại Chợ Bờ (nay thuộc huyện Đà Bắc). Đến tháng 11/1886, tỉnh Mường đổi tên thành tỉnh Hòa Bình.",
+      "description": "Ngày 22/6/1886, chính quyền Pháp thành lập tỉnh Mường, tỉnh lỵ ban đầu đặt tại Chợ Bờ. Sau nhiều lần điều chỉnh, đến ngày 5/9/1896 tỉnh chính thức mang tên Hòa Bình.",
+      "id": "HoaBinh_COLONIAL_01",
       "location": {
         "commune": "Vầy Nưa",
         "district": "Đà Bắc",
@@ -17,14 +15,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Mường (tiền thân tỉnh Hòa Bình)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Mường (tiền thân tỉnh Hòa Bình) 1886 Vầy Nưa, Đà Bắc, Hòa Bình Paul Bert Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Mường (tiền thân tỉnh Hòa Bình)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+M%C6%B0%E1%BB%9Dng+%28ti%E1%BB%81n+th%C3%A2n+t%E1%BB%89nh+H%C3%B2a+B%C3%ACnh%29+1886+V%E1%BA%A7y+N%C6%B0a%2C+%C4%90%C3%A0+B%E1%BA%AFc%2C+H%C3%B2a+B%C3%ACnh+Paul+Bert+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1886
     },
     {
-      "id": "HoaBinh_REV_01",
-      "year": 1945,
       "date": "1945-08-23",
-      "title": "Giành chính quyền tại tỉnh lỵ Phương Lâm",
       "description": "Lực lượng Việt Minh và quần chúng nhân dân đã khởi nghĩa giành chính quyền tại châu lỵ Kỳ Sơn và tỉnh lỵ Phương Lâm (nay thuộc thành phố Hòa Bình). Ủy ban Cách mạng lâm thời tỉnh Hòa Bình được thành lập do đồng chí Vũ Thơ làm Chủ tịch.",
+      "id": "HoaBinh_REV_01",
       "location": {
         "commune": "Phương Lâm",
         "district": "Thành phố Hòa Bình",
@@ -36,31 +43,50 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại tỉnh lỵ Phương Lâm",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại tỉnh lỵ Phương Lâm 1945 Phương Lâm, Thành phố Hòa Bình, Hòa Bình Vũ Thơ Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại tỉnh lỵ Phương Lâm",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+Ph%C6%B0%C6%A1ng+L%C3%A2m+1945+Ph%C6%B0%C6%A1ng+L%C3%A2m%2C+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh%2C+H%C3%B2a+B%C3%ACnh+V%C5%A9+Th%C6%A1+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": null,
+      "description": "Trong thời kỳ tiền khởi nghĩa năm 1945, vùng Mường Khói (Lạc Sơn) được xây dựng thành căn cứ cách mạng quan trọng của Hòa Bình. Từ đây, lực lượng Việt Minh gây dựng cơ sở, huấn luyện lực lượng và chuẩn bị cho cuộc Tổng khởi nghĩa giành chính quyền.",
       "id": "HoaBinh_REV_02",
-      "year": 1947,
-      "date": "1947-05-22",
-      "title": "Thành lập Ban Cán sự Đảng tỉnh Hòa Bình",
-      "description": "Khu ủy Khu 2 ra quyết định thành lập Ban Cán sự Đảng tỉnh Hòa Bình (tiền thân của Tỉnh ủy Hòa Bình). Sự kiện này đánh dấu bước ngoặt quan trọng trong công tác lãnh đạo, chỉ đạo kháng chiến và kiến quốc tại địa phương.",
       "location": {
-        "commune": null,
-        "district": null,
+        "commune": "Ân Nghĩa",
+        "district": "Lạc Sơn",
         "province": "Hòa Bình"
       },
       "related_figures": [],
       "tags": [
-        "Thành lập Đảng",
-        "Chính trị"
-      ]
+        "Cách mạng tháng Tám",
+        "Căn cứ cách mạng",
+        "Mường Khói"
+      ],
+      "title": "Xây dựng Chiến khu Mường Khói",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Chiến khu Mường Khói 1945 Ân Nghĩa, Lạc Sơn, Hòa Bình Cách mạng tháng Tám Căn cứ cách mạng Mường Khói lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Chiến khu Mường Khói",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+Chi%E1%BA%BFn+khu+M%C6%B0%E1%BB%9Dng+Kh%C3%B3i+1945+%C3%82n+Ngh%C4%A9a%2C+L%E1%BA%A1c+S%C6%A1n%2C+H%C3%B2a+B%C3%ACnh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+C%C4%83n+c%E1%BB%A9+c%C3%A1ch+m%E1%BA%A1ng+M%C6%B0%E1%BB%9Dng+Kh%C3%B3i+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HoaBinh_FRENCH_WAR_01",
-      "year": 1951,
       "date": "1951-12-10",
-      "title": "Mở màn Chiến dịch Hòa Bình",
       "description": "Quân đội Nhân dân Việt Nam mở chiến dịch tiến công lớn vào phòng tuyến sông Đà và thị xã Hòa Bình, nhằm phá tan âm mưu chiếm đóng vùng tự do và cắt đứt liên lạc giữa Việt Bắc với Liên khu 3, Liên khu 4 của thực dân Pháp.",
+      "id": "HoaBinh_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Hòa Bình",
@@ -72,14 +98,23 @@
       "tags": [
         "Chiến dịch Hòa Bình",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Mở màn Chiến dịch Hòa Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Mở màn Chiến dịch Hòa Bình 1951 Thành phố Hòa Bình, Hòa Bình Võ Nguyên Giáp Chiến dịch Hòa Bình Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Mở màn Chiến dịch Hòa Bình",
+          "url": "https://www.youtube.com/results?search_query=M%E1%BB%9F+m%C3%A0n+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%C3%B2a+B%C3%ACnh+1951+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh%2C+H%C3%B2a+B%C3%ACnh+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%C3%B2a+B%C3%ACnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1951
     },
     {
-      "id": "HoaBinh_FRENCH_WAR_02",
-      "year": 1951,
       "date": "1951-12-13",
-      "title": "Trận Giang Mỗ (Anh hùng Cù Chính Lan)",
       "description": "Tại dốc Giang Mỗ (đường số 6), Tiểu đội trưởng Cù Chính Lan đã dũng cảm nhảy lên xe tăng Pháp, ném lựu đạn vào buồng lái tiêu diệt xe. Hành động quả cảm của anh đã trở thành biểu tượng anh hùng của chiến dịch Hòa Bình.",
+      "id": "HoaBinh_FRENCH_WAR_02",
       "location": {
         "commune": "Bình Thanh",
         "district": "Cao Phong",
@@ -91,14 +126,23 @@
       "tags": [
         "Chiến dịch Hòa Bình",
         "Anh hùng"
-      ]
+      ],
+      "title": "Trận Giang Mỗ (Anh hùng Cù Chính Lan)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Giang Mỗ (Anh hùng Cù Chính Lan) 1951 Bình Thanh, Cao Phong, Hòa Bình Cù Chính Lan Chiến dịch Hòa Bình Anh hùng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Giang Mỗ (Anh hùng Cù Chính Lan)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Giang+M%E1%BB%97+%28Anh+h%C3%B9ng+C%C3%B9+Ch%C3%ADnh+Lan%29+1951+B%C3%ACnh+Thanh%2C+Cao+Phong%2C+H%C3%B2a+B%C3%ACnh+C%C3%B9+Ch%C3%ADnh+Lan+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%C3%B2a+B%C3%ACnh+Anh+h%C3%B9ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1951
     },
     {
-      "id": "HoaBinh_FRENCH_WAR_03",
-      "year": 1952,
       "date": "1952-02-23",
-      "title": "Giải phóng thị xã Hòa Bình",
-      "description": "Bị thiệt hại nặng nề và có nguy cơ bị bao vây tiêu diệt, quân Pháp buộc phải rút chạy khỏi thị xã Hòa Bình theo đường sông Đà. Chiến dịch Hòa Bình kết thúc thắng lợi, vùng giải phóng được mở rộng nối liền Tây Bắc và Việt Bắc.",
+      "description": "Ngày 23/2/1952, quân Pháp rút khỏi thị xã Hòa Bình trước sức ép của quân đội Việt Nam. Chiến dịch Hòa Bình tiếp tục đến ngày 25/2/1952 và kết thúc thắng lợi, góp phần phá âm mưu chiếm đóng và mở rộng vùng căn cứ của ta.",
+      "id": "HoaBinh_FRENCH_WAR_03",
       "location": {
         "commune": null,
         "district": "Thành phố Hòa Bình",
@@ -108,50 +152,23 @@
       "tags": [
         "Giải phóng",
         "Chiến dịch Hòa Bình"
-      ]
-    },
-    {
-      "id": "HoaBinh_ECONOMY_01",
-      "year": 1958,
-      "date": "1958-04-01",
-      "title": "Thành lập Trường Thanh niên Lao động Xã hội chủ nghĩa",
-      "description": "Trường Thanh niên Lao động Xã hội chủ nghĩa Hòa Bình được thành lập tại xã Yên Mông. Đây là mô hình giáo dục mới 'vừa học vừa làm', đào tạo cán bộ cốt cán cho miền núi và là lá cờ đầu của ngành giáo dục miền Bắc lúc bấy giờ.",
-      "location": {
-        "commune": "Yên Mông",
-        "district": "Thành phố Hòa Bình",
-        "province": "Hòa Bình"
-      },
-      "related_figures": [
-        "Hồ Chí Minh"
       ],
-      "tags": [
-        "Giáo dục",
-        "Mô hình điểm"
-      ]
+      "title": "Giải phóng thị xã Hòa Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Hòa Bình 1952 Thành phố Hòa Bình, Hòa Bình Giải phóng Chiến dịch Hòa Bình lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Hòa Bình",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+H%C3%B2a+B%C3%ACnh+1952+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh%2C+H%C3%B2a+B%C3%ACnh+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%C3%B2a+B%C3%ACnh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "HoaBinh_US_WAR_01",
-      "year": 1966,
-      "date": null,
-      "title": "Chiến đấu chống chiến tranh phá hoại của Mỹ",
-      "description": "Trong cuộc chiến tranh phá hoại lần thứ nhất, không quân Mỹ đã ném bom ác liệt vào thị xã Hòa Bình, Nhà máy in tiền (Chi Nê) và các tuyến giao thông. Quân dân Hòa Bình đã bắn rơi nhiều máy bay, trong đó dân quân Lạc Thủy bắn rơi chiếc F-4.",
-      "location": {
-        "commune": null,
-        "district": "Lạc Thủy",
-        "province": "Hòa Bình"
-      },
-      "related_figures": [],
-      "tags": [
-        "Kháng chiến chống Mỹ",
-        "Phòng không"
-      ]
-    },
-    {
-      "id": "HoaBinh_ADMIN_01",
-      "year": 1975,
       "date": "1975-12-27",
-      "title": "Thành lập tỉnh Hà Sơn Bình",
       "description": "Tại kỳ họp thứ 2, Quốc hội khóa V đã thông qua Nghị quyết hợp nhất hai tỉnh Hà Tây và Hòa Bình thành tỉnh Hà Sơn Bình. Đây là chủ trương chiến lược nhằm xây dựng các đơn vị hành chính quy mô lớn sau ngày thống nhất đất nước.",
+      "id": "HoaBinh_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -161,14 +178,77 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hà Sơn Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hà Sơn Bình 1975 Hòa Bình Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hà Sơn Bình",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+S%C6%A1n+B%C3%ACnh+1975+H%C3%B2a+B%C3%ACnh+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "HoaBinh_ADMIN_02",
-      "year": 1991,
+      "date": "1979-11-06",
+      "description": "Ngày 6/11/1979, công trình Nhà máy Thủy điện Hòa Bình trên sông Đà được khởi công với sự giúp đỡ của Liên Xô. Công trình trở thành một trong những dự án năng lượng và thủy lợi quan trọng nhất của Việt Nam trong thế kỷ XX.",
+      "id": "HoaBinh_US_WAR_01",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hòa Bình",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thủy điện Hòa Bình",
+        "Xây dựng",
+        "Năng lượng"
+      ],
+      "title": "Khởi công Nhà máy Thủy điện Hòa Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công Nhà máy Thủy điện Hòa Bình 1979 Thành phố Hòa Bình, Hòa Bình Thủy điện Hòa Bình Xây dựng Năng lượng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công Nhà máy Thủy điện Hòa Bình",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+Nh%C3%A0+m%C3%A1y+Th%E1%BB%A7y+%C4%91i%E1%BB%87n+H%C3%B2a+B%C3%ACnh+1979+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh%2C+H%C3%B2a+B%C3%ACnh+Th%E1%BB%A7y+%C4%91i%E1%BB%87n+H%C3%B2a+B%C3%ACnh+X%C3%A2y+d%E1%BB%B1ng+N%C4%83ng+l%C6%B0%E1%BB%A3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
+    },
+    {
+      "date": "1988-12-30",
+      "description": "Ngày 30/12/1988, tổ máy số 1 của Nhà máy Thủy điện Hòa Bình chính thức hòa vào lưới điện quốc gia. Đây là mốc quan trọng của công trình thủy điện lớn trên sông Đà, góp phần bảo đảm điện năng, chống lũ và phát triển kinh tế - xã hội.",
+      "id": "HoaBinh_ECONOMY_01",
+      "location": {
+        "commune": null,
+        "district": "Thành phố Hòa Bình",
+        "province": "Hòa Bình"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thủy điện Hòa Bình",
+        "Năng lượng",
+        "Kinh tế"
+      ],
+      "title": "Tổ máy số 1 Thủy điện Hòa Bình hòa lưới quốc gia",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổ máy số 1 Thủy điện Hòa Bình hòa lưới quốc gia 1988 Thành phố Hòa Bình, Hòa Bình Thủy điện Hòa Bình Năng lượng Kinh tế lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổ máy số 1 Thủy điện Hòa Bình hòa lưới quốc gia",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95+m%C3%A1y+s%E1%BB%91+1+Th%E1%BB%A7y+%C4%91i%E1%BB%87n+H%C3%B2a+B%C3%ACnh+h%C3%B2a+l%C6%B0%E1%BB%9Bi+qu%E1%BB%91c+gia+1988+Th%C3%A0nh+ph%E1%BB%91+H%C3%B2a+B%C3%ACnh%2C+H%C3%B2a+B%C3%ACnh+Th%E1%BB%A7y+%C4%91i%E1%BB%87n+H%C3%B2a+B%C3%ACnh+N%C4%83ng+l%C6%B0%E1%BB%A3ng+Kinh+t%E1%BA%BF+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1988
+    },
+    {
       "date": "1991-08-12",
-      "title": "Tái lập tỉnh Hòa Bình",
-      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hà Sơn Bình thành hai tỉnh Hòa Bình và Hà Tây. Tỉnh Hòa Bình chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/10/1991.",
+      "description": "Ngày 12/8/1991, Quốc hội khóa VIII quyết định chia tỉnh Hà Sơn Bình thành tỉnh Hòa Bình và tỉnh Hà Tây. Tỉnh Hòa Bình chính thức hoạt động trở lại từ ngày 01/10/1991.",
+      "id": "HoaBinh_ADMIN_02",
       "location": {
         "commune": null,
         "district": null,
@@ -178,7 +258,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Hòa Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Hòa Bình 1991 Hòa Bình Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Hòa Bình",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%B2a+B%C3%ACnh+1991+H%C3%B2a+B%C3%ACnh+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HoaBinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HoaBinh_vi.json"
+  }
 }

@@ -1,0 +1,263 @@
+{
+  "events": [
+    {
+      "date": "1913-02-09",
+      "description": "The Governor-General of French Indochina issued Decree No. 47 officially establishing Kon Tum Province by separating it from Dak Lak Province, marking the creation of the first province-level administrative unit in Northern Central Highlands.",
+      "id": "KonTum_COLONIAL_01",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Albert Sarraut"
+      ],
+      "tags": [
+        "Administration",
+        "French Colonial Period"
+      ],
+      "title": "Establishment of Kon Tum Province",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Establishment of Kon Tum Province 1913 Albert Sarraut French Indochina history",
+          "title": "Documentary on the Establishment of Kon Tum Province",
+          "url": "https://www.youtube.com/results?search_query=Establishment+of+Kon+Tum+Province+1913+Albert+Sarraut+French+Indochina+history"
+        }
+      ],
+      "year": 1913
+    },
+    {
+      "date": "1930-09-25",
+      "description": "The first Communist Party Cell of Kon Tum Province was founded inside Kon Tum Prison, led by comrade Ngo Duc De as secretary, steering the struggle movement among political prisoners and local masses.",
+      "id": "KonTum_REV_01",
+      "location": {
+        "commune": "Quyet Thang",
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Ngo Duc De",
+        "Truong Quang Trong"
+      ],
+      "tags": [
+        "Communist Party",
+        "Revolution"
+      ],
+      "title": "Establishment of the First Communist Cell in Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Kon Tum Prison Communist Cell 1930 Ngo Duc De Truong Quang Trong Vietnam history",
+          "title": "Video on the First Communist Cell in Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=Kon+Tum+Prison+Communist+Cell+1930+Ngo+Duc+De+Truong+Quang+Trong+Vietnam+history"
+        }
+      ],
+      "year": 1930
+    },
+    {
+      "date": "1931-12-12",
+      "description": "The Bloody Protest and hunger strike by political prisoners at Kon Tum Prison against brutal forced labor conditions on Route 14 and French colonial oppression.",
+      "id": "KonTum_COLONIAL_02",
+      "location": {
+        "commune": "Quyet Thang",
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Ngo Duc De",
+        "Truong Quang Trong"
+      ],
+      "tags": [
+        "Kon Tum Prison",
+        "Anti-French Resistance"
+      ],
+      "title": "The Bloody Struggle at Kon Tum Prison",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bloody Struggle Kon Tum Prison 1931 Vietnam history documentary",
+          "title": "Video on the Struggle at Kon Tum Prison",
+          "url": "https://www.youtube.com/results?search_query=Bloody+Struggle+Kon+Tum+Prison+1931+Vietnam+history+documentary"
+        }
+      ],
+      "year": 1931
+    },
+    {
+      "date": "1945-08-25",
+      "description": "Ethnic communities and local residents in Kon Tum Town rose up in the August Revolution, successfully seizing administrative power from the Japanese forces and local puppet government.",
+      "id": "KonTum_REV_02",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Hoang Van Thai"
+      ],
+      "tags": [
+        "August Revolution",
+        "Seizure of Power"
+      ],
+      "title": "August Revolution in Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "August Revolution 1945 Kon Tum Vietnam power seizure documentary",
+          "title": "Video on the August Revolution in Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=August+Revolution+1945+Kon+Tum+Vietnam+power+seizure+documentary"
+        }
+      ],
+      "year": 1945
+    },
+    {
+      "date": "1954-02-07",
+      "description": "During the Northern Central Highlands Campaign, the People's Army of Vietnam liberated Kon Tum Town, forcing French forces to withdraw to Pleiku and securing a strategic turning point in the Central Highlands theater.",
+      "id": "KonTum_FR_WAR_01",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Nguyen Chanh"
+      ],
+      "tags": [
+        "Northern Central Highlands Campaign",
+        "Anti-French War"
+      ],
+      "title": "Liberation of Kon Tum Town (First Indochina War)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Northern Central Highlands Campaign 1954 Liberation of Kon Tum First Indochina War",
+          "title": "Video on the 1954 Liberation of Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=Northern+Central+Highlands+Campaign+1954+Liberation+of+Kon+Tum+First+Indochina+War"
+        }
+      ],
+      "year": 1954
+    },
+    {
+      "date": "1967-11-03",
+      "description": "The Battle of Dak To (including the fierce fighting on Hill 875) engaged major North Vietnamese forces and US airborne divisions, inflicting heavy casualties on US mobile combat divisions.",
+      "id": "KonTum_US_WAR_01",
+      "location": {
+        "commune": "Tan Canh",
+        "district": "Dak To",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Hoang Minh Thao"
+      ],
+      "tags": [
+        "Battle of Dak To",
+        "Vietnam War"
+      ],
+      "title": "Battle of Dak To - Hill 875",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Battle of Dak To 1967 Hill 875 Vietnam War documentary",
+          "title": "Documentary on the Battle of Dak To 1967",
+          "url": "https://www.youtube.com/results?search_query=Battle+of+Dak+To+1967+Hill+875+Vietnam+War+documentary"
+        }
+      ],
+      "year": 1967
+    },
+    {
+      "date": "1972-04-24",
+      "description": "Liberation forces launched a decisive assault on Base E42 (Tan Canh Base), crushing the forward command post of ARVN 22nd Division and liberating the Dak To - Tan Canh defense complex.",
+      "id": "KonTum_US_WAR_02",
+      "location": {
+        "commune": "Tan Canh",
+        "district": "Dak To",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Hoang Minh Thao",
+        "Le Duc Anh"
+      ],
+      "tags": [
+        "Victory of Dak To - Tan Canh",
+        "1972 Easter Offensive"
+      ],
+      "title": "Victory of Dak To - Tan Canh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Victory of Dak To Tan Canh 1972 Kon Tum Vietnam War documentary",
+          "title": "Video on the Victory of Dak To - Tan Canh 1972",
+          "url": "https://www.youtube.com/results?search_query=Victory+of+Dak+To+Tan+Canh+1972+Kon+Tum+Vietnam+War+documentary"
+        }
+      ],
+      "year": 1972
+    },
+    {
+      "date": "1975-03-16",
+      "description": "Regular army units in coordination with local regional forces liberated Kon Tum Town completely during the decisive 1975 Central Highlands Campaign.",
+      "id": "KonTum_US_WAR_03",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Vu Lang"
+      ],
+      "tags": [
+        "Liberation of Kon Tum",
+        "1975 Spring Offensive"
+      ],
+      "title": "Complete Liberation of Kon Tum Province",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Liberation of Kon Tum March 16 1975 Central Highlands Campaign documentary",
+          "title": "Video on the Liberation of Kon Tum in 1975",
+          "url": "https://www.youtube.com/results?search_query=Liberation+of+Kon+Tum+March+16+1975+Central+Highlands+Campaign+documentary"
+        }
+      ],
+      "year": 1975
+    },
+    {
+      "date": "1991-08-12",
+      "description": "The 9th Session of the 8th National Assembly passed a resolution to divide Gia Lai - Kon Tum Province, officially re-establishing Kon Tum Province after 16 years of merger.",
+      "id": "KonTum_MODERN_01",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Kon Tum"
+      },
+      "related_figures": [],
+      "tags": [
+        "Administration",
+        "Provincial Re-establishment"
+      ],
+      "title": "Re-establishment of Kon Tum Province",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Re-establishment of Kon Tum Province 1991 Vietnam National Assembly history",
+          "title": "Video on the Re-establishment of Kon Tum Province",
+          "url": "https://www.youtube.com/results?search_query=Re-establishment+of+Kon+Tum+Province+1991+Vietnam+National+Assembly+history"
+        }
+      ],
+      "year": 1991
+    }
+  ],
+  "source": {
+    "confidence": "Reviewed and cross-referenced with Kon Tum historical records, National Heritage Administration, and National Archives Center IV.",
+    "label": "HistoryData/KonTum_en.json",
+    "updated_at": "2026-08-19",
+    "url": "/api/history/KonTum_en.json"
+  }
+}

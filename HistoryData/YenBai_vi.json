@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "YenBai_TRAN_01",
-      "year": 1285,
       "date": null,
-      "title": "Chiến thắng Thu Vật",
       "description": "Trong cuộc kháng chiến chống quân Nguyên Mông lần thứ hai, tướng Trần Nhật Duật đã chỉ huy quân dân chặn đánh quân địch tại trại Thu Vật (vùng Yên Bình ngày nay), bắt sống tướng giặc và những kẻ phản bội, bảo vệ sườn phía Tây của Đại Việt.",
+      "id": "YenBai_TRAN_01",
       "location": {
         "commune": null,
         "district": "Yên Bình",
@@ -17,14 +15,23 @@
       "tags": [
         "Kháng chiến chống Nguyên Mông",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Thu Vật",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Thu Vật 1285 Yên Bình, Yên Bái Trần Nhật Duật Kháng chiến chống Nguyên Mông Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Thu Vật",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Thu+V%E1%BA%ADt+1285+Y%C3%AAn+B%C3%ACnh%2C+Y%C3%AAn+B%C3%A1i+Tr%E1%BA%A7n+Nh%E1%BA%ADt+Du%E1%BA%ADt+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Nguy%C3%AAn+M%C3%B4ng+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1285
     },
     {
-      "id": "YenBai_COLONIAL_01",
-      "year": 1900,
       "date": "1900-04-11",
-      "title": "Thành lập tỉnh Yên Bái",
       "description": "Toàn quyền Đông Dương Paul Doumer ký Nghị định thành lập tỉnh Yên Bái trên cơ sở tách một phần đất của tỉnh Hưng Hóa. Tỉnh lỵ đặt tại làng Yên Bái bên bờ sông Hồng.",
+      "id": "YenBai_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Thành phố Yên Bái",
@@ -36,14 +43,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Yên Bái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Yên Bái 1900 Thành phố Yên Bái, Yên Bái Paul Doumer Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Yên Bái",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Y%C3%AAn+B%C3%A1i+1900+Th%C3%A0nh+ph%E1%BB%91+Y%C3%AAn+B%C3%A1i%2C+Y%C3%AAn+B%C3%A1i+Paul+Doumer+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1900
     },
     {
-      "id": "YenBai_VNQDD_01",
-      "year": 1930,
       "date": "1930-02-10",
-      "title": "Khởi nghĩa Yên Bái",
       "description": "Việt Nam Quốc Dân Đảng do Nguyễn Thái Học lãnh đạo đã tổ chức cuộc bạo động vũ trang cướp chính quyền tại trại lính khố xanh Yên Bái. Dù thất bại, cuộc khởi nghĩa đã gây tiếng vang lớn với câu nói nổi tiếng: 'Không thành công cũng thành nhân'.",
+      "id": "YenBai_VNQDD_01",
       "location": {
         "commune": "Hồng Hà",
         "district": "Thành phố Yên Bái",
@@ -57,14 +73,23 @@
       "tags": [
         "Việt Nam Quốc Dân Đảng",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Khởi nghĩa Yên Bái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Yên Bái 1930 Hồng Hà, Thành phố Yên Bái, Yên Bái Nguyễn Thái Học Phó Đức Chính Nguyễn Khắc Nhu Việt Nam Quốc Dân Đảng Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Yên Bái",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Y%C3%AAn+B%C3%A1i+1930+H%E1%BB%93ng+H%C3%A0%2C+Th%C3%A0nh+ph%E1%BB%91+Y%C3%AAn+B%C3%A1i%2C+Y%C3%AAn+B%C3%A1i+Nguy%E1%BB%85n+Th%C3%A1i+H%E1%BB%8Dc+Ph%C3%B3+%C4%90%E1%BB%A9c+Ch%C3%ADnh+Nguy%E1%BB%85n+Kh%E1%BA%AFc+Nhu+Vi%E1%BB%87t+Nam+Qu%E1%BB%91c+D%C3%A2n+%C4%90%E1%BA%A3ng+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "YenBai_VNQDD_02",
-      "year": 1930,
       "date": "1930-06-17",
-      "title": "Vụ xử chém 13 liệt sĩ Yên Bái",
       "description": "Thực dân Pháp thiết lập máy chém tại thị xã Yên Bái để hành quyết Nguyễn Thái Học và 12 đồng chí của ông. Sự kiện này gây chấn động dư luận trong nước và quốc tế, thổi bùng ngọn lửa yêu nước.",
+      "id": "YenBai_VNQDD_02",
       "location": {
         "commune": null,
         "district": "Thành phố Yên Bái",
@@ -76,31 +101,51 @@
       "tags": [
         "Pháp thuộc",
         "Sự kiện lịch sử"
-      ]
+      ],
+      "title": "Vụ xử chém 13 liệt sĩ Yên Bái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vụ xử chém 13 liệt sĩ Yên Bái 1930 Thành phố Yên Bái, Yên Bái Nguyễn Thái Học Pháp thuộc Sự kiện lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vụ xử chém 13 liệt sĩ Yên Bái",
+          "url": "https://www.youtube.com/results?search_query=V%E1%BB%A5+x%E1%BB%AD+ch%C3%A9m+13+li%E1%BB%87t+s%C4%A9+Y%C3%AAn+B%C3%A1i+1930+Th%C3%A0nh+ph%E1%BB%91+Y%C3%AAn+B%C3%A1i%2C+Y%C3%AAn+B%C3%A1i+Nguy%E1%BB%85n+Th%C3%A1i+H%E1%BB%8Dc+Ph%C3%A1p+thu%E1%BB%99c+S%E1%BB%B1+ki%E1%BB%87n+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "YenBai_REV_01",
-      "year": 1945,
       "date": "1945-06-30",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
-      "description": "Tại chiến khu Vần (Hiền Lương), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Yên Bái được thành lập. Đây là hạt nhân lãnh đạo phong trào cách mạng, chuẩn bị lực lượng cho cuộc Tổng khởi nghĩa.",
+      "description": "Tại Chiến khu Vần - Hiền Lương, ngày 30/6/1945, Xứ ủy Bắc Kỳ quyết định thành lập Ban Cán sự Đảng liên tỉnh Yên Bái - Phú Thọ do Ngô Minh Loan làm Bí thư, tăng cường sự lãnh đạo trực tiếp đối với phong trào cách mạng hai tỉnh.",
+      "id": "YenBai_REV_01",
       "location": {
-        "commune": "Việt Hồng",
-        "district": "Trấn Yên",
+        "commune": null,
+        "district": null,
         "province": "Yên Bái"
       },
-      "related_figures": [],
+      "related_figures": [
+        "Ngô Minh Loan"
+      ],
       "tags": [
-        "Thành lập Đảng",
-        "Chiến khu Vần"
-      ]
+        "Tổ chức Đảng",
+        "Tiền khởi nghĩa"
+      ],
+      "title": "Thành lập Ban Cán sự Đảng liên tỉnh Yên Bái - Phú Thọ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Ban Cán sự Đảng liên tỉnh Yên Bái - Phú Thọ 1945 Yên Bái Ngô Minh Loan Tổ chức Đảng Tiền khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Ban Cán sự Đảng liên tỉnh Yên Bái - Phú Thọ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Ban+C%C3%A1n+s%E1%BB%B1+%C4%90%E1%BA%A3ng+li%C3%AAn+t%E1%BB%89nh+Y%C3%AAn+B%C3%A1i+-+Ph%C3%BA+Th%E1%BB%8D+1945+Y%C3%AAn+B%C3%A1i+Ng%C3%B4+Minh+Loan+T%E1%BB%95+ch%E1%BB%A9c+%C4%90%E1%BA%A3ng+Ti%E1%BB%81n+kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "YenBai_REV_02",
-      "year": 1945,
       "date": "1945-08-22",
-      "title": "Giành chính quyền tại tỉnh lỵ Yên Bái",
       "description": "Lực lượng vũ trang chiến khu Vần phối hợp với quần chúng nhân dân tiến vào thị xã Yên Bái, tước vũ khí của lính bảo an và tiếp quản các cơ quan công sở, thành lập Ủy ban nhân dân cách mạng lâm thời.",
+      "id": "YenBai_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Yên Bái",
@@ -110,14 +155,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại tỉnh lỵ Yên Bái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại tỉnh lỵ Yên Bái 1945 Thành phố Yên Bái, Yên Bái Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại tỉnh lỵ Yên Bái",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+Y%C3%AAn+B%C3%A1i+1945+Th%C3%A0nh+ph%E1%BB%91+Y%C3%AAn+B%C3%A1i%2C+Y%C3%AAn+B%C3%A1i+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "YenBai_FRENCH_WAR_01",
-      "year": 1952,
-      "date": "1952-10-17",
-      "title": "Chiến thắng Nghĩa Lộ (Mở màn Chiến dịch Tây Bắc)",
+      "date": "1952-10-18",
       "description": "Đại đoàn 308 mở cuộc tấn công chớp nhoáng tiêu diệt phân khu Nghĩa Lộ - cứ điểm được mệnh danh là 'cánh cửa thép' của Pháp ở Tây Bắc. Chiến thắng này đập tan tuyến phòng thủ sông Đà, mở đường giải phóng hoàn toàn vùng Tây Bắc.",
+      "id": "YenBai_FRENCH_WAR_01",
       "location": {
         "commune": "Pú Trạng",
         "district": "Thị xã Nghĩa Lộ",
@@ -129,14 +183,23 @@
       "tags": [
         "Chiến dịch Tây Bắc",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Chiến thắng Nghĩa Lộ (Mở màn Chiến dịch Tây Bắc)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Nghĩa Lộ (Mở màn Chiến dịch Tây Bắc) 1952 Pú Trạng, Thị xã Nghĩa Lộ, Yên Bái Vương Thừa Vũ Chiến dịch Tây Bắc Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Nghĩa Lộ (Mở màn Chiến dịch Tây Bắc)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ngh%C4%A9a+L%E1%BB%99+%28M%E1%BB%9F+m%C3%A0n+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+B%E1%BA%AFc%29+1952+P%C3%BA+Tr%E1%BA%A1ng%2C+Th%E1%BB%8B+x%C3%A3+Ngh%C4%A9a+L%E1%BB%99%2C+Y%C3%AAn+B%C3%A1i+V%C6%B0%C6%A1ng+Th%E1%BB%ABa+V%C5%A9+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+B%E1%BA%AFc+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "YenBai_FRENCH_WAR_02",
-      "year": 1952,
       "date": "1952-11-22",
-      "title": "Giải phóng hoàn toàn tỉnh Yên Bái",
       "description": "Sau thất bại tại Nghĩa Lộ và các mặt trận lân cận, quân Pháp rút chạy khỏi các vị trí còn lại. Tỉnh Yên Bái sạch bóng quân thù, trở thành hậu phương lớn chi viện sức người, sức của cho chiến dịch Điện Biên Phủ sau này.",
+      "id": "YenBai_FRENCH_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Yên Bái",
@@ -146,14 +209,23 @@
       "tags": [
         "Giải phóng",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng hoàn toàn tỉnh Yên Bái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng hoàn toàn tỉnh Yên Bái 1952 Thành phố Yên Bái, Yên Bái Giải phóng Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng hoàn toàn tỉnh Yên Bái",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+ho%C3%A0n+to%C3%A0n+t%E1%BB%89nh+Y%C3%AAn+B%C3%A1i+1952+Th%C3%A0nh+ph%E1%BB%91+Y%C3%AAn+B%C3%A1i%2C+Y%C3%AAn+B%C3%A1i+Gi%E1%BA%A3i+ph%C3%B3ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "YenBai_US_WAR_01",
-      "year": 1965,
       "date": "1965-05-31",
-      "title": "Trận đầu đánh thắng không quân Mỹ",
       "description": "Lực lượng vũ trang Yên Bái đã bắn rơi chiếc máy bay F-105 đầu tiên của Mỹ tại khu vực xã Bảo Hưng và Minh Quân, mở đầu cho phong trào 'bắn máy bay Mỹ' của quân dân địa phương.",
+      "id": "YenBai_US_WAR_01",
       "location": {
         "commune": "Bảo Hưng",
         "district": "Trấn Yên",
@@ -163,14 +235,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
+      ],
+      "title": "Trận đầu đánh thắng không quân Mỹ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đầu đánh thắng không quân Mỹ 1965 Bảo Hưng, Trấn Yên, Yên Bái Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đầu đánh thắng không quân Mỹ",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+%C4%91%C3%A1nh+th%E1%BA%AFng+kh%C3%B4ng+qu%C3%A2n+M%E1%BB%B9+1965+B%E1%BA%A3o+H%C6%B0ng%2C+Tr%E1%BA%A5n+Y%C3%AAn%2C+Y%C3%AAn+B%C3%A1i+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
+      "date": "1991-10-01",
+      "description": "Ngày 12/8/1991, Quốc hội khóa VIII quyết định chia tách tỉnh hợp nhất liên quan để tái lập tỉnh Yên Bái. Tỉnh Yên Bái chính thức đi vào hoạt động theo đơn vị hành chính mới từ ngày 1/10/1991.",
       "id": "YenBai_ADMIN_01",
-      "year": 1991,
-      "date": "1991-08-12",
-      "title": "Tái lập tỉnh Yên Bái",
-      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Hoàng Liên Sơn (hợp nhất từ năm 1976) thành hai tỉnh Yên Bái và Lào Cai. Tỉnh Yên Bái chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/10/1991.",
       "location": {
         "commune": null,
         "district": null,
@@ -180,7 +261,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Yên Bái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Yên Bái 1991 Yên Bái Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Yên Bái",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Y%C3%AAn+B%C3%A1i+1991+Y%C3%AAn+B%C3%A1i+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/YenBai.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/YenBai_vi.json"
+  }
 }

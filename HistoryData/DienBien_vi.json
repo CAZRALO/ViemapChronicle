@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "DienBien_FEUDAL_01",
-      "year": 1754,
       "date": null,
-      "title": "Hoàng Công Chất giải phóng Mường Thanh",
       "description": "Thủ lĩnh nông dân Hoàng Công Chất đã lãnh đạo nghĩa quân cùng người dân địa phương đánh đuổi giặc Phẻ (nhóm thổ phỉ từ phương Bắc), giải phóng hoàn toàn vùng Mường Thanh, xây dựng thành Bản Phủ và trấn giữ vùng biên cương.",
+      "id": "DienBien_FEUDAL_01",
       "location": {
         "commune": "Noong Hẹt",
         "district": "Điện Biên",
@@ -17,14 +15,23 @@
       "tags": [
         "Khởi nghĩa nông dân",
         "Lịch sử địa phương"
-      ]
+      ],
+      "title": "Hoàng Công Chất giải phóng Mường Thanh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hoàng Công Chất giải phóng Mường Thanh 1754 Noong Hẹt, Điện Biên, Điện Biên Hoàng Công Chất Khởi nghĩa nông dân Lịch sử địa phương lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hoàng Công Chất giải phóng Mường Thanh",
+          "url": "https://www.youtube.com/results?search_query=Ho%C3%A0ng+C%C3%B4ng+Ch%E1%BA%A5t+gi%E1%BA%A3i+ph%C3%B3ng+M%C6%B0%E1%BB%9Dng+Thanh+1754+Noong+H%E1%BA%B9t%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ho%C3%A0ng+C%C3%B4ng+Ch%E1%BA%A5t+Kh%E1%BB%9Fi+ngh%C4%A9a+n%C3%B4ng+d%C3%A2n+L%E1%BB%8Bch+s%E1%BB%AD+%C4%91%E1%BB%8Ba+ph%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1754
     },
     {
-      "id": "DienBien_FRENCH_WAR_01",
-      "year": 1953,
       "date": "1953-11-20",
-      "title": "Pháp nhảy dù xuống Điện Biên Phủ",
       "description": "Thực hiện kế hoạch Navarre, quân Pháp mở cuộc hành quân Castor, thả 6 tiểu đoàn dù xuống thung lũng Mường Thanh, bắt đầu xây dựng Điện Biên Phủ thành một tập đoàn cứ điểm quân sự mạnh nhất Đông Dương.",
+      "id": "DienBien_FRENCH_WAR_01",
       "location": {
         "commune": "Mường Thanh",
         "district": "Thành phố Điện Biên Phủ",
@@ -37,14 +44,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Quân sự"
-      ]
+      ],
+      "title": "Pháp nhảy dù xuống Điện Biên Phủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Pháp nhảy dù xuống Điện Biên Phủ 1953 Mường Thanh, Thành phố Điện Biên Phủ, Điện Biên Henri Navarre Christian de Castries Kháng chiến chống Pháp Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Pháp nhảy dù xuống Điện Biên Phủ",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1p+nh%E1%BA%A3y+d%C3%B9+xu%E1%BB%91ng+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+1953+M%C6%B0%E1%BB%9Dng+Thanh%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Henri+Navarre+Christian+de+Castries+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
+      "date": "1953-12-12",
+      "description": "Ngày 12/12/1953, lực lượng ta giải phóng thị xã Lai Châu cũ trong cuộc tiến công Tây Bắc, buộc quân Pháp rút về hướng Điện Biên Phủ và góp phần tạo thế chiến lược trước Chiến dịch Điện Biên Phủ.",
       "id": "DienBien_FRENCH_WAR_02",
-      "year": 1953,
-      "date": "1953-12-10",
-      "title": "Giải phóng thị trấn Lai Châu (cũ)",
-      "description": "Để chuẩn bị cho chiến dịch Điện Biên Phủ, Đại đoàn 316 đã tiến công giải phóng thị trấn Lai Châu (nay thuộc thị xã Mường Lay, Điện Biên), buộc quân Pháp phải rút chạy về Điện Biên Phủ, tạo thế bao vây chiến lược.",
       "location": {
         "commune": null,
         "district": "Thị xã Mường Lay",
@@ -54,14 +70,23 @@
       "tags": [
         "Tiền chiến dịch",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thị trấn Lai Châu (cũ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị trấn Lai Châu (cũ) 1953 Thị xã Mường Lay, Điện Biên Tiền chiến dịch Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị trấn Lai Châu (cũ)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+tr%E1%BA%A5n+Lai+Ch%C3%A2u+%28c%C5%A9%29+1953+Th%E1%BB%8B+x%C3%A3+M%C6%B0%E1%BB%9Dng+Lay%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ti%E1%BB%81n+chi%E1%BA%BFn+d%E1%BB%8Bch+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
-      "id": "DienBien_FRENCH_WAR_03",
-      "year": 1954,
       "date": "1954-03-13",
-      "title": "Trận Him Lam (Mở màn Chiến dịch Điện Biên Phủ)",
       "description": "Đúng 17 giờ, pháo binh Việt Nam nã đạn cấp tập vào cứ điểm Him Lam (Beatrice). Sau 5 giờ chiến đấu, Đại đoàn 312 đã tiêu diệt hoàn toàn trung tâm đề kháng này, mở toang cánh cửa phía Bắc vào lòng chảo Mường Thanh.",
+      "id": "DienBien_FRENCH_WAR_03",
       "location": {
         "commune": "Him Lam",
         "district": "Thành phố Điện Biên Phủ",
@@ -74,14 +99,23 @@
       "tags": [
         "Chiến dịch Điện Biên Phủ",
         "Trận đánh mở màn"
-      ]
+      ],
+      "title": "Trận Him Lam (Mở màn Chiến dịch Điện Biên Phủ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Him Lam (Mở màn Chiến dịch Điện Biên Phủ) 1954 Him Lam, Thành phố Điện Biên Phủ, Điện Biên Phan Đình Giót Võ Nguyên Giáp Chiến dịch Điện Biên Phủ Trận đánh mở màn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Him Lam (Mở màn Chiến dịch Điện Biên Phủ)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Him+Lam+%28M%E1%BB%9F+m%C3%A0n+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7%29+1954+Him+Lam%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Phan+%C4%90%C3%ACnh+Gi%C3%B3t+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+Tr%E1%BA%ADn+%C4%91%C3%A1nh+m%E1%BB%9F+m%C3%A0n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "DienBien_FRENCH_WAR_04",
-      "year": 1954,
       "date": "1954-03-15",
-      "title": "Trận Độc Lập (Gabrielle)",
       "description": "Đại đoàn 308 và 312 tấn công cứ điểm Độc Lập. Sau một đêm chiến đấu ác liệt dưới mưa pháo, quân ta làm chủ trận địa, bẻ gãy hoàn toàn hệ thống phòng ngự phía Bắc của quân Pháp.",
+      "id": "DienBien_FRENCH_WAR_04",
       "location": {
         "commune": "Thanh Nưa",
         "district": "Điện Biên",
@@ -91,14 +125,23 @@
       "tags": [
         "Chiến dịch Điện Biên Phủ",
         "Công kiên"
-      ]
+      ],
+      "title": "Trận Độc Lập (Gabrielle)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Độc Lập (Gabrielle) 1954 Thanh Nưa, Điện Biên, Điện Biên Chiến dịch Điện Biên Phủ Công kiên lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Độc Lập (Gabrielle)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%90%E1%BB%99c+L%E1%BA%ADp+%28Gabrielle%29+1954+Thanh+N%C6%B0a%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+C%C3%B4ng+ki%C3%AAn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "DienBien_FRENCH_WAR_05",
-      "year": 1954,
       "date": "1954-03-17",
-      "title": "Bức hàng cứ điểm Bản Kéo",
       "description": "Trước sức ép của pháo binh và công tác địch vận của ta, lính Thái trong quân đội Pháp tại cứ điểm Bản Kéo (Anne Marie) đã ra hàng hoặc bỏ chạy. Phân khu Bắc của địch hoàn toàn sụp đổ.",
+      "id": "DienBien_FRENCH_WAR_05",
       "location": {
         "commune": "Thanh Nưa",
         "district": "Điện Biên",
@@ -108,14 +151,23 @@
       "tags": [
         "Chiến dịch Điện Biên Phủ",
         "Địch vận"
-      ]
+      ],
+      "title": "Bức hàng cứ điểm Bản Kéo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bức hàng cứ điểm Bản Kéo 1954 Thanh Nưa, Điện Biên, Điện Biên Chiến dịch Điện Biên Phủ Địch vận lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bức hàng cứ điểm Bản Kéo",
+          "url": "https://www.youtube.com/results?search_query=B%E1%BB%A9c+h%C3%A0ng+c%E1%BB%A9+%C4%91i%E1%BB%83m+B%E1%BA%A3n+K%C3%A9o+1954+Thanh+N%C6%B0a%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+%C4%90%E1%BB%8Bch+v%E1%BA%ADn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "DienBien_FRENCH_WAR_06",
-      "year": 1954,
       "date": "1954-05-06",
-      "title": "Tiêu diệt Đồi A1 (Vụ nổ khối bộc phá nghìn cân)",
       "description": "Đồi A1 (Eliane 2) là cứ điểm kiên cố nhất, diễn ra giằng co suốt 39 ngày đêm. Đêm 6/5, quân ta kích nổ khối bộc phá gần 1000kg trong lòng đồi, phá hủy hầm ngầm địch, tạo điều kiện cho xung kích chiếm lĩnh hoàn toàn cao điểm này.",
+      "id": "DienBien_FRENCH_WAR_06",
       "location": {
         "commune": "Mường Thanh",
         "district": "Thành phố Điện Biên Phủ",
@@ -128,14 +180,23 @@
       "tags": [
         "Chiến dịch Điện Biên Phủ",
         "A1"
-      ]
+      ],
+      "title": "Tiêu diệt Đồi A1 (Vụ nổ khối bộc phá nghìn cân)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tiêu diệt Đồi A1 (Vụ nổ khối bộc phá nghìn cân) 1954 Mường Thanh, Thành phố Điện Biên Phủ, Điện Biên Nguyễn Văn Bạch Lưu Viết Thoảng Chiến dịch Điện Biên Phủ A1 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tiêu diệt Đồi A1 (Vụ nổ khối bộc phá nghìn cân)",
+          "url": "https://www.youtube.com/results?search_query=Ti%C3%AAu+di%E1%BB%87t+%C4%90%E1%BB%93i+A1+%28V%E1%BB%A5+n%E1%BB%95+kh%E1%BB%91i+b%E1%BB%99c+ph%C3%A1+ngh%C3%ACn+c%C3%A2n%29+1954+M%C6%B0%E1%BB%9Dng+Thanh%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Nguy%E1%BB%85n+V%C4%83n+B%E1%BA%A1ch+L%C6%B0u+Vi%E1%BA%BFt+Tho%E1%BA%A3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+A1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "DienBien_FRENCH_WAR_07",
-      "year": 1954,
       "date": "1954-05-07",
-      "title": "Chiến thắng Điện Biên Phủ",
       "description": "Chiều ngày 7/5, lá cờ 'Quyết chiến Quyết thắng' tung bay trên nóc hầm De Castries. Bộ chỉ huy tập đoàn cứ điểm Pháp đầu hàng. Chiến dịch lịch sử kết thúc thắng lợi, chấm dứt ách đô hộ của thực dân Pháp tại Đông Dương.",
+      "id": "DienBien_FRENCH_WAR_07",
       "location": {
         "commune": "Mường Thanh",
         "district": "Thành phố Điện Biên Phủ",
@@ -149,14 +210,23 @@
       "tags": [
         "Chiến thắng lịch sử",
         "Ngày kỷ niệm"
-      ]
+      ],
+      "title": "Chiến thắng Điện Biên Phủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Điện Biên Phủ 1954 Mường Thanh, Thành phố Điện Biên Phủ, Điện Biên Võ Nguyên Giáp Christian de Castries Tạ Quốc Luật Chiến thắng lịch sử Ngày kỷ niệm lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Điện Biên Phủ",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+1954+M%C6%B0%E1%BB%9Dng+Thanh%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Christian+de+Castries+T%E1%BA%A1+Qu%E1%BB%91c+Lu%E1%BA%ADt+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Ng%C3%A0y+k%E1%BB%B7+ni%E1%BB%87m+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "DienBien_CONSTRUCTION_01",
-      "year": 1963,
       "date": null,
-      "title": "Khởi công Đại thủy nông Nậm Rốm",
       "description": "Hơn 2.000 thanh niên xung phong đã bắt tay vào xây dựng công trình thủy lợi lớn nhất Tây Bắc để đưa nước sông Nậm Rốm tưới cho cánh đồng Mường Thanh. Công trình hoàn thành năm 1969, biến Điện Biên thành vựa lúa lớn nhất vùng.",
+      "id": "DienBien_CONSTRUCTION_01",
       "location": {
         "commune": null,
         "district": "Điện Biên",
@@ -166,14 +236,23 @@
       "tags": [
         "Kinh tế",
         "Thủy lợi"
-      ]
+      ],
+      "title": "Khởi công Đại thủy nông Nậm Rốm",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công Đại thủy nông Nậm Rốm 1963 Điện Biên, Điện Biên Kinh tế Thủy lợi lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công Đại thủy nông Nậm Rốm",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+%C4%90%E1%BA%A1i+th%E1%BB%A7y+n%C3%B4ng+N%E1%BA%ADm+R%E1%BB%91m+1963+%C4%90i%E1%BB%87n+Bi%C3%AAn%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Kinh+t%E1%BA%BF+Th%E1%BB%A7y+l%E1%BB%A3i+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1963
     },
     {
+      "date": "2004-01-01",
+      "description": "Ngày 26/11/2003, Quốc hội khóa XI thông qua Nghị quyết 22/2003/QH11 chia tỉnh Lai Châu cũ thành tỉnh Lai Châu (mới) và tỉnh Điện Biên. Nghị quyết có hiệu lực từ ngày 1/1/2004, là mốc tỉnh Điện Biên chính thức đi vào hoạt động.",
       "id": "DienBien_ADMIN_01",
-      "year": 2003,
-      "date": "2003-11-26",
-      "title": "Thành lập tỉnh Điện Biên",
-      "description": "Quốc hội khóa XI thông qua Nghị quyết số 22/2003/QH11 chia tách tỉnh Lai Châu (cũ) thành hai tỉnh Lai Châu (mới) và Điện Biên. Tỉnh Điện Biên chính thức đi vào hoạt động từ ngày 01/01/2004 trên cơ sở vùng đất lịch sử Điện Biên Phủ.",
       "location": {
         "commune": null,
         "district": null,
@@ -183,7 +262,24 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Thành lập tỉnh Điện Biên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Điện Biên 2004 Điện Biên Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Điện Biên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+%C4%90i%E1%BB%87n+Bi%C3%AAn+2004+%C4%90i%E1%BB%87n+Bi%C3%AAn+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2004
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/DienBien.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/DienBien_vi.json"
+  }
 }

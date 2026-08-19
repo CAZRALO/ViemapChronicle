@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "QuangNam_NGUYEN_01",
-      "year": 1602,
       "date": null,
-      "title": "Thành lập Dinh Quảng Nam",
       "description": "Chúa Tiên Nguyễn Hoàng đổi trấn Quảng Nam thành dinh Quảng Nam, coi đây là 'đất dụng võ', vị trí trọng yếu bậc nhất để mở mang bờ cõi về phương Nam. Ông cử con trai là Nguyễn Phúc Nguyên (Sãi Vương) vào trấn thủ.",
+      "id": "QuangNam_NGUYEN_01",
       "location": {
         "commune": "Duy Phước",
         "district": "Duy Xuyên",
@@ -18,14 +16,23 @@
       "tags": [
         "Chúa Nguyễn",
         "Hành chính"
-      ]
+      ],
+      "title": "Thành lập Dinh Quảng Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Dinh Quảng Nam 1602 Duy Phước, Duy Xuyên, Quảng Nam Nguyễn Hoàng Nguyễn Phúc Nguyên Chúa Nguyễn Hành chính lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Dinh Quảng Nam",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Dinh+Qu%E1%BA%A3ng+Nam+1602+Duy+Ph%C6%B0%E1%BB%9Bc%2C+Duy+Xuy%C3%AAn%2C+Qu%E1%BA%A3ng+Nam+Nguy%E1%BB%85n+Ho%C3%A0ng+Nguy%E1%BB%85n+Ph%C3%BAc+Nguy%C3%AAn+Ch%C3%BAa+Nguy%E1%BB%85n+H%C3%A0nh+ch%C3%ADnh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1602
     },
     {
-      "id": "QuangNam_COLONIAL_01",
-      "year": 1908,
       "date": "1908-03-11",
-      "title": "Phong trào chống sưu thuế (Trung Kỳ dân biến)",
       "description": "Bắt nguồn từ cuộc biểu tình của nông dân huyện Đại Lộc đòi giảm sưu thuế, phong trào đã lan rộng khắp Quảng Nam và các tỉnh Trung Kỳ. Đây là đỉnh cao của phong trào Duy Tân, thể hiện tinh thần đấu tranh bất khuất của người dân xứ Quảng.",
+      "id": "QuangNam_COLONIAL_01",
       "location": {
         "commune": "Đại Nghĩa",
         "district": "Đại Lộc",
@@ -39,14 +46,23 @@
       "tags": [
         "Phong trào Duy Tân",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Phong trào chống sưu thuế (Trung Kỳ dân biến)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Phong trào chống sưu thuế (Trung Kỳ dân biến) 1908 Đại Nghĩa, Đại Lộc, Quảng Nam Phan Châu Trinh Huỳnh Thúc Kháng Trần Quý Cáp Phong trào Duy Tân Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Phong trào chống sưu thuế (Trung Kỳ dân biến)",
+          "url": "https://www.youtube.com/results?search_query=Phong+tr%C3%A0o+ch%E1%BB%91ng+s%C6%B0u+thu%E1%BA%BF+%28Trung+K%E1%BB%B3+d%C3%A2n+bi%E1%BA%BFn%29+1908+%C4%90%E1%BA%A1i+Ngh%C4%A9a%2C+%C4%90%E1%BA%A1i+L%E1%BB%99c%2C+Qu%E1%BA%A3ng+Nam+Phan+Ch%C3%A2u+Trinh+Hu%E1%BB%B3nh+Th%C3%BAc+Kh%C3%A1ng+Tr%E1%BA%A7n+Qu%C3%BD+C%C3%A1p+Phong+tr%C3%A0o+Duy+T%C3%A2n+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1908
     },
     {
-      "id": "QuangNam_REV_01",
-      "year": 1930,
       "date": "1930-03-28",
-      "title": "Thành lập Đảng bộ tỉnh Quảng Nam",
       "description": "Tại khu rừng Cây Thông (gần Hội An), Đảng bộ Đảng Cộng sản Việt Nam tỉnh Quảng Nam được thành lập. Đây là mốc son lịch sử, đánh dấu sự chuyển biến về chất của phong trào cách mạng tại địa phương dưới sự lãnh đạo của Đảng.",
+      "id": "QuangNam_REV_01",
       "location": {
         "commune": "Tân An",
         "district": "Hội An",
@@ -58,14 +74,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Đảng bộ tỉnh Quảng Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ tỉnh Quảng Nam 1930 Tân An, Hội An, Quảng Nam Phan Văn Định Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ tỉnh Quảng Nam",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+t%E1%BB%89nh+Qu%E1%BA%A3ng+Nam+1930+T%C3%A2n+An%2C+H%E1%BB%99i+An%2C+Qu%E1%BA%A3ng+Nam+Phan+V%C4%83n+%C4%90%E1%BB%8Bnh+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "QuangNam_REV_02",
-      "year": 1945,
       "date": "1945-08-18",
-      "title": "Giành chính quyền tại Hội An",
       "description": "Lực lượng bạo động của thị xã Hội An và các huyện lân cận đã chiếm Tòa Công sứ, đồn Bảo an và Tỉnh đường Quảng Nam (đóng tại Hội An). Quảng Nam trở thành một trong 4 tỉnh giành chính quyền sớm nhất cả nước trong Cách mạng tháng Tám.",
+      "id": "QuangNam_REV_02",
       "location": {
         "commune": null,
         "district": "Hội An",
@@ -75,14 +100,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Hội An",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Hội An 1945 Hội An, Quảng Nam Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Hội An",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+H%E1%BB%99i+An+1945+H%E1%BB%99i+An%2C+Qu%E1%BA%A3ng+Nam+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1954-07-19",
+      "description": "Ngày 19/7/1954, quân ta tiến công cứ điểm Bồ Bồ tại Điện Bàn, giành thắng lợi lớn trong những ngày cuối của cuộc kháng chiến chống thực dân Pháp.",
       "id": "QuangNam_FRENCH_WAR_01",
-      "year": 1954,
-      "date": "1954-07-20",
-      "title": "Chiến thắng Bồ Bồ",
-      "description": "Đại đội 15, 16 và du kích địa phương đã tập kích cứ điểm Bồ Bồ của Pháp, tiêu diệt và bắt sống gần 300 tên địch. Chiến thắng này được ví như 'Điện Biên Phủ' trên chiến trường Quảng Nam, góp phần buộc Pháp ký Hiệp định Genève.",
       "location": {
         "commune": "Điện Tiến",
         "district": "Điện Bàn",
@@ -92,14 +126,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Chiến thắng Bồ Bồ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Bồ Bồ 1954 Điện Tiến, Điện Bàn, Quảng Nam Kháng chiến chống Pháp Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Bồ Bồ",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+B%E1%BB%93+B%E1%BB%93+1954+%C4%90i%E1%BB%87n+Ti%E1%BA%BFn%2C+%C4%90i%E1%BB%87n+B%C3%A0n%2C+Qu%E1%BA%A3ng+Nam+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "QuangNam_US_WAR_01",
-      "year": 1965,
       "date": "1965-05-26",
-      "title": "Trận Núi Thành (Trận đầu đánh Mỹ)",
       "description": "Đại đội 2 (Tiểu đoàn 70) và đặc công tỉnh đã táo bạo tập kích Đại đội 2 Thủy quân lục chiến Mỹ tại đồi Núi Thành. Chiến thắng đã trả lời câu hỏi 'Có đánh được Mỹ không?', mở ra phong trào 'Tìm Mỹ mà đánh, tìm Ngụy mà diệt', tặng Quảng Nam danh hiệu 'Trung dũng kiên cường, đi đầu diệt Mỹ'.",
+      "id": "QuangNam_US_WAR_01",
       "location": {
         "commune": "Tam Nghĩa",
         "district": "Núi Thành",
@@ -111,14 +154,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Trận đầu diệt Mỹ"
-      ]
+      ],
+      "title": "Trận Núi Thành (Trận đầu đánh Mỹ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Núi Thành (Trận đầu đánh Mỹ) 1965 Tam Nghĩa, Núi Thành, Quảng Nam Võ Như Hưng Kháng chiến chống Mỹ Trận đầu diệt Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Núi Thành (Trận đầu đánh Mỹ)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+N%C3%BAi+Th%C3%A0nh+%28Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+%C4%91%C3%A1nh+M%E1%BB%B9%29+1965+Tam+Ngh%C4%A9a%2C+N%C3%BAi+Th%C3%A0nh%2C+Qu%E1%BA%A3ng+Nam+V%C3%B5+Nh%C6%B0+H%C6%B0ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+di%E1%BB%87t+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangNam_US_WAR_02",
-      "year": 1968,
       "date": "1968-05-12",
-      "title": "Chiến thắng Khâm Đức - Ngok Tavak",
       "description": "Sư đoàn 2 (Quân khu 5) tấn công và đánh chiếm chi khu quận lỵ Khâm Đức - một cứ điểm kiên cố của Lực lượng đặc biệt Mỹ án ngữ đường mòn Hồ Chí Minh. Đây là quận lỵ đầu tiên ở miền Nam được giải phóng hoàn toàn.",
+      "id": "QuangNam_US_WAR_02",
       "location": {
         "commune": "Khâm Đức",
         "district": "Phước Sơn",
@@ -128,14 +180,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Giải phóng quận lỵ"
-      ]
+      ],
+      "title": "Chiến thắng Khâm Đức - Ngok Tavak",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Khâm Đức - Ngok Tavak 1968 Khâm Đức, Phước Sơn, Quảng Nam Kháng chiến chống Mỹ Giải phóng quận lỵ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Khâm Đức - Ngok Tavak",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Kh%C3%A2m+%C4%90%E1%BB%A9c+-+Ngok+Tavak+1968+Kh%C3%A2m+%C4%90%E1%BB%A9c%2C+Ph%C6%B0%E1%BB%9Bc+S%C6%A1n%2C+Qu%E1%BA%A3ng+Nam+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Gi%E1%BA%A3i+ph%C3%B3ng+qu%E1%BA%ADn+l%E1%BB%B5+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "QuangNam_US_WAR_03",
-      "year": 1974,
       "date": "1974-08-07",
-      "title": "Chiến thắng Thượng Đức",
       "description": "Sư đoàn 304 và lực lượng vũ trang địa phương tấn công giải phóng chi khu quân sự Thượng Đức - 'Cánh cửa thép' bảo vệ Đà Nẵng. Chiến thắng này có ý nghĩa chiến lược, giúp Bộ Chính trị đánh giá đúng so sánh lực lượng để hạ quyết tâm giải phóng miền Nam trong năm 1975.",
+      "id": "QuangNam_US_WAR_03",
       "location": {
         "commune": "Đại Lãnh",
         "district": "Đại Lộc",
@@ -145,14 +206,23 @@
       "tags": [
         "Tiền chiến dịch 1975",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Thượng Đức",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Thượng Đức 1974 Đại Lãnh, Đại Lộc, Quảng Nam Tiền chiến dịch 1975 Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Thượng Đức",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Th%C6%B0%E1%BB%A3ng+%C4%90%E1%BB%A9c+1974+%C4%90%E1%BA%A1i+L%C3%A3nh%2C+%C4%90%E1%BA%A1i+L%E1%BB%99c%2C+Qu%E1%BA%A3ng+Nam+Ti%E1%BB%81n+chi%E1%BA%BFn+d%E1%BB%8Bch+1975+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1974
     },
     {
-      "id": "QuangNam_US_WAR_04",
-      "year": 1975,
       "date": "1975-03-24",
-      "title": "Giải phóng thị xã Tam Kỳ",
       "description": "Trong Chiến dịch Huế - Đà Nẵng, bộ đội chủ lực Quân khu 5 phối hợp với lực lượng địa phương tấn công mãnh liệt vào sào huyệt địch tại Tam Kỳ. Đến 10h30, lá cờ quyết chiến quyết thắng tung bay trên nóc Tỉnh đường Quảng Tín, giải phóng hoàn toàn tỉnh Quảng Nam.",
+      "id": "QuangNam_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Tam Kỳ",
@@ -165,14 +235,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thị xã Tam Kỳ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Tam Kỳ 1975 Tam Kỳ, Quảng Nam Chu Huy Mân Võ Chí Công Chiến dịch Xuân 1975 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Tam Kỳ",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+Tam+K%E1%BB%B3+1975+Tam+K%E1%BB%B3%2C+Qu%E1%BA%A3ng+Nam+Chu+Huy+M%C3%A2n+V%C3%B5+Ch%C3%AD+C%C3%B4ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "1997-01-01",
+      "description": "Quốc hội khóa IX thông qua nghị quyết ngày 6/11/1996 chia tỉnh Quảng Nam - Đà Nẵng thành tỉnh Quảng Nam và thành phố Đà Nẵng trực thuộc Trung ương. Tỉnh Quảng Nam chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "QuangNam_ADMIN_01",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Quảng Nam",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Quảng Nam - Đà Nẵng thành thành phố Đà Nẵng trực thuộc Trung ương và tỉnh Quảng Nam. Tỉnh Quảng Nam chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997 với tỉnh lỵ đặt tại Tam Kỳ.",
       "location": {
         "commune": null,
         "district": null,
@@ -182,14 +261,23 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Quảng Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Quảng Nam 1997 Quảng Nam Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Quảng Nam",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Qu%E1%BA%A3ng+Nam+1997+Qu%E1%BA%A3ng+Nam+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     },
     {
+      "date": null,
+      "description": "Năm 1999, tại kỳ họp của Ủy ban Di sản Thế giới, Đô thị cổ Hội An được UNESCO ghi danh vào Danh mục Di sản thế giới nhờ giá trị nổi bật của một thương cảng truyền thống Đông Nam Á được bảo tồn đặc biệt tốt.",
       "id": "QuangNam_CULTURE_01",
-      "year": 1999,
-      "date": "1999-12-04",
-      "title": "Hội An và Mỹ Sơn được UNESCO công nhận Di sản Thế giới",
-      "description": "Tại hội nghị ở Morocco, UNESCO đã chính thức công nhận Đô thị cổ Hội An và Khu đền tháp Mỹ Sơn là Di sản Văn hóa Thế giới. Sự kiện này khẳng định giá trị văn hóa lịch sử to lớn của vùng đất Quảng Nam trên bản đồ thế giới.",
       "location": {
         "commune": null,
         "district": "Hội An, Duy Xuyên",
@@ -199,7 +287,24 @@
       "tags": [
         "Văn hóa",
         "Di sản thế giới"
-      ]
+      ],
+      "title": "Hội An và Mỹ Sơn được UNESCO công nhận Di sản Thế giới",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hội An và Mỹ Sơn được UNESCO công nhận Di sản Thế giới 1999 Hội An, Duy Xuyên, Quảng Nam Văn hóa Di sản thế giới lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hội An và Mỹ Sơn được UNESCO công nhận Di sản Thế giới",
+          "url": "https://www.youtube.com/results?search_query=H%E1%BB%99i+An+v%C3%A0+M%E1%BB%B9+S%C6%A1n+%C4%91%C6%B0%E1%BB%A3c+UNESCO+c%C3%B4ng+nh%E1%BA%ADn+Di+s%E1%BA%A3n+Th%E1%BA%BF+gi%E1%BB%9Bi+1999+H%E1%BB%99i+An%2C+Duy+Xuy%C3%AAn%2C+Qu%E1%BA%A3ng+Nam+V%C4%83n+h%C3%B3a+Di+s%E1%BA%A3n+th%E1%BA%BF+gi%E1%BB%9Bi+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1999
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/QuangNam.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/QuangNam_vi.json"
+  }
 }

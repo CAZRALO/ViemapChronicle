@@ -1,14 +1,12 @@
 {
   "events": [
     {
+      "date": null,
+      "description": "Trong cải cách hành chính năm 1832, vua Minh Mạng đổi các trấn ở Nam Bộ thành tỉnh. Vùng Trà Vinh khi đó là huyện Trà Vinh thuộc phủ Lạc Hóa, tỉnh Vĩnh Long; tên tỉnh Vĩnh Bình chỉ xuất hiện về sau trong thế kỷ XX.",
       "id": "TraVinh_NGUYEN_01",
-      "year": 1832,
-      "date": "1832-10-01",
-      "title": "Thành lập tỉnh Vĩnh Bình (Tiền thân Trà Vinh)",
-      "description": "Trong cuộc cải cách hành chính của vua Minh Mạng, Nam Kỳ Lục tỉnh được chia thành các tỉnh mới. Tỉnh Vĩnh Bình được thành lập (bao gồm địa phận Trà Vinh ngày nay), là một tỉnh quan trọng nằm giữa hai con sông lớn Tiền và Hậu.",
       "location": {
         "commune": null,
-        "district": "Thành phố Trà Vinh",
+        "district": null,
         "province": "Trà Vinh"
       },
       "related_figures": [
@@ -17,14 +15,23 @@
       "tags": [
         "Hành chính",
         "Nhà Nguyễn"
-      ]
+      ],
+      "title": "Trà Vinh thuộc phủ Lạc Hóa, tỉnh Vĩnh Long",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trà Vinh thuộc phủ Lạc Hóa, tỉnh Vĩnh Long 1832 Trà Vinh Minh Mạng Hành chính Nhà Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trà Vinh thuộc phủ Lạc Hóa, tỉnh Vĩnh Long",
+          "url": "https://www.youtube.com/results?search_query=Tr%C3%A0+Vinh+thu%E1%BB%99c+ph%E1%BB%A7+L%E1%BA%A1c+H%C3%B3a%2C+t%E1%BB%89nh+V%C4%A9nh+Long+1832+Tr%C3%A0+Vinh+Minh+M%E1%BA%A1ng+H%C3%A0nh+ch%C3%ADnh+Nh%C3%A0+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1832
     },
     {
-      "id": "TraVinh_REV_01",
-      "year": 1930,
-      "date": "1930-03-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (An Trường)",
+      "date": null,
       "description": "Tại làng An Trường, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Trà Vinh được thành lập do đồng chí Nguyễn Đáng (tức Bảy Đáng) làm Bí thư. Sự kiện này đánh dấu bước ngoặt quan trọng, đưa phong trào đấu tranh của nhân dân Trà Vinh đi vào quỹ đạo của cách mạng vô sản.",
+      "id": "TraVinh_REV_01",
       "location": {
         "commune": "An Trường",
         "district": "Càng Long",
@@ -36,14 +43,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên (An Trường)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên (An Trường) 1930 An Trường, Càng Long, Trà Vinh Nguyễn Đáng Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên (An Trường)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+%28An+Tr%C6%B0%E1%BB%9Dng%29+1930+An+Tr%C6%B0%E1%BB%9Dng%2C+C%C3%A0ng+Long%2C+Tr%C3%A0+Vinh+Nguy%E1%BB%85n+%C4%90%C3%A1ng+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "TraVinh_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Trà Vinh",
       "description": "Hơn 20.000 quần chúng từ các huyện Càng Long, Châu Thành, Cầu Ngang đổ về tỉnh lỵ. Trước khí thế áp đảo, Tỉnh trưởng Trà Vinh phải đầu hàng và giao nộp ấn tín. Ủy ban Hành chính lâm thời tỉnh Trà Vinh ra mắt nhân dân.",
+      "id": "TraVinh_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Trà Vinh",
@@ -55,14 +71,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Trà Vinh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Trà Vinh 1945 Thành phố Trà Vinh, Trà Vinh Dương Quang Đông Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Trà Vinh",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Tr%C3%A0+Vinh+1945+Th%C3%A0nh+ph%E1%BB%91+Tr%C3%A0+Vinh%2C+Tr%C3%A0+Vinh+D%C6%B0%C6%A1ng+Quang+%C4%90%C3%B4ng+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1948-12-15",
+      "description": "Ngày 15/12/1948, lực lượng vũ trang địa phương giành chiến thắng tại La Bang, góp phần phát triển thế trận kháng chiến chống thực dân Pháp ở Trà Vinh.",
       "id": "TraVinh_FRENCH_WAR_01",
-      "year": 1948,
-      "date": "1948-03-14",
-      "title": "Chiến thắng La Bang",
-      "description": "Tiểu đoàn 307 và lực lượng vũ trang địa phương tổ chức phục kích đoàn xe quân sự Pháp tại La Bang. Ta tiêu diệt nhiều xe cơ giới và lính địch. Đây là trận đánh giao thông chiến điển hình, vang danh 'Tiểu đoàn 307' trên chiến trường miền Tây Nam Bộ.",
       "location": {
         "commune": "Đôn Châu",
         "district": "Duyên Hải",
@@ -72,14 +97,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Chiến thắng La Bang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng La Bang 1948 Đôn Châu, Duyên Hải, Trà Vinh Kháng chiến chống Pháp Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng La Bang",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+La+Bang+1948+%C4%90%C3%B4n+Ch%C3%A2u%2C+Duy%C3%AAn+H%E1%BA%A3i%2C+Tr%C3%A0+Vinh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
+      "date": null,
+      "description": "Trong tháng 12/1949, lực lượng vũ trang Khu 8 mở Chiến dịch Cầu Kè trên địa bàn Trà Vinh, phối hợp bộ đội chủ lực với lực lượng địa phương, tiến công hệ thống đồn bốt và mở rộng vùng hoạt động.",
       "id": "TraVinh_FRENCH_WAR_02",
-      "year": 1949,
-      "date": "1949-12-07",
-      "title": "Chiến dịch Cầu Kè",
-      "description": "Bộ Tư lệnh Khu 8 mở Chiến dịch Cầu Kè, đây là chiến dịch tiến công quy mô đầu tiên trên chiến trường Nam Bộ có sự phối hợp giữa bộ đội chủ lực và địa phương, tiêu diệt nhiều đồn bốt, mở rộng vùng giải phóng.",
       "location": {
         "commune": null,
         "district": "Cầu Kè",
@@ -89,14 +123,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chiến dịch"
-      ]
+      ],
+      "title": "Chiến dịch Cầu Kè",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch Cầu Kè 1949 Cầu Kè, Trà Vinh Kháng chiến chống Pháp Chiến dịch lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến dịch Cầu Kè",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+C%E1%BA%A7u+K%C3%A8+1949+C%E1%BA%A7u+K%C3%A8%2C+Tr%C3%A0+Vinh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+d%E1%BB%8Bch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1949
     },
     {
-      "id": "TraVinh_US_WAR_01",
-      "year": 1965,
       "date": null,
-      "title": "Huyền thoại 'Người mẹ cầm súng' Nguyễn Thị Út",
       "description": "Chị Nguyễn Thị Út (Út Tịch), người con của vùng đất Tam Ngãi, nổi tiếng với câu nói 'Còn cái lai quần cũng đánh'. Chị đã tham gia hàng chục trận đánh lớn nhỏ, là biểu tượng của phụ nữ miền Nam anh hùng, bất khuất trong kháng chiến chống Mỹ.",
+      "id": "TraVinh_US_WAR_01",
       "location": {
         "commune": "Tam Ngãi",
         "district": "Cầu Kè",
@@ -108,14 +151,23 @@
       "tags": [
         "Anh hùng",
         "Phụ nữ"
-      ]
+      ],
+      "title": "Huyền thoại 'Người mẹ cầm súng' Nguyễn Thị Út",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Huyền thoại 'Người mẹ cầm súng' Nguyễn Thị Út 1965 Tam Ngãi, Cầu Kè, Trà Vinh Nguyễn Thị Út Anh hùng Phụ nữ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Huyền thoại 'Người mẹ cầm súng' Nguyễn Thị Út",
+          "url": "https://www.youtube.com/results?search_query=Huy%E1%BB%81n+tho%E1%BA%A1i+%27Ng%C6%B0%E1%BB%9Di+m%E1%BA%B9+c%E1%BA%A7m+s%C3%BAng%27+Nguy%E1%BB%85n+Th%E1%BB%8B+%C3%9At+1965+Tam+Ng%C3%A3i%2C+C%E1%BA%A7u+K%C3%A8%2C+Tr%C3%A0+Vinh+Nguy%E1%BB%85n+Th%E1%BB%8B+%C3%9At+Anh+h%C3%B9ng+Ph%E1%BB%A5+n%E1%BB%AF+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "TraVinh_US_WAR_02",
-      "year": 1968,
       "date": "1968-01-31",
-      "title": "Tết Mậu Thân tại Trà Vinh",
       "description": "Quân dân Trà Vinh đồng loạt tấn công vào Dinh Tỉnh trưởng, Ty Cảnh sát và các cơ quan đầu não địch tại thị xã. Ta làm chủ khu vực trung tâm thị xã trong nhiều giờ, gây hoang mang tột độ cho bộ máy chính quyền Sài Gòn tại địa phương.",
+      "id": "TraVinh_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Trà Vinh",
@@ -125,14 +177,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Quân sự"
-      ]
+      ],
+      "title": "Tết Mậu Thân tại Trà Vinh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tết Mậu Thân tại Trà Vinh 1968 Thành phố Trà Vinh, Trà Vinh Tết Mậu Thân Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tết Mậu Thân tại Trà Vinh",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+t%E1%BA%A1i+Tr%C3%A0+Vinh+1968+Th%C3%A0nh+ph%E1%BB%91+Tr%C3%A0+Vinh%2C+Tr%C3%A0+Vinh+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
+      "date": null,
+      "description": "Trong năm 1970, quân dân xã Long Đức xây dựng Đền thờ Chủ tịch Hồ Chí Minh giữa điều kiện chiến tranh ác liệt. Công trình được nhân dân bảo vệ trong suốt những năm chiến tranh và trở thành một địa chỉ lịch sử, văn hóa quan trọng của Trà Vinh.",
       "id": "TraVinh_US_WAR_03",
-      "year": 1970,
-      "date": "1970-03-10",
-      "title": "Xây dựng Đền thờ Bác Hồ (Long Đức)",
-      "description": "Ngay giữa vòng vây ác liệt của địch, quân dân xã Long Đức đã bí mật xây dựng Đền thờ Bác Hồ để tỏ lòng kính yêu vô hạn khi nghe tin Bác mất. Ngôi đền được bảo vệ kiên cường suốt 5 năm bom đạn (1970-1975) cho đến ngày toàn thắng.",
       "location": {
         "commune": "Long Đức",
         "district": "Thành phố Trà Vinh",
@@ -142,14 +203,23 @@
       "tags": [
         "Di tích lịch sử",
         "Lãnh tụ"
-      ]
+      ],
+      "title": "Xây dựng Đền thờ Bác Hồ (Long Đức)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Đền thờ Bác Hồ (Long Đức) 1970 Long Đức, Thành phố Trà Vinh, Trà Vinh Di tích lịch sử Lãnh tụ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Đền thờ Bác Hồ (Long Đức)",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+%C4%90%E1%BB%81n+th%E1%BB%9D+B%C3%A1c+H%E1%BB%93+%28Long+%C4%90%E1%BB%A9c%29+1970+Long+%C4%90%E1%BB%A9c%2C+Th%C3%A0nh+ph%E1%BB%91+Tr%C3%A0+Vinh%2C+Tr%C3%A0+Vinh+Di+t%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+L%C3%A3nh+t%E1%BB%A5+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1970
     },
     {
-      "id": "TraVinh_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng tỉnh Trà Vinh",
       "description": "Lực lượng vũ trang tỉnh phối hợp với quần chúng nhân dân bao vây, tấn công Dinh Tỉnh trưởng. Đúng 11 giờ 30 phút ngày 30/4/1975, lá cờ Mặt trận tung bay trên nóc Dinh Tỉnh trưởng, Trà Vinh hoàn toàn giải phóng, không đổ nhiều máu do địch đầu hàng nhanh chóng.",
+      "id": "TraVinh_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Trà Vinh",
@@ -159,14 +229,23 @@
       "tags": [
         "Giải phóng",
         "Ngày thống nhất"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Trà Vinh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Trà Vinh 1975 Thành phố Trà Vinh, Trà Vinh Giải phóng Ngày thống nhất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Trà Vinh",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+Tr%C3%A0+Vinh+1975+Th%C3%A0nh+ph%E1%BB%91+Tr%C3%A0+Vinh%2C+Tr%C3%A0+Vinh+Gi%E1%BA%A3i+ph%C3%B3ng+Ng%C3%A0y+th%E1%BB%91ng+nh%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "TraVinh_ADMIN_01",
-      "year": 1992,
       "date": "1992-05-05",
-      "title": "Tái lập tỉnh Trà Vinh",
       "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Cửu Long (hợp nhất từ năm 1976) trở lại thành hai tỉnh Vĩnh Long và Trà Vinh. Tỉnh Trà Vinh chính thức đi vào hoạt động, bắt đầu công cuộc tái thiết và phát triển kinh tế vùng ven biển.",
+      "id": "TraVinh_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -176,14 +255,23 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Trà Vinh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Trà Vinh 1992 Trà Vinh Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Trà Vinh",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Tr%C3%A0+Vinh+1992+Tr%C3%A0+Vinh+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1992
     },
     {
-      "id": "TraVinh_ECONOMY_01",
-      "year": 2015,
       "date": "2015-05-16",
-      "title": "Khánh thành Cầu Cổ Chiên",
       "description": "Cầu Cổ Chiên nối liền Bến Tre và Trà Vinh được khánh thành. Công trình này có ý nghĩa chiến lược, phá vỡ thế 'túi cụt' về giao thông của Trà Vinh, rút ngắn khoảng cách đi TP.HCM, tạo đà cho phát triển kinh tế biển và năng lượng sạch.",
+      "id": "TraVinh_ECONOMY_01",
       "location": {
         "commune": null,
         "district": "Càng Long",
@@ -193,7 +281,24 @@
       "tags": [
         "Giao thông",
         "Kinh tế"
-      ]
+      ],
+      "title": "Khánh thành Cầu Cổ Chiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành Cầu Cổ Chiên 2015 Càng Long, Trà Vinh Giao thông Kinh tế lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành Cầu Cổ Chiên",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+C%E1%BA%A7u+C%E1%BB%95+Chi%C3%AAn+2015+C%C3%A0ng+Long%2C+Tr%C3%A0+Vinh+Giao+th%C3%B4ng+Kinh+t%E1%BA%BF+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2015
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/TraVinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/TraVinh_vi.json"
+  }
 }

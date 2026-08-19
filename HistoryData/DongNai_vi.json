@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "DongNai_FOUNDING_01",
-      "year": 1698,
       "date": null,
-      "title": "Nguyễn Hữu Cảnh kinh lược Đồng Nai",
       "description": "Thống suất Nguyễn Hữu Cảnh vâng lệnh chúa Nguyễn Phúc Chu vào kinh lược xứ Đồng Nai, thiết lập phủ Gia Định gồm huyện Phước Long (dinh Trấn Biên - Đồng Nai ngày nay) và huyện Tân Bình (dinh Phiên Trấn - Sài Gòn). Đây là cột mốc khai sinh vùng đất Nam Bộ vào bản đồ hành chính Việt Nam.",
+      "id": "DongNai_FOUNDING_01",
       "location": {
         "commune": "Hiệp Hòa",
         "district": "Thành phố Biên Hòa",
@@ -18,14 +16,23 @@
       "tags": [
         "Khai hoang",
         "Chúa Nguyễn"
-      ]
+      ],
+      "title": "Nguyễn Hữu Cảnh kinh lược Đồng Nai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nguyễn Hữu Cảnh kinh lược Đồng Nai 1698 Hiệp Hòa, Thành phố Biên Hòa, Đồng Nai Nguyễn Hữu Cảnh Trần Thượng Xuyên Khai hoang Chúa Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nguyễn Hữu Cảnh kinh lược Đồng Nai",
+          "url": "https://www.youtube.com/results?search_query=Nguy%E1%BB%85n+H%E1%BB%AFu+C%E1%BA%A3nh+kinh+l%C6%B0%E1%BB%A3c+%C4%90%E1%BB%93ng+Nai+1698+Hi%E1%BB%87p+H%C3%B2a%2C+Th%C3%A0nh+ph%E1%BB%91+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai+Nguy%E1%BB%85n+H%E1%BB%AFu+C%E1%BA%A3nh+Tr%E1%BA%A7n+Th%C6%B0%E1%BB%A3ng+Xuy%C3%AAn+Khai+hoang+Ch%C3%BAa+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1698
     },
     {
-      "id": "DongNai_REV_01",
-      "year": 1935,
-      "date": "1935-02-00",
-      "title": "Thành lập Chi bộ Đảng Bình Phước - Tân Triều",
+      "date": null,
       "description": "Tại làng Bình Phước (nay thuộc xã Tân Bình), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Biên Hòa được thành lập. Đây là hạt nhân lãnh đạo phong trào cách mạng tại Biên Hòa trong giai đoạn sơ khai.",
+      "id": "DongNai_REV_01",
       "location": {
         "commune": "Tân Bình",
         "district": "Vĩnh Cửu",
@@ -37,14 +44,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng Bình Phước - Tân Triều",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng Bình Phước - Tân Triều 1935 Tân Bình, Vĩnh Cửu, Đồng Nai Hoàng Minh Châu Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng Bình Phước - Tân Triều",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+-+T%C3%A2n+Tri%E1%BB%81u+1935+T%C3%A2n+B%C3%ACnh%2C+V%C4%A9nh+C%E1%BB%ADu%2C+%C4%90%E1%BB%93ng+Nai+Ho%C3%A0ng+Minh+Ch%C3%A2u+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1935
     },
     {
-      "id": "DongNai_REV_02",
-      "year": 1945,
       "date": "1945-08-27",
-      "title": "Giành chính quyền tại Biên Hòa",
       "description": "Khoảng 10.000 quần chúng từ các quận Châu Thành, Long Thành và công nhân các nhà máy đã kéo về Quảng trường Sông Phố dự mít tinh. Tỉnh trưởng Nguyễn Bá Thước buộc phải giao ấn tín. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Biên Hòa ra mắt nhân dân.",
+      "id": "DongNai_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Biên Hòa",
@@ -56,14 +72,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Biên Hòa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Biên Hòa 1945 Thành phố Biên Hòa, Đồng Nai Hoàng Minh Châu Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Biên Hòa",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Bi%C3%AAn+H%C3%B2a+1945+Th%C3%A0nh+ph%E1%BB%91+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai+Ho%C3%A0ng+Minh+Ch%C3%A2u+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "DongNai_FRENCH_WAR_01",
-      "year": 1946,
       "date": "1946-01-01",
-      "title": "Thành lập Chiến khu Đ",
       "description": "Chiến khu Đ được thành lập, bao gồm vùng rừng núi hiểm trở phía Bắc sông Đồng Nai (thuộc Vĩnh Cửu, Đồng Nai và Tân Uyên, Bình Dương). Đây là căn cứ địa kháng chiến huyền thoại, 'thủ đô kháng chiến' của miền Đông Nam Bộ.",
+      "id": "DongNai_FRENCH_WAR_01",
       "location": {
         "commune": "Mã Đà",
         "district": "Vĩnh Cửu",
@@ -75,14 +100,23 @@
       "tags": [
         "Căn cứ địa",
         "Chiến khu Đ"
-      ]
+      ],
+      "title": "Thành lập Chiến khu Đ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chiến khu Đ 1946 Mã Đà, Vĩnh Cửu, Đồng Nai Huỳnh Văn Nghệ Căn cứ địa Chiến khu Đ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chiến khu Đ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi%E1%BA%BFn+khu+%C4%90+1946+M%C3%A3+%C4%90%C3%A0%2C+V%C4%A9nh+C%E1%BB%ADu%2C+%C4%90%E1%BB%93ng+Nai+Hu%E1%BB%B3nh+V%C4%83n+Ngh%E1%BB%87+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+Chi%E1%BA%BFn+khu+%C4%90+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
-      "id": "DongNai_FRENCH_WAR_02",
-      "year": 1948,
       "date": "1948-03-01",
-      "title": "Trận phục kích La Ngà",
       "description": "Chi đội 10 và Liên quân 17 tổ chức trận địa phục kích đoàn xe quân sự Pháp trên Quốc lộ 20 (đoạn cầu La Ngà). Ta tiêu diệt 59 xe, diệt 150 tên địch (có cả Đại tá De Sérigné và nhiều sĩ quan cao cấp). Chiến thắng này vang dội khắp cả nước.",
+      "id": "DongNai_FRENCH_WAR_02",
       "location": {
         "commune": "Phú Ngọc",
         "district": "Định Quán",
@@ -94,14 +128,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Giao thông chiến"
-      ]
+      ],
+      "title": "Trận phục kích La Ngà",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận phục kích La Ngà 1948 Phú Ngọc, Định Quán, Đồng Nai Huỳnh Văn Nghệ Kháng chiến chống Pháp Giao thông chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận phục kích La Ngà",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+ph%E1%BB%A5c+k%C3%ADch+La+Ng%C3%A0+1948+Ph%C3%BA+Ng%E1%BB%8Dc%2C+%C4%90%E1%BB%8Bnh+Qu%C3%A1n%2C+%C4%90%E1%BB%93ng+Nai+Hu%E1%BB%B3nh+V%C4%83n+Ngh%E1%BB%87+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Giao+th%C3%B4ng+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
-      "id": "DongNai_US_WAR_01",
-      "year": 1959,
       "date": "1959-07-07",
-      "title": "Trận tập kích Nhà Xanh (Trận đánh Mỹ đầu tiên)",
       "description": "Đặc công Biên Hòa đã táo bạo tập kích vào Nhà Xanh (trụ sở phái đoàn cố vấn quân sự Mỹ - MAAG) tại Biên Hòa, tiêu diệt 2 cố vấn Mỹ. Đây được xem là trận đánh tiêu diệt lính Mỹ đầu tiên trên chiến trường miền Nam, báo hiệu sự thất bại của chính sách 'Mỹ hóa' chiến tranh.",
+      "id": "DongNai_US_WAR_01",
       "location": {
         "commune": "Thống Nhất",
         "district": "Thành phố Biên Hòa",
@@ -113,14 +156,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Trận đầu diệt Mỹ"
-      ]
+      ],
+      "title": "Trận tập kích Nhà Xanh (Trận đánh Mỹ đầu tiên)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận tập kích Nhà Xanh (Trận đánh Mỹ đầu tiên) 1959 Thống Nhất, Thành phố Biên Hòa, Đồng Nai Năm Hoa Kháng chiến chống Mỹ Trận đầu diệt Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận tập kích Nhà Xanh (Trận đánh Mỹ đầu tiên)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+t%E1%BA%ADp+k%C3%ADch+Nh%C3%A0+Xanh+%28Tr%E1%BA%ADn+%C4%91%C3%A1nh+M%E1%BB%B9+%C4%91%E1%BA%A7u+ti%C3%AAn%29+1959+Th%E1%BB%91ng+Nh%E1%BA%A5t%2C+Th%C3%A0nh+ph%E1%BB%91+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai+N%C4%83m+Hoa+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+di%E1%BB%87t+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1959
     },
     {
-      "id": "DongNai_US_WAR_02",
-      "year": 1964,
       "date": "1964-10-31",
-      "title": "Trận tập kích Sân bay Biên Hòa",
       "description": "Đoàn pháo binh Miền (U80) đã bí mật pháo kích dữ dội vào Sân bay Biên Hòa - căn cứ không quân chiến lược của Mỹ. Trận đánh phá hủy và làm hỏng 59 máy bay, diệt và làm bị thương gần 300 tên địch, gây chấn động Lầu Năm Góc.",
+      "id": "DongNai_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Biên Hòa",
@@ -132,14 +184,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Đặc công"
-      ]
+      ],
+      "title": "Trận tập kích Sân bay Biên Hòa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận tập kích Sân bay Biên Hòa 1964 Thành phố Biên Hòa, Đồng Nai Lương Văn Nho Kháng chiến chống Mỹ Đặc công lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận tập kích Sân bay Biên Hòa",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+t%E1%BA%ADp+k%C3%ADch+S%C3%A2n+bay+Bi%C3%AAn+H%C3%B2a+1964+Th%C3%A0nh+ph%E1%BB%91+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai+L%C6%B0%C6%A1ng+V%C4%83n+Nho+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+%C4%90%E1%BA%B7c+c%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1964
     },
     {
-      "id": "DongNai_US_WAR_03",
-      "year": 1968,
       "date": "1968-01-31",
-      "title": "Tổng tiến công Tết Mậu Thân (Mặt trận Biên Hòa - Long Bình)",
       "description": "Quân giải phóng đồng loạt tấn công các mục tiêu trọng yếu: Sân bay Biên Hòa, Tổng kho Long Bình, Bộ Tư lệnh Quân đoàn III... Tại Tổng kho Long Bình, đặc công ta đã phá hủy kho bom đạn lớn nhất của Mỹ ở miền Nam, gây cháy nổ dữ dội suốt nhiều ngày.",
+      "id": "DongNai_US_WAR_03",
       "location": {
         "commune": "Long Bình",
         "district": "Thành phố Biên Hòa",
@@ -149,14 +210,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Tổng kho Long Bình"
-      ]
+      ],
+      "title": "Tổng tiến công Tết Mậu Thân (Mặt trận Biên Hòa - Long Bình)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng tiến công Tết Mậu Thân (Mặt trận Biên Hòa - Long Bình) 1968 Long Bình, Thành phố Biên Hòa, Đồng Nai Tết Mậu Thân Tổng kho Long Bình lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng tiến công Tết Mậu Thân (Mặt trận Biên Hòa - Long Bình)",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+%28M%E1%BA%B7t+tr%E1%BA%ADn+Bi%C3%AAn+H%C3%B2a+-+Long+B%C3%ACnh%29+1968+Long+B%C3%ACnh%2C+Th%C3%A0nh+ph%E1%BB%91+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+T%E1%BB%95ng+kho+Long+B%C3%ACnh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "DongNai_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-21",
-      "title": "Chiến thắng Xuân Lộc (Đập tan 'Cánh cửa thép')",
       "description": "Sau 12 ngày đêm chiến đấu ác liệt (9/4 - 21/4), Quân đoàn 4 chủ lực đã đập tan tuyến phòng thủ kiên cố nhất của địch tại Xuân Lộc - Long Khánh ('Cánh cửa thép' bảo vệ Sài Gòn từ phía Đông). Chiến thắng này làm rung chuyển chế độ Sài Gòn, mở toang đường cho đại quân tiến vào Dinh Độc Lập.",
+      "id": "DongNai_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Long Khánh",
@@ -169,14 +239,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Chiến thắng lịch sử"
-      ]
+      ],
+      "title": "Chiến thắng Xuân Lộc (Đập tan 'Cánh cửa thép')",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Xuân Lộc (Đập tan 'Cánh cửa thép') 1975 Thành phố Long Khánh, Đồng Nai Hoàng Cầm Lê Minh Đảo Chiến dịch Xuân 1975 Chiến thắng lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Xuân Lộc (Đập tan 'Cánh cửa thép')",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Xu%C3%A2n+L%E1%BB%99c+%28%C4%90%E1%BA%ADp+tan+%27C%C3%A1nh+c%E1%BB%ADa+th%C3%A9p%27%29+1975+Th%C3%A0nh+ph%E1%BB%91+Long+Kh%C3%A1nh%2C+%C4%90%E1%BB%93ng+Nai+Ho%C3%A0ng+C%E1%BA%A7m+L%C3%AA+Minh+%C4%90%E1%BA%A3o+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "DongNai_US_WAR_05",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng Biên Hòa",
       "description": "Sáng 30/4, Quân đoàn 2 và các lực lượng địa phương tiến công giải phóng hoàn toàn thành phố Biên Hòa, chiếm Sân bay Biên Hòa và Bộ Tư lệnh Quân đoàn III ngụy, đập tan tuyến phòng thủ cuối cùng ở cửa ngõ Đông Bắc Sài Gòn.",
+      "id": "DongNai_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Thành phố Biên Hòa",
@@ -186,14 +265,23 @@
       "tags": [
         "Giải phóng",
         "Chiến dịch Hồ Chí Minh"
-      ]
+      ],
+      "title": "Giải phóng Biên Hòa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Biên Hòa 1975 Thành phố Biên Hòa, Đồng Nai Giải phóng Chiến dịch Hồ Chí Minh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Biên Hòa",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Bi%C3%AAn+H%C3%B2a+1975+Th%C3%A0nh+ph%E1%BB%91+Bi%C3%AAn+H%C3%B2a%2C+%C4%90%E1%BB%93ng+Nai+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%E1%BB%93+Ch%C3%AD+Minh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "DongNai_CULTURE_01",
-      "year": 2001,
       "date": "2001-11-10",
-      "title": "Vườn quốc gia Cát Tiên được UNESCO công nhận",
-      "description": "UNESCO công nhận Vườn quốc gia Cát Tiên là Khu dự trữ sinh quyển thế giới (lần thứ 411). Đây là khu vực bảo tồn thiên nhiên quan trọng bậc nhất Việt Nam với hệ động thực vật phong phú, nơi từng phát hiện quần thể tê giác Java một sừng cuối cùng.",
+      "description": "Ngày 10/11/2001, UNESCO công nhận Khu dự trữ sinh quyển Cát Tiên. Sau các lần mở rộng và điều chỉnh, không gian bảo tồn này phát triển thành Khu dự trữ sinh quyển thế giới Đồng Nai, một vùng đa dạng sinh học quan trọng của Đông Nam Bộ.",
+      "id": "DongNai_CULTURE_01",
       "location": {
         "commune": "Nam Cát Tiên",
         "district": "Tân Phú",
@@ -203,7 +291,24 @@
       "tags": [
         "Môi trường",
         "Di sản UNESCO"
-      ]
+      ],
+      "title": "Khu dự trữ sinh quyển Cát Tiên được UNESCO công nhận",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khu dự trữ sinh quyển Cát Tiên được UNESCO công nhận 2001 Nam Cát Tiên, Tân Phú, Đồng Nai Môi trường Di sản UNESCO lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khu dự trữ sinh quyển Cát Tiên được UNESCO công nhận",
+          "url": "https://www.youtube.com/results?search_query=Khu+d%E1%BB%B1+tr%E1%BB%AF+sinh+quy%E1%BB%83n+C%C3%A1t+Ti%C3%AAn+%C4%91%C6%B0%E1%BB%A3c+UNESCO+c%C3%B4ng+nh%E1%BA%ADn+2001+Nam+C%C3%A1t+Ti%C3%AAn%2C+T%C3%A2n+Ph%C3%BA%2C+%C4%90%E1%BB%93ng+Nai+M%C3%B4i+tr%C6%B0%E1%BB%9Dng+Di+s%E1%BA%A3n+UNESCO+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2001
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/DongNai.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/DongNai_vi.json"
+  }
 }

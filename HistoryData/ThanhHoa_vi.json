@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "ThanhHoa_EARLY_01",
-      "year": 248,
       "date": null,
-      "title": "Khởi nghĩa Bà Triệu",
       "description": "Tại vùng núi Nưa (Triệu Sơn) và Phú Điền (Hậu Lộc), Bà Triệu (Triệu Thị Trinh) cùng anh trai là Triệu Quốc Đạt đã phất cờ khởi nghĩa chống lại ách đô hộ của nhà Đông Ngô, làm chấn động giao châu với câu nói nổi tiếng về chí khí nam nhi.",
+      "id": "ThanhHoa_EARLY_01",
       "location": {
         "commune": "Triệu Lộc",
         "district": "Hậu Lộc",
@@ -18,14 +16,23 @@
       "tags": [
         "Bắc thuộc",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Khởi nghĩa Bà Triệu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Bà Triệu 248 Triệu Lộc, Hậu Lộc, Thanh Hóa Triệu Thị Trinh Triệu Quốc Đạt Bắc thuộc Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Bà Triệu",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+B%C3%A0+Tri%E1%BB%87u+248+Tri%E1%BB%87u+L%E1%BB%99c%2C+H%E1%BA%ADu+L%E1%BB%99c%2C+Thanh+H%C3%B3a+Tri%E1%BB%87u+Th%E1%BB%8B+Trinh+Tri%E1%BB%87u+Qu%E1%BB%91c+%C4%90%E1%BA%A1t+B%E1%BA%AFc+thu%E1%BB%99c+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 248
     },
     {
-      "id": "ThanhHoa_HO_01",
-      "year": 1397,
       "date": null,
-      "title": "Dời đô về Tây Đô (Thành nhà Hồ)",
       "description": "Hồ Quý Ly ép vua Trần Thuận Tông dời kinh đô từ Thăng Long về Thanh Hóa, xây dựng tòa thành đá kiên cố (Thành Tây Đô) tại huyện Vĩnh Lộc. Đây là công trình kiến trúc bằng đá độc đáo duy nhất còn lại ở Đông Nam Á.",
+      "id": "ThanhHoa_HO_01",
       "location": {
         "commune": "Vĩnh Long",
         "district": "Vĩnh Lộc",
@@ -37,14 +44,23 @@
       "tags": [
         "Nhà Hồ",
         "Di sản văn hóa"
-      ]
+      ],
+      "title": "Dời đô về Tây Đô (Thành nhà Hồ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Dời đô về Tây Đô (Thành nhà Hồ) 1397 Vĩnh Long, Vĩnh Lộc, Thanh Hóa Hồ Quý Ly Nhà Hồ Di sản văn hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Dời đô về Tây Đô (Thành nhà Hồ)",
+          "url": "https://www.youtube.com/results?search_query=D%E1%BB%9Di+%C4%91%C3%B4+v%E1%BB%81+T%C3%A2y+%C4%90%C3%B4+%28Th%C3%A0nh+nh%C3%A0+H%E1%BB%93%29+1397+V%C4%A9nh+Long%2C+V%C4%A9nh+L%E1%BB%99c%2C+Thanh+H%C3%B3a+H%E1%BB%93+Qu%C3%BD+Ly+Nh%C3%A0+H%E1%BB%93+Di+s%E1%BA%A3n+v%C4%83n+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1397
     },
     {
-      "id": "ThanhHoa_LAMSON_01",
-      "year": 1416,
       "date": "1416-02-01",
-      "title": "Hội thề Lũng Nhai",
       "description": "Tại rừng Lũng Nhai, Lê Lợi cùng 18 người hào kiệt (trong đó có Nguyễn Trãi, Lê Lai) đã tổ chức lễ tế cáo trời đất, kết nghĩa anh em, thề sống chết có nhau để đánh đuổi giặc Minh, cứu nước.",
+      "id": "ThanhHoa_LAMSON_01",
       "location": {
         "commune": "Ngọc Phụng",
         "district": "Thường Xuân",
@@ -58,14 +74,23 @@
       "tags": [
         "Khởi nghĩa Lam Sơn",
         "Hội thề"
-      ]
+      ],
+      "title": "Hội thề Lũng Nhai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hội thề Lũng Nhai 1416 Ngọc Phụng, Thường Xuân, Thanh Hóa Lê Lợi Nguyễn Trãi Lê Lai Khởi nghĩa Lam Sơn Hội thề lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hội thề Lũng Nhai",
+          "url": "https://www.youtube.com/results?search_query=H%E1%BB%99i+th%E1%BB%81+L%C5%A9ng+Nhai+1416+Ng%E1%BB%8Dc+Ph%E1%BB%A5ng%2C+Th%C6%B0%E1%BB%9Dng+Xu%C3%A2n%2C+Thanh+H%C3%B3a+L%C3%AA+L%E1%BB%A3i+Nguy%E1%BB%85n+Tr%C3%A3i+L%C3%AA+Lai+Kh%E1%BB%9Fi+ngh%C4%A9a+Lam+S%C6%A1n+H%E1%BB%99i+th%E1%BB%81+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1416
     },
     {
-      "id": "ThanhHoa_LAMSON_02",
-      "year": 1418,
       "date": "1418-02-07",
-      "title": "Khởi nghĩa Lam Sơn bùng nổ",
       "description": "Lê Lợi xưng là Bình Định Vương, chính thức dựng cờ khởi nghĩa tại vùng đất Lam Sơn chống lại quân Minh xâm lược. Cuộc khởi nghĩa kéo dài 10 năm và kết thúc thắng lợi, mở ra triều đại Hậu Lê.",
+      "id": "ThanhHoa_LAMSON_02",
       "location": {
         "commune": "Xuân Lam",
         "district": "Thọ Xuân",
@@ -77,14 +102,23 @@
       "tags": [
         "Khởi nghĩa Lam Sơn",
         "Chống ngoại xâm"
-      ]
+      ],
+      "title": "Khởi nghĩa Lam Sơn bùng nổ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Lam Sơn bùng nổ 1418 Xuân Lam, Thọ Xuân, Thanh Hóa Lê Lợi Khởi nghĩa Lam Sơn Chống ngoại xâm lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Lam Sơn bùng nổ",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Lam+S%C6%A1n+b%C3%B9ng+n%E1%BB%95+1418+Xu%C3%A2n+Lam%2C+Th%E1%BB%8D+Xu%C3%A2n%2C+Thanh+H%C3%B3a+L%C3%AA+L%E1%BB%A3i+Kh%E1%BB%9Fi+ngh%C4%A9a+Lam+S%C6%A1n+Ch%E1%BB%91ng+ngo%E1%BA%A1i+x%C3%A2m+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1418
     },
     {
-      "id": "ThanhHoa_COLONIAL_01",
-      "year": 1886,
       "date": "1886-12-18",
-      "title": "Khởi nghĩa Ba Đình",
       "description": "Dưới sự lãnh đạo của Đinh Công Tráng và Phạm Bành, nghĩa quân đã biến ba làng Mậu Thịnh, Thượng Thọ, Mỹ Khê thành một cứ điểm phòng thủ kiên cố ngập nước (chiến khu Ba Đình), cầm cự quyết liệt với quân Pháp trong phong trào Cần Vương.",
+      "id": "ThanhHoa_COLONIAL_01",
       "location": {
         "commune": "Ba Đình",
         "district": "Nga Sơn",
@@ -97,14 +131,23 @@
       "tags": [
         "Phong trào Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Khởi nghĩa Ba Đình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Ba Đình 1886 Ba Đình, Nga Sơn, Thanh Hóa Đinh Công Tráng Phạm Bành Phong trào Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Ba Đình",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Ba+%C4%90%C3%ACnh+1886+Ba+%C4%90%C3%ACnh%2C+Nga+S%C6%A1n%2C+Thanh+H%C3%B3a+%C4%90inh+C%C3%B4ng+Tr%C3%A1ng+Ph%E1%BA%A1m+B%C3%A0nh+Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1886
     },
     {
+      "date": "1930-06-25",
+      "description": "Ngày 25/6/1930, Chi bộ Hàm Hạ được thành lập, được xác định là chi bộ cộng sản đầu tiên của tỉnh Thanh Hóa, mở đầu quá trình xây dựng tổ chức Đảng ở địa phương.",
       "id": "ThanhHoa_REV_01",
-      "year": 1930,
-      "date": "1930-07-22",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
-      "description": "Tại nhà đồng chí Lê Văn Sỹ (làng Hàm Hạ), Hội nghị thành lập Chi bộ Đảng Cộng sản Việt Nam đầu tiên của tỉnh Thanh Hóa được tổ chức gồm 3 đảng viên, do đồng chí Lê Thế Long làm Bí thư.",
       "location": {
         "commune": "Đông Tiến",
         "district": "Đông Sơn",
@@ -116,14 +159,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Hàm Hạ - chi bộ cộng sản đầu tiên ở Thanh Hóa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Hàm Hạ - chi bộ cộng sản đầu tiên ở Thanh Hóa 1930 Đông Tiến, Đông Sơn, Thanh Hóa Lê Thế Long Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Hàm Hạ - chi bộ cộng sản đầu tiên ở Thanh Hóa",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+H%C3%A0m+H%E1%BA%A1+-+chi+b%E1%BB%99+c%E1%BB%99ng+s%E1%BA%A3n+%C4%91%E1%BA%A7u+ti%C3%AAn+%E1%BB%9F+Thanh+H%C3%B3a+1930+%C4%90%C3%B4ng+Ti%E1%BA%BFn%2C+%C4%90%C3%B4ng+S%C6%A1n%2C+Thanh+H%C3%B3a+L%C3%AA+Th%E1%BA%BF+Long+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
+      "date": "1945-08-20",
+      "description": "Ngày 20/8/1945, lực lượng cách mạng và quần chúng giành chính quyền tại tỉnh lỵ Thanh Hóa, góp phần hoàn tất thắng lợi Cách mạng tháng Tám trên địa bàn tỉnh.",
       "id": "ThanhHoa_REV_02",
-      "year": 1945,
-      "date": "1945-08-19",
-      "title": "Giành chính quyền tại Thanh Hóa",
-      "description": "Hòa cùng khí thế của Hà Nội, quần chúng nhân dân và lực lượng tự vệ Thanh Hóa đã bao vây Dinh Tổng đốc, buộc Tổng đốc Nguyễn Trác phải đầu hàng. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Thanh Hóa ra mắt nhân dân.",
       "location": {
         "commune": null,
         "district": "Thành phố Thanh Hóa",
@@ -133,14 +185,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Thanh Hóa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Thanh Hóa 1945 Thành phố Thanh Hóa, Thanh Hóa Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Thanh Hóa",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Thanh+H%C3%B3a+1945+Th%C3%A0nh+ph%E1%BB%91+Thanh+H%C3%B3a%2C+Thanh+H%C3%B3a+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "ThanhHoa_FRENCH_WAR_01",
-      "year": 1947,
       "date": "1947-02-20",
-      "title": "Bác Hồ về thăm Thanh Hóa lần đầu tiên",
       "description": "Chủ tịch Hồ Chí Minh về thăm Thanh Hóa và có cuộc nói chuyện lịch sử tại Rừng Thông. Người giao nhiệm vụ: 'Tỉnh Thanh Hóa phải trở nên một tỉnh kiểu mẫu'.",
+      "id": "ThanhHoa_FRENCH_WAR_01",
       "location": {
         "commune": "Đông Lĩnh",
         "district": "Thành phố Thanh Hóa",
@@ -152,14 +213,23 @@
       "tags": [
         "Lãnh tụ",
         "Hậu phương lớn"
-      ]
+      ],
+      "title": "Bác Hồ về thăm Thanh Hóa lần đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bác Hồ về thăm Thanh Hóa lần đầu tiên 1947 Đông Lĩnh, Thành phố Thanh Hóa, Thanh Hóa Hồ Chí Minh Lãnh tụ Hậu phương lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bác Hồ về thăm Thanh Hóa lần đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=B%C3%A1c+H%E1%BB%93+v%E1%BB%81+th%C4%83m+Thanh+H%C3%B3a+l%E1%BA%A7n+%C4%91%E1%BA%A7u+ti%C3%AAn+1947+%C4%90%C3%B4ng+L%C4%A9nh%2C+Th%C3%A0nh+ph%E1%BB%91+Thanh+H%C3%B3a%2C+Thanh+H%C3%B3a+H%E1%BB%93+Ch%C3%AD+Minh+L%C3%A3nh+t%E1%BB%A5+H%E1%BA%ADu+ph%C6%B0%C6%A1ng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1947
     },
     {
-      "id": "ThanhHoa_US_WAR_01",
-      "year": 1965,
       "date": "1965-04-03",
-      "title": "Chiến thắng Hàm Rồng - Nam Ngạn",
       "description": "Trong hai ngày 3 và 4/4, không quân Mỹ tập trung đánh phá cầu Hàm Rồng nhằm cắt đứt mạch máu giao thông. Quân dân Thanh Hóa đã chiến đấu kiên cường, bắn rơi 47 máy bay Mỹ, bảo vệ an toàn cây cầu.",
+      "id": "ThanhHoa_US_WAR_01",
       "location": {
         "commune": "Hàm Rồng",
         "district": "Thành phố Thanh Hóa",
@@ -171,14 +241,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Hàm Rồng"
-      ]
+      ],
+      "title": "Chiến thắng Hàm Rồng - Nam Ngạn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Hàm Rồng - Nam Ngạn 1965 Hàm Rồng, Thành phố Thanh Hóa, Thanh Hóa Ngô Thị Tuyển Kháng chiến chống Mỹ Hàm Rồng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Hàm Rồng - Nam Ngạn",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+H%C3%A0m+R%E1%BB%93ng+-+Nam+Ng%E1%BA%A1n+1965+H%C3%A0m+R%E1%BB%93ng%2C+Th%C3%A0nh+ph%E1%BB%91+Thanh+H%C3%B3a%2C+Thanh+H%C3%B3a+Ng%C3%B4+Th%E1%BB%8B+Tuy%E1%BB%83n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+H%C3%A0m+R%E1%BB%93ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "ThanhHoa_US_WAR_02",
-      "year": 1967,
       "date": "1967-10-14",
-      "title": "Trung đội Lão dân quân Hoằng Trường bắn rơi máy bay",
       "description": "Trung đội Lão dân quân xã Hoằng Trường (gồm 18 cụ già) đã dùng súng bộ binh bắn rơi máy bay phản lực hiện đại của Mỹ. Đây là đơn vị lão dân quân đầu tiên ở miền Bắc lập được chiến công này, được Bác Hồ gửi thư khen.",
+      "id": "ThanhHoa_US_WAR_02",
       "location": {
         "commune": "Hoằng Trường",
         "district": "Hoằng Hóa",
@@ -188,7 +267,24 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Dân quân"
-      ]
+      ],
+      "title": "Trung đội Lão dân quân Hoằng Trường bắn rơi máy bay",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trung đội Lão dân quân Hoằng Trường bắn rơi máy bay 1967 Hoằng Trường, Hoằng Hóa, Thanh Hóa Kháng chiến chống Mỹ Dân quân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trung đội Lão dân quân Hoằng Trường bắn rơi máy bay",
+          "url": "https://www.youtube.com/results?search_query=Trung+%C4%91%E1%BB%99i+L%C3%A3o+d%C3%A2n+qu%C3%A2n+Ho%E1%BA%B1ng+Tr%C6%B0%E1%BB%9Dng+b%E1%BA%AFn+r%C6%A1i+m%C3%A1y+bay+1967+Ho%E1%BA%B1ng+Tr%C6%B0%E1%BB%9Dng%2C+Ho%E1%BA%B1ng+H%C3%B3a%2C+Thanh+H%C3%B3a+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+D%C3%A2n+qu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/ThanhHoa.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/ThanhHoa_vi.json"
+  }
 }

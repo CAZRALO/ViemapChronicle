@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "QuangTri_NGUYEN_01",
-      "year": 1558,
       "date": null,
-      "title": "Chúa Nguyễn Hoàng vào trấn thủ Thuận Hóa",
       "description": "Nguyễn Hoàng cùng gia quyến và binh lính vào đóng quân tại Ái Tử, mở đầu cho sự nghiệp của các chúa Nguyễn ở Đàng Trong. Vùng đất Ái Tử - Trà Bát trở thành thủ phủ đầu tiên, đặt nền móng cho việc mở mang bờ cõi về phương Nam.",
+      "id": "QuangTri_NGUYEN_01",
       "location": {
         "commune": "Triệu Ái",
         "district": "Triệu Phong",
@@ -17,14 +15,23 @@
       "tags": [
         "Chúa Nguyễn",
         "Đàng Trong"
-      ]
+      ],
+      "title": "Chúa Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chúa Nguyễn Hoàng vào trấn thủ Thuận Hóa 1558 Triệu Ái, Triệu Phong, Quảng Trị Nguyễn Hoàng Chúa Nguyễn Đàng Trong lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chúa Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+          "url": "https://www.youtube.com/results?search_query=Ch%C3%BAa+Nguy%E1%BB%85n+Ho%C3%A0ng+v%C3%A0o+tr%E1%BA%A5n+th%E1%BB%A7+Thu%E1%BA%ADn+H%C3%B3a+1558+Tri%E1%BB%87u+%C3%81i%2C+Tri%E1%BB%87u+Phong%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Nguy%E1%BB%85n+Ho%C3%A0ng+Ch%C3%BAa+Nguy%E1%BB%85n+%C4%90%C3%A0ng+Trong+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1558
     },
     {
-      "id": "QuangTri_CANVUONG_01",
-      "year": 1885,
       "date": "1885-07-13",
-      "title": "Ban Chiếu Cần Vương tại Tân Sở",
       "description": "Sau khi kinh thành Huế thất thủ, Tôn Thất Thuyết đưa vua Hàm Nghi ra căn cứ Tân Sở. Tại đây, thay mặt vua, ông đã ban Chiếu Cần Vương lần thứ nhất, kêu gọi văn thân, sĩ phu và nhân dân đứng lên giúp vua cứu nước.",
+      "id": "QuangTri_CANVUONG_01",
       "location": {
         "commune": "Cam Chính",
         "district": "Cam Lộ",
@@ -37,14 +44,23 @@
       "tags": [
         "Phong trào Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Ban Chiếu Cần Vương tại Tân Sở",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Ban Chiếu Cần Vương tại Tân Sở 1885 Cam Chính, Cam Lộ, Quảng Trị Hàm Nghi Tôn Thất Thuyết Phong trào Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Ban Chiếu Cần Vương tại Tân Sở",
+          "url": "https://www.youtube.com/results?search_query=Ban+Chi%E1%BA%BFu+C%E1%BA%A7n+V%C6%B0%C6%A1ng+t%E1%BA%A1i+T%C3%A2n+S%E1%BB%9F+1885+Cam+Ch%C3%ADnh%2C+Cam+L%E1%BB%99%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+H%C3%A0m+Nghi+T%C3%B4n+Th%E1%BA%A5t+Thuy%E1%BA%BFt+Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
-      "id": "QuangTri_REV_01",
-      "year": 1930,
       "date": "1930-04-21",
-      "title": "Thành lập Đảng bộ Đảng Cộng sản tỉnh Quảng Trị",
       "description": "Tại nhà bà Nguyễn Thị Lợi (làng Phước Kiểm), Hội nghị thành lập Đảng bộ tỉnh Quảng Trị được tổ chức, cử ra Ban Chấp hành lâm thời. Đây là mốc son đánh dấu sự lãnh đạo trực tiếp của Đảng đối với phong trào cách mạng địa phương.",
+      "id": "QuangTri_REV_01",
       "location": {
         "commune": "Cam Thành",
         "district": "Cam Lộ",
@@ -54,14 +70,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Đảng bộ Đảng Cộng sản tỉnh Quảng Trị",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ Đảng Cộng sản tỉnh Quảng Trị 1930 Cam Thành, Cam Lộ, Quảng Trị Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ Đảng Cộng sản tỉnh Quảng Trị",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+t%E1%BB%89nh+Qu%E1%BA%A3ng+Tr%E1%BB%8B+1930+Cam+Th%C3%A0nh%2C+Cam+L%E1%BB%99%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
+      "date": "1954-07-21",
+      "description": "Hiệp định Genève về Đông Dương được ký kết ngày 21/7/1954, quy định khu vực sông Bến Hải gần vĩ tuyến 17 làm giới tuyến quân sự tạm thời để hai bên tập kết lực lượng. Đây không phải biên giới lãnh thổ, nhưng Quảng Trị trở thành địa bàn mang dấu ấn sâu sắc của sự chia cắt hai miền cho đến năm 1975.",
       "id": "QuangTri_FRENCH_WAR_01",
-      "year": 1954,
-      "date": "1954-08-25",
-      "title": "Vĩ tuyến 17 và sự chia cắt đất nước",
-      "description": "Theo Hiệp định Genève, sông Bến Hải (vĩ tuyến 17) được chọn làm giới tuyến quân sự tạm thời. Cầu Hiền Lương trở thành biểu tượng của nỗi đau chia cắt hai miền Nam - Bắc trong suốt hơn 20 năm.",
       "location": {
         "commune": "Hiền Lương",
         "district": "Vĩnh Linh",
@@ -71,14 +96,23 @@
       "tags": [
         "Hiệp định Genève",
         "Chia cắt"
-      ]
+      ],
+      "title": "Hiệp định Genève xác lập giới tuyến quân sự tạm thời ở vĩ tuyến 17",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hiệp định Genève xác lập giới tuyến quân sự tạm thời ở vĩ tuyến 17 1954 Hiền Lương, Vĩnh Linh, Quảng Trị Hiệp định Genève Chia cắt lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hiệp định Genève xác lập giới tuyến quân sự tạm thời ở vĩ tuyến 17",
+          "url": "https://www.youtube.com/results?search_query=Hi%E1%BB%87p+%C4%91%E1%BB%8Bnh+Gen%C3%A8ve+x%C3%A1c+l%E1%BA%ADp+gi%E1%BB%9Bi+tuy%E1%BA%BFn+qu%C3%A2n+s%E1%BB%B1+t%E1%BA%A1m+th%E1%BB%9Di+%E1%BB%9F+v%C4%A9+tuy%E1%BA%BFn+17+1954+Hi%E1%BB%81n+L%C6%B0%C6%A1ng%2C+V%C4%A9nh+Linh%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Hi%E1%BB%87p+%C4%91%E1%BB%8Bnh+Gen%C3%A8ve+Chia+c%E1%BA%AFt+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "QuangTri_US_WAR_01",
-      "year": 1965,
       "date": "1965-02-08",
-      "title": "Không kích đảo Cồn Cỏ",
       "description": "Không quân và hải quân Mỹ bắt đầu đánh phá ác liệt đảo Cồn Cỏ - 'vọng gác tiền tiêu' của miền Bắc xã hội chủ nghĩa. Cán bộ chiến sĩ đảo Cồn Cỏ đã chiến đấu kiên cường suốt nhiều năm, được Bác Hồ 3 lần gửi thư khen.",
+      "id": "QuangTri_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Cồn Cỏ",
@@ -88,14 +122,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Hải đảo"
-      ]
+      ],
+      "title": "Không kích đảo Cồn Cỏ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Không kích đảo Cồn Cỏ 1965 Cồn Cỏ, Quảng Trị Kháng chiến chống Mỹ Hải đảo lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Không kích đảo Cồn Cỏ",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%B4ng+k%C3%ADch+%C4%91%E1%BA%A3o+C%E1%BB%93n+C%E1%BB%8F+1965+C%E1%BB%93n+C%E1%BB%8F%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+H%E1%BA%A3i+%C4%91%E1%BA%A3o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangTri_US_WAR_02",
-      "year": 1966,
       "date": null,
-      "title": "Hoàn thành Địa đạo Vịnh Mốc",
-      "description": "Quân và dân Vĩnh Linh đã kỳ công đào hệ thống địa đạo Vịnh Mốc dài gần 2km trong lòng đất đỏ bazan để làm nơi trú ẩn và sinh hoạt cho hàng trăm người dân trước sự đánh phá hủy diệt của bom đạn Mỹ.",
+      "description": "Từ khoảng năm 1965 đến 1967, quân và dân Vĩnh Linh đào và hoàn thiện hệ thống Địa đạo Vịnh Mốc để trú ẩn, sinh hoạt và bám trụ trước bom đạn chiến tranh. Công trình được xây dựng qua nhiều giai đoạn, không có một ngày 'hoàn thành' duy nhất.",
+      "id": "QuangTri_US_WAR_02",
       "location": {
         "commune": "Vĩnh Thạch",
         "district": "Vĩnh Linh",
@@ -105,14 +148,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Địa đạo"
-      ]
+      ],
+      "title": "Xây dựng Địa đạo Vịnh Mốc (1965-1967)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Địa đạo Vịnh Mốc (1965-1967) 1965 Vĩnh Thạch, Vĩnh Linh, Quảng Trị Kháng chiến chống Mỹ Địa đạo lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Địa đạo Vịnh Mốc (1965-1967)",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+%C4%90%E1%BB%8Ba+%C4%91%E1%BA%A1o+V%E1%BB%8Bnh+M%E1%BB%91c+%281965-1967%29+1965+V%C4%A9nh+Th%E1%BA%A1ch%2C+V%C4%A9nh+Linh%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+%C4%90%E1%BB%8Ba+%C4%91%E1%BA%A1o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangTri_US_WAR_03",
-      "year": 1968,
       "date": "1968-01-20",
-      "title": "Chiến dịch Đường 9 - Khe Sanh",
       "description": "Quân đội Nhân dân Việt Nam mở chiến dịch vây hãm căn cứ Thủy quân lục chiến Mỹ tại Khe Sanh (Tà Cơn). Cuộc vây hãm kéo dài 77 ngày đêm đã thu hút và giam chân một lực lượng lớn quân Mỹ, tạo điều kiện cho cuộc Tổng tiến công Tết Mậu Thân trên toàn miền Nam.",
+      "id": "QuangTri_US_WAR_03",
       "location": {
         "commune": "Tân Hợp",
         "district": "Hướng Hóa",
@@ -122,14 +174,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Khe Sanh"
-      ]
+      ],
+      "title": "Chiến dịch Đường 9 - Khe Sanh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch Đường 9 - Khe Sanh 1968 Tân Hợp, Hướng Hóa, Quảng Trị Kháng chiến chống Mỹ Khe Sanh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến dịch Đường 9 - Khe Sanh",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90%C6%B0%E1%BB%9Dng+9+-+Khe+Sanh+1968+T%C3%A2n+H%E1%BB%A3p%2C+H%C6%B0%E1%BB%9Bng+H%C3%B3a%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Khe+Sanh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "QuangTri_US_WAR_04",
-      "year": 1972,
       "date": "1972-05-01",
-      "title": "Giải phóng thị xã Quảng Trị lần đầu",
       "description": "Trong cuộc Tiến công chiến lược năm 1972, quân ta chọc thủng phòng tuyến Đường 9, buộc quân đội Sài Gòn rút chạy. Tỉnh Quảng Trị được giải phóng lần đầu tiên, gây chấn động dư luận quốc tế.",
+      "id": "QuangTri_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thị xã Quảng Trị",
@@ -139,14 +200,23 @@
       "tags": [
         "Mùa hè đỏ lửa",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thị xã Quảng Trị lần đầu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Quảng Trị lần đầu 1972 Thị xã Quảng Trị, Quảng Trị Mùa hè đỏ lửa Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Quảng Trị lần đầu",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+Qu%E1%BA%A3ng+Tr%E1%BB%8B+l%E1%BA%A7n+%C4%91%E1%BA%A7u+1972+Th%E1%BB%8B+x%C3%A3+Qu%E1%BA%A3ng+Tr%E1%BB%8B%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+M%C3%B9a+h%C3%A8+%C4%91%E1%BB%8F+l%E1%BB%ADa+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
-      "id": "QuangTri_US_WAR_05",
-      "year": 1972,
       "date": "1972-06-28",
-      "title": "Cuộc chiến đấu 81 ngày đêm bảo vệ Thành cổ",
       "description": "Quân đội Mỹ và VNCH mở cuộc hành quân tái chiếm Quảng Trị. Các chiến sĩ quân Giải phóng đã bám trụ kiên cường trong Thành cổ Quảng Trị suốt 81 ngày đêm (từ 28/6 đến 16/9) dưới mật độ bom đạn khủng khiếp chưa từng có, viết nên khúc tráng ca bất tử.",
+      "id": "QuangTri_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Thị xã Quảng Trị",
@@ -156,14 +226,23 @@
       "tags": [
         "Mùa hè đỏ lửa",
         "Thành cổ Quảng Trị"
-      ]
+      ],
+      "title": "Cuộc chiến đấu 81 ngày đêm bảo vệ Thành cổ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc chiến đấu 81 ngày đêm bảo vệ Thành cổ 1972 Thị xã Quảng Trị, Quảng Trị Mùa hè đỏ lửa Thành cổ Quảng Trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc chiến đấu 81 ngày đêm bảo vệ Thành cổ",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+chi%E1%BA%BFn+%C4%91%E1%BA%A5u+81+ng%C3%A0y+%C4%91%C3%AAm+b%E1%BA%A3o+v%E1%BB%87+Th%C3%A0nh+c%E1%BB%95+1972+Th%E1%BB%8B+x%C3%A3+Qu%E1%BA%A3ng+Tr%E1%BB%8B%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+M%C3%B9a+h%C3%A8+%C4%91%E1%BB%8F+l%E1%BB%ADa+Th%C3%A0nh+c%E1%BB%95+Qu%E1%BA%A3ng+Tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
-      "id": "QuangTri_US_WAR_06",
-      "year": 1973,
       "date": "1973-06-06",
-      "title": "Ra mắt Trụ sở Chính phủ Cách mạng Lâm thời",
       "description": "Sau khi Hiệp định Paris được ký kết, Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam đã đặt trụ sở tại Cam Lộ. Tại đây, nhiều đại sứ các nước đã đến trình Quốc thư, đặc biệt là chuyến thăm lịch sử của Chủ tịch Cuba Fidel Castro (tháng 9/1973).",
+      "id": "QuangTri_US_WAR_06",
       "location": {
         "commune": "Cam Lộ",
         "district": "Cam Lộ",
@@ -176,14 +255,23 @@
       "tags": [
         "Ngoại giao",
         "Chính trị"
-      ]
+      ],
+      "title": "Ra mắt Trụ sở Chính phủ Cách mạng Lâm thời",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Ra mắt Trụ sở Chính phủ Cách mạng Lâm thời 1973 Cam Lộ, Cam Lộ, Quảng Trị Nguyễn Hữu Thọ Fidel Castro Ngoại giao Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Ra mắt Trụ sở Chính phủ Cách mạng Lâm thời",
+          "url": "https://www.youtube.com/results?search_query=Ra+m%E1%BA%AFt+Tr%E1%BB%A5+s%E1%BB%9F+Ch%C3%ADnh+ph%E1%BB%A7+C%C3%A1ch+m%E1%BA%A1ng+L%C3%A2m+th%E1%BB%9Di+1973+Cam+L%E1%BB%99%2C+Cam+L%E1%BB%99%2C+Qu%E1%BA%A3ng+Tr%E1%BB%8B+Nguy%E1%BB%85n+H%E1%BB%AFu+Th%E1%BB%8D+Fidel+Castro+Ngo%E1%BA%A1i+giao+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1973
     },
     {
+      "date": "1989-07-01",
+      "description": "Ngày 30/6/1989, Quốc hội quyết định chia tỉnh Bình Trị Thiên thành Quảng Bình, Quảng Trị và Thừa Thiên Huế. Tỉnh Quảng Trị tái lập chính thức đi vào hoạt động từ ngày 1/7/1989.",
       "id": "QuangTri_ADMIN_01",
-      "year": 1989,
-      "date": "1989-06-30",
-      "title": "Tái lập tỉnh Quảng Trị",
-      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Bình Trị Thiên (hợp nhất từ năm 1976) trở lại thành 3 tỉnh: Quảng Bình, Quảng Trị và Thừa Thiên Huế. Tỉnh Quảng Trị chính thức đi vào hoạt động trở lại từ ngày 01/07/1989.",
       "location": {
         "commune": null,
         "district": null,
@@ -193,7 +281,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Quảng Trị",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Quảng Trị 1989 Quảng Trị Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Quảng Trị",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Qu%E1%BA%A3ng+Tr%E1%BB%8B+1989+Qu%E1%BA%A3ng+Tr%E1%BB%8B+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1989
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/QuangTri.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/QuangTri_vi.json"
+  }
 }

@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "CaMau_REV_01",
-      "year": 1930,
-      "date": "1930-00-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Tân Hưng)",
+      "date": null,
       "description": "Tại đình Tân Hưng (huyện Cái Nước cũ), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Cà Mau được thành lập. Đây là mốc son đánh dấu sự ra đời của hạt nhân lãnh đạo phong trào cách mạng tại vùng đất cực Nam.",
+      "id": "CaMau_REV_01",
       "location": {
         "commune": "Lý Văn Lâm",
         "district": "Thành phố Cà Mau",
@@ -15,14 +13,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Tân Hưng)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên (Tân Hưng) 1930 Lý Văn Lâm, Thành phố Cà Mau, Cà Mau Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên (Tân Hưng)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+%28T%C3%A2n+H%C6%B0ng%29+1930+L%C3%BD+V%C4%83n+L%C3%A2m%2C+Th%C3%A0nh+ph%E1%BB%91+C%C3%A0+Mau%2C+C%C3%A0+Mau+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "CaMau_REV_02",
-      "year": 1940,
       "date": "1940-12-13",
-      "title": "Khởi nghĩa Hòn Khoai",
       "description": "Dưới sự chỉ huy của thầy giáo Phan Ngọc Hiển, các chiến sĩ cách mạng và nhân viên giữ đèn biển đã nổi dậy chiếm đảo Hòn Khoai, diệt tên sếp đảo Olivern, thu toàn bộ vũ khí. Cuộc khởi nghĩa tuy ngắn ngủi nhưng đã trở thành biểu tượng anh hùng của Đảng bộ và quân dân Cà Mau.",
+      "id": "CaMau_REV_02",
       "location": {
         "commune": "Tân Ân",
         "district": "Ngọc Hiển",
@@ -34,14 +41,23 @@
       "tags": [
         "Khởi nghĩa Nam Kỳ",
         "Biểu tượng"
-      ]
+      ],
+      "title": "Khởi nghĩa Hòn Khoai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Hòn Khoai 1940 Tân Ân, Ngọc Hiển, Cà Mau Phan Ngọc Hiển Khởi nghĩa Nam Kỳ Biểu tượng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Hòn Khoai",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+H%C3%B2n+Khoai+1940+T%C3%A2n+%C3%82n%2C+Ng%E1%BB%8Dc+Hi%E1%BB%83n%2C+C%C3%A0+Mau+Phan+Ng%E1%BB%8Dc+Hi%E1%BB%83n+Kh%E1%BB%9Fi+ngh%C4%A9a+Nam+K%E1%BB%B3+Bi%E1%BB%83u+t%C6%B0%E1%BB%A3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
     },
     {
-      "id": "CaMau_REV_03",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Cà Mau",
       "description": "Ủy ban Khởi nghĩa đã huy động lực lượng Thanh niên Tiền phong và quần chúng nhân dân bao vây Dinh quận Cà Mau. Quận trưởng đầu hàng, bàn giao chính quyền. Ủy ban Hành chính lâm thời quận Cà Mau (thuộc tỉnh Bạc Liêu cũ) được thành lập.",
+      "id": "CaMau_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Cà Mau",
@@ -51,14 +67,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Cà Mau",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Cà Mau 1945 Thành phố Cà Mau, Cà Mau Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Cà Mau",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+C%C3%A0+Mau+1945+Th%C3%A0nh+ph%E1%BB%91+C%C3%A0+Mau%2C+C%C3%A0+Mau+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "CaMau_FRENCH_WAR_01",
-      "year": 1946,
-      "date": "1946-02-00",
-      "title": "Lập Mặt trận Tân Hưng",
+      "date": null,
       "description": "Để ngăn chặn quân Pháp từ Bạc Liêu tiến vào đánh chiếm Cà Mau, quân dân ta đã lập phòng tuyến Mặt trận Tân Hưng. Cuộc chiến đấu cầm chân địch tại đây diễn ra ác liệt, bảo vệ an toàn cho cơ quan đầu não rút về rừng U Minh để kháng chiến lâu dài.",
+      "id": "CaMau_FRENCH_WAR_01",
       "location": {
         "commune": "Thạnh Phú",
         "district": "Cái Nước",
@@ -68,14 +93,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Mặt trận"
-      ]
+      ],
+      "title": "Lập Mặt trận Tân Hưng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lập Mặt trận Tân Hưng 1946 Thạnh Phú, Cái Nước, Cà Mau Kháng chiến chống Pháp Mặt trận lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lập Mặt trận Tân Hưng",
+          "url": "https://www.youtube.com/results?search_query=L%E1%BA%ADp+M%E1%BA%B7t+tr%E1%BA%ADn+T%C3%A2n+H%C6%B0ng+1946+Th%E1%BA%A1nh+Ph%C3%BA%2C+C%C3%A1i+N%C6%B0%E1%BB%9Bc%2C+C%C3%A0+Mau+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+M%E1%BA%B7t+tr%E1%BA%ADn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
-      "id": "CaMau_FRENCH_WAR_02",
-      "year": 1954,
-      "date": "1954-07-00",
-      "title": "Sự kiện Tập kết ra Bắc (Cửa sông Ông Đốc)",
+      "date": null,
       "description": "Sau Hiệp định Genève, Cà Mau là khu vực tập kết 200 ngày đêm của các lực lượng kháng chiến Nam Bộ (Khu tập kết CM8) để chuyển quân ra Bắc. Cửa sông Ông Đốc và Chắc Băng là những điểm tiễn đưa lịch sử đầy xúc động của hàng vạn cán bộ, chiến sĩ miền Nam.",
+      "id": "CaMau_FRENCH_WAR_02",
       "location": {
         "commune": "Sông Đốc",
         "district": "Trần Văn Thời",
@@ -85,14 +119,23 @@
       "tags": [
         "Hiệp định Genève",
         "Tập kết"
-      ]
+      ],
+      "title": "Sự kiện Tập kết ra Bắc (Cửa sông Ông Đốc)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự kiện Tập kết ra Bắc (Cửa sông Ông Đốc) 1954 Sông Đốc, Trần Văn Thời, Cà Mau Hiệp định Genève Tập kết lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự kiện Tập kết ra Bắc (Cửa sông Ông Đốc)",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+ki%E1%BB%87n+T%E1%BA%ADp+k%E1%BA%BFt+ra+B%E1%BA%AFc+%28C%E1%BB%ADa+s%C3%B4ng+%C3%94ng+%C4%90%E1%BB%91c%29+1954+S%C3%B4ng+%C4%90%E1%BB%91c%2C+Tr%E1%BA%A7n+V%C4%83n+Th%E1%BB%9Di%2C+C%C3%A0+Mau+Hi%E1%BB%87p+%C4%91%E1%BB%8Bnh+Gen%C3%A8ve+T%E1%BA%ADp+k%E1%BA%BFt+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "CaMau_US_WAR_01",
-      "year": 1962,
       "date": "1962-10-16",
-      "title": "Khai thông Bến Vàm Lũng (Đường Hồ Chí Minh trên biển)",
       "description": "Chuyến tàu 'Phương Đông 1' chở vũ khí từ miền Bắc đã cập bến Vàm Lũng an toàn. Từ đây, Vàm Lũng (Rạch Gốc) trở thành bến cảng chiến lược quan trọng nhất ở tận cùng Tổ quốc, tiếp nhận vũ khí chi viện cho chiến trường Nam Bộ trong suốt cuộc kháng chiến.",
+      "id": "CaMau_US_WAR_01",
       "location": {
         "commune": "Tân Ân",
         "district": "Ngọc Hiển",
@@ -104,14 +147,23 @@
       "tags": [
         "Đường Hồ Chí Minh trên biển",
         "Hậu cần"
-      ]
+      ],
+      "title": "Khai thông Bến Vàm Lũng (Đường Hồ Chí Minh trên biển)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khai thông Bến Vàm Lũng (Đường Hồ Chí Minh trên biển) 1962 Tân Ân, Ngọc Hiển, Cà Mau Bông Văn Dĩa Đường Hồ Chí Minh trên biển Hậu cần lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khai thông Bến Vàm Lũng (Đường Hồ Chí Minh trên biển)",
+          "url": "https://www.youtube.com/results?search_query=Khai+th%C3%B4ng+B%E1%BA%BFn+V%C3%A0m+L%C5%A9ng+%28%C4%90%C6%B0%E1%BB%9Dng+H%E1%BB%93+Ch%C3%AD+Minh+tr%C3%AAn+bi%E1%BB%83n%29+1962+T%C3%A2n+%C3%82n%2C+Ng%E1%BB%8Dc+Hi%E1%BB%83n%2C+C%C3%A0+Mau+B%C3%B4ng+V%C4%83n+D%C4%A9a+%C4%90%C6%B0%E1%BB%9Dng+H%E1%BB%93+Ch%C3%AD+Minh+tr%C3%AAn+bi%E1%BB%83n+H%E1%BA%ADu+c%E1%BA%A7n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1962
     },
     {
+      "date": null,
+      "description": "Chiến thắng Đầm Dơi - Cái Nước - Chà Là diễn ra qua hai đợt lớn trong năm 1963: lực lượng cách mạng tiến công Chi khu Đầm Dơi - Cái Nước đêm 9 rạng 10/9, sau đó đánh cứ điểm Chà Là đêm 23 rạng 24/11. Chuỗi thắng lợi đánh dấu bước trưởng thành của lực lượng vũ trang Cà Mau sau Đồng khởi.",
       "id": "CaMau_US_WAR_02",
-      "year": 1963,
-      "date": "1963-11-23",
-      "title": "Chiến thắng Đầm Dơi - Cái Nước - Chà Là",
-      "description": "Quân khu 9 và tỉnh Cà Mau đã tổ chức trận tấn công đồng loạt vào hai chi khu Đầm Dơi, Cái Nước và cứ điểm Chà Là. Ta tiêu diệt lượng lớn sinh lực địch, bắn rơi nhiều máy bay. Chiến thắng này giáng đòn chí mạng vào chiến thuật 'Trực thăng vận' và quốc sách 'Ấp chiến lược' của Mỹ.",
       "location": {
         "commune": null,
         "district": "Đầm Dơi, Cái Nước",
@@ -123,14 +175,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Đầm Dơi - Cái Nước - Chà Là (1963)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đầm Dơi - Cái Nước - Chà Là (1963) 1963 Đầm Dơi, Cái Nước, Cà Mau Phạm Ngọc Hưng Kháng chiến chống Mỹ Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đầm Dơi - Cái Nước - Chà Là (1963)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%E1%BA%A7m+D%C6%A1i+-+C%C3%A1i+N%C6%B0%E1%BB%9Bc+-+Ch%C3%A0+L%C3%A0+%281963%29+1963+%C4%90%E1%BA%A7m+D%C6%A1i%2C+C%C3%A1i+N%C6%B0%E1%BB%9Bc%2C+C%C3%A0+Mau+Ph%E1%BA%A1m+Ng%E1%BB%8Dc+H%C6%B0ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1963
     },
     {
-      "id": "CaMau_US_WAR_03",
-      "year": 1970,
       "date": null,
-      "title": "Đánh chìm Hạm đội nổi trên sông Cửa Lớn",
       "description": "Mỹ triển khai 'Hạm đội nhỏ' trên sông để bình định vùng sông nước Cà Mau. 'Đội săn tàu' của quân dân Cà Mau đã sáng tạo nhiều cách đánh (thủy lôi, pháo kích), đánh chìm và cháy hàng trăm tàu chiến địch trên tuyến sông Cửa Lớn - Năm Căn, làm phá sản chiến thuật Hạm đội nổi.",
+      "id": "CaMau_US_WAR_03",
       "location": {
         "commune": "Năm Căn",
         "district": "Năm Căn",
@@ -140,14 +201,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Săn tàu"
-      ]
+      ],
+      "title": "Đánh chìm Hạm đội nổi trên sông Cửa Lớn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đánh chìm Hạm đội nổi trên sông Cửa Lớn 1970 Năm Căn, Năm Căn, Cà Mau Kháng chiến chống Mỹ Săn tàu lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đánh chìm Hạm đội nổi trên sông Cửa Lớn",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C3%A1nh+ch%C3%ACm+H%E1%BA%A1m+%C4%91%E1%BB%99i+n%E1%BB%95i+tr%C3%AAn+s%C3%B4ng+C%E1%BB%ADa+L%E1%BB%9Bn+1970+N%C4%83m+C%C4%83n%2C+N%C4%83m+C%C4%83n%2C+C%C3%A0+Mau+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+S%C4%83n+t%C3%A0u+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1970
     },
     {
-      "id": "CaMau_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng tỉnh Cà Mau",
       "description": "Sáng 30/4, lực lượng vũ trang tỉnh tiến công vào thị xã Cà Mau. Tỉnh trưởng Cà Mau đầu hàng. Lá cờ giải phóng tung bay trên Dinh Tỉnh trưởng lúc 9 giờ sáng. Cà Mau là một trong những tỉnh được giải phóng sớm nhất miền Tây trong ngày 30/4.",
+      "id": "CaMau_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Cà Mau",
@@ -157,14 +227,23 @@
       "tags": [
         "Giải phóng",
         "Ngày thống nhất"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Cà Mau",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Cà Mau 1975 Thành phố Cà Mau, Cà Mau Giải phóng Ngày thống nhất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Cà Mau",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+C%C3%A0+Mau+1975+Th%C3%A0nh+ph%E1%BB%91+C%C3%A0+Mau%2C+C%C3%A0+Mau+Gi%E1%BA%A3i+ph%C3%B3ng+Ng%C3%A0y+th%E1%BB%91ng+nh%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Minh Hải. Tỉnh Cà Mau tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "CaMau_ADMIN_01",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Cà Mau",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Minh Hải (hợp nhất từ năm 1976) thành hai tỉnh Bạc Liêu và Cà Mau. Tỉnh Cà Mau chính thức hoạt động từ ngày 1/1/1997, bắt đầu giai đoạn phát triển kinh tế biển và công nghiệp khí - điện - đạm.",
       "location": {
         "commune": null,
         "district": null,
@@ -174,14 +253,23 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Cà Mau",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Cà Mau 1997 Cà Mau Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Cà Mau",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+C%C3%A0+Mau+1997+C%C3%A0+Mau+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     },
     {
-      "id": "CaMau_ECONOMY_01",
-      "year": 2002,
-      "date": "2002-04-00",
-      "title": "Khởi công Cụm công nghiệp Khí - Điện - Đạm Cà Mau",
+      "date": null,
       "description": "Chính phủ quyết định đầu tư xây dựng Cụm công nghiệp Khí - Điện - Đạm tại Khánh An (U Minh), sử dụng nguồn khí từ mỏ PM3. Đây là dự án công nghiệp trọng điểm quốc gia, biến Cà Mau thành trung tâm năng lượng và phân bón lớn của cả nước.",
+      "id": "CaMau_ECONOMY_01",
       "location": {
         "commune": "Khánh An",
         "district": "U Minh",
@@ -191,14 +279,23 @@
       "tags": [
         "Kinh tế",
         "Công nghiệp hóa"
-      ]
+      ],
+      "title": "Khởi công Cụm công nghiệp Khí - Điện - Đạm Cà Mau",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công Cụm công nghiệp Khí - Điện - Đạm Cà Mau 2002 Khánh An, U Minh, Cà Mau Kinh tế Công nghiệp hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công Cụm công nghiệp Khí - Điện - Đạm Cà Mau",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+C%E1%BB%A5m+c%C3%B4ng+nghi%E1%BB%87p+Kh%C3%AD+-+%C4%90i%E1%BB%87n+-+%C4%90%E1%BA%A1m+C%C3%A0+Mau+2002+Kh%C3%A1nh+An%2C+U+Minh%2C+C%C3%A0+Mau+Kinh+t%E1%BA%BF+C%C3%B4ng+nghi%E1%BB%87p+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2002
     },
     {
-      "id": "CaMau_CULTURE_01",
-      "year": 2009,
       "date": "2009-05-26",
-      "title": "Vườn Quốc gia Mũi Cà Mau được UNESCO công nhận",
-      "description": "UNESCO chính thức công nhận Vườn Quốc gia Mũi Cà Mau và Vườn Quốc gia U Minh Hạ là Khu dự trữ sinh quyển thế giới. Đây là sự ghi nhận quốc tế đối với hệ sinh thái rừng ngập mặn và rừng tràm độc đáo của vùng đất mũi.",
+      "description": "Ngày 26/5/2009, UNESCO công nhận Khu dự trữ sinh quyển thế giới Mũi Cà Mau. Vườn Quốc gia Mũi Cà Mau là một thành phần quan trọng trong không gian bảo tồn có hệ sinh thái rừng ngập mặn và đất ngập nước đặc trưng của cực Nam Tổ quốc.",
+      "id": "CaMau_CULTURE_01",
       "location": {
         "commune": "Đất Mũi",
         "district": "Ngọc Hiển",
@@ -208,7 +305,24 @@
       "tags": [
         "Môi trường",
         "Di sản UNESCO"
-      ]
+      ],
+      "title": "Khu dự trữ sinh quyển thế giới Mũi Cà Mau được UNESCO công nhận",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khu dự trữ sinh quyển thế giới Mũi Cà Mau được UNESCO công nhận 2009 Đất Mũi, Ngọc Hiển, Cà Mau Môi trường Di sản UNESCO lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khu dự trữ sinh quyển thế giới Mũi Cà Mau được UNESCO công nhận",
+          "url": "https://www.youtube.com/results?search_query=Khu+d%E1%BB%B1+tr%E1%BB%AF+sinh+quy%E1%BB%83n+th%E1%BA%BF+gi%E1%BB%9Bi+M%C5%A9i+C%C3%A0+Mau+%C4%91%C6%B0%E1%BB%A3c+UNESCO+c%C3%B4ng+nh%E1%BA%ADn+2009+%C4%90%E1%BA%A5t+M%C5%A9i%2C+Ng%E1%BB%8Dc+Hi%E1%BB%83n%2C+C%C3%A0+Mau+M%C3%B4i+tr%C6%B0%E1%BB%9Dng+Di+s%E1%BA%A3n+UNESCO+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2009
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/CaMau.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/CaMau_vi.json"
+  }
 }

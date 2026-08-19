@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "LaiChau_COLONIAL_01",
-      "year": 1909,
       "date": "1909-06-28",
-      "title": "Thành lập tỉnh Lai Châu (thời Pháp thuộc)",
       "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Lai Châu. Tỉnh lỵ đặt tại thị xã Lai Châu cũ (nay là thị xã Mường Lay thuộc tỉnh Điện Biên). Đây là mốc pháp lý đầu tiên xác lập đơn vị hành chính cấp tỉnh của vùng đất này.",
+      "id": "LaiChau_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Mường Lay",
@@ -15,14 +13,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Lai Châu (thời Pháp thuộc)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Lai Châu (thời Pháp thuộc) 1909 Mường Lay, Điện Biên Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Lai Châu (thời Pháp thuộc)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Lai+Ch%C3%A2u+%28th%E1%BB%9Di+Ph%C3%A1p+thu%E1%BB%99c%29+1909+M%C6%B0%E1%BB%9Dng+Lay%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1909
     },
     {
+      "date": "1952-10-15",
+      "description": "Ngày 15/10/1952, lực lượng vũ trang và nhân dân địa phương giành thắng lợi, giải phóng Than Uyên. Đây là mốc quan trọng trong cuộc kháng chiến chống thực dân Pháp ở khu vực Tây Bắc.",
       "id": "LaiChau_REV_01",
-      "year": 1945,
-      "date": "1945-10-15",
-      "title": "Giải phóng Than Uyên lần thứ nhất",
-      "description": "Đội du kích Than Uyên phối hợp với nhân dân địa phương nổi dậy đánh đổ chính quyền tay sai, thành lập chính quyền cách mạng. Than Uyên là châu đầu tiên của tỉnh Lai Châu được giải phóng trong cao trào cách mạng.",
       "location": {
         "commune": null,
         "district": "Than Uyên",
@@ -32,14 +39,23 @@
       "tags": [
         "Cách mạng",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Than Uyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Than Uyên 1952 Than Uyên, Lai Châu Cách mạng Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Than Uyên",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Than+Uy%C3%AAn+1952+Than+Uy%C3%AAn%2C+Lai+Ch%C3%A2u+C%C3%A1ch+m%E1%BA%A1ng+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
+      "date": "1949-10-10",
+      "description": "Ngày 10/10/1949, Ban Cán sự Đảng tỉnh Lai Châu được thành lập, tạo cơ quan lãnh đạo trực tiếp phong trào cách mạng trên địa bàn.",
       "id": "LaiChau_REV_02",
-      "year": 1949,
-      "date": "1949-11-20",
-      "title": "Thành lập Ban Cán sự Đảng tỉnh Lai Châu",
-      "description": "Liên khu ủy 10 ra Quyết định thành lập Ban Cán sự Đảng tỉnh Lai Châu (tiền thân của Đảng bộ tỉnh Lai Châu ngày nay) để trực tiếp lãnh đạo phong trào kháng chiến chống Pháp tại địa phương.",
       "location": {
         "commune": null,
         "district": null,
@@ -51,14 +67,23 @@
       "tags": [
         "Thành lập Đảng",
         "Chính trị"
-      ]
+      ],
+      "title": "Thành lập Ban Cán sự Đảng tỉnh Lai Châu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Ban Cán sự Đảng tỉnh Lai Châu 1949 Lai Châu Nguyễn Bá Lại Thành lập Đảng Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Ban Cán sự Đảng tỉnh Lai Châu",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Ban+C%C3%A1n+s%E1%BB%B1+%C4%90%E1%BA%A3ng+t%E1%BB%89nh+Lai+Ch%C3%A2u+1949+Lai+Ch%C3%A2u+Nguy%E1%BB%85n+B%C3%A1+L%E1%BA%A1i+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1949
     },
     {
-      "id": "LaiChau_FRENCH_WAR_01",
-      "year": 1952,
       "date": "1952-10-15",
-      "title": "Giải phóng hoàn toàn khu Than Uyên",
       "description": "Trong Chiến dịch Tây Bắc, Trung đoàn 165 (Đại đoàn 312) đã tấn công và tiêu diệt các đồn bốt địch tại Than Uyên. Việc giải phóng Than Uyên đã đập tan phòng tuyến sông Đà của Pháp, mở thông cửa ngõ vào Lai Châu.",
+      "id": "LaiChau_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": "Than Uyên",
@@ -68,14 +93,23 @@
       "tags": [
         "Chiến dịch Tây Bắc",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng hoàn toàn khu Than Uyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng hoàn toàn khu Than Uyên 1952 Than Uyên, Lai Châu Chiến dịch Tây Bắc Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng hoàn toàn khu Than Uyên",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+ho%C3%A0n+to%C3%A0n+khu+Than+Uy%C3%AAn+1952+Than+Uy%C3%AAn%2C+Lai+Ch%C3%A2u+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+B%E1%BA%AFc+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "LaiChau_FRENCH_WAR_02",
-      "year": 1953,
       "date": "1953-12-12",
-      "title": "Giải phóng thị trấn Lai Châu",
       "description": "Trước áp lực của Đại đoàn 316 trong chiến dịch tiến công lên Tây Bắc, quân Pháp buộc phải rút chạy khỏi thị trấn Lai Châu (cũ) để co cụm về Điện Biên Phủ. Bộ đội ta tiến vào tiếp quản, tỉnh Lai Châu cơ bản được giải phóng.",
+      "id": "LaiChau_FRENCH_WAR_02",
       "location": {
         "commune": null,
         "district": "Mường Lay",
@@ -85,14 +119,23 @@
       "tags": [
         "Giải phóng",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng thị trấn Lai Châu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị trấn Lai Châu 1953 Mường Lay, Điện Biên Giải phóng Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị trấn Lai Châu",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+tr%E1%BA%A5n+Lai+Ch%C3%A2u+1953+M%C6%B0%E1%BB%9Dng+Lay%2C+%C4%90i%E1%BB%87n+Bi%C3%AAn+Gi%E1%BA%A3i+ph%C3%B3ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
-      "id": "LaiChau_ADMIN_01",
-      "year": 1955,
       "date": "1955-04-29",
-      "title": "Thành lập Khu tự trị Thái - Mèo",
       "description": "Chủ tịch Hồ Chí Minh ký Sắc lệnh thành lập Khu tự trị Thái - Mèo (bao gồm Lai Châu, Sơn La và Nghĩa Lộ). Lai Châu trở thành một châu thuộc Khu tự trị, thực hiện chính sách đại đoàn kết dân tộc và quyền tự quyết của các dân tộc thiểu số.",
+      "id": "LaiChau_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -104,31 +147,49 @@
       "tags": [
         "Hành chính",
         "Khu tự trị"
-      ]
+      ],
+      "title": "Thành lập Khu tự trị Thái - Mèo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Khu tự trị Thái - Mèo 1955 Lai Châu Hồ Chí Minh Hành chính Khu tự trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Khu tự trị Thái - Mèo",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Khu+t%E1%BB%B1+tr%E1%BB%8B+Th%C3%A1i+-+M%C3%A8o+1955+Lai+Ch%C3%A2u+H%E1%BB%93+Ch%C3%AD+Minh+H%C3%A0nh+ch%C3%ADnh+Khu+t%E1%BB%B1+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1955
     },
     {
-      "id": "LaiChau_SECURITY_01",
-      "year": 1955,
       "date": null,
-      "title": "Chiến dịch tiễu phỉ Đồng Văn - Phong Thổ",
-      "description": "Lợi dụng địa hình hiểm trở, các toán thổ phỉ và tàn quân Pháp (được sự hỗ trợ của CIA) đã nổi lên chống phá tại vùng cao Phong Thổ. Lực lượng vũ trang Lai Châu đã kiên trì vận động quần chúng và tổ chức truy quét, dẹp yên nạn thổ phỉ.",
+      "description": "Sau khi vùng Tây Bắc được giải phóng, lực lượng vũ trang và công an phối hợp với nhân dân truy quét các toán phỉ, giữ vững an ninh tại Phong Thổ và khu vực biên giới Lai Châu. Mốc năm 1954 được dùng để phản ánh giai đoạn hoạt động nổi bật; không gán một ngày cụ thể khi chưa có nguồn đủ chắc.",
+      "id": "LaiChau_SECURITY_01",
       "location": {
-        "commune": "Đồng Văn",
-        "district": "Bình Liêu",
+        "commune": null,
+        "district": "Phong Thổ",
         "province": "Lai Châu"
       },
       "related_figures": [],
       "tags": [
         "An ninh",
         "Tiễu phỉ"
-      ]
+      ],
+      "title": "Tiễu phỉ ở Phong Thổ và vùng biên giới Lai Châu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tiễu phỉ ở Phong Thổ và vùng biên giới Lai Châu 1954 Phong Thổ, Lai Châu An ninh Tiễu phỉ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tiễu phỉ ở Phong Thổ và vùng biên giới Lai Châu",
+          "url": "https://www.youtube.com/results?search_query=Ti%E1%BB%85u+ph%E1%BB%89+%E1%BB%9F+Phong+Th%E1%BB%95+v%C3%A0+v%C3%B9ng+bi%C3%AAn+gi%E1%BB%9Bi+Lai+Ch%C3%A2u+1954+Phong+Th%E1%BB%95%2C+Lai+Ch%C3%A2u+An+ninh+Ti%E1%BB%85u+ph%E1%BB%89+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "LaiChau_ADMIN_02",
-      "year": 1962,
       "date": "1962-10-27",
-      "title": "Tái lập tỉnh Lai Châu (Khu Tây Bắc)",
       "description": "Quốc hội khóa II ra Nghị quyết đổi tên Khu tự trị Thái - Mèo thành Khu tự trị Tây Bắc và tái lập 3 tỉnh Sơn La, Nghĩa Lộ, Lai Châu trực thuộc khu. Tỉnh Lai Châu lúc này bao gồm cả phần đất Điện Biên ngày nay.",
+      "id": "LaiChau_ADMIN_02",
       "location": {
         "commune": null,
         "district": null,
@@ -138,14 +199,23 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Lai Châu (Khu Tây Bắc)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Lai Châu (Khu Tây Bắc) 1962 Lai Châu Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Lai Châu (Khu Tây Bắc)",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Lai+Ch%C3%A2u+%28Khu+T%C3%A2y+B%E1%BA%AFc%29+1962+Lai+Ch%C3%A2u+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1962
     },
     {
-      "id": "LaiChau_BORDER_WAR_01",
-      "year": 1979,
       "date": "1979-02-17",
-      "title": "Chiến đấu bảo vệ biên giới tại Phong Thổ",
       "description": "Quân đội Trung Quốc tấn công đồng loạt vào các xã biên giới thuộc huyện Phong Thổ (như Ma Lù Thàng, Sì Lở Lầu). Bộ đội địa phương, công an vũ trang và dân quân Lai Châu đã chiến đấu dũng cảm, làm chậm bước tiến và tiêu hao sinh lực địch.",
+      "id": "LaiChau_BORDER_WAR_01",
       "location": {
         "commune": "Ma Ly Pho",
         "district": "Phong Thổ",
@@ -155,14 +225,23 @@
       "tags": [
         "Chiến tranh biên giới 1979",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến đấu bảo vệ biên giới tại Phong Thổ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu bảo vệ biên giới tại Phong Thổ 1979 Ma Ly Pho, Phong Thổ, Lai Châu Chiến tranh biên giới 1979 Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu bảo vệ biên giới tại Phong Thổ",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+t%E1%BA%A1i+Phong+Th%E1%BB%95+1979+Ma+Ly+Pho%2C+Phong+Th%E1%BB%95%2C+Lai+Ch%C3%A2u+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+1979+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     },
     {
+      "date": "2004-01-01",
+      "description": "Ngày 26/11/2003, Quốc hội khóa XI thông qua nghị quyết chia tỉnh Lai Châu cũ thành tỉnh Điện Biên và tỉnh Lai Châu (mới). Từ ngày 1/1/2004, tỉnh Lai Châu (mới) chính thức đi vào hoạt động.",
       "id": "LaiChau_ADMIN_03",
-      "year": 2003,
-      "date": "2003-11-26",
-      "title": "Chia tách tỉnh Lai Châu",
-      "description": "Quốc hội khóa XI thông qua Nghị quyết chia tách tỉnh Lai Châu (cũ) thành hai tỉnh: Lai Châu (mới) và Điện Biên. Tỉnh lỵ Lai Châu mới được đặt tại thị trấn Tam Đường (sau nâng cấp thành thành phố Lai Châu).",
       "location": {
         "commune": null,
         "district": "Thành phố Lai Châu",
@@ -172,7 +251,24 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Tỉnh Lai Châu (mới) chính thức đi vào hoạt động",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tỉnh Lai Châu (mới) chính thức đi vào hoạt động 2004 Thành phố Lai Châu, Lai Châu Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tỉnh Lai Châu (mới) chính thức đi vào hoạt động",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%89nh+Lai+Ch%C3%A2u+%28m%E1%BB%9Bi%29+ch%C3%ADnh+th%E1%BB%A9c+%C4%91i+v%C3%A0o+ho%E1%BA%A1t+%C4%91%E1%BB%99ng+2004+Th%C3%A0nh+ph%E1%BB%91+Lai+Ch%C3%A2u%2C+Lai+Ch%C3%A2u+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2004
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/LaiChau.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/LaiChau_vi.json"
+  }
 }

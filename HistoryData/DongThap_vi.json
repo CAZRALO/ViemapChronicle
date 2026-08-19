@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "DongThap_COLONIAL_01",
-      "year": 1864,
       "date": null,
-      "title": "Xây dựng Căn cứ kháng chiến Đồng Tháp Mười",
       "description": "Sau khi quân Pháp chiếm Gia Định, Thiên Hộ Dương (Võ Duy Dương) và Đốc Binh Kiều đã rút quân về vùng đầm lầy Đồng Tháp Mười xây dựng căn cứ chống Pháp. Nghĩa quân đã dựa vào địa hình hiểm trở để tổ chức lối đánh du kích, gây cho địch nhiều tổn thất trong giai đoạn 1864-1866.",
+      "id": "DongThap_COLONIAL_01",
       "location": {
         "commune": "Tân Kiều",
         "district": "Tháp Mười",
@@ -18,14 +16,23 @@
       "tags": [
         "Chống Pháp",
         "Căn cứ địa"
-      ]
+      ],
+      "title": "Xây dựng Căn cứ kháng chiến Đồng Tháp Mười",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Căn cứ kháng chiến Đồng Tháp Mười 1864 Tân Kiều, Tháp Mười, Đồng Tháp Thiên Hộ Dương Đốc Binh Kiều Chống Pháp Căn cứ địa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Căn cứ kháng chiến Đồng Tháp Mười",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+C%C4%83n+c%E1%BB%A9+kh%C3%A1ng+chi%E1%BA%BFn+%C4%90%E1%BB%93ng+Th%C3%A1p+M%C6%B0%E1%BB%9Di+1864+T%C3%A2n+Ki%E1%BB%81u%2C+Th%C3%A1p+M%C6%B0%E1%BB%9Di%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Thi%C3%AAn+H%E1%BB%99+D%C6%B0%C6%A1ng+%C4%90%E1%BB%91c+Binh+Ki%E1%BB%81u+Ch%E1%BB%91ng+Ph%C3%A1p+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1864
     },
     {
-      "id": "DongThap_FIGURE_01",
-      "year": 1929,
       "date": "1929-11-27",
-      "title": "Cụ Phó bảng Nguyễn Sinh Sắc qua đời tại Cao Lãnh",
       "description": "Cụ Phó bảng Nguyễn Sinh Sắc (thân sinh Chủ tịch Hồ Chí Minh) sau thời gian hoạt động yêu nước và bốc thuốc chữa bệnh cho nhân dân đã qua đời tại làng Hòa An, Cao Lãnh. Mộ phần của cụ trở thành một di tích lịch sử - văn hóa đặc biệt quan trọng của tỉnh.",
+      "id": "DongThap_FIGURE_01",
       "location": {
         "commune": "Hòa An",
         "district": "Thành phố Cao Lãnh",
@@ -37,14 +44,23 @@
       "tags": [
         "Danh nhân",
         "Văn hóa"
-      ]
+      ],
+      "title": "Cụ Phó bảng Nguyễn Sinh Sắc qua đời tại Cao Lãnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cụ Phó bảng Nguyễn Sinh Sắc qua đời tại Cao Lãnh 1929 Hòa An, Thành phố Cao Lãnh, Đồng Tháp Nguyễn Sinh Sắc Danh nhân Văn hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cụ Phó bảng Nguyễn Sinh Sắc qua đời tại Cao Lãnh",
+          "url": "https://www.youtube.com/results?search_query=C%E1%BB%A5+Ph%C3%B3+b%E1%BA%A3ng+Nguy%E1%BB%85n+Sinh+S%E1%BA%AFc+qua+%C4%91%E1%BB%9Di+t%E1%BA%A1i+Cao+L%C3%A3nh+1929+H%C3%B2a+An%2C+Th%C3%A0nh+ph%E1%BB%91+Cao+L%C3%A3nh%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Nguy%E1%BB%85n+Sinh+S%E1%BA%AFc+Danh+nh%C3%A2n+V%C4%83n+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "DongThap_REV_01",
-      "year": 1929,
-      "date": "1929-11-00",
-      "title": "Thành lập Chi bộ An Nam Cộng sản Đảng đầu tiên",
+      "date": null,
       "description": "Tại làng Hòa An (Cao Lãnh), Chi bộ An Nam Cộng sản Đảng đầu tiên của tỉnh Sa Đéc (cũ) được thành lập do đồng chí Phạm Hữu Lầu làm Bí thư. Đây là hạt nhân lãnh đạo phong trào cách mạng tại vùng Cao Lãnh - Đồng Tháp Mười.",
+      "id": "DongThap_REV_01",
       "location": {
         "commune": "Hòa An",
         "district": "Thành phố Cao Lãnh",
@@ -56,14 +72,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ An Nam Cộng sản Đảng đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ An Nam Cộng sản Đảng đầu tiên 1929 Hòa An, Thành phố Cao Lãnh, Đồng Tháp Phạm Hữu Lầu Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ An Nam Cộng sản Đảng đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+An+Nam+C%E1%BB%99ng+s%E1%BA%A3n+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+1929+H%C3%B2a+An%2C+Th%C3%A0nh+ph%E1%BB%91+Cao+L%C3%A3nh%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Ph%E1%BA%A1m+H%E1%BB%AFu+L%E1%BA%A7u+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "DongThap_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Cao Lãnh và Sa Đéc",
       "description": "Hòa chung khí thế Tổng khởi nghĩa, quần chúng nhân dân đã nổi dậy giành chính quyền tại tỉnh lỵ Sa Đéc và quận lỵ Cao Lãnh. Chính quyền tay sai sụp đổ, Ủy ban Hành chính lâm thời ra mắt nhân dân.",
+      "id": "DongThap_REV_02",
       "location": {
         "commune": null,
         "district": "Cao Lãnh, Sa Đéc",
@@ -75,14 +100,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Cao Lãnh và Sa Đéc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Cao Lãnh và Sa Đéc 1945 Cao Lãnh, Sa Đéc, Đồng Tháp Trần Thị Nhượng Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Cao Lãnh và Sa Đéc",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Cao+L%C3%A3nh+v%C3%A0+Sa+%C4%90%C3%A9c+1945+Cao+L%C3%A3nh%2C+Sa+%C4%90%C3%A9c%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Tr%E1%BA%A7n+Th%E1%BB%8B+Nh%C6%B0%E1%BB%A3ng+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1959-09-26",
+      "description": "Ngày 26/9/1959, Tiểu đoàn 502 tỉnh Kiến Phong lần đầu ra quân, phục kích và đánh thắng cuộc hành quân của đối phương tại Giồng Thị Đam - Gò Quản Cung. Chiến thắng có ý nghĩa quan trọng đối với phong trào cách mạng ở Đồng Tháp Mười trước cao trào Đồng khởi.",
       "id": "DongThap_FRENCH_WAR_01",
-      "year": 1947,
-      "date": "1947-09-26",
-      "title": "Chiến thắng Giồng Thị Đam - Gò Quản Cung",
-      "description": "Tiểu đoàn 502 (đơn vị chủ lực tỉnh) mới thành lập đã tổ chức trận phục kích táo bạo, đánh bại cuộc hành quân của quân Pháp, tiêu diệt cả Thủy lục bộ binh địch, bắt sống gần 100 tên. Đây là chiến thắng mở đầu vang dội của lực lượng vũ trang Đồng Tháp Mười.",
       "location": {
         "commune": "An Phước",
         "district": "Tân Hồng",
@@ -90,16 +124,26 @@
       },
       "related_figures": [],
       "tags": [
-        "Kháng chiến chống Pháp",
+        "Kháng chiến chống Mỹ",
+        "Đồng khởi",
         "Tiểu đoàn 502"
-      ]
+      ],
+      "title": "Chiến thắng Giồng Thị Đam - Gò Quản Cung",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Giồng Thị Đam - Gò Quản Cung 1959 An Phước, Tân Hồng, Đồng Tháp Kháng chiến chống Mỹ Đồng khởi Tiểu đoàn 502 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Giồng Thị Đam - Gò Quản Cung",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Gi%E1%BB%93ng+Th%E1%BB%8B+%C4%90am+-+G%C3%B2+Qu%E1%BA%A3n+Cung+1959+An+Ph%C6%B0%E1%BB%9Bc%2C+T%C3%A2n+H%E1%BB%93ng%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+%C4%90%E1%BB%93ng+kh%E1%BB%9Fi+Ti%E1%BB%83u+%C4%91o%C3%A0n+502+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1959
     },
     {
-      "id": "DongThap_US_WAR_01",
-      "year": 1954,
       "date": "1954-10-29",
-      "title": "Sự kiện 100 ngày tập kết chuyển quân (Cao Lãnh)",
       "description": "Cao Lãnh được chọn là một trong ba điểm tập kết chuyển quân lớn ở Nam Bộ (cùng với Cà Mau và Xuyên Mộc) để đưa cán bộ, chiến sĩ miền Nam ra Bắc theo Hiệp định Genève. Trong 100 ngày, quân dân Cao Lãnh đã đón tiếp và tiễn đưa hàng vạn người con miền Nam.",
+      "id": "DongThap_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Cao Lãnh",
@@ -109,14 +153,23 @@
       "tags": [
         "Hiệp định Genève",
         "Tập kết ra Bắc"
-      ]
+      ],
+      "title": "Sự kiện 100 ngày tập kết chuyển quân (Cao Lãnh)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự kiện 100 ngày tập kết chuyển quân (Cao Lãnh) 1954 Thành phố Cao Lãnh, Đồng Tháp Hiệp định Genève Tập kết ra Bắc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự kiện 100 ngày tập kết chuyển quân (Cao Lãnh)",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+ki%E1%BB%87n+100+ng%C3%A0y+t%E1%BA%ADp+k%E1%BA%BFt+chuy%E1%BB%83n+qu%C3%A2n+%28Cao+L%C3%A3nh%29+1954+Th%C3%A0nh+ph%E1%BB%91+Cao+L%C3%A3nh%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Hi%E1%BB%87p+%C4%91%E1%BB%8Bnh+Gen%C3%A8ve+T%E1%BA%ADp+k%E1%BA%BFt+ra+B%E1%BA%AFc+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "DongThap_US_WAR_02",
-      "year": 1966,
       "date": null,
-      "title": "Đánh chìm Hạm đội nhỏ trên sông rạch",
       "description": "Quân dân Đồng Tháp đã sáng tạo ra cách đánh đặc công thủy, sử dụng thủy lôi tự chế để đánh chìm nhiều tàu chiến thuộc 'Hạm đội nhỏ' của Mỹ trên các tuyến sông rạch chằng chịt, làm thất bại chiến thuật 'Hạm đội nổi' trên sông Mekong của địch.",
+      "id": "DongThap_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Hồng Ngự, Cao Lãnh",
@@ -126,14 +179,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến tranh du kích"
-      ]
+      ],
+      "title": "Đánh chìm Hạm đội nhỏ trên sông rạch",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đánh chìm Hạm đội nhỏ trên sông rạch 1966 Hồng Ngự, Cao Lãnh, Đồng Tháp Kháng chiến chống Mỹ Chiến tranh du kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đánh chìm Hạm đội nhỏ trên sông rạch",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C3%A1nh+ch%C3%ACm+H%E1%BA%A1m+%C4%91%E1%BB%99i+nh%E1%BB%8F+tr%C3%AAn+s%C3%B4ng+r%E1%BA%A1ch+1966+H%E1%BB%93ng+Ng%E1%BB%B1%2C+Cao+L%C3%A3nh%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+tranh+du+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
-      "id": "DongThap_US_WAR_03",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng tỉnh Đồng Tháp (Kiến Phong và Sa Đéc)",
       "description": "Lực lượng vũ trang tỉnh phối hợp với quần chúng nổi dậy tấn công vào thị xã Cao Lãnh (tỉnh lỵ Kiến Phong) và thị xã Sa Đéc. Đến trưa ngày 30/4, cờ giải phóng tung bay tại Dinh Tỉnh trưởng Kiến Phong và Sa Đéc, toàn tỉnh hoàn toàn giải phóng.",
+      "id": "DongThap_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Cao Lãnh, Sa Đéc",
@@ -143,14 +205,23 @@
       "tags": [
         "Giải phóng",
         "Ngày thống nhất"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Đồng Tháp (Kiến Phong và Sa Đéc)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Đồng Tháp (Kiến Phong và Sa Đéc) 1975 Cao Lãnh, Sa Đéc, Đồng Tháp Giải phóng Ngày thống nhất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Đồng Tháp (Kiến Phong và Sa Đéc)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+%C4%90%E1%BB%93ng+Th%C3%A1p+%28Ki%E1%BA%BFn+Phong+v%C3%A0+Sa+%C4%90%C3%A9c%29+1975+Cao+L%C3%A3nh%2C+Sa+%C4%90%C3%A9c%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+Gi%E1%BA%A3i+ph%C3%B3ng+Ng%C3%A0y+th%E1%BB%91ng+nh%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "DongThap_ADMIN_01",
-      "year": 1976,
-      "date": "1976-02-00",
-      "title": "Thành lập tỉnh Đồng Tháp",
+      "date": null,
       "description": "Thực hiện Nghị quyết của Chính phủ, tỉnh Kiến Phong và tỉnh Sa Đéc được hợp nhất thành tỉnh Đồng Tháp. Tỉnh lỵ ban đầu đặt tại thị xã Sa Đéc, sau đó dời về thị xã Cao Lãnh (nay là thành phố Cao Lãnh) vào năm 1994.",
+      "id": "DongThap_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -160,14 +231,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Đồng Tháp",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Đồng Tháp 1976 Đồng Tháp Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Đồng Tháp",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+%C4%90%E1%BB%93ng+Th%C3%A1p+1976+%C4%90%E1%BB%93ng+Th%C3%A1p+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1976
     },
     {
-      "id": "DongThap_CULTURE_01",
-      "year": 2012,
       "date": "2012-09-27",
-      "title": "Di tích Gò Tháp được xếp hạng Quốc gia đặc biệt",
       "description": "Khu di tích Gò Tháp - nơi chứa đựng những dấu tích quan trọng của nền văn hóa Óc Eo cổ đại và lịch sử khai hoang, chống ngoại xâm của vùng đất này - chính thức được Thủ tướng Chính phủ xếp hạng là Di tích Quốc gia đặc biệt.",
+      "id": "DongThap_CULTURE_01",
       "location": {
         "commune": "Tân Kiều",
         "district": "Tháp Mười",
@@ -177,14 +257,23 @@
       "tags": [
         "Văn hóa Óc Eo",
         "Di sản"
-      ]
+      ],
+      "title": "Di tích Gò Tháp được xếp hạng Quốc gia đặc biệt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Di tích Gò Tháp được xếp hạng Quốc gia đặc biệt 2012 Tân Kiều, Tháp Mười, Đồng Tháp Văn hóa Óc Eo Di sản lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Di tích Gò Tháp được xếp hạng Quốc gia đặc biệt",
+          "url": "https://www.youtube.com/results?search_query=Di+t%C3%ADch+G%C3%B2+Th%C3%A1p+%C4%91%C6%B0%E1%BB%A3c+x%E1%BA%BFp+h%E1%BA%A1ng+Qu%E1%BB%91c+gia+%C4%91%E1%BA%B7c+bi%E1%BB%87t+2012+T%C3%A2n+Ki%E1%BB%81u%2C+Th%C3%A1p+M%C6%B0%E1%BB%9Di%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+V%C4%83n+h%C3%B3a+%C3%93c+Eo+Di+s%E1%BA%A3n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2012
     },
     {
-      "id": "DongThap_NATURE_01",
-      "year": 2012,
       "date": "2012-05-22",
-      "title": "Vườn Quốc gia Tràm Chim trở thành khu Ramsar",
       "description": "Vườn Quốc gia Tràm Chim (nơi bảo tồn loài Sếu đầu đỏ quý hiếm) được công nhận là khu Ramsar thứ 2.000 của thế giới. Đây là sự ghi nhận quốc tế đối với hệ sinh thái đất ngập nước đặc trưng của vùng Đồng Tháp Mười.",
+      "id": "DongThap_NATURE_01",
       "location": {
         "commune": null,
         "district": "Tam Nông",
@@ -194,7 +283,24 @@
       "tags": [
         "Môi trường",
         "Ramsar"
-      ]
+      ],
+      "title": "Vườn Quốc gia Tràm Chim trở thành khu Ramsar",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vườn Quốc gia Tràm Chim trở thành khu Ramsar 2012 Tam Nông, Đồng Tháp Môi trường Ramsar lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vườn Quốc gia Tràm Chim trở thành khu Ramsar",
+          "url": "https://www.youtube.com/results?search_query=V%C6%B0%E1%BB%9Dn+Qu%E1%BB%91c+gia+Tr%C3%A0m+Chim+tr%E1%BB%9F+th%C3%A0nh+khu+Ramsar+2012+Tam+N%C3%B4ng%2C+%C4%90%E1%BB%93ng+Th%C3%A1p+M%C3%B4i+tr%C6%B0%E1%BB%9Dng+Ramsar+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2012
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/DongThap.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/DongThap_vi.json"
+  }
 }

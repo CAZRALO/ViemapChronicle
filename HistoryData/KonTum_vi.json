@@ -1,0 +1,263 @@
+{
+  "events": [
+    {
+      "date": "1913-02-09",
+      "description": "Toàn quyền Đông Dương ký Nghị định số 47 thành lập tỉnh Kon Tum, tách từ tỉnh Đắk Lắk, đánh dấu mốc thành lập đơn vị hành chính cấp tỉnh đầu tiên tại vùng Bắc Tây Nguyên.",
+      "id": "KonTum_COLONIAL_01",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Albert Sarraut"
+      ],
+      "tags": [
+        "Hành chính",
+        "Thời kỳ Pháp thuộc"
+      ],
+      "title": "Thành lập tỉnh Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Kon Tum 1913 Albert Sarraut Hành chính Thời kỳ Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Kon+Tum+1913+Albert+Sarraut+H%C3%A0nh+ch%C3%ADnh+Th%E1%BB%9Di+k%E1%BB%B3+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1913
+    },
+    {
+      "date": "1930-09-25",
+      "description": "Chi bộ Cộng sản đầu tiên của tỉnh Kon Tum được thành lập tại Nhà lao Kon Tum do đồng chí Ngô Đức Đệ làm Bí thư, lãnh đạo phong trào đấu tranh của tù chính trị và quần chúng.",
+      "id": "KonTum_REV_01",
+      "location": {
+        "commune": "Quyết Thắng",
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Ngô Đức Đệ",
+        "Trương Quang Trọng"
+      ],
+      "tags": [
+        "Đảng Cộng sản",
+        "Cách mạng"
+      ],
+      "title": "Thành lập Chi bộ Cộng sản đầu tiên tại Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng Ngục Kon Tum 1930 Ngô Đức Đệ Trương Quang Trọng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chi bộ Cộng sản đầu tiên tại Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+Ng%E1%BB%A5c+Kon+Tum+1930+Ng%C3%B4+%C4%90%E1%BB%A9c+%C4%90%E1%BB%87+Tr%C6%B0%C6%A1ng+Quang+Tr%E1%BB%8Dng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
+    },
+    {
+      "date": "1931-12-12",
+      "description": "Cuộc đấu tranh Lưu huyết và Tuyệt thực của tù chính trị tại Nhà đày Kon Tum nhằm phản đối chế độ lao dịch khổ sai làm đường 14 và sự đàn áp dã man của thực dân Pháp.",
+      "id": "KonTum_COLONIAL_02",
+      "location": {
+        "commune": "Quyết Thắng",
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Ngô Đức Đệ",
+        "Trương Quang Trọng"
+      ],
+      "tags": [
+        "Nhà ngục Kon Tum",
+        "Kháng chiến chống Pháp"
+      ],
+      "title": "Cuộc đấu tranh Lưu huyết tại Ngục Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc đấu tranh Lưu huyết Ngục Kon Tum 1931 Di tích lịch sử nhà đày Kon Tum tư liệu",
+          "title": "Video giới thiệu về Cuộc đấu tranh Lưu huyết tại Ngục Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+%C4%91%E1%BA%A5u+tranh+L%C6%B0u+huy%E1%BA%BFt+Ng%E1%BB%A5c+Kon+Tum+1931+Di+t%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+nh%C3%A0+%C4%91%C3%A0y+Kon+Tum+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1931
+    },
+    {
+      "date": "1945-08-25",
+      "description": "Nhân dân các dân tộc thị xã Kon Tum đồng loạt nổi dậy khởi nghĩa giành chính quyền, lật đổ ách thống trị của phát xít Nhật và tay sai, thành lập Ủy ban Nhân dân Cách mạng lâm thời.",
+      "id": "KonTum_REV_02",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Hoàng Văn Thái"
+      ],
+      "tags": [
+        "Cách mạng tháng Tám",
+        "Giành chính quyền"
+      ],
+      "title": "Giành chính quyền Cách mạng tháng Tám tại Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cách mạng tháng Tám 1945 khởi nghĩa giành chính quyền Kon Tum lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cách mạng tháng Tám tại Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+1945+kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+Kon+Tum+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
+    },
+    {
+      "date": "1954-02-07",
+      "description": "Trong Chiến dịch Bắc Tây Nguyên, Quân đội Nhân dân Việt Nam tiến công giải phóng thị xã Kon Tum, buộc quân Pháp phải rút chạy về Pleiku, tạo bước ngoặt lớn trên chiến trường Tây Nguyên.",
+      "id": "KonTum_FR_WAR_01",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Nguyễn Chánh"
+      ],
+      "tags": [
+        "Chiến dịch Bắc Tây Nguyên",
+        "Kháng chiến chống Pháp"
+      ],
+      "title": "Giải phóng thị xã Kon Tum trong kháng chiến chống Pháp",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch Bắc Tây Nguyên 1954 Giải phóng thị xã Kon Tum Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Kon Tum năm 1954",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+B%E1%BA%AFc+T%C3%A2y+Nguy%C3%AAn+1954+Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+Kon+Tum+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
+    },
+    {
+      "date": "1967-11-03",
+      "description": "Chiến dịch Đăk Tô 1967 (bao gồm trận đánh đồi 875 khốc liệt) diễn ra giữa Quân đội Nhân dân Việt Nam và quân đội Mỹ, làm tiêu hao nặng nề lực lượng cơ động chiến lược của Mỹ.",
+      "id": "KonTum_US_WAR_01",
+      "location": {
+        "commune": "Tân Cảnh",
+        "district": "Đăk Tô",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Hoàng Minh Thảo"
+      ],
+      "tags": [
+        "Chiến dịch Đăk Tô",
+        "Kháng chiến chống Mỹ"
+      ],
+      "title": "Chiến dịch Đăk Tô - Đồi 875",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch Đăk Tô 1967 Trận Đồi 875 Kon Tum Kháng chiến chống Mỹ tư liệu",
+          "title": "Video giới thiệu về Chiến dịch Đăk Tô 1967",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90%E1%BA%AFk+T%C3%B4+1967+Tr%E1%BA%ADn+%C4%90%E1%BB%93i+875+Kon+Tum+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
+    },
+    {
+      "date": "1972-04-24",
+      "description": "Quân Giải phóng tiến công và đập tan căn cứ E42 (căn cứ Tân Cảnh), tiêu diệt Sở chỉ huy tiền phương Sư đoàn 22 QĐVNCH, giải phóng cụm cứ điểm Đăk Tô - Tân Cảnh.",
+      "id": "KonTum_US_WAR_02",
+      "location": {
+        "commune": "Tân Cảnh",
+        "district": "Đăk Tô",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Hoàng Minh Thảo",
+        "Lê Đức Anh"
+      ],
+      "tags": [
+        "Chiến thắng Đăk Tô - Tân Cảnh",
+        "Chiến dịch Xuân Hè 1972"
+      ],
+      "title": "Chiến thắng Đăk Tô - Tân Cảnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đăk Tô Tân Cảnh 1972 Kon Tum Sư đoàn 22 tư liệu lịch sử",
+          "title": "Video tư liệu về Chiến thắng Đăk Tô - Tân Cảnh 1972",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%E1%BA%AFk+T%C3%B4+T%C3%A2n+C%E1%BA%A3nh+1972+Kon+Tum+S%C6%B0+%C4%91o%C3%A0n+22+t%C6%B0+li%E1%BB%87u+l%E1%BB%8Bch+s%E1%BB%AD"
+        }
+      ],
+      "year": 1972
+    },
+    {
+      "date": "1975-03-16",
+      "description": "Bộ đội chủ lực kết hợp lực lượng vũ trang địa phương đồng loạt tiến công, thị xã Kon Tum được giải phóng hoàn toàn trong Chiến dịch Tây Nguyên mùa Xuân năm 1975.",
+      "id": "KonTum_US_WAR_03",
+      "location": {
+        "commune": null,
+        "district": "Kon Tum",
+        "province": "Kon Tum"
+      },
+      "related_figures": [
+        "Vũ Lăng"
+      ],
+      "tags": [
+        "Giải phóng Kon Tum",
+        "Chiến dịch Tây Nguyên 1975"
+      ],
+      "title": "Giải phóng hoàn toàn tỉnh Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Kon Tum 16 tháng 3 năm 1975 Chiến dịch Tây Nguyên tư liệu",
+          "title": "Video tư liệu Giải phóng tỉnh Kon Tum 1975",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Kon+Tum+16+th%C3%A1ng+3+n%C4%83m+1975+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+Nguy%C3%AAn+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
+    },
+    {
+      "date": "1991-08-12",
+      "description": "Kỳ họp thứ 9 Quốc hội khóa VIII ra Nghị quyết chia tách tỉnh Gia Lai - Kon Tum để tái lập tỉnh Kon Tum và tỉnh Gia Lai sau 16 năm sáp nhập.",
+      "id": "KonTum_MODERN_01",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Kon Tum"
+      },
+      "related_figures": [],
+      "tags": [
+        "Hành chính",
+        "Tái lập tỉnh"
+      ],
+      "title": "Tái lập tỉnh Kon Tum",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Kon Tum 1991 Nghị quyết Quốc hội Lịch sử hành chính Việt Nam",
+          "title": "Video giới thiệu về Tái lập tỉnh Kon Tum",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Kon+Tum+1991+Ngh%E1%BB%8B+quy%E1%BA%BFt+Qu%E1%BB%91c+h%E1%BB%99i+L%E1%BB%8Bch+s%E1%BB%AD+h%C3%A0nh+ch%C3%ADnh+Vi%E1%BB%87t+Nam"
+        }
+      ],
+      "year": 1991
+    }
+  ],
+  "source": {
+    "confidence": "Đã rà soát và đối chiếu tài liệu lịch sử tỉnh Kon Tum, Cục Di sản Văn hóa và Trung tâm Lưu trữ quốc gia.",
+    "label": "HistoryData/KonTum.json",
+    "updated_at": "2026-08-19",
+    "url": "/api/history/KonTum_vi.json"
+  }
+}

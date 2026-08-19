@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "PhuTho_EARLY_01",
-      "year": 965,
       "date": null,
-      "title": "Kiều Công Hãn trấn giữ Phong Châu",
-      "description": "Trong thời kỳ loạn 12 sứ quân, Kiều Công Hãn (một trong 12 sứ quân) đã chiếm đóng và xây dựng căn cứ tại Phong Châu (vùng Việt Trì, Bạch Hạc ngày nay) để tranh giành quyền lực, trước khi bị Đinh Bộ Lĩnh thu phục.",
+      "description": "Khoảng giữa thế kỷ X, trong thời kỳ 12 sứ quân, Kiều Công Hãn chiếm giữ vùng Phong Châu. Trường 'year: 965' chỉ là mốc xấp xỉ phục vụ sắp xếp niên đại.",
+      "id": "PhuTho_EARLY_01",
       "location": {
         "commune": "Bạch Hạc",
         "district": "Thành phố Việt Trì",
@@ -18,14 +16,23 @@
       "tags": [
         "12 sứ quân",
         "Lịch sử địa phương"
-      ]
+      ],
+      "title": "Kiều Công Hãn chiếm giữ vùng Phong Châu (thời 12 sứ quân)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Kiều Công Hãn chiếm giữ vùng Phong Châu (thời 12 sứ quân) 965 Bạch Hạc, Thành phố Việt Trì, Phú Thọ Kiều Công Hãn Đinh Bộ Lĩnh 12 sứ quân Lịch sử địa phương lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Kiều Công Hãn chiếm giữ vùng Phong Châu (thời 12 sứ quân)",
+          "url": "https://www.youtube.com/results?search_query=Ki%E1%BB%81u+C%C3%B4ng+H%C3%A3n+chi%E1%BA%BFm+gi%E1%BB%AF+v%C3%B9ng+Phong+Ch%C3%A2u+%28th%E1%BB%9Di+12+s%E1%BB%A9+qu%C3%A2n%29+965+B%E1%BA%A1ch+H%E1%BA%A1c%2C+Th%C3%A0nh+ph%E1%BB%91+Vi%E1%BB%87t+Tr%C3%AC%2C+Ph%C3%BA+Th%E1%BB%8D+Ki%E1%BB%81u+C%C3%B4ng+H%C3%A3n+%C4%90inh+B%E1%BB%99+L%C4%A9nh+12+s%E1%BB%A9+qu%C3%A2n+L%E1%BB%8Bch+s%E1%BB%AD+%C4%91%E1%BB%8Ba+ph%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 965
     },
     {
+      "date": "1891-09-08",
+      "description": "Ngày 8/9/1891, tỉnh Phú Thọ được thành lập trong quá trình tổ chức lại bộ máy hành chính của chính quyền thực dân Pháp ở Bắc Kỳ. Đây là mốc được tỉnh Phú Thọ sử dụng để kỷ niệm ngày thành lập tỉnh.",
       "id": "PhuTho_COLONIAL_01",
-      "year": 1891,
-      "date": "1891-05-05",
-      "title": "Thành lập tỉnh Phú Thọ",
-      "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Phú Thọ bằng cách tách huyện Sơn Vi, Thanh Ba, Phù Ninh của tỉnh Sơn Tây và huyện Tam Nông, Thanh Sơn của tỉnh Hưng Hóa. Tỉnh lỵ đặt tại làng Phú Thọ (thị xã Phú Thọ ngày nay).",
       "location": {
         "commune": "Phong Châu",
         "district": "Thị xã Phú Thọ",
@@ -35,31 +42,49 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Thành lập tỉnh Phú Thọ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Phú Thọ 1891 Phong Châu, Thị xã Phú Thọ, Phú Thọ Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Phú Thọ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Ph%C3%BA+Th%E1%BB%8D+1891+Phong+Ch%C3%A2u%2C+Th%E1%BB%8B+x%C3%A3+Ph%C3%BA+Th%E1%BB%8D%2C+Ph%C3%BA+Th%E1%BB%8D+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1891
     },
     {
-      "id": "PhuTho_REV_01",
-      "year": 1939,
       "date": null,
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Cát Lem)",
-      "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Phú Thọ được thành lập tại đồi Cát Lem (nay thuộc xã Thục Luyện). Đây là mốc son đánh dấu sự ra đời của tổ chức Đảng tại Đất Tổ, trực tiếp lãnh đạo phong trào cách mạng.",
+      "description": "Cuối năm 1939, Chi bộ Cát Trù - Thạch Đê, bí danh Đọi Đèn, được thành lập và là một trong những tổ chức Đảng ra đời sớm ở Phú Thọ. Không dùng tên 'Cát Lem' khi chưa có nguồn lịch sử đáng tin cậy xác nhận.",
+      "id": "PhuTho_REV_01",
       "location": {
-        "commune": "Thục Luyện",
-        "district": "Thanh Sơn",
+        "commune": null,
+        "district": "Cẩm Khê",
         "province": "Phú Thọ"
       },
       "related_figures": [],
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Cát Trù - Thạch Đê (bí danh Đọi Đèn)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Cát Trù - Thạch Đê (bí danh Đọi Đèn) 1939 Cẩm Khê, Phú Thọ Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Cát Trù - Thạch Đê (bí danh Đọi Đèn)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+C%C3%A1t+Tr%C3%B9+-+Th%E1%BA%A1ch+%C4%90%C3%AA+%28b%C3%AD+danh+%C4%90%E1%BB%8Di+%C4%90%C3%A8n%29+1939+C%E1%BA%A9m+Kh%C3%AA%2C+Ph%C3%BA+Th%E1%BB%8D+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1939
     },
     {
-      "id": "PhuTho_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại tỉnh lỵ Phú Thọ",
       "description": "Lực lượng tự vệ và quần chúng nhân dân đã bao vây Dinh Tỉnh trưởng và Trại lính bảo an tại thị xã Phú Thọ. Chính quyền thực dân phong kiến sụp đổ, Ủy ban Cách mạng lâm thời tỉnh Phú Thọ chính thức ra mắt nhân dân.",
+      "id": "PhuTho_REV_02",
       "location": {
         "commune": null,
         "district": "Thị xã Phú Thọ",
@@ -69,14 +94,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại tỉnh lỵ Phú Thọ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại tỉnh lỵ Phú Thọ 1945 Thị xã Phú Thọ, Phú Thọ Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại tỉnh lỵ Phú Thọ",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+Ph%C3%BA+Th%E1%BB%8D+1945+Th%E1%BB%8B+x%C3%A3+Ph%C3%BA+Th%E1%BB%8D%2C+Ph%C3%BA+Th%E1%BB%8D+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1947-10-24",
+      "description": "Ngày 24/10/1947, tại khu vực Đoan Hùng - sông Lô, quân dân ta đánh lực lượng quân Pháp trong Chiến dịch Việt Bắc Thu - Đông 1947, góp phần bẻ gãy cuộc tiến công của đối phương.",
       "id": "PhuTho_FRENCH_WAR_01",
-      "year": 1947,
-      "date": "1947-11-17",
-      "title": "Chiến thắng Sông Lô (Đoan Hùng)",
-      "description": "Pháo binh và bộ binh ta tổ chức phục kích tại ngã ba sông Lô - sông Gâm (khu vực Đoan Hùng), bắn chìm tàu chiến và ca nô của Pháp, bẻ gãy gọng kìm tấn công lên Việt Bắc, bảo vệ an toàn cho cơ quan đầu não kháng chiến.",
       "location": {
         "commune": "Chí Đám",
         "district": "Đoan Hùng",
@@ -88,14 +122,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Thủy chiến"
-      ]
+      ],
+      "title": "Chiến thắng Đoan Hùng trong Chiến dịch Việt Bắc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đoan Hùng trong Chiến dịch Việt Bắc 1947 Chí Đám, Đoan Hùng, Phú Thọ Vũ Hiển Kháng chiến chống Pháp Thủy chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đoan Hùng trong Chiến dịch Việt Bắc",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90oan+H%C3%B9ng+trong+Chi%E1%BA%BFn+d%E1%BB%8Bch+Vi%E1%BB%87t+B%E1%BA%AFc+1947+Ch%C3%AD+%C4%90%C3%A1m%2C+%C4%90oan+H%C3%B9ng%2C+Ph%C3%BA+Th%E1%BB%8D+V%C5%A9+Hi%E1%BB%83n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Th%E1%BB%A7y+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1947
     },
     {
-      "id": "PhuTho_FRENCH_WAR_02",
-      "year": 1951,
       "date": "1951-12-10",
-      "title": "Trận Tu Vũ",
       "description": "Mở màn Chiến dịch Hòa Bình, Trung đoàn 88 (Đại đoàn 308) đã tấn công kiên cường vào cứ điểm Tu Vũ - cứ điểm được Pháp xây dựng kiên cố nhất trên phòng tuyến sông Đà. Chiến thắng Tu Vũ đã khai thông đường vận chuyển liên khu.",
+      "id": "PhuTho_FRENCH_WAR_02",
       "location": {
         "commune": "Tu Vũ",
         "district": "Thanh Thủy",
@@ -107,14 +150,23 @@
       "tags": [
         "Chiến dịch Hòa Bình",
         "Công đồn"
-      ]
+      ],
+      "title": "Trận Tu Vũ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Tu Vũ 1951 Tu Vũ, Thanh Thủy, Phú Thọ Vũ Lăng Chiến dịch Hòa Bình Công đồn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Tu Vũ",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Tu+V%C5%A9+1951+Tu+V%C5%A9%2C+Thanh+Th%E1%BB%A7y%2C+Ph%C3%BA+Th%E1%BB%8D+V%C5%A9+L%C4%83ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%C3%B2a+B%C3%ACnh+C%C3%B4ng+%C4%91%E1%BB%93n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1951
     },
     {
-      "id": "PhuTho_FRENCH_WAR_03",
-      "year": 1952,
       "date": "1952-11-17",
-      "title": "Chiến thắng Chân Mộng - Trạm Thản",
       "description": "Trong chiến dịch Tây Bắc, Trung đoàn 36 (Đại đoàn 308) đã tổ chức trận phục kích táo bạo tại thung lũng Chân Mộng - Trạm Thản, tiêu diệt binh đoàn cơ động GM4 của Pháp (gồm xe tăng và bộ binh), phá tan âm mưu đánh chiếm hậu phương Phú Thọ.",
+      "id": "PhuTho_FRENCH_WAR_03",
       "location": {
         "commune": "Trạm Thản",
         "district": "Phù Ninh",
@@ -126,14 +178,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Phục kích"
-      ]
+      ],
+      "title": "Chiến thắng Chân Mộng - Trạm Thản",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Chân Mộng - Trạm Thản 1952 Trạm Thản, Phù Ninh, Phú Thọ Phạm Hồng Sơn Kháng chiến chống Pháp Phục kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Chân Mộng - Trạm Thản",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ch%C3%A2n+M%E1%BB%99ng+-+Tr%E1%BA%A1m+Th%E1%BA%A3n+1952+Tr%E1%BA%A1m+Th%E1%BA%A3n%2C+Ph%C3%B9+Ninh%2C+Ph%C3%BA+Th%E1%BB%8D+Ph%E1%BA%A1m+H%E1%BB%93ng+S%C6%A1n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Ph%E1%BB%A5c+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "PhuTho_INDUSTRY_01",
-      "year": 1962,
       "date": "1962-03-18",
-      "title": "Khánh thành Khu công nghiệp Việt Trì",
       "description": "Dưới sự chứng kiến của Chủ tịch Hồ Chí Minh, Khu công nghiệp Việt Trì - khu công nghiệp đầu tiên của miền Bắc xã hội chủ nghĩa được khánh thành. Việt Trì trở thành 'Thành phố ngã ba sông', trung tâm công nghiệp nhẹ và hóa chất.",
+      "id": "PhuTho_INDUSTRY_01",
       "location": {
         "commune": null,
         "district": "Thành phố Việt Trì",
@@ -145,14 +206,23 @@
       "tags": [
         "Kinh tế",
         "Công nghiệp hóa"
-      ]
+      ],
+      "title": "Khánh thành Khu công nghiệp Việt Trì",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành Khu công nghiệp Việt Trì 1962 Thành phố Việt Trì, Phú Thọ Hồ Chí Minh Kinh tế Công nghiệp hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành Khu công nghiệp Việt Trì",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+Khu+c%C3%B4ng+nghi%E1%BB%87p+Vi%E1%BB%87t+Tr%C3%AC+1962+Th%C3%A0nh+ph%E1%BB%91+Vi%E1%BB%87t+Tr%C3%AC%2C+Ph%C3%BA+Th%E1%BB%8D+H%E1%BB%93+Ch%C3%AD+Minh+Kinh+t%E1%BA%BF+C%C3%B4ng+nghi%E1%BB%87p+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1962
     },
     {
-      "id": "PhuTho_ADMIN_01",
-      "year": 1968,
       "date": "1968-01-26",
-      "title": "Thành lập tỉnh Vĩnh Phú",
       "description": "Ủy ban Thường vụ Quốc hội ra Nghị quyết hợp nhất hai tỉnh Phú Thọ và Vĩnh Phúc thành tỉnh Vĩnh Phú. Tỉnh lỵ đặt tại thành phố Việt Trì, đóng vai trò quan trọng trong việc chi viện cho chiến trường miền Nam.",
+      "id": "PhuTho_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -162,14 +232,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Vĩnh Phú",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Vĩnh Phú 1968 Phú Thọ Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Vĩnh Phú",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+V%C4%A9nh+Ph%C3%BA+1968+Ph%C3%BA+Th%E1%BB%8D+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
+      "date": "1997-01-01",
+      "description": "Quốc hội khóa IX thông qua nghị quyết ngày 6/11/1996 chia tỉnh Vĩnh Phú thành hai tỉnh Vĩnh Phúc và Phú Thọ. Tỉnh Phú Thọ tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "PhuTho_ADMIN_02",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Phú Thọ",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Vĩnh Phú trở lại thành hai tỉnh Phú Thọ và Vĩnh Phúc. Tỉnh Phú Thọ chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
       "location": {
         "commune": null,
         "district": null,
@@ -179,7 +258,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Phú Thọ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Phú Thọ 1997 Phú Thọ Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Phú Thọ",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Ph%C3%BA+Th%E1%BB%8D+1997+Ph%C3%BA+Th%E1%BB%8D+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/PhuTho.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/PhuTho_vi.json"
+  }
 }

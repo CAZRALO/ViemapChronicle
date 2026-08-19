@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "NamDinh_TRAN_01",
-      "year": 1262,
       "date": null,
-      "title": "Thành lập Phủ Thiên Trường",
       "description": "Thượng hoàng Trần Thái Tông xuống chiếu thăng hương Tức Mặc thành phủ Thiên Trường, cho xây dựng hành cung Trùng Quang và Trùng Hoa làm nơi ở cho các Thái thượng hoàng. Thiên Trường trở thành 'kinh đô thứ hai' của Đại Việt thời Trần.",
+      "id": "NamDinh_TRAN_01",
       "location": {
         "commune": "Lộc Vượng",
         "district": "Thành phố Nam Định",
@@ -17,14 +15,23 @@
       "tags": [
         "Nhà Trần",
         "Hành chính"
-      ]
+      ],
+      "title": "Thành lập Phủ Thiên Trường",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Phủ Thiên Trường 1262 Lộc Vượng, Thành phố Nam Định, Nam Định Trần Thái Tông Nhà Trần Hành chính lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Phủ Thiên Trường",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Ph%E1%BB%A7+Thi%C3%AAn+Tr%C6%B0%E1%BB%9Dng+1262+L%E1%BB%99c+V%C6%B0%E1%BB%A3ng%2C+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+Tr%E1%BA%A7n+Th%C3%A1i+T%C3%B4ng+Nh%C3%A0+Tr%E1%BA%A7n+H%C3%A0nh+ch%C3%ADnh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1262
     },
     {
+      "date": null,
+      "description": "Trong tháng 6/1929, sau sự ra đời của Đông Dương Cộng sản Đảng, các cơ sở cộng sản ở Nam Định được củng cố và phát triển, tạo tiền đề trực tiếp cho việc xây dựng tổ chức Đảng trong tỉnh.",
       "id": "NamDinh_REV_01",
-      "year": 1929,
-      "date": "1929-06-01",
-      "title": "Thành lập Chi bộ Đông Dương Cộng sản Đảng",
-      "description": "Tại số nhà 7 phố Hàng Thao, Ban Tỉnh ủy lâm thời Nam Định được thành lập. Đây là tổ chức Đảng đầu tiên của tỉnh, trực tiếp lãnh đạo phong trào công nhân và nhân dân chống Pháp.",
       "location": {
         "commune": "Ngô Quyền",
         "district": "Thành phố Nam Định",
@@ -37,14 +44,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Hình thành các tổ chức Đông Dương Cộng sản Đảng ở Nam Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hình thành các tổ chức Đông Dương Cộng sản Đảng ở Nam Định 1929 Ngô Quyền, Thành phố Nam Định, Nam Định Nguyễn Doãn Nguyễn Hới Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hình thành các tổ chức Đông Dương Cộng sản Đảng ở Nam Định",
+          "url": "https://www.youtube.com/results?search_query=H%C3%ACnh+th%C3%A0nh+c%C3%A1c+t%E1%BB%95+ch%E1%BB%A9c+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%90%E1%BA%A3ng+%E1%BB%9F+Nam+%C4%90%E1%BB%8Bnh+1929+Ng%C3%B4+Quy%E1%BB%81n%2C+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+Nguy%E1%BB%85n+Do%C3%A3n+Nguy%E1%BB%85n+H%E1%BB%9Bi+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "NamDinh_REV_02",
-      "year": 1930,
       "date": "1930-03-25",
-      "title": "Cuộc bãi công của công nhân Nhà máy Dệt",
       "description": "Hơn 4.000 công nhân Nhà máy Dệt Nam Định đã tiến hành cuộc bãi công quy mô lớn kéo dài 21 ngày đêm để phản đối chế độ làm việc hà khắc. Sự kiện này khẳng định sức mạnh của giai cấp công nhân Nam Định.",
+      "id": "NamDinh_REV_02",
       "location": {
         "commune": "Trần Đăng Ninh",
         "district": "Thành phố Nam Định",
@@ -56,14 +72,23 @@
       "tags": [
         "Phong trào công nhân",
         "Nhà máy Dệt"
-      ]
+      ],
+      "title": "Cuộc bãi công của công nhân Nhà máy Dệt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc bãi công của công nhân Nhà máy Dệt 1930 Trần Đăng Ninh, Thành phố Nam Định, Nam Định Nguyễn Thị Uyên Phong trào công nhân Nhà máy Dệt lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc bãi công của công nhân Nhà máy Dệt",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+b%C3%A3i+c%C3%B4ng+c%E1%BB%A7a+c%C3%B4ng+nh%C3%A2n+Nh%C3%A0+m%C3%A1y+D%E1%BB%87t+1930+Tr%E1%BA%A7n+%C4%90%C4%83ng+Ninh%2C+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+Nguy%E1%BB%85n+Th%E1%BB%8B+Uy%C3%AAn+Phong+tr%C3%A0o+c%C3%B4ng+nh%C3%A2n+Nh%C3%A0+m%C3%A1y+D%E1%BB%87t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "NamDinh_REV_03",
-      "year": 1945,
       "date": "1945-08-21",
-      "title": "Giành chính quyền tại thành phố Nam Định",
       "description": "Hàng vạn quần chúng từ các ngả đường kéo về bao vây Tòa Đốc lý và Trại Bảo an binh. Trước khí thế cách mạng, Đốc lý Nam Định buộc phải đầu hàng. Ủy ban Cách mạng lâm thời thành phố ra mắt nhân dân.",
+      "id": "NamDinh_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Nam Định",
@@ -73,14 +98,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại thành phố Nam Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại thành phố Nam Định 1945 Thành phố Nam Định, Nam Định Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại thành phố Nam Định",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh+1945+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1946-12-19",
+      "description": "Đêm 19/12/1946, hưởng ứng Lời kêu gọi Toàn quốc kháng chiến, quân và dân Nam Định bước vào chiến đấu chống quân Pháp tại thành phố Nam Định, mở đầu thời kỳ kháng chiến toàn quốc trên địa bàn.",
       "id": "NamDinh_FRENCH_WAR_01",
-      "year": 1946,
-      "date": "1946-12-20",
-      "title": "Mở màn Toàn quốc kháng chiến tại Nam Định",
-      "description": "Hưởng ứng lời kêu gọi của Chủ tịch Hồ Chí Minh, Tự vệ thành phố Nam Định đã nổ súng tấn công quân Pháp, thực hiện chiến thuật 'vườn không nhà trống' và bao vây, giam chân địch trong thành phố suốt 86 ngày đêm.",
       "location": {
         "commune": null,
         "district": "Thành phố Nam Định",
@@ -90,14 +124,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Đô thị"
-      ]
+      ],
+      "title": "Mở màn Toàn quốc kháng chiến tại Nam Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Mở màn Toàn quốc kháng chiến tại Nam Định 1946 Thành phố Nam Định, Nam Định Kháng chiến chống Pháp Đô thị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Mở màn Toàn quốc kháng chiến tại Nam Định",
+          "url": "https://www.youtube.com/results?search_query=M%E1%BB%9F+m%C3%A0n+To%C3%A0n+qu%E1%BB%91c+kh%C3%A1ng+chi%E1%BA%BFn+t%E1%BA%A1i+Nam+%C4%90%E1%BB%8Bnh+1946+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+%C4%90%C3%B4+th%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
+      "date": null,
+      "description": "Trong năm 1953, lực lượng vũ trang và nhân dân vùng Giao Thủy - Xuân Trường tổ chức nhiều trận chống càn, bảo vệ cơ sở và vùng du kích trong thế trận chiến tranh nhân dân ở đồng bằng Bắc Bộ.",
       "id": "NamDinh_FRENCH_WAR_02",
-      "year": 1953,
-      "date": "1953-02-01",
-      "title": "Trận chống càn tại Giao Thủy - Xuân Trường",
-      "description": "Bộ đội chủ lực Đại đoàn 320 phối hợp với dân quân du kích địa phương đã đánh bại cuộc hành quân càn quét lớn (Chiến dịch Bretagne) của quân Pháp vào vùng biển Giao Thủy, Xuân Trường, bảo vệ vững chắc vùng tự do.",
       "location": {
         "commune": null,
         "district": "Giao Thủy",
@@ -109,14 +152,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chống càn"
-      ]
+      ],
+      "title": "Chống các cuộc càn quét tại Giao Thủy - Xuân Trường năm 1953",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chống các cuộc càn quét tại Giao Thủy - Xuân Trường năm 1953 1953 Giao Thủy, Nam Định Văn Tiến Dũng Kháng chiến chống Pháp Chống càn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chống các cuộc càn quét tại Giao Thủy - Xuân Trường năm 1953",
+          "url": "https://www.youtube.com/results?search_query=Ch%E1%BB%91ng+c%C3%A1c+cu%E1%BB%99c+c%C3%A0n+qu%C3%A9t+t%E1%BA%A1i+Giao+Th%E1%BB%A7y+-+Xu%C3%A2n+Tr%C6%B0%E1%BB%9Dng+n%C4%83m+1953+1953+Giao+Th%E1%BB%A7y%2C+Nam+%C4%90%E1%BB%8Bnh+V%C4%83n+Ti%E1%BA%BFn+D%C5%A9ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Ch%E1%BB%91ng+c%C3%A0n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
-      "id": "NamDinh_FRENCH_WAR_03",
-      "year": 1954,
       "date": "1954-07-01",
-      "title": "Giải phóng thành phố Nam Định",
       "description": "Sau khi Hiệp định Genève được ký kết, quân Pháp buộc phải rút khỏi Nam Định. Các đơn vị bộ đội ta tiến vào tiếp quản thành phố, đánh dấu ngày giải phóng hoàn toàn tỉnh Nam Định.",
+      "id": "NamDinh_FRENCH_WAR_03",
       "location": {
         "commune": null,
         "district": "Thành phố Nam Định",
@@ -126,14 +178,23 @@
       "tags": [
         "Giải phóng",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng thành phố Nam Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thành phố Nam Định 1954 Thành phố Nam Định, Nam Định Giải phóng Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thành phố Nam Định",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh+1954+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+Gi%E1%BA%A3i+ph%C3%B3ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "NamDinh_US_WAR_01",
-      "year": 1965,
       "date": "1965-07-02",
-      "title": "Trận chiến đấu bảo vệ thành phố Dệt",
       "description": "Máy bay Mỹ ồ ạt ném bom đánh phá thành phố Nam Định, trọng điểm là khu công nghiệp Dệt. Quân dân Nam Định đã bắn rơi 2 máy bay Mỹ ngay trong trận đầu ra quân, bảo vệ an toàn cho khu công nghiệp.",
+      "id": "NamDinh_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Nam Định",
@@ -143,14 +204,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
+      ],
+      "title": "Trận chiến đấu bảo vệ thành phố Dệt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận chiến đấu bảo vệ thành phố Dệt 1965 Thành phố Nam Định, Nam Định Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận chiến đấu bảo vệ thành phố Dệt",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+th%C3%A0nh+ph%E1%BB%91+D%E1%BB%87t+1965+Th%C3%A0nh+ph%E1%BB%91+Nam+%C4%90%E1%BB%8Bnh%2C+Nam+%C4%90%E1%BB%8Bnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "NamDinh_ADMIN_01",
-      "year": 1965,
       "date": "1965-04-21",
-      "title": "Thành lập tỉnh Nam Hà",
       "description": "Hợp nhất tỉnh Nam Định và tỉnh Hà Nam thành tỉnh Nam Hà. Việc sáp nhập nhằm tăng cường tiềm lực kinh tế và quốc phòng cho cuộc kháng chiến chống Mỹ cứu nước.",
+      "id": "NamDinh_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -160,14 +230,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Nam Hà",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Nam Hà 1965 Nam Định Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Nam Hà",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Nam+H%C3%A0+1965+Nam+%C4%90%E1%BB%8Bnh+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Nam Hà. Tỉnh Nam Định tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "NamDinh_ADMIN_02",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Nam Định",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Nam Hà trở lại thành hai tỉnh Nam Định và Hà Nam. Tỉnh Nam Định chính thức đi vào hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
       "location": {
         "commune": null,
         "district": null,
@@ -177,7 +256,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Nam Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Nam Định 1997 Nam Định Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Nam Định",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Nam+%C4%90%E1%BB%8Bnh+1997+Nam+%C4%90%E1%BB%8Bnh+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/NamDinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/NamDinh_vi.json"
+  }
 }

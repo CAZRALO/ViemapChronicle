@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "TayNinh_RELIGION_01",
-      "year": 1926,
       "date": "1926-11-18",
-      "title": "Khai đạo Cao Đài",
       "description": "Lễ Khai đạo chính thức được tổ chức trọng thể tại Chùa Gò Kén (huyện Hòa Thành). Sự kiện này đánh dấu sự ra đời của Đạo Cao Đài - một tôn giáo nội sinh lớn tại Việt Nam, sau đó Tòa Thánh Tây Ninh được xây dựng và trở thành trung tâm của tôn giáo này.",
+      "id": "TayNinh_RELIGION_01",
       "location": {
         "commune": "Long Thành Trung",
         "district": "Thị xã Hòa Thành",
@@ -19,14 +17,23 @@
       "tags": [
         "Tôn giáo",
         "Văn hóa"
-      ]
+      ],
+      "title": "Khai đạo Cao Đài",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khai đạo Cao Đài 1926 Long Thành Trung, Thị xã Hòa Thành, Tây Ninh Lê Văn Trung Cao Quỳnh Cư Phạm Công Tắc Tôn giáo Văn hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khai đạo Cao Đài",
+          "url": "https://www.youtube.com/results?search_query=Khai+%C4%91%E1%BA%A1o+Cao+%C4%90%C3%A0i+1926+Long+Th%C3%A0nh+Trung%2C+Th%E1%BB%8B+x%C3%A3+H%C3%B2a+Th%C3%A0nh%2C+T%C3%A2y+Ninh+L%C3%AA+V%C4%83n+Trung+Cao+Qu%E1%BB%B3nh+C%C6%B0+Ph%E1%BA%A1m+C%C3%B4ng+T%E1%BA%AFc+T%C3%B4n+gi%C3%A1o+V%C4%83n+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1926
     },
     {
-      "id": "TayNinh_REV_01",
-      "year": 1930,
-      "date": "1930-06-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Giồng Nần)",
+      "date": null,
       "description": "Tại khu rừng Giồng Nần (Bến Cầu), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Tây Ninh được thành lập. Đây là ngọn cờ đầu tập hợp, giác ngộ quần chúng và lãnh đạo phong trào cách mạng tại vùng biên giới Tây Nam.",
+      "id": "TayNinh_REV_01",
       "location": {
         "commune": "Long Vĩnh",
         "district": "Châu Thành",
@@ -38,14 +45,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Giồng Nần)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên (Giồng Nần) 1930 Long Vĩnh, Châu Thành, Tây Ninh Trương Văn Chẩn Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên (Giồng Nần)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+%28Gi%E1%BB%93ng+N%E1%BA%A7n%29+1930+Long+V%C4%A9nh%2C+Ch%C3%A2u+Th%C3%A0nh%2C+T%C3%A2y+Ninh+Tr%C6%B0%C6%A1ng+V%C4%83n+Ch%E1%BA%A9n+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "TayNinh_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Tây Ninh",
       "description": "Lực lượng Thanh niên Tiền phong và quần chúng nhân dân đã bao vây Dinh Tỉnh trưởng, buộc Tỉnh trưởng Hồ Văn Vui phải giao chính quyền. Ủy ban Hành chính lâm thời tỉnh Tây Ninh ra mắt đồng bào tại sân vận động tỉnh.",
+      "id": "TayNinh_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Tây Ninh",
@@ -55,14 +71,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Tây Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Tây Ninh 1945 Thành phố Tây Ninh, Tây Ninh Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Tây Ninh",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+T%C3%A2y+Ninh+1945+Th%C3%A0nh+ph%E1%BB%91+T%C3%A2y+Ninh%2C+T%C3%A2y+Ninh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "TayNinh_US_WAR_01",
-      "year": 1960,
       "date": "1960-01-26",
-      "title": "Chiến thắng Tua Hai",
       "description": "Lực lượng vũ trang miền Đông Nam Bộ tập kích căn cứ Tua Hai (trụ sở Trung đoàn 32 của quân đội Sài Gòn). Trận đánh đã tiêu diệt và bắt sống nhiều địch, thu lượng lớn vũ khí. Đây là 'phát pháo lệnh' mở đầu cho phong trào Đồng khởi vũ trang tại miền Đông Nam Bộ.",
+      "id": "TayNinh_US_WAR_01",
       "location": {
         "commune": "Đồng Khởi",
         "district": "Châu Thành",
@@ -74,14 +99,23 @@
       "tags": [
         "Đồng khởi",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Tua Hai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Tua Hai 1960 Đồng Khởi, Châu Thành, Tây Ninh Nguyễn Hữu Xuyến Đồng khởi Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Tua Hai",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Tua+Hai+1960+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi%2C+Ch%C3%A2u+Th%C3%A0nh%2C+T%C3%A2y+Ninh+Nguy%E1%BB%85n+H%E1%BB%AFu+Xuy%E1%BA%BFn+%C4%90%E1%BB%93ng+kh%E1%BB%9Fi+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1960
     },
     {
+      "date": null,
+      "description": "Trung ương Cục miền Nam được thành lập ngày 23/1/1961. Trong năm 1962, cơ quan lãnh đạo này chuyển căn cứ về vùng căn cứ cách mạng ở phía bắc Tây Ninh, thường được gọi là Căn cứ R, và từ đây chỉ đạo chiến trường Nam Bộ trong nhiều năm.",
       "id": "TayNinh_US_WAR_02",
-      "year": 1961,
-      "date": "1961-10-10",
-      "title": "Thành lập Trung ương Cục miền Nam (Căn cứ R)",
-      "description": "Hội nghị thành lập Trung ương Cục miền Nam diễn ra tại Mã Đà, sau đó dời về căn cứ Chàng Riệc (Bắc Tây Ninh). Tây Ninh trở thành 'Thủ đô kháng chiến', nơi đóng quân của cơ quan đầu não chỉ đạo cách mạng miền Nam cho đến ngày thắng lợi.",
       "location": {
         "commune": "Tân Lập",
         "district": "Tân Biên",
@@ -95,14 +129,23 @@
       "tags": [
         "Căn cứ địa",
         "Cơ quan đầu não"
-      ]
+      ],
+      "title": "Trung ương Cục miền Nam chuyển căn cứ về Tây Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trung ương Cục miền Nam chuyển căn cứ về Tây Ninh 1962 Tân Lập, Tân Biên, Tây Ninh Nguyễn Văn Linh Nguyễn Chí Thanh Phạm Hùng Căn cứ địa Cơ quan đầu não lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trung ương Cục miền Nam chuyển căn cứ về Tây Ninh",
+          "url": "https://www.youtube.com/results?search_query=Trung+%C6%B0%C6%A1ng+C%E1%BB%A5c+mi%E1%BB%81n+Nam+chuy%E1%BB%83n+c%C4%83n+c%E1%BB%A9+v%E1%BB%81+T%C3%A2y+Ninh+1962+T%C3%A2n+L%E1%BA%ADp%2C+T%C3%A2n+Bi%C3%AAn%2C+T%C3%A2y+Ninh+Nguy%E1%BB%85n+V%C4%83n+Linh+Nguy%E1%BB%85n+Ch%C3%AD+Thanh+Ph%E1%BA%A1m+H%C3%B9ng+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+C%C6%A1+quan+%C4%91%E1%BA%A7u+n%C3%A3o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1962
     },
     {
-      "id": "TayNinh_US_WAR_03",
-      "year": 1967,
       "date": "1967-02-22",
-      "title": "Đánh bại cuộc hành quân Junction City",
       "description": "Mỹ huy động 45.000 quân, mở cuộc hành quân lớn nhất trong chiến tranh (Junction City) đánh vào chiến khu Dương Minh Châu nhằm tiêu diệt Trung ương Cục. Quân dân Tây Ninh và các cơ quan đầu não đã kiên cường bám trụ, bẻ gãy gọng kìm của địch, bảo vệ an toàn căn cứ.",
+      "id": "TayNinh_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Tân Biên, Tân Châu",
@@ -114,14 +157,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chống càn"
-      ]
+      ],
+      "title": "Đánh bại cuộc hành quân Junction City",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đánh bại cuộc hành quân Junction City 1967 Tân Biên, Tân Châu, Tây Ninh Hoàng Văn Thái Kháng chiến chống Mỹ Chống càn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đánh bại cuộc hành quân Junction City",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C3%A1nh+b%E1%BA%A1i+cu%E1%BB%99c+h%C3%A0nh+qu%C3%A2n+Junction+City+1967+T%C3%A2n+Bi%C3%AAn%2C+T%C3%A2n+Ch%C3%A2u%2C+T%C3%A2y+Ninh+Ho%C3%A0ng+V%C4%83n+Th%C3%A1i+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ch%E1%BB%91ng+c%C3%A0n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
     },
     {
-      "id": "TayNinh_US_WAR_04",
-      "year": 1975,
       "date": "1975-01-07",
-      "title": "Giải phóng Núi Bà Đen",
       "description": "Sư đoàn 5 và lực lượng đặc công đã tấn công tiêu diệt căn cứ thông tin chiến lược của Mỹ - Ngụy trên đỉnh núi Bà Đen (nơi được mệnh danh là 'Mắt thần' của Đông Nam Bộ). Việc chiếm lĩnh núi Bà Đen đã làm tê liệt hệ thống thông tin liên lạc của địch trong vùng.",
+      "id": "TayNinh_US_WAR_04",
       "location": {
         "commune": "Thạnh Tân",
         "district": "Thành phố Tây Ninh",
@@ -131,14 +183,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Giải phóng Núi Bà Đen",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Núi Bà Đen 1975 Thạnh Tân, Thành phố Tây Ninh, Tây Ninh Chiến dịch Xuân 1975 Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Núi Bà Đen",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+N%C3%BAi+B%C3%A0+%C4%90en+1975+Th%E1%BA%A1nh+T%C3%A2n%2C+Th%C3%A0nh+ph%E1%BB%91+T%C3%A2y+Ninh%2C+T%C3%A2y+Ninh+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "TayNinh_US_WAR_05",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng tỉnh Tây Ninh",
       "description": "Phối hợp với Chiến dịch Hồ Chí Minh lịch sử, lực lượng vũ trang tỉnh đã tấn công vào thị xã Tây Ninh. Đến 11 giờ ngày 30/4, quân ta làm chủ Tòa Hành chính, tỉnh Tây Ninh hoàn toàn giải phóng, góp phần vào đại thắng của cả dân tộc.",
+      "id": "TayNinh_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Thành phố Tây Ninh",
@@ -148,14 +209,23 @@
       "tags": [
         "Giải phóng",
         "Ngày thống nhất"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Tây Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Tây Ninh 1975 Thành phố Tây Ninh, Tây Ninh Giải phóng Ngày thống nhất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Tây Ninh",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+T%C3%A2y+Ninh+1975+Th%C3%A0nh+ph%E1%BB%91+T%C3%A2y+Ninh%2C+T%C3%A2y+Ninh+Gi%E1%BA%A3i+ph%C3%B3ng+Ng%C3%A0y+th%E1%BB%91ng+nh%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "TayNinh_BORDER_WAR_01",
-      "year": 1977,
       "date": "1977-09-25",
-      "title": "Thảm sát Tân Lập (Chiến tranh biên giới Tây Nam)",
       "description": "Lợi dụng đêm tối, quân Khmer Đỏ (Pol Pot) đã tràn sang xã Tân Lập, gây ra vụ thảm sát man rợ khiến 592 người dân vô tội (phần lớn là người già, phụ nữ, trẻ em) thiệt mạng. Sự kiện này là đỉnh điểm tội ác, buộc quân đội Việt Nam phải tổ chức phản công tự vệ.",
+      "id": "TayNinh_BORDER_WAR_01",
       "location": {
         "commune": "Tân Lập",
         "district": "Tân Biên",
@@ -165,14 +235,23 @@
       "tags": [
         "Chiến tranh biên giới",
         "Sự kiện bi thương"
-      ]
+      ],
+      "title": "Thảm sát Tân Lập (Chiến tranh biên giới Tây Nam)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thảm sát Tân Lập (Chiến tranh biên giới Tây Nam) 1977 Tân Lập, Tân Biên, Tây Ninh Chiến tranh biên giới Sự kiện bi thương lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thảm sát Tân Lập (Chiến tranh biên giới Tây Nam)",
+          "url": "https://www.youtube.com/results?search_query=Th%E1%BA%A3m+s%C3%A1t+T%C3%A2n+L%E1%BA%ADp+%28Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+T%C3%A2y+Nam%29+1977+T%C3%A2n+L%E1%BA%ADp%2C+T%C3%A2n+Bi%C3%AAn%2C+T%C3%A2y+Ninh+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+S%E1%BB%B1+ki%E1%BB%87n+bi+th%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1977
     },
     {
-      "id": "TayNinh_ECONOMY_01",
-      "year": 1981,
       "date": "1981-04-29",
-      "title": "Khởi công Hồ Dầu Tiếng",
       "description": "Công trình thủy lợi Hồ Dầu Tiếng (lớn nhất Đông Nam Á lúc bấy giờ) chính thức được khởi công xây dựng trên thượng nguồn sông Sài Gòn. Công trình hoàn thành năm 1985, đã 'giải khát' cho hàng vạn ha đất nông nghiệp Tây Ninh và các tỉnh lân cận.",
+      "id": "TayNinh_ECONOMY_01",
       "location": {
         "commune": "Phước Minh",
         "district": "Dương Minh Châu",
@@ -182,7 +261,24 @@
       "tags": [
         "Kinh tế",
         "Thủy lợi"
-      ]
+      ],
+      "title": "Khởi công Hồ Dầu Tiếng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công Hồ Dầu Tiếng 1981 Phước Minh, Dương Minh Châu, Tây Ninh Kinh tế Thủy lợi lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công Hồ Dầu Tiếng",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+H%E1%BB%93+D%E1%BA%A7u+Ti%E1%BA%BFng+1981+Ph%C6%B0%E1%BB%9Bc+Minh%2C+D%C6%B0%C6%A1ng+Minh+Ch%C3%A2u%2C+T%C3%A2y+Ninh+Kinh+t%E1%BA%BF+Th%E1%BB%A7y+l%E1%BB%A3i+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1981
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/TayNinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/TayNinh_vi.json"
+  }
 }

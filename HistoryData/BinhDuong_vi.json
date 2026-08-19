@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "BinhDuong_COLONIAL_01",
-      "year": 1899,
       "date": "1899-12-20",
-      "title": "Thành lập tỉnh Thủ Dầu Một",
       "description": "Toàn quyền Đông Dương ra Nghị định đổi tên các Sở Tham biện thành tỉnh. Tỉnh Thủ Dầu Một được thành lập (tách ra từ tỉnh Biên Hòa cũ), là tiền thân của tỉnh Bình Dương ngày nay. Vùng đất này bắt đầu phát triển các đồn điền cao su và nghề gốm sứ.",
+      "id": "BinhDuong_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Thành phố Thủ Dầu Một",
@@ -15,14 +13,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Thủ Dầu Một",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Thủ Dầu Một 1899 Thành phố Thủ Dầu Một, Bình Dương Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Thủ Dầu Một",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t+1899+Th%C3%A0nh+ph%E1%BB%91+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1899
     },
     {
-      "id": "BinhDuong_REV_01",
-      "year": 1930,
-      "date": "1930-08-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Bình Nhâm)",
+      "date": null,
       "description": "Tại lò chén của ông Đinh Văn Xoàn (làng Bình Nhâm, Lái Thiêu), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Thủ Dầu Một được thành lập do đồng chí Trương Văn Nhâm làm Bí thư. Sự kiện này đánh dấu bước ngoặt trong phong trào cách mạng tại 'miền Đông gian lao mà anh dũng'.",
+      "id": "BinhDuong_REV_01",
       "location": {
         "commune": "Bình Nhâm",
         "district": "Thành phố Thuận An",
@@ -34,14 +41,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Bình Nhâm)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Bình Nhâm) 1930 Bình Nhâm, Thành phố Thuận An, Bình Dương Trương Văn Nhâm Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên (Chi bộ Bình Nhâm)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+%28Chi+b%E1%BB%99+B%C3%ACnh+Nh%C3%A2m%29+1930+B%C3%ACnh+Nh%C3%A2m%2C+Th%C3%A0nh+ph%E1%BB%91+Thu%E1%BA%ADn+An%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+Tr%C6%B0%C6%A1ng+V%C4%83n+Nh%C3%A2m+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "BinhDuong_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Thủ Dầu Một",
       "description": "Hàng vạn quần chúng từ các quận Châu Thành, Lái Thiêu, Bến Cát... kéo về thị xã Thủ Dầu Một dự mít tinh. Ủy ban Khởi nghĩa tuyên bố xóa bỏ chính quyền tay sai, thành lập Ủy ban Nhân dân Cách mạng tỉnh Thủ Dầu Một.",
+      "id": "BinhDuong_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Thủ Dầu Một",
@@ -53,14 +69,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Thủ Dầu Một",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Thủ Dầu Một 1945 Thành phố Thủ Dầu Một, Bình Dương Văn Công Khai Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Thủ Dầu Một",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t+1945+Th%C3%A0nh+ph%E1%BB%91+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+V%C4%83n+C%C3%B4ng+Khai+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "BinhDuong_FRENCH_WAR_01",
-      "year": 1946,
-      "date": "1946-02-00",
-      "title": "Thành lập Chiến khu Đ",
+      "date": null,
       "description": "Khu bộ Khu 7 quyết định thành lập Chiến khu Đ (gồm các xã phía Bắc Tân Uyên và một phần Đồng Nai). Nơi đây trở thành 'Mật khu' bất khả xâm phạm, căn cứ địa vững chắc của cách mạng miền Đông Nam Bộ trong suốt hai cuộc kháng chiến.",
+      "id": "BinhDuong_FRENCH_WAR_01",
       "location": {
         "commune": "Đất Cuốc",
         "district": "Bắc Tân Uyên",
@@ -72,14 +97,23 @@
       "tags": [
         "Căn cứ địa",
         "Chiến khu Đ"
-      ]
+      ],
+      "title": "Thành lập Chiến khu Đ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chiến khu Đ 1946 Đất Cuốc, Bắc Tân Uyên, Bình Dương Huỳnh Văn Nghệ Căn cứ địa Chiến khu Đ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chiến khu Đ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi%E1%BA%BFn+khu+%C4%90+1946+%C4%90%E1%BA%A5t+Cu%E1%BB%91c%2C+B%E1%BA%AFc+T%C3%A2n+Uy%C3%AAn%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+Hu%E1%BB%B3nh+V%C4%83n+Ngh%E1%BB%87+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+Chi%E1%BA%BFn+khu+%C4%90+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
-      "id": "BinhDuong_FRENCH_WAR_02",
-      "year": 1948,
       "date": "1948-03-19",
-      "title": "Trận tháp canh cầu Bà Kiên (Khai sinh lối đánh Đặc công)",
       "description": "Đội du kích Tân Uyên do Trần Công An chỉ huy đã bí mật dùng thuốc nổ đánh sập tháp canh cầu Bà Kiên được Pháp bảo vệ nghiêm ngặt. Chiến thắng này khai sinh ra lối đánh 'Công đồn đặc biệt' (Đặc công) - một cách đánh độc đáo của quân sự Việt Nam.",
+      "id": "BinhDuong_FRENCH_WAR_02",
       "location": {
         "commune": "Thạnh Phước",
         "district": "Tân Uyên",
@@ -91,14 +125,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Đặc công"
-      ]
+      ],
+      "title": "Trận tháp canh cầu Bà Kiên (Khai sinh lối đánh Đặc công)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận tháp canh cầu Bà Kiên (Khai sinh lối đánh Đặc công) 1948 Thạnh Phước, Tân Uyên, Bình Dương Trần Công An Kháng chiến chống Pháp Đặc công lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận tháp canh cầu Bà Kiên (Khai sinh lối đánh Đặc công)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+th%C3%A1p+canh+c%E1%BA%A7u+B%C3%A0+Ki%C3%AAn+%28Khai+sinh+l%E1%BB%91i+%C4%91%C3%A1nh+%C4%90%E1%BA%B7c+c%C3%B4ng%29+1948+Th%E1%BA%A1nh+Ph%C6%B0%E1%BB%9Bc%2C+T%C3%A2n+Uy%C3%AAn%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+Tr%E1%BA%A7n+C%C3%B4ng+An+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+%C4%90%E1%BA%B7c+c%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
-      "id": "BinhDuong_US_WAR_01",
-      "year": 1958,
       "date": "1958-12-01",
-      "title": "Vụ đầu độc tù nhân Phú Lợi",
-      "description": "Tại Trại giam Phú Lợi (được mệnh danh là 'Địa ngục trần gian'), chính quyền Mỹ - Diệm đã bỏ thuốc độc vào khẩu phần ăn khiến hàng ngàn tù nhân chính trị bị trúng độc và nhiều người tử vong. Sự kiện này gây chấn động dư luận thế giới và thổi bùng ngọn lửa đấu tranh.",
+      "description": "Tại Nhà tù Phú Lợi, ngày 1/12/1958, xảy ra vụ đầu độc tù nhân chính trị, khiến nhiều người trúng độc và có người tử vong. Sự kiện làm dấy lên làn sóng phản đối mạnh mẽ trong và ngoài nước.",
+      "id": "BinhDuong_US_WAR_01",
       "location": {
         "commune": "Phú Lợi",
         "district": "Thành phố Thủ Dầu Một",
@@ -108,14 +151,23 @@
       "tags": [
         "Tội ác chiến tranh",
         "Nhà tù"
-      ]
+      ],
+      "title": "Vụ đầu độc tù nhân Phú Lợi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vụ đầu độc tù nhân Phú Lợi 1958 Phú Lợi, Thành phố Thủ Dầu Một, Bình Dương Tội ác chiến tranh Nhà tù lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vụ đầu độc tù nhân Phú Lợi",
+          "url": "https://www.youtube.com/results?search_query=V%E1%BB%A5+%C4%91%E1%BA%A7u+%C4%91%E1%BB%99c+t%C3%B9+nh%C3%A2n+Ph%C3%BA+L%E1%BB%A3i+1958+Ph%C3%BA+L%E1%BB%A3i%2C+Th%C3%A0nh+ph%E1%BB%91+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+T%E1%BB%99i+%C3%A1c+chi%E1%BA%BFn+tranh+Nh%C3%A0+t%C3%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1958
     },
     {
-      "id": "BinhDuong_US_WAR_02",
-      "year": 1965,
       "date": "1965-11-12",
-      "title": "Chiến thắng Bàu Bàng",
       "description": "Sư đoàn 9 chủ lực Miền đã tổ chức trận tập kích táo bạo vào Lữ đoàn 1 (Sư đoàn 1 Bộ binh 'Anh cả đỏ' của Mỹ) đóng quân dã ngoại tại Bàu Bàng. Trận đánh gây thiệt hại nặng cho quân Mỹ, chứng minh khả năng tiêu diệt đơn vị Mỹ cấp lữ đoàn của quân ta.",
+      "id": "BinhDuong_US_WAR_02",
       "location": {
         "commune": "Lai Uyên",
         "district": "Bàu Bàng",
@@ -125,14 +177,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Trận đánh lớn"
-      ]
+      ],
+      "title": "Chiến thắng Bàu Bàng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Bàu Bàng 1965 Lai Uyên, Bàu Bàng, Bình Dương Kháng chiến chống Mỹ Trận đánh lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Bàu Bàng",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+B%C3%A0u+B%C3%A0ng+1965+Lai+Uy%C3%AAn%2C+B%C3%A0u+B%C3%A0ng%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Tr%E1%BA%ADn+%C4%91%C3%A1nh+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "BinhDuong_US_WAR_03",
-      "year": 1967,
       "date": null,
-      "title": "Chiến đấu tại Tam giác sắt (Địa đạo Tây Nam Bến Cát)",
       "description": "Mỹ mở cuộc hành quân Cedar Falls quy mô lớn nhằm san phẳng vùng 'Tam giác sắt' (Bến Cát - Củ Chi - Trảng Bàng). Quân dân Bến Cát đã dựa vào hệ thống địa đạo liên hoàn kiên cố để bám trụ, đánh trả và bảo toàn lực lượng trước sức mạnh hỏa lực của địch.",
+      "id": "BinhDuong_US_WAR_03",
       "location": {
         "commune": "An Tây",
         "district": "Bến Cát",
@@ -142,14 +203,23 @@
       "tags": [
         "Địa đạo",
         "Tam giác sắt"
-      ]
+      ],
+      "title": "Chiến đấu tại Tam giác sắt (Địa đạo Tây Nam Bến Cát)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu tại Tam giác sắt (Địa đạo Tây Nam Bến Cát) 1967 An Tây, Bến Cát, Bình Dương Địa đạo Tam giác sắt lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu tại Tam giác sắt (Địa đạo Tây Nam Bến Cát)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+t%E1%BA%A1i+Tam+gi%C3%A1c+s%E1%BA%AFt+%28%C4%90%E1%BB%8Ba+%C4%91%E1%BA%A1o+T%C3%A2y+Nam+B%E1%BA%BFn+C%C3%A1t%29+1967+An+T%C3%A2y%2C+B%E1%BA%BFn+C%C3%A1t%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+%C4%90%E1%BB%8Ba+%C4%91%E1%BA%A1o+Tam+gi%C3%A1c+s%E1%BA%AFt+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
     },
     {
-      "id": "BinhDuong_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng Thủ Dầu Một",
       "description": "Sáng 30/4, Sư đoàn 320B (Quân đoàn 1) đập tan tuyến phòng thủ phía Bắc Sài Gòn của địch, tiến vào giải phóng thị xã Thủ Dầu Một lúc 10h30, mở đường tiến thẳng vào Bộ Tổng tham mưu ngụy quyền tại Sài Gòn.",
+      "id": "BinhDuong_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Thủ Dầu Một",
@@ -159,14 +229,23 @@
       "tags": [
         "Chiến dịch Hồ Chí Minh",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Thủ Dầu Một",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Thủ Dầu Một 1975 Thành phố Thủ Dầu Một, Bình Dương Chiến dịch Hồ Chí Minh Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Thủ Dầu Một",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t+1975+Th%C3%A0nh+ph%E1%BB%91+Th%E1%BB%A7+D%E1%BA%A7u+M%E1%BB%99t%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%E1%BB%93+Ch%C3%AD+Minh+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "BinhDuong_ADMIN_01",
-      "year": 1997,
       "date": "1997-01-01",
-      "title": "Tái lập tỉnh Bình Dương",
       "description": "Tỉnh Bình Dương được tái lập sau khi chia tách từ tỉnh Sông Bé (cũ). Với chính sách 'trải chiếu hoa mời gọi đầu tư', Bình Dương nhanh chóng chuyển mình từ một tỉnh nông nghiệp thành thủ phủ công nghiệp năng động nhất cả nước.",
+      "id": "BinhDuong_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -178,14 +257,23 @@
       "tags": [
         "Hành chính",
         "Đổi mới"
-      ]
+      ],
+      "title": "Tái lập tỉnh Bình Dương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Bình Dương 1997 Bình Dương Nguyễn Minh Triết Hành chính Đổi mới lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Bình Dương",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+B%C3%ACnh+D%C6%B0%C6%A1ng+1997+B%C3%ACnh+D%C6%B0%C6%A1ng+Nguy%E1%BB%85n+Minh+Tri%E1%BA%BFt+H%C3%A0nh+ch%C3%ADnh+%C4%90%E1%BB%95i+m%E1%BB%9Bi+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     },
     {
-      "id": "BinhDuong_ECONOMY_01",
-      "year": 1996,
       "date": "1996-05-14",
-      "title": "Khởi công KCN VSIP I",
       "description": "Lễ động thổ Khu công nghiệp Việt Nam - Singapore (VSIP I) tại Thuận An dưới sự chứng kiến của Thủ tướng hai nước. Đây là biểu tượng hợp tác kinh tế thành công nhất, mở đầu cho mô hình khu công nghiệp kiểu mẫu lan tỏa ra cả nước.",
+      "id": "BinhDuong_ECONOMY_01",
       "location": {
         "commune": "Bình Hòa",
         "district": "Thành phố Thuận An",
@@ -198,7 +286,24 @@
       "tags": [
         "Kinh tế",
         "Công nghiệp hóa"
-      ]
+      ],
+      "title": "Khởi công KCN VSIP I",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công KCN VSIP I 1996 Bình Hòa, Thành phố Thuận An, Bình Dương Võ Văn Kiệt Goh Chok Tong Kinh tế Công nghiệp hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công KCN VSIP I",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+KCN+VSIP+I+1996+B%C3%ACnh+H%C3%B2a%2C+Th%C3%A0nh+ph%E1%BB%91+Thu%E1%BA%ADn+An%2C+B%C3%ACnh+D%C6%B0%C6%A1ng+V%C3%B5+V%C4%83n+Ki%E1%BB%87t+Goh+Chok+Tong+Kinh+t%E1%BA%BF+C%C3%B4ng+nghi%E1%BB%87p+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1996
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/BinhDuong.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/BinhDuong_vi.json"
+  }
 }

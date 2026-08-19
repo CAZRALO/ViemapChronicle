@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "NgheAn_EARLY_01",
-      "year": 713,
       "date": null,
-      "title": "Khởi nghĩa Mai Hắc Đế",
       "description": "Mai Thúc Loan (Mai Hắc Đế) phát động cuộc khởi nghĩa chống lại ách đô hộ của nhà Đường. Ông chọn vùng Sa Nam làm căn cứ, xây dựng thành Vạn An (Nam Đàn) và giải phóng một vùng rộng lớn, giữ vững nền độc lập trong gần 10 năm.",
+      "id": "NgheAn_EARLY_01",
       "location": {
         "commune": "Vân Diên",
         "district": "Nam Đàn",
@@ -17,14 +15,23 @@
       "tags": [
         "Bắc thuộc",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Khởi nghĩa Mai Hắc Đế",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Mai Hắc Đế 713 Vân Diên, Nam Đàn, Nghệ An Mai Thúc Loan Bắc thuộc Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Mai Hắc Đế",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Mai+H%E1%BA%AFc+%C4%90%E1%BA%BF+713+V%C3%A2n+Di%C3%AAn%2C+Nam+%C4%90%C3%A0n%2C+Ngh%E1%BB%87+An+Mai+Th%C3%BAc+Loan+B%E1%BA%AFc+thu%E1%BB%99c+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 713
     },
     {
-      "id": "NgheAn_TAYSON_01",
-      "year": 1788,
       "date": null,
-      "title": "Xây dựng Phượng Hoàng Trung Đô",
       "description": "Trên đường tiến quân ra Bắc đánh đuổi quân Thanh, Hoàng đế Quang Trung đã chọn vùng đất giữa núi Dũng Quyết và núi Kỳ Lân để xây dựng kinh đô mới mang tên Phượng Hoàng Trung Đô, với tầm nhìn chiến lược về một vị trí trung tâm đất nước.",
+      "id": "NgheAn_TAYSON_01",
       "location": {
         "commune": "Trung Đô",
         "district": "Thành phố Vinh",
@@ -36,14 +43,23 @@
       "tags": [
         "Tây Sơn",
         "Kinh đô"
-      ]
+      ],
+      "title": "Xây dựng Phượng Hoàng Trung Đô",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Phượng Hoàng Trung Đô 1788 Trung Đô, Thành phố Vinh, Nghệ An Quang Trung Tây Sơn Kinh đô lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Phượng Hoàng Trung Đô",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+Ph%C6%B0%E1%BB%A3ng+Ho%C3%A0ng+Trung+%C4%90%C3%B4+1788+Trung+%C4%90%C3%B4%2C+Th%C3%A0nh+ph%E1%BB%91+Vinh%2C+Ngh%E1%BB%87+An+Quang+Trung+T%C3%A2y+S%C6%A1n+Kinh+%C4%91%C3%B4+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1788
     },
     {
-      "id": "NgheAn_REV_01",
-      "year": 1925,
       "date": "1925-07-14",
-      "title": "Thành lập Hội Phục Việt (tiền thân Tân Việt Cách mạng Đảng)",
       "description": "Một nhóm trí thức yêu nước, tù chính trị cũ tại Vinh đã thành lập Hội Phục Việt tại núi Quyết. Đây là tổ chức tiền thân của Tân Việt Cách mạng Đảng, đóng vai trò quan trọng trong việc truyền bá chủ nghĩa Mác - Lênin tại Trung Kỳ.",
+      "id": "NgheAn_REV_01",
       "location": {
         "commune": "Trung Đô",
         "district": "Thành phố Vinh",
@@ -56,14 +72,23 @@
       "tags": [
         "Tổ chức chính trị",
         "Yêu nước"
-      ]
+      ],
+      "title": "Thành lập Hội Phục Việt (tiền thân Tân Việt Cách mạng Đảng)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Hội Phục Việt (tiền thân Tân Việt Cách mạng Đảng) 1925 Trung Đô, Thành phố Vinh, Nghệ An Lê Văn Huân Trần Mộng Bạch Tổ chức chính trị Yêu nước lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Hội Phục Việt (tiền thân Tân Việt Cách mạng Đảng)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+H%E1%BB%99i+Ph%E1%BB%A5c+Vi%E1%BB%87t+%28ti%E1%BB%81n+th%C3%A2n+T%C3%A2n+Vi%E1%BB%87t+C%C3%A1ch+m%E1%BA%A1ng+%C4%90%E1%BA%A3ng%29+1925+Trung+%C4%90%C3%B4%2C+Th%C3%A0nh+ph%E1%BB%91+Vinh%2C+Ngh%E1%BB%87+An+L%C3%AA+V%C4%83n+Hu%C3%A2n+Tr%E1%BA%A7n+M%E1%BB%99ng+B%E1%BA%A1ch+T%E1%BB%95+ch%E1%BB%A9c+ch%C3%ADnh+tr%E1%BB%8B+Y%C3%AAu+n%C6%B0%E1%BB%9Bc+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1925
     },
     {
-      "id": "NgheAn_REV_02",
-      "year": 1930,
       "date": "1930-05-01",
-      "title": "Bãi công Bến Thủy (Mở đầu Xô viết Nghệ Tĩnh)",
       "description": "Công nhân Nhà máy Diêm, Nhà máy Cưa Bến Thủy và nông dân các xã lân cận đã tổ chức biểu tình quy mô lớn nhân ngày Quốc tế Lao động. Cờ búa liềm lần đầu tiên xuất hiện, mở đầu cho cao trào cách mạng 1930-1931.",
+      "id": "NgheAn_REV_02",
       "location": {
         "commune": "Bến Thủy",
         "district": "Thành phố Vinh",
@@ -75,14 +100,23 @@
       "tags": [
         "Xô viết Nghệ Tĩnh",
         "Phong trào công nhân"
-      ]
+      ],
+      "title": "Bãi công Bến Thủy (Mở đầu Xô viết Nghệ Tĩnh)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bãi công Bến Thủy (Mở đầu Xô viết Nghệ Tĩnh) 1930 Bến Thủy, Thành phố Vinh, Nghệ An Lê Mao Xô viết Nghệ Tĩnh Phong trào công nhân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bãi công Bến Thủy (Mở đầu Xô viết Nghệ Tĩnh)",
+          "url": "https://www.youtube.com/results?search_query=B%C3%A3i+c%C3%B4ng+B%E1%BA%BFn+Th%E1%BB%A7y+%28M%E1%BB%9F+%C4%91%E1%BA%A7u+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh%29+1930+B%E1%BA%BFn+Th%E1%BB%A7y%2C+Th%C3%A0nh+ph%E1%BB%91+Vinh%2C+Ngh%E1%BB%87+An+L%C3%AA+Mao+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh+Phong+tr%C3%A0o+c%C3%B4ng+nh%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "NgheAn_REV_03",
-      "year": 1930,
       "date": "1930-09-12",
-      "title": "Cuộc biểu tình Thái Lão (Đỉnh cao Xô viết Nghệ Tĩnh)",
       "description": "Hơn 8.000 nông dân Hưng Nguyên kéo về phủ lỵ biểu tình. Thực dân Pháp đã cho máy bay ném bom vào đoàn người tay không, làm 217 người chết. Sự kiện đẫm máu này đã thổi bùng ngọn lửa đấu tranh, dẫn đến việc thành lập các chính quyền Xô viết nông dân tự quản.",
+      "id": "NgheAn_REV_03",
       "location": {
         "commune": "Thái Lão",
         "district": "Hưng Nguyên",
@@ -92,14 +126,23 @@
       "tags": [
         "Xô viết Nghệ Tĩnh",
         "Cách mạng"
-      ]
+      ],
+      "title": "Cuộc biểu tình Thái Lão (Đỉnh cao Xô viết Nghệ Tĩnh)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc biểu tình Thái Lão (Đỉnh cao Xô viết Nghệ Tĩnh) 1930 Thái Lão, Hưng Nguyên, Nghệ An Xô viết Nghệ Tĩnh Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc biểu tình Thái Lão (Đỉnh cao Xô viết Nghệ Tĩnh)",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+bi%E1%BB%83u+t%C3%ACnh+Th%C3%A1i+L%C3%A3o+%28%C4%90%E1%BB%89nh+cao+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh%29+1930+Th%C3%A1i+L%C3%A3o%2C+H%C6%B0ng+Nguy%C3%AAn%2C+Ngh%E1%BB%87+An+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "NgheAn_REV_04",
-      "year": 1945,
       "date": "1945-08-21",
-      "title": "Giành chính quyền tại Vinh",
       "description": "Ủy ban Khởi nghĩa tỉnh Nghệ An huy động lực lượng tự vệ và hàng vạn quần chúng chiếm Tòa Công sứ, Trại lính khố xanh và các công sở tại thị xã Vinh. Chính quyền về tay nhân dân trọn vẹn và không đổ máu.",
+      "id": "NgheAn_REV_04",
       "location": {
         "commune": null,
         "district": "Thành phố Vinh",
@@ -109,14 +152,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Vinh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Vinh 1945 Thành phố Vinh, Nghệ An Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Vinh",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Vinh+1945+Th%C3%A0nh+ph%E1%BB%91+Vinh%2C+Ngh%E1%BB%87+An+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "NgheAn_REV_05",
-      "year": 1957,
       "date": "1957-06-14",
-      "title": "Bác Hồ về thăm quê lần thứ nhất",
       "description": "Sau 50 năm xa cách tìm đường cứu nước và lãnh đạo kháng chiến, Chủ tịch Hồ Chí Minh mới có dịp về thăm quê hương Kim Liên, Nam Đàn. Người đã xúc động nói chuyện với đồng bào, thăm lại ngôi nhà tranh thuở thiếu thời.",
+      "id": "NgheAn_REV_05",
       "location": {
         "commune": "Kim Liên",
         "district": "Nam Đàn",
@@ -128,14 +180,23 @@
       "tags": [
         "Lãnh tụ",
         "Sự kiện lịch sử"
-      ]
+      ],
+      "title": "Bác Hồ về thăm quê lần thứ nhất",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bác Hồ về thăm quê lần thứ nhất 1957 Kim Liên, Nam Đàn, Nghệ An Hồ Chí Minh Lãnh tụ Sự kiện lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bác Hồ về thăm quê lần thứ nhất",
+          "url": "https://www.youtube.com/results?search_query=B%C3%A1c+H%E1%BB%93+v%E1%BB%81+th%C4%83m+qu%C3%AA+l%E1%BA%A7n+th%E1%BB%A9+nh%E1%BA%A5t+1957+Kim+Li%C3%AAn%2C+Nam+%C4%90%C3%A0n%2C+Ngh%E1%BB%87+An+H%E1%BB%93+Ch%C3%AD+Minh+L%C3%A3nh+t%E1%BB%A5+S%E1%BB%B1+ki%E1%BB%87n+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1957
     },
     {
-      "id": "NgheAn_US_WAR_01",
-      "year": 1964,
       "date": "1964-08-05",
-      "title": "Trận đầu đánh thắng không quân Mỹ (Sự kiện Vịnh Bắc Bộ)",
       "description": "Trong cuộc tập kích đường không đầu tiên của Mỹ ra miền Bắc, quân dân Vinh - Bến Thủy phối hợp với Hải quân đã chiến đấu dũng cảm, bắn rơi 2 máy bay phản lực Mỹ, bắt sống phi công, mở đầu cuộc chiến tranh nhân dân đất đối không.",
+      "id": "NgheAn_US_WAR_01",
       "location": {
         "commune": "Bến Thủy",
         "district": "Thành phố Vinh",
@@ -145,14 +206,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
+      ],
+      "title": "Trận đầu đánh thắng không quân Mỹ (Sự kiện Vịnh Bắc Bộ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đầu đánh thắng không quân Mỹ (Sự kiện Vịnh Bắc Bộ) 1964 Bến Thủy, Thành phố Vinh, Nghệ An Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đầu đánh thắng không quân Mỹ (Sự kiện Vịnh Bắc Bộ)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+%C4%91%C3%A1nh+th%E1%BA%AFng+kh%C3%B4ng+qu%C3%A2n+M%E1%BB%B9+%28S%E1%BB%B1+ki%E1%BB%87n+V%E1%BB%8Bnh+B%E1%BA%AFc+B%E1%BB%99%29+1964+B%E1%BA%BFn+Th%E1%BB%A7y%2C+Th%C3%A0nh+ph%E1%BB%91+Vinh%2C+Ngh%E1%BB%87+An+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1964
     },
     {
-      "id": "NgheAn_US_WAR_02",
-      "year": 1968,
       "date": "1968-10-31",
-      "title": "Sự hy sinh của 13 thanh niên xung phong Truông Bồn",
       "description": "Tại 'tọa độ lửa' Truông Bồn (trọng điểm giao thông huyết mạch chi viện cho miền Nam), 13 chiến sĩ Thanh niên xung phong thuộc Tiểu đội 2 (Đại đội 317) đã anh dũng hy sinh do bom Mỹ khi đang san lấp hố bom để thông đường, chỉ vài giờ trước khi lệnh ngừng ném bom có hiệu lực.",
+      "id": "NgheAn_US_WAR_02",
       "location": {
         "commune": "Mỹ Sơn",
         "district": "Đô Lương",
@@ -163,14 +233,23 @@
         "Kháng chiến chống Mỹ",
         "Thanh niên xung phong",
         "Truông Bồn"
-      ]
+      ],
+      "title": "Sự hy sinh của 13 thanh niên xung phong Truông Bồn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự hy sinh của 13 thanh niên xung phong Truông Bồn 1968 Mỹ Sơn, Đô Lương, Nghệ An Kháng chiến chống Mỹ Thanh niên xung phong Truông Bồn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự hy sinh của 13 thanh niên xung phong Truông Bồn",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+hy+sinh+c%E1%BB%A7a+13+thanh+ni%C3%AAn+xung+phong+Tru%C3%B4ng+B%E1%BB%93n+1968+M%E1%BB%B9+S%C6%A1n%2C+%C4%90%C3%B4+L%C6%B0%C6%A1ng%2C+Ngh%E1%BB%87+An+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Thanh+ni%C3%AAn+xung+phong+Tru%C3%B4ng+B%E1%BB%93n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "NgheAn_ADMIN_01",
-      "year": 1991,
       "date": "1991-08-12",
-      "title": "Tái lập tỉnh Nghệ An",
       "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Nghệ Tĩnh (hợp nhất từ năm 1976) trở lại thành hai tỉnh Nghệ An và Hà Tĩnh. Nghệ An trở thành tỉnh có diện tích lớn nhất Việt Nam.",
+      "id": "NgheAn_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -180,7 +259,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Nghệ An",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Nghệ An 1991 Nghệ An Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Nghệ An",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Ngh%E1%BB%87+An+1991+Ngh%E1%BB%87+An+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1991
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/NgheAn.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/NgheAn_vi.json"
+  }
 }

@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "ThaiNguyen_LY_01",
-      "year": 1127,
       "date": null,
-      "title": "Dương Tự Minh được gả công chúa",
       "description": "Dương Tự Minh, thủ lĩnh phủ Phú Lương (bao gồm Thái Nguyên ngày nay), là người có công lớn trong việc giữ yên bờ cõi phía Bắc. Ông được vua Lý Nhân Tông gả công chúa Diên Bình, trở thành Phò mã nhà Lý, biểu tượng cho sự đoàn kết dân tộc.",
+      "id": "ThaiNguyen_LY_01",
       "location": {
         "commune": "Động Đạt",
         "district": "Phú Lương",
@@ -18,14 +16,23 @@
       "tags": [
         "Nhà Lý",
         "Nhân vật lịch sử"
-      ]
+      ],
+      "title": "Dương Tự Minh được gả công chúa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Dương Tự Minh được gả công chúa 1127 Động Đạt, Phú Lương, Thái Nguyên Dương Tự Minh Lý Nhân Tông Nhà Lý Nhân vật lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Dương Tự Minh được gả công chúa",
+          "url": "https://www.youtube.com/results?search_query=D%C6%B0%C6%A1ng+T%E1%BB%B1+Minh+%C4%91%C6%B0%E1%BB%A3c+g%E1%BA%A3+c%C3%B4ng+ch%C3%BAa+1127+%C4%90%E1%BB%99ng+%C4%90%E1%BA%A1t%2C+Ph%C3%BA+L%C6%B0%C6%A1ng%2C+Th%C3%A1i+Nguy%C3%AAn+D%C6%B0%C6%A1ng+T%E1%BB%B1+Minh+L%C3%BD+Nh%C3%A2n+T%C3%B4ng+Nh%C3%A0+L%C3%BD+Nh%C3%A2n+v%E1%BA%ADt+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1127
     },
     {
-      "id": "ThaiNguyen_COLONIAL_01",
-      "year": 1917,
       "date": "1917-08-30",
-      "title": "Khởi nghĩa Thái Nguyên",
       "description": "Đội Cấn (Trịnh Văn Cấn) và Lương Ngọc Quyến lãnh đạo binh lính và tù chính trị nổi dậy chiếm trại lính, phá nhà lao Thái Nguyên, làm chủ tỉnh lỵ trong 7 ngày. Đây là cuộc khởi nghĩa vũ trang lớn nhất ở Bắc Kỳ trong Chiến tranh thế giới thứ nhất.",
+      "id": "ThaiNguyen_COLONIAL_01",
       "location": {
         "commune": "Trưng Vương",
         "district": "Thành phố Thái Nguyên",
@@ -38,14 +45,23 @@
       "tags": [
         "Chống Pháp",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Khởi nghĩa Thái Nguyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Thái Nguyên 1917 Trưng Vương, Thành phố Thái Nguyên, Thái Nguyên Đội Cấn Lương Ngọc Quyến Chống Pháp Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Thái Nguyên",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Th%C3%A1i+Nguy%C3%AAn+1917+Tr%C6%B0ng+V%C6%B0%C6%A1ng%2C+Th%C3%A0nh+ph%E1%BB%91+Th%C3%A1i+Nguy%C3%AAn%2C+Th%C3%A1i+Nguy%C3%AAn+%C4%90%E1%BB%99i+C%E1%BA%A5n+L%C6%B0%C6%A1ng+Ng%E1%BB%8Dc+Quy%E1%BA%BFn+Ch%E1%BB%91ng+Ph%C3%A1p+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1917
     },
     {
-      "id": "ThaiNguyen_REV_01",
-      "year": 1941,
       "date": "1941-09-15",
-      "title": "Thành lập Trung đội Cứu quốc quân II",
       "description": "Tại rừng Khuôn Mánh, Trung đội Cứu quốc quân II được thành lập, đánh dấu sự phát triển của lực lượng vũ trang cách mạng sau cuộc khởi nghĩa Bắc Sơn, trở thành nòng cốt cho chiến tranh du kích tại vùng Võ Nhai - Thái Nguyên.",
+      "id": "ThaiNguyen_REV_01",
       "location": {
         "commune": "Tràng Xá",
         "district": "Võ Nhai",
@@ -57,14 +73,23 @@
       "tags": [
         "Lực lượng vũ trang",
         "Tiền khởi nghĩa"
-      ]
+      ],
+      "title": "Thành lập Trung đội Cứu quốc quân II",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Trung đội Cứu quốc quân II 1941 Tràng Xá, Võ Nhai, Thái Nguyên Chu Văn Tấn Lực lượng vũ trang Tiền khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Trung đội Cứu quốc quân II",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Trung+%C4%91%E1%BB%99i+C%E1%BB%A9u+qu%E1%BB%91c+qu%C3%A2n+II+1941+Tr%C3%A0ng+X%C3%A1%2C+V%C3%B5+Nhai%2C+Th%C3%A1i+Nguy%C3%AAn+Chu+V%C4%83n+T%E1%BA%A5n+L%E1%BB%B1c+l%C6%B0%E1%BB%A3ng+v%C5%A9+trang+Ti%E1%BB%81n+kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1941
     },
     {
-      "id": "ThaiNguyen_REV_02",
-      "year": 1945,
       "date": "1945-05-15",
-      "title": "Hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân",
       "description": "Tại đình làng Quặng, lễ hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân thành Việt Nam Giải phóng quân đã diễn ra. Đồng chí Võ Nguyên Giáp được cử làm Tư lệnh.",
+      "id": "ThaiNguyen_REV_02",
       "location": {
         "commune": "Định Biên",
         "district": "Định Hóa",
@@ -77,14 +102,23 @@
       "tags": [
         "Quân đội",
         "Thành lập tổ chức"
-      ]
+      ],
+      "title": "Hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân 1945 Định Biên, Định Hóa, Thái Nguyên Võ Nguyên Giáp Chu Văn Tấn Quân đội Thành lập tổ chức lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hợp nhất Việt Nam Tuyên truyền Giải phóng quân và Cứu quốc quân",
+          "url": "https://www.youtube.com/results?search_query=H%E1%BB%A3p+nh%E1%BA%A5t+Vi%E1%BB%87t+Nam+Tuy%C3%AAn+truy%E1%BB%81n+Gi%E1%BA%A3i+ph%C3%B3ng+qu%C3%A2n+v%C3%A0+C%E1%BB%A9u+qu%E1%BB%91c+qu%C3%A2n+1945+%C4%90%E1%BB%8Bnh+Bi%C3%AAn%2C+%C4%90%E1%BB%8Bnh+H%C3%B3a%2C+Th%C3%A1i+Nguy%C3%AAn+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Chu+V%C4%83n+T%E1%BA%A5n+Qu%C3%A2n+%C4%91%E1%BB%99i+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%95+ch%E1%BB%A9c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "ThaiNguyen_REV_03",
-      "year": 1945,
       "date": "1945-08-20",
-      "title": "Giải phóng thị xã Thái Nguyên",
       "description": "Chi đội Giải phóng quân do đồng chí Võ Nguyên Giáp chỉ huy từ Tân Trào tiến về bao vây, tấn công quân Nhật tại thị xã Thái Nguyên. Chiều cùng ngày, Ủy ban Khởi nghĩa công bố bãi bỏ chính quyền tay sai, thành lập Ủy ban nhân dân cách mạng lâm thời.",
+      "id": "ThaiNguyen_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Thái Nguyên",
@@ -96,14 +130,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giải phóng thị xã Thái Nguyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Thái Nguyên 1945 Thành phố Thái Nguyên, Thái Nguyên Võ Nguyên Giáp Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Thái Nguyên",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+Th%C3%A1i+Nguy%C3%AAn+1945+Th%C3%A0nh+ph%E1%BB%91+Th%C3%A1i+Nguy%C3%AAn%2C+Th%C3%A1i+Nguy%C3%AAn+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "ThaiNguyen_FRENCH_WAR_01",
-      "year": 1947,
       "date": "1947-05-20",
-      "title": "Bác Hồ đến ATK Định Hóa",
       "description": "Chủ tịch Hồ Chí Minh cùng các cơ quan Trung ương Đảng, Chính phủ chuyển lên ATK (An toàn khu) Định Hóa để lãnh đạo cuộc kháng chiến trường kỳ. Đồi Khau Tý là nơi ở và làm việc đầu tiên của Người tại ATK.",
+      "id": "ThaiNguyen_FRENCH_WAR_01",
       "location": {
         "commune": "Điềm Mặc",
         "district": "Định Hóa",
@@ -115,14 +158,23 @@
       "tags": [
         "ATK Định Hóa",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Bác Hồ đến ATK Định Hóa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bác Hồ đến ATK Định Hóa 1947 Điềm Mặc, Định Hóa, Thái Nguyên Hồ Chí Minh ATK Định Hóa Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bác Hồ đến ATK Định Hóa",
+          "url": "https://www.youtube.com/results?search_query=B%C3%A1c+H%E1%BB%93+%C4%91%E1%BA%BFn+ATK+%C4%90%E1%BB%8Bnh+H%C3%B3a+1947+%C4%90i%E1%BB%81m+M%E1%BA%B7c%2C+%C4%90%E1%BB%8Bnh+H%C3%B3a%2C+Th%C3%A1i+Nguy%C3%AAn+H%E1%BB%93+Ch%C3%AD+Minh+ATK+%C4%90%E1%BB%8Bnh+H%C3%B3a+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1947
     },
     {
-      "id": "ThaiNguyen_FRENCH_WAR_02",
-      "year": 1948,
       "date": "1948-05-28",
-      "title": "Lễ phong quân hàm Đại tướng đầu tiên",
       "description": "Tại đồi Nà Lọm (bên dòng suối Khuôn Tát), Chủ tịch Hồ Chí Minh đã chủ trì lễ phong quân hàm Đại tướng cho Tổng chỉ huy Võ Nguyên Giáp. Đây là vị Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam.",
+      "id": "ThaiNguyen_FRENCH_WAR_02",
       "location": {
         "commune": "Phú Đình",
         "district": "Định Hóa",
@@ -135,14 +187,23 @@
       "tags": [
         "Quân đội",
         "Sự kiện lịch sử"
-      ]
+      ],
+      "title": "Lễ phong quân hàm Đại tướng đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lễ phong quân hàm Đại tướng đầu tiên 1948 Phú Đình, Định Hóa, Thái Nguyên Hồ Chí Minh Võ Nguyên Giáp Quân đội Sự kiện lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lễ phong quân hàm Đại tướng đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=L%E1%BB%85+phong+qu%C3%A2n+h%C3%A0m+%C4%90%E1%BA%A1i+t%C6%B0%E1%BB%9Bng+%C4%91%E1%BA%A7u+ti%C3%AAn+1948+Ph%C3%BA+%C4%90%C3%ACnh%2C+%C4%90%E1%BB%8Bnh+H%C3%B3a%2C+Th%C3%A1i+Nguy%C3%AAn+H%E1%BB%93+Ch%C3%AD+Minh+V%C3%B5+Nguy%C3%AAn+Gi%C3%A1p+Qu%C3%A2n+%C4%91%E1%BB%99i+S%E1%BB%B1+ki%E1%BB%87n+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
-      "id": "ThaiNguyen_FRENCH_WAR_03",
-      "year": 1953,
       "date": "1953-12-06",
-      "title": "Quyết định mở Chiến dịch Điện Biên Phủ",
       "description": "Tại lán Tỉn Keo, Bộ Chính trị Trung ương Đảng dưới sự chủ trì của Chủ tịch Hồ Chí Minh đã họp và thông qua phương án tác chiến Đông Xuân 1953-1954, quyết định mở chiến dịch Điện Biên Phủ lịch sử.",
+      "id": "ThaiNguyen_FRENCH_WAR_03",
       "location": {
         "commune": "Phú Đình",
         "district": "Định Hóa",
@@ -154,14 +215,23 @@
       "tags": [
         "Điện Biên Phủ",
         "ATK Định Hóa"
-      ]
+      ],
+      "title": "Quyết định mở Chiến dịch Điện Biên Phủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Quyết định mở Chiến dịch Điện Biên Phủ 1953 Phú Đình, Định Hóa, Thái Nguyên Hồ Chí Minh Điện Biên Phủ ATK Định Hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Quyết định mở Chiến dịch Điện Biên Phủ",
+          "url": "https://www.youtube.com/results?search_query=Quy%E1%BA%BFt+%C4%91%E1%BB%8Bnh+m%E1%BB%9F+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+1953+Ph%C3%BA+%C4%90%C3%ACnh%2C+%C4%90%E1%BB%8Bnh+H%C3%B3a%2C+Th%C3%A1i+Nguy%C3%AAn+H%E1%BB%93+Ch%C3%AD+Minh+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+ATK+%C4%90%E1%BB%8Bnh+H%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
-      "id": "ThaiNguyen_INDUSTRY_01",
-      "year": 1963,
       "date": "1963-11-29",
-      "title": "Mẻ gang đầu tiên của Khu Gang thép Thái Nguyên",
       "description": "Lò cao số 1 của Khu công nghiệp Gang thép Thái Nguyên cho ra mẻ gang đầu tiên. Sự kiện này đánh dấu sự ra đời của ngành công nghiệp luyện kim đen Việt Nam, biến Thái Nguyên thành 'Thành phố Thép'.",
+      "id": "ThaiNguyen_INDUSTRY_01",
       "location": {
         "commune": "Cam Giá",
         "district": "Thành phố Thái Nguyên",
@@ -171,14 +241,23 @@
       "tags": [
         "Kinh tế",
         "Công nghiệp"
-      ]
+      ],
+      "title": "Mẻ gang đầu tiên của Khu Gang thép Thái Nguyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Mẻ gang đầu tiên của Khu Gang thép Thái Nguyên 1963 Cam Giá, Thành phố Thái Nguyên, Thái Nguyên Kinh tế Công nghiệp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Mẻ gang đầu tiên của Khu Gang thép Thái Nguyên",
+          "url": "https://www.youtube.com/results?search_query=M%E1%BA%BB+gang+%C4%91%E1%BA%A7u+ti%C3%AAn+c%E1%BB%A7a+Khu+Gang+th%C3%A9p+Th%C3%A1i+Nguy%C3%AAn+1963+Cam+Gi%C3%A1%2C+Th%C3%A0nh+ph%E1%BB%91+Th%C3%A1i+Nguy%C3%AAn%2C+Th%C3%A1i+Nguy%C3%AAn+Kinh+t%E1%BA%BF+C%C3%B4ng+nghi%E1%BB%87p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1963
     },
     {
-      "id": "ThaiNguyen_US_WAR_01",
-      "year": 1972,
       "date": "1972-12-24",
-      "title": "Bắn rơi máy bay B-52",
       "description": "Trong chiến dịch Điện Biên Phủ trên không, Đại đội tự vệ 98 của Khu Gang thép Thái Nguyên và Trung đoàn 256 Cao xạ đã phối hợp chiến đấu, bắn rơi 2 máy bay B-52 của Mỹ khi chúng ném bom hủy diệt khu công nghiệp.",
+      "id": "ThaiNguyen_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Thái Nguyên",
@@ -188,14 +267,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "B-52"
-      ]
+      ],
+      "title": "Bắn rơi máy bay B-52",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bắn rơi máy bay B-52 1972 Thành phố Thái Nguyên, Thái Nguyên Kháng chiến chống Mỹ B-52 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bắn rơi máy bay B-52",
+          "url": "https://www.youtube.com/results?search_query=B%E1%BA%AFn+r%C6%A1i+m%C3%A1y+bay+B-52+1972+Th%C3%A0nh+ph%E1%BB%91+Th%C3%A1i+Nguy%C3%AAn%2C+Th%C3%A1i+Nguy%C3%AAn+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+B-52+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Bắc Thái. Tỉnh Thái Nguyên tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "ThaiNguyen_ADMIN_01",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Thái Nguyên",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Bắc Thái (được hợp nhất từ năm 1965) trở lại thành hai tỉnh Thái Nguyên và Bắc Kạn. Tỉnh Thái Nguyên chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
       "location": {
         "commune": null,
         "district": null,
@@ -205,7 +293,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Thái Nguyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Thái Nguyên 1997 Thái Nguyên Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Thái Nguyên",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Th%C3%A1i+Nguy%C3%AAn+1997+Th%C3%A1i+Nguy%C3%AAn+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/ThaiNguyen.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/ThaiNguyen_vi.json"
+  }
 }

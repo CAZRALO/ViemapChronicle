@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "CanTho_FOUNDING_01",
-      "year": 1739,
       "date": null,
-      "title": "Khai sinh vùng đất Trấn Giang (Cần Thơ)",
       "description": "Mạc Thiên Tích (con trai Mạc Cửu) hoàn thành việc khai phá vùng đất mới, chính thức đặt tên là Trấn Giang, thuộc về lãnh thổ Đàng Trong. Đây được xem là mốc khởi đầu cho sự hình thành và phát triển của thành phố Cần Thơ ngày nay.",
+      "id": "CanTho_FOUNDING_01",
       "location": {
         "commune": null,
         "district": "Ninh Kiều",
@@ -17,14 +15,23 @@
       "tags": [
         "Mở mang bờ cõi",
         "Lịch sử hình thành"
-      ]
+      ],
+      "title": "Khai sinh vùng đất Trấn Giang (Cần Thơ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khai sinh vùng đất Trấn Giang (Cần Thơ) 1739 Ninh Kiều, Cần Thơ Mạc Thiên Tích Mở mang bờ cõi Lịch sử hình thành lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khai sinh vùng đất Trấn Giang (Cần Thơ)",
+          "url": "https://www.youtube.com/results?search_query=Khai+sinh+v%C3%B9ng+%C4%91%E1%BA%A5t+Tr%E1%BA%A5n+Giang+%28C%E1%BA%A7n+Th%C6%A1%29+1739+Ninh+Ki%E1%BB%81u%2C+C%E1%BA%A7n+Th%C6%A1+M%E1%BA%A1c+Thi%C3%AAn+T%C3%ADch+M%E1%BB%9F+mang+b%E1%BB%9D+c%C3%B5i+L%E1%BB%8Bch+s%E1%BB%AD+h%C3%ACnh+th%C3%A0nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1739
     },
     {
-      "id": "CanTho_COLONIAL_01",
-      "year": 1876,
       "date": "1876-02-23",
-      "title": "Thành lập hạt Cần Thơ",
       "description": "Thực dân Pháp ra Nghị định tách huyện Phong Phú khỏi tỉnh Vĩnh Long để lập hạt Cần Thơ (sau đổi thành tỉnh Cần Thơ). Từ đây, tên gọi Cần Thơ chính thức xuất hiện trên bản đồ hành chính và dần trở thành trung tâm ('Tây Đô') của miền Tây.",
+      "id": "CanTho_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Ninh Kiều",
@@ -34,14 +41,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập hạt Cần Thơ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập hạt Cần Thơ 1876 Ninh Kiều, Cần Thơ Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập hạt Cần Thơ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+h%E1%BA%A1t+C%E1%BA%A7n+Th%C6%A1+1876+Ninh+Ki%E1%BB%81u%2C+C%E1%BA%A7n+Th%C6%A1+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1876
     },
     {
-      "id": "CanTho_REV_01",
-      "year": 1929,
       "date": "1929-11-10",
-      "title": "Thành lập Chi bộ An Nam Cộng sản Đảng (Cờ Đỏ)",
       "description": "Tại đồn điền Cờ Đỏ, Chi bộ An Nam Cộng sản Đảng đầu tiên của Cần Thơ được thành lập do đồng chí Hà Huy Giáp làm Bí thư. Sự kiện này đánh dấu bước ngoặt quan trọng, đưa phong trào đấu tranh của nông dân và công nhân tại Tây Đô đi theo con đường cách mạng vô sản.",
+      "id": "CanTho_REV_01",
       "location": {
         "commune": "Thới Đông",
         "district": "Cờ Đỏ",
@@ -54,14 +70,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ An Nam Cộng sản Đảng (Cờ Đỏ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ An Nam Cộng sản Đảng (Cờ Đỏ) 1929 Thới Đông, Cờ Đỏ, Cần Thơ Hà Huy Giáp Ung Văn Khiêm Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ An Nam Cộng sản Đảng (Cờ Đỏ)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+An+Nam+C%E1%BB%99ng+s%E1%BA%A3n+%C4%90%E1%BA%A3ng+%28C%E1%BB%9D+%C4%90%E1%BB%8F%29+1929+Th%E1%BB%9Bi+%C4%90%C3%B4ng%2C+C%E1%BB%9D+%C4%90%E1%BB%8F%2C+C%E1%BA%A7n+Th%C6%A1+H%C3%A0+Huy+Gi%C3%A1p+Ung+V%C4%83n+Khi%C3%AAm+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "CanTho_REV_02",
-      "year": 1940,
-      "date": "1940-06-00",
-      "title": "Thành lập Liên Tỉnh ủy Cần Thơ",
+      "date": null,
       "description": "Để chuẩn bị cho Khởi nghĩa Nam Kỳ, Xứ ủy Nam Kỳ quyết định thành lập Liên Tỉnh ủy Cần Thơ (gồm Cần Thơ, Sóc Trăng, Bạc Liêu) do đồng chí Tạ Uyên làm Bí thư. Cần Thơ trở thành trung tâm chỉ đạo phong trào cách mạng của cả vùng Hậu Giang.",
+      "id": "CanTho_REV_02",
       "location": {
         "commune": null,
         "district": "Ninh Kiều",
@@ -73,14 +98,23 @@
       "tags": [
         "Tổ chức Đảng",
         "Tiền khởi nghĩa"
-      ]
+      ],
+      "title": "Thành lập Liên Tỉnh ủy Cần Thơ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Liên Tỉnh ủy Cần Thơ 1940 Ninh Kiều, Cần Thơ Tạ Uyên Tổ chức Đảng Tiền khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Liên Tỉnh ủy Cần Thơ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Li%C3%AAn+T%E1%BB%89nh+%E1%BB%A7y+C%E1%BA%A7n+Th%C6%A1+1940+Ninh+Ki%E1%BB%81u%2C+C%E1%BA%A7n+Th%C6%A1+T%E1%BA%A1+Uy%C3%AAn+T%E1%BB%95+ch%E1%BB%A9c+%C4%90%E1%BA%A3ng+Ti%E1%BB%81n+kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
     },
     {
-      "id": "CanTho_REV_03",
-      "year": 1945,
       "date": "1945-08-26",
-      "title": "Giành chính quyền tại Cần Thơ",
       "description": "Hơn 20.000 đồng bào từ các quận Ô Môn, Châu Thành... kéo về sân vận động Cần Thơ dự mít tinh. Ủy ban Dân tộc giải phóng ra mắt, buộc Tỉnh trưởng Lưu Văn Thọ phải giao chính quyền. Cần Thơ giành chính quyền thắng lợi không đổ máu.",
+      "id": "CanTho_REV_03",
       "location": {
         "commune": "Cái Khế",
         "district": "Ninh Kiều",
@@ -92,14 +126,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Cần Thơ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Cần Thơ 1945 Cái Khế, Ninh Kiều, Cần Thơ Trần Văn Khéo Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Cần Thơ",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+C%E1%BA%A7n+Th%C6%A1+1945+C%C3%A1i+Kh%E1%BA%BF%2C+Ninh+Ki%E1%BB%81u%2C+C%E1%BA%A7n+Th%C6%A1+Tr%E1%BA%A7n+V%C4%83n+Kh%C3%A9o+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "CanTho_FRENCH_WAR_01",
-      "year": 1945,
       "date": "1945-11-12",
-      "title": "Trận Lê Bình (Mặt trận Cần Thơ)",
       "description": "Quân Pháp tái chiếm Cần Thơ. Các lực lượng Cộng hòa Vệ binh và tự vệ chiến đấu đã anh dũng chặn đánh địch tại chợ Lê Bình (Cái Răng). Đồng chí Lê Bình, chỉ huy Quốc gia tự vệ cuộc, đã chiến đấu và hy sinh anh dũng (tên ông sau được đặt cho chợ và trường học tại đây).",
+      "id": "CanTho_FRENCH_WAR_01",
       "location": {
         "commune": "Lê Bình",
         "district": "Cái Răng",
@@ -111,14 +154,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Nam Bộ kháng chiến"
-      ]
+      ],
+      "title": "Trận Lê Bình (Mặt trận Cần Thơ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Lê Bình (Mặt trận Cần Thơ) 1945 Lê Bình, Cái Răng, Cần Thơ Lê Bình Kháng chiến chống Pháp Nam Bộ kháng chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Lê Bình (Mặt trận Cần Thơ)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+L%C3%AA+B%C3%ACnh+%28M%E1%BA%B7t+tr%E1%BA%ADn+C%E1%BA%A7n+Th%C6%A1%29+1945+L%C3%AA+B%C3%ACnh%2C+C%C3%A1i+R%C4%83ng%2C+C%E1%BA%A7n+Th%C6%A1+L%C3%AA+B%C3%ACnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Nam+B%E1%BB%99+kh%C3%A1ng+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "CanTho_FRENCH_WAR_02",
-      "year": 1948,
       "date": "1948-04-19",
-      "title": "Chiến thắng Tầm Vu IV",
       "description": "Tại rạch Tầm Vu (khu vực giáp ranh Cần Thơ - Hậu Giang), quân ta chặn đánh đoàn xe quân sự Pháp, tiêu diệt 100 tên, thu khẩu pháo 105 ly đầu tiên ở Nam Bộ. Chiến thắng này vang dội khắp cả nước, đi vào bài hát nổi tiếng 'Tầm Vu'.",
+      "id": "CanTho_FRENCH_WAR_02",
       "location": {
         "commune": "Thạnh Xuân",
         "district": "Châu Thành A (giáp ranh)",
@@ -128,14 +180,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Tầm Vu IV",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Tầm Vu IV 1948 Thạnh Xuân, Châu Thành A (giáp ranh), Cần Thơ Kháng chiến chống Pháp Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Tầm Vu IV",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+T%E1%BA%A7m+Vu+IV+1948+Th%E1%BA%A1nh+Xu%C3%A2n%2C+Ch%C3%A2u+Th%C3%A0nh+A+%28gi%C3%A1p+ranh%29%2C+C%E1%BA%A7n+Th%C6%A1+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
-      "id": "CanTho_US_WAR_01",
-      "year": 1968,
       "date": "1968-01-31",
-      "title": "Tổng tiến công Tết Mậu Thân (Đánh sân bay Lộ Tẻ)",
       "description": "Quân giải phóng tấn công đồng loạt vào các mục tiêu đầu não tại Tây Đô như: Sân bay Lộ Tẻ (sân bay quân sự lớn nhất miền Tây), Tòa Lãnh sự Mỹ, Đài phát thanh... Cuộc chiến đấu ác liệt diễn ra tại khu vực Vòng Cung, gây thiệt hại nặng nề cho không quân Mỹ.",
+      "id": "CanTho_US_WAR_01",
       "location": {
         "commune": "Trà Nóc",
         "district": "Bình Thủy",
@@ -145,14 +206,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Quân sự"
-      ]
+      ],
+      "title": "Tổng tiến công Tết Mậu Thân (Đánh sân bay Lộ Tẻ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng tiến công Tết Mậu Thân (Đánh sân bay Lộ Tẻ) 1968 Trà Nóc, Bình Thủy, Cần Thơ Tết Mậu Thân Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng tiến công Tết Mậu Thân (Đánh sân bay Lộ Tẻ)",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+%28%C4%90%C3%A1nh+s%C3%A2n+bay+L%E1%BB%99+T%E1%BA%BB%29+1968+Tr%C3%A0+N%C3%B3c%2C+B%C3%ACnh+Th%E1%BB%A7y%2C+C%E1%BA%A7n+Th%C6%A1+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "CanTho_US_WAR_02",
-      "year": 1969,
       "date": null,
-      "title": "Xây dựng 'Vòng cung lửa' (Vòng cung Cần Thơ)",
       "description": "Tuyến Vòng cung (dài gần 30km chạy qua Ô Môn, Bình Thủy, Phong Điền) trở thành vùng tranh chấp quyết liệt nhất. Mỹ trút xuống đây hàng ngàn tấn bom đạn để bảo vệ đầu não vùng 4 chiến thuật. Quân dân Cần Thơ đã bám trụ 'một tấc không đi, một ly không rời', biến nơi đây thành 'Vòng cung lửa' bất tử.",
+      "id": "CanTho_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Phong Điền, Ô Môn",
@@ -162,14 +232,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Vùng tranh chấp"
-      ]
+      ],
+      "title": "Xây dựng 'Vòng cung lửa' (Vòng cung Cần Thơ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng 'Vòng cung lửa' (Vòng cung Cần Thơ) 1969 Phong Điền, Ô Môn, Cần Thơ Kháng chiến chống Mỹ Vùng tranh chấp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng 'Vòng cung lửa' (Vòng cung Cần Thơ)",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+%27V%C3%B2ng+cung+l%E1%BB%ADa%27+%28V%C3%B2ng+cung+C%E1%BA%A7n+Th%C6%A1%29+1969+Phong+%C4%90i%E1%BB%81n%2C+%C3%94+M%C3%B4n%2C+C%E1%BA%A7n+Th%C6%A1+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+V%C3%B9ng+tranh+ch%E1%BA%A5p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1969
     },
     {
-      "id": "CanTho_US_WAR_03",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng thành phố Cần Thơ",
       "description": "Chiều 30/4, sau khi Dương Văn Minh đầu hàng, lực lượng Quân khu 9 và nhân dân địa phương đã tiến vào chiếm lĩnh Bộ Tư lệnh Quân đoàn IV - Vùng 4 chiến thuật. Tướng Nguyễn Khoa Nam (Tư lệnh vùng 4) tự sát. Cần Thơ hoàn toàn giải phóng, chấm dứt chiến tranh tại miền Tây.",
+      "id": "CanTho_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Ninh Kiều",
@@ -181,14 +260,23 @@
       "tags": [
         "Giải phóng",
         "Ngày thống nhất"
-      ]
+      ],
+      "title": "Giải phóng thành phố Cần Thơ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thành phố Cần Thơ 1975 Ninh Kiều, Cần Thơ Nguyễn Khoa Nam Giải phóng Ngày thống nhất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thành phố Cần Thơ",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%C3%A0nh+ph%E1%BB%91+C%E1%BA%A7n+Th%C6%A1+1975+Ninh+Ki%E1%BB%81u%2C+C%E1%BA%A7n+Th%C6%A1+Nguy%E1%BB%85n+Khoa+Nam+Gi%E1%BA%A3i+ph%C3%B3ng+Ng%C3%A0y+th%E1%BB%91ng+nh%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "CanTho_ADMIN_01",
-      "year": 2004,
       "date": "2004-01-01",
-      "title": "Trở thành Thành phố trực thuộc Trung ương",
       "description": "Thực hiện Nghị quyết 22/2003/QH11, tỉnh Cần Thơ được chia tách thành thành phố Cần Thơ trực thuộc Trung ương và tỉnh Hậu Giang. Sự kiện này khẳng định vị thế của Cần Thơ là đô thị loại I, trung tâm động lực của vùng Đồng bằng sông Cửu Long.",
+      "id": "CanTho_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -198,14 +286,23 @@
       "tags": [
         "Hành chính",
         "Nâng cấp đô thị"
-      ]
+      ],
+      "title": "Trở thành Thành phố trực thuộc Trung ương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trở thành Thành phố trực thuộc Trung ương 2004 Cần Thơ Hành chính Nâng cấp đô thị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trở thành Thành phố trực thuộc Trung ương",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BB%9F+th%C3%A0nh+Th%C3%A0nh+ph%E1%BB%91+tr%E1%BB%B1c+thu%E1%BB%99c+Trung+%C6%B0%C6%A1ng+2004+C%E1%BA%A7n+Th%C6%A1+H%C3%A0nh+ch%C3%ADnh+N%C3%A2ng+c%E1%BA%A5p+%C4%91%C3%B4+th%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2004
     },
     {
+      "date": "2016-03-10",
+      "description": "Ngày 10/3/2016, Bộ Văn hóa, Thể thao và Du lịch ban hành Quyết định 829/QĐ-BVHTTDL đưa văn hóa Chợ nổi Cái Răng vào Danh mục di sản văn hóa phi vật thể quốc gia. Đây là không gian văn hóa - thương mại đặc trưng của cư dân sông nước Cần Thơ.",
       "id": "CanTho_CULTURE_01",
-      "year": 2016,
-      "date": "2016-11-18",
-      "title": "Văn hóa Chợ nổi Cái Răng là Di sản phi vật thể Quốc gia",
-      "description": "Bộ VHTT&DL công nhận Văn hóa Chợ nổi Cái Răng là Di sản văn hóa phi vật thể quốc gia. Đây là nét văn hóa đặc trưng độc đáo nhất của vùng sông nước miền Tây, thu hút du khách trong và ngoài nước.",
       "location": {
         "commune": "Lê Bình",
         "district": "Cái Răng",
@@ -215,7 +312,24 @@
       "tags": [
         "Văn hóa",
         "Du lịch"
-      ]
+      ],
+      "title": "Văn hóa Chợ nổi Cái Răng là Di sản phi vật thể Quốc gia",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Văn hóa Chợ nổi Cái Răng là Di sản phi vật thể Quốc gia 2016 Lê Bình, Cái Răng, Cần Thơ Văn hóa Du lịch lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Văn hóa Chợ nổi Cái Răng là Di sản phi vật thể Quốc gia",
+          "url": "https://www.youtube.com/results?search_query=V%C4%83n+h%C3%B3a+Ch%E1%BB%A3+n%E1%BB%95i+C%C3%A1i+R%C4%83ng+l%C3%A0+Di+s%E1%BA%A3n+phi+v%E1%BA%ADt+th%E1%BB%83+Qu%E1%BB%91c+gia+2016+L%C3%AA+B%C3%ACnh%2C+C%C3%A1i+R%C4%83ng%2C+C%E1%BA%A7n+Th%C6%A1+V%C4%83n+h%C3%B3a+Du+l%E1%BB%8Bch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2016
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/CanTho.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/CanTho_vi.json"
+  }
 }

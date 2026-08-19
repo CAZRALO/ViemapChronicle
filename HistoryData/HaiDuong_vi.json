@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "HaiDuong_EARLY_01",
-      "year": 905,
       "date": null,
-      "title": "Khúc Thừa Dụ dựng quyền tự chủ",
       "description": "Nhân lúc nhà Đường suy yếu, Khúc Thừa Dụ (người làng Cúc Bồ) đã dấy binh, đánh chiếm phủ Tống Bình (Hà Nội), tự xưng là Tiết độ sứ, chấm dứt hơn 1000 năm Bắc thuộc, đặt nền móng cho nền độc lập của dân tộc.",
+      "id": "HaiDuong_EARLY_01",
       "location": {
         "commune": "Kiến Quốc",
         "district": "Ninh Giang",
@@ -17,14 +15,23 @@
       "tags": [
         "Tự chủ",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Khúc Thừa Dụ dựng quyền tự chủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khúc Thừa Dụ dựng quyền tự chủ 905 Kiến Quốc, Ninh Giang, Hải Dương Khúc Thừa Dụ Tự chủ Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khúc Thừa Dụ dựng quyền tự chủ",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%BAc+Th%E1%BB%ABa+D%E1%BB%A5+d%E1%BB%B1ng+quy%E1%BB%81n+t%E1%BB%B1+ch%E1%BB%A7+905+Ki%E1%BA%BFn+Qu%E1%BB%91c%2C+Ninh+Giang%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+Kh%C3%BAc+Th%E1%BB%ABa+D%E1%BB%A5+T%E1%BB%B1+ch%E1%BB%A7+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 905
     },
     {
+      "date": null,
+      "description": "Vạn Kiếp là đại bản doanh và căn cứ chiến lược của Hưng Đạo Vương Trần Quốc Tuấn trong các cuộc kháng chiến chống Nguyên - Mông. Năm 1285, khu vực Vạn Kiếp gắn với những hoạt động quân sự quan trọng góp phần vào thắng lợi của cuộc kháng chiến lần thứ hai.",
       "id": "HaiDuong_TRAN_01",
-      "year": 1285,
-      "date": "1285-06-24",
-      "title": "Chiến thắng Vạn Kiếp",
-      "description": "Hưng Đạo Vương Trần Quốc Tuấn chọn Vạn Kiếp làm đại bản doanh và vùng phòng thủ then chốt. Tại đây, quân dân nhà Trần đã tổ chức nhiều trận đánh chặn quyết liệt, góp phần quan trọng vào thắng lợi của cuộc kháng chiến chống quân Nguyên Mông lần thứ hai.",
       "location": {
         "commune": "Hưng Đạo",
         "district": "Chí Linh",
@@ -36,14 +43,23 @@
       "tags": [
         "Kháng chiến chống Nguyên Mông",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Vạn Kiếp",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Vạn Kiếp 1285 Hưng Đạo, Chí Linh, Hải Dương Trần Hưng Đạo Kháng chiến chống Nguyên Mông Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Vạn Kiếp",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+V%E1%BA%A1n+Ki%E1%BA%BFp+1285+H%C6%B0ng+%C4%90%E1%BA%A1o%2C+Ch%C3%AD+Linh%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Nguy%C3%AAn+M%C3%B4ng+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1285
     },
     {
-      "id": "HaiDuong_FRENCH_01",
-      "year": 1883,
       "date": "1883-08-19",
-      "title": "Thành Hải Dương thất thủ",
       "description": "Quân Pháp huy động tàu chiến và bộ binh tấn công thành Hải Dương. Mặc dù quan quân triều đình chống trả, nhưng do hỏa lực chênh lệch, thành đã rơi vào tay quân Pháp, đánh dấu việc thiết lập ách cai trị thực dân tại vùng đất này.",
+      "id": "HaiDuong_FRENCH_01",
       "location": {
         "commune": null,
         "district": "Hải Dương",
@@ -53,31 +69,75 @@
       "tags": [
         "Pháp thuộc",
         "Quân sự"
-      ]
+      ],
+      "title": "Thành Hải Dương thất thủ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành Hải Dương thất thủ 1883 Hải Dương, Hải Dương Pháp thuộc Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành Hải Dương thất thủ",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+H%E1%BA%A3i+D%C6%B0%C6%A1ng+th%E1%BA%A5t+th%E1%BB%A7+1883+H%E1%BA%A3i+D%C6%B0%C6%A1ng%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+Ph%C3%A1p+thu%E1%BB%99c+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1883
     },
     {
+      "date": null,
+      "description": "Đầu tháng 3/1930, tại Đọ Xá (nay thuộc khu vực Hoàng Tân, Chí Linh), chi bộ Đảng Cộng sản đầu tiên trên địa bàn Hải Dương được thành lập. Sự kiện đánh dấu bước phát triển mới của phong trào cách mạng địa phương dưới sự lãnh đạo của Đảng.",
       "id": "HaiDuong_REV_01",
-      "year": 1930,
-      "date": "1930-03-27",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
-      "description": "Tại thôn Mạo Điền, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Hải Dương được thành lập gồm 3 đảng viên. Đây là mốc son mở đầu cho phong trào cách mạng có tổ chức chặt chẽ tại địa phương.",
       "location": {
-        "commune": "Cẩm Điền",
-        "district": "Cẩm Giàng",
+        "commune": "Hoàng Tân",
+        "district": "Chí Linh",
         "province": "Hải Dương"
       },
       "related_figures": [],
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên tại Đọ Xá",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên tại Đọ Xá 1930 Hoàng Tân, Chí Linh, Hải Dương Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên tại Đọ Xá",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+t%E1%BA%A1i+%C4%90%E1%BB%8D+X%C3%A1+1930+Ho%C3%A0ng+T%C3%A2n%2C+Ch%C3%AD+Linh%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "HaiDuong_REV_02",
-      "year": 1945,
+      "date": "1940-06-10",
+      "description": "Ngày 10/6/1940, tại thôn Đọ Xá, hội nghị thành lập Đảng bộ tỉnh Hải Dương được tổ chức, thống nhất các tổ chức Đảng trong tỉnh và kiện toàn sự lãnh đạo đối với phong trào cách mạng địa phương.",
+      "id": "HaiDuong_FRENCH_WAR_01",
+      "location": {
+        "commune": "Hoàng Tân",
+        "district": "Chí Linh",
+        "province": "Hải Dương"
+      },
+      "related_figures": [],
+      "tags": [
+        "Thành lập Đảng bộ",
+        "Cách mạng"
+      ],
+      "title": "Thành lập Đảng bộ tỉnh Hải Dương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ tỉnh Hải Dương 1940 Hoàng Tân, Chí Linh, Hải Dương Thành lập Đảng bộ Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ tỉnh Hải Dương",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+t%E1%BB%89nh+H%E1%BA%A3i+D%C6%B0%C6%A1ng+1940+Ho%C3%A0ng+T%C3%A2n%2C+Ch%C3%AD+Linh%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
+    },
+    {
       "date": "1945-08-17",
-      "title": "Khởi nghĩa giành chính quyền tại tỉnh lỵ",
       "description": "Hàng vạn quần chúng nhân dân từ các huyện đã đổ về thị xã Hải Dương, tổ chức mít tinh lớn tại Nhà hát Nhân dân (Rạp Con Cò), sau đó chiếm các công sở, giành chính quyền sớm hơn Hà Nội 2 ngày.",
+      "id": "HaiDuong_REV_02",
       "location": {
         "commune": null,
         "district": "Hải Dương",
@@ -87,33 +147,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
-    },
-    {
-      "id": "HaiDuong_FRENCH_WAR_01",
-      "year": 1945,
-      "date": "1945-09-00",
-      "title": "Phong trào 'Tiếng sấm đường 5'",
-      "description": "Quân và dân Hải Dương (đặc biệt tại Kim Thành, Cẩm Giàng) phát động chiến tranh du kích dọc Quốc lộ 5 và tuyến đường sắt Hà Nội - Hải Phòng. Các trận đánh mìn, lật tàu hỏa đã biến con đường huyết mạch này thành 'con đường tử địa' đối với quân Pháp.",
-      "location": {
-        "commune": "Kim Thành",
-        "district": "Kim Thành",
-        "province": "Hải Dương"
-      },
-      "related_figures": [
-        "Đặng Tính"
       ],
-      "tags": [
-        "Kháng chiến chống Pháp",
-        "Du kích chiến"
-      ]
+      "title": "Khởi nghĩa giành chính quyền tại tỉnh lỵ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa giành chính quyền tại tỉnh lỵ 1945 Hải Dương, Hải Dương Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa giành chính quyền tại tỉnh lỵ",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+1945+H%E1%BA%A3i+D%C6%B0%C6%A1ng%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HaiDuong_CONSTRUCTION_01",
-      "year": 1958,
       "date": "1958-10-01",
-      "title": "Khởi công Đại thủy nông Bắc - Hưng - Hải",
       "description": "Thủ tướng Phạm Văn Đồng bổ nhát cuốc đầu tiên khởi công công trình thủy lợi Bắc Hưng Hải tại cống Xuân Quan. Đây là hệ thống thủy lợi lớn nhất miền Bắc lúc bấy giờ, giải quyết vấn đề tưới tiêu cho 3 tỉnh Bắc Ninh, Hưng Yên, Hải Dương.",
+      "id": "HaiDuong_CONSTRUCTION_01",
       "location": {
         "commune": null,
         "district": null,
@@ -126,14 +176,23 @@
       "tags": [
         "Kinh tế",
         "Thủy lợi"
-      ]
+      ],
+      "title": "Khởi công Đại thủy nông Bắc - Hưng - Hải",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi công Đại thủy nông Bắc - Hưng - Hải 1958 Hải Dương Hồ Chí Minh Phạm Văn Đồng Kinh tế Thủy lợi lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi công Đại thủy nông Bắc - Hưng - Hải",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+c%C3%B4ng+%C4%90%E1%BA%A1i+th%E1%BB%A7y+n%C3%B4ng+B%E1%BA%AFc+-+H%C6%B0ng+-+H%E1%BA%A3i+1958+H%E1%BA%A3i+D%C6%B0%C6%A1ng+H%E1%BB%93+Ch%C3%AD+Minh+Ph%E1%BA%A1m+V%C4%83n+%C4%90%E1%BB%93ng+Kinh+t%E1%BA%BF+Th%E1%BB%A7y+l%E1%BB%A3i+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1958
     },
     {
+      "date": null,
+      "description": "Trong năm 1965 và những năm chiến tranh phá hoại, cầu Phú Lương trên tuyến giao thông huyết mạch qua Hải Dương nhiều lần bị không quân Mỹ đánh phá. Lực lượng phòng không, dân quân tự vệ và nhân dân địa phương vừa chiến đấu bảo vệ cầu, vừa khẩn trương bảo đảm giao thông chi viện cho tiền tuyến.",
       "id": "HaiDuong_US_WAR_01",
-      "year": 1965,
-      "date": "1965-11-05",
-      "title": "Trận chiến bảo vệ cầu Phú Lương",
-      "description": "Không quân Mỹ bắt đầu đánh phá ác liệt cầu Phú Lương và cầu Lai Vu nhằm cắt đứt tuyến vận tải chiến lược ra cảng Hải Phòng. Lực lượng phòng không và dân quân tự vệ Hải Dương đã chiến đấu kiên cường, bắn rơi nhiều máy bay Mỹ để bảo vệ cầu.",
       "location": {
         "commune": null,
         "district": "Hải Dương",
@@ -142,15 +201,25 @@
       "related_figures": [],
       "tags": [
         "Kháng chiến chống Mỹ",
+        "Phòng không",
         "Giao thông"
-      ]
+      ],
+      "title": "Chiến đấu bảo vệ cầu Phú Lương trong chiến tranh phá hoại",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu bảo vệ cầu Phú Lương trong chiến tranh phá hoại 1965 Hải Dương, Hải Dương Kháng chiến chống Mỹ Phòng không Giao thông lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu bảo vệ cầu Phú Lương trong chiến tranh phá hoại",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+c%E1%BA%A7u+Ph%C3%BA+L%C6%B0%C6%A1ng+trong+chi%E1%BA%BFn+tranh+ph%C3%A1+ho%E1%BA%A1i+1965+H%E1%BA%A3i+D%C6%B0%C6%A1ng%2C+H%E1%BA%A3i+D%C6%B0%C6%A1ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+Giao+th%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "HaiDuong_ADMIN_01",
-      "year": 1968,
       "date": "1968-01-26",
-      "title": "Thành lập tỉnh Hải Hưng",
       "description": "Hợp nhất hai tỉnh Hải Dương và Hưng Yên thành tỉnh Hải Hưng theo Nghị quyết của Ủy ban Thường vụ Quốc hội, nhằm tập trung sức người sức của cho cuộc kháng chiến chống Mỹ cứu nước.",
+      "id": "HaiDuong_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -160,14 +229,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hải Hưng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hải Hưng 1968 Hải Dương Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hải Hưng",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%E1%BA%A3i+H%C6%B0ng+1968+H%E1%BA%A3i+D%C6%B0%C6%A1ng+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Hải Hưng. Tỉnh Hải Dương tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "HaiDuong_ADMIN_02",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Hải Dương",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Hải Hưng trở lại thành hai tỉnh Hải Dương và Hưng Yên. Tỉnh Hải Dương chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
       "location": {
         "commune": null,
         "district": null,
@@ -177,7 +255,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Hải Dương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Hải Dương 1997 Hải Dương Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Hải Dương",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+H%E1%BA%A3i+D%C6%B0%C6%A1ng+1997+H%E1%BA%A3i+D%C6%B0%C6%A1ng+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HaiDuong.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HaiDuong_vi.json"
+  }
 }

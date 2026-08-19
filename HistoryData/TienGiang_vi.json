@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "TienGiang_TAYSON_01",
-      "year": 1785,
       "date": "1785-01-20",
-      "title": "Chiến thắng Rạch Gầm - Xoài Mút",
       "description": "Tại đoạn sông Tiền từ Rạch Gầm đến Xoài Mút, Nguyễn Huệ đã bố trí trận địa mai phục hiểm hóc, tiêu diệt gần 5 vạn quân Xiêm và quân Nguyễn Ánh chỉ trong một ngày. Đây là một trong những trận thủy chiến oanh liệt nhất lịch sử chống ngoại xâm của dân tộc ta.",
+      "id": "TienGiang_TAYSON_01",
       "location": {
         "commune": "Kim Sơn",
         "district": "Châu Thành",
@@ -17,14 +15,23 @@
       "tags": [
         "Nhà Tây Sơn",
         "Thủy chiến"
-      ]
+      ],
+      "title": "Chiến thắng Rạch Gầm - Xoài Mút",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Rạch Gầm - Xoài Mút 1785 Kim Sơn, Châu Thành, Tiền Giang Nguyễn Huệ Nhà Tây Sơn Thủy chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Rạch Gầm - Xoài Mút",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+R%E1%BA%A1ch+G%E1%BA%A7m+-+Xo%C3%A0i+M%C3%BAt+1785+Kim+S%C6%A1n%2C+Ch%C3%A2u+Th%C3%A0nh%2C+Ti%E1%BB%81n+Giang+Nguy%E1%BB%85n+Hu%E1%BB%87+Nh%C3%A0+T%C3%A2y+S%C6%A1n+Th%E1%BB%A7y+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1785
     },
     {
-      "id": "TienGiang_COLONIAL_01",
-      "year": 1861,
-      "date": "1861-02-00",
-      "title": "Khởi nghĩa Trương Định",
+      "date": null,
       "description": "Sau khi thành Gia Định thất thủ, Trương Định đã rút quân về Gò Công lập căn cứ (Đám lá tối trời), chiêu mộ nghĩa binh chống Pháp. Ông được nhân dân suy tôn là 'Bình Tây Đại Nguyên Soái', trở thành ngọn cờ đầu của phong trào kháng Pháp tại Nam Kỳ.",
+      "id": "TienGiang_COLONIAL_01",
       "location": {
         "commune": "Gia Thuận",
         "district": "Gò Công Đông",
@@ -36,14 +43,23 @@
       "tags": [
         "Chống Pháp",
         "Cần Vương"
-      ]
+      ],
+      "title": "Khởi nghĩa Trương Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Trương Định 1861 Gia Thuận, Gò Công Đông, Tiền Giang Trương Định Chống Pháp Cần Vương lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Trương Định",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Tr%C6%B0%C6%A1ng+%C4%90%E1%BB%8Bnh+1861+Gia+Thu%E1%BA%ADn%2C+G%C3%B2+C%C3%B4ng+%C4%90%C3%B4ng%2C+Ti%E1%BB%81n+Giang+Tr%C6%B0%C6%A1ng+%C4%90%E1%BB%8Bnh+Ch%E1%BB%91ng+Ph%C3%A1p+C%E1%BA%A7n+V%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1861
     },
     {
-      "id": "TienGiang_REV_01",
-      "year": 1940,
       "date": "1940-08-12",
-      "title": "Thành lập Tỉnh ủy lâm thời Mỹ Tho",
-      "description": "Hội nghị thành lập Tỉnh ủy lâm thời Mỹ Tho được tổ chức tại Rạch Gầm (xã Kim Sơn), do đồng chí Phan Văn Khỏe làm Bí thư. Hội nghị đã đề ra chủ trương gấp rút chuẩn bị vũ trang khởi nghĩa, tiền đề cho cuộc Khởi nghĩa Nam Kỳ.",
+      "description": "Ngày 12/8/1940, Ban Quân sự tỉnh Mỹ Tho được thành lập nhằm chuẩn bị lực lượng và tổ chức cho cuộc Khởi nghĩa Nam Kỳ trên địa bàn Mỹ Tho. Đây là một bước chuẩn bị quan trọng về quân sự cho phong trào cách mạng địa phương.",
+      "id": "TienGiang_REV_01",
       "location": {
         "commune": "Kim Sơn",
         "district": "Châu Thành",
@@ -53,16 +69,26 @@
         "Phan Văn Khỏe"
       ],
       "tags": [
-        "Thành lập Đảng",
+        "Khởi nghĩa Nam Kỳ",
+        "Tổ chức quân sự",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Ban Quân sự tỉnh Mỹ Tho",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Ban Quân sự tỉnh Mỹ Tho 1940 Kim Sơn, Châu Thành, Tiền Giang Phan Văn Khỏe Khởi nghĩa Nam Kỳ Tổ chức quân sự Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Ban Quân sự tỉnh Mỹ Tho",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Ban+Qu%C3%A2n+s%E1%BB%B1+t%E1%BB%89nh+M%E1%BB%B9+Tho+1940+Kim+S%C6%A1n%2C+Ch%C3%A2u+Th%C3%A0nh%2C+Ti%E1%BB%81n+Giang+Phan+V%C4%83n+Kh%E1%BB%8Fe+Kh%E1%BB%9Fi+ngh%C4%A9a+Nam+K%E1%BB%B3+T%E1%BB%95+ch%E1%BB%A9c+qu%C3%A2n+s%E1%BB%B1+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
     },
     {
-      "id": "TienGiang_REV_02",
-      "year": 1940,
       "date": "1940-11-23",
-      "title": "Khởi nghĩa Nam Kỳ (Lần đầu xuất hiện Quốc kỳ)",
       "description": "Tại Đình Long Hưng, Ủy ban Khởi nghĩa tỉnh Mỹ Tho đã ra mắt nhân dân. Lần đầu tiên trong lịch sử, lá Cờ đỏ sao vàng 5 cánh đã được treo trên ngọn cây bàng tại sân đình. Chính quyền cách mạng đã tổ chức Tòa án nhân dân xét xử bọn tay sai ác ôn ngay tại đây.",
+      "id": "TienGiang_REV_02",
       "location": {
         "commune": "Long Hưng",
         "district": "Châu Thành",
@@ -75,14 +101,23 @@
       "tags": [
         "Khởi nghĩa Nam Kỳ",
         "Quốc kỳ"
-      ]
+      ],
+      "title": "Khởi nghĩa Nam Kỳ (Lần đầu xuất hiện Quốc kỳ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Nam Kỳ (Lần đầu xuất hiện Quốc kỳ) 1940 Long Hưng, Châu Thành, Tiền Giang Phan Văn Khỏe Nguyễn Thị Thập Khởi nghĩa Nam Kỳ Quốc kỳ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Nam Kỳ (Lần đầu xuất hiện Quốc kỳ)",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Nam+K%E1%BB%B3+%28L%E1%BA%A7n+%C4%91%E1%BA%A7u+xu%E1%BA%A5t+hi%E1%BB%87n+Qu%E1%BB%91c+k%E1%BB%B3%29+1940+Long+H%C6%B0ng%2C+Ch%C3%A2u+Th%C3%A0nh%2C+Ti%E1%BB%81n+Giang+Phan+V%C4%83n+Kh%E1%BB%8Fe+Nguy%E1%BB%85n+Th%E1%BB%8B+Th%E1%BA%ADp+Kh%E1%BB%9Fi+ngh%C4%A9a+Nam+K%E1%BB%B3+Qu%E1%BB%91c+k%E1%BB%B3+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
     },
     {
-      "id": "TienGiang_REV_03",
-      "year": 1945,
       "date": "1945-08-24",
-      "title": "Giành chính quyền tại Mỹ Tho",
       "description": "Dưới sự lãnh đạo của Tỉnh ủy, hàng vạn quần chúng từ các huyện Cai Lậy, Châu Thành rầm rộ kéo về thị xã Mỹ Tho, bao vây Dinh Tỉnh trưởng và Trại lính. Tỉnh trưởng Nguyễn Văn Tâm bỏ trốn. Ủy ban Nhân dân Cách mạng lâm thời tỉnh Mỹ Tho được thành lập.",
+      "id": "TienGiang_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Mỹ Tho",
@@ -92,14 +127,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Mỹ Tho",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Mỹ Tho 1945 Thành phố Mỹ Tho, Tiền Giang Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Mỹ Tho",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+M%E1%BB%B9+Tho+1945+Th%C3%A0nh+ph%E1%BB%91+M%E1%BB%B9+Tho%2C+Ti%E1%BB%81n+Giang+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "TienGiang_US_WAR_01",
-      "year": 1963,
       "date": "1963-01-02",
-      "title": "Chiến thắng Ấp Bắc",
       "description": "Tiểu đoàn 261 và 514 của quân giải phóng đã đánh bại cuộc càn quét quy mô lớn của 2.000 quân Sài Gòn có cố vấn Mỹ chỉ huy với đầy đủ máy bay, xe thiết giáp M113. Chiến thắng này đã đánh bại chiến thuật 'Trực thăng vận' và 'Thiết xa vận', báo hiệu sự sụp đổ của chiến lược 'Chiến tranh đặc biệt'.",
+      "id": "TienGiang_US_WAR_01",
       "location": {
         "commune": "Tân Phú",
         "district": "Cai Lậy",
@@ -109,14 +153,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Ấp Bắc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Ấp Bắc 1963 Tân Phú, Cai Lậy, Tiền Giang Kháng chiến chống Mỹ Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Ấp Bắc",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%E1%BA%A4p+B%E1%BA%AFc+1963+T%C3%A2n+Ph%C3%BA%2C+Cai+L%E1%BA%ADy%2C+Ti%E1%BB%81n+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1963
     },
     {
+      "date": null,
+      "description": "Trong giai đoạn 1966-1967, quân dân khu vực Bình Đức xây dựng thế trận 'Vành đai diệt Mỹ' bao quanh căn cứ Đồng Tâm, tổ chức bám đất, đánh địch và hạn chế hoạt động của căn cứ quân sự này.",
       "id": "TienGiang_US_WAR_02",
-      "year": 1967,
-      "date": "1967-05-03",
-      "title": "Thành lập Vành đai diệt Mỹ Rạch Gầm",
-      "description": "Tại xã Bình Đức, Mỹ xây dựng căn cứ Đồng Tâm cho Sư đoàn 9 Bộ binh Mỹ trú đóng. Quân dân Tiền Giang đã thiết lập 'Vành đai diệt Mỹ Rạch Gầm - Xoài Mút' bao quanh căn cứ, thực hiện phương châm 'bám thắt lưng địch mà đánh', bắn hạ nhiều máy bay và tàu chiến ngay tại sào huyệt địch.",
       "location": {
         "commune": "Bình Đức",
         "district": "Châu Thành",
@@ -126,14 +179,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến tranh du kích"
-      ]
+      ],
+      "title": "Hình thành Vành đai Bình Đức quanh căn cứ Đồng Tâm",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hình thành Vành đai Bình Đức quanh căn cứ Đồng Tâm 1966 Bình Đức, Châu Thành, Tiền Giang Kháng chiến chống Mỹ Chiến tranh du kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hình thành Vành đai Bình Đức quanh căn cứ Đồng Tâm",
+          "url": "https://www.youtube.com/results?search_query=H%C3%ACnh+th%C3%A0nh+V%C3%A0nh+%C4%91ai+B%C3%ACnh+%C4%90%E1%BB%A9c+quanh+c%C4%83n+c%E1%BB%A9+%C4%90%E1%BB%93ng+T%C3%A2m+1966+B%C3%ACnh+%C4%90%E1%BB%A9c%2C+Ch%C3%A2u+Th%C3%A0nh%2C+Ti%E1%BB%81n+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+tranh+du+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
-      "id": "TienGiang_US_WAR_03",
-      "year": 1968,
       "date": "1968-01-31",
-      "title": "Tổng tiến công Tết Mậu Thân tại Mỹ Tho",
       "description": "Lực lượng vũ trang tỉnh đồng loạt tấn công vào các mục tiêu đầu não tại thị xã Mỹ Tho như: Dinh Tỉnh trưởng, Bộ Tư lệnh Sư đoàn 7, Trung tâm Hành quân... Quân giải phóng đã làm chủ một phần thị xã trong nhiều ngày, gây thiệt hại nặng nề cho Mỹ - Ngụy.",
+      "id": "TienGiang_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Thành phố Mỹ Tho",
@@ -143,14 +205,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Quân sự"
-      ]
+      ],
+      "title": "Tổng tiến công Tết Mậu Thân tại Mỹ Tho",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng tiến công Tết Mậu Thân tại Mỹ Tho 1968 Thành phố Mỹ Tho, Tiền Giang Tết Mậu Thân Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng tiến công Tết Mậu Thân tại Mỹ Tho",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+t%E1%BA%A1i+M%E1%BB%B9+Tho+1968+Th%C3%A0nh+ph%E1%BB%91+M%E1%BB%B9+Tho%2C+Ti%E1%BB%81n+Giang+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "TienGiang_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng thành phố Mỹ Tho",
       "description": "Phối hợp với chiến trường chung, quân dân Tiền Giang đã nổi dậy tấn công và kêu gọi địch đầu hàng. Đến 10 giờ 30 phút, bộ đội ta chiếm Dinh Tỉnh trưởng và cắm cờ giải phóng trên nóc Bộ Tư lệnh Sư đoàn 7 ngụy. Tỉnh Mỹ Tho (Tiền Giang) hoàn toàn giải phóng.",
+      "id": "TienGiang_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Mỹ Tho",
@@ -160,14 +231,23 @@
       "tags": [
         "Chiến dịch Hồ Chí Minh",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thành phố Mỹ Tho",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thành phố Mỹ Tho 1975 Thành phố Mỹ Tho, Tiền Giang Chiến dịch Hồ Chí Minh Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thành phố Mỹ Tho",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%C3%A0nh+ph%E1%BB%91+M%E1%BB%B9+Tho+1975+Th%C3%A0nh+ph%E1%BB%91+M%E1%BB%B9+Tho%2C+Ti%E1%BB%81n+Giang+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%E1%BB%93+Ch%C3%AD+Minh+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "TienGiang_ADMIN_01",
-      "year": 1976,
-      "date": "1976-02-00",
-      "title": "Thành lập tỉnh Tiền Giang",
+      "date": null,
       "description": "Thực hiện Nghị quyết của Chính phủ Cách mạng Lâm thời, tỉnh Mỹ Tho và tỉnh Gò Công được hợp nhất thành tỉnh Tiền Giang. Tỉnh lỵ đặt tại thành phố Mỹ Tho, trở thành trung tâm kinh tế, văn hóa của vùng Bắc sông Tiền.",
+      "id": "TienGiang_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -177,14 +257,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Tiền Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Tiền Giang 1976 Tiền Giang Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Tiền Giang",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Ti%E1%BB%81n+Giang+1976+Ti%E1%BB%81n+Giang+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1976
     },
     {
-      "id": "TienGiang_ECONOMY_01",
-      "year": 2009,
       "date": "2009-01-19",
-      "title": "Khánh thành Cầu Rạch Miễu",
       "description": "Cầu Rạch Miễu nối liền hai tỉnh Tiền Giang và Bến Tre chính thức thông xe. Đây là cây cầu dây văng đầu tiên do các kỹ sư Việt Nam hoàn toàn thiết kế và thi công, xóa bỏ thế 'ốc đảo' của Bến Tre và thúc đẩy kinh tế Tiền Giang.",
+      "id": "TienGiang_ECONOMY_01",
       "location": {
         "commune": "Thới Sơn",
         "district": "Thành phố Mỹ Tho",
@@ -194,7 +283,24 @@
       "tags": [
         "Kinh tế",
         "Giao thông"
-      ]
+      ],
+      "title": "Khánh thành Cầu Rạch Miễu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành Cầu Rạch Miễu 2009 Thới Sơn, Thành phố Mỹ Tho, Tiền Giang Kinh tế Giao thông lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành Cầu Rạch Miễu",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+C%E1%BA%A7u+R%E1%BA%A1ch+Mi%E1%BB%85u+2009+Th%E1%BB%9Bi+S%C6%A1n%2C+Th%C3%A0nh+ph%E1%BB%91+M%E1%BB%B9+Tho%2C+Ti%E1%BB%81n+Giang+Kinh+t%E1%BA%BF+Giao+th%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2009
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/TienGiang.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/TienGiang_vi.json"
+  }
 }

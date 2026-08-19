@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "LamDong_FOUNDING_01",
-      "year": 1893,
       "date": "1893-06-21",
-      "title": "Yersin khám phá ra Cao nguyên Lang Biang",
       "description": "Sau hành trình thám hiểm gian khổ, Bác sĩ Alexandre Yersin đã đặt chân lên Cao nguyên Lang Biang. Nhận thấy khí hậu ôn hòa và cảnh quan tuyệt đẹp, ông đã đề nghị Toàn quyền Paul Doumer xây dựng một trạm nghỉ dưỡng tại đây, tiền đề cho sự ra đời của thành phố Đà Lạt.",
+      "id": "LamDong_FOUNDING_01",
       "location": {
         "commune": null,
         "district": "Thành phố Đà Lạt",
@@ -18,14 +16,23 @@
       "tags": [
         "Khám phá",
         "Lịch sử hình thành"
-      ]
+      ],
+      "title": "Yersin khám phá ra Cao nguyên Lang Biang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Yersin khám phá ra Cao nguyên Lang Biang 1893 Thành phố Đà Lạt, Lâm Đồng Alexandre Yersin Paul Doumer Khám phá Lịch sử hình thành lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Yersin khám phá ra Cao nguyên Lang Biang",
+          "url": "https://www.youtube.com/results?search_query=Yersin+kh%C3%A1m+ph%C3%A1+ra+Cao+nguy%C3%AAn+Lang+Biang+1893+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Alexandre+Yersin+Paul+Doumer+Kh%C3%A1m+ph%C3%A1+L%E1%BB%8Bch+s%E1%BB%AD+h%C3%ACnh+th%C3%A0nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1893
     },
     {
-      "id": "LamDong_COLONIAL_01",
-      "year": 1899,
       "date": "1899-11-01",
-      "title": "Thành lập tỉnh Đồng Nai Thượng",
       "description": "Toàn quyền Đông Dương ký Nghị định thành lập tỉnh Đồng Nai Thượng (Haut Donnai), tỉnh lỵ đặt tại Djiring (Di Linh ngày nay). Đây là đơn vị hành chính cấp tỉnh đầu tiên bao trùm vùng đất Lâm Đồng.",
+      "id": "LamDong_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Di Linh",
@@ -35,16 +42,25 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Đồng Nai Thượng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Đồng Nai Thượng 1899 Di Linh, Lâm Đồng Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Đồng Nai Thượng",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+%C4%90%E1%BB%93ng+Nai+Th%C6%B0%E1%BB%A3ng+1899+Di+Linh%2C+L%C3%A2m+%C4%90%E1%BB%93ng+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1899
     },
     {
+      "date": null,
+      "description": "Tháng 4/1930, chi bộ cộng sản đầu tiên ở Lâm Viên được thành lập tại Đà Lạt, do Trần Diệm làm Bí thư. Sự kiện đặt nền móng cho sự phát triển tổ chức Đảng và phong trào cách mạng ở Đà Lạt - Lâm Đồng.",
       "id": "LamDong_REV_01",
-      "year": 1930,
-      "date": "1930-04-00",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Cầu Quẹo)",
-      "description": "Tại khu vực Cầu Quẹo (Arbre Broyé), Chi bộ Đảng Cộng sản đầu tiên của tỉnh được thành lập gồm các đồng chí công nhân đường sắt và phu lục lộ. Đây là hạt nhân lãnh đạo phong trào cách mạng của công nhân và nhân dân lao động Đà Lạt.",
       "location": {
-        "commune": "Phường 10",
+        "commune": null,
         "district": "Thành phố Đà Lạt",
         "province": "Lâm Đồng"
       },
@@ -54,14 +70,23 @@
       "tags": [
         "Thành lập Đảng",
         "Phong trào công nhân"
-      ]
+      ],
+      "title": "Thành lập chi bộ Đảng Cộng sản đầu tiên ở Lâm Viên (Đà Lạt)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập chi bộ Đảng Cộng sản đầu tiên ở Lâm Viên (Đà Lạt) 1930 Thành phố Đà Lạt, Lâm Đồng Trần Diệm Thành lập Đảng Phong trào công nhân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập chi bộ Đảng Cộng sản đầu tiên ở Lâm Viên (Đà Lạt)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%91%E1%BA%A7u+ti%C3%AAn+%E1%BB%9F+L%C3%A2m+Vi%C3%AAn+%28%C4%90%C3%A0+L%E1%BA%A1t%29+1930+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Tr%E1%BA%A7n+Di%E1%BB%87m+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+Phong+tr%C3%A0o+c%C3%B4ng+nh%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "LamDong_REV_02",
-      "year": 1945,
       "date": "1945-08-23",
-      "title": "Giành chính quyền tại Đà Lạt",
       "description": "Ủy ban Khởi nghĩa tỉnh Lâm Viên đã lãnh đạo quần chúng nhân dân chiếm Dinh Tỉnh trưởng, Sở Cảnh sát và Kho bạc. Chính quyền tay sai đầu hàng, Ủy ban Nhân dân Cách mạng lâm thời tỉnh Lâm Viên ra mắt nhân dân tại rạp chiếu bóng Ngọc Hiệp.",
+      "id": "LamDong_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Đà Lạt",
@@ -73,14 +98,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Đà Lạt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Đà Lạt 1945 Thành phố Đà Lạt, Lâm Đồng Phan Như Thạch Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Đà Lạt",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+%C4%90%C3%A0+L%E1%BA%A1t+1945+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Phan+Nh%C6%B0+Th%E1%BA%A1ch+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": null,
+      "description": "Năm 1950, trường võ bị của Quốc gia Việt Nam được chuyển từ Huế lên Đà Lạt và mang tên Trường Võ bị Liên quân Đà Lạt. Cơ sở này về sau tiếp tục được tổ chức lại qua nhiều giai đoạn.",
       "id": "LamDong_FRENCH_WAR_01",
-      "year": 1951,
-      "date": "1951-02-22",
-      "title": "Thành lập Trường Võ bị Liên quân Đà Lạt",
-      "description": "Chính quyền Quốc gia Việt Nam (thân Pháp) thành lập Trường Võ bị Liên quân Đà Lạt (sau này là Trường Võ bị Quốc gia Việt Nam của VNCH). Đây là trung tâm đào tạo sĩ quan hiện dịch lớn nhất của quân đội Sài Gòn tại miền Nam.",
       "location": {
         "commune": "Phường 9",
         "district": "Thành phố Đà Lạt",
@@ -90,14 +124,23 @@
       "tags": [
         "Quân sự",
         "Lịch sử chế độ cũ"
-      ]
+      ],
+      "title": "Trường Võ bị chuyển về Đà Lạt và mang tên Trường Võ bị Liên quân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trường Võ bị chuyển về Đà Lạt và mang tên Trường Võ bị Liên quân 1950 Phường 9, Thành phố Đà Lạt, Lâm Đồng Quân sự Lịch sử chế độ cũ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trường Võ bị chuyển về Đà Lạt và mang tên Trường Võ bị Liên quân",
+          "url": "https://www.youtube.com/results?search_query=Tr%C6%B0%E1%BB%9Dng+V%C3%B5+b%E1%BB%8B+chuy%E1%BB%83n+v%E1%BB%81+%C4%90%C3%A0+L%E1%BA%A1t+v%C3%A0+mang+t%C3%AAn+Tr%C6%B0%E1%BB%9Dng+V%C3%B5+b%E1%BB%8B+Li%C3%AAn+qu%C3%A2n+1950+Ph%C6%B0%E1%BB%9Dng+9%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Qu%C3%A2n+s%E1%BB%B1+L%E1%BB%8Bch+s%E1%BB%AD+ch%E1%BA%BF+%C4%91%E1%BB%99+c%C5%A9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
+      "date": "1984-03-20",
+      "description": "Lò TRIGA Mark-2 tại Đà Lạt được xây dựng từ năm 1963. Sau quá trình khôi phục và mở rộng công suất, Lò phản ứng hạt nhân Đà Lạt công suất 500 kWt chính thức được đưa vào vận hành ngày 20/3/1984, phục vụ nghiên cứu và ứng dụng kỹ thuật hạt nhân.",
       "id": "LamDong_TECH_01",
-      "year": 1963,
-      "date": "1963-03-00",
-      "title": "Khánh thành Lò phản ứng hạt nhân Đà Lạt",
-      "description": "Viện Nghiên cứu Hạt nhân Đà Lạt chính thức vận hành lò phản ứng Triga Mark II công suất 250 kW. Đây là lò phản ứng hạt nhân đầu tiên của khu vực Đông Nam Á, đánh dấu bước tiến của ngành khoa học nguyên tử tại Việt Nam.",
       "location": {
         "commune": "Phường 8",
         "district": "Thành phố Đà Lạt",
@@ -107,14 +150,23 @@
       "tags": [
         "Khoa học",
         "Hạt nhân"
-      ]
+      ],
+      "title": "Đưa Lò phản ứng hạt nhân Đà Lạt vào vận hành sau khôi phục và mở rộng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đưa Lò phản ứng hạt nhân Đà Lạt vào vận hành sau khôi phục và mở rộng 1984 Phường 8, Thành phố Đà Lạt, Lâm Đồng Khoa học Hạt nhân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đưa Lò phản ứng hạt nhân Đà Lạt vào vận hành sau khôi phục và mở rộng",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C6%B0a+L%C3%B2+ph%E1%BA%A3n+%E1%BB%A9ng+h%E1%BA%A1t+nh%C3%A2n+%C4%90%C3%A0+L%E1%BA%A1t+v%C3%A0o+v%E1%BA%ADn+h%C3%A0nh+sau+kh%C3%B4i+ph%E1%BB%A5c+v%C3%A0+m%E1%BB%9F+r%E1%BB%99ng+1984+Ph%C6%B0%E1%BB%9Dng+8%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Khoa+h%E1%BB%8Dc+H%E1%BA%A1t+nh%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1984
     },
     {
-      "id": "LamDong_US_WAR_01",
-      "year": 1968,
       "date": "1968-01-31",
-      "title": "Tổng tiến công Tết Mậu Thân tại Đà Lạt",
       "description": "Quân giải phóng bất ngờ tấn công đồng loạt vào các mục tiêu trọng yếu như Trường Võ bị, Tiểu khu Tuyên Đức, Dinh Tỉnh trưởng... Cuộc giao tranh ác liệt diễn ra ngay trong lòng phố thị Đà Lạt, gây thiệt hại lớn cho địch và chấn động dư luận.",
+      "id": "LamDong_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Đà Lạt",
@@ -124,14 +176,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Chiến tranh đô thị"
-      ]
+      ],
+      "title": "Tổng tiến công Tết Mậu Thân tại Đà Lạt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng tiến công Tết Mậu Thân tại Đà Lạt 1968 Thành phố Đà Lạt, Lâm Đồng Tết Mậu Thân Chiến tranh đô thị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng tiến công Tết Mậu Thân tại Đà Lạt",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+t%E1%BA%A1i+%C4%90%C3%A0+L%E1%BA%A1t+1968+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Chi%E1%BA%BFn+tranh+%C4%91%C3%B4+th%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "LamDong_US_WAR_02",
-      "year": 1975,
       "date": "1975-03-28",
-      "title": "Giải phóng thị xã Bảo Lộc",
       "description": "Sau khi chi khu Di Linh thất thủ, quân địch tại Bảo Lộc hoang mang rút chạy. Quân ta nhanh chóng tiến vào tiếp quản thị xã Bảo Lộc và tỉnh lỵ Lâm Đồng (cũ) mà không gặp sự kháng cự lớn, giải phóng hoàn toàn vùng phía Nam tỉnh.",
+      "id": "LamDong_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Bảo Lộc",
@@ -141,14 +202,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thị xã Bảo Lộc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Bảo Lộc 1975 Thành phố Bảo Lộc, Lâm Đồng Chiến dịch Xuân 1975 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Bảo Lộc",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+B%E1%BA%A3o+L%E1%BB%99c+1975+Th%C3%A0nh+ph%E1%BB%91+B%E1%BA%A3o+L%E1%BB%99c%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "LamDong_US_WAR_03",
-      "year": 1975,
       "date": "1975-04-03",
-      "title": "Giải phóng thành phố Đà Lạt",
       "description": "Trước sức tấn công như vũ bão của quân ta trên toàn chiến trường, chính quyền và quân đội Sài Gòn tại Đà Lạt - Tuyên Đức tháo chạy hỗn loạn về hướng Phan Rang. Cờ giải phóng tung bay tại Tòa thị chính Đà Lạt, đánh dấu sự giải phóng hoàn toàn tỉnh Lâm Đồng.",
+      "id": "LamDong_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Thành phố Đà Lạt",
@@ -158,14 +228,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng thành phố Đà Lạt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thành phố Đà Lạt 1975 Thành phố Đà Lạt, Lâm Đồng Chiến dịch Xuân 1975 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thành phố Đà Lạt",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t+1975+Th%C3%A0nh+ph%E1%BB%91+%C4%90%C3%A0+L%E1%BA%A1t%2C+L%C3%A2m+%C4%90%E1%BB%93ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "LamDong_ADMIN_01",
-      "year": 1976,
-      "date": "1976-02-00",
-      "title": "Hợp nhất tỉnh Lâm Đồng mới",
+      "date": null,
       "description": "Thực hiện chủ trương của Chính phủ Cách mạng Lâm thời, tỉnh Tuyên Đức (gồm Đà Lạt, Đơn Dương, Đức Trọng, Lạc Dương) và tỉnh Lâm Đồng cũ (Bảo Lộc, Di Linh) được hợp nhất thành tỉnh Lâm Đồng ngày nay, tỉnh lỵ đặt tại Đà Lạt.",
+      "id": "LamDong_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -175,14 +254,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Hợp nhất tỉnh Lâm Đồng mới",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hợp nhất tỉnh Lâm Đồng mới 1976 Lâm Đồng Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hợp nhất tỉnh Lâm Đồng mới",
+          "url": "https://www.youtube.com/results?search_query=H%E1%BB%A3p+nh%E1%BA%A5t+t%E1%BB%89nh+L%C3%A2m+%C4%90%E1%BB%93ng+m%E1%BB%9Bi+1976+L%C3%A2m+%C4%90%E1%BB%93ng+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1976
     },
     {
-      "id": "LamDong_CULTURE_01",
-      "year": 2015,
       "date": "2015-06-09",
-      "title": "Khu dự trữ sinh quyển Lang Biang được UNESCO công nhận",
       "description": "UNESCO chính thức công nhận Khu dự trữ sinh quyển thế giới Lang Biang. Đây là khu dự trữ sinh quyển thứ 9 của Việt Nam, khẳng định giá trị đa dạng sinh học đặc biệt của vùng rừng nguyên sinh Tây Nguyên và văn hóa Cồng chiêng bản địa.",
+      "id": "LamDong_CULTURE_01",
       "location": {
         "commune": "Lát",
         "district": "Lạc Dương",
@@ -192,7 +280,24 @@
       "tags": [
         "Môi trường",
         "Di sản UNESCO"
-      ]
+      ],
+      "title": "Khu dự trữ sinh quyển Lang Biang được UNESCO công nhận",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khu dự trữ sinh quyển Lang Biang được UNESCO công nhận 2015 Lát, Lạc Dương, Lâm Đồng Môi trường Di sản UNESCO lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khu dự trữ sinh quyển Lang Biang được UNESCO công nhận",
+          "url": "https://www.youtube.com/results?search_query=Khu+d%E1%BB%B1+tr%E1%BB%AF+sinh+quy%E1%BB%83n+Lang+Biang+%C4%91%C6%B0%E1%BB%A3c+UNESCO+c%C3%B4ng+nh%E1%BA%ADn+2015+L%C3%A1t%2C+L%E1%BA%A1c+D%C6%B0%C6%A1ng%2C+L%C3%A2m+%C4%90%E1%BB%93ng+M%C3%B4i+tr%C6%B0%E1%BB%9Dng+Di+s%E1%BA%A3n+UNESCO+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2015
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/LamDong.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/LamDong_vi.json"
+  }
 }

@@ -121,6 +121,7 @@ const UI_EN = {
     chooseShapePrompt: 'Look at the province/city shape, then choose one answer.',
     noQuestionsForRegion: 'Not enough province/city data for this question set.',
     notCorrect: 'Not quite. The answer is',
+    correctAnswerIs: 'The correct answer is',
     wrongProvinceSelected: 'The province/city you selected is',
     hintShown: 'Hint shown. A correct answer will lose 2 points.',
     skipped: 'Skipped',
@@ -2389,8 +2390,8 @@ async function loadMemoryMap(year) {
                         layer.setStyle(memoryHoverStyle());
                     },
                     mouseout: () => {
-                        if (memoryMode === 'shape') return;
-                        if (!memoryGameActive || !memoryCurrent || memoryCurrent.feature !== feature) {
+                        if (memoryMode === 'shape' || !memoryGameActive || !memoryAcceptingAnswer) return;
+                        if (!memoryCurrent || memoryCurrent.feature !== feature) {
                             layer.setStyle(memoryDefaultStyle(feature));
                         }
                     },
@@ -2455,10 +2456,78 @@ function setMemoryControls(active) {
     setMemoryShapeModeClass(active && memoryMode === 'shape');
 }
 
+function applyMemoryCorrectGlow(layer) {
+    if (!layer) return;
+    if (layer.getElement && layer.getElement()) {
+        L.DomUtil.addClass(layer.getElement(), 'memory-target-correct-glow');
+    }
+    if (layer.eachLayer) {
+        layer.eachLayer(sub => {
+            if (sub.getElement && sub.getElement()) {
+                L.DomUtil.addClass(sub.getElement(), 'memory-target-correct-glow');
+            }
+        });
+    }
+}
+
+function removeMemoryCorrectGlow(layer) {
+    if (!layer) return;
+    if (layer.getElement && layer.getElement()) {
+        L.DomUtil.removeClass(layer.getElement(), 'memory-target-correct-glow');
+    }
+    if (layer.eachLayer) {
+        layer.eachLayer(sub => {
+            if (sub.getElement && sub.getElement()) {
+                L.DomUtil.removeClass(sub.getElement(), 'memory-target-correct-glow');
+            }
+        });
+    }
+}
+
+function highlightMemoryCorrectLayer(layer, isShapeMode = false) {
+    if (!layer) return;
+    if (isShapeMode) {
+        layer.setStyle({
+            ...memoryShapeTargetStyle(),
+            weight: 4,
+            color: '#15803d',
+            fillColor: '#22c55e',
+            fillOpacity: 0.95,
+            opacity: 1
+        });
+    } else {
+        layer.setStyle({
+            weight: 4,
+            color: '#15803d',
+            fillColor: '#22c55e',
+            fillOpacity: 0.95,
+            opacity: 1
+        });
+    }
+    if (layer.bringToFront) layer.bringToFront();
+    if (layer.eachLayer) {
+        layer.eachLayer(sub => {
+            if (sub.bringToFront) sub.bringToFront();
+        });
+    }
+    applyMemoryCorrectGlow(layer);
+}
+
+function flyToMemoryTarget(layer, options = {}) {
+    if (!memoryMap || !layer) return;
+    const padding = options.padding || [70, 70];
+    const maxZoom = options.maxZoom || 8;
+    const duration = options.duration !== undefined ? options.duration : 1.2;
+    if (layer.getBounds && layer.getBounds().isValid && layer.getBounds().isValid()) {
+        memoryMap.flyToBounds(layer.getBounds(), { padding, maxZoom, duration });
+    }
+}
+
 function resetMemoryStyles() {
     if (!memoryProvinceLayer) return;
     memoryProvinceLayer.eachLayer(layer => {
         if (!layer.feature) return;
+        removeMemoryCorrectGlow(layer);
         if (memoryMode === 'shape' && memoryGameActive) {
             const isCurrent = memoryCurrent && memoryCurrent.feature === layer.feature;
             layer.setStyle(isCurrent ? memoryShapeTargetStyle() : memoryHiddenShapeStyle());
@@ -2538,14 +2607,29 @@ function revealMemoryChoices(selectedNorm) {
     });
 }
 
+let memoryNextQuestionTimeout = null;
+
 function finalizeMemoryAnswer(ok, guessedName, expectedName, delay = 1100) {
     addMemoryResult(ok, guessedName, expectedName);
     memoryRound += 1;
     updateMemoryStats();
-    setTimeout(nextMemoryQuestion, delay);
+    if (memoryNextQuestionTimeout) {
+        clearTimeout(memoryNextQuestionTimeout);
+        memoryNextQuestionTimeout = null;
+    }
+    memoryNextQuestionTimeout = setTimeout(() => {
+        memoryNextQuestionTimeout = null;
+        if (memoryGameActive) {
+            nextMemoryQuestion();
+        }
+    }, delay);
 }
 
 async function startMemoryGame() {
+    if (memoryNextQuestionTimeout) {
+        clearTimeout(memoryNextQuestionTimeout);
+        memoryNextQuestionTimeout = null;
+    }
     if (!memoryMap) await loadMemoryMap(getMemoryYear());
     if (memoryFeatures.length === 0) return;
 
@@ -2602,11 +2686,14 @@ function nextMemoryQuestion() {
     if (memoryMode === 'shape') {
         renderMemoryChoices();
         const layer = memoryCurrent.feature.__memoryLayer;
-        if (layer && layer.getBounds) {
-            memoryMap.fitBounds(layer.getBounds(), { padding: [90, 90], maxZoom: 7 });
+        if (layer && layer.getBounds && layer.getBounds().isValid()) {
+            memoryMap.flyToBounds(layer.getBounds(), { padding: [90, 90], maxZoom: 7, duration: 0.8 });
         }
     } else {
         document.getElementById('memoryChoices')?.classList.add('hidden');
+        if (memoryProvinceLayer && memoryProvinceLayer.getBounds().isValid()) {
+            memoryMap.flyToBounds(memoryProvinceLayer.getBounds(), { padding: [20, 20], duration: 0.8 });
+        }
     }
     updateMemoryStats();
 }
@@ -2625,17 +2712,25 @@ function handleMemoryGuess(feature, layer) {
         const hintPenalty = memoryHintUsed ? 2 : 0;
         const gained = Math.max(5, 10 + bonus - hintPenalty);
         memoryScore += gained;
-        layer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
+        highlightMemoryCorrectLayer(layer, false);
         feedback.className = 'memory-feedback correct';
         feedback.textContent = `${tr('correct', 'Đúng')}: ${getFeatureName(feature)}. +${gained} ${tr('points', 'điểm')}.`;
-        finalizeMemoryAnswer(true, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
+        finalizeMemoryAnswer(true, getFeatureName(feature), getFeatureName(memoryCurrent.feature), 1100);
     } else {
         memoryStreak = 0;
-        layer.setStyle({ weight: 4, color: '#b71c1c', fillOpacity: 0.82 });
-        memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
+        // Đánh dấu tỉnh người dùng chọn sai màu đỏ
+        layer.setStyle({ weight: 3, color: '#dc2626', fillColor: '#ef4444', fillOpacity: 0.75, opacity: 1 });
+        if (layer.bringToFront) layer.bringToFront();
+
+        // Làm sáng tỉnh đúng và chuyển camera tới vị trí đúng trong 4s
+        const correctLayer = memoryCurrent.feature.__memoryLayer;
+        if (correctLayer) {
+            highlightMemoryCorrectLayer(correctLayer, false);
+            flyToMemoryTarget(correctLayer, { padding: [60, 60], maxZoom: 8, duration: 1.2 });
+        }
         feedback.className = 'memory-feedback wrong';
-        feedback.textContent = `${tr('wrongProvinceSelected', 'Tỉnh/TP mà bạn đang chọn là')} ${getFeatureName(feature)}.`;
-        finalizeMemoryAnswer(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
+        feedback.textContent = `${tr('wrongProvinceSelected', 'Tỉnh/TP mà bạn đang chọn là')} ${getFeatureName(feature)}. ${tr('correctAnswerIs', 'Đáp án đúng là')} ${getFeatureName(memoryCurrent.feature)}.`;
+        finalizeMemoryAnswer(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature), 4000);
     }
 }
 
@@ -2648,22 +2743,29 @@ function handleMemoryChoice(feature, button) {
     memoryAcceptingAnswer = false;
     revealMemoryChoices(guessed);
 
+    const correctLayer = memoryCurrent.feature.__memoryLayer;
+
     if (guessed === expected) {
         memoryStreak += 1;
         const bonus = Math.min(memoryStreak - 1, 5);
         const gained = 10 + bonus;
         memoryScore += gained;
-        memoryCurrent.feature.__memoryLayer.setStyle({ ...memoryShapeTargetStyle(), color: '#1b5e20', fillOpacity: 0.86 });
+        if (correctLayer) {
+            highlightMemoryCorrectLayer(correctLayer, true);
+        }
         feedback.className = 'memory-feedback correct';
         feedback.textContent = `${tr('correct', 'Đúng')}: ${getFeatureName(feature)}. +${gained} ${tr('points', 'điểm')}.`;
-        finalizeMemoryAnswer(true, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
+        finalizeMemoryAnswer(true, getFeatureName(feature), getFeatureName(memoryCurrent.feature), 1100);
     } else {
         memoryStreak = 0;
         if (button) button.classList.add('wrong');
-        memoryCurrent.feature.__memoryLayer.setStyle({ ...memoryShapeTargetStyle(), color: '#1b5e20', fillOpacity: 0.86 });
+        if (correctLayer) {
+            highlightMemoryCorrectLayer(correctLayer, true);
+            flyToMemoryTarget(correctLayer, { padding: [80, 80], maxZoom: 7, duration: 0.8 });
+        }
         feedback.className = 'memory-feedback wrong';
-        feedback.textContent = `${tr('wrongProvinceSelected', 'Tỉnh/TP mà bạn đang chọn là')} ${getFeatureName(feature)}.`;
-        finalizeMemoryAnswer(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature));
+        feedback.textContent = `${tr('wrongProvinceSelected', 'Tỉnh/TP mà bạn đang chọn là')} ${getFeatureName(feature)}. ${tr('correctAnswerIs', 'Đáp án đúng là')} ${getFeatureName(memoryCurrent.feature)}.`;
+        finalizeMemoryAnswer(false, getFeatureName(feature), getFeatureName(memoryCurrent.feature), 4000);
     }
 }
 
@@ -2681,9 +2783,10 @@ function showMemoryHint() {
     memoryHintUsed = true;
     document.getElementById('memoryHintBtn').disabled = true;
     const layer = memoryCurrent.feature.__memoryLayer;
-    if (layer && layer.getBounds) {
-        memoryMap.fitBounds(layer.getBounds(), { padding: [80, 80], maxZoom: 8 });
+    if (layer && layer.getBounds && layer.getBounds().isValid()) {
+        memoryMap.flyToBounds(layer.getBounds(), { padding: [80, 80], maxZoom: 8, duration: 1.0 });
         layer.setStyle({ weight: 4, color: '#fdd835', fillOpacity: 0.8 });
+        if (layer.bringToFront) layer.bringToFront();
     }
     document.getElementById('memoryFeedback').className = 'memory-feedback';
     document.getElementById('memoryFeedback').textContent = tr('hintShown', 'Gợi ý đã khoanh vùng đáp án. Trả lời đúng sẽ bị trừ 2 điểm.');
@@ -2693,18 +2796,26 @@ function skipMemoryQuestion() {
     if (!memoryGameActive || !memoryAcceptingAnswer || !memoryCurrent) return;
     memoryAcceptingAnswer = false;
     memoryStreak = 0;
-    if (memoryMode === 'shape') {
-        revealMemoryChoices(null);
-        memoryCurrent.feature.__memoryLayer.setStyle({ ...memoryShapeTargetStyle(), color: '#1b5e20', fillOpacity: 0.86 });
-    } else {
-        memoryCurrent.feature.__memoryLayer.setStyle({ weight: 4, color: '#1b5e20', fillOpacity: 0.86 });
+    const targetLayer = memoryCurrent.feature.__memoryLayer;
+    if (targetLayer) {
+        if (memoryMode === 'shape') {
+            revealMemoryChoices(null);
+            highlightMemoryCorrectLayer(targetLayer, true);
+        } else {
+            highlightMemoryCorrectLayer(targetLayer, false);
+        }
+        flyToMemoryTarget(targetLayer, { padding: [60, 60], maxZoom: 8, duration: 1.2 });
     }
     document.getElementById('memoryFeedback').className = 'memory-feedback wrong';
     document.getElementById('memoryFeedback').textContent = `${tr('skippedAnswer', 'Đã bỏ qua. Đáp án là')} ${getFeatureName(memoryCurrent.feature)}.`;
-    finalizeMemoryAnswer(false, tr('skipped', 'Bỏ qua'), getFeatureName(memoryCurrent.feature), 900);
+    finalizeMemoryAnswer(false, tr('skipped', 'Bỏ qua'), getFeatureName(memoryCurrent.feature), 4000);
 }
 
 function finishMemoryGame() {
+    if (memoryNextQuestionTimeout) {
+        clearTimeout(memoryNextQuestionTimeout);
+        memoryNextQuestionTimeout = null;
+    }
     memoryGameActive = false;
     memoryAcceptingAnswer = false;
     setMemoryControls(false);
@@ -2722,6 +2833,10 @@ function finishMemoryGame() {
 }
 
 function resetMemoryGame() {
+    if (memoryNextQuestionTimeout) {
+        clearTimeout(memoryNextQuestionTimeout);
+        memoryNextQuestionTimeout = null;
+    }
     memoryGameActive = false;
     memoryAcceptingAnswer = false;
     memoryQuestions = [];

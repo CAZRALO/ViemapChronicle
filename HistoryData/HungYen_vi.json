@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "HungYen_EARLY_01",
-      "year": 547,
       "date": null,
-      "title": "Xây dựng căn cứ Dạ Trạch (Nhất Dạ Trạch)",
       "description": "Sau khi Lý Nam Đế thất thủ, Triệu Quang Phục (Triệu Việt Vương) đã lui quân về đầm Dạ Trạch, sử dụng chiến thuật đánh du kích độc đáo để cầm cự và tiêu hao lực lượng quân Lương, viết nên trang sử hào hùng của vùng đất này.",
+      "id": "HungYen_EARLY_01",
       "location": {
         "commune": "Dạ Trạch",
         "district": "Khoái Châu",
@@ -17,14 +15,23 @@
       "tags": [
         "Tiền Lý",
         "Chống ngoại xâm"
-      ]
+      ],
+      "title": "Xây dựng căn cứ Dạ Trạch (Nhất Dạ Trạch)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng căn cứ Dạ Trạch (Nhất Dạ Trạch) 547 Dạ Trạch, Khoái Châu, Hưng Yên Triệu Việt Vương Tiền Lý Chống ngoại xâm lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng căn cứ Dạ Trạch (Nhất Dạ Trạch)",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+c%C4%83n+c%E1%BB%A9+D%E1%BA%A1+Tr%E1%BA%A1ch+%28Nh%E1%BA%A5t+D%E1%BA%A1+Tr%E1%BA%A1ch%29+547+D%E1%BA%A1+Tr%E1%BA%A1ch%2C+Kho%C3%A1i+Ch%C3%A2u%2C+H%C6%B0ng+Y%C3%AAn+Tri%E1%BB%87u+Vi%E1%BB%87t+V%C6%B0%C6%A1ng+Ti%E1%BB%81n+L%C3%BD+Ch%E1%BB%91ng+ngo%E1%BA%A1i+x%C3%A2m+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 547
     },
     {
-      "id": "HungYen_LE_TRINH_01",
-      "year": 1600,
       "date": null,
-      "title": "Hưng thịnh Phố Hiến",
-      "description": "Vào thế kỷ 17, Phố Hiến phát triển rực rỡ, trở thành thương cảng sầm uất với câu ca 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'. Nơi đây tập trung nhiều thương điếm của người Hà Lan, Anh, Pháp, Nhật Bản, Trung Quốc.",
+      "description": "Trong thế kỷ XVII, Phố Hiến phát triển mạnh thành một đô thị - thương cảng lớn ở Đàng Ngoài, nơi có hoạt động buôn bán của nhiều cộng đồng thương nhân trong và ngoài nước. Sự hưng thịnh này được dân gian đúc kết qua câu 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'.",
+      "id": "HungYen_LE_TRINH_01",
       "location": {
         "commune": "Lam Sơn",
         "district": "Hưng Yên",
@@ -34,50 +41,78 @@
       "tags": [
         "Kinh tế",
         "Thương cảng"
-      ]
+      ],
+      "title": "Phố Hiến phát triển thành thương cảng lớn (thế kỷ XVII)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Phố Hiến phát triển thành thương cảng lớn (thế kỷ XVII) 1600 Lam Sơn, Hưng Yên, Hưng Yên Kinh tế Thương cảng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Phố Hiến phát triển thành thương cảng lớn (thế kỷ XVII)",
+          "url": "https://www.youtube.com/results?search_query=Ph%E1%BB%91+Hi%E1%BA%BFn+ph%C3%A1t+tri%E1%BB%83n+th%C3%A0nh+th%C6%B0%C6%A1ng+c%E1%BA%A3ng+l%E1%BB%9Bn+%28th%E1%BA%BF+k%E1%BB%B7+XVII%29+1600+Lam+S%C6%A1n%2C+H%C6%B0ng+Y%C3%AAn%2C+H%C6%B0ng+Y%C3%AAn+Kinh+t%E1%BA%BF+Th%C6%B0%C6%A1ng+c%E1%BA%A3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1600
     },
     {
-      "id": "HungYen_FRENCH_01",
-      "year": 1883,
       "date": null,
-      "title": "Khởi nghĩa Bãi Sậy",
-      "description": "Tán tương quân vụ Nguyễn Thiện Thuật chọn vùng lau sậy rậm rạp thuộc các huyện Văn Lâm, Văn Giang, Khoái Châu, Yên Mỹ làm căn cứ kháng Pháp. Nghĩa quân áp dụng lối đánh du kích linh hoạt, gây nhiều tổn thất cho quân Pháp trong gần 10 năm.",
+      "description": "Khởi nghĩa Bãi Sậy hình thành từ phong trào chống Pháp ở vùng đầm lầy, lau sậy Hưng Yên từ năm 1883, ban đầu gắn với Đinh Gia Quế; từ năm 1885, Nguyễn Thiện Thuật trở thành lãnh tụ tiêu biểu và đưa cuộc khởi nghĩa phát triển mạnh trong phong trào Cần Vương.",
+      "id": "HungYen_FRENCH_01",
       "location": {
         "commune": null,
         "district": "Yên Mỹ",
         "province": "Hưng Yên"
       },
       "related_figures": [
+        "Đinh Gia Quế",
         "Nguyễn Thiện Thuật"
       ],
       "tags": [
         "Phong trào Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Khởi nghĩa Bãi Sậy",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Bãi Sậy 1883 Yên Mỹ, Hưng Yên Đinh Gia Quế Nguyễn Thiện Thuật Phong trào Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Bãi Sậy",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+B%C3%A3i+S%E1%BA%ADy+1883+Y%C3%AAn+M%E1%BB%B9%2C+H%C6%B0ng+Y%C3%AAn+%C4%90inh+Gia+Qu%E1%BA%BF+Nguy%E1%BB%85n+Thi%E1%BB%87n+Thu%E1%BA%ADt+Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1883
     },
     {
+      "date": null,
+      "description": "Cuối năm 1929, Chi bộ Hội Việt Nam Cách mạng Thanh niên Sài Thị chuyển thành Chi bộ Đông Dương Cộng sản Đảng Sài Thị. Đây là tổ chức cộng sản sớm, có vai trò quan trọng trong quá trình hình thành phong trào cách mạng ở Hưng Yên.",
       "id": "HungYen_REV_01",
-      "year": 1929,
-      "date": "1929-12-01",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
-      "description": "Tại gốc cây đa Sài Thị, Chi bộ Cộng sản đầu tiên của tỉnh Hưng Yên được thành lập dưới sự chỉ đạo của Xứ ủy Bắc Kỳ. Đây là hạt nhân lãnh đạo phong trào cách mạng của tỉnh trong giai đoạn sơ khai.",
       "location": {
-        "commune": "Đại Tập",
+        "commune": "Sài Thị",
         "district": "Khoái Châu",
         "province": "Hưng Yên"
       },
       "related_figures": [],
       "tags": [
-        "Thành lập Đảng",
+        "Tổ chức cộng sản",
         "Cách mạng"
-      ]
+      ],
+      "title": "Chi bộ Sài Thị chuyển thành Chi bộ Đông Dương Cộng sản Đảng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chi bộ Sài Thị chuyển thành Chi bộ Đông Dương Cộng sản Đảng 1929 Sài Thị, Khoái Châu, Hưng Yên Tổ chức cộng sản Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chi bộ Sài Thị chuyển thành Chi bộ Đông Dương Cộng sản Đảng",
+          "url": "https://www.youtube.com/results?search_query=Chi+b%E1%BB%99+S%C3%A0i+Th%E1%BB%8B+chuy%E1%BB%83n+th%C3%A0nh+Chi+b%E1%BB%99+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%90%E1%BA%A3ng+1929+S%C3%A0i+Th%E1%BB%8B%2C+Kho%C3%A1i+Ch%C3%A2u%2C+H%C6%B0ng+Y%C3%AAn+T%E1%BB%95+ch%E1%BB%A9c+c%E1%BB%99ng+s%E1%BA%A3n+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "HungYen_REV_02",
-      "year": 1945,
       "date": "1945-08-22",
-      "title": "Giành chính quyền tại Hưng Yên",
       "description": "Lực lượng Việt Minh cùng hàng nghìn quần chúng nhân dân từ các huyện ập vào bao vây Dinh Tỉnh trưởng. Trước sức mạnh của cách mạng, Tỉnh trưởng Hưng Yên buộc phải đầu hàng và bàn giao ấn tín, chính quyền về tay nhân dân.",
+      "id": "HungYen_REV_02",
       "location": {
         "commune": null,
         "district": "Hưng Yên",
@@ -87,34 +122,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
-    },
-    {
-      "id": "HungYen_FRENCH_WAR_01",
-      "year": 1949,
-      "date": "1949-05-01",
-      "title": "Thành lập Đội nữ du kích Hoàng Ngân",
-      "description": "Tỉnh ủy Hưng Yên quyết định thành lập đội nữ du kích tập trung mang tên liệt sĩ Hoàng Ngân. Đội đã lập nhiều chiến công xuất sắc trong công tác địch vận, phá tề, trừ gian và trực tiếp chiến đấu, trở thành biểu tượng của phụ nữ Hưng Yên.",
-      "location": {
-        "commune": null,
-        "district": null,
-        "province": "Hưng Yên"
-      },
-      "related_figures": [
-        "Hoàng Ngân",
-        "Vũ Thị Kính"
       ],
-      "tags": [
-        "Kháng chiến chống Pháp",
-        "Phụ nữ"
-      ]
+      "title": "Giành chính quyền tại Hưng Yên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Hưng Yên 1945 Hưng Yên, Hưng Yên Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Hưng Yên",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+H%C6%B0ng+Y%C3%AAn+1945+H%C6%B0ng+Y%C3%AAn%2C+H%C6%B0ng+Y%C3%AAn+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "HungYen_FRENCH_WAR_02",
-      "year": 1950,
       "date": null,
-      "title": "Sự kiện Cây đa La Tiến",
-      "description": "Trong thời kỳ tạm chiếm, thực dân Pháp và tay sai đã biến khu vực bốt La Tiến và cây đa cổ thụ tại đây thành nơi hành quyết tàn bạo hơn 1.000 cán bộ, chiến sĩ và người dân yêu nước, biến nơi đây thành chứng tích tội ác chiến tranh.",
+      "description": "Trong những năm Hưng Yên bị tạm chiếm, khu vực bốt La Tiến và cây đa bên sông Luộc là nơi quân Pháp và tay sai giam giữ, tra tấn, sát hại nhiều cán bộ, chiến sĩ và người dân yêu nước. Di tích La Tiến ngày nay là địa chỉ tưởng niệm và giáo dục truyền thống.",
+      "id": "HungYen_FRENCH_WAR_02",
       "location": {
         "commune": "Nguyên Hòa",
         "district": "Phù Cừ",
@@ -124,14 +148,52 @@
       "tags": [
         "Tội ác chiến tranh",
         "Di tích lịch sử"
-      ]
+      ],
+      "title": "Bốt và Cây đa La Tiến - chứng tích tội ác chiến tranh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bốt và Cây đa La Tiến - chứng tích tội ác chiến tranh 1949 Nguyên Hòa, Phù Cừ, Hưng Yên Tội ác chiến tranh Di tích lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bốt và Cây đa La Tiến - chứng tích tội ác chiến tranh",
+          "url": "https://www.youtube.com/results?search_query=B%E1%BB%91t+v%C3%A0+C%C3%A2y+%C4%91a+La+Ti%E1%BA%BFn+-+ch%E1%BB%A9ng+t%C3%ADch+t%E1%BB%99i+%C3%A1c+chi%E1%BA%BFn+tranh+1949+Nguy%C3%AAn+H%C3%B2a%2C+Ph%C3%B9+C%E1%BB%AB%2C+H%C6%B0ng+Y%C3%AAn+T%E1%BB%99i+%C3%A1c+chi%E1%BA%BFn+tranh+Di+t%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1949
     },
     {
+      "date": "1950-02-02",
+      "description": "Ngày 2/2/1950, tại một hội nghị của tỉnh, phong trào nữ du kích Hoàng Ngân được đề xuất, tổ chức và sau đó phát triển rộng khắp Hưng Yên, tham gia địch vận, phá tề, trừ gian và chiến đấu trong vùng địch hậu.",
+      "id": "HungYen_FRENCH_WAR_01",
+      "location": {
+        "commune": null,
+        "district": null,
+        "province": "Hưng Yên"
+      },
+      "related_figures": [
+        "Hoàng Ngân"
+      ],
+      "tags": [
+        "Kháng chiến chống Pháp",
+        "Nữ du kích",
+        "Hoàng Ngân"
+      ],
+      "title": "Phát động phong trào nữ du kích Hoàng Ngân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Phát động phong trào nữ du kích Hoàng Ngân 1950 Hưng Yên Hoàng Ngân Kháng chiến chống Pháp Nữ du kích Hoàng Ngân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Phát động phong trào nữ du kích Hoàng Ngân",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1t+%C4%91%E1%BB%99ng+phong+tr%C3%A0o+n%E1%BB%AF+du+k%C3%ADch+Ho%C3%A0ng+Ng%C3%A2n+1950+H%C6%B0ng+Y%C3%AAn+Ho%C3%A0ng+Ng%C3%A2n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+N%E1%BB%AF+du+k%C3%ADch+Ho%C3%A0ng+Ng%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
+    },
+    {
+      "date": "1951-09-25",
+      "description": "Ngày 25/9/1951, lực lượng vũ trang Hưng Yên phối hợp chiến đấu chống một cuộc càn quét lớn của quân Pháp tại khu vực Phan Tống Xá - Long Cầu. Trận đánh gây thiệt hại cho đối phương và góp phần bảo vệ cơ sở kháng chiến trong vùng địch hậu.",
       "id": "HungYen_FRENCH_WAR_03",
-      "year": 1953,
-      "date": "1953-12-03",
-      "title": "Trận chống càn tại Phan Tống Xá",
-      "description": "Tiểu đoàn Bạch Đằng và bộ đội địa phương huyện Tiên Lữ đã dũng cảm chặn đánh một cuộc càn quét lớn của quân Pháp (có xe tăng yểm trợ) vào làng Phan Tống Xá, bảo vệ an toàn cho cơ sở kháng chiến.",
       "location": {
         "commune": "Thiện Phiến",
         "district": "Tiên Lữ",
@@ -141,14 +203,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Quân sự"
-      ]
+      ],
+      "title": "Trận Phan Tống Xá - Long Cầu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Phan Tống Xá - Long Cầu 1951 Thiện Phiến, Tiên Lữ, Hưng Yên Kháng chiến chống Pháp Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Phan Tống Xá - Long Cầu",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Phan+T%E1%BB%91ng+X%C3%A1+-+Long+C%E1%BA%A7u+1951+Thi%E1%BB%87n+Phi%E1%BA%BFn%2C+Ti%C3%AAn+L%E1%BB%AF%2C+H%C6%B0ng+Y%C3%AAn+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1951
     },
     {
-      "id": "HungYen_ADMIN_01",
-      "year": 1968,
       "date": "1968-01-26",
-      "title": "Thành lập tỉnh Hải Hưng",
       "description": "Hợp nhất tỉnh Hưng Yên và Hải Dương thành tỉnh Hải Hưng theo Nghị quyết của Quốc hội. Trong giai đoạn này, nhân dân Hưng Yên đã đóng góp lớn sức người, sức của cho chiến trường miền Nam.",
+      "id": "HungYen_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -158,14 +229,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hải Hưng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hải Hưng 1968 Hưng Yên Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hải Hưng",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%E1%BA%A3i+H%C6%B0ng+1968+H%C6%B0ng+Y%C3%AAn+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Hải Hưng. Tỉnh Hưng Yên tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "HungYen_ADMIN_02",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Hưng Yên",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Hải Hưng. Tỉnh Hưng Yên được tái lập và chính thức đi vào hoạt động từ ngày 01/01/1997, mở ra thời kỳ phát triển kinh tế công nghiệp mạnh mẽ.",
       "location": {
         "commune": null,
         "district": null,
@@ -175,7 +255,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Hưng Yên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Hưng Yên 1997 Hưng Yên Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Hưng Yên",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+H%C6%B0ng+Y%C3%AAn+1997+H%C6%B0ng+Y%C3%AAn+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HungYen.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HungYen_vi.json"
+  }
 }

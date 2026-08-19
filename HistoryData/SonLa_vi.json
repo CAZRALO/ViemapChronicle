@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "SonLa_LE_01",
-      "year": 1440,
       "date": null,
-      "title": "Vua Lê Thái Tông đề thơ tại Quế Lâm Ngự Chế",
       "description": "Sau khi thân chinh cầm quân dẹp loạn Thượng Nghiễm tại vùng Tây Bắc, vua Lê Thái Tông đã nghỉ chân tại động Thẩm Báo và khắc bài thơ 'Quế Lâm Ngự Chế' lên vách đá, khẳng định chủ quyền lãnh thổ quốc gia Đại Việt.",
+      "id": "SonLa_LE_01",
       "location": {
         "commune": "Chiềng Lề",
         "district": "Thành phố Sơn La",
@@ -18,14 +16,23 @@
         "Nhà Lê Sơ",
         "Chủ quyền",
         "Văn hóa"
-      ]
+      ],
+      "title": "Vua Lê Thái Tông đề thơ tại Quế Lâm Ngự Chế",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vua Lê Thái Tông đề thơ tại Quế Lâm Ngự Chế 1440 Chiềng Lề, Thành phố Sơn La, Sơn La Lê Thái Tông Nhà Lê Sơ Chủ quyền Văn hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vua Lê Thái Tông đề thơ tại Quế Lâm Ngự Chế",
+          "url": "https://www.youtube.com/results?search_query=Vua+L%C3%AA+Th%C3%A1i+T%C3%B4ng+%C4%91%E1%BB%81+th%C6%A1+t%E1%BA%A1i+Qu%E1%BA%BF+L%C3%A2m+Ng%E1%BB%B1+Ch%E1%BA%BF+1440+Chi%E1%BB%81ng+L%E1%BB%81%2C+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+L%C3%AA+Th%C3%A1i+T%C3%B4ng+Nh%C3%A0+L%C3%AA+S%C6%A1+Ch%E1%BB%A7+quy%E1%BB%81n+V%C4%83n+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1440
     },
     {
-      "id": "SonLa_COLONIAL_01",
-      "year": 1895,
       "date": "1895-10-10",
-      "title": "Thành lập tỉnh Sơn La",
-      "description": "Toàn quyền Đông Dương Rousseau ký Nghị định thành lập tỉnh Sơn La trên cơ sở tách đất từ tỉnh Hưng Hóa. Tỉnh lỵ ban đầu đặt tại Vạn Yên (Phù Yên), sau chuyển về đồi Khau Cả (thành phố Sơn La ngày nay).",
+      "description": "Ngày 10/10/1895, chính quyền Pháp thành lập tỉnh Vạn Bú trên vùng Tây Bắc. Đơn vị hành chính này là tiền thân quan trọng của tỉnh Sơn La; tên tỉnh Sơn La được sử dụng ở giai đoạn tổ chức hành chính sau đó.",
+      "id": "SonLa_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Thành phố Sơn La",
@@ -35,14 +42,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Vạn Bú (tiền thân tỉnh Sơn La)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Vạn Bú (tiền thân tỉnh Sơn La) 1895 Thành phố Sơn La, Sơn La Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Vạn Bú (tiền thân tỉnh Sơn La)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+V%E1%BA%A1n+B%C3%BA+%28ti%E1%BB%81n+th%C3%A2n+t%E1%BB%89nh+S%C6%A1n+La%29+1895+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1895
     },
     {
-      "id": "SonLa_COLONIAL_02",
-      "year": 1908,
       "date": null,
-      "title": "Xây dựng Nhà tù Sơn La",
       "description": "Thực dân Pháp xây dựng nhà tù kiên cố trên đồi Khau Cả để giam giữ tù nhân chính trị. Nơi đây được ví như 'địa ngục trần gian' nhưng đã trở thành trường học cách mạng đào tạo nên nhiều chiến sĩ cộng sản kiên trung.",
+      "id": "SonLa_COLONIAL_02",
       "location": {
         "commune": "Tô Hiệu",
         "district": "Thành phố Sơn La",
@@ -52,14 +68,23 @@
       "tags": [
         "Pháp thuộc",
         "Nhà tù Sơn La"
-      ]
+      ],
+      "title": "Xây dựng Nhà tù Sơn La",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Nhà tù Sơn La 1908 Tô Hiệu, Thành phố Sơn La, Sơn La Pháp thuộc Nhà tù Sơn La lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Nhà tù Sơn La",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+Nh%C3%A0+t%C3%B9+S%C6%A1n+La+1908+T%C3%B4+Hi%E1%BB%87u%2C+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+Ph%C3%A1p+thu%E1%BB%99c+Nh%C3%A0+t%C3%B9+S%C6%A1n+La+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1908
     },
     {
-      "id": "SonLa_REV_01",
-      "year": 1939,
       "date": "1939-12-01",
-      "title": "Thành lập Chi bộ Đảng tại Nhà tù Sơn La",
       "description": "Tại xà lim của Nhà tù Sơn La, Chi bộ Cộng sản được bí mật thành lập do đồng chí Nguyễn Lương Bằng làm Bí thư (sau đó là Tô Hiệu). Chi bộ đã biến nhà tù thành trường học cách mạng, lãnh đạo cuộc đấu tranh của tù nhân.",
+      "id": "SonLa_REV_01",
       "location": {
         "commune": "Tô Hiệu",
         "district": "Thành phố Sơn La",
@@ -72,14 +97,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng tại Nhà tù Sơn La",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng tại Nhà tù Sơn La 1939 Tô Hiệu, Thành phố Sơn La, Sơn La Nguyễn Lương Bằng Tô Hiệu Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng tại Nhà tù Sơn La",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+t%E1%BA%A1i+Nh%C3%A0+t%C3%B9+S%C6%A1n+La+1939+T%C3%B4+Hi%E1%BB%87u%2C+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+Nguy%E1%BB%85n+L%C6%B0%C6%A1ng+B%E1%BA%B1ng+T%C3%B4+Hi%E1%BB%87u+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1939
     },
     {
-      "id": "SonLa_REV_02",
-      "year": 1945,
       "date": "1945-08-26",
-      "title": "Khởi nghĩa giành chính quyền tại Sơn La",
       "description": "Lực lượng Thanh niên Cứu quốc Mường La và quần chúng nhân dân mang cờ đỏ sao vàng và vũ khí thô sơ tràn lên đồi Khau Cả, chiếm Dinh Công sứ và Trại Bảo an binh. Chính quyền cách mạng lâm thời tỉnh Sơn La được thành lập.",
+      "id": "SonLa_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Sơn La",
@@ -91,14 +125,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Khởi nghĩa giành chính quyền tại Sơn La",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa giành chính quyền tại Sơn La 1945 Thành phố Sơn La, Sơn La Chu Văn Thịnh Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa giành chính quyền tại Sơn La",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+S%C6%A1n+La+1945+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+Chu+V%C4%83n+Th%E1%BB%8Bnh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "SonLa_FRENCH_WAR_01",
-      "year": 1952,
       "date": "1952-11-22",
-      "title": "Giải phóng Sơn La (Chiến dịch Tây Bắc)",
       "description": "Trung đoàn 148 và các đơn vị chủ lực tấn công truy kích quân Pháp rút chạy từ Nghĩa Lộ. Quân Pháp tại thị xã Sơn La bỏ chạy về Nà Sản. Bộ đội ta tiến vào tiếp quản thị xã, giải phóng tỉnh Sơn La (trừ tập đoàn cứ điểm Nà Sản).",
+      "id": "SonLa_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Sơn La",
@@ -108,14 +151,23 @@
       "tags": [
         "Chiến dịch Tây Bắc",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Sơn La (Chiến dịch Tây Bắc)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Sơn La (Chiến dịch Tây Bắc) 1952 Thành phố Sơn La, Sơn La Chiến dịch Tây Bắc Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Sơn La (Chiến dịch Tây Bắc)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+S%C6%A1n+La+%28Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+B%E1%BA%AFc%29+1952+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+B%E1%BA%AFc+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "SonLa_FRENCH_WAR_02",
-      "year": 1953,
       "date": null,
-      "title": "Bảo vệ Ngã ba Cò Nòi",
       "description": "Ngã ba Cò Nòi là tử huyệt giao thông trên đường 6, nơi quân Pháp ném xuống 300 tấn bom đạn nhằm cắt đứt đường tiếp tế cho Điện Biên Phủ. Lực lượng Thanh niên xung phong đã bám trụ kiên cường 'Sống bám cầu đường, chết kiên cường dũng cảm' để thông xe.",
+      "id": "SonLa_FRENCH_WAR_02",
       "location": {
         "commune": "Cò Nòi",
         "district": "Mai Sơn",
@@ -125,14 +177,23 @@
       "tags": [
         "Điện Biên Phủ",
         "Thanh niên xung phong"
-      ]
+      ],
+      "title": "Bảo vệ Ngã ba Cò Nòi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bảo vệ Ngã ba Cò Nòi 1953 Cò Nòi, Mai Sơn, Sơn La Điện Biên Phủ Thanh niên xung phong lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bảo vệ Ngã ba Cò Nòi",
+          "url": "https://www.youtube.com/results?search_query=B%E1%BA%A3o+v%E1%BB%87+Ng%C3%A3+ba+C%C3%B2+N%C3%B2i+1953+C%C3%B2+N%C3%B2i%2C+Mai+S%C6%A1n%2C+S%C6%A1n+La+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+Thanh+ni%C3%AAn+xung+phong+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
+      "date": null,
+      "description": "Tháng 8/1953, quân Pháp tổ chức rút lực lượng khỏi tập đoàn cứ điểm Nà Sản bằng đường không. Việc rút bỏ cứ điểm làm thay đổi thế bố trí quân sự của Pháp ở Tây Bắc trước Chiến dịch Điện Biên Phủ.",
       "id": "SonLa_FRENCH_WAR_03",
-      "year": 1953,
-      "date": "1953-08-12",
-      "title": "Pháp rút khỏi Nà Sản",
-      "description": "Tập đoàn cứ điểm Nà Sản (được Pháp xây dựng năm 1952 làm mẫu cho Điện Biên Phủ) bị cô lập hoàn toàn. Quân Pháp buộc phải tổ chức cuộc rút quân bằng đường không (Cuộc hành quân Hirondelle) tháo chạy về Hà Nội, Sơn La hoàn toàn sạch bóng quân thù.",
       "location": {
         "commune": "Hát Lót",
         "district": "Mai Sơn",
@@ -144,14 +205,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Nà Sản"
-      ]
+      ],
+      "title": "Pháp rút khỏi Nà Sản",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Pháp rút khỏi Nà Sản 1953 Hát Lót, Mai Sơn, Sơn La Raoul Salan Kháng chiến chống Pháp Nà Sản lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Pháp rút khỏi Nà Sản",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1p+r%C3%BAt+kh%E1%BB%8Fi+N%C3%A0+S%E1%BA%A3n+1953+H%C3%A1t+L%C3%B3t%2C+Mai+S%C6%A1n%2C+S%C6%A1n+La+Raoul+Salan+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+N%C3%A0+S%E1%BA%A3n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1953
     },
     {
-      "id": "SonLa_ADMIN_01",
-      "year": 1955,
       "date": "1955-05-07",
-      "title": "Lễ ra mắt Khu tự trị Thái - Mèo",
       "description": "Hơn một vạn đồng bào các dân tộc đã mít tinh tại thủ phủ Thuận Châu chào mừng sự thành lập Khu tự trị Thái - Mèo. Đây là sự kiện chính trị lớn, thực hiện quyền bình đẳng, tự quyết của các dân tộc Tây Bắc.",
+      "id": "SonLa_ADMIN_01",
       "location": {
         "commune": "Thuận Châu",
         "district": "Thuận Châu",
@@ -161,14 +231,23 @@
       "tags": [
         "Hành chính",
         "Khu tự trị"
-      ]
+      ],
+      "title": "Lễ ra mắt Khu tự trị Thái - Mèo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lễ ra mắt Khu tự trị Thái - Mèo 1955 Thuận Châu, Thuận Châu, Sơn La Hành chính Khu tự trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lễ ra mắt Khu tự trị Thái - Mèo",
+          "url": "https://www.youtube.com/results?search_query=L%E1%BB%85+ra+m%E1%BA%AFt+Khu+t%E1%BB%B1+tr%E1%BB%8B+Th%C3%A1i+-+M%C3%A8o+1955+Thu%E1%BA%ADn+Ch%C3%A2u%2C+Thu%E1%BA%ADn+Ch%C3%A2u%2C+S%C6%A1n+La+H%C3%A0nh+ch%C3%ADnh+Khu+t%E1%BB%B1+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1955
     },
     {
-      "id": "SonLa_ECONOMY_01",
-      "year": 1958,
       "date": "1958-04-08",
-      "title": "Thành lập Nông trường Mộc Châu",
       "description": "Các chiến sĩ Trung đoàn 280 (Sư đoàn 335) sau khi hoàn thành nhiệm vụ quốc tế tại Lào đã chuyển sang làm kinh tế, thành lập Nông trường Quân đội Mộc Châu, mở đầu cho công cuộc xây dựng cao nguyên Mộc Châu trù phú.",
+      "id": "SonLa_ECONOMY_01",
       "location": {
         "commune": null,
         "district": "Mộc Châu",
@@ -178,14 +257,23 @@
       "tags": [
         "Kinh tế",
         "Nông trường"
-      ]
+      ],
+      "title": "Thành lập Nông trường Mộc Châu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Nông trường Mộc Châu 1958 Mộc Châu, Sơn La Kinh tế Nông trường lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Nông trường Mộc Châu",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+N%C3%B4ng+tr%C6%B0%E1%BB%9Dng+M%E1%BB%99c+Ch%C3%A2u+1958+M%E1%BB%99c+Ch%C3%A2u%2C+S%C6%A1n+La+Kinh+t%E1%BA%BF+N%C3%B4ng+tr%C6%B0%E1%BB%9Dng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1958
     },
     {
-      "id": "SonLa_US_WAR_01",
-      "year": 1965,
       "date": "1965-06-14",
-      "title": "Trận đầu bắn rơi máy bay Mỹ",
       "description": "Đại đội Pháo cao xạ 24 và dân quân tự vệ thị xã Sơn La đã chiến đấu dũng cảm, bắn rơi tại chỗ máy bay F-105 của Mỹ khi chúng ném bom đánh phá thị xã, mở đầu thành tích bắn rơi máy bay Mỹ của quân dân Sơn La.",
+      "id": "SonLa_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Sơn La",
@@ -195,7 +283,24 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
+      ],
+      "title": "Trận đầu bắn rơi máy bay Mỹ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đầu bắn rơi máy bay Mỹ 1965 Thành phố Sơn La, Sơn La Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đầu bắn rơi máy bay Mỹ",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+b%E1%BA%AFn+r%C6%A1i+m%C3%A1y+bay+M%E1%BB%B9+1965+Th%C3%A0nh+ph%E1%BB%91+S%C6%A1n+La%2C+S%C6%A1n+La+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/SonLa.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/SonLa_vi.json"
+  }
 }

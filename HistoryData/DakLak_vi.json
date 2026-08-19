@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "DakLak_COLONIAL_01",
-      "year": 1904,
       "date": "1904-11-22",
-      "title": "Thành lập tỉnh Đắk Lắk",
       "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Đắk Lắk, tách khỏi địa bàn Kon Tum. Tỉnh lỵ ban đầu đặt tại Bản Đôn, sau dời về Buôn Ma Thuột. Đây là mốc khởi đầu cho sự hình thành đơn vị hành chính cấp tỉnh tại vùng đất cao nguyên trung phần.",
+      "id": "DakLak_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Thành phố Buôn Ma Thuột",
@@ -17,14 +15,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Đắk Lắk",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Đắk Lắk 1904 Thành phố Buôn Ma Thuột, Đắk Lắk L. Bourgeois Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Đắk Lắk",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+%C4%90%E1%BA%AFk+L%E1%BA%AFk+1904+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+L.+Bourgeois+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1904
     },
     {
-      "id": "DakLak_COLONIAL_02",
-      "year": 1930,
       "date": null,
-      "title": "Xây dựng Nhà đày Buôn Ma Thuột",
       "description": "Thực dân Pháp xây dựng Nhà đày Buôn Ma Thuột để giam giữ và lưu đày các tù nhân chính trị 'nguy hiểm' nhất từ các tỉnh Trung Kỳ. Nơi đây nổi tiếng với chế độ cai trị tàn bạo nhưng lại trở thành trường học cách mạng kiên trung.",
+      "id": "DakLak_COLONIAL_02",
       "location": {
         "commune": "Tự An",
         "district": "Thành phố Buôn Ma Thuột",
@@ -37,14 +44,23 @@
       "tags": [
         "Nhà tù",
         "Di tích lịch sử"
-      ]
+      ],
+      "title": "Xây dựng Nhà đày Buôn Ma Thuột",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Nhà đày Buôn Ma Thuột 1930 Tự An, Thành phố Buôn Ma Thuột, Đắk Lắk Hồ Tùng Mậu Phan Đăng Lưu Nhà tù Di tích lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Nhà đày Buôn Ma Thuột",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+Nh%C3%A0+%C4%91%C3%A0y+Bu%C3%B4n+Ma+Thu%E1%BB%99t+1930+T%E1%BB%B1+An%2C+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+H%E1%BB%93+T%C3%B9ng+M%E1%BA%ADu+Phan+%C4%90%C4%83ng+L%C6%B0u+Nh%C3%A0+t%C3%B9+Di+t%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "DakLak_REV_01",
-      "year": 1940,
       "date": null,
-      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
       "description": "Tại Nhà đày Buôn Ma Thuột, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Đắk Lắk được bí mật thành lập. Chi bộ đã biến nhà tù thành nơi rèn luyện ý chí, đào tạo cán bộ cốt cán cho Đảng (như Nguyễn Chí Thanh, Tố Hữu...).",
+      "id": "DakLak_REV_01",
       "location": {
         "commune": "Tự An",
         "district": "Thành phố Buôn Ma Thuột",
@@ -56,14 +72,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng Cộng sản đầu tiên 1940 Tự An, Thành phố Buôn Ma Thuột, Đắk Lắk Hồ Tùng Mậu Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%91%E1%BA%A7u+ti%C3%AAn+1940+T%E1%BB%B1+An%2C+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+H%E1%BB%93+T%C3%B9ng+M%E1%BA%ADu+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
     },
     {
-      "id": "DakLak_REV_02",
-      "year": 1945,
       "date": "1945-08-24",
-      "title": "Giành chính quyền tại Buôn Ma Thuột",
       "description": "Hàng ngàn quần chúng nhân dân và lực lượng tự vệ, thanh niên cứu quốc đã tổ chức mít tinh, giành chính quyền tại thị xã Buôn Ma Thuột. Ủy ban Cách mạng lâm thời tỉnh Đắk Lắk được thành lập, đánh dấu sự sụp đổ của chế độ thực dân phong kiến tại Tây Nguyên.",
+      "id": "DakLak_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Buôn Ma Thuột",
@@ -73,14 +98,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Buôn Ma Thuột",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Buôn Ma Thuột 1945 Thành phố Buôn Ma Thuột, Đắk Lắk Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Buôn Ma Thuột",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Bu%C3%B4n+Ma+Thu%E1%BB%99t+1945+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "DakLak_FRENCH_WAR_01",
-      "year": 1945,
       "date": "1945-12-01",
-      "title": "Trận chiến đấu bảo vệ thị xã Buôn Ma Thuột",
       "description": "Quân Pháp quay lại đánh chiếm Tây Nguyên. Các đơn vị bộ đội Nam Tiến và quân dân Đắk Lắk đã chiến đấu dũng cảm tại mặt trận đường 21 và thị xã Buôn Ma Thuột để kìm chân địch, bảo vệ cơ quan đầu não rút lui an toàn để kháng chiến lâu dài.",
+      "id": "DakLak_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Buôn Ma Thuột",
@@ -90,14 +124,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Nam Tiến"
-      ]
+      ],
+      "title": "Trận chiến đấu bảo vệ thị xã Buôn Ma Thuột",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận chiến đấu bảo vệ thị xã Buôn Ma Thuột 1945 Thành phố Buôn Ma Thuột, Đắk Lắk Kháng chiến chống Pháp Nam Tiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận chiến đấu bảo vệ thị xã Buôn Ma Thuột",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+th%E1%BB%8B+x%C3%A3+Bu%C3%B4n+Ma+Thu%E1%BB%99t+1945+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Nam+Ti%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "DakLak_US_WAR_01",
-      "year": 1968,
       "date": "1968-01-30",
-      "title": "Cuộc tiến công và nổi dậy Tết Mậu Thân",
       "description": "Lực lượng vũ trang tỉnh Đắk Lắk phối hợp với bộ đội chủ lực tấn công vào các mục tiêu quan trọng tại thị xã Buôn Ma Thuột như Tòa Hành chính, Đài phát thanh, Sân bay Hòa Bình, gây tiếng vang lớn và thiệt hại nặng cho địch.",
+      "id": "DakLak_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Buôn Ma Thuột",
@@ -107,14 +150,23 @@
       "tags": [
         "Tết Mậu Thân",
         "Quân sự"
-      ]
+      ],
+      "title": "Cuộc tiến công và nổi dậy Tết Mậu Thân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc tiến công và nổi dậy Tết Mậu Thân 1968 Thành phố Buôn Ma Thuột, Đắk Lắk Tết Mậu Thân Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc tiến công và nổi dậy Tết Mậu Thân",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+ti%E1%BA%BFn+c%C3%B4ng+v%C3%A0+n%E1%BB%95i+d%E1%BA%ADy+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+1968+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+T%E1%BA%BFt+M%E1%BA%ADu+Th%C3%A2n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "DakLak_US_WAR_02",
-      "year": 1975,
       "date": "1975-03-10",
-      "title": "Chiến thắng Buôn Ma Thuột (Trận then chốt)",
       "description": "2 giờ sáng, quân ta nổ súng mở màn Chiến dịch Tây Nguyên. Với chiến thuật nghi binh hoàn hảo, ta bất ngờ tập trung hỏa lực tấn công và làm chủ thị xã Buôn Ma Thuột chỉ sau hơn 1 ngày. Chiến thắng này làm rung chuyển hệ thống phòng thủ của địch, mở đầu cho sự sụp đổ dây chuyền của chính quyền Sài Gòn.",
+      "id": "DakLak_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Buôn Ma Thuột",
@@ -127,14 +179,23 @@
       "tags": [
         "Chiến dịch Tây Nguyên",
         "Chiến thắng lịch sử"
-      ]
+      ],
+      "title": "Chiến thắng Buôn Ma Thuột (Trận then chốt)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Buôn Ma Thuột (Trận then chốt) 1975 Thành phố Buôn Ma Thuột, Đắk Lắk Hoàng Minh Thảo Vũ Lăng Chiến dịch Tây Nguyên Chiến thắng lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Buôn Ma Thuột (Trận then chốt)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Bu%C3%B4n+Ma+Thu%E1%BB%99t+%28Tr%E1%BA%ADn+then+ch%E1%BB%91t%29+1975+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+Ho%C3%A0ng+Minh+Th%E1%BA%A3o+V%C5%A9+L%C4%83ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+Nguy%C3%AAn+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "DakLak_US_WAR_03",
-      "year": 1975,
       "date": "1975-03-24",
-      "title": "Giải phóng hoàn toàn tỉnh Đắk Lắk",
       "description": "Sau chiến thắng Buôn Ma Thuột và việc đập tan cuộc phản kích của quân đoàn 2 ngụy tại Phước An, quân ta tỏa ra giải phóng các huyện còn lại. Ngày 24/3, tỉnh Đắk Lắk hoàn toàn sạch bóng quân thù.",
+      "id": "DakLak_US_WAR_03",
       "location": {
         "commune": null,
         "district": null,
@@ -144,14 +205,23 @@
       "tags": [
         "Giải phóng",
         "Chiến dịch Xuân 1975"
-      ]
+      ],
+      "title": "Giải phóng hoàn toàn tỉnh Đắk Lắk",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng hoàn toàn tỉnh Đắk Lắk 1975 Đắk Lắk Giải phóng Chiến dịch Xuân 1975 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng hoàn toàn tỉnh Đắk Lắk",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+ho%C3%A0n+to%C3%A0n+t%E1%BB%89nh+%C4%90%E1%BA%AFk+L%E1%BA%AFk+1975+%C4%90%E1%BA%AFk+L%E1%BA%AFk+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "DakLak_ADMIN_01",
-      "year": 2003,
       "date": "2003-11-26",
-      "title": "Chia tách tỉnh Đắk Lắk",
       "description": "Quốc hội khóa XI thông qua Nghị quyết số 22/2003/QH11 chia tỉnh Đắk Lắk thành hai tỉnh: Đắk Lắk và Đắk Nông. Tỉnh Đắk Lắk mới vẫn giữ tỉnh lỵ là thành phố Buôn Ma Thuột và tiếp tục là trung tâm kinh tế, chính trị của vùng Tây Nguyên.",
+      "id": "DakLak_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -161,14 +231,23 @@
       "tags": [
         "Hành chính",
         "Tách tỉnh"
-      ]
+      ],
+      "title": "Chia tách tỉnh Đắk Lắk",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chia tách tỉnh Đắk Lắk 2003 Đắk Lắk Hành chính Tách tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chia tách tỉnh Đắk Lắk",
+          "url": "https://www.youtube.com/results?search_query=Chia+t%C3%A1ch+t%E1%BB%89nh+%C4%90%E1%BA%AFk+L%E1%BA%AFk+2003+%C4%90%E1%BA%AFk+L%E1%BA%AFk+H%C3%A0nh+ch%C3%ADnh+T%C3%A1ch+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2003
     },
     {
-      "id": "DakLak_CULTURE_01",
-      "year": 2005,
       "date": "2005-11-25",
-      "title": "Không gian văn hóa Cồng chiêng Tây Nguyên được UNESCO ghi danh",
       "description": "Không gian văn hóa Cồng chiêng Tây Nguyên (trải rộng 5 tỉnh, trong đó Đắk Lắk là một trung tâm quan trọng) được UNESCO công nhận là Kiệt tác truyền khẩu và phi vật thể nhân loại. Sự kiện này khẳng định giá trị văn hóa độc đáo của các dân tộc Ê Đê, M'nông...",
+      "id": "DakLak_CULTURE_01",
       "location": {
         "commune": null,
         "district": "Thành phố Buôn Ma Thuột",
@@ -178,7 +257,24 @@
       "tags": [
         "Văn hóa",
         "Di sản UNESCO"
-      ]
+      ],
+      "title": "Không gian văn hóa Cồng chiêng Tây Nguyên được UNESCO ghi danh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Không gian văn hóa Cồng chiêng Tây Nguyên được UNESCO ghi danh 2005 Thành phố Buôn Ma Thuột, Đắk Lắk Văn hóa Di sản UNESCO lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Không gian văn hóa Cồng chiêng Tây Nguyên được UNESCO ghi danh",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%B4ng+gian+v%C4%83n+h%C3%B3a+C%E1%BB%93ng+chi%C3%AAng+T%C3%A2y+Nguy%C3%AAn+%C4%91%C6%B0%E1%BB%A3c+UNESCO+ghi+danh+2005+Th%C3%A0nh+ph%E1%BB%91+Bu%C3%B4n+Ma+Thu%E1%BB%99t%2C+%C4%90%E1%BA%AFk+L%E1%BA%AFk+V%C4%83n+h%C3%B3a+Di+s%E1%BA%A3n+UNESCO+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2005
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/DakLak.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/DakLak_vi.json"
+  }
 }

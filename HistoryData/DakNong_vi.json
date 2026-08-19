@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "DakNong_COLONIAL_01",
-      "year": 1912,
       "date": null,
-      "title": "Bùng nổ Khởi nghĩa N'Trang Lơng",
       "description": "Tù trưởng N'Trang Lơng đã tập hợp các tộc người M'nông, S'tiêng, Ê Đê... đứng lên chống lại ách cai trị và chính sách 'xâu thuế', bắt phu của thực dân Pháp. Đây là cuộc khởi nghĩa có quy mô lớn nhất và kéo dài nhất (1912-1936) ở Tây Nguyên.",
+      "id": "DakNong_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Tuy Đức",
@@ -17,14 +15,23 @@
       "tags": [
         "Chống Pháp",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Bùng nổ Khởi nghĩa N'Trang Lơng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bùng nổ Khởi nghĩa N'Trang Lơng 1912 Tuy Đức, Đắk Nông N'Trang Lơng Chống Pháp Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bùng nổ Khởi nghĩa N'Trang Lơng",
+          "url": "https://www.youtube.com/results?search_query=B%C3%B9ng+n%E1%BB%95+Kh%E1%BB%9Fi+ngh%C4%A9a+N%27Trang+L%C6%A1ng+1912+Tuy+%C4%90%E1%BB%A9c%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+N%27Trang+L%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1912
     },
     {
-      "id": "DakNong_COLONIAL_02",
-      "year": 1914,
-      "date": "1914-07-00",
-      "title": "Trận Bu Nơr (Tiêu diệt Henri Maître)",
+      "date": null,
       "description": "Tại buôn Bu Nơr, nghĩa quân N'Trang Lơng đã mưu trí tổ chức trận phục kích, tiêu diệt Henri Maître (một sĩ quan và nhà thám hiểm thực dân nổi tiếng tàn bạo). Chiến công này đã làm chấn động bộ máy cai trị của Pháp tại Đông Dương.",
+      "id": "DakNong_COLONIAL_02",
       "location": {
         "commune": "Đắk R'Tih",
         "district": "Tuy Đức",
@@ -37,14 +44,23 @@
       "tags": [
         "Chống Pháp",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Trận Bu Nơr (Tiêu diệt Henri Maître)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Bu Nơr (Tiêu diệt Henri Maître) 1914 Đắk R'Tih, Tuy Đức, Đắk Nông N'Trang Lơng Henri Maître Chống Pháp Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Bu Nơr (Tiêu diệt Henri Maître)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Bu+N%C6%A1r+%28Ti%C3%AAu+di%E1%BB%87t+Henri+Ma%C3%AEtre%29+1914+%C4%90%E1%BA%AFk+R%27Tih%2C+Tuy+%C4%90%E1%BB%A9c%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+N%27Trang+L%C6%A1ng+Henri+Ma%C3%AEtre+Ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1914
     },
     {
-      "id": "DakNong_REV_01",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Đắk Mil",
       "description": "Hưởng ứng lệnh Tổng khởi nghĩa, lực lượng quần chúng và tự vệ tại Đắk Mil đã nổi dậy chiếm Đồn Đắk Mil, tịch thu vũ khí và tài liệu của địch. Chính quyền cách mạng lâm thời huyện Đắk Mil được thành lập.",
+      "id": "DakNong_REV_01",
       "location": {
         "commune": "Đắk Lao",
         "district": "Đắk Mil",
@@ -54,14 +70,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Đắk Mil",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Đắk Mil 1945 Đắk Lao, Đắk Mil, Đắk Nông Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Đắk Mil",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+%C4%90%E1%BA%AFk+Mil+1945+%C4%90%E1%BA%AFk+Lao%2C+%C4%90%E1%BA%AFk+Mil%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "DakNong_US_WAR_01",
-      "year": 1960,
-      "date": "1960-12-00",
-      "title": "Khai thông Hành lang chiến lược Bắc - Nam (Đoạn B4)",
+      "date": null,
       "description": "Đoàn B90 đã bắt liên lạc với các cơ sở cách mạng tại Đắk Nông, chính thức khai thông đoạn đường hành lang chiến lược (đường mòn Hồ Chí Minh) qua phía Nam Tây Nguyên, nối liền Tây Nguyên với chiến trường Đông Nam Bộ, vận chuyển sức người sức của cho miền Nam.",
+      "id": "DakNong_US_WAR_01",
       "location": {
         "commune": "Nam Nung",
         "district": "Krông Nô",
@@ -71,14 +96,23 @@
       "tags": [
         "Đường Trường Sơn",
         "Hậu cần"
-      ]
+      ],
+      "title": "Khai thông Hành lang chiến lược Bắc - Nam (Đoạn B4)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khai thông Hành lang chiến lược Bắc - Nam (Đoạn B4) 1960 Nam Nung, Krông Nô, Đắk Nông Đường Trường Sơn Hậu cần lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khai thông Hành lang chiến lược Bắc - Nam (Đoạn B4)",
+          "url": "https://www.youtube.com/results?search_query=Khai+th%C3%B4ng+H%C3%A0nh+lang+chi%E1%BA%BFn+l%C6%B0%E1%BB%A3c+B%E1%BA%AFc+-+Nam+%28%C4%90o%E1%BA%A1n+B4%29+1960+Nam+Nung%2C+Kr%C3%B4ng+N%C3%B4%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+%C4%90%C6%B0%E1%BB%9Dng+Tr%C6%B0%E1%BB%9Dng+S%C6%A1n+H%E1%BA%ADu+c%E1%BA%A7n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1960
     },
     {
-      "id": "DakNong_US_WAR_02",
-      "year": 1968,
       "date": "1968-08-23",
-      "title": "Chiến thắng Đức Lập (Đợt 3 Mậu Thân)",
       "description": "Sư đoàn 1 chủ lực phối hợp với bộ đội địa phương tấn công và làm chủ chi khu quân sự Đức Lập, tiêu diệt một lượng lớn sinh lực địch, cắt đứt giao thông đường 14, uy hiếp thị xã Buôn Ma Thuột từ phía Tây Nam.",
+      "id": "DakNong_US_WAR_02",
       "location": {
         "commune": "Đức Mạnh",
         "district": "Đắk Mil",
@@ -88,14 +122,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Đức Lập (Đợt 3 Mậu Thân)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đức Lập (Đợt 3 Mậu Thân) 1968 Đức Mạnh, Đắk Mil, Đắk Nông Kháng chiến chống Mỹ Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đức Lập (Đợt 3 Mậu Thân)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%E1%BB%A9c+L%E1%BA%ADp+%28%C4%90%E1%BB%A3t+3+M%E1%BA%ADu+Th%C3%A2n%29+1968+%C4%90%E1%BB%A9c+M%E1%BA%A1nh%2C+%C4%90%E1%BA%AFk+Mil%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "DakNong_US_WAR_03",
-      "year": 1975,
       "date": "1975-03-09",
-      "title": "Giải phóng Chi khu Đức Lập (Mở màn Tây Nguyên)",
       "description": "Sư đoàn 10 (Quân đoàn 3) nổ súng tấn công căn cứ Đức Lập và Núi Lửa. Sau 24 giờ chiến đấu ác liệt, ta làm chủ hoàn toàn Đức Lập. Chiến thắng này cắt đứt đường 14, cô lập Buôn Ma Thuột, tạo thế nghi binh chiến lược hoàn hảo cho trận then chốt Buôn Ma Thuột.",
+      "id": "DakNong_US_WAR_03",
       "location": {
         "commune": "Đắk Sắk",
         "district": "Đắk Mil",
@@ -107,14 +150,23 @@
       "tags": [
         "Chiến dịch Tây Nguyên",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Chi khu Đức Lập (Mở màn Tây Nguyên)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Chi khu Đức Lập (Mở màn Tây Nguyên) 1975 Đắk Sắk, Đắk Mil, Đắk Nông Vũ Lăng Chiến dịch Tây Nguyên Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Chi khu Đức Lập (Mở màn Tây Nguyên)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Chi+khu+%C4%90%E1%BB%A9c+L%E1%BA%ADp+%28M%E1%BB%9F+m%C3%A0n+T%C3%A2y+Nguy%C3%AAn%29+1975+%C4%90%E1%BA%AFk+S%E1%BA%AFk%2C+%C4%90%E1%BA%AFk+Mil%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+V%C5%A9+L%C4%83ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+Nguy%C3%AAn+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "DakNong_US_WAR_04",
-      "year": 1975,
       "date": "1975-03-23",
-      "title": "Giải phóng Gia Nghĩa (Tỉnh lỵ Quảng Đức)",
       "description": "Sau thất bại tại Buôn Ma Thuột, quân địch tại Gia Nghĩa hoang mang tột độ. Quân ta tiến công giải phóng thị xã Gia Nghĩa và quận lỵ Khiêm Đức. Tỉnh Quảng Đức (địa bàn chính của Đắk Nông ngày nay) hoàn toàn giải phóng.",
+      "id": "DakNong_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Gia Nghĩa",
@@ -124,14 +176,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Gia Nghĩa (Tỉnh lỵ Quảng Đức)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Gia Nghĩa (Tỉnh lỵ Quảng Đức) 1975 Thành phố Gia Nghĩa, Đắk Nông Chiến dịch Xuân 1975 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Gia Nghĩa (Tỉnh lỵ Quảng Đức)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Gia+Ngh%C4%A9a+%28T%E1%BB%89nh+l%E1%BB%B5+Qu%E1%BA%A3ng+%C4%90%E1%BB%A9c%29+1975+Th%C3%A0nh+ph%E1%BB%91+Gia+Ngh%C4%A9a%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "2004-01-01",
+      "description": "Ngày 26/11/2003, Quốc hội thông qua nghị quyết chia tỉnh Đắk Lắk. Tỉnh Đắk Nông được tái lập và chính thức đi vào hoạt động từ ngày 1/1/2004, tỉnh lỵ đặt tại Gia Nghĩa.",
       "id": "DakNong_ADMIN_01",
-      "year": 2003,
-      "date": "2003-11-26",
-      "title": "Thành lập tỉnh Đắk Nông",
-      "description": "Quốc hội khóa XI thông qua Nghị quyết số 22/2003/QH11 chia tỉnh Đắk Lắk thành hai tỉnh Đắk Lắk và Đắk Nông. Tỉnh Đắk Nông chính thức đi vào hoạt động từ ngày 01/01/2004 với tỉnh lỵ là thị xã Gia Nghĩa.",
       "location": {
         "commune": null,
         "district": null,
@@ -141,14 +202,23 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Thành lập tỉnh Đắk Nông",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Đắk Nông 2004 Đắk Nông Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Đắk Nông",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+%C4%90%E1%BA%AFk+N%C3%B4ng+2004+%C4%90%E1%BA%AFk+N%C3%B4ng+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2004
     },
     {
-      "id": "DakNong_CULTURE_01",
-      "year": 2020,
       "date": "2020-07-07",
-      "title": "Công nhận Công viên Địa chất Toàn cầu UNESCO",
       "description": "UNESCO chính thức công nhận Công viên Địa chất Đắk Nông là Công viên Địa chất Toàn cầu. Nơi đây sở hữu hệ thống hang động núi lửa dài nhất Đông Nam Á (C7, C3...) cùng những giá trị độc đáo về địa chất và văn hóa bản địa.",
+      "id": "DakNong_CULTURE_01",
       "location": {
         "commune": null,
         "district": "Krông Nô",
@@ -158,7 +228,24 @@
       "tags": [
         "Du lịch",
         "Di sản UNESCO"
-      ]
+      ],
+      "title": "Công nhận Công viên Địa chất Toàn cầu UNESCO",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Công nhận Công viên Địa chất Toàn cầu UNESCO 2020 Krông Nô, Đắk Nông Du lịch Di sản UNESCO lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Công nhận Công viên Địa chất Toàn cầu UNESCO",
+          "url": "https://www.youtube.com/results?search_query=C%C3%B4ng+nh%E1%BA%ADn+C%C3%B4ng+vi%C3%AAn+%C4%90%E1%BB%8Ba+ch%E1%BA%A5t+To%C3%A0n+c%E1%BA%A7u+UNESCO+2020+Kr%C3%B4ng+N%C3%B4%2C+%C4%90%E1%BA%AFk+N%C3%B4ng+Du+l%E1%BB%8Bch+Di+s%E1%BA%A3n+UNESCO+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2020
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/DakNong.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/DakNong_vi.json"
+  }
 }

@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "BinhDinh_CHAM_01",
-      "year": 1471,
       "date": null,
-      "title": "Sự sụp đổ của thành Đồ Bàn (Vijaya)",
       "description": "Vua Lê Thánh Tông thân chinh dẫn đại quân đánh chiếm thành Đồ Bàn, kinh đô của vương quốc Chăm Pa. Sự kiện này đánh dấu việc sáp nhập vùng đất Bình Định vào lãnh thổ Đại Việt, lập ra phủ Hoài Nhơn.",
+      "id": "BinhDinh_CHAM_01",
       "location": {
         "commune": "Nhơn Hậu",
         "district": "An Nhơn",
@@ -19,14 +17,23 @@
         "Chăm Pa",
         "Đại Việt",
         "Quân sự"
-      ]
+      ],
+      "title": "Sự sụp đổ của thành Đồ Bàn (Vijaya)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự sụp đổ của thành Đồ Bàn (Vijaya) 1471 Nhơn Hậu, An Nhơn, Bình Định Lê Thánh Tông Trà Toàn Chăm Pa Đại Việt Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự sụp đổ của thành Đồ Bàn (Vijaya)",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+s%E1%BB%A5p+%C4%91%E1%BB%95+c%E1%BB%A7a+th%C3%A0nh+%C4%90%E1%BB%93+B%C3%A0n+%28Vijaya%29+1471+Nh%C6%A1n+H%E1%BA%ADu%2C+An+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+L%C3%AA+Th%C3%A1nh+T%C3%B4ng+Tr%C3%A0+To%C3%A0n+Ch%C4%83m+Pa+%C4%90%E1%BA%A1i+Vi%E1%BB%87t+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1471
     },
     {
-      "id": "BinhDinh_TAYSON_01",
-      "year": 1771,
       "date": null,
-      "title": "Khởi nghĩa Tây Sơn bùng nổ",
       "description": "Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa tại vùng Tây Sơn Thượng Đạo, chống lại chính quyền chúa Nguyễn, mở đầu cho phong trào nông dân Tây Sơn.",
+      "id": "BinhDinh_TAYSON_01",
       "location": {
         "commune": "Tây Phú",
         "district": "Tây Sơn",
@@ -40,14 +47,23 @@
       "tags": [
         "Tây Sơn",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Khởi nghĩa Tây Sơn bùng nổ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Tây Sơn bùng nổ 1771 Tây Phú, Tây Sơn, Bình Định Nguyễn Nhạc Nguyễn Huệ Nguyễn Lữ Tây Sơn Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Tây Sơn bùng nổ",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+T%C3%A2y+S%C6%A1n+b%C3%B9ng+n%E1%BB%95+1771+T%C3%A2y+Ph%C3%BA%2C+T%C3%A2y+S%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Nguy%E1%BB%85n+Nh%E1%BA%A1c+Nguy%E1%BB%85n+Hu%E1%BB%87+Nguy%E1%BB%85n+L%E1%BB%AF+T%C3%A2y+S%C6%A1n+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1771
     },
     {
-      "id": "BinhDinh_TAYSON_02",
-      "year": 1778,
       "date": null,
-      "title": "Nguyễn Nhạc lên ngôi Hoàng đế",
       "description": "Nguyễn Nhạc xưng là Thái Đức Hoàng đế, chọn thành Đồ Bàn làm kinh đô, sửa sang và mở rộng thành, đổi tên là thành Hoàng Đế.",
+      "id": "BinhDinh_TAYSON_02",
       "location": {
         "commune": "Nhơn Hậu",
         "district": "An Nhơn",
@@ -59,14 +75,23 @@
       "tags": [
         "Tây Sơn",
         "Chính trị"
-      ]
+      ],
+      "title": "Nguyễn Nhạc lên ngôi Hoàng đế",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nguyễn Nhạc lên ngôi Hoàng đế 1778 Nhơn Hậu, An Nhơn, Bình Định Nguyễn Nhạc Tây Sơn Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nguyễn Nhạc lên ngôi Hoàng đế",
+          "url": "https://www.youtube.com/results?search_query=Nguy%E1%BB%85n+Nh%E1%BA%A1c+l%C3%AAn+ng%C3%B4i+Ho%C3%A0ng+%C4%91%E1%BA%BF+1778+Nh%C6%A1n+H%E1%BA%ADu%2C+An+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Nguy%E1%BB%85n+Nh%E1%BA%A1c+T%C3%A2y+S%C6%A1n+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1778
     },
     {
-      "id": "BinhDinh_TAYSON_03",
-      "year": 1801,
       "date": "1801-02-28",
-      "title": "Trận thủy chiến Thị Nại",
       "description": "Trận thủy chiến quy mô lớn nhất lịch sử phong kiến Việt Nam giữa quân nhà Tây Sơn (do Võ Văn Dũng, Trần Quang Diệu chỉ huy) và quân Nguyễn Ánh. Quân Nguyễn Ánh giành chiến thắng, phá hủy hạm đội Tây Sơn.",
+      "id": "BinhDinh_TAYSON_03",
       "location": {
         "commune": null,
         "district": "Quy Nhơn",
@@ -81,14 +106,23 @@
       "tags": [
         "Thủy chiến",
         "Nội chiến"
-      ]
+      ],
+      "title": "Trận thủy chiến Thị Nại",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận thủy chiến Thị Nại 1801 Quy Nhơn, Bình Định Võ Văn Dũng Trần Quang Diệu Nguyễn Ánh Võ Tánh Thủy chiến Nội chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận thủy chiến Thị Nại",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+th%E1%BB%A7y+chi%E1%BA%BFn+Th%E1%BB%8B+N%E1%BA%A1i+1801+Quy+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+V%C3%B5+V%C4%83n+D%C5%A9ng+Tr%E1%BA%A7n+Quang+Di%E1%BB%87u+Nguy%E1%BB%85n+%C3%81nh+V%C3%B5+T%C3%A1nh+Th%E1%BB%A7y+chi%E1%BA%BFn+N%E1%BB%99i+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1801
     },
     {
-      "id": "BinhDinh_COLONIAL_01",
-      "year": 1885,
       "date": null,
-      "title": "Phong trào Cần Vương tại Bình Định",
       "description": "Hưởng ứng chiếu Cần Vương, Mai Xuân Thưởng tập hợp nghĩa sĩ lập căn cứ tại Linh Đỗng, được suy tôn làm Bình Tây nguyên soái, lãnh đạo phong trào chống Pháp tại Bình Định.",
+      "id": "BinhDinh_COLONIAL_01",
       "location": {
         "commune": "Bình Tường",
         "district": "Tây Sơn",
@@ -101,14 +135,23 @@
       "tags": [
         "Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Phong trào Cần Vương tại Bình Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Phong trào Cần Vương tại Bình Định 1885 Bình Tường, Tây Sơn, Bình Định Mai Xuân Thưởng Tăng Bạt Hổ Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Phong trào Cần Vương tại Bình Định",
+          "url": "https://www.youtube.com/results?search_query=Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+t%E1%BA%A1i+B%C3%ACnh+%C4%90%E1%BB%8Bnh+1885+B%C3%ACnh+T%C6%B0%E1%BB%9Dng%2C+T%C3%A2y+S%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Mai+Xu%C3%A2n+Th%C6%B0%E1%BB%9Fng+T%C4%83ng+B%E1%BA%A1t+H%E1%BB%95+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
-      "id": "BinhDinh_REV_01",
-      "year": 1930,
       "date": "1930-09-01",
-      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
       "description": "Chi bộ Đảng Cộng sản đầu tiên của tỉnh Bình Định được thành lập tại Nhà máy đèn Cửu Lợi (phủ Hoài Nhơn), đánh dấu bước ngoặt trong phong trào cách mạng địa phương.",
+      "id": "BinhDinh_REV_01",
       "location": {
         "commune": "Tam Quan Nam",
         "district": "Hoài Nhơn",
@@ -120,14 +163,23 @@
       "tags": [
         "Đảng Cộng sản",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng Cộng sản đầu tiên 1930 Tam Quan Nam, Hoài Nhơn, Bình Định Nguyễn Trân Đảng Cộng sản Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng Cộng sản đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%91%E1%BA%A7u+ti%C3%AAn+1930+Tam+Quan+Nam%2C+Ho%C3%A0i+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Nguy%E1%BB%85n+Tr%C3%A2n+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "BinhDinh_REV_02",
-      "year": 1945,
       "date": "1945-08-23",
-      "title": "Khởi nghĩa giành chính quyền tại Quy Nhơn",
       "description": "Trong bối cảnh Cách mạng tháng Tám, quần chúng nhân dân dưới sự lãnh đạo của Việt Minh đã biểu tình, chiếm các cơ quan đầu não của chính quyền thân Nhật tại thị xã Quy Nhơn, giành chính quyền về tay nhân dân.",
+      "id": "BinhDinh_REV_02",
       "location": {
         "commune": null,
         "district": "Quy Nhơn",
@@ -137,14 +189,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Khởi nghĩa giành chính quyền tại Quy Nhơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa giành chính quyền tại Quy Nhơn 1945 Quy Nhơn, Bình Định Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa giành chính quyền tại Quy Nhơn",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Quy+Nh%C6%A1n+1945+Quy+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "BinhDinh_US_WAR_01",
-      "year": 1964,
       "date": "1964-12-07",
-      "title": "Chiến thắng An Lão",
       "description": "Quân Giải phóng tấn công chi khu An Lão, giải phóng hoàn toàn huyện An Lão. Đây là chiến thắng mở đầu phong trào Đồng Khởi ở khu V, phá vỡ hệ thống ấp chiến lược của địch.",
+      "id": "BinhDinh_US_WAR_01",
       "location": {
         "commune": null,
         "district": "An Lão",
@@ -154,14 +215,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Đồng Khởi"
-      ]
+      ],
+      "title": "Chiến thắng An Lão",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng An Lão 1964 An Lão, Bình Định Kháng chiến chống Mỹ Đồng Khởi lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng An Lão",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+An+L%C3%A3o+1964+An+L%C3%A3o%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1964
     },
     {
-      "id": "BinhDinh_US_WAR_02",
-      "year": 1965,
       "date": "1965-02-08",
-      "title": "Chiến thắng Đèo Nhông - Dương Liễu",
       "description": "Sư đoàn 3 Sao Vàng và lực lượng địa phương phục kích tiêu diệt hai tiểu đoàn quân đội Sài Gòn, bẻ gãy chiến thuật 'thiết xa vận' và 'trực thăng vận' của địch.",
+      "id": "BinhDinh_US_WAR_02",
       "location": {
         "commune": "Mỹ Lợi",
         "district": "Phù Mỹ",
@@ -171,14 +241,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Đèo Nhông - Dương Liễu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đèo Nhông - Dương Liễu 1965 Mỹ Lợi, Phù Mỹ, Bình Định Kháng chiến chống Mỹ Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đèo Nhông - Dương Liễu",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%C3%A8o+Nh%C3%B4ng+-+D%C6%B0%C6%A1ng+Li%E1%BB%85u+1965+M%E1%BB%B9+L%E1%BB%A3i%2C+Ph%C3%B9+M%E1%BB%B9%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "BinhDinh_US_WAR_03",
-      "year": 1965,
       "date": "1965-09-18",
-      "title": "Trận Thuận Ninh",
       "description": "Quân Giải phóng tập kích tiêu diệt Tiểu đoàn 1, Trung đoàn 41 của quân đội Sài Gòn và cố vấn Mỹ tại thung lũng Thuận Ninh, chứng minh khả năng tiêu diệt quân chủ lực địch ngay tại căn cứ.",
+      "id": "BinhDinh_US_WAR_03",
       "location": {
         "commune": "Bình Tân",
         "district": "Tây Sơn",
@@ -188,14 +267,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Quân sự"
-      ]
+      ],
+      "title": "Trận Thuận Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Thuận Ninh 1965 Bình Tân, Tây Sơn, Bình Định Kháng chiến chống Mỹ Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Thuận Ninh",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Thu%E1%BA%ADn+Ninh+1965+B%C3%ACnh+T%C3%A2n%2C+T%C3%A2y+S%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
+      "date": null,
+      "description": "Từ ngày 03/1 đến 26/2/1966, tại khu vực Bình An, quân đội Hàn Quốc tiến hành nhiều vụ sát hại dân thường trong các cuộc càn quét. Đây là một chuỗi thảm sát kéo dài nhiều tuần, vì vậy dữ liệu không gán một ngày duy nhất cho toàn bộ sự kiện.",
       "id": "BinhDinh_US_WAR_04",
-      "year": 1966,
-      "date": "1966-01-28",
-      "title": "Vụ thảm sát Tây Sơn - Bình An",
-      "description": "Lính đánh thuê Nam Triều Tiên (Sư đoàn Mãnh Hổ) thực hiện các cuộc càn quét và thảm sát hơn 1.000 thường dân tại các xã thuộc huyện Tây Sơn và An Nhơn (khu vực Gò Dài).",
       "location": {
         "commune": "Tây Vinh",
         "district": "Tây Sơn",
@@ -205,14 +293,23 @@
       "tags": [
         "Tội ác chiến tranh",
         "Nam Triều Tiên"
-      ]
+      ],
+      "title": "Vụ thảm sát Bình An (23/1-26/2/1966)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vụ thảm sát Bình An (23/1-26/2/1966) 1966 Tây Vinh, Tây Sơn, Bình Định Tội ác chiến tranh Nam Triều Tiên lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vụ thảm sát Bình An (23/1-26/2/1966)",
+          "url": "https://www.youtube.com/results?search_query=V%E1%BB%A5+th%E1%BA%A3m+s%C3%A1t+B%C3%ACnh+An+%2823%2F1-26%2F2%2F1966%29+1966+T%C3%A2y+Vinh%2C+T%C3%A2y+S%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+T%E1%BB%99i+%C3%A1c+chi%E1%BA%BFn+tranh+Nam+Tri%E1%BB%81u+Ti%C3%AAn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
-      "id": "BinhDinh_US_WAR_05",
-      "year": 1972,
       "date": "1972-04-09",
-      "title": "Chiến dịch Xuân Hè 1972 tại Bắc Bình Định",
       "description": "Sư đoàn 3 Sao Vàng phối hợp lực lượng địa phương tấn công cứ điểm Đồi Mười, giải phóng huyện Hoài Ân và phần lớn huyện Hoài Nhơn, mở ra vùng giải phóng rộng lớn liên hoàn.",
+      "id": "BinhDinh_US_WAR_05",
       "location": {
         "commune": "Hoài Châu",
         "district": "Hoài Nhơn",
@@ -222,14 +319,23 @@
       "tags": [
         "Mùa hè đỏ lửa",
         "Kháng chiến chống Mỹ"
-      ]
+      ],
+      "title": "Chiến dịch Xuân Hè 1972 tại Bắc Bình Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch Xuân Hè 1972 tại Bắc Bình Định 1972 Hoài Châu, Hoài Nhơn, Bình Định Mùa hè đỏ lửa Kháng chiến chống Mỹ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến dịch Xuân Hè 1972 tại Bắc Bình Định",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+H%C3%A8+1972+t%E1%BA%A1i+B%E1%BA%AFc+B%C3%ACnh+%C4%90%E1%BB%8Bnh+1972+Ho%C3%A0i+Ch%C3%A2u%2C+Ho%C3%A0i+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+M%C3%B9a+h%C3%A8+%C4%91%E1%BB%8F+l%E1%BB%ADa+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
-      "id": "BinhDinh_US_WAR_06",
-      "year": 1975,
       "date": "1975-03-31",
-      "title": "Giải phóng Quy Nhơn và toàn tỉnh Bình Định",
       "description": "Trong cuộc Tổng tiến công và nổi dậy mùa Xuân 1975, quân và dân Bình Định đã đánh chiếm các cơ quan đầu não, làm chủ thị xã Quy Nhơn, hoàn thành giải phóng toàn tỉnh.",
+      "id": "BinhDinh_US_WAR_06",
       "location": {
         "commune": null,
         "district": "Quy Nhơn",
@@ -241,7 +347,24 @@
       "tags": [
         "Đại thắng mùa Xuân",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Quy Nhơn và toàn tỉnh Bình Định",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Quy Nhơn và toàn tỉnh Bình Định 1975 Quy Nhơn, Bình Định Chu Huy Mân Đại thắng mùa Xuân Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Quy Nhơn và toàn tỉnh Bình Định",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+Quy+Nh%C6%A1n+v%C3%A0+to%C3%A0n+t%E1%BB%89nh+B%C3%ACnh+%C4%90%E1%BB%8Bnh+1975+Quy+Nh%C6%A1n%2C+B%C3%ACnh+%C4%90%E1%BB%8Bnh+Chu+Huy+M%C3%A2n+%C4%90%E1%BA%A1i+th%E1%BA%AFng+m%C3%B9a+Xu%C3%A2n+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/BinhDinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/BinhDinh_vi.json"
+  }
 }

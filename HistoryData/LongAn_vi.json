@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "LongAn_RESISTANCE_01",
-      "year": 1861,
       "date": "1861-12-10",
-      "title": "Hỏa hồng Nhựt Tảo (Đốt cháy tàu L'Espérance)",
       "description": "Nghĩa quân Nguyễn Trung Trực đã tổ chức trận tập kích táo bạo, đốt cháy tàu chiến L'Espérance (Hy Vọng) của Pháp đang neo đậu tại vàm Nhựt Tảo. Đây là trận đánh chìm tàu chiến phương Tây đầu tiên trong lịch sử chống ngoại xâm của Việt Nam, làm nức lòng quân dân cả nước.",
+      "id": "LongAn_RESISTANCE_01",
       "location": {
         "commune": "An Nhựt Tân",
         "district": "Tân Trụ",
@@ -17,14 +15,23 @@
       "tags": [
         "Chống Pháp",
         "Chiến công"
-      ]
+      ],
+      "title": "Hỏa hồng Nhựt Tảo (Đốt cháy tàu L'Espérance)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hỏa hồng Nhựt Tảo (Đốt cháy tàu L'Espérance) 1861 An Nhựt Tân, Tân Trụ, Long An Nguyễn Trung Trực Chống Pháp Chiến công lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hỏa hồng Nhựt Tảo (Đốt cháy tàu L'Espérance)",
+          "url": "https://www.youtube.com/results?search_query=H%E1%BB%8Fa+h%E1%BB%93ng+Nh%E1%BB%B1t+T%E1%BA%A3o+%28%C4%90%E1%BB%91t+ch%C3%A1y+t%C3%A0u+L%27Esp%C3%A9rance%29+1861+An+Nh%E1%BB%B1t+T%C3%A2n%2C+T%C3%A2n+Tr%E1%BB%A5%2C+Long+An+Nguy%E1%BB%85n+Trung+Tr%E1%BB%B1c+Ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+c%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1861
     },
     {
-      "id": "LongAn_REV_01",
-      "year": 1930,
       "date": "1930-03-06",
-      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên (Đức Hòa)",
       "description": "Tại làng Đức Hòa, đồng chí Võ Văn Tần đã triệu tập cuộc họp bí mật thành lập Chi bộ Đảng Cộng sản đầu tiên của tỉnh Chợ Lớn (nay thuộc Long An). Sự kiện này biến Đức Hòa trở thành cái nôi cách mạng, ngọn cờ đầu trong các phong trào đấu tranh của tỉnh.",
+      "id": "LongAn_REV_01",
       "location": {
         "commune": "Đức Hòa Thượng",
         "district": "Đức Hòa",
@@ -36,14 +43,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng Cộng sản đầu tiên (Đức Hòa)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng Cộng sản đầu tiên (Đức Hòa) 1930 Đức Hòa Thượng, Đức Hòa, Long An Võ Văn Tần Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng Cộng sản đầu tiên (Đức Hòa)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%91%E1%BA%A7u+ti%C3%AAn+%28%C4%90%E1%BB%A9c+H%C3%B2a%29+1930+%C4%90%E1%BB%A9c+H%C3%B2a+Th%C6%B0%E1%BB%A3ng%2C+%C4%90%E1%BB%A9c+H%C3%B2a%2C+Long+An+V%C3%B5+V%C4%83n+T%E1%BA%A7n+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "LongAn_REV_02",
-      "year": 1945,
       "date": "1945-08-21",
-      "title": "Giành chính quyền tại Tân An",
       "description": "Tỉnh ủy Tân An đã chớp thời cơ, lãnh đạo quần chúng và lực lượng Thanh niên Tiền phong chiếm Dinh Tỉnh trưởng và các công sở. Tân An là một trong những tỉnh giành chính quyền sớm nhất ở Nam Bộ trong Cách mạng tháng Tám, tạo đà cho Sài Gòn khởi nghĩa.",
+      "id": "LongAn_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Tân An",
@@ -55,14 +71,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Tân An",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Tân An 1945 Thành phố Tân An, Long An Nguyễn Văn Trọng Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Tân An",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+T%C3%A2n+An+1945+Th%C3%A0nh+ph%E1%BB%91+T%C3%A2n+An%2C+Long+An+Nguy%E1%BB%85n+V%C4%83n+Tr%E1%BB%8Dng+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "LongAn_FRENCH_WAR_01",
-      "year": 1948,
       "date": "1948-08-16",
-      "title": "Trận Mộc Hóa",
       "description": "Tiểu đoàn 307 và Trung đoàn 120 đã tổ chức công đồn, diệt viện tại Mộc Hóa (vùng Đồng Tháp Mười). Ta tiêu diệt đồn trưởng Louis Bertrand và bắt sống hàng trăm lính. Chiến thắng này mở rộng vùng căn cứ địa Đồng Tháp Mười, nối liền hành lang chiến lược Đông - Tây Nam Bộ.",
+      "id": "LongAn_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": "Thị xã Kiến Tường",
@@ -72,14 +97,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Đồng Tháp Mười"
-      ]
+      ],
+      "title": "Trận Mộc Hóa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Mộc Hóa 1948 Thị xã Kiến Tường, Long An Kháng chiến chống Pháp Đồng Tháp Mười lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Mộc Hóa",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+M%E1%BB%99c+H%C3%B3a+1948+Th%E1%BB%8B+x%C3%A3+Ki%E1%BA%BFn+T%C6%B0%E1%BB%9Dng%2C+Long+An+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+%C4%90%E1%BB%93ng+Th%C3%A1p+M%C6%B0%E1%BB%9Di+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1948
     },
     {
-      "id": "LongAn_US_WAR_01",
-      "year": 1963,
       "date": "1963-11-22",
-      "title": "Chiến thắng Hiệp Hòa",
       "description": "Lực lượng vũ trang tỉnh Long An tấn công Trung tâm huấn luyện biệt kích Hiệp Hòa - một trong những 'xương sống' của chiến lược Chiến tranh đặc biệt. Đây là trận đầu tiên ở Nam Bộ ta tiêu diệt gọn một chi khu và trại huấn luyện biệt kích lớn do cố vấn Mỹ chỉ huy.",
+      "id": "LongAn_US_WAR_01",
       "location": {
         "commune": "Hiệp Hòa",
         "district": "Đức Hòa",
@@ -89,14 +123,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phá ấp chiến lược"
-      ]
+      ],
+      "title": "Chiến thắng Hiệp Hòa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Hiệp Hòa 1963 Hiệp Hòa, Đức Hòa, Long An Kháng chiến chống Mỹ Phá ấp chiến lược lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Hiệp Hòa",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Hi%E1%BB%87p+H%C3%B2a+1963+Hi%E1%BB%87p+H%C3%B2a%2C+%C4%90%E1%BB%A9c+H%C3%B2a%2C+Long+An+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%A1+%E1%BA%A5p+chi%E1%BA%BFn+l%C6%B0%E1%BB%A3c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1963
     },
     {
-      "id": "LongAn_US_WAR_02",
-      "year": 1967,
       "date": "1967-09-17",
-      "title": "Phong tặng danh hiệu 'Trung dũng kiên cường...'",
       "description": "Tại Đại hội Anh hùng và Chiến sĩ thi đua toàn miền Nam, Ủy ban Trung ương Mặt trận Dân tộc Giải phóng miền Nam Việt Nam đã phong tặng cho quân dân Long An 8 chữ vàng: 'Trung dũng kiên cường, toàn dân đánh giặc' vì thành tích giữ vững hành lang cửa ngõ Sài Gòn.",
+      "id": "LongAn_US_WAR_02",
       "location": {
         "commune": null,
         "district": null,
@@ -106,14 +149,23 @@
       "tags": [
         "Danh hiệu",
         "Lịch sử"
-      ]
+      ],
+      "title": "Phong tặng danh hiệu 'Trung dũng kiên cường...'",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Phong tặng danh hiệu 'Trung dũng kiên cường...' 1967 Long An Danh hiệu Lịch sử lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Phong tặng danh hiệu 'Trung dũng kiên cường...'",
+          "url": "https://www.youtube.com/results?search_query=Phong+t%E1%BA%B7ng+danh+hi%E1%BB%87u+%27Trung+d%C5%A9ng+ki%C3%AAn+c%C6%B0%E1%BB%9Dng...%27+1967+Long+An+Danh+hi%E1%BB%87u+L%E1%BB%8Bch+s%E1%BB%AD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
     },
     {
+      "date": null,
+      "description": "Trong năm 1972, khu vực Đức Huệ là một địa bàn chiến sự quan trọng ở Long An, nơi lực lượng cách mạng tiến công và kiềm chế các cứ điểm của quân đội Sài Gòn. Không gán ngày cụ thể khi nguồn hiện có chưa đủ để xác nhận chính xác.",
       "id": "LongAn_US_WAR_03",
-      "year": 1972,
-      "date": "1972-05-11",
-      "title": "Trận công kiên Chi khu Đức Huệ",
-      "description": "Trong Chiến dịch Nguyễn Huệ, Sư đoàn 5 và quân dân Long An đã vây lấn, tấn công chi khu Đức Huệ, phá vỡ tuyến phòng thủ biên giới của địch, mở rộng hành lang vận chuyển chiến lược từ biên giới Campuchia xuống Đồng bằng sông Cửu Long.",
       "location": {
         "commune": null,
         "district": "Đức Huệ",
@@ -123,14 +175,23 @@
       "tags": [
         "Mùa hè đỏ lửa",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến đấu tại khu vực Đức Huệ năm 1972",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu tại khu vực Đức Huệ năm 1972 1972 Đức Huệ, Long An Mùa hè đỏ lửa Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu tại khu vực Đức Huệ năm 1972",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+t%E1%BA%A1i+khu+v%E1%BB%B1c+%C4%90%E1%BB%A9c+Hu%E1%BB%87+n%C4%83m+1972+1972+%C4%90%E1%BB%A9c+Hu%E1%BB%87%2C+Long+An+M%C3%B9a+h%C3%A8+%C4%91%E1%BB%8F+l%E1%BB%ADa+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
-      "id": "LongAn_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng Tân An - Cắt đứt Quốc lộ 4",
       "description": "Đoàn 232 (Cánh quân phía Tây Nam) phối hợp với lực lượng địa phương tấn công giải phóng thị xã Tân An và các huyện, thực hiện nhiệm vụ chiến lược là cắt đứt Quốc lộ 4 (nay là QL1A), ngăn chặn Quân đoàn 4 ngụy từ miền Tây lên ứng cứu cho Sài Gòn.",
+      "id": "LongAn_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Thành phố Tân An",
@@ -142,14 +203,23 @@
       "tags": [
         "Chiến dịch Hồ Chí Minh",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Tân An - Cắt đứt Quốc lộ 4",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Tân An - Cắt đứt Quốc lộ 4 1975 Thành phố Tân An, Long An Lê Đức Anh Chiến dịch Hồ Chí Minh Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Tân An - Cắt đứt Quốc lộ 4",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+T%C3%A2n+An+-+C%E1%BA%AFt+%C4%91%E1%BB%A9t+Qu%E1%BB%91c+l%E1%BB%99+4+1975+Th%C3%A0nh+ph%E1%BB%91+T%C3%A2n+An%2C+Long+An+L%C3%AA+%C4%90%E1%BB%A9c+Anh+Chi%E1%BA%BFn+d%E1%BB%8Bch+H%E1%BB%93+Ch%C3%AD+Minh+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "LongAn_BORDER_WAR_01",
-      "year": 1978,
       "date": null,
-      "title": "Chiến đấu bảo vệ biên giới Tây Nam (Đồn Long Khốt)",
       "description": "Quân Pol Pot xua quân tràn sang biên giới Long An, gây ra nhiều tội ác. Cán bộ, chiến sĩ Đồn biên phòng Long Khốt đã kiên cường bám trụ, đẩy lùi nhiều đợt tấn công quy mô lớn của địch, bảo vệ vững chắc chủ quyền lãnh thổ thiêng liêng.",
+      "id": "LongAn_BORDER_WAR_01",
       "location": {
         "commune": "Thái Bình Trung",
         "district": "Vĩnh Hưng",
@@ -161,14 +231,23 @@
       "tags": [
         "Chiến tranh biên giới",
         "Bảo vệ tổ quốc"
-      ]
+      ],
+      "title": "Chiến đấu bảo vệ biên giới Tây Nam (Đồn Long Khốt)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu bảo vệ biên giới Tây Nam (Đồn Long Khốt) 1978 Thái Bình Trung, Vĩnh Hưng, Long An Vũ Xuân Sinh Chiến tranh biên giới Bảo vệ tổ quốc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu bảo vệ biên giới Tây Nam (Đồn Long Khốt)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+T%C3%A2y+Nam+%28%C4%90%E1%BB%93n+Long+Kh%E1%BB%91t%29+1978+Th%C3%A1i+B%C3%ACnh+Trung%2C+V%C4%A9nh+H%C6%B0ng%2C+Long+An+V%C5%A9+Xu%C3%A2n+Sinh+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+B%E1%BA%A3o+v%E1%BB%87+t%E1%BB%95+qu%E1%BB%91c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1978
     },
     {
+      "date": "2020-09-26",
+      "description": "Ngày 26/9/2020, giai đoạn 1 Cảng Quốc tế Long An tại Cần Giuộc được khánh thành, đánh dấu bước phát triển hạ tầng logistics và cảng biển của tỉnh.",
       "id": "LongAn_ECONOMY_01",
-      "year": 2016,
-      "date": "2016-09-00",
-      "title": "Khánh thành Cảng Quốc tế Long An",
-      "description": "Cảng Quốc tế Long An chính thức đi vào hoạt động giai đoạn 1. Đây là dự án động lực quan trọng, đánh dấu sự chuyển mình của Long An từ một tỉnh thuần nông sang phát triển mạnh về công nghiệp và logistics, trở thành trung tâm trung chuyển hàng hóa của ĐBSCL.",
       "location": {
         "commune": "Tân Tập",
         "district": "Cần Giuộc",
@@ -178,7 +257,24 @@
       "tags": [
         "Kinh tế",
         "Công nghiệp hóa"
-      ]
+      ],
+      "title": "Khánh thành giai đoạn 1 Cảng Quốc tế Long An",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khánh thành giai đoạn 1 Cảng Quốc tế Long An 2020 Tân Tập, Cần Giuộc, Long An Kinh tế Công nghiệp hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khánh thành giai đoạn 1 Cảng Quốc tế Long An",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%A1nh+th%C3%A0nh+giai+%C4%91o%E1%BA%A1n+1+C%E1%BA%A3ng+Qu%E1%BB%91c+t%E1%BA%BF+Long+An+2020+T%C3%A2n+T%E1%BA%ADp%2C+C%E1%BA%A7n+Giu%E1%BB%99c%2C+Long+An+Kinh+t%E1%BA%BF+C%C3%B4ng+nghi%E1%BB%87p+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2020
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/LongAn.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/LongAn_vi.json"
+  }
 }

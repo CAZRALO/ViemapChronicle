@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "PhuYen_FOUNDING_01",
-      "year": 1611,
       "date": null,
-      "title": "Thành lập Phủ Phú Yên",
       "description": "Chúa Nguyễn Hoàng sai Chủ sự Văn Phong đưa quân vào dẹp loạn quân Chiêm Thành quấy phá biên giới. Sau khi bình định, chúa Nguyễn cho lập phủ Phú Yên gồm hai huyện Đồng Xuân và Tuy Hòa, đặt dưới sự cai quản của Dinh Quảng Nam.",
+      "id": "PhuYen_FOUNDING_01",
       "location": {
         "commune": "An Thạch",
         "district": "Tuy An",
@@ -19,14 +17,23 @@
       "tags": [
         "Mở mang bờ cõi",
         "Chúa Nguyễn"
-      ]
+      ],
+      "title": "Thành lập Phủ Phú Yên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Phủ Phú Yên 1611 An Thạch, Tuy An, Phú Yên Nguyễn Hoàng Văn Phong Lương Văn Chánh Mở mang bờ cõi Chúa Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Phủ Phú Yên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Ph%E1%BB%A7+Ph%C3%BA+Y%C3%AAn+1611+An+Th%E1%BA%A1ch%2C+Tuy+An%2C+Ph%C3%BA+Y%C3%AAn+Nguy%E1%BB%85n+Ho%C3%A0ng+V%C4%83n+Phong+L%C6%B0%C6%A1ng+V%C4%83n+Ch%C3%A1nh+M%E1%BB%9F+mang+b%E1%BB%9D+c%C3%B5i+Ch%C3%BAa+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1611
     },
     {
-      "id": "PhuYen_CANVUONG_01",
-      "year": 1885,
       "date": null,
-      "title": "Khởi nghĩa Lê Thành Phương",
       "description": "Hưởng ứng chiếu Cần Vương, Lê Thành Phương đã dựng cờ khởi nghĩa tại núi Một (Tuy An), được nhân dân tôn làm Thống soái quân vụ. Nghĩa quân đã làm chủ tỉnh Phú Yên trong 2 năm (1885-1887) trước khi bị quân Pháp đàn áp.",
+      "id": "PhuYen_CANVUONG_01",
       "location": {
         "commune": "An Hiệp",
         "district": "Tuy An",
@@ -38,14 +45,23 @@
       "tags": [
         "Phong trào Cần Vương",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Khởi nghĩa Lê Thành Phương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Lê Thành Phương 1885 An Hiệp, Tuy An, Phú Yên Lê Thành Phương Phong trào Cần Vương Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Lê Thành Phương",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+L%C3%AA+Th%C3%A0nh+Ph%C6%B0%C6%A1ng+1885+An+Hi%E1%BB%87p%2C+Tuy+An%2C+Ph%C3%BA+Y%C3%AAn+L%C3%AA+Th%C3%A0nh+Ph%C6%B0%C6%A1ng+Phong+tr%C3%A0o+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
-      "id": "PhuYen_REV_01",
-      "year": 1930,
       "date": "1930-10-05",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
       "description": "Tại xóm Đồng Bé (thôn Phước Long), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Phú Yên được thành lập với 9 đảng viên, do đồng chí Phan Lưu Thanh làm Bí thư. Sự kiện đánh dấu bước ngoặt lịch sử trong phong trào cách mạng tại địa phương.",
+      "id": "PhuYen_REV_01",
       "location": {
         "commune": "Xuân Long",
         "district": "Đồng Xuân",
@@ -57,14 +73,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên 1930 Xuân Long, Đồng Xuân, Phú Yên Phan Lưu Thanh Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+1930+Xu%C3%A2n+Long%2C+%C4%90%E1%BB%93ng+Xu%C3%A2n%2C+Ph%C3%BA+Y%C3%AAn+Phan+L%C6%B0u+Thanh+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "PhuYen_REV_02",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Tuy Hòa",
       "description": "Hơn 15.000 quần chúng nhân dân từ các ngả đường kéo về sân vận động thị xã Tuy Hòa dự mít tinh. Ủy ban Khởi nghĩa tuyên bố xóa bỏ chính quyền thực dân phong kiến, thành lập Ủy ban Nhân dân Cách mạng lâm thời tỉnh Phú Yên.",
+      "id": "PhuYen_REV_02",
       "location": {
         "commune": null,
         "district": "Thành phố Tuy Hòa",
@@ -74,14 +99,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Tuy Hòa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Tuy Hòa 1945 Thành phố Tuy Hòa, Phú Yên Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Tuy Hòa",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Tuy+H%C3%B2a+1945+Th%C3%A0nh+ph%E1%BB%91+Tuy+H%C3%B2a%2C+Ph%C3%BA+Y%C3%AAn+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "PhuYen_FRENCH_WAR_01",
-      "year": 1954,
-      "date": "1954-06-00",
-      "title": "Đánh bại Chiến dịch Át-lăng (Atlante)",
+      "date": null,
       "description": "Quân dân Phú Yên phối hợp với chủ lực Liên khu 5 đã tổ chức phản công, bẻ gãy hoàn toàn chiến dịch Át-lăng (chiến dịch quân sự quy mô lớn nhất của Pháp tại chiến trường Nam Trung Bộ), giải phóng hoàn toàn tỉnh Phú Yên trước khi Hiệp định Genève được ký kết.",
+      "id": "PhuYen_FRENCH_WAR_01",
       "location": {
         "commune": null,
         "district": null,
@@ -91,14 +125,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Đánh bại Chiến dịch Át-lăng (Atlante)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đánh bại Chiến dịch Át-lăng (Atlante) 1954 Phú Yên Kháng chiến chống Pháp Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đánh bại Chiến dịch Át-lăng (Atlante)",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C3%A1nh+b%E1%BA%A1i+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C3%81t-l%C4%83ng+%28Atlante%29+1954+Ph%C3%BA+Y%C3%AAn+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "PhuYen_US_WAR_01",
-      "year": 1960,
       "date": "1960-12-22",
-      "title": "Đồng khởi Hòa Thịnh",
       "description": "Dưới ánh sáng Nghị quyết 15, nhân dân xã Hòa Thịnh (Tuy Hòa) đã nhất loạt nổi dậy, dùng gậy gộc, giáo mác phá tan bộ máy kìm kẹp của địch. Đây là ngọn cờ đầu của phong trào Đồng khởi ở vùng đồng bằng Khu 5.",
+      "id": "PhuYen_US_WAR_01",
       "location": {
         "commune": "Hòa Thịnh",
         "district": "Tây Hòa",
@@ -108,14 +151,23 @@
       "tags": [
         "Đồng khởi",
         "Phá kìm"
-      ]
+      ],
+      "title": "Đồng khởi Hòa Thịnh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đồng khởi Hòa Thịnh 1960 Hòa Thịnh, Tây Hòa, Phú Yên Đồng khởi Phá kìm lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đồng khởi Hòa Thịnh",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%E1%BB%93ng+kh%E1%BB%9Fi+H%C3%B2a+Th%E1%BB%8Bnh+1960+H%C3%B2a+Th%E1%BB%8Bnh%2C+T%C3%A2y+H%C3%B2a%2C+Ph%C3%BA+Y%C3%AAn+%C4%90%E1%BB%93ng+kh%E1%BB%9Fi+Ph%C3%A1+k%C3%ACm+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1960
     },
     {
-      "id": "PhuYen_US_WAR_02",
-      "year": 1965,
       "date": "1965-02-15",
-      "title": "Sự kiện Vũng Rô (Tàu Không số)",
       "description": "Tàu 143 thuộc Đoàn 125 Hải quân chở vũ khí cập bến Vũng Rô thì bị địch phát hiện. Cuộc chiến đấu không cân sức giữa các thủy thủ, quân dân địa phương với hải lục không quân Mỹ diễn ra ác liệt. Để bảo vệ bí mật, ta buộc phải hủy tàu. Sự kiện này chấm dứt bí mật của con đường Hồ Chí Minh trên biển.",
+      "id": "PhuYen_US_WAR_02",
       "location": {
         "commune": "Hòa Xuân Nam",
         "district": "Thị xã Đông Hòa",
@@ -125,14 +177,23 @@
       "tags": [
         "Đường Hồ Chí Minh trên biển",
         "Hải quân"
-      ]
+      ],
+      "title": "Sự kiện Vũng Rô (Tàu Không số)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự kiện Vũng Rô (Tàu Không số) 1965 Hòa Xuân Nam, Thị xã Đông Hòa, Phú Yên Đường Hồ Chí Minh trên biển Hải quân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự kiện Vũng Rô (Tàu Không số)",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+ki%E1%BB%87n+V%C5%A9ng+R%C3%B4+%28T%C3%A0u+Kh%C3%B4ng+s%E1%BB%91%29+1965+H%C3%B2a+Xu%C3%A2n+Nam%2C+Th%E1%BB%8B+x%C3%A3+%C4%90%C3%B4ng+H%C3%B2a%2C+Ph%C3%BA+Y%C3%AAn+%C4%90%C6%B0%E1%BB%9Dng+H%E1%BB%93+Ch%C3%AD+Minh+tr%C3%AAn+bi%E1%BB%83n+H%E1%BA%A3i+qu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "PhuYen_US_WAR_03",
-      "year": 1966,
       "date": "1966-06-24",
-      "title": "Chiến thắng Gò Thì Thùng",
       "description": "Tại hệ thống địa đạo Gò Thì Thùng (được mệnh danh là Củ Chi của Phú Yên), bộ đội chủ lực Quân khu 5 và dân quân du kích đã đánh bại cuộc hành quân càn quét quy mô lớn của Sư đoàn Mãnh Hổ (Hàn Quốc) và quân Mỹ.",
+      "id": "PhuYen_US_WAR_03",
       "location": {
         "commune": "An Xuân",
         "district": "Tuy An",
@@ -142,14 +203,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Địa đạo"
-      ]
+      ],
+      "title": "Chiến thắng Gò Thì Thùng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Gò Thì Thùng 1966 An Xuân, Tuy An, Phú Yên Kháng chiến chống Mỹ Địa đạo lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Gò Thì Thùng",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+G%C3%B2+Th%C3%AC+Th%C3%B9ng+1966+An+Xu%C3%A2n%2C+Tuy+An%2C+Ph%C3%BA+Y%C3%AAn+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+%C4%90%E1%BB%8Ba+%C4%91%E1%BA%A1o+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
-      "id": "PhuYen_US_WAR_04",
-      "year": 1975,
       "date": "1975-03-24",
-      "title": "Chiến thắng Đường 7 - Sông Ba",
       "description": "Sau khi thất thủ ở Buôn Ma Thuột, Quân đoàn 2 ngụy rút chạy theo đường 7 (nay là QL25) về Tuy Hòa. Quân ta đã tổ chức truy kích, chặn đánh và tiêu diệt hoàn toàn quân địch tại khu vực Củng Sơn và hạ lưu sông Ba, tạo nên 'cơn ác mộng Đường 7'.",
+      "id": "PhuYen_US_WAR_04",
       "location": {
         "commune": "Sơn Hà",
         "district": "Sơn Hòa",
@@ -159,14 +229,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Truy kích"
-      ]
+      ],
+      "title": "Chiến thắng Đường 7 - Sông Ba",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đường 7 - Sông Ba 1975 Sơn Hà, Sơn Hòa, Phú Yên Chiến dịch Xuân 1975 Truy kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đường 7 - Sông Ba",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%C6%B0%E1%BB%9Dng+7+-+S%C3%B4ng+Ba+1975+S%C6%A1n+H%C3%A0%2C+S%C6%A1n+H%C3%B2a%2C+Ph%C3%BA+Y%C3%AAn+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Truy+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "PhuYen_US_WAR_05",
-      "year": 1975,
       "date": "1975-04-01",
-      "title": "Giải phóng tỉnh Phú Yên",
       "description": "Quân đoàn 2, Sư đoàn 320 và lực lượng vũ trang địa phương tiến vào giải phóng thị xã Tuy Hòa. Cờ giải phóng tung bay trên tháp Nhạn, tỉnh Phú Yên hoàn toàn sạch bóng quân thù.",
+      "id": "PhuYen_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Thành phố Tuy Hòa",
@@ -176,14 +255,23 @@
       "tags": [
         "Giải phóng",
         "Chiến dịch Xuân 1975"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Phú Yên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Phú Yên 1975 Thành phố Tuy Hòa, Phú Yên Giải phóng Chiến dịch Xuân 1975 lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Phú Yên",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+Ph%C3%BA+Y%C3%AAn+1975+Th%C3%A0nh+ph%E1%BB%91+Tuy+H%C3%B2a%2C+Ph%C3%BA+Y%C3%AAn+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "1989-07-01",
+      "description": "Sau khi tỉnh Phú Khánh được chia tách, tỉnh Phú Yên được tái lập và chính thức đi vào hoạt động từ ngày 1/7/1989.",
       "id": "PhuYen_ADMIN_01",
-      "year": 1989,
-      "date": "1989-06-30",
-      "title": "Tái lập tỉnh Phú Yên",
-      "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Phú Khánh (được hợp nhất từ năm 1975) thành hai tỉnh Phú Yên và Khánh Hòa. Tỉnh Phú Yên chính thức đi vào hoạt động trở lại từ ngày 01/07/1989.",
       "location": {
         "commune": null,
         "district": null,
@@ -193,7 +281,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Phú Yên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Phú Yên 1989 Phú Yên Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Phú Yên",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Ph%C3%BA+Y%C3%AAn+1989+Ph%C3%BA+Y%C3%AAn+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1989
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/PhuYen.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/PhuYen_vi.json"
+  }
 }

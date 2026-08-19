@@ -1,11 +1,9 @@
 {
   "events": [
     {
+      "date": "1929-10-28",
+      "description": "Đêm 28/10/1929, tại khu vực Làng 3 đồn điền cao su Phú Riềng, Chi bộ Đông Dương Cộng sản Đảng được thành lập do Nguyễn Xuân Cừ làm Bí thư. Đây là chi bộ cộng sản đầu tiên ở các đồn điền cao su Đông Nam Bộ và là hạt nhân lãnh đạo phong trào công nhân Phú Riềng.",
       "id": "BinhPhuoc_COLONIAL_01",
-      "year": 1930,
-      "date": "1930-02-03",
-      "title": "Thành lập Chi bộ Đông Dương Cộng sản Đảng (Phú Riềng Đỏ)",
-      "description": "Tại khu rừng sau Làng 3 của đồn điền cao su Phú Riềng, Chi bộ Đông Dương Cộng sản Đảng đầu tiên của vùng Đông Nam Bộ được thành lập do đồng chí Nguyễn Xuân Cừ làm Bí thư. Sự kiện này trùng với ngày thành lập Đảng, mở đầu cho phong trào đấu tranh 'Phú Riềng Đỏ' lừng lẫy của giai cấp công nhân cao su.",
       "location": {
         "commune": "Thuận Phú",
         "district": "Đồng Phú",
@@ -18,14 +16,23 @@
       "tags": [
         "Thành lập Đảng",
         "Phong trào công nhân"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đông Dương Cộng sản Đảng ở Phú Riềng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đông Dương Cộng sản Đảng ở Phú Riềng 1929 Thuận Phú, Đồng Phú, Bình Phước Nguyễn Xuân Cừ Trần Tử Bình Thành lập Đảng Phong trào công nhân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đông Dương Cộng sản Đảng ở Phú Riềng",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%90%E1%BA%A3ng+%E1%BB%9F+Ph%C3%BA+Ri%E1%BB%81ng+1929+Thu%E1%BA%ADn+Ph%C3%BA%2C+%C4%90%E1%BB%93ng+Ph%C3%BA%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+Nguy%E1%BB%85n+Xu%C3%A2n+C%E1%BB%AB+Tr%E1%BA%A7n+T%E1%BB%AD+B%C3%ACnh+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+Phong+tr%C3%A0o+c%C3%B4ng+nh%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "BinhPhuoc_REV_01",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại Hớn Quản và Lộc Ninh",
       "description": "Lực lượng Thanh niên Tiền phong và công nhân các đồn điền cao su đã nổi dậy giành chính quyền tại quận lỵ Hớn Quản và Lộc Ninh. Hệ thống chính quyền thực dân tại các đồn điền cao su sụp đổ, chính quyền cách mạng về tay nhân dân, đóng góp vào thắng lợi chung của Cách mạng tháng Tám.",
+      "id": "BinhPhuoc_REV_01",
       "location": {
         "commune": null,
         "district": "Hớn Quản",
@@ -35,14 +42,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Hớn Quản và Lộc Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Hớn Quản và Lộc Ninh 1945 Hớn Quản, Bình Phước Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Hớn Quản và Lộc Ninh",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+H%E1%BB%9Bn+Qu%E1%BA%A3n+v%C3%A0+L%E1%BB%99c+Ninh+1945+H%E1%BB%9Bn+Qu%E1%BA%A3n%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "BinhPhuoc_US_WAR_01",
-      "year": 1965,
       "date": "1965-06-09",
-      "title": "Chiến thắng Đồng Xoài",
       "description": "Bộ đội chủ lực Miền phối hợp với quân dân địa phương mở cuộc tấn công vào Chi khu quân sự Đồng Xoài. Sau 2 ngày chiến đấu ác liệt, ta tiêu diệt 4 tiểu đoàn địch. Chiến thắng này cùng với chiến thắng Bình Giã, Ba Gia đã góp phần làm phá sản chiến lược 'Chiến tranh đặc biệt' của Mỹ.",
+      "id": "BinhPhuoc_US_WAR_01",
       "location": {
         "commune": "Tân Phú",
         "district": "Thành phố Đồng Xoài",
@@ -52,14 +68,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Chiến thắng lớn"
-      ]
+      ],
+      "title": "Chiến thắng Đồng Xoài",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đồng Xoài 1965 Tân Phú, Thành phố Đồng Xoài, Bình Phước Kháng chiến chống Mỹ Chiến thắng lớn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đồng Xoài",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%E1%BB%93ng+Xo%C3%A0i+1965+T%C3%A2n+Ph%C3%BA%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90%E1%BB%93ng+Xo%C3%A0i%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%9Bn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "BinhPhuoc_US_WAR_02",
-      "year": 1972,
       "date": "1972-04-07",
-      "title": "Giải phóng Lộc Ninh (Thủ phủ Kháng chiến)",
       "description": "Trong Chiến dịch Nguyễn Huệ, Sư đoàn 5 chủ lực đã tấn công và giải phóng hoàn toàn quận lỵ Lộc Ninh. Lộc Ninh trở thành huyện đầu tiên ở miền Nam được giải phóng, sau đó được chọn làm thủ phủ của Chính phủ Cách mạng Lâm thời Cộng hòa miền Nam Việt Nam.",
+      "id": "BinhPhuoc_US_WAR_02",
       "location": {
         "commune": null,
         "district": "Lộc Ninh",
@@ -70,14 +95,23 @@
         "Mùa hè đỏ lửa",
         "Giải phóng",
         "Căn cứ địa"
-      ]
+      ],
+      "title": "Giải phóng Lộc Ninh (Thủ phủ Kháng chiến)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Lộc Ninh (Thủ phủ Kháng chiến) 1972 Lộc Ninh, Bình Phước Mùa hè đỏ lửa Giải phóng Căn cứ địa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Lộc Ninh (Thủ phủ Kháng chiến)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+L%E1%BB%99c+Ninh+%28Th%E1%BB%A7+ph%E1%BB%A7+Kh%C3%A1ng+chi%E1%BA%BFn%29+1972+L%E1%BB%99c+Ninh%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+M%C3%B9a+h%C3%A8+%C4%91%E1%BB%8F+l%E1%BB%ADa+Gi%E1%BA%A3i+ph%C3%B3ng+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
+      "date": "1972-08-28",
+      "description": "Trong 150 ngày đêm từ 5/4 đến 28/8/1972, Sư đoàn 7 phối hợp quân dân địa phương giữ chốt Tàu Ô trên Quốc lộ 13, ngăn lực lượng đối phương giải tỏa An Lộc và tái chiếm Lộc Ninh. Ngày 28/8/1972 đánh dấu thắng lợi của cuộc chiến đấu tại chốt chặn Tàu Ô.",
       "id": "BinhPhuoc_US_WAR_03",
-      "year": 1972,
-      "date": "1972-04-13",
-      "title": "Chốt chặn Tàu Ô (Bức tường thép trên đường 13)",
-      "description": "Sư đoàn 7 bộ đội chủ lực đã lập chốt chặn trên đường 13 (khu vực Tàu Ô - Xóm Ruộng) để ngăn chặn quân địch từ Sài Gòn lên giải tỏa cho An Lộc. Cuộc chiến đấu giằng co diễn ra suốt 150 ngày đêm dưới mưa bom bão đạn, được ví như 'Bức tường thép' chặn đứng các sư đoàn địch.",
       "location": {
         "commune": "Tân Khai",
         "district": "Hớn Quản",
@@ -87,14 +121,23 @@
       "tags": [
         "Mùa hè đỏ lửa",
         "Phòng ngự"
-      ]
+      ],
+      "title": "Chiến thắng Chốt chặn Tàu Ô",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Chốt chặn Tàu Ô 1972 Tân Khai, Hớn Quản, Bình Phước Mùa hè đỏ lửa Phòng ngự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Chốt chặn Tàu Ô",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ch%E1%BB%91t+ch%E1%BA%B7n+T%C3%A0u+%C3%94+1972+T%C3%A2n+Khai%2C+H%E1%BB%9Bn+Qu%E1%BA%A3n%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+M%C3%B9a+h%C3%A8+%C4%91%E1%BB%8F+l%E1%BB%ADa+Ph%C3%B2ng+ng%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
-      "id": "BinhPhuoc_US_WAR_04",
-      "year": 1973,
-      "date": "1973-03-00",
-      "title": "Xây dựng Căn cứ Tà Thiết (Rừng Chính phủ)",
+      "date": null,
       "description": "Tại rừng Tà Thiết (Lộc Ninh), Bộ Chỉ huy Miền đã xây dựng căn cứ quy mô lớn gồm hầm hào, hội trường, nhà ở bán âm kiên cố. Đây là nơi Đại tướng Văn Tiến Dũng và Bộ Chính trị đã họp bàn và phát lệnh Tổng tiến công mùa Xuân 1975 (còn gọi là Căn cứ Bộ Chỉ huy quân giải phóng miền Nam Việt Nam).",
+      "id": "BinhPhuoc_US_WAR_04",
       "location": {
         "commune": "Lộc Thành",
         "district": "Lộc Ninh",
@@ -108,14 +151,23 @@
       "tags": [
         "Căn cứ địa",
         "Di tích quốc gia"
-      ]
+      ],
+      "title": "Xây dựng Căn cứ Tà Thiết (Rừng Chính phủ)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Căn cứ Tà Thiết (Rừng Chính phủ) 1973 Lộc Thành, Lộc Ninh, Bình Phước Văn Tiến Dũng Phạm Hùng Trần Văn Trà Căn cứ địa Di tích quốc gia lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Căn cứ Tà Thiết (Rừng Chính phủ)",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+C%C4%83n+c%E1%BB%A9+T%C3%A0+Thi%E1%BA%BFt+%28R%E1%BB%ABng+Ch%C3%ADnh+ph%E1%BB%A7%29+1973+L%E1%BB%99c+Th%C3%A0nh%2C+L%E1%BB%99c+Ninh%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+V%C4%83n+Ti%E1%BA%BFn+D%C5%A9ng+Ph%E1%BA%A1m+H%C3%B9ng+Tr%E1%BA%A7n+V%C4%83n+Tr%C3%A0+C%C4%83n+c%E1%BB%A9+%C4%91%E1%BB%8Ba+Di+t%C3%ADch+qu%E1%BB%91c+gia+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1973
     },
     {
-      "id": "BinhPhuoc_US_WAR_05",
-      "year": 1975,
       "date": "1975-01-06",
-      "title": "Chiến thắng Phước Long (Đòn trinh sát chiến lược)",
       "description": "Quân đoàn 4 và lực lượng địa phương tấn công giải phóng thị xã Phước Long và toàn tỉnh Phước Long. Đây là tỉnh đầu tiên ở miền Nam được giải phóng hoàn toàn. Chiến thắng này giúp Bộ Chính trị đo lường phản ứng của Mỹ (Mỹ không can thiệp trở lại), từ đó hạ quyết tâm giải phóng miền Nam trong năm 1975.",
+      "id": "BinhPhuoc_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Thị xã Phước Long",
@@ -127,14 +179,23 @@
       "tags": [
         "Chiến dịch đường 14",
         "Giải phóng"
-      ]
+      ],
+      "title": "Chiến thắng Phước Long (Đòn trinh sát chiến lược)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Phước Long (Đòn trinh sát chiến lược) 1975 Thị xã Phước Long, Bình Phước Hoàng Cầm Chiến dịch đường 14 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Phước Long (Đòn trinh sát chiến lược)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ph%C6%B0%E1%BB%9Bc+Long+%28%C4%90%C3%B2n+trinh+s%C3%A1t+chi%E1%BA%BFn+l%C6%B0%E1%BB%A3c%29+1975+Th%E1%BB%8B+x%C3%A3+Ph%C6%B0%E1%BB%9Bc+Long%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+Ho%C3%A0ng+C%E1%BA%A7m+Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%91%C6%B0%E1%BB%9Dng+14+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "BinhPhuoc_US_WAR_06",
-      "year": 1975,
       "date": "1975-03-23",
-      "title": "Giải phóng An Lộc - Bình Long",
       "description": "Trước sức ép của quân ta trên khắp các chiến trường Tây Nguyên và Đông Nam Bộ, quân địch tại An Lộc (thủ phủ tỉnh Bình Long cũ) buộc phải rút chạy. Bộ đội ta tiến vào tiếp quản, giải phóng hoàn toàn vùng đất Bình Long (Hớn Quản, Chơn Thành ngày nay), mở thông đường về Sài Gòn.",
+      "id": "BinhPhuoc_US_WAR_06",
       "location": {
         "commune": null,
         "district": "Thị xã Bình Long",
@@ -144,14 +205,23 @@
       "tags": [
         "Chiến dịch Xuân 1975",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng An Lộc - Bình Long",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng An Lộc - Bình Long 1975 Thị xã Bình Long, Bình Phước Chiến dịch Xuân 1975 Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng An Lộc - Bình Long",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+An+L%E1%BB%99c+-+B%C3%ACnh+Long+1975+Th%E1%BB%8B+x%C3%A3+B%C3%ACnh+Long%2C+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+Chi%E1%BA%BFn+d%E1%BB%8Bch+Xu%C3%A2n+1975+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "BinhPhuoc_ADMIN_01",
-      "year": 1997,
       "date": "1997-01-01",
-      "title": "Tái lập tỉnh Bình Phước",
       "description": "Theo Nghị quyết của Quốc hội khóa IX, tỉnh Sông Bé (được hợp nhất từ năm 1976) được chia tách thành hai tỉnh Bình Dương và Bình Phước. Tỉnh Bình Phước chính thức đi vào hoạt động với tỉnh lỵ ban đầu đặt tại Đồng Xoài, bắt đầu hành trình phát triển mới.",
+      "id": "BinhPhuoc_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -161,7 +231,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Bình Phước",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Bình Phước 1997 Bình Phước Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Bình Phước",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+1997+B%C3%ACnh+Ph%C6%B0%E1%BB%9Bc+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/BinhPhuoc.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/BinhPhuoc_vi.json"
+  }
 }

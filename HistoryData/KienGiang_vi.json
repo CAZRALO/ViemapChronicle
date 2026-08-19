@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "KienGiang_FOUNDING_01",
-      "year": 1708,
       "date": null,
-      "title": "Mạc Cửu dâng đất Hà Tiên cho Chúa Nguyễn",
       "description": "Mạc Cửu (một thương nhân người Hoa có công khai phá vùng đất Hà Tiên) đã dâng biểu xin sáp nhập vùng đất này vào lãnh thổ Đàng Trong. Chúa Nguyễn Phúc Chu chấp thuận, phong Mạc Cửu làm Tổng binh trấn Hà Tiên. Sự kiện này chính thức xác lập chủ quyền của Đại Việt tại vùng biển Tây Nam.",
+      "id": "KienGiang_FOUNDING_01",
       "location": {
         "commune": "Bình San",
         "district": "Thành phố Hà Tiên",
@@ -18,14 +16,23 @@
       "tags": [
         "Mở mang bờ cõi",
         "Họ Mạc"
-      ]
+      ],
+      "title": "Mạc Cửu dâng đất Hà Tiên cho Chúa Nguyễn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Mạc Cửu dâng đất Hà Tiên cho Chúa Nguyễn 1708 Bình San, Thành phố Hà Tiên, Kiên Giang Mạc Cửu Nguyễn Phúc Chu Mở mang bờ cõi Họ Mạc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Mạc Cửu dâng đất Hà Tiên cho Chúa Nguyễn",
+          "url": "https://www.youtube.com/results?search_query=M%E1%BA%A1c+C%E1%BB%ADu+d%C3%A2ng+%C4%91%E1%BA%A5t+H%C3%A0+Ti%C3%AAn+cho+Ch%C3%BAa+Nguy%E1%BB%85n+1708+B%C3%ACnh+San%2C+Th%C3%A0nh+ph%E1%BB%91+H%C3%A0+Ti%C3%AAn%2C+Ki%C3%AAn+Giang+M%E1%BA%A1c+C%E1%BB%ADu+Nguy%E1%BB%85n+Ph%C3%BAc+Chu+M%E1%BB%9F+mang+b%E1%BB%9D+c%C3%B5i+H%E1%BB%8D+M%E1%BA%A1c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1708
     },
     {
-      "id": "KienGiang_RESISTANCE_01",
-      "year": 1868,
       "date": "1868-06-16",
-      "title": "Trận đánh đồn Kiên Giang (Kiếm bạt Kiên Giang)",
-      "description": "Anh hùng dân tộc Nguyễn Trung Trực đã chỉ huy nghĩa quân cải trang, bất ngờ đánh úp đồn Kiên Giang (Rạch Giá) của Pháp. Nghĩa quân tiêu diệt chủ tỉnh Chánh Phèn và làm chủ tình hình trong 5 ngày. Đây là trận đánh chiếm lại đồn binh đầu tiên của phong trào kháng Pháp tại Nam Kỳ.",
+      "description": "Ngày 16/6/1868, Nguyễn Trung Trực chỉ huy nghĩa quân bất ngờ đánh chiếm đồn Kiên Giang (Rạch Giá), tiêu diệt nhiều quân Pháp và làm chủ đồn trong gần một tuần. Chiến thắng là một trong những chiến công nổi bật của phong trào kháng Pháp ở Nam Kỳ.",
+      "id": "KienGiang_RESISTANCE_01",
       "location": {
         "commune": "Vĩnh Thanh Vân",
         "district": "Thành phố Rạch Giá",
@@ -37,14 +44,23 @@
       "tags": [
         "Chống Pháp",
         "Chiến công"
-      ]
+      ],
+      "title": "Trận đánh đồn Kiên Giang (Kiếm bạt Kiên Giang)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đánh đồn Kiên Giang (Kiếm bạt Kiên Giang) 1868 Vĩnh Thanh Vân, Thành phố Rạch Giá, Kiên Giang Nguyễn Trung Trực Chống Pháp Chiến công lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đánh đồn Kiên Giang (Kiếm bạt Kiên Giang)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%C3%A1nh+%C4%91%E1%BB%93n+Ki%C3%AAn+Giang+%28Ki%E1%BA%BFm+b%E1%BA%A1t+Ki%C3%AAn+Giang%29+1868+V%C4%A9nh+Thanh+V%C3%A2n%2C+Th%C3%A0nh+ph%E1%BB%91+R%E1%BA%A1ch+Gi%C3%A1%2C+Ki%C3%AAn+Giang+Nguy%E1%BB%85n+Trung+Tr%E1%BB%B1c+Ch%E1%BB%91ng+Ph%C3%A1p+Chi%E1%BA%BFn+c%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1868
     },
     {
-      "id": "KienGiang_REV_01",
-      "year": 1932,
       "date": null,
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Vĩnh Thuận)",
-      "description": "Tại làng Vĩnh Thuận (thuộc vùng U Minh Thượng), Chi bộ Đảng Cộng sản đầu tiên của tỉnh Rạch Giá (nay là Kiên Giang) được thành lập. Đây là mốc son đánh dấu sự ra đời của hạt nhân lãnh đạo phong trào cách mạng tại vùng căn cứ địa U Minh.",
+      "description": "Năm 1932, Chi bộ Ranh Hạt được thành lập ở khu vực Vĩnh Thuận, là một trong những tổ chức Đảng sớm nhất và được xem là chi bộ Đảng đầu tiên của Đảng bộ tỉnh Rạch Giá (nay thuộc Kiên Giang).",
+      "id": "KienGiang_REV_01",
       "location": {
         "commune": "Vĩnh Thuận",
         "district": "Vĩnh Thuận",
@@ -53,32 +69,50 @@
       "related_figures": [],
       "tags": [
         "Thành lập Đảng",
-        "U Minh Thượng"
-      ]
+        "Ranh Hạt"
+      ],
+      "title": "Thành lập Chi bộ Ranh Hạt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Ranh Hạt 1932 Vĩnh Thuận, Vĩnh Thuận, Kiên Giang Thành lập Đảng Ranh Hạt lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Ranh Hạt",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+Ranh+H%E1%BA%A1t+1932+V%C4%A9nh+Thu%E1%BA%ADn%2C+V%C4%A9nh+Thu%E1%BA%ADn%2C+Ki%C3%AAn+Giang+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+Ranh+H%E1%BA%A1t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1932
     },
     {
-      "id": "KienGiang_REV_02",
-      "year": 1945,
       "date": "1945-08-27",
-      "title": "Giành chính quyền tại Rạch Giá và Hà Tiên",
-      "description": "Lực lượng Thanh niên Tiền phong và quần chúng nhân dân đã phối hợp chiếm Dinh Tỉnh trưởng Rạch Giá và các công sở tại Hà Tiên. Chính quyền thực dân sụp đổ, Ủy ban Hành chính lâm thời tỉnh Rạch Giá và Hà Tiên được thành lập.",
+      "description": "Ngày 27/8/1945, lực lượng cách mạng và quần chúng nhân dân giành chính quyền tại Rạch Giá. Ngày 28/8, chính quyền tại Hà Tiên cũng về tay nhân dân, hoàn tất thắng lợi Cách mạng tháng Tám tại hai tỉnh Rạch Giá và Hà Tiên.",
+      "id": "KienGiang_REV_02",
       "location": {
         "commune": null,
-        "district": "Rạch Giá, Hà Tiên",
+        "district": "Rạch Giá",
         "province": "Kiên Giang"
       },
       "related_figures": [],
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Rạch Giá",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Rạch Giá 1945 Rạch Giá, Kiên Giang Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Rạch Giá",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+R%E1%BA%A1ch+Gi%C3%A1+1945+R%E1%BA%A1ch+Gi%C3%A1%2C+Ki%C3%AAn+Giang+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1959-10-30",
+      "description": "Ngày 30/10/1959, lực lượng vũ trang cách mạng tổ chức trận đánh tại Xẻo Rô (An Biên), tiêu diệt và làm tan rã một bộ phận lực lượng đối phương. Chiến thắng có ý nghĩa quan trọng đối với phong trào đấu tranh vũ trang ở Kiên Giang trước cao trào Đồng Khởi.",
       "id": "KienGiang_FRENCH_WAR_01",
-      "year": 1954,
-      "date": "1954-06-01",
-      "title": "Chiến thắng Xẻo Rô",
-      "description": "Tiểu đoàn 307 và Tiểu đoàn 302 phối hợp với bộ đội địa phương tấn công tiêu diệt cứ điểm Xẻo Rô (An Biên) và Chi khu Tắc Cậu. Đây là trận công kiên lớn nhất ở miền Tây trong kháng chiến chống Pháp, giải phóng hoàn toàn huyện An Biên và vùng U Minh Thượng.",
       "location": {
         "commune": "Hưng Yên",
         "district": "An Biên",
@@ -86,16 +120,26 @@
       },
       "related_figures": [],
       "tags": [
-        "Kháng chiến chống Pháp",
-        "Chiến thắng"
-      ]
+        "Kháng chiến chống Mỹ",
+        "Xẻo Rô",
+        "Đồng Khởi"
+      ],
+      "title": "Chiến thắng Xẻo Rô",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Xẻo Rô 1959 Hưng Yên, An Biên, Kiên Giang Kháng chiến chống Mỹ Xẻo Rô Đồng Khởi lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Xẻo Rô",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+X%E1%BA%BBo+R%C3%B4+1959+H%C6%B0ng+Y%C3%AAn%2C+An+Bi%C3%AAn%2C+Ki%C3%AAn+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+X%E1%BA%BBo+R%C3%B4+%C4%90%E1%BB%93ng+Kh%E1%BB%9Fi+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1959
     },
     {
-      "id": "KienGiang_US_WAR_01",
-      "year": 1962,
       "date": "1962-01-09",
-      "title": "Nữ anh hùng Phan Thị Ràng (Chị Sứ) hy sinh",
       "description": "Chị Phan Thị Ràng (nguyên mẫu của nhân vật Chị Sứ trong tác phẩm 'Hòn Đất' của Anh Đức) bị địch bắt và tra tấn dã man đến chết ngay dưới chân núi Hòn Đất. Sự hy sinh của chị đã trở thành biểu tượng cho lòng kiên trung của người phụ nữ Nam Bộ.",
+      "id": "KienGiang_US_WAR_01",
       "location": {
         "commune": "Thổ Sơn",
         "district": "Hòn Đất",
@@ -107,14 +151,23 @@
       "tags": [
         "Anh hùng",
         "Hòn Đất"
-      ]
+      ],
+      "title": "Nữ anh hùng Phan Thị Ràng (Chị Sứ) hy sinh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nữ anh hùng Phan Thị Ràng (Chị Sứ) hy sinh 1962 Thổ Sơn, Hòn Đất, Kiên Giang Phan Thị Ràng Anh hùng Hòn Đất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nữ anh hùng Phan Thị Ràng (Chị Sứ) hy sinh",
+          "url": "https://www.youtube.com/results?search_query=N%E1%BB%AF+anh+h%C3%B9ng+Phan+Th%E1%BB%8B+R%C3%A0ng+%28Ch%E1%BB%8B+S%E1%BB%A9%29+hy+sinh+1962+Th%E1%BB%95+S%C6%A1n%2C+H%C3%B2n+%C4%90%E1%BA%A5t%2C+Ki%C3%AAn+Giang+Phan+Th%E1%BB%8B+R%C3%A0ng+Anh+h%C3%B9ng+H%C3%B2n+%C4%90%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1962
     },
     {
+      "date": null,
+      "description": "Từ tháng 6/1967 đến tháng 3/1973, Trại giam tù binh Phú Quốc là nơi giam giữ gần 40.000 chiến sĩ cách mạng và tù binh. Nơi đây ghi dấu chế độ giam cầm, tra tấn khắc nghiệt cũng như các cuộc đấu tranh và vượt ngục kiên cường của tù binh.",
       "id": "KienGiang_US_WAR_02",
-      "year": 1967,
-      "date": "1967-07-00",
-      "title": "Mở rộng Trại giam Tù binh Chiến tranh Phú Quốc",
-      "description": "Chính quyền Mỹ - Ngụy mở rộng quy mô Trại giam Phú Quốc (Nhà lao Cây Dừa) lên tới 400 ha, giam giữ gần 40.000 tù binh cộng sản. Nơi đây đã diễn ra những cuộc tra tấn tàn bạo nhất nhưng cũng là nơi chứng kiến những cuộc vượt ngục và đấu tranh kiên cường nhất.",
       "location": {
         "commune": "An Thới",
         "district": "Thành phố Phú Quốc",
@@ -122,16 +175,26 @@
       },
       "related_figures": [],
       "tags": [
-        "Nhà tù",
-        "Tội ác chiến tranh"
-      ]
+        "Kháng chiến chống Mỹ",
+        "Nhà tù Phú Quốc",
+        "Tù binh"
+      ],
+      "title": "Trại giam tù binh Phú Quốc hoạt động quy mô lớn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trại giam tù binh Phú Quốc hoạt động quy mô lớn 1967 An Thới, Thành phố Phú Quốc, Kiên Giang Kháng chiến chống Mỹ Nhà tù Phú Quốc Tù binh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trại giam tù binh Phú Quốc hoạt động quy mô lớn",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%A1i+giam+t%C3%B9+binh+Ph%C3%BA+Qu%E1%BB%91c+ho%E1%BA%A1t+%C4%91%E1%BB%99ng+quy+m%C3%B4+l%E1%BB%9Bn+1967+An+Th%E1%BB%9Bi%2C+Th%C3%A0nh+ph%E1%BB%91+Ph%C3%BA+Qu%E1%BB%91c%2C+Ki%C3%AAn+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Nh%C3%A0+t%C3%B9+Ph%C3%BA+Qu%E1%BB%91c+T%C3%B9+binh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
     },
     {
+      "date": "1969-09-03",
+      "description": "Từ ngày 3/9 đến 18/11/1969, lực lượng cách mạng và nhân dân khu vực Ba Hòn kiên cường bám trụ, chống các đợt càn quét liên tục của quân đội Sài Gòn trong 78 ngày đêm, bảo vệ căn cứ và lực lượng tại Hòn Đất.",
       "id": "KienGiang_US_WAR_03",
-      "year": 1969,
-      "date": "1969-05-00",
-      "title": "Trận chiến 132 ngày đêm tại Ba Hòn",
-      "description": "Quân dân Hòn Đất đã kiên cường bám trụ hang động, đánh trả các đợt càn quét quy mô lớn của Mỹ - Ngụy vào khu vực Ba Hòn (Hòn Đất, Hòn Me, Hòn Sóc) trong suốt 132 ngày đêm, bảo vệ vững chắc căn cứ cách mạng.",
       "location": {
         "commune": "Thổ Sơn",
         "district": "Hòn Đất",
@@ -140,32 +203,51 @@
       "related_figures": [],
       "tags": [
         "Kháng chiến chống Mỹ",
-        "Chiến đấu"
-      ]
+        "Ba Hòn",
+        "78 ngày đêm"
+      ],
+      "title": "Trận chiến 78 ngày đêm tại Ba Hòn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận chiến 78 ngày đêm tại Ba Hòn 1969 Thổ Sơn, Hòn Đất, Kiên Giang Kháng chiến chống Mỹ Ba Hòn 78 ngày đêm lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận chiến 78 ngày đêm tại Ba Hòn",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+chi%E1%BA%BFn+78+ng%C3%A0y+%C4%91%C3%AAm+t%E1%BA%A1i+Ba+H%C3%B2n+1969+Th%E1%BB%95+S%C6%A1n%2C+H%C3%B2n+%C4%90%E1%BA%A5t%2C+Ki%C3%AAn+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ba+H%C3%B2n+78+ng%C3%A0y+%C4%91%C3%AAm+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1969
     },
     {
-      "id": "KienGiang_US_WAR_04",
-      "year": 1975,
       "date": "1975-04-30",
-      "title": "Giải phóng Rạch Giá và Hà Tiên",
-      "description": "Lực lượng vũ trang tỉnh phối hợp với quần chúng nổi dậy chiếm các cơ quan đầu não địch. Đến chiều ngày 30/4, thị xã Rạch Giá và thị xã Hà Tiên được giải phóng, góp phần hoàn thành sự nghiệp thống nhất đất nước.",
+      "description": "Đến khoảng 22 giờ ngày 30/4/1975, lực lượng cách mạng làm chủ thị xã Rạch Giá. Ngày 1/5, Hà Tiên và Kiên Lương được giải phóng; đến ngày 2/5, việc giải phóng tỉnh Kiên Giang cơ bản hoàn tất.",
+      "id": "KienGiang_US_WAR_04",
       "location": {
         "commune": null,
-        "district": "Rạch Giá, Hà Tiên",
+        "district": "Rạch Giá",
         "province": "Kiên Giang"
       },
       "related_figures": [],
       "tags": [
         "Giải phóng",
         "Ngày thống nhất"
-      ]
+      ],
+      "title": "Giải phóng thị xã Rạch Giá",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Rạch Giá 1975 Rạch Giá, Kiên Giang Giải phóng Ngày thống nhất lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Rạch Giá",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+R%E1%BA%A1ch+Gi%C3%A1+1975+R%E1%BA%A1ch+Gi%C3%A1%2C+Ki%C3%AAn+Giang+Gi%E1%BA%A3i+ph%C3%B3ng+Ng%C3%A0y+th%E1%BB%91ng+nh%E1%BA%A5t+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
+      "date": "1975-05-10",
+      "description": "Ngày 10/5/1975, quân Khmer Đỏ đổ bộ đánh chiếm đảo Thổ Chu, bắt đi và sát hại hơn 500 thường dân. Quân đội Nhân dân Việt Nam sau đó tổ chức phản công; ngày 23/5 cơ bản làm chủ đảo và đến 27/5 lực lượng địch còn lại bị tiêu diệt hoặc đầu hàng.",
       "id": "KienGiang_BORDER_WAR_01",
-      "year": 1975,
-      "date": "1975-05-03",
-      "title": "Quân Khmer Đỏ đánh chiếm đảo Thổ Chu",
-      "description": "Lợi dụng tình hình ta vừa giải phóng, quân Pol Pot đã đổ bộ đánh chiếm đảo Phú Quốc (bị ta đẩy lùi) và đảo Thổ Chu. Tại Thổ Chu, chúng đã bắt cóc và sát hại hơn 500 người dân vô tội. Quân đội nhân dân Việt Nam sau đó đã tổ chức phản công giải phóng đảo (24/5/1975).",
       "location": {
         "commune": "Thổ Châu",
         "district": "Thành phố Phú Quốc",
@@ -173,16 +255,26 @@
       },
       "related_figures": [],
       "tags": [
-        "Chiến tranh biên giới",
-        "Hải đảo"
-      ]
+        "Khmer Đỏ",
+        "Thổ Chu",
+        "Bảo vệ chủ quyền"
+      ],
+      "title": "Quân Khmer Đỏ đánh chiếm đảo Thổ Chu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Quân Khmer Đỏ đánh chiếm đảo Thổ Chu 1975 Thổ Châu, Thành phố Phú Quốc, Kiên Giang Khmer Đỏ Thổ Chu Bảo vệ chủ quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Quân Khmer Đỏ đánh chiếm đảo Thổ Chu",
+          "url": "https://www.youtube.com/results?search_query=Qu%C3%A2n+Khmer+%C4%90%E1%BB%8F+%C4%91%C3%A1nh+chi%E1%BA%BFm+%C4%91%E1%BA%A3o+Th%E1%BB%95+Chu+1975+Th%E1%BB%95+Ch%C3%A2u%2C+Th%C3%A0nh+ph%E1%BB%91+Ph%C3%BA+Qu%E1%BB%91c%2C+Ki%C3%AAn+Giang+Khmer+%C4%90%E1%BB%8F+Th%E1%BB%95+Chu+B%E1%BA%A3o+v%E1%BB%87+ch%E1%BB%A7+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "KienGiang_ADMIN_01",
-      "year": 2021,
       "date": "2021-01-01",
-      "title": "Thành lập Thành phố Phú Quốc (Thành phố đảo đầu tiên)",
       "description": "Ủy ban Thường vụ Quốc hội thông qua Nghị quyết thành lập thành phố Phú Quốc thuộc tỉnh Kiên Giang. Đây là thành phố đảo đầu tiên của Việt Nam, đánh dấu bước phát triển vượt bậc về kinh tế du lịch và vị thế biển đảo của quốc gia.",
+      "id": "KienGiang_ADMIN_01",
       "location": {
         "commune": null,
         "district": "Thành phố Phú Quốc",
@@ -192,7 +284,24 @@
       "tags": [
         "Hành chính",
         "Đô thị hóa"
-      ]
+      ],
+      "title": "Thành lập Thành phố Phú Quốc (Thành phố đảo đầu tiên)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Thành phố Phú Quốc (Thành phố đảo đầu tiên) 2021 Thành phố Phú Quốc, Kiên Giang Hành chính Đô thị hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Thành phố Phú Quốc (Thành phố đảo đầu tiên)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Th%C3%A0nh+ph%E1%BB%91+Ph%C3%BA+Qu%E1%BB%91c+%28Th%C3%A0nh+ph%E1%BB%91+%C4%91%E1%BA%A3o+%C4%91%E1%BA%A7u+ti%C3%AAn%29+2021+Th%C3%A0nh+ph%E1%BB%91+Ph%C3%BA+Qu%E1%BB%91c%2C+Ki%C3%AAn+Giang+H%C3%A0nh+ch%C3%ADnh+%C4%90%C3%B4+th%E1%BB%8B+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 2021
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/KienGiang.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/KienGiang_vi.json"
+  }
 }

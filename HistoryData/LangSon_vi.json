@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "LangSon_LE_01",
-      "year": 1427,
       "date": "1427-10-10",
-      "title": "Chiến thắng Chi Lăng - Xương Giang",
       "description": "Tại ải Chi Lăng, nghĩa quân Lam Sơn do Lê Lợi và Lê Sát chỉ huy đã tổ chức phục kích, chém đầu chủ tướng quân Minh là Liễu Thăng. Chiến thắng này đã đập tan viện binh của địch, buộc Vương Thông phải đầu hàng, chấm dứt 20 năm đô hộ của nhà Minh.",
+      "id": "LangSon_LE_01",
       "location": {
         "commune": "Chi Lăng",
         "district": "Chi Lăng",
@@ -19,14 +17,23 @@
       "tags": [
         "Khởi nghĩa Lam Sơn",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Chi Lăng - Xương Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Chi Lăng - Xương Giang 1427 Chi Lăng, Chi Lăng, Lạng Sơn Lê Lợi Lê Sát Liễu Thăng Khởi nghĩa Lam Sơn Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Chi Lăng - Xương Giang",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Chi+L%C4%83ng+-+X%C6%B0%C6%A1ng+Giang+1427+Chi+L%C4%83ng%2C+Chi+L%C4%83ng%2C+L%E1%BA%A1ng+S%C6%A1n+L%C3%AA+L%E1%BB%A3i+L%C3%AA+S%C3%A1t+Li%E1%BB%85u+Th%C4%83ng+Kh%E1%BB%9Fi+ngh%C4%A9a+Lam+S%C6%A1n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1427
     },
     {
-      "id": "LangSon_NGUYEN_01",
-      "year": 1831,
       "date": null,
-      "title": "Thành lập tỉnh Lạng Sơn",
       "description": "Trong cuộc cải cách hành chính lớn của vua Minh Mạng, trấn Lạng Sơn được đổi thành tỉnh Lạng Sơn. Đây là mốc thời gian chính thức xác lập danh xưng và địa giới hành chính cấp tỉnh của Lạng Sơn trong lịch sử.",
+      "id": "LangSon_NGUYEN_01",
       "location": {
         "commune": null,
         "district": "Thành phố Lạng Sơn",
@@ -38,14 +45,23 @@
       "tags": [
         "Hành chính",
         "Nhà Nguyễn"
-      ]
+      ],
+      "title": "Thành lập tỉnh Lạng Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Lạng Sơn 1831 Thành phố Lạng Sơn, Lạng Sơn Minh Mạng Hành chính Nhà Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Lạng Sơn",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+L%E1%BA%A1ng+S%C6%A1n+1831+Th%C3%A0nh+ph%E1%BB%91+L%E1%BA%A1ng+S%C6%A1n%2C+L%E1%BA%A1ng+S%C6%A1n+Minh+M%E1%BA%A1ng+H%C3%A0nh+ch%C3%ADnh+Nh%C3%A0+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1831
     },
     {
-      "id": "LangSon_COLONIAL_01",
-      "year": 1885,
       "date": "1885-02-13",
-      "title": "Quân Pháp chiếm Lạng Sơn",
       "description": "Trong chiến dịch Lạng Sơn, quân đội viễn chinh Pháp đã tấn công và chiếm được thành Lạng Sơn từ tay quân Thanh và lực lượng Cờ Đen. Tuy nhiên, cuộc rút lui hỗn loạn sau đó tại trận Bang Bo đã dẫn đến sự sụp đổ của chính phủ Jules Ferry tại Pháp.",
+      "id": "LangSon_COLONIAL_01",
       "location": {
         "commune": "Chi Lăng",
         "district": "Thành phố Lạng Sơn",
@@ -55,14 +71,23 @@
       "tags": [
         "Pháp thuộc",
         "Quân sự"
-      ]
+      ],
+      "title": "Quân Pháp chiếm Lạng Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Quân Pháp chiếm Lạng Sơn 1885 Chi Lăng, Thành phố Lạng Sơn, Lạng Sơn Pháp thuộc Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Quân Pháp chiếm Lạng Sơn",
+          "url": "https://www.youtube.com/results?search_query=Qu%C3%A2n+Ph%C3%A1p+chi%E1%BA%BFm+L%E1%BA%A1ng+S%C6%A1n+1885+Chi+L%C4%83ng%2C+Th%C3%A0nh+ph%E1%BB%91+L%E1%BA%A1ng+S%C6%A1n%2C+L%E1%BA%A1ng+S%C6%A1n+Ph%C3%A1p+thu%E1%BB%99c+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
-      "id": "LangSon_REV_01",
-      "year": 1940,
       "date": "1940-09-27",
-      "title": "Khởi nghĩa Bắc Sơn",
       "description": "Lợi dụng việc quân Nhật đánh chiếm Lạng Sơn khiến quân Pháp tháo chạy, Đảng bộ Bắc Sơn đã lãnh đạo nhân dân nổi dậy chiếm đồn Mỏ Nhài, xóa bỏ chính quyền địch. Đây là tiếng súng báo hiệu cho thời kỳ đấu tranh vũ trang của cách mạng Việt Nam.",
+      "id": "LangSon_REV_01",
       "location": {
         "commune": "Hưng Vũ",
         "district": "Bắc Sơn",
@@ -75,14 +100,23 @@
       "tags": [
         "Khởi nghĩa Bắc Sơn",
         "Cách mạng"
-      ]
+      ],
+      "title": "Khởi nghĩa Bắc Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Bắc Sơn 1940 Hưng Vũ, Bắc Sơn, Lạng Sơn Phùng Chí Kiên Chu Văn Tấn Khởi nghĩa Bắc Sơn Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Bắc Sơn",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+B%E1%BA%AFc+S%C6%A1n+1940+H%C6%B0ng+V%C5%A9%2C+B%E1%BA%AFc+S%C6%A1n%2C+L%E1%BA%A1ng+S%C6%A1n+Ph%C3%B9ng+Ch%C3%AD+Ki%C3%AAn+Chu+V%C4%83n+T%E1%BA%A5n+Kh%E1%BB%9Fi+ngh%C4%A9a+B%E1%BA%AFc+S%C6%A1n+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1940
     },
     {
-      "id": "LangSon_REV_02",
-      "year": 1941,
       "date": "1941-02-14",
-      "title": "Thành lập Trung đội Cứu quốc quân I",
       "description": "Tại khu rừng Khuổi Nọi, Đội du kích Bắc Sơn được đổi tên và chính thức thành lập Trung đội Cứu quốc quân I. Đây là một trong những đơn vị tiền thân của Quân đội Nhân dân Việt Nam.",
+      "id": "LangSon_REV_02",
       "location": {
         "commune": "Vũ Lễ",
         "district": "Bắc Sơn",
@@ -95,14 +129,23 @@
       "tags": [
         "Lực lượng vũ trang",
         "Tiền khởi nghĩa"
-      ]
+      ],
+      "title": "Thành lập Trung đội Cứu quốc quân I",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Trung đội Cứu quốc quân I 1941 Vũ Lễ, Bắc Sơn, Lạng Sơn Lương Văn Tri Chu Văn Tấn Lực lượng vũ trang Tiền khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Trung đội Cứu quốc quân I",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Trung+%C4%91%E1%BB%99i+C%E1%BB%A9u+qu%E1%BB%91c+qu%C3%A2n+I+1941+V%C5%A9+L%E1%BB%85%2C+B%E1%BA%AFc+S%C6%A1n%2C+L%E1%BA%A1ng+S%C6%A1n+L%C6%B0%C6%A1ng+V%C4%83n+Tri+Chu+V%C4%83n+T%E1%BA%A5n+L%E1%BB%B1c+l%C6%B0%E1%BB%A3ng+v%C5%A9+trang+Ti%E1%BB%81n+kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1941
     },
     {
-      "id": "LangSon_REV_03",
-      "year": 1945,
       "date": "1945-08-25",
-      "title": "Giành chính quyền tại tỉnh lỵ Lạng Sơn",
       "description": "Lực lượng cách mạng và quần chúng nhân dân đã bao vây, chiếm Dinh Tỉnh trưởng và các công sở tại thị xã Lạng Sơn. Chính quyền Nhật buộc phải đầu hàng, Ủy ban Cách mạng lâm thời tỉnh Lạng Sơn ra mắt nhân dân.",
+      "id": "LangSon_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Lạng Sơn",
@@ -114,14 +157,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại tỉnh lỵ Lạng Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại tỉnh lỵ Lạng Sơn 1945 Thành phố Lạng Sơn, Lạng Sơn Lương Như Ý Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại tỉnh lỵ Lạng Sơn",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+L%E1%BA%A1ng+S%C6%A1n+1945+Th%C3%A0nh+ph%E1%BB%91+L%E1%BA%A1ng+S%C6%A1n%2C+L%E1%BA%A1ng+S%C6%A1n+L%C6%B0%C6%A1ng+Nh%C6%B0+%C3%9D+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "LangSon_FRENCH_WAR_01",
-      "year": 1947,
       "date": "1947-10-30",
-      "title": "Chiến thắng Bông Lau - Lũng Phầy",
       "description": "Tiểu đoàn 374 và du kích địa phương tổ chức phục kích đoàn xe quân sự Pháp trên đường số 4 (đoạn đèo Bông Lau), phá hủy 27 xe, tiêu diệt nhiều sinh lực địch. Đây là trận phục kích giao thông lớn, gây tiếng vang trong những năm đầu kháng chiến.",
+      "id": "LangSon_FRENCH_WAR_01",
       "location": {
         "commune": "Tri Phương",
         "district": "Tràng Định",
@@ -131,14 +183,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Phục kích"
-      ]
+      ],
+      "title": "Chiến thắng Bông Lau - Lũng Phầy",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Bông Lau - Lũng Phầy 1947 Tri Phương, Tràng Định, Lạng Sơn Kháng chiến chống Pháp Phục kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Bông Lau - Lũng Phầy",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+B%C3%B4ng+Lau+-+L%C5%A9ng+Ph%E1%BA%A7y+1947+Tri+Ph%C6%B0%C6%A1ng%2C+Tr%C3%A0ng+%C4%90%E1%BB%8Bnh%2C+L%E1%BA%A1ng+S%C6%A1n+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Ph%E1%BB%A5c+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1947
     },
     {
-      "id": "LangSon_FRENCH_WAR_02",
-      "year": 1950,
       "date": "1950-10-17",
-      "title": "Giải phóng Lạng Sơn (Chiến thắng Đường 4)",
       "description": "Sau thất bại thảm hại tại Đông Khê và Cốc Xá (Cao Bằng), hệ thống phòng thủ của Pháp trên đường số 4 sụp đổ. Quân Pháp rút chạy khỏi Lạng Sơn, bộ đội ta tiến vào tiếp quản thị xã, giải phóng hoàn toàn vùng biên giới Việt - Trung.",
+      "id": "LangSon_FRENCH_WAR_02",
       "location": {
         "commune": null,
         "district": "Thành phố Lạng Sơn",
@@ -148,14 +209,23 @@
       "tags": [
         "Chiến dịch Biên giới",
         "Giải phóng"
-      ]
+      ],
+      "title": "Giải phóng Lạng Sơn (Chiến thắng Đường 4)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng Lạng Sơn (Chiến thắng Đường 4) 1950 Thành phố Lạng Sơn, Lạng Sơn Chiến dịch Biên giới Giải phóng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng Lạng Sơn (Chiến thắng Đường 4)",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+L%E1%BA%A1ng+S%C6%A1n+%28Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%C6%B0%E1%BB%9Dng+4%29+1950+Th%C3%A0nh+ph%E1%BB%91+L%E1%BA%A1ng+S%C6%A1n%2C+L%E1%BA%A1ng+S%C6%A1n+Chi%E1%BA%BFn+d%E1%BB%8Bch+Bi%C3%AAn+gi%E1%BB%9Bi+Gi%E1%BA%A3i+ph%C3%B3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
-      "id": "LangSon_ADMIN_01",
-      "year": 1978,
       "date": "1978-12-29",
-      "title": "Tái lập tỉnh Lạng Sơn",
       "description": "Quốc hội khóa VI ra Nghị quyết chia tách tỉnh Cao Lạng (được hợp nhất từ năm 1975) thành hai tỉnh Cao Bằng và Lạng Sơn. Tỉnh Lạng Sơn trở lại địa giới hành chính cũ, chuẩn bị đối mặt với cuộc chiến tranh biên giới.",
+      "id": "LangSon_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -165,14 +235,23 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Lạng Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Lạng Sơn 1978 Lạng Sơn Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Lạng Sơn",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+L%E1%BA%A1ng+S%C6%A1n+1978+L%E1%BA%A1ng+S%C6%A1n+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1978
     },
     {
-      "id": "LangSon_BORDER_WAR_01",
-      "year": 1979,
       "date": "1979-02-17",
-      "title": "Chiến tranh bảo vệ biên giới tại Lạng Sơn",
       "description": "Quân đoàn 55 của Trung Quốc tấn công ồ ạt vào khu vực Đồng Đăng và Hữu Nghị Quan. Sư đoàn 3 (Sao Vàng) cùng quân dân Lạng Sơn đã chiến đấu kiên cường tại Pháo đài Đồng Đăng, cầu Khánh Khê để ngăn chặn địch tiến về thị xã.",
+      "id": "LangSon_BORDER_WAR_01",
       "location": {
         "commune": "Đồng Đăng",
         "district": "Cao Lộc",
@@ -182,7 +261,24 @@
       "tags": [
         "Chiến tranh biên giới 1979",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến tranh bảo vệ biên giới tại Lạng Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến tranh bảo vệ biên giới tại Lạng Sơn 1979 Đồng Đăng, Cao Lộc, Lạng Sơn Chiến tranh biên giới 1979 Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến tranh bảo vệ biên giới tại Lạng Sơn",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+tranh+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+t%E1%BA%A1i+L%E1%BA%A1ng+S%C6%A1n+1979+%C4%90%E1%BB%93ng+%C4%90%C4%83ng%2C+Cao+L%E1%BB%99c%2C+L%E1%BA%A1ng+S%C6%A1n+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+1979+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/LangSon.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/LangSon_vi.json"
+  }
 }

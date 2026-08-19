@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "GiaLai_TAYSON_01",
-      "year": 1771,
       "date": null,
-      "title": "Xây dựng căn cứ Tây Sơn Thượng Đạo",
       "description": "Ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ chọn vùng đất An Khê (Tây Sơn Thượng Đạo) làm căn cứ địa đầu tiên để chiêu mộ nghĩa quân, luyện tập võ nghệ và tích trữ lương thảo trước khi tiến xuống đồng bằng.",
+      "id": "GiaLai_TAYSON_01",
       "location": {
         "commune": null,
         "district": "An Khê",
@@ -19,14 +17,23 @@
       "tags": [
         "Tây Sơn",
         "Khởi nghĩa"
-      ]
+      ],
+      "title": "Xây dựng căn cứ Tây Sơn Thượng Đạo",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng căn cứ Tây Sơn Thượng Đạo 1771 An Khê, Gia Lai Nguyễn Nhạc Nguyễn Huệ Nguyễn Lữ Tây Sơn Khởi nghĩa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng căn cứ Tây Sơn Thượng Đạo",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+c%C4%83n+c%E1%BB%A9+T%C3%A2y+S%C6%A1n+Th%C6%B0%E1%BB%A3ng+%C4%90%E1%BA%A1o+1771+An+Kh%C3%AA%2C+Gia+Lai+Nguy%E1%BB%85n+Nh%E1%BA%A1c+Nguy%E1%BB%85n+Hu%E1%BB%87+Nguy%E1%BB%85n+L%E1%BB%AF+T%C3%A2y+S%C6%A1n+Kh%E1%BB%9Fi+ngh%C4%A9a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1771
     },
     {
-      "id": "GiaLai_REV_01",
-      "year": 1946,
       "date": "1946-04-19",
-      "title": "Đại hội các dân tộc thiểu số miền Nam",
       "description": "Đại hội đoàn kết các dân tộc thiểu số miền Nam được tổ chức tại Pleiku. Tại đây, bức thư của Chủ tịch Hồ Chí Minh gửi Đại hội đã được công bố, khẳng định chính sách đoàn kết dân tộc.",
+      "id": "GiaLai_REV_01",
       "location": {
         "commune": null,
         "district": "Pleiku",
@@ -38,14 +45,23 @@
       "tags": [
         "Chính trị",
         "Đoàn kết dân tộc"
-      ]
+      ],
+      "title": "Đại hội các dân tộc thiểu số miền Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đại hội các dân tộc thiểu số miền Nam 1946 Pleiku, Gia Lai Hồ Chí Minh Chính trị Đoàn kết dân tộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đại hội các dân tộc thiểu số miền Nam",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%E1%BA%A1i+h%E1%BB%99i+c%C3%A1c+d%C3%A2n+t%E1%BB%99c+thi%E1%BB%83u+s%E1%BB%91+mi%E1%BB%81n+Nam+1946+Pleiku%2C+Gia+Lai+H%E1%BB%93+Ch%C3%AD+Minh+Ch%C3%ADnh+tr%E1%BB%8B+%C4%90o%C3%A0n+k%E1%BA%BFt+d%C3%A2n+t%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
-      "id": "GiaLai_FRENCH_01",
-      "year": 1954,
       "date": "1954-06-24",
-      "title": "Chiến thắng Đak Pơ - Mang Yang",
       "description": "Trung đoàn 96 quân đội Việt Minh tổ chức phục kích và tiêu diệt Binh đoàn cơ động 100 (GM100) - lực lượng tinh nhuệ của Pháp trên đường rút quân từ An Khê về Pleiku qua đèo Mang Yang.",
+      "id": "GiaLai_FRENCH_01",
       "location": {
         "commune": "Đăk Pơ",
         "district": "Đăk Pơ",
@@ -57,14 +73,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Đak Pơ - Mang Yang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đak Pơ - Mang Yang 1954 Đăk Pơ, Đăk Pơ, Gia Lai Nguyễn Minh Châu Kháng chiến chống Pháp Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đak Pơ - Mang Yang",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90ak+P%C6%A1+-+Mang+Yang+1954+%C4%90%C4%83k+P%C6%A1%2C+%C4%90%C4%83k+P%C6%A1%2C+Gia+Lai+Nguy%E1%BB%85n+Minh+Ch%C3%A2u+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "GiaLai_US_WAR_01",
-      "year": 1965,
       "date": "1965-02-07",
-      "title": "Trận tập kích sân bay Pleiku (Camp Holloway)",
       "description": "Quân Giải phóng miền Nam Việt Nam tấn công vào căn cứ cố vấn Mỹ và sân bay Pleiku (Camp Holloway), gây thiệt hại lớn cho không quân Mỹ. Sự kiện này là cái cớ để Mỹ phát động chiến tranh phá hoại miền Bắc (Chiến dịch Sấm Rền).",
+      "id": "GiaLai_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Pleiku",
@@ -74,14 +99,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Quân sự"
-      ]
+      ],
+      "title": "Trận tập kích sân bay Pleiku (Camp Holloway)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận tập kích sân bay Pleiku (Camp Holloway) 1965 Pleiku, Gia Lai Kháng chiến chống Mỹ Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận tập kích sân bay Pleiku (Camp Holloway)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+t%E1%BA%ADp+k%C3%ADch+s%C3%A2n+bay+Pleiku+%28Camp+Holloway%29+1965+Pleiku%2C+Gia+Lai+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "GiaLai_US_WAR_02",
-      "year": 1965,
       "date": "1965-11-14",
-      "title": "Chiến dịch Plei Me - Trận Ia Đrăng",
-      "description": "Trận đụng độ trực tiếp quy mô lớn đầu tiên giữa quân chủ lực Quân đội Nhân dân Việt Nam và kỵ binh bay của quân đội Mỹ tại thung lũng Ia Đrăng, gần biên giới Campuchia.",
+      "description": "Từ ngày 14/11/1965, tại thung lũng Ia Đrăng diễn ra các trận giao chiến ác liệt giữa lực lượng Quân đội Nhân dân Việt Nam và quân đội Mỹ. Đây là một giai đoạn nổi bật trong Chiến dịch Plei Me kéo dài từ 19/10 đến 26/11/1965.",
+      "id": "GiaLai_US_WAR_02",
       "location": {
         "commune": "Ia Mơ",
         "district": "Chư Prông",
@@ -95,14 +129,23 @@
         "Kháng chiến chống Mỹ",
         "Quân sự",
         "Ia Đrăng"
-      ]
+      ],
+      "title": "Trận Ia Đrăng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Ia Đrăng 1965 Ia Mơ, Chư Prông, Gia Lai Nguyễn Hữu An Hal Moore Kháng chiến chống Mỹ Quân sự Ia Đrăng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Ia Đrăng",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Ia+%C4%90r%C4%83ng+1965+Ia+M%C6%A1%2C+Ch%C6%B0+Pr%C3%B4ng%2C+Gia+Lai+Nguy%E1%BB%85n+H%E1%BB%AFu+An+Hal+Moore+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Qu%C3%A2n+s%E1%BB%B1+Ia+%C4%90r%C4%83ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "GiaLai_US_WAR_03",
-      "year": 1968,
       "date": "1968-01-30",
-      "title": "Cuộc tổng tiến công và nổi dậy Mậu Thân tại Gia Lai",
       "description": "Lực lượng vũ trang tỉnh Gia Lai đồng loạt tấn công vào các cơ quan đầu não của chính quyền Sài Gòn và quân đội Mỹ tại thị xã Pleiku, chiếm giữ đài phát thanh và nhà lao Pleiku trong thời gian ngắn.",
+      "id": "GiaLai_US_WAR_03",
       "location": {
         "commune": null,
         "district": "Pleiku",
@@ -112,14 +155,23 @@
       "tags": [
         "Mậu Thân 1968",
         "Đô thị"
-      ]
+      ],
+      "title": "Cuộc tổng tiến công và nổi dậy Mậu Thân tại Gia Lai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc tổng tiến công và nổi dậy Mậu Thân tại Gia Lai 1968 Pleiku, Gia Lai Mậu Thân 1968 Đô thị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc tổng tiến công và nổi dậy Mậu Thân tại Gia Lai",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+t%E1%BB%95ng+ti%E1%BA%BFn+c%C3%B4ng+v%C3%A0+n%E1%BB%95i+d%E1%BA%ADy+M%E1%BA%ADu+Th%C3%A2n+t%E1%BA%A1i+Gia+Lai+1968+Pleiku%2C+Gia+Lai+M%E1%BA%ADu+Th%C3%A2n+1968+%C4%90%C3%B4+th%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1968
     },
     {
-      "id": "GiaLai_US_WAR_04",
-      "year": 1975,
       "date": "1975-03-16",
-      "title": "Chiến thắng đường 7 - Sông Bờ (Cuộc rút lui Cheo Reo)",
       "description": "Sau khi mất Buôn Ma Thuột, quân đoàn 2 Việt Nam Cộng hòa rút chạy theo đường 7 (nay là QL25). Quân Giải phóng đã chặn đánh và tiêu diệt phần lớn lực lượng địch tại khu vực Cheo Reo - Phú Bổn.",
+      "id": "GiaLai_US_WAR_04",
       "location": {
         "commune": null,
         "district": "Ayun Pa",
@@ -129,14 +181,23 @@
       "tags": [
         "Chiến dịch Tây Nguyên",
         "Đại thắng mùa Xuân"
-      ]
+      ],
+      "title": "Chiến thắng đường 7 - Sông Bờ (Cuộc rút lui Cheo Reo)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng đường 7 - Sông Bờ (Cuộc rút lui Cheo Reo) 1975 Ayun Pa, Gia Lai Chiến dịch Tây Nguyên Đại thắng mùa Xuân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng đường 7 - Sông Bờ (Cuộc rút lui Cheo Reo)",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%91%C6%B0%E1%BB%9Dng+7+-+S%C3%B4ng+B%E1%BB%9D+%28Cu%E1%BB%99c+r%C3%BAt+lui+Cheo+Reo%29+1975+Ayun+Pa%2C+Gia+Lai+Chi%E1%BA%BFn+d%E1%BB%8Bch+T%C3%A2y+Nguy%C3%AAn+%C4%90%E1%BA%A1i+th%E1%BA%AFng+m%C3%B9a+Xu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     },
     {
-      "id": "GiaLai_US_WAR_05",
-      "year": 1975,
       "date": "1975-03-17",
-      "title": "Giải phóng thị xã Pleiku",
       "description": "Trước sức ép của chiến dịch Tây Nguyên, quân đội Sài Gòn bỏ chạy khỏi Pleiku. Quân Giải phóng tiến vào tiếp quản thị xã, cắm cờ trên Tòa hành chính tỉnh, đánh dấu sự giải phóng hoàn toàn tỉnh Gia Lai.",
+      "id": "GiaLai_US_WAR_05",
       "location": {
         "commune": null,
         "district": "Pleiku",
@@ -146,7 +207,24 @@
       "tags": [
         "Giải phóng",
         "Đại thắng mùa Xuân"
-      ]
+      ],
+      "title": "Giải phóng thị xã Pleiku",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Pleiku 1975 Pleiku, Gia Lai Giải phóng Đại thắng mùa Xuân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Pleiku",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+Pleiku+1975+Pleiku%2C+Gia+Lai+Gi%E1%BA%A3i+ph%C3%B3ng+%C4%90%E1%BA%A1i+th%E1%BA%AFng+m%C3%B9a+Xu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1975
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/GiaLai.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/GiaLai_vi.json"
+  }
 }

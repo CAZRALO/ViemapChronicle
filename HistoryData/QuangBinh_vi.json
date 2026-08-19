@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "QuangBinh_LY_01",
-      "year": 1069,
       "date": null,
-      "title": "Sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh",
       "description": "Sau khi đánh bại quân Chiêm Thành, vua Lý Thánh Tông đã sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh (vùng đất Quảng Bình và bắc Quảng Trị ngày nay) vào lãnh thổ Đại Việt. Đây là cột mốc lịch sử xác lập chủ quyền của người Việt tại vùng đất này.",
+      "id": "QuangBinh_LY_01",
       "location": {
         "commune": null,
         "district": null,
@@ -18,14 +16,23 @@
       "tags": [
         "Mở mang bờ cõi",
         "Nhà Lý"
-      ]
+      ],
+      "title": "Sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh 1069 Quảng Bình Lý Thánh Tông Lý Thường Kiệt Mở mang bờ cõi Nhà Lý lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sáp nhập 3 châu Bố Chính, Địa Lý, Ma Linh",
+          "url": "https://www.youtube.com/results?search_query=S%C3%A1p+nh%E1%BA%ADp+3+ch%C3%A2u+B%E1%BB%91+Ch%C3%ADnh%2C+%C4%90%E1%BB%8Ba+L%C3%BD%2C+Ma+Linh+1069+Qu%E1%BA%A3ng+B%C3%ACnh+L%C3%BD+Th%C3%A1nh+T%C3%B4ng+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t+M%E1%BB%9F+mang+b%E1%BB%9D+c%C3%B5i+Nh%C3%A0+L%C3%BD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1069
     },
     {
-      "id": "QuangBinh_TRINH_NGUYEN_01",
-      "year": 1630,
       "date": null,
-      "title": "Đào Duy Từ xây Lũy Thầy",
       "description": "Để chống lại các cuộc tấn công của chúa Trịnh, chúa Nguyễn Phúc Nguyên đã giao cho Đào Duy Từ chỉ huy xây dựng hệ thống phòng thủ Lũy Thầy (Lũy Đào Duy Từ) kiên cố chạy dài từ núi Đầu Mâu đến cửa biển Nhật Lệ, giúp chúa Nguyễn giữ vững cơ nghiệp Đàng Trong.",
+      "id": "QuangBinh_TRINH_NGUYEN_01",
       "location": {
         "commune": "Phú Hải",
         "district": "Thành phố Đồng Hới",
@@ -38,16 +45,25 @@
       "tags": [
         "Trịnh Nguyễn phân tranh",
         "Quân sự"
-      ]
+      ],
+      "title": "Đào Duy Từ xây Lũy Thầy",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Đào Duy Từ xây Lũy Thầy 1630 Phú Hải, Thành phố Đồng Hới, Quảng Bình Đào Duy Từ Nguyễn Phúc Nguyên Trịnh Nguyễn phân tranh Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Đào Duy Từ xây Lũy Thầy",
+          "url": "https://www.youtube.com/results?search_query=%C4%90%C3%A0o+Duy+T%E1%BB%AB+x%C3%A2y+L%C5%A9y+Th%E1%BA%A7y+1630+Ph%C3%BA+H%E1%BA%A3i%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90%E1%BB%93ng+H%E1%BB%9Bi%2C+Qu%E1%BA%A3ng+B%C3%ACnh+%C4%90%C3%A0o+Duy+T%E1%BB%AB+Nguy%E1%BB%85n+Ph%C3%BAc+Nguy%C3%AAn+Tr%E1%BB%8Bnh+Nguy%E1%BB%85n+ph%C3%A2n+tranh+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1630
     },
     {
+      "date": null,
+      "description": "Sau khi rời Tân Sở, vua Hàm Nghi và phái chủ chiến tiếp tục hoạt động kháng Pháp ở vùng núi Quảng Bình; Tuyên Hóa trở thành một trong những căn cứ quan trọng của triều đình kháng chiến trong giai đoạn đầu phong trào Cần Vương.",
       "id": "QuangBinh_CANVUONG_01",
-      "year": 1885,
-      "date": "1885-09-19",
-      "title": "Vua Hàm Nghi xuống chiếu Cần Vương",
-      "description": "Tại căn cứ Sơn Phòng (Tuyên Hóa), vua Hàm Nghi đã chính thức ban dụ Cần Vương lần thứ hai (sau lần đầu tại Tân Sở, Quảng Trị), kêu gọi văn thân, sĩ phu và nhân dân cả nước đứng lên giúp vua cứu nước, thổi bùng ngọn lửa kháng chiến chống Pháp.",
       "location": {
-        "commune": "Văn Hóa",
+        "commune": null,
         "district": "Tuyên Hóa",
         "province": "Quảng Bình"
       },
@@ -56,18 +72,27 @@
         "Tôn Thất Thuyết"
       ],
       "tags": [
-        "Phong trào Cần Vương",
-        "Chống Pháp"
-      ]
+        "Cần Vương",
+        "Kháng Pháp"
+      ],
+      "title": "Vua Hàm Nghi xây dựng căn cứ kháng Pháp tại Tuyên Hóa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Vua Hàm Nghi xây dựng căn cứ kháng Pháp tại Tuyên Hóa 1885 Tuyên Hóa, Quảng Bình Hàm Nghi Tôn Thất Thuyết Cần Vương Kháng Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Vua Hàm Nghi xây dựng căn cứ kháng Pháp tại Tuyên Hóa",
+          "url": "https://www.youtube.com/results?search_query=Vua+H%C3%A0m+Nghi+x%C3%A2y+d%E1%BB%B1ng+c%C4%83n+c%E1%BB%A9+kh%C3%A1ng+Ph%C3%A1p+t%E1%BA%A1i+Tuy%C3%AAn+H%C3%B3a+1885+Tuy%C3%AAn+H%C3%B3a%2C+Qu%E1%BA%A3ng+B%C3%ACnh+H%C3%A0m+Nghi+T%C3%B4n+Th%E1%BA%A5t+Thuy%E1%BA%BFt+C%E1%BA%A7n+V%C6%B0%C6%A1ng+Kh%C3%A1ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1885
     },
     {
+      "date": "1930-04-22",
+      "description": "Ngày 22/4/1930, Chi bộ Ga Kẻ Rấy được thành lập, là một trong những tổ chức Đảng đầu tiên trên địa bàn Quảng Bình và có vai trò quan trọng trong việc gây dựng phong trào cách mạng.",
       "id": "QuangBinh_REV_01",
-      "year": 1942,
-      "date": "1942-07-01",
-      "title": "Thành lập Chi bộ Đảng đầu tiên (Chi bộ Ga Kẻ Rấy)",
-      "description": "Tại khu vực Ga Kẻ Rấy, Chi bộ Đảng Cộng sản đầu tiên của tỉnh Quảng Bình được thành lập. Đây là hạt nhân lãnh đạo phong trào cách mạng trong tỉnh tiến tới tổng khởi nghĩa.",
       "location": {
-        "commune": "Cảnh Dương",
+        "commune": null,
         "district": "Bố Trạch",
         "province": "Quảng Bình"
       },
@@ -77,14 +102,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Ga Kẻ Rấy",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Ga Kẻ Rấy 1930 Bố Trạch, Quảng Bình Quách Xuân Kỳ Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Ga Kẻ Rấy",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+Ga+K%E1%BA%BB+R%E1%BA%A5y+1930+B%E1%BB%91+Tr%E1%BA%A1ch%2C+Qu%E1%BA%A3ng+B%C3%ACnh+Qu%C3%A1ch+Xu%C3%A2n+K%E1%BB%B3+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "QuangBinh_REV_02",
-      "year": 1945,
       "date": "1945-08-23",
-      "title": "Giành chính quyền tại Đồng Hới",
       "description": "Hàng vạn quần chúng nhân dân từ các huyện đã kéo về thị xã Đồng Hới, tổ chức mít tinh và chiếm giữ các công sở. Chính quyền cách mạng lâm thời tỉnh Quảng Bình ra mắt nhân dân tại Quảng Bình Quan.",
+      "id": "QuangBinh_REV_02",
       "location": {
         "commune": "Đồng Phú",
         "district": "Thành phố Đồng Hới",
@@ -94,14 +128,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Đồng Hới",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Đồng Hới 1945 Đồng Phú, Thành phố Đồng Hới, Quảng Bình Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Đồng Hới",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+%C4%90%E1%BB%93ng+H%E1%BB%9Bi+1945+%C4%90%E1%BB%93ng+Ph%C3%BA%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90%E1%BB%93ng+H%E1%BB%9Bi%2C+Qu%E1%BA%A3ng+B%C3%ACnh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "QuangBinh_FRENCH_WAR_01",
-      "year": 1947,
       "date": null,
-      "title": "Xây dựng Làng chiến đấu Cảnh Dương",
       "description": "Làng biển Cảnh Dương đã tự rào làng, đào hầm hào, lập trạm gác, biến cả làng thành một pháo đài kháng chiến kiên cường ('Làng pháo đài'). Đây là điển hình xuất sắc về chiến tranh nhân dân, nhiều lần đánh lui các cuộc càn quét của quân Pháp.",
+      "id": "QuangBinh_FRENCH_WAR_01",
       "location": {
         "commune": "Cảnh Dương",
         "district": "Quảng Trạch",
@@ -111,14 +154,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Du kích chiến"
-      ]
+      ],
+      "title": "Xây dựng Làng chiến đấu Cảnh Dương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Làng chiến đấu Cảnh Dương 1947 Cảnh Dương, Quảng Trạch, Quảng Bình Kháng chiến chống Pháp Du kích chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Làng chiến đấu Cảnh Dương",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+L%C3%A0ng+chi%E1%BA%BFn+%C4%91%E1%BA%A5u+C%E1%BA%A3nh+D%C6%B0%C6%A1ng+1947+C%E1%BA%A3nh+D%C6%B0%C6%A1ng%2C+Qu%E1%BA%A3ng+Tr%E1%BA%A1ch%2C+Qu%E1%BA%A3ng+B%C3%ACnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Du+k%C3%ADch+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1947
     },
     {
+      "date": "1950-05-20",
+      "description": "Ngày 20/5/1950, tại Xuân Bồ (Lệ Thủy), lực lượng vũ trang ta chiến đấu quyết liệt với quân Pháp. Trận đánh trở thành một dấu ấn tiêu biểu của quân dân Quảng Bình trong kháng chiến chống thực dân Pháp.",
       "id": "QuangBinh_FRENCH_WAR_02",
-      "year": 1950,
-      "date": "1950-05-19",
-      "title": "Trận Xuân Bồ",
-      "description": "Bộ đội chủ lực (Trung đoàn 18) phối hợp với du kích địa phương đã chặn đánh quyết liệt một binh đoàn cơ động của Pháp có xe lội nước và máy bay yểm trợ. Trận đánh gây tiếng vang lớn, được Đại tướng Võ Nguyên Giáp gửi thư khen.",
       "location": {
         "commune": "Xuân Thủy",
         "district": "Lệ Thủy",
@@ -130,14 +182,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Quân sự"
-      ]
+      ],
+      "title": "Trận Xuân Bồ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận Xuân Bồ 1950 Xuân Thủy, Lệ Thủy, Quảng Bình Lâm Úy Kháng chiến chống Pháp Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận Xuân Bồ",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+Xu%C3%A2n+B%E1%BB%93+1950+Xu%C3%A2n+Th%E1%BB%A7y%2C+L%E1%BB%87+Th%E1%BB%A7y%2C+Qu%E1%BA%A3ng+B%C3%ACnh+L%C3%A2m+%C3%9Ay+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
-      "id": "QuangBinh_US_WAR_01",
-      "year": 1965,
       "date": "1965-02-07",
-      "title": "Trận đầu đánh thắng không quân Mỹ (Chiến dịch Mũi Lao)",
       "description": "Ngay sau khi Mỹ phát động chiến tranh phá hoại miền Bắc (sau sự kiện Vịnh Bắc Bộ và trận Pleiku), quân dân Đồng Hới đã bắn rơi máy bay phản lực Mỹ. Bác Hồ đã gửi thư khen quân dân Quảng Bình 'Chiến đấu giỏi, sản xuất cũng giỏi'.",
+      "id": "QuangBinh_US_WAR_01",
       "location": {
         "commune": null,
         "district": "Thành phố Đồng Hới",
@@ -147,14 +208,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
+      ],
+      "title": "Trận đầu đánh thắng không quân Mỹ (Chiến dịch Mũi Lao)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đầu đánh thắng không quân Mỹ (Chiến dịch Mũi Lao) 1965 Thành phố Đồng Hới, Quảng Bình Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đầu đánh thắng không quân Mỹ (Chiến dịch Mũi Lao)",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%E1%BA%A7u+%C4%91%C3%A1nh+th%E1%BA%AFng+kh%C3%B4ng+qu%C3%A2n+M%E1%BB%B9+%28Chi%E1%BA%BFn+d%E1%BB%8Bch+M%C5%A9i+Lao%29+1965+Th%C3%A0nh+ph%E1%BB%91+%C4%90%E1%BB%93ng+H%E1%BB%9Bi%2C+Qu%E1%BA%A3ng+B%C3%ACnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangBinh_US_WAR_02",
-      "year": 1965,
       "date": null,
-      "title": "Mẹ Suốt chèo đò trên sông Nhật Lệ",
       "description": "Trong những năm tháng Mỹ ném bom ác liệt, Mẹ Nguyễn Thị Suốt (60 tuổi) vẫn kiên cường chèo đò chở bộ đội, thương binh và đạn dược qua sông Nhật Lệ dưới làn mưa bom bão đạn, trở thành biểu tượng của chủ nghĩa anh hùng cách mạng.",
+      "id": "QuangBinh_US_WAR_02",
       "location": {
         "commune": "Bảo Ninh",
         "district": "Thành phố Đồng Hới",
@@ -166,14 +236,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Anh hùng"
-      ]
+      ],
+      "title": "Mẹ Suốt chèo đò trên sông Nhật Lệ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Mẹ Suốt chèo đò trên sông Nhật Lệ 1965 Bảo Ninh, Thành phố Đồng Hới, Quảng Bình Nguyễn Thị Suốt Kháng chiến chống Mỹ Anh hùng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Mẹ Suốt chèo đò trên sông Nhật Lệ",
+          "url": "https://www.youtube.com/results?search_query=M%E1%BA%B9+Su%E1%BB%91t+ch%C3%A8o+%C4%91%C3%B2+tr%C3%AAn+s%C3%B4ng+Nh%E1%BA%ADt+L%E1%BB%87+1965+B%E1%BA%A3o+Ninh%2C+Th%C3%A0nh+ph%E1%BB%91+%C4%90%E1%BB%93ng+H%E1%BB%9Bi%2C+Qu%E1%BA%A3ng+B%C3%ACnh+Nguy%E1%BB%85n+Th%E1%BB%8B+Su%E1%BB%91t+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Anh+h%C3%B9ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
-      "id": "QuangBinh_US_WAR_03",
-      "year": 1972,
       "date": null,
-      "title": "Chiến công Hang Tám Cô",
       "description": "Tại Km 16 đường 20 Quyết Thắng (tuyến đường huyết mạch chi viện cho miền Nam), 8 thanh niên xung phong đã hy sinh anh dũng khi bị bom Mỹ đánh sập cửa hang đá nơi họ trú ẩn. Đây là chứng tích đau thương nhưng hào hùng của lực lượng TNXP.",
+      "id": "QuangBinh_US_WAR_03",
       "location": {
         "commune": "Tân Trạch",
         "district": "Bố Trạch",
@@ -183,14 +262,23 @@
       "tags": [
         "Thanh niên xung phong",
         "Đường Trường Sơn"
-      ]
+      ],
+      "title": "Chiến công Hang Tám Cô",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến công Hang Tám Cô 1972 Tân Trạch, Bố Trạch, Quảng Bình Thanh niên xung phong Đường Trường Sơn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến công Hang Tám Cô",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+c%C3%B4ng+Hang+T%C3%A1m+C%C3%B4+1972+T%C3%A2n+Tr%E1%BA%A1ch%2C+B%E1%BB%91+Tr%E1%BA%A1ch%2C+Qu%E1%BA%A3ng+B%C3%ACnh+Thanh+ni%C3%AAn+xung+phong+%C4%90%C6%B0%E1%BB%9Dng+Tr%C6%B0%E1%BB%9Dng+S%C6%A1n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     },
     {
-      "id": "QuangBinh_ADMIN_01",
-      "year": 1989,
       "date": "1989-06-30",
-      "title": "Tái lập tỉnh Quảng Bình",
       "description": "Quốc hội khóa VIII thông qua Nghị quyết chia tách tỉnh Bình Trị Thiên (được hợp nhất từ năm 1976) trở lại thành 3 tỉnh: Quảng Bình, Quảng Trị và Thừa Thiên Huế. Tỉnh Quảng Bình bắt đầu công cuộc tái thiết và phát triển kinh tế xã hội.",
+      "id": "QuangBinh_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -200,7 +288,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Quảng Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Quảng Bình 1989 Quảng Bình Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Quảng Bình",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+Qu%E1%BA%A3ng+B%C3%ACnh+1989+Qu%E1%BA%A3ng+B%C3%ACnh+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1989
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/QuangBinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/QuangBinh_vi.json"
+  }
 }

@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "Hanoi_LY_01",
-      "year": 1010,
       "date": null,
-      "title": "Dời đô về Thăng Long",
       "description": "Vua Lý Thái Tổ ban Chiếu dời đô, chuyển kinh đô nước Đại Cồ Việt từ Hoa Lư (Ninh Bình) về thành Đại La và đổi tên là Thăng Long, mở ra thời kỳ phát triển rực rỡ của kinh thành Thăng Long - Hà Nội.",
+      "id": "Hanoi_LY_01",
       "location": {
         "commune": null,
         "district": "Ba Đình",
@@ -18,14 +16,23 @@
         "Nhà Lý",
         "Dời đô",
         "Kinh thành"
-      ]
+      ],
+      "title": "Dời đô về Thăng Long",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Dời đô về Thăng Long 1010 Ba Đình, Hà Nội Lý Thái Tổ Nhà Lý Dời đô Kinh thành lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Dời đô về Thăng Long",
+          "url": "https://www.youtube.com/results?search_query=D%E1%BB%9Di+%C4%91%C3%B4+v%E1%BB%81+Th%C4%83ng+Long+1010+Ba+%C4%90%C3%ACnh%2C+H%C3%A0+N%E1%BB%99i+L%C3%BD+Th%C3%A1i+T%E1%BB%95+Nh%C3%A0+L%C3%BD+D%E1%BB%9Di+%C4%91%C3%B4+Kinh+th%C3%A0nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1010
     },
     {
-      "id": "Hanoi_LY_02",
-      "year": 1070,
       "date": null,
-      "title": "Xây dựng Văn Miếu",
       "description": "Vua Lý Thánh Tông cho xây dựng Văn Miếu để thờ Khổng Tử và các bậc Tiên hiền, đánh dấu sự coi trọng nho học và giáo dục của triều đình phong kiến.",
+      "id": "Hanoi_LY_02",
       "location": {
         "commune": "Quốc Tử Giám",
         "district": "Đống Đa",
@@ -38,14 +45,23 @@
         "Giáo dục",
         "Văn hóa",
         "Nhà Lý"
-      ]
+      ],
+      "title": "Xây dựng Văn Miếu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Văn Miếu 1070 Quốc Tử Giám, Đống Đa, Hà Nội Lý Thánh Tông Giáo dục Văn hóa Nhà Lý lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Văn Miếu",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+V%C4%83n+Mi%E1%BA%BFu+1070+Qu%E1%BB%91c+T%E1%BB%AD+Gi%C3%A1m%2C+%C4%90%E1%BB%91ng+%C4%90a%2C+H%C3%A0+N%E1%BB%99i+L%C3%BD+Th%C3%A1nh+T%C3%B4ng+Gi%C3%A1o+d%E1%BB%A5c+V%C4%83n+h%C3%B3a+Nh%C3%A0+L%C3%BD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1070
     },
     {
-      "id": "Hanoi_LY_03",
-      "year": 1076,
       "date": null,
-      "title": "Thành lập Quốc Tử Giám",
       "description": "Vua Lý Nhân Tông cho lập Quốc Tử Giám ngay bên cạnh Văn Miếu, được xem là trường đại học đầu tiên của Việt Nam.",
+      "id": "Hanoi_LY_03",
       "location": {
         "commune": "Quốc Tử Giám",
         "district": "Đống Đa",
@@ -57,14 +73,23 @@
       "tags": [
         "Giáo dục",
         "Nhà Lý"
-      ]
+      ],
+      "title": "Thành lập Quốc Tử Giám",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Quốc Tử Giám 1076 Quốc Tử Giám, Đống Đa, Hà Nội Lý Nhân Tông Giáo dục Nhà Lý lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Quốc Tử Giám",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Qu%E1%BB%91c+T%E1%BB%AD+Gi%C3%A1m+1076+Qu%E1%BB%91c+T%E1%BB%AD+Gi%C3%A1m%2C+%C4%90%E1%BB%91ng+%C4%90a%2C+H%C3%A0+N%E1%BB%99i+L%C3%BD+Nh%C3%A2n+T%C3%B4ng+Gi%C3%A1o+d%E1%BB%A5c+Nh%C3%A0+L%C3%BD+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1076
     },
     {
-      "id": "Hanoi_TRAN_01",
-      "year": 1258,
       "date": "1258-01-29",
-      "title": "Chiến thắng Đông Bộ Đầu",
       "description": "Quân đội nhà Trần dưới sự chỉ huy của vua Trần Thái Tông và thái sư Trần Thủ Độ phản công quân Mông Cổ tại bến Đông Bộ Đầu (dốc Hàng Than ngày nay), buộc địch phải rút chạy khỏi Thăng Long.",
+      "id": "Hanoi_TRAN_01",
       "location": {
         "commune": null,
         "district": "Ba Đình",
@@ -77,14 +102,23 @@
       "tags": [
         "Kháng chiến chống Nguyên Mông",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Đông Bộ Đầu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Đông Bộ Đầu 1258 Ba Đình, Hà Nội Trần Thái Tông Trần Thủ Độ Kháng chiến chống Nguyên Mông Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Đông Bộ Đầu",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+%C4%90%C3%B4ng+B%E1%BB%99+%C4%90%E1%BA%A7u+1258+Ba+%C4%90%C3%ACnh%2C+H%C3%A0+N%E1%BB%99i+Tr%E1%BA%A7n+Th%C3%A1i+T%C3%B4ng+Tr%E1%BA%A7n+Th%E1%BB%A7+%C4%90%E1%BB%99+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Nguy%C3%AAn+M%C3%B4ng+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1258
     },
     {
-      "id": "Hanoi_LE_01",
-      "year": 1427,
       "date": "1427-12-10",
-      "title": "Hội thề Đông Quan",
       "description": "Sau khi bị vây hãm và thất bại, chủ tướng quân Minh là Vương Thông buộc phải ra hàng và cùng Lê Lợi tổ chức hội thề tại phía nam thành Đông Quan (Thăng Long), cam kết rút quân về nước, chấm dứt 20 năm đô hộ của nhà Minh.",
+      "id": "Hanoi_LE_01",
       "location": {
         "commune": null,
         "district": "Hoàn Kiếm",
@@ -98,14 +132,23 @@
       "tags": [
         "Khởi nghĩa Lam Sơn",
         "Ngoại giao"
-      ]
+      ],
+      "title": "Hội thề Đông Quan",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Hội thề Đông Quan 1427 Hoàn Kiếm, Hà Nội Lê Lợi Nguyễn Trãi Vương Thông Khởi nghĩa Lam Sơn Ngoại giao lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Hội thề Đông Quan",
+          "url": "https://www.youtube.com/results?search_query=H%E1%BB%99i+th%E1%BB%81+%C4%90%C3%B4ng+Quan+1427+Ho%C3%A0n+Ki%E1%BA%BFm%2C+H%C3%A0+N%E1%BB%99i+L%C3%AA+L%E1%BB%A3i+Nguy%E1%BB%85n+Tr%C3%A3i+V%C6%B0%C6%A1ng+Th%C3%B4ng+Kh%E1%BB%9Fi+ngh%C4%A9a+Lam+S%C6%A1n+Ngo%E1%BA%A1i+giao+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1427
     },
     {
-      "id": "Hanoi_TAYSON_01",
-      "year": 1789,
       "date": "1789-01-30",
-      "title": "Chiến thắng Ngọc Hồi - Đống Đa",
-      "description": "Vua Quang Trung (Nguyễn Huệ) chỉ huy quân Tây Sơn thần tốc tiến ra Bắc, đánh tan 29 vạn quân Thanh vào mùng 5 Tết Kỷ Dậu. Đồn Ngọc Hồi và đồn Đống Đa bị phá vỡ, quân Thanh tháo chạy, Thăng Long được giải phóng.",
+      "description": "Vua Quang Trung (Nguyễn Huệ) chỉ huy quân Tây Sơn tiến quân thần tốc ra Bắc, đánh bại đạo quân Thanh xâm lược vào dịp Tết Kỷ Dậu. Các cứ điểm Ngọc Hồi, Đống Đa bị phá vỡ, Thăng Long được giải phóng.",
+      "id": "Hanoi_TAYSON_01",
       "location": {
         "commune": "Quang Trung",
         "district": "Đống Đa",
@@ -118,14 +161,23 @@
         "Nhà Tây Sơn",
         "Chống quân Thanh",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Ngọc Hồi - Đống Đa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Ngọc Hồi - Đống Đa 1789 Quang Trung, Đống Đa, Hà Nội Nguyễn Huệ Nhà Tây Sơn Chống quân Thanh Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Ngọc Hồi - Đống Đa",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+Ng%E1%BB%8Dc+H%E1%BB%93i+-+%C4%90%E1%BB%91ng+%C4%90a+1789+Quang+Trung%2C+%C4%90%E1%BB%91ng+%C4%90a%2C+H%C3%A0+N%E1%BB%99i+Nguy%E1%BB%85n+Hu%E1%BB%87+Nh%C3%A0+T%C3%A2y+S%C6%A1n+Ch%E1%BB%91ng+qu%C3%A2n+Thanh+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1789
     },
     {
-      "id": "Hanoi_NGUYEN_01",
-      "year": 1831,
       "date": null,
-      "title": "Thành lập tỉnh Hà Nội",
       "description": "Trong cuộc cải cách hành chính của vua Minh Mạng, thành Thăng Long cũ cùng một số vùng lân cận được hợp nhất thành tỉnh Hà Nội. Tên gọi 'Hà Nội' (vùng đất trong sông) chính thức xuất hiện từ đây.",
+      "id": "Hanoi_NGUYEN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -137,14 +189,23 @@
       "tags": [
         "Hành chính",
         "Nhà Nguyễn"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hà Nội",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hà Nội 1831 Hà Nội Minh Mạng Hành chính Nhà Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hà Nội",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+N%E1%BB%99i+1831+H%C3%A0+N%E1%BB%99i+Minh+M%E1%BA%A1ng+H%C3%A0nh+ch%C3%ADnh+Nh%C3%A0+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1831
     },
     {
-      "id": "Hanoi_COLONIAL_01",
-      "year": 1873,
       "date": "1873-11-20",
-      "title": "Pháp đánh thành Hà Nội lần thứ nhất",
       "description": "Francis Garnier chỉ huy quân Pháp tấn công thành Hà Nội. Tổng đốc Nguyễn Tri Phương chỉ huy quân triều đình chống trả quyết liệt nhưng thành thất thủ, ông bị thương và tuyệt thực tử tiết.",
+      "id": "Hanoi_COLONIAL_01",
       "location": {
         "commune": "Quán Thánh",
         "district": "Ba Đình",
@@ -157,14 +218,23 @@
       "tags": [
         "Chống Pháp",
         "Cần Vương"
-      ]
+      ],
+      "title": "Pháp đánh thành Hà Nội lần thứ nhất",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Pháp đánh thành Hà Nội lần thứ nhất 1873 Quán Thánh, Ba Đình, Hà Nội Nguyễn Tri Phương Francis Garnier Chống Pháp Cần Vương lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Pháp đánh thành Hà Nội lần thứ nhất",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1p+%C4%91%C3%A1nh+th%C3%A0nh+H%C3%A0+N%E1%BB%99i+l%E1%BA%A7n+th%E1%BB%A9+nh%E1%BA%A5t+1873+Qu%C3%A1n+Th%C3%A1nh%2C+Ba+%C4%90%C3%ACnh%2C+H%C3%A0+N%E1%BB%99i+Nguy%E1%BB%85n+Tri+Ph%C6%B0%C6%A1ng+Francis+Garnier+Ch%E1%BB%91ng+Ph%C3%A1p+C%E1%BA%A7n+V%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1873
     },
     {
-      "id": "Hanoi_COLONIAL_02",
-      "year": 1882,
       "date": "1882-04-25",
-      "title": "Pháp đánh thành Hà Nội lần thứ hai",
       "description": "Henri Rivière gửi tối hậu thư và nổ súng tấn công thành Hà Nội. Tổng đốc Hoàng Diệu chỉ huy chiến đấu nhưng thất bại, ông đã treo cổ tự vẫn tại Võ Miếu để giữ tròn khí tiết.",
+      "id": "Hanoi_COLONIAL_02",
       "location": {
         "commune": "Điện Biên",
         "district": "Ba Đình",
@@ -177,14 +247,23 @@
       "tags": [
         "Chống Pháp",
         "Cần Vương"
-      ]
+      ],
+      "title": "Pháp đánh thành Hà Nội lần thứ hai",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Pháp đánh thành Hà Nội lần thứ hai 1882 Điện Biên, Ba Đình, Hà Nội Hoàng Diệu Henri Rivière Chống Pháp Cần Vương lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Pháp đánh thành Hà Nội lần thứ hai",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1p+%C4%91%C3%A1nh+th%C3%A0nh+H%C3%A0+N%E1%BB%99i+l%E1%BA%A7n+th%E1%BB%A9+hai+1882+%C4%90i%E1%BB%87n+Bi%C3%AAn%2C+Ba+%C4%90%C3%ACnh%2C+H%C3%A0+N%E1%BB%99i+Ho%C3%A0ng+Di%E1%BB%87u+Henri+Rivi%C3%A8re+Ch%E1%BB%91ng+Ph%C3%A1p+C%E1%BA%A7n+V%C6%B0%C6%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1882
     },
     {
-      "id": "Hanoi_REV_01",
-      "year": 1945,
       "date": "1945-08-19",
-      "title": "Tổng khởi nghĩa giành chính quyền tại Hà Nội",
       "description": "Hàng vạn quần chúng nhân dân mít tinh tại Quảng trường Nhà hát Lớn, sau đó biến thành cuộc biểu tình vũ trang đánh chiếm Phủ Khâm sai và các cơ quan đầu não của chính quyền tay sai, giành chính quyền về tay nhân dân.",
+      "id": "Hanoi_REV_01",
       "location": {
         "commune": "Tràng Tiền",
         "district": "Hoàn Kiếm",
@@ -194,14 +273,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Tổng khởi nghĩa giành chính quyền tại Hà Nội",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tổng khởi nghĩa giành chính quyền tại Hà Nội 1945 Tràng Tiền, Hoàn Kiếm, Hà Nội Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tổng khởi nghĩa giành chính quyền tại Hà Nội",
+          "url": "https://www.youtube.com/results?search_query=T%E1%BB%95ng+kh%E1%BB%9Fi+ngh%C4%A9a+gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+H%C3%A0+N%E1%BB%99i+1945+Tr%C3%A0ng+Ti%E1%BB%81n%2C+Ho%C3%A0n+Ki%E1%BA%BFm%2C+H%C3%A0+N%E1%BB%99i+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "Hanoi_REV_02",
-      "year": 1945,
       "date": "1945-09-02",
-      "title": "Lễ Tuyên ngôn Độc lập",
       "description": "Tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, khai sinh ra nước Việt Nam Dân chủ Cộng hòa.",
+      "id": "Hanoi_REV_02",
       "location": {
         "commune": "Điện Biên",
         "district": "Ba Đình",
@@ -213,14 +301,23 @@
       "tags": [
         "Quốc khánh",
         "Chính trị"
-      ]
+      ],
+      "title": "Lễ Tuyên ngôn Độc lập",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lễ Tuyên ngôn Độc lập 1945 Điện Biên, Ba Đình, Hà Nội Hồ Chí Minh Quốc khánh Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lễ Tuyên ngôn Độc lập",
+          "url": "https://www.youtube.com/results?search_query=L%E1%BB%85+Tuy%C3%AAn+ng%C3%B4n+%C4%90%E1%BB%99c+l%E1%BA%ADp+1945+%C4%90i%E1%BB%87n+Bi%C3%AAn%2C+Ba+%C4%90%C3%ACnh%2C+H%C3%A0+N%E1%BB%99i+H%E1%BB%93+Ch%C3%AD+Minh+Qu%E1%BB%91c+kh%C3%A1nh+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "Hanoi_FR_WAR_01",
-      "year": 1946,
       "date": "1946-12-19",
-      "title": "Toàn quốc kháng chiến bùng nổ",
       "description": "Pháo đài Láng nổ súng lệnh, mở đầu cuộc kháng chiến toàn quốc chống thực dân Pháp. Quân dân Hà Nội với tinh thần 'Quyết tử để Tổ quốc quyết sinh' đã chiến đấu giam chân địch trong thành phố suốt 60 ngày đêm.",
+      "id": "Hanoi_FR_WAR_01",
       "location": {
         "commune": "Láng Thượng",
         "district": "Đống Đa",
@@ -232,14 +329,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Quyết tử quân"
-      ]
+      ],
+      "title": "Toàn quốc kháng chiến bùng nổ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Toàn quốc kháng chiến bùng nổ 1946 Láng Thượng, Đống Đa, Hà Nội Vương Thừa Vũ Kháng chiến chống Pháp Quyết tử quân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Toàn quốc kháng chiến bùng nổ",
+          "url": "https://www.youtube.com/results?search_query=To%C3%A0n+qu%E1%BB%91c+kh%C3%A1ng+chi%E1%BA%BFn+b%C3%B9ng+n%E1%BB%95+1946+L%C3%A1ng+Th%C6%B0%E1%BB%A3ng%2C+%C4%90%E1%BB%91ng+%C4%90a%2C+H%C3%A0+N%E1%BB%99i+V%C6%B0%C6%A1ng+Th%E1%BB%ABa+V%C5%A9+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Quy%E1%BA%BFt+t%E1%BB%AD+qu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
-      "id": "Hanoi_FR_WAR_02",
-      "year": 1954,
       "date": "1954-10-10",
-      "title": "Ngày Giải phóng Thủ đô",
       "description": "Sau chiến thắng Điện Biên Phủ và Hiệp định Genève, quân đội Nhân dân Việt Nam tiến về tiếp quản Thủ đô từ tay quân Pháp, đánh dấu sự kết thúc ách đô hộ của thực dân Pháp tại miền Bắc.",
+      "id": "Hanoi_FR_WAR_02",
       "location": {
         "commune": null,
         "district": "Hoàn Kiếm",
@@ -251,14 +357,23 @@
       "tags": [
         "Giải phóng",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Ngày Giải phóng Thủ đô",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Ngày Giải phóng Thủ đô 1954 Hoàn Kiếm, Hà Nội Vương Thừa Vũ Giải phóng Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Ngày Giải phóng Thủ đô",
+          "url": "https://www.youtube.com/results?search_query=Ng%C3%A0y+Gi%E1%BA%A3i+ph%C3%B3ng+Th%E1%BB%A7+%C4%91%C3%B4+1954+Ho%C3%A0n+Ki%E1%BA%BFm%2C+H%C3%A0+N%E1%BB%99i+V%C6%B0%C6%A1ng+Th%E1%BB%ABa+V%C5%A9+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "Hanoi_US_WAR_01",
-      "year": 1972,
       "date": "1972-12-18",
-      "title": "Chiến dịch Điện Biên Phủ trên không",
       "description": "Đế quốc Mỹ mở cuộc tập kích đường không chiến lược bằng máy bay B-52 vào Hà Nội và Hải Phòng. Quân dân Hà Nội đã chiến đấu kiên cường trong 12 ngày đêm, bắn rơi nhiều máy bay, buộc Mỹ phải ký Hiệp định Paris.",
+      "id": "Hanoi_US_WAR_01",
       "location": {
         "commune": "Khâm Thiên",
         "district": "Đống Đa",
@@ -268,7 +383,24 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Không chiến"
-      ]
+      ],
+      "title": "Chiến dịch Điện Biên Phủ trên không",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến dịch Điện Biên Phủ trên không 1972 Khâm Thiên, Đống Đa, Hà Nội Kháng chiến chống Mỹ Không chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến dịch Điện Biên Phủ trên không",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+d%E1%BB%8Bch+%C4%90i%E1%BB%87n+Bi%C3%AAn+Ph%E1%BB%A7+tr%C3%AAn+kh%C3%B4ng+1972+Kh%C3%A2m+Thi%C3%AAn%2C+%C4%90%E1%BB%91ng+%C4%90a%2C+H%C3%A0+N%E1%BB%99i+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Kh%C3%B4ng+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1972
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HaNoi.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HaNoi_vi.json"
+  }
 }

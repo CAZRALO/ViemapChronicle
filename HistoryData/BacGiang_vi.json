@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "BacGiang_LE_01",
-      "year": 1427,
       "date": "1427-11-03",
-      "title": "Chiến thắng Xương Giang",
       "description": "Sau khi vây hãm và hạ thành Xương Giang, quân Lam Sơn đã tổ chức trận địa phục kích, tiêu diệt và bắt sống toàn bộ đạo quân viện binh 7 vạn người của nhà Minh do Liễu Thăng và Mộc Thạnh chỉ huy. Chiến thắng này quyết định thắng lợi hoàn toàn của cuộc khởi nghĩa Lam Sơn.",
+      "id": "BacGiang_LE_01",
       "location": {
         "commune": "Xương Giang",
         "district": "Thành phố Bắc Giang",
@@ -19,14 +17,23 @@
       "tags": [
         "Khởi nghĩa Lam Sơn",
         "Quân sự"
-      ]
+      ],
+      "title": "Chiến thắng Xương Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Xương Giang 1427 Xương Giang, Thành phố Bắc Giang, Bắc Giang Lê Lợi Trần Nguyên Hãn Lê Sát Khởi nghĩa Lam Sơn Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Xương Giang",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+X%C6%B0%C6%A1ng+Giang+1427+X%C6%B0%C6%A1ng+Giang%2C+Th%C3%A0nh+ph%E1%BB%91+B%E1%BA%AFc+Giang%2C+B%E1%BA%AFc+Giang+L%C3%AA+L%E1%BB%A3i+Tr%E1%BA%A7n+Nguy%C3%AAn+H%C3%A3n+L%C3%AA+S%C3%A1t+Kh%E1%BB%9Fi+ngh%C4%A9a+Lam+S%C6%A1n+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1427
     },
     {
-      "id": "BacGiang_COLONIAL_01",
-      "year": 1884,
       "date": "1884-03-16",
-      "title": "Khởi nghĩa Yên Thế bùng nổ",
       "description": "Tại vùng núi Yên Thế, Lương Văn Nắm (Đề Nắm) đã tổ chức lễ tế cờ, chính thức phát động cuộc khởi nghĩa nông dân chống Pháp kéo dài gần 30 năm (sau này do Hoàng Hoa Thám lãnh đạo), gây cho quân Pháp nhiều tổn thất nặng nề.",
+      "id": "BacGiang_COLONIAL_01",
       "location": {
         "commune": "Phồn Xương",
         "district": "Yên Thế",
@@ -39,14 +46,23 @@
       "tags": [
         "Khởi nghĩa Yên Thế",
         "Chống Pháp"
-      ]
+      ],
+      "title": "Khởi nghĩa Yên Thế bùng nổ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Khởi nghĩa Yên Thế bùng nổ 1884 Phồn Xương, Yên Thế, Bắc Giang Hoàng Hoa Thám Lương Văn Nắm Khởi nghĩa Yên Thế Chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Khởi nghĩa Yên Thế bùng nổ",
+          "url": "https://www.youtube.com/results?search_query=Kh%E1%BB%9Fi+ngh%C4%A9a+Y%C3%AAn+Th%E1%BA%BF+b%C3%B9ng+n%E1%BB%95+1884+Ph%E1%BB%93n+X%C6%B0%C6%A1ng%2C+Y%C3%AAn+Th%E1%BA%BF%2C+B%E1%BA%AFc+Giang+Ho%C3%A0ng+Hoa+Th%C3%A1m+L%C6%B0%C6%A1ng+V%C4%83n+N%E1%BA%AFm+Kh%E1%BB%9Fi+ngh%C4%A9a+Y%C3%AAn+Th%E1%BA%BF+Ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1884
     },
     {
-      "id": "BacGiang_COLONIAL_02",
-      "year": 1895,
       "date": "1895-10-10",
-      "title": "Thành lập tỉnh Bắc Giang",
       "description": "Toàn quyền Đông Dương ra Nghị định chia tỉnh Bắc Ninh thành hai tỉnh Bắc Ninh và Bắc Giang. Tỉnh lỵ Bắc Giang đặt tại Phủ Lạng Thương. Đây là mốc định hình địa giới hành chính tỉnh Bắc Giang thời cận đại.",
+      "id": "BacGiang_COLONIAL_02",
       "location": {
         "commune": null,
         "district": "Thành phố Bắc Giang",
@@ -56,14 +72,23 @@
       "tags": [
         "Hành chính",
         "Pháp thuộc"
-      ]
+      ],
+      "title": "Thành lập tỉnh Bắc Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Bắc Giang 1895 Thành phố Bắc Giang, Bắc Giang Hành chính Pháp thuộc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Bắc Giang",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+B%E1%BA%AFc+Giang+1895+Th%C3%A0nh+ph%E1%BB%91+B%E1%BA%AFc+Giang%2C+B%E1%BA%AFc+Giang+H%C3%A0nh+ch%C3%ADnh+Ph%C3%A1p+thu%E1%BB%99c+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1895
     },
     {
-      "id": "BacGiang_REV_01",
-      "year": 1938,
       "date": "1938-08-01",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
       "description": "Tại cây gạo bến đò Mỹ Độ (Phủ Lạng Thương), Chi bộ Cộng sản đầu tiên của tỉnh Bắc Giang được thành lập. Sự kiện này đánh dấu bước ngoặt quan trọng trong phong trào cách mạng của tỉnh dưới sự lãnh đạo của Đảng.",
+      "id": "BacGiang_REV_01",
       "location": {
         "commune": "Mỹ Độ",
         "district": "Thành phố Bắc Giang",
@@ -73,14 +98,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên 1938 Mỹ Độ, Thành phố Bắc Giang, Bắc Giang Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+1938+M%E1%BB%B9+%C4%90%E1%BB%99%2C+Th%C3%A0nh+ph%E1%BB%91+B%E1%BA%AFc+Giang%2C+B%E1%BA%AFc+Giang+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1938
     },
     {
-      "id": "BacGiang_REV_02",
-      "year": 1943,
       "date": null,
-      "title": "Xây dựng An toàn khu (ATK) II Hiệp Hòa",
       "description": "Trung ương Đảng chọn huyện Hiệp Hòa làm An toàn khu II để che giấu cán bộ cấp cao và tổ chức các hội nghị quan trọng chuẩn bị cho Tổng khởi nghĩa. Nơi đây đã bảo vệ an toàn cho các đồng chí Trường Chinh, Hoàng Quốc Việt...",
+      "id": "BacGiang_REV_02",
       "location": {
         "commune": "Hoàng Vân",
         "district": "Hiệp Hòa",
@@ -93,14 +127,23 @@
       "tags": [
         "Tiền khởi nghĩa",
         "ATK"
-      ]
+      ],
+      "title": "Xây dựng An toàn khu (ATK) II Hiệp Hòa",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng An toàn khu (ATK) II Hiệp Hòa 1943 Hoàng Vân, Hiệp Hòa, Bắc Giang Trường Chinh Hoàng Quốc Việt Tiền khởi nghĩa ATK lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng An toàn khu (ATK) II Hiệp Hòa",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+An+to%C3%A0n+khu+%28ATK%29+II+Hi%E1%BB%87p+H%C3%B2a+1943+Ho%C3%A0ng+V%C3%A2n%2C+Hi%E1%BB%87p+H%C3%B2a%2C+B%E1%BA%AFc+Giang+Tr%C6%B0%E1%BB%9Dng+Chinh+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+Ti%E1%BB%81n+kh%E1%BB%9Fi+ngh%C4%A9a+ATK+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1943
     },
     {
-      "id": "BacGiang_REV_03",
-      "year": 1945,
       "date": "1945-08-18",
-      "title": "Giành chính quyền sớm nhất cả nước",
       "description": "Chiều 18/8, lực lượng cách mạng đã chiếm Dinh Tuần phủ và các công sở tại Phủ Lạng Thương. Bắc Giang trở thành một trong 4 tỉnh giành chính quyền sớm nhất cả nước (cùng với Hải Dương, Hà Tĩnh, Quảng Nam) trong Cách mạng tháng Tám.",
+      "id": "BacGiang_REV_03",
       "location": {
         "commune": null,
         "district": "Thành phố Bắc Giang",
@@ -110,14 +153,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền sớm nhất cả nước",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền sớm nhất cả nước 1945 Thành phố Bắc Giang, Bắc Giang Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền sớm nhất cả nước",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+s%E1%BB%9Bm+nh%E1%BA%A5t+c%E1%BA%A3+n%C6%B0%E1%BB%9Bc+1945+Th%C3%A0nh+ph%E1%BB%91+B%E1%BA%AFc+Giang%2C+B%E1%BA%AFc+Giang+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "BacGiang_FRENCH_WAR_01",
-      "year": 1954,
-      "date": "1954-07",
-      "title": "Trận phục kích Cầu Lồ",
+      "date": "1949-08-18",
       "description": "Bộ đội địa phương Bắc Giang phối hợp với dân quân du kích tổ chức trận phục kích táo bạo tại khu vực Cầu Lồ (trên đường 13, nay là QL37), tiêu diệt đoàn xe quân sự của Pháp, gây tiếng vang lớn trong phong trào du kích chiến.",
+      "id": "BacGiang_FRENCH_WAR_01",
       "location": {
         "commune": "Bảo Đài",
         "district": "Lục Nam",
@@ -127,14 +179,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Phục kích"
-      ]
+      ],
+      "title": "Trận phục kích Cầu Lồ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận phục kích Cầu Lồ 1949 Bảo Đài, Lục Nam, Bắc Giang Kháng chiến chống Pháp Phục kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận phục kích Cầu Lồ",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+ph%E1%BB%A5c+k%C3%ADch+C%E1%BA%A7u+L%E1%BB%93+1949+B%E1%BA%A3o+%C4%90%C3%A0i%2C+L%E1%BB%A5c+Nam%2C+B%E1%BA%AFc+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Ph%E1%BB%A5c+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1949
     },
     {
-      "id": "BacGiang_ADMIN_01",
-      "year": 1962,
       "date": "1962-10-27",
-      "title": "Thành lập tỉnh Hà Bắc",
       "description": "Quốc hội khóa II ra Nghị quyết hợp nhất hai tỉnh Bắc Ninh và Bắc Giang thành tỉnh Hà Bắc. Tỉnh lỵ ban đầu đặt tại thị xã Bắc Giang, sau chuyển về thị xã Bắc Ninh (một thời gian ngắn) rồi quay lại Bắc Giang.",
+      "id": "BacGiang_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -144,14 +205,23 @@
       "tags": [
         "Hành chính",
         "Sáp nhập"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hà Bắc",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hà Bắc 1962 Bắc Giang Hành chính Sáp nhập lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hà Bắc",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+B%E1%BA%AFc+1962+B%E1%BA%AFc+Giang+H%C3%A0nh+ch%C3%ADnh+S%C3%A1p+nh%E1%BA%ADp+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1962
     },
     {
-      "id": "BacGiang_US_WAR_01",
-      "year": 1965,
       "date": "1965-06-20",
-      "title": "Không chiến tại Sân bay Kép",
       "description": "Sân bay Kép là căn cứ quan trọng của Không quân Việt Nam (nơi xuất kích của các máy bay MiG-17, MiG-21). Tại vùng trời Kép, nhiều trận không chiến ác liệt giữa không quân ta và máy bay Mỹ đã diễn ra nhằm bảo vệ cửa ngõ phía Bắc Hà Nội.",
+      "id": "BacGiang_US_WAR_01",
       "location": {
         "commune": "Quang Thịnh",
         "district": "Lạng Giang",
@@ -161,14 +231,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Không quân"
-      ]
+      ],
+      "title": "Không chiến tại Sân bay Kép",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Không chiến tại Sân bay Kép 1965 Quang Thịnh, Lạng Giang, Bắc Giang Kháng chiến chống Mỹ Không quân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Không chiến tại Sân bay Kép",
+          "url": "https://www.youtube.com/results?search_query=Kh%C3%B4ng+chi%E1%BA%BFn+t%E1%BA%A1i+S%C3%A2n+bay+K%C3%A9p+1965+Quang+Th%E1%BB%8Bnh%2C+L%E1%BA%A1ng+Giang%2C+B%E1%BA%AFc+Giang+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Kh%C3%B4ng+qu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1965
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Hà Bắc. Tỉnh Bắc Giang tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "BacGiang_ADMIN_02",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Bắc Giang",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Hà Bắc trở lại thành hai tỉnh Bắc Ninh và Bắc Giang. Tỉnh Bắc Giang chính thức hoạt động theo đơn vị hành chính mới từ ngày 01/01/1997.",
       "location": {
         "commune": null,
         "district": null,
@@ -178,7 +257,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Bắc Giang",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Bắc Giang 1997 Bắc Giang Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Bắc Giang",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+B%E1%BA%AFc+Giang+1997+B%E1%BA%AFc+Giang+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/BacGiang.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/BacGiang_vi.json"
+  }
 }

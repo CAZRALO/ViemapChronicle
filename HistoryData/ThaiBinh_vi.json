@@ -1,11 +1,9 @@
 {
   "events": [
     {
+      "date": null,
+      "description": "Ngày 12 tháng Chạp năm Ất Dậu (1225, âm lịch), tại điện Thiên An, Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh. Sự kiện đánh dấu sự chuyển giao từ nhà Lý sang nhà Trần, triều đại gắn bó sâu sắc với vùng đất Long Hưng - Thái Bình.",
       "id": "ThaiBinh_TRAN_01",
-      "year": 1225,
-      "date": "1225-12-12",
-      "title": "Sự chuyển giao vương quyền Lý - Trần",
-      "description": "Tại vùng đất Long Hưng (Hưng Hà ngày nay), Lý Chiêu Hoàng đã nhường ngôi cho chồng là Trần Cảnh (Trần Thái Tông), chính thức kết thúc triều Lý và mở ra triều đại nhà Trần - một trong những triều đại thịnh trị nhất lịch sử phong kiến Việt Nam.",
       "location": {
         "commune": "Tiến Đức",
         "district": "Hưng Hà",
@@ -19,14 +17,23 @@
       "tags": [
         "Nhà Trần",
         "Chính trị"
-      ]
+      ],
+      "title": "Sự chuyển giao vương quyền Lý - Trần",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sự chuyển giao vương quyền Lý - Trần 1225 Tiến Đức, Hưng Hà, Thái Bình Trần Thái Tông Lý Chiêu Hoàng Trần Thủ Độ Nhà Trần Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sự chuyển giao vương quyền Lý - Trần",
+          "url": "https://www.youtube.com/results?search_query=S%E1%BB%B1+chuy%E1%BB%83n+giao+v%C6%B0%C6%A1ng+quy%E1%BB%81n+L%C3%BD+-+Tr%E1%BA%A7n+1225+Ti%E1%BA%BFn+%C4%90%E1%BB%A9c%2C+H%C6%B0ng+H%C3%A0%2C+Th%C3%A1i+B%C3%ACnh+Tr%E1%BA%A7n+Th%C3%A1i+T%C3%B4ng+L%C3%BD+Chi%C3%AAu+Ho%C3%A0ng+Tr%E1%BA%A7n+Th%E1%BB%A7+%C4%90%E1%BB%99+Nh%C3%A0+Tr%E1%BA%A7n+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1225
     },
     {
-      "id": "ThaiBinh_NGUYEN_01",
-      "year": 1828,
       "date": null,
-      "title": "Nguyễn Công Trứ lập huyện Tiền Hải",
       "description": "Dinh điền sứ Nguyễn Công Trứ chỉ huy cuộc khẩn hoang quy mô lớn, chiêu mộ dân chúng quai đê, lấn biển, biến những bãi bồi ven biển thành các làng xóm trù phú, chính thức thành lập huyện Tiền Hải (biển tiền tiêu).",
+      "id": "ThaiBinh_NGUYEN_01",
       "location": {
         "commune": null,
         "district": "Tiền Hải",
@@ -38,14 +45,23 @@
       "tags": [
         "Kinh tế",
         "Khai hoang"
-      ]
+      ],
+      "title": "Nguyễn Công Trứ lập huyện Tiền Hải",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Nguyễn Công Trứ lập huyện Tiền Hải 1828 Tiền Hải, Thái Bình Nguyễn Công Trứ Kinh tế Khai hoang lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Nguyễn Công Trứ lập huyện Tiền Hải",
+          "url": "https://www.youtube.com/results?search_query=Nguy%E1%BB%85n+C%C3%B4ng+Tr%E1%BB%A9+l%E1%BA%ADp+huy%E1%BB%87n+Ti%E1%BB%81n+H%E1%BA%A3i+1828+Ti%E1%BB%81n+H%E1%BA%A3i%2C+Th%C3%A1i+B%C3%ACnh+Nguy%E1%BB%85n+C%C3%B4ng+Tr%E1%BB%A9+Kinh+t%E1%BA%BF+Khai+hoang+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1828
     },
     {
-      "id": "ThaiBinh_REV_01",
-      "year": 1929,
       "date": "1929-06-01",
-      "title": "Thành lập Chi bộ Đảng đầu tiên",
       "description": "Tại nhà cụ Nguyễn Tông Quai (thôn Hệ, xã Thụy Ninh), Chi bộ Thanh niên Cách mạng Đồng chí Hội được chuyển thành Chi bộ Cộng sản. Đây là tổ chức Đảng đầu tiên của tỉnh Thái Bình, đánh dấu bước ngoặt trong phong trào cách mạng địa phương.",
+      "id": "ThaiBinh_REV_01",
       "location": {
         "commune": "Thụy Ninh",
         "district": "Thái Thụy",
@@ -57,14 +73,23 @@
       "tags": [
         "Thành lập Đảng",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Chi bộ Đảng đầu tiên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi bộ Đảng đầu tiên 1929 Thụy Ninh, Thái Thụy, Thái Bình Nguyễn Đức Cảnh Thành lập Đảng Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi bộ Đảng đầu tiên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+b%E1%BB%99+%C4%90%E1%BA%A3ng+%C4%91%E1%BA%A7u+ti%C3%AAn+1929+Th%E1%BB%A5y+Ninh%2C+Th%C3%A1i+Th%E1%BB%A5y%2C+Th%C3%A1i+B%C3%ACnh+Nguy%E1%BB%85n+%C4%90%E1%BB%A9c+C%E1%BA%A3nh+Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "ThaiBinh_REV_02",
-      "year": 1930,
       "date": "1930-10-14",
-      "title": "Tiếng trống Tiền Hải",
       "description": "Hưởng ứng phong trào Xô viết Nghệ Tĩnh, nông dân Tiền Hải dưới sự lãnh đạo của Đảng đã tổ chức biểu tình quy mô lớn tại ngã ba Thanh Nê, đánh trống, phất cờ búa liềm đòi giảm sưu thuế. Đây là cuộc đấu tranh chính trị mở đầu cho phong trào cách mạng 1930-1931 ở Bắc Kỳ.",
+      "id": "ThaiBinh_REV_02",
       "location": {
         "commune": "Thanh Nê",
         "district": "Kiến Xương",
@@ -74,14 +99,23 @@
       "tags": [
         "Xô viết Nghệ Tĩnh",
         "Nông dân"
-      ]
+      ],
+      "title": "Tiếng trống Tiền Hải",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tiếng trống Tiền Hải 1930 Thanh Nê, Kiến Xương, Thái Bình Xô viết Nghệ Tĩnh Nông dân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tiếng trống Tiền Hải",
+          "url": "https://www.youtube.com/results?search_query=Ti%E1%BA%BFng+tr%E1%BB%91ng+Ti%E1%BB%81n+H%E1%BA%A3i+1930+Thanh+N%C3%AA%2C+Ki%E1%BA%BFn+X%C6%B0%C6%A1ng%2C+Th%C3%A1i+B%C3%ACnh+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh+N%C3%B4ng+d%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
+      "date": "1945-08-19",
+      "description": "Ngày 19/8/1945, lực lượng cách mạng và quần chúng giành chính quyền tại tỉnh lỵ Thái Bình. Trong những ngày tiếp theo, chính quyền cách mạng được thiết lập trên phạm vi toàn tỉnh.",
       "id": "ThaiBinh_REV_03",
-      "year": 1945,
-      "date": "1945-08-25",
-      "title": "Giành chính quyền tại tỉnh lỵ Thái Bình",
-      "description": "Lực lượng Việt Minh cùng hàng ngàn quần chúng nhân dân từ các phủ, huyện kéo về thị xã Thái Bình, bao vây Dinh Tỉnh trưởng và Trại Bảo an binh. Chính quyền cách mạng lâm thời tỉnh Thái Bình chính thức ra mắt nhân dân.",
       "location": {
         "commune": "Lê Hồng Phong",
         "district": "Thành phố Thái Bình",
@@ -91,14 +125,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại tỉnh lỵ Thái Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại tỉnh lỵ Thái Bình 1945 Lê Hồng Phong, Thành phố Thái Bình, Thái Bình Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại tỉnh lỵ Thái Bình",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+Th%C3%A1i+B%C3%ACnh+1945+L%C3%AA+H%E1%BB%93ng+Phong%2C+Th%C3%A0nh+ph%E1%BB%91+Th%C3%A1i+B%C3%ACnh%2C+Th%C3%A1i+B%C3%ACnh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "ThaiBinh_FRENCH_WAR_01",
-      "year": 1950,
       "date": null,
-      "title": "Xây dựng Làng kháng chiến Nguyên Xá",
       "description": "Làng Nguyên Xá được xây dựng thành một pháo đài thép với hệ thống hầm hào, rào tre dày đặc. Tại đây, du kích địa phương đã bẻ gãy nhiều cuộc càn quét lớn của quân Pháp, được Hồ Chủ tịch tặng cờ 'Nguyên Xá - Làng kiểu mẫu'.",
+      "id": "ThaiBinh_FRENCH_WAR_01",
       "location": {
         "commune": "Nguyên Xá",
         "district": "Đông Hưng",
@@ -110,14 +153,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Du kích chiến"
-      ]
+      ],
+      "title": "Xây dựng Làng kháng chiến Nguyên Xá",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng Làng kháng chiến Nguyên Xá 1950 Nguyên Xá, Đông Hưng, Thái Bình Hồ Chí Minh Kháng chiến chống Pháp Du kích chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng Làng kháng chiến Nguyên Xá",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+L%C3%A0ng+kh%C3%A1ng+chi%E1%BA%BFn+Nguy%C3%AAn+X%C3%A1+1950+Nguy%C3%AAn+X%C3%A1%2C+%C4%90%C3%B4ng+H%C6%B0ng%2C+Th%C3%A1i+B%C3%ACnh+H%E1%BB%93+Ch%C3%AD+Minh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Du+k%C3%ADch+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1950
     },
     {
+      "date": null,
+      "description": "Trong năm 1952, quân dân Thái Bình tổ chức nhiều trận chống các cuộc hành quân càn quét của quân Pháp, bảo vệ cơ sở kháng chiến và vùng du kích. Không gán tên chiến dịch hay ngày cụ thể khi nguồn hiện có chưa đủ thống nhất.",
       "id": "ThaiBinh_FRENCH_WAR_02",
-      "year": 1952,
-      "date": "1952-01-01",
-      "title": "Trận chống càn Bưu - Mốc (Bihineau - Mercure)",
-      "description": "Quân và dân Thái Bình phối hợp với Đại đoàn 320 đã chặn đánh quyết liệt chiến dịch càn quét quy mô lớn (mang tên Thủy Ngân - Mercure) của quân Pháp vào vùng Tiên Hưng, Thái Ninh, bảo vệ vững chắc vùng tự do.",
       "location": {
         "commune": null,
         "district": "Thái Thụy",
@@ -127,14 +179,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Chống càn"
-      ]
+      ],
+      "title": "Chống các cuộc hành quân càn quét của Pháp tại Thái Bình năm 1952",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chống các cuộc hành quân càn quét của Pháp tại Thái Bình năm 1952 1952 Thái Thụy, Thái Bình Kháng chiến chống Pháp Chống càn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chống các cuộc hành quân càn quét của Pháp tại Thái Bình năm 1952",
+          "url": "https://www.youtube.com/results?search_query=Ch%E1%BB%91ng+c%C3%A1c+cu%E1%BB%99c+h%C3%A0nh+qu%C3%A2n+c%C3%A0n+qu%C3%A9t+c%E1%BB%A7a+Ph%C3%A1p+t%E1%BA%A1i+Th%C3%A1i+B%C3%ACnh+n%C4%83m+1952+1952+Th%C3%A1i+Th%E1%BB%A5y%2C+Th%C3%A1i+B%C3%ACnh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Ch%E1%BB%91ng+c%C3%A0n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1952
     },
     {
-      "id": "ThaiBinh_FRENCH_WAR_03",
-      "year": 1954,
       "date": "1954-06-30",
-      "title": "Giải phóng thị xã Thái Bình",
       "description": "Sau chiến thắng Điện Biên Phủ, quân Pháp buộc phải rút khỏi thị xã Thái Bình. Các đơn vị bộ đội chủ lực và địa phương tiến vào tiếp quản thị xã, chấm dứt hoàn toàn sự chiếm đóng của thực dân Pháp tại tỉnh.",
+      "id": "ThaiBinh_FRENCH_WAR_03",
       "location": {
         "commune": null,
         "district": "Thành phố Thái Bình",
@@ -144,14 +205,23 @@
       "tags": [
         "Giải phóng",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng thị xã Thái Bình",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng thị xã Thái Bình 1954 Thành phố Thái Bình, Thái Bình Giải phóng Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng thị xã Thái Bình",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+th%E1%BB%8B+x%C3%A3+Th%C3%A1i+B%C3%ACnh+1954+Th%C3%A0nh+ph%E1%BB%91+Th%C3%A1i+B%C3%ACnh%2C+Th%C3%A1i+B%C3%ACnh+Gi%E1%BA%A3i+ph%C3%B3ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "ThaiBinh_AGRI_01",
-      "year": 1966,
       "date": null,
-      "title": "Thái Bình đạt danh hiệu 'Quê hương 5 tấn'",
       "description": "Thái Bình trở thành tỉnh đầu tiên ở miền Bắc đạt năng suất lúa 5 tấn/ha/năm, lập kỷ lục về sản xuất lương thực, đóng góp to lớn cho tiền tuyến miền Nam với khẩu hiệu 'Thóc không thiếu một cân, quân không thiếu một người'.",
+      "id": "ThaiBinh_AGRI_01",
       "location": {
         "commune": null,
         "district": null,
@@ -161,14 +231,23 @@
       "tags": [
         "Kinh tế",
         "Nông nghiệp"
-      ]
+      ],
+      "title": "Thái Bình đạt danh hiệu 'Quê hương 5 tấn'",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thái Bình đạt danh hiệu 'Quê hương 5 tấn' 1966 Thái Bình Kinh tế Nông nghiệp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thái Bình đạt danh hiệu 'Quê hương 5 tấn'",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A1i+B%C3%ACnh+%C4%91%E1%BA%A1t+danh+hi%E1%BB%87u+%27Qu%C3%AA+h%C6%B0%C6%A1ng+5+t%E1%BA%A5n%27+1966+Th%C3%A1i+B%C3%ACnh+Kinh+t%E1%BA%BF+N%C3%B4ng+nghi%E1%BB%87p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
-      "id": "ThaiBinh_US_WAR_01",
-      "year": 1966,
       "date": "1966-12-31",
-      "title": "Bác Hồ về thăm Thái Bình lần cuối",
       "description": "Chủ tịch Hồ Chí Minh về thăm và chúc tết đồng bào Thái Bình tại xã Hiệp Hòa và đình Phương Cáp. Người động viên nhân dân phấn đấu đạt năng suất lúa cao hơn nữa và làm tốt công tác chi viện cho miền Nam.",
+      "id": "ThaiBinh_US_WAR_01",
       "location": {
         "commune": "Hiệp Hòa",
         "district": "Vũ Thư",
@@ -180,7 +259,24 @@
       "tags": [
         "Lãnh tụ",
         "Văn hóa"
-      ]
+      ],
+      "title": "Bác Hồ về thăm Thái Bình lần cuối",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Bác Hồ về thăm Thái Bình lần cuối 1966 Hiệp Hòa, Vũ Thư, Thái Bình Hồ Chí Minh Lãnh tụ Văn hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Bác Hồ về thăm Thái Bình lần cuối",
+          "url": "https://www.youtube.com/results?search_query=B%C3%A1c+H%E1%BB%93+v%E1%BB%81+th%C4%83m+Th%C3%A1i+B%C3%ACnh+l%E1%BA%A7n+cu%E1%BB%91i+1966+Hi%E1%BB%87p+H%C3%B2a%2C+V%C5%A9+Th%C6%B0%2C+Th%C3%A1i+B%C3%ACnh+H%E1%BB%93+Ch%C3%AD+Minh+L%C3%A3nh+t%E1%BB%A5+V%C4%83n+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/ThaiBinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/ThaiBinh_vi.json"
+  }
 }

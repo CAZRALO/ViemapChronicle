@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "QuangNinh_LY_01",
-      "year": 1149,
       "date": null,
-      "title": "Thành lập thương cảng Vân Đồn",
       "description": "Vua Lý Anh Tông ra chiếu thành lập trang Vân Đồn để làm nơi buôn bán, trao đổi hàng hóa với thương nhân nước ngoài. Đây là thương cảng quốc tế đầu tiên và sầm uất nhất của Việt Nam trong nhiều thế kỷ.",
+      "id": "QuangNinh_LY_01",
       "location": {
         "commune": "Quan Lạn",
         "district": "Vân Đồn",
@@ -17,14 +15,23 @@
       "tags": [
         "Kinh tế",
         "Thương cảng"
-      ]
+      ],
+      "title": "Thành lập thương cảng Vân Đồn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập thương cảng Vân Đồn 1149 Quan Lạn, Vân Đồn, Quảng Ninh Lý Anh Tông Kinh tế Thương cảng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập thương cảng Vân Đồn",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+th%C6%B0%C6%A1ng+c%E1%BA%A3ng+V%C3%A2n+%C4%90%E1%BB%93n+1149+Quan+L%E1%BA%A1n%2C+V%C3%A2n+%C4%90%E1%BB%93n%2C+Qu%E1%BA%A3ng+Ninh+L%C3%BD+Anh+T%C3%B4ng+Kinh+t%E1%BA%BF+Th%C6%B0%C6%A1ng+c%E1%BA%A3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1149
     },
     {
-      "id": "QuangNinh_TRAN_01",
-      "year": 1288,
       "date": "1288-04-09",
-      "title": "Chiến thắng Bạch Đằng",
       "description": "Hưng Đạo Đại Vương Trần Quốc Tuấn chỉ huy quân dân Đại Việt lợi dụng thủy triều và bãi cọc ngầm, tiêu diệt và bắt sống toàn bộ đạo quân thủy của Ô Mã Nhi trên sông Bạch Đằng, chấm dứt hoàn toàn mộng xâm lược của quân Nguyên Mông.",
+      "id": "QuangNinh_TRAN_01",
       "location": {
         "commune": "Yên Giang",
         "district": "Quảng Yên",
@@ -37,14 +44,23 @@
       "tags": [
         "Kháng chiến chống Nguyên Mông",
         "Thủy chiến"
-      ]
+      ],
+      "title": "Chiến thắng Bạch Đằng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng Bạch Đằng 1288 Yên Giang, Quảng Yên, Quảng Ninh Trần Hưng Đạo Ô Mã Nhi Kháng chiến chống Nguyên Mông Thủy chiến lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng Bạch Đằng",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+B%E1%BA%A1ch+%C4%90%E1%BA%B1ng+1288+Y%C3%AAn+Giang%2C+Qu%E1%BA%A3ng+Y%C3%AAn%2C+Qu%E1%BA%A3ng+Ninh+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o+%C3%94+M%C3%A3+Nhi+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Nguy%C3%AAn+M%C3%B4ng+Th%E1%BB%A7y+chi%E1%BA%BFn+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1288
     },
     {
-      "id": "QuangNinh_TRAN_02",
-      "year": 1299,
       "date": null,
-      "title": "Sơ tổ Trúc Lâm nhập sơn Yên Tử",
       "description": "Thượng hoàng Trần Nhân Tông từ bỏ ngai vàng, lên núi Yên Tử tu hành và sáng lập Thiền phái Trúc Lâm Yên Tử - dòng thiền mang đậm bản sắc văn hóa Việt Nam.",
+      "id": "QuangNinh_TRAN_02",
       "location": {
         "commune": "Thượng Yên Công",
         "district": "Uông Bí",
@@ -56,14 +72,23 @@
       "tags": [
         "Tôn giáo",
         "Văn hóa"
-      ]
+      ],
+      "title": "Sơ tổ Trúc Lâm nhập sơn Yên Tử",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Sơ tổ Trúc Lâm nhập sơn Yên Tử 1299 Thượng Yên Công, Uông Bí, Quảng Ninh Trần Nhân Tông Tôn giáo Văn hóa lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Sơ tổ Trúc Lâm nhập sơn Yên Tử",
+          "url": "https://www.youtube.com/results?search_query=S%C6%A1+t%E1%BB%95+Tr%C3%BAc+L%C3%A2m+nh%E1%BA%ADp+s%C6%A1n+Y%C3%AAn+T%E1%BB%AD+1299+Th%C6%B0%E1%BB%A3ng+Y%C3%AAn+C%C3%B4ng%2C+U%C3%B4ng+B%C3%AD%2C+Qu%E1%BA%A3ng+Ninh+Tr%E1%BA%A7n+Nh%C3%A2n+T%C3%B4ng+T%C3%B4n+gi%C3%A1o+V%C4%83n+h%C3%B3a+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1299
     },
     {
-      "id": "QuangNinh_COLONIAL_01",
-      "year": 1936,
       "date": "1936-11-12",
-      "title": "Cuộc tổng bãi công của thợ mỏ",
       "description": "Hơn 3 vạn thợ mỏ vùng Hòn Gai - Cẩm Phả đồng loạt bãi công đòi tăng lương, giảm giờ làm với khẩu hiệu 'Kỷ luật và Đồng tâm'. Cuộc bãi công thắng lợi rực rỡ, trở thành mốc son chói lọi trong lịch sử phong trào công nhân Việt Nam.",
+      "id": "QuangNinh_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Cẩm Phả",
@@ -75,14 +100,23 @@
       "tags": [
         "Phong trào công nhân",
         "Cách mạng"
-      ]
+      ],
+      "title": "Cuộc tổng bãi công của thợ mỏ",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Cuộc tổng bãi công của thợ mỏ 1936 Cẩm Phả, Quảng Ninh Ngô Huy Tăng Phong trào công nhân Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Cuộc tổng bãi công của thợ mỏ",
+          "url": "https://www.youtube.com/results?search_query=Cu%E1%BB%99c+t%E1%BB%95ng+b%C3%A3i+c%C3%B4ng+c%E1%BB%A7a+th%E1%BB%A3+m%E1%BB%8F+1936+C%E1%BA%A9m+Ph%E1%BA%A3%2C+Qu%E1%BA%A3ng+Ninh+Ng%C3%B4+Huy+T%C4%83ng+Phong+tr%C3%A0o+c%C3%B4ng+nh%C3%A2n+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1936
     },
     {
-      "id": "QuangNinh_REV_01",
-      "year": 1945,
       "date": "1945-06-08",
-      "title": "Thành lập Chiến khu Đông Triều (Chiến khu Trần Hưng Đạo)",
       "description": "Dưới sự chỉ huy của Nguyễn Bình, lực lượng nghĩa quân đã đánh chiếm đồn Đông Triều, tuyên bố thành lập Chiến khu Đông Triều. Đây là một trong những căn cứ địa quan trọng chuẩn bị cho Tổng khởi nghĩa tháng Tám ở vùng Duyên hải Bắc Bộ.",
+      "id": "QuangNinh_REV_01",
       "location": {
         "commune": null,
         "district": "Đông Triều",
@@ -94,14 +128,23 @@
       "tags": [
         "Tiền khởi nghĩa",
         "Quân sự"
-      ]
+      ],
+      "title": "Thành lập Chiến khu Đông Triều (Chiến khu Trần Hưng Đạo)",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chiến khu Đông Triều (Chiến khu Trần Hưng Đạo) 1945 Đông Triều, Quảng Ninh Nguyễn Bình Tiền khởi nghĩa Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chiến khu Đông Triều (Chiến khu Trần Hưng Đạo)",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi%E1%BA%BFn+khu+%C4%90%C3%B4ng+Tri%E1%BB%81u+%28Chi%E1%BA%BFn+khu+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o%29+1945+%C4%90%C3%B4ng+Tri%E1%BB%81u%2C+Qu%E1%BA%A3ng+Ninh+Nguy%E1%BB%85n+B%C3%ACnh+Ti%E1%BB%81n+kh%E1%BB%9Fi+ngh%C4%A9a+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": null,
+      "description": "Cuối tháng 7/1946, lực lượng vũ trang cách mạng tiến công lực lượng Quốc dân đảng tại khu vực Móng Cái, củng cố chính quyền cách mạng ở vùng biên giới Hải Ninh. Không gán ngày cụ thể khi nguồn hiện có chưa đủ thống nhất.",
       "id": "QuangNinh_REV_02",
-      "year": 1946,
-      "date": "1946-07-15",
-      "title": "Trận đánh chiếm lại Móng Cái",
-      "description": "Bộ đội Hải Ninh phối hợp với các lực lượng vũ trang địa phương tấn công quân phản động Quốc dân đảng, giải phóng thị xã Móng Cái, củng cố chính quyền cách mạng tại vùng biên giới.",
       "location": {
         "commune": null,
         "district": "Móng Cái",
@@ -111,14 +154,23 @@
       "tags": [
         "Bảo vệ chính quyền",
         "Biên giới"
-      ]
+      ],
+      "title": "Trận đánh chiếm lại Móng Cái",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận đánh chiếm lại Móng Cái 1946 Móng Cái, Quảng Ninh Bảo vệ chính quyền Biên giới lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận đánh chiếm lại Móng Cái",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%C3%A1nh+chi%E1%BA%BFm+l%E1%BA%A1i+M%C3%B3ng+C%C3%A1i+1946+M%C3%B3ng+C%C3%A1i%2C+Qu%E1%BA%A3ng+Ninh+B%E1%BA%A3o+v%E1%BB%87+ch%C3%ADnh+quy%E1%BB%81n+Bi%C3%AAn+gi%E1%BB%9Bi+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1946
     },
     {
-      "id": "QuangNinh_FRENCH_01",
-      "year": 1955,
       "date": "1955-04-25",
-      "title": "Tiếp quản khu mỏ Hồng Quảng",
       "description": "Tên lính Pháp cuối cùng rút khỏi bến phà Bãi Cháy. Bộ đội Việt Nam tiến vào tiếp quản vùng mỏ Hòn Gai, Cẩm Phả, giải phóng hoàn toàn khu mỏ sau những ngày đấu tranh bền bỉ trên mặt trận ngoại giao và quân sự.",
+      "id": "QuangNinh_FRENCH_01",
       "location": {
         "commune": "Hòn Gai",
         "district": "Hạ Long",
@@ -128,14 +180,23 @@
       "tags": [
         "Giải phóng",
         "Tiếp quản"
-      ]
+      ],
+      "title": "Tiếp quản khu mỏ Hồng Quảng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tiếp quản khu mỏ Hồng Quảng 1955 Hòn Gai, Hạ Long, Quảng Ninh Giải phóng Tiếp quản lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tiếp quản khu mỏ Hồng Quảng",
+          "url": "https://www.youtube.com/results?search_query=Ti%E1%BA%BFp+qu%E1%BA%A3n+khu+m%E1%BB%8F+H%E1%BB%93ng+Qu%E1%BA%A3ng+1955+H%C3%B2n+Gai%2C+H%E1%BA%A1+Long%2C+Qu%E1%BA%A3ng+Ninh+Gi%E1%BA%A3i+ph%C3%B3ng+Ti%E1%BA%BFp+qu%E1%BA%A3n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1955
     },
     {
-      "id": "QuangNinh_ADMIN_01",
-      "year": 1963,
       "date": "1963-10-30",
-      "title": "Thành lập tỉnh Quảng Ninh",
       "description": "Quốc hội nước Việt Nam Dân chủ Cộng hòa ra nghị quyết hợp nhất tỉnh Hải Ninh và khu Hồng Quảng thành tỉnh Quảng Ninh. Tên gọi Quảng Ninh do Bác Hồ gợi ý, ghép từ hai chữ 'Quảng' (rộng lớn) và 'Ninh' (yên vui).",
+      "id": "QuangNinh_ADMIN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -147,14 +208,23 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Thành lập tỉnh Quảng Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Quảng Ninh 1963 Quảng Ninh Hồ Chí Minh Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Quảng Ninh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+Qu%E1%BA%A3ng+Ninh+1963+Qu%E1%BA%A3ng+Ninh+H%E1%BB%93+Ch%C3%AD+Minh+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1963
     },
     {
-      "id": "QuangNinh_US_WAR_01",
-      "year": 1964,
       "date": "1964-08-05",
-      "title": "Chiến thắng trận đầu ngày 5/8",
       "description": "Hải quân và Phòng không nhân dân Việt Nam tại vùng biển Cửa Lục - Bãi Cháy đã dũng cảm đánh trả cuộc không kích của máy bay Mỹ (sự kiện Vịnh Bắc Bộ), bắn rơi và làm bị thương nhiều máy bay, bắt sống phi công Mỹ đầu tiên tại miền Bắc.",
+      "id": "QuangNinh_US_WAR_01",
       "location": {
         "commune": "Bãi Cháy",
         "district": "Hạ Long",
@@ -166,14 +236,23 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Hải quân"
-      ]
+      ],
+      "title": "Chiến thắng trận đầu ngày 5/8",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến thắng trận đầu ngày 5/8 1964 Bãi Cháy, Hạ Long, Quảng Ninh Everett Alvarez Jr. Kháng chiến chống Mỹ Hải quân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến thắng trận đầu ngày 5/8",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+th%E1%BA%AFng+tr%E1%BA%ADn+%C4%91%E1%BA%A7u+ng%C3%A0y+5%2F8+1964+B%C3%A3i+Ch%C3%A1y%2C+H%E1%BA%A1+Long%2C+Qu%E1%BA%A3ng+Ninh+Everett+Alvarez+Jr.+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+H%E1%BA%A3i+qu%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1964
     },
     {
-      "id": "QuangNinh_BORDER_WAR_01",
-      "year": 1979,
       "date": "1979-02-17",
-      "title": "Chiến đấu bảo vệ biên giới tại Pò Hèn",
       "description": "Cán bộ, chiến sĩ Đồn Công an nhân dân vũ trang 209 (nay là Đồn Biên phòng Pò Hèn) và nhân viên Lâm trường Hải Sơn đã chiến đấu anh dũng để chặn đứng đợt tấn công ồ ạt của quân đội Trung Quốc.",
+      "id": "QuangNinh_BORDER_WAR_01",
       "location": {
         "commune": "Hải Sơn",
         "district": "Móng Cái",
@@ -186,7 +265,24 @@
       "tags": [
         "Chiến tranh biên giới 1979",
         "Anh hùng"
-      ]
+      ],
+      "title": "Chiến đấu bảo vệ biên giới tại Pò Hèn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu bảo vệ biên giới tại Pò Hèn 1979 Hải Sơn, Móng Cái, Quảng Ninh Hoàng Thị Hồng Chiêm Đỗ Sĩ Họa Chiến tranh biên giới 1979 Anh hùng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu bảo vệ biên giới tại Pò Hèn",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+bi%C3%AAn+gi%E1%BB%9Bi+t%E1%BA%A1i+P%C3%B2+H%C3%A8n+1979+H%E1%BA%A3i+S%C6%A1n%2C+M%C3%B3ng+C%C3%A1i%2C+Qu%E1%BA%A3ng+Ninh+Ho%C3%A0ng+Th%E1%BB%8B+H%E1%BB%93ng+Chi%C3%AAm+%C4%90%E1%BB%97+S%C4%A9+H%E1%BB%8Da+Chi%E1%BA%BFn+tranh+bi%C3%AAn+gi%E1%BB%9Bi+1979+Anh+h%C3%B9ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1979
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/QuangNinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/QuangNinh_vi.json"
+  }
 }

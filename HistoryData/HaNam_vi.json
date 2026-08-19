@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "HaNam_EARLY_01",
-      "year": 987,
       "date": null,
-      "title": "Lễ Tịch điền Đọi Sơn",
       "description": "Vua Lê Đại Hành (Lê Hoàn) về chân núi Đọi làm lễ Tịch điền, trực tiếp xuống ruộng cày để khuyến khích nông trang. Đây là lễ hội Tịch điền đầu tiên trong lịch sử Việt Nam được sử sách ghi lại.",
+      "id": "HaNam_EARLY_01",
       "location": {
         "commune": "Tiên Sơn",
         "district": "Duy Tiên",
@@ -17,14 +15,23 @@
       "tags": [
         "Văn hóa",
         "Nông nghiệp"
-      ]
+      ],
+      "title": "Lễ Tịch điền Đọi Sơn",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lễ Tịch điền Đọi Sơn 987 Tiên Sơn, Duy Tiên, Hà Nam Lê Đại Hành Văn hóa Nông nghiệp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lễ Tịch điền Đọi Sơn",
+          "url": "https://www.youtube.com/results?search_query=L%E1%BB%85+T%E1%BB%8Bch+%C4%91i%E1%BB%81n+%C4%90%E1%BB%8Di+S%C6%A1n+987+Ti%C3%AAn+S%C6%A1n%2C+Duy+Ti%C3%AAn%2C+H%C3%A0+Nam+L%C3%AA+%C4%90%E1%BA%A1i+H%C3%A0nh+V%C4%83n+h%C3%B3a+N%C3%B4ng+nghi%E1%BB%87p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 987
     },
     {
-      "id": "HaNam_TRAN_01",
-      "year": 1285,
       "date": null,
-      "title": "Lập kho lương Trần Thương",
       "description": "Trong cuộc kháng chiến chống quân Nguyên Mông lần thứ hai, Hưng Đạo Vương Trần Quốc Tuấn đã chọn vùng đất Trần Thương để lập kho lương thực và căn cứ quân sự chiến lược phục vụ cho quân đội nhà Trần.",
+      "id": "HaNam_TRAN_01",
       "location": {
         "commune": "Trần Hưng Đạo",
         "district": "Lý Nhân",
@@ -36,14 +43,23 @@
       "tags": [
         "Kháng chiến chống Nguyên Mông",
         "Quân sự"
-      ]
+      ],
+      "title": "Lập kho lương Trần Thương",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lập kho lương Trần Thương 1285 Trần Hưng Đạo, Lý Nhân, Hà Nam Trần Hưng Đạo Kháng chiến chống Nguyên Mông Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lập kho lương Trần Thương",
+          "url": "https://www.youtube.com/results?search_query=L%E1%BA%ADp+kho+l%C6%B0%C6%A1ng+Tr%E1%BA%A7n+Th%C6%B0%C6%A1ng+1285+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o%2C+L%C3%BD+Nh%C3%A2n%2C+H%C3%A0+Nam+Tr%E1%BA%A7n+H%C6%B0ng+%C4%90%E1%BA%A1o+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Nguy%C3%AAn+M%C3%B4ng+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1285
     },
     {
-      "id": "HaNam_COLONIAL_01",
-      "year": 1890,
       "date": "1890-10-20",
-      "title": "Thành lập tỉnh Hà Nam",
       "description": "Toàn quyền Đông Dương ra Nghị định thành lập tỉnh Hà Nam trên cơ sở tách Phủ Lý Nhân của tỉnh Hà Nội và sáp nhập thêm một số vùng lân cận. Tỉnh lỵ đặt tại Phủ Lý.",
+      "id": "HaNam_COLONIAL_01",
       "location": {
         "commune": null,
         "district": "Phủ Lý",
@@ -53,33 +69,52 @@
       "tags": [
         "Hành chính",
         "Thành lập tỉnh"
-      ]
+      ],
+      "title": "Thành lập tỉnh Hà Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Hà Nam 1890 Phủ Lý, Hà Nam Hành chính Thành lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Hà Nam",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+Nam+1890+Ph%E1%BB%A7+L%C3%BD%2C+H%C3%A0+Nam+H%C3%A0nh+ch%C3%ADnh+Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1890
     },
     {
+      "date": null,
+      "description": "Tháng 9/1927, Kỳ bộ Hội Việt Nam Cách mạng Thanh niên Bắc Kỳ cử Trần Tử Yến về Hà Nam gây dựng cơ sở. Tại Lũng Xuyên, ông cùng Nguyễn Hữu Tiến và một thanh niên tiến bộ thành lập chi hội Việt Nam Cách mạng Thanh niên đầu tiên ở Hà Nam, đặt nền móng cho phong trào cách mạng có tổ chức tại địa phương.",
       "id": "HaNam_REV_01",
-      "year": 1927,
-      "date": "1927-10-01",
-      "title": "Đám tang cụ Lương Nghị Khanh",
-      "description": "Đám tang nhà yêu nước Lương Nghị Khanh tại làng Gừa (Liêm Thuận) trở thành cuộc biểu dương lực lượng lớn của quần chúng nhân dân và thanh niên yêu nước Hà Nam chống lại thực dân Pháp.",
       "location": {
-        "commune": "Liêm Thuận",
-        "district": "Thanh Liêm",
+        "commune": "Yên Bắc",
+        "district": "Duy Tiên",
         "province": "Hà Nam"
       },
       "related_figures": [
-        "Lương Nghị Khanh"
+        "Trần Tử Yến",
+        "Nguyễn Hữu Tiến"
       ],
       "tags": [
-        "Phong trào yêu nước",
-        "Chính trị"
-      ]
+        "Việt Nam Cách mạng Thanh niên",
+        "Cách mạng"
+      ],
+      "title": "Thành lập Chi hội Việt Nam Cách mạng Thanh niên tại Lũng Xuyên",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Chi hội Việt Nam Cách mạng Thanh niên tại Lũng Xuyên 1927 Yên Bắc, Duy Tiên, Hà Nam Trần Tử Yến Nguyễn Hữu Tiến Việt Nam Cách mạng Thanh niên Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Chi hội Việt Nam Cách mạng Thanh niên tại Lũng Xuyên",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+Chi+h%E1%BB%99i+Vi%E1%BB%87t+Nam+C%C3%A1ch+m%E1%BA%A1ng+Thanh+ni%C3%AAn+t%E1%BA%A1i+L%C5%A9ng+Xuy%C3%AAn+1927+Y%C3%AAn+B%E1%BA%AFc%2C+Duy+Ti%C3%AAn%2C+H%C3%A0+Nam+Tr%E1%BA%A7n+T%E1%BB%AD+Y%E1%BA%BFn+Nguy%E1%BB%85n+H%E1%BB%AFu+Ti%E1%BA%BFn+Vi%E1%BB%87t+Nam+C%C3%A1ch+m%E1%BA%A1ng+Thanh+ni%C3%AAn+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1927
     },
     {
-      "id": "HaNam_REV_02",
-      "year": 1930,
       "date": "1930-10-20",
-      "title": "Tiếng trống Bồ Đề",
       "description": "Hưởng ứng cao trào Xô viết Nghệ Tĩnh, nông dân xã Bồ Đề dưới sự lãnh đạo của Đảng đã nổi trống, tập hợp biểu tình đòi giảm sưu thuế. Tiếng trống Bồ Đề đã gây chấn động dư luận và làm rung chuyển bộ máy cai trị ở địa phương.",
+      "id": "HaNam_REV_02",
       "location": {
         "commune": "Bồ Đề",
         "district": "Bình Lục",
@@ -89,14 +124,23 @@
       "tags": [
         "Xô viết Nghệ Tĩnh",
         "Nông dân"
-      ]
+      ],
+      "title": "Tiếng trống Bồ Đề",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tiếng trống Bồ Đề 1930 Bồ Đề, Bình Lục, Hà Nam Xô viết Nghệ Tĩnh Nông dân lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tiếng trống Bồ Đề",
+          "url": "https://www.youtube.com/results?search_query=Ti%E1%BA%BFng+tr%E1%BB%91ng+B%E1%BB%93+%C4%90%E1%BB%81+1930+B%E1%BB%93+%C4%90%E1%BB%81%2C+B%C3%ACnh+L%E1%BB%A5c%2C+H%C3%A0+Nam+X%C3%B4+vi%E1%BA%BFt+Ngh%E1%BB%87+T%C4%A9nh+N%C3%B4ng+d%C3%A2n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1930
     },
     {
-      "id": "HaNam_REV_03",
-      "year": 1945,
       "date": "1945-08-24",
-      "title": "Giành chính quyền tại Phủ Lý",
       "description": "Lực lượng Việt Minh và quần chúng nhân dân từ các huyện Thanh Liêm, Kim Bảng, Bình Lục kéo về bao vây Dinh Tỉnh trưởng và Trại Bảo an binh tại Phủ Lý, giành chính quyền về tay nhân dân mà không đổ máu.",
+      "id": "HaNam_REV_03",
       "location": {
         "commune": null,
         "district": "Phủ Lý",
@@ -106,31 +150,49 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại Phủ Lý",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại Phủ Lý 1945 Phủ Lý, Hà Nam Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại Phủ Lý",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+Ph%E1%BB%A7+L%C3%BD+1945+Ph%E1%BB%A7+L%C3%BD%2C+H%C3%A0+Nam+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
+      "date": "1954-07-03",
+      "description": "Ngày 3/7/1954, tại xóm Buộm (Hoàng Tây, Kim Bảng), lực lượng vũ trang và nhân dân địa phương chiến đấu chống quân Pháp trong những giờ cuối trước khi chúng rút khỏi Hà Nam. Trận đánh góp phần bảo vệ vùng giải phóng và ghi dấu tinh thần kháng chiến của quân dân Kim Bảng.",
       "id": "HaNam_FRENCH_WAR_01",
-      "year": 1950,
-      "date": "1950-05-18",
-      "title": "Giải phóng chợ Bầu",
-      "description": "Bộ đội chủ lực phối hợp với dân quân du kích địa phương tấn công tiêu diệt đồn chợ Bầu, một vị trí quan trọng trong hệ thống phòng thủ của Pháp, mở rộng vùng tự do Lý Nhân.",
       "location": {
-        "commune": null,
-        "district": "Lý Nhân",
+        "commune": "Hoàng Tây",
+        "district": "Kim Bảng",
         "province": "Hà Nam"
       },
       "related_figures": [],
       "tags": [
         "Kháng chiến chống Pháp",
-        "Quân sự"
-      ]
+        "Kim Bảng"
+      ],
+      "title": "Trận chiến đấu xóm Buộm",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận chiến đấu xóm Buộm 1954 Hoàng Tây, Kim Bảng, Hà Nam Kháng chiến chống Pháp Kim Bảng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận chiến đấu xóm Buộm",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+chi%E1%BA%BFn+%C4%91%E1%BA%A5u+x%C3%B3m+Bu%E1%BB%99m+1954+Ho%C3%A0ng+T%C3%A2y%2C+Kim+B%E1%BA%A3ng%2C+H%C3%A0+Nam+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Kim+B%E1%BA%A3ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "HaNam_FRENCH_WAR_02",
-      "year": 1954,
       "date": "1954-07-03",
-      "title": "Giải phóng hoàn toàn tỉnh Hà Nam",
       "description": "Sau thất bại tại Điện Biên Phủ, quân Pháp rút chạy khỏi Phủ Lý và các huyện lỵ. Bộ đội ta tiến vào tiếp quản, tỉnh Hà Nam hoàn toàn sạch bóng quân thù.",
+      "id": "HaNam_FRENCH_WAR_02",
       "location": {
         "commune": null,
         "district": "Phủ Lý",
@@ -140,34 +202,53 @@
       "tags": [
         "Giải phóng",
         "Kháng chiến chống Pháp"
-      ]
+      ],
+      "title": "Giải phóng hoàn toàn tỉnh Hà Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng hoàn toàn tỉnh Hà Nam 1954 Phủ Lý, Hà Nam Giải phóng Kháng chiến chống Pháp lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng hoàn toàn tỉnh Hà Nam",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+ho%C3%A0n+to%C3%A0n+t%E1%BB%89nh+H%C3%A0+Nam+1954+Ph%E1%BB%A7+L%C3%BD%2C+H%C3%A0+Nam+Gi%E1%BA%A3i+ph%C3%B3ng+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
+      "date": null,
+      "description": "Trong các trận đánh bảo vệ cầu Phủ Lý và tuyến giao thông huyết mạch thời kỳ chống chiến tranh phá hoại, các nữ dân quân Lam Hạ đã trực tiếp phục vụ và chiến đấu tại trận địa pháo. Mười nữ dân quân Lam Hạ hy sinh trong nhiều trận bom khác nhau; riêng Nguyễn Thị Thu và Nguyễn Thị Thi hy sinh ngày 1/10/1966.",
       "id": "HaNam_US_WAR_01",
-      "year": 1966,
-      "date": "1966-10-01",
-      "title": "Trận địa pháo Lam Hạ (10 cô gái Lam Hạ)",
-      "description": "Trong cuộc chiến đấu bảo vệ cầu Phủ Lý và tuyến giao thông huyết mạch 1A, Trung đội nữ dân quân xã Lam Hạ đã chiến đấu dũng cảm với máy bay Mỹ. 10 nữ dân quân đã anh dũng hy sinh ngay trên mâm pháo.",
       "location": {
         "commune": "Lam Hạ",
-        "district": "Phủ Lý",
+        "district": "Thành phố Phủ Lý",
         "province": "Hà Nam"
       },
       "related_figures": [
-        "Nguyễn Thị Thi",
-        "Đinh Thị Tâm"
+        "Nguyễn Thị Thu",
+        "Nguyễn Thị Thi"
       ],
       "tags": [
         "Kháng chiến chống Mỹ",
-        "Anh hùng"
-      ]
+        "Dân quân",
+        "Lam Hạ"
+      ],
+      "title": "Trận địa pháo Lam Hạ và sự hy sinh của 10 nữ dân quân",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận địa pháo Lam Hạ và sự hy sinh của 10 nữ dân quân 1966 Lam Hạ, Thành phố Phủ Lý, Hà Nam Nguyễn Thị Thu Nguyễn Thị Thi Kháng chiến chống Mỹ Dân quân Lam Hạ lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận địa pháo Lam Hạ và sự hy sinh của 10 nữ dân quân",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+%C4%91%E1%BB%8Ba+ph%C3%A1o+Lam+H%E1%BA%A1+v%C3%A0+s%E1%BB%B1+hy+sinh+c%E1%BB%A7a+10+n%E1%BB%AF+d%C3%A2n+qu%C3%A2n+1966+Lam+H%E1%BA%A1%2C+Th%C3%A0nh+ph%E1%BB%91+Ph%E1%BB%A7+L%C3%BD%2C+H%C3%A0+Nam+Nguy%E1%BB%85n+Th%E1%BB%8B+Thu+Nguy%E1%BB%85n+Th%E1%BB%8B+Thi+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+D%C3%A2n+qu%C3%A2n+Lam+H%E1%BA%A1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1966
     },
     {
+      "date": "1997-01-01",
+      "description": "Ngày 6/11/1996, Quốc hội khóa IX thông qua nghị quyết chia tỉnh Nam Hà. Tỉnh Hà Nam tái lập chính thức đi vào hoạt động từ ngày 1/1/1997.",
       "id": "HaNam_ADMIN_01",
-      "year": 1996,
-      "date": "1996-11-06",
-      "title": "Tái lập tỉnh Hà Nam",
-      "description": "Quốc hội khóa IX thông qua Nghị quyết chia tách tỉnh Nam Hà thành hai tỉnh Hà Nam và Nam Định. Tỉnh Hà Nam được tái lập và chính thức đi vào hoạt động từ ngày 01/01/1997.",
       "location": {
         "commune": null,
         "district": null,
@@ -177,7 +258,24 @@
       "tags": [
         "Hành chính",
         "Tái lập tỉnh"
-      ]
+      ],
+      "title": "Tái lập tỉnh Hà Nam",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Tái lập tỉnh Hà Nam 1997 Hà Nam Hành chính Tái lập tỉnh lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Tái lập tỉnh Hà Nam",
+          "url": "https://www.youtube.com/results?search_query=T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+H%C3%A0+Nam+1997+H%C3%A0+Nam+H%C3%A0nh+ch%C3%ADnh+T%C3%A1i+l%E1%BA%ADp+t%E1%BB%89nh+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1997
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/HaNam.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/HaNam_vi.json"
+  }
 }

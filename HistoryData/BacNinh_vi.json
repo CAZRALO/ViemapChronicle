@@ -1,11 +1,9 @@
 {
   "events": [
     {
-      "id": "BacNinh_LY_01",
-      "year": 1009,
       "date": null,
-      "title": "Lý Công Uẩn lên ngôi",
       "description": "Lý Công Uẩn, người hương Cổ Pháp (nay thuộc Từ Sơn, Bắc Ninh), lên ngôi Hoàng đế, lấy hiệu là Lý Thái Tổ, sáng lập ra triều Lý, mở ra thời kỳ hưng thịnh lâu dài cho đất nước.",
+      "id": "BacNinh_LY_01",
       "location": {
         "commune": "Đình Bảng",
         "district": "Từ Sơn",
@@ -18,14 +16,23 @@
       "tags": [
         "Nhà Lý",
         "Chính trị"
-      ]
+      ],
+      "title": "Lý Công Uẩn lên ngôi",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Lý Công Uẩn lên ngôi 1009 Đình Bảng, Từ Sơn, Bắc Ninh Lý Thái Tổ Sư Vạn Hạnh Nhà Lý Chính trị lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Lý Công Uẩn lên ngôi",
+          "url": "https://www.youtube.com/results?search_query=L%C3%BD+C%C3%B4ng+U%E1%BA%A9n+l%C3%AAn+ng%C3%B4i+1009+%C4%90%C3%ACnh+B%E1%BA%A3ng%2C+T%E1%BB%AB+S%C6%A1n%2C+B%E1%BA%AFc+Ninh+L%C3%BD+Th%C3%A1i+T%E1%BB%95+S%C6%B0+V%E1%BA%A1n+H%E1%BA%A1nh+Nh%C3%A0+L%C3%BD+Ch%C3%ADnh+tr%E1%BB%8B+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1009
     },
     {
-      "id": "BacNinh_LY_02",
-      "year": 1057,
       "date": null,
-      "title": "Xây dựng chùa Phật Tích",
       "description": "Vua Lý Thánh Tông cho xây dựng chùa Phật Tích (Vạn Phúc tự) và tháp báu trên núi Lạn Kha. Đây là trung tâm văn hóa Phật giáo lớn của Đại Việt thời bấy giờ.",
+      "id": "BacNinh_LY_02",
       "location": {
         "commune": "Phật Tích",
         "district": "Tiên Du",
@@ -39,14 +46,23 @@
         "Phật giáo",
         "Văn hóa",
         "Kiến trúc"
-      ]
+      ],
+      "title": "Xây dựng chùa Phật Tích",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Xây dựng chùa Phật Tích 1057 Phật Tích, Tiên Du, Bắc Ninh Lý Thánh Tông Ỷ Lan Phật giáo Văn hóa Kiến trúc lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Xây dựng chùa Phật Tích",
+          "url": "https://www.youtube.com/results?search_query=X%C3%A2y+d%E1%BB%B1ng+ch%C3%B9a+Ph%E1%BA%ADt+T%C3%ADch+1057+Ph%E1%BA%ADt+T%C3%ADch%2C+Ti%C3%AAn+Du%2C+B%E1%BA%AFc+Ninh+L%C3%BD+Th%C3%A1nh+T%C3%B4ng+%E1%BB%B6+Lan+Ph%E1%BA%ADt+gi%C3%A1o+V%C4%83n+h%C3%B3a+Ki%E1%BA%BFn+tr%C3%BAc+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1057
     },
     {
-      "id": "BacNinh_LY_03",
-      "year": 1077,
       "date": null,
-      "title": "Trận chiến trên phòng tuyến sông Như Nguyệt",
       "description": "Thái úy Lý Thường Kiệt chỉ huy quân dân Đại Việt đánh bại quân xâm lược Tống trên bờ sông Như Nguyệt (sông Cầu). Tại đây, bài thơ 'Nam quốc sơn hà' đã vang lên như bản tuyên ngôn độc lập đầu tiên.",
+      "id": "BacNinh_LY_03",
       "location": {
         "commune": "Tam Giang",
         "district": "Yên Phong",
@@ -59,14 +75,23 @@
       "tags": [
         "Kháng chiến chống Tống",
         "Quân sự"
-      ]
+      ],
+      "title": "Trận chiến trên phòng tuyến sông Như Nguyệt",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận chiến trên phòng tuyến sông Như Nguyệt 1077 Tam Giang, Yên Phong, Bắc Ninh Lý Thường Kiệt Quách Quỳ Kháng chiến chống Tống Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận chiến trên phòng tuyến sông Như Nguyệt",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+chi%E1%BA%BFn+tr%C3%AAn+ph%C3%B2ng+tuy%E1%BA%BFn+s%C3%B4ng+Nh%C6%B0+Nguy%E1%BB%87t+1077+Tam+Giang%2C+Y%C3%AAn+Phong%2C+B%E1%BA%AFc+Ninh+L%C3%BD+Th%C6%B0%E1%BB%9Dng+Ki%E1%BB%87t+Qu%C3%A1ch+Qu%E1%BB%B3+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+T%E1%BB%91ng+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1077
     },
     {
-      "id": "BacNinh_NGUYEN_01",
-      "year": 1831,
       "date": null,
-      "title": "Thành lập tỉnh Bắc Ninh",
       "description": "Trong cuộc cải cách hành chính của vua Minh Mạng, trấn Kinh Bắc được đổi tên thành tỉnh Bắc Ninh. Đây là một trong 13 tỉnh được thành lập đầu tiên ở Bắc Kỳ.",
+      "id": "BacNinh_NGUYEN_01",
       "location": {
         "commune": null,
         "district": null,
@@ -78,14 +103,23 @@
       "tags": [
         "Hành chính",
         "Nhà Nguyễn"
-      ]
+      ],
+      "title": "Thành lập tỉnh Bắc Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập tỉnh Bắc Ninh 1831 Bắc Ninh Minh Mạng Hành chính Nhà Nguyễn lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập tỉnh Bắc Ninh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+t%E1%BB%89nh+B%E1%BA%AFc+Ninh+1831+B%E1%BA%AFc+Ninh+Minh+M%E1%BA%A1ng+H%C3%A0nh+ch%C3%ADnh+Nh%C3%A0+Nguy%E1%BB%85n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1831
     },
     {
-      "id": "BacNinh_COLONIAL_01",
-      "year": 1884,
       "date": "1884-03-12",
-      "title": "Pháp đánh chiếm thành Bắc Ninh",
       "description": "Quân Pháp do tướng Millot chỉ huy mở cuộc tấn công lớn vào thành Bắc Ninh. Quân nhà Nguyễn và quân Cờ Đen thất thủ, thành Bắc Ninh rơi vào tay thực dân Pháp.",
+      "id": "BacNinh_COLONIAL_01",
       "location": {
         "commune": "Vệ An",
         "district": "Bắc Ninh",
@@ -97,14 +131,23 @@
       "tags": [
         "Chống Pháp",
         "Quân sự"
-      ]
+      ],
+      "title": "Pháp đánh chiếm thành Bắc Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Pháp đánh chiếm thành Bắc Ninh 1884 Vệ An, Bắc Ninh, Bắc Ninh Millot Chống Pháp Quân sự lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Pháp đánh chiếm thành Bắc Ninh",
+          "url": "https://www.youtube.com/results?search_query=Ph%C3%A1p+%C4%91%C3%A1nh+chi%E1%BA%BFm+th%C3%A0nh+B%E1%BA%AFc+Ninh+1884+V%E1%BB%87+An%2C+B%E1%BA%AFc+Ninh%2C+B%E1%BA%AFc+Ninh+Millot+Ch%E1%BB%91ng+Ph%C3%A1p+Qu%C3%A2n+s%E1%BB%B1+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1884
     },
     {
-      "id": "BacNinh_REV_01",
-      "year": 1929,
       "date": "1929-07-01",
-      "title": "Thành lập Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh",
       "description": "Tại núi Hồng Vân (núi Lim), Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh - Bắc Giang được thành lập, đánh dấu bước phát triển quan trọng của phong trào cách mạng vùng Kinh Bắc.",
+      "id": "BacNinh_REV_01",
       "location": {
         "commune": "Vân Tương",
         "district": "Tiên Du",
@@ -117,14 +160,23 @@
       "tags": [
         "Đảng Cộng sản",
         "Cách mạng"
-      ]
+      ],
+      "title": "Thành lập Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Thành lập Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh 1929 Vân Tương, Tiên Du, Bắc Ninh Ngô Gia Tự Nguyễn Văn Cừ Đảng Cộng sản Cách mạng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Thành lập Đảng bộ Đông Dương Cộng sản Đảng Bắc Ninh",
+          "url": "https://www.youtube.com/results?search_query=Th%C3%A0nh+l%E1%BA%ADp+%C4%90%E1%BA%A3ng+b%E1%BB%99+%C4%90%C3%B4ng+D%C6%B0%C6%A1ng+C%E1%BB%99ng+s%E1%BA%A3n+%C4%90%E1%BA%A3ng+B%E1%BA%AFc+Ninh+1929+V%C3%A2n+T%C6%B0%C6%A1ng%2C+Ti%C3%AAn+Du%2C+B%E1%BA%AFc+Ninh+Ng%C3%B4+Gia+T%E1%BB%B1+Nguy%E1%BB%85n+V%C4%83n+C%E1%BB%AB+%C4%90%E1%BA%A3ng+C%E1%BB%99ng+s%E1%BA%A3n+C%C3%A1ch+m%E1%BA%A1ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1929
     },
     {
-      "id": "BacNinh_REV_02",
-      "year": 1945,
       "date": "1945-08-20",
-      "title": "Giành chính quyền tại tỉnh lỵ Bắc Ninh",
       "description": "Ủy ban Khởi nghĩa ra lệnh tiến công, quần chúng nhân dân từ các huyện đổ về thị xã Bắc Ninh, tước khí giới của lính Bảo an, chiếm Tòa Công sứ, giành chính quyền về tay nhân dân.",
+      "id": "BacNinh_REV_02",
       "location": {
         "commune": null,
         "district": "Bắc Ninh",
@@ -134,14 +186,23 @@
       "tags": [
         "Cách mạng tháng Tám",
         "Giành chính quyền"
-      ]
+      ],
+      "title": "Giành chính quyền tại tỉnh lỵ Bắc Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giành chính quyền tại tỉnh lỵ Bắc Ninh 1945 Bắc Ninh, Bắc Ninh Cách mạng tháng Tám Giành chính quyền lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giành chính quyền tại tỉnh lỵ Bắc Ninh",
+          "url": "https://www.youtube.com/results?search_query=Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+t%E1%BA%A1i+t%E1%BB%89nh+l%E1%BB%B5+B%E1%BA%AFc+Ninh+1945+B%E1%BA%AFc+Ninh%2C+B%E1%BA%AFc+Ninh+C%C3%A1ch+m%E1%BA%A1ng+th%C3%A1ng+T%C3%A1m+Gi%C3%A0nh+ch%C3%ADnh+quy%E1%BB%81n+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1945
     },
     {
-      "id": "BacNinh_FR_WAR_01",
-      "year": 1949,
       "date": "1949-04-01",
-      "title": "Trận chống càn tại Làng Đình Bảng",
       "description": "Du kích và nhân dân Đình Bảng đã kiên cường chiến đấu, sử dụng hệ thống hầm ngầm bí mật để chống lại các cuộc càn quét quy mô lớn của quân Pháp, bảo toàn lực lượng và gây thiệt hại cho địch.",
+      "id": "BacNinh_FR_WAR_01",
       "location": {
         "commune": "Đình Bảng",
         "district": "Từ Sơn",
@@ -151,14 +212,23 @@
       "tags": [
         "Kháng chiến chống Pháp",
         "Du kích"
-      ]
+      ],
+      "title": "Trận chống càn tại Làng Đình Bảng",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Trận chống càn tại Làng Đình Bảng 1949 Đình Bảng, Từ Sơn, Bắc Ninh Kháng chiến chống Pháp Du kích lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Trận chống càn tại Làng Đình Bảng",
+          "url": "https://www.youtube.com/results?search_query=Tr%E1%BA%ADn+ch%E1%BB%91ng+c%C3%A0n+t%E1%BA%A1i+L%C3%A0ng+%C4%90%C3%ACnh+B%E1%BA%A3ng+1949+%C4%90%C3%ACnh+B%E1%BA%A3ng%2C+T%E1%BB%AB+S%C6%A1n%2C+B%E1%BA%AFc+Ninh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+Ph%C3%A1p+Du+k%C3%ADch+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1949
     },
     {
-      "id": "BacNinh_FR_WAR_02",
-      "year": 1954,
       "date": "1954-08-08",
-      "title": "Giải phóng tỉnh Bắc Ninh",
       "description": "Sau thất bại tại Điện Biên Phủ và việc ký kết Hiệp định Genève, quân Pháp rút khỏi thị xã Bắc Ninh. Bộ đội chủ lực và nhân dân tiến vào tiếp quản, tỉnh Bắc Ninh hoàn toàn giải phóng.",
+      "id": "BacNinh_FR_WAR_02",
       "location": {
         "commune": null,
         "district": "Bắc Ninh",
@@ -168,14 +238,23 @@
       "tags": [
         "Giải phóng",
         "Chiến thắng"
-      ]
+      ],
+      "title": "Giải phóng tỉnh Bắc Ninh",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Giải phóng tỉnh Bắc Ninh 1954 Bắc Ninh, Bắc Ninh Giải phóng Chiến thắng lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Giải phóng tỉnh Bắc Ninh",
+          "url": "https://www.youtube.com/results?search_query=Gi%E1%BA%A3i+ph%C3%B3ng+t%E1%BB%89nh+B%E1%BA%AFc+Ninh+1954+B%E1%BA%AFc+Ninh%2C+B%E1%BA%AFc+Ninh+Gi%E1%BA%A3i+ph%C3%B3ng+Chi%E1%BA%BFn+th%E1%BA%AFng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1954
     },
     {
-      "id": "BacNinh_US_WAR_01",
-      "year": 1967,
       "date": null,
-      "title": "Chiến đấu bảo vệ cầu Đáp Cầu",
       "description": "Quân và dân Bắc Ninh phối hợp với bộ đội phòng không chiến đấu quyết liệt bảo vệ cầu Đáp Cầu (huyết mạch giao thông quan trọng) trước các đợt ném bom phá hoại của không quân Mỹ.",
+      "id": "BacNinh_US_WAR_01",
       "location": {
         "commune": "Đáp Cầu",
         "district": "Bắc Ninh",
@@ -185,24 +264,24 @@
       "tags": [
         "Kháng chiến chống Mỹ",
         "Phòng không"
-      ]
-    },
-    {
-      "id": "BacNinh_US_WAR_02",
-      "year": 1972,
-      "date": "1972-12-29",
-      "title": "Trận địa dân quân gái Hoa Lộc bắn rơi máy bay Mỹ",
-      "description": "Trong chiến dịch Điện Biên Phủ trên không, dân quân du kích các huyện Tiên Sơn, Yên Phong đã phối hợp bắn rơi máy bay Mỹ, góp phần vào chiến thắng chung của quân dân miền Bắc.",
-      "location": {
-        "commune": null,
-        "district": "Tiên Du",
-        "province": "Bắc Ninh"
-      },
-      "related_figures": [],
-      "tags": [
-        "Kháng chiến chống Mỹ",
-        "Dân quân tự vệ"
-      ]
+      ],
+      "title": "Chiến đấu bảo vệ cầu Đáp Cầu",
+      "videos": [
+        {
+          "is_search": true,
+          "provider": "youtube",
+          "query": "Chiến đấu bảo vệ cầu Đáp Cầu 1967 Đáp Cầu, Bắc Ninh, Bắc Ninh Kháng chiến chống Mỹ Phòng không lịch sử Việt Nam tư liệu",
+          "title": "Video giới thiệu về Chiến đấu bảo vệ cầu Đáp Cầu",
+          "url": "https://www.youtube.com/results?search_query=Chi%E1%BA%BFn+%C4%91%E1%BA%A5u+b%E1%BA%A3o+v%E1%BB%87+c%E1%BA%A7u+%C4%90%C3%A1p+C%E1%BA%A7u+1967+%C4%90%C3%A1p+C%E1%BA%A7u%2C+B%E1%BA%AFc+Ninh%2C+B%E1%BA%AFc+Ninh+Kh%C3%A1ng+chi%E1%BA%BFn+ch%E1%BB%91ng+M%E1%BB%B9+Ph%C3%B2ng+kh%C3%B4ng+l%E1%BB%8Bch+s%E1%BB%AD+Vi%E1%BB%87t+Nam+t%C6%B0+li%E1%BB%87u"
+        }
+      ],
+      "year": 1967
     }
-  ]
+  ],
+  "source": {
+    "confidence": "Đã rà soát và hiệu chỉnh; ưu tiên nguồn chính thống/cơ quan nhà nước. Trường hợp chưa đủ căn cứ cho ngày chính xác được ghi thận trọng bằng date=null.",
+    "label": "HistoryData/BacNinh.json",
+    "updated_at": "2026-08-18",
+    "url": "/api/history/BacNinh_vi.json"
+  }
 }
