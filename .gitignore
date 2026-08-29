@@ -16,6 +16,7 @@ update_to_province.py
 ~$*
 *.geojson
 *.md
+!README.md
 phienamtienganh.txt
 normalize_merge_data.py 
 *.csv
@@ -29,3 +30,4 @@ frontend/out/
 *.log
 visitor_stats.json
 script_gioi_thieu_viemap.txt
+*.pdf
